@@ -42,4 +42,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/posted.json
           git diff --cached --quiet || git commit -m "Atualiza ofertas publicadas"
+          git pull --rebase origin main
           git push

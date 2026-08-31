@@ -74,6 +74,10 @@ function money(value) {
   return new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL" }).format(Number(value || 0));
 }
 
+function offerNameKey(offer) {
+  return `name:${String(offer.productName || "").trim().toLocaleLowerCase("pt-BR")}`;
+}
+
 function offerText(offer) {
   const low = Number(offer.priceMin || offer.priceMax || 0);
   const high = Number(offer.priceMax || 0);
@@ -116,7 +120,7 @@ async function postOffer(config, offer) {
 function qualifies(offer, config, posted) {
   const key = String(offer.itemId);
   const commission = Number(offer.commissionRate || 0) * 100;
-  return key && offer.offerLink && !posted.has(key) && Number(offer.priceMin || offer.priceMax) > 0
+  return key && offer.offerLink && !posted.has(key) && !posted.has(offerNameKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
@@ -134,6 +138,7 @@ async function cycle(config) {
   for (const offer of unique.slice(0, config.postsPerCycle)) {
     await postOffer(config, offer);
     posted.add(String(offer.itemId));
+    posted.add(offerNameKey(offer));
     console.log(`Publicado: ${offer.productName}`);
     await new Promise((resolve) => setTimeout(resolve, 3_000));
   }
