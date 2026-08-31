@@ -1,0 +1,13 @@
+{
+  "name": "diegola-promocoes-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "once": "node src/index.mjs --once"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
