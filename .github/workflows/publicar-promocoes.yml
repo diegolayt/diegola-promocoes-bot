@@ -31,8 +31,8 @@ jobs:
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          KEYWORDS: camiseta masculina,camisa masculina,bermuda masculina,calça masculina,tênis masculino,relógio masculino,carteira masculina,boné masculino,perfume masculino,smartphone,notebook,fone bluetooth,headset,teclado gamer,mouse gamer,smartwatch,monitor,ssd
-          FOCUS_TERMS: masculino,perfume,fragrância,smartphone,celular,notebook,fone,headset,teclado,mouse,gamer,smartwatch,relógio,monitor,ssd,memória,caixa de som,bluetooth,console,carregador,power bank
+          KEYWORDS: camiseta masculina,camisa masculina,blusa masculina,bermuda masculina,calça masculina,tênis masculino,relógio masculino,carteira masculina,boné masculino,perfume masculino,smartphone,notebook,fone bluetooth,headset,teclado gamer,mouse gamer,caixa de som,smartwatch,monitor,ssd
+          FOCUS_TERMS: masculino,perfume,fragrância,smartphone,celular,notebook,fone,headset,teclado,mouse,gamer,smartwatch,relógio,monitor,ssd,memória,caixa de som,bluetooth,console,carregador,power bank,blusa
           MIN_DISCOUNT_PERCENT: "10"
           MIN_COMMISSION_PERCENT: "1"
           POSTS_PER_CYCLE: "1"
