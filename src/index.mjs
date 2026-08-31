@@ -84,6 +84,18 @@ function matchesFocus(offer, config) {
   return config.focusTerms.some((term) => name.includes(term));
 }
 
+function categoryKey(offer) {
+  const name = String(offer.productName || "").toLocaleLowerCase("pt-BR");
+  if (name.includes("relógio") || name.includes("relogio") || name.includes("watch")) return "category:relogio";
+  return null;
+}
+
+function hasRecentCategory(posted, category) {
+  if (!category) return false;
+  const limit = Date.now() - 24 * 60 * 60 * 1000;
+  return [...posted].some((value) => value.startsWith(`${category}:`) && Number(value.slice(category.length + 1)) >= limit);
+}
+
 function offerText(offer) {
   const low = Number(offer.priceMin || offer.priceMax || 0);
   const high = Number(offer.priceMax || 0);
@@ -126,7 +138,7 @@ async function postOffer(config, offer) {
 function qualifies(offer, config, posted) {
   const key = String(offer.itemId);
   const commission = Number(offer.commissionRate || 0) * 100;
-  return key && offer.offerLink && matchesFocus(offer, config) && !posted.has(key) && !posted.has(offerNameKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
+  return key && offer.offerLink && matchesFocus(offer, config) && !posted.has(key) && !posted.has(offerNameKey(offer)) && !hasRecentCategory(posted, categoryKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
@@ -145,6 +157,11 @@ async function cycle(config) {
     await postOffer(config, offer);
     posted.add(String(offer.itemId));
     posted.add(offerNameKey(offer));
+    const category = categoryKey(offer);
+    if (category) {
+      for (const value of posted) if (value.startsWith(`${category}:`)) posted.delete(value);
+      posted.add(`${category}:${Date.now()}`);
+    }
     console.log(`Publicado: ${offer.productName}`);
     await new Promise((resolve) => setTimeout(resolve, 3_000));
   }
