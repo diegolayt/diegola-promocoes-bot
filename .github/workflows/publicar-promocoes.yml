@@ -5,6 +5,12 @@ on:
     - cron: "*/15 * * * *"
   workflow_dispatch:
 
+# Impede duas execuções de escolherem e publicarem a mesma oferta antes que
+# o histórico data/posted.json seja salvo no repositório.
+concurrency:
+  group: publicar-promocoes
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
