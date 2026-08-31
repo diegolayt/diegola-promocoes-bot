@@ -85,8 +85,30 @@ function matchesFocus(offer, config) {
 }
 
 function categoryKey(offer) {
-  const name = String(offer.productName || "").toLocaleLowerCase("pt-BR");
-  if (name.includes("relógio") || name.includes("relogio") || name.includes("watch")) return "category:relogio";
+  const name = String(offer.productName || "").toLocaleLowerCase("pt-BR").normalize("NFD").replace(/\p{Diacritic}/gu, "");
+  const categories = [
+    ["mochila", ["mochila", "mochla", "backpack"]],
+    ["relogio", ["relogio", "watch"]],
+    ["perfume", ["perfume", "fragancia"]],
+    ["smartphone", ["smartphone", "celular"]],
+    ["notebook", ["notebook"]],
+    ["audio", ["fone", "headset", "caixa de som", "bluetooth"]],
+    ["gamer", ["teclado", "mouse", "gamer"]],
+    ["smartwatch", ["smartwatch"]],
+    ["monitor", ["monitor"]],
+    ["armazenamento", ["ssd", "memoria"]],
+    ["console", ["console"]],
+    ["energia", ["carregador", "power bank"]],
+    ["camiseta", ["camiseta"]],
+    ["camisa", ["camisa"]],
+    ["bermuda", ["bermuda"]],
+    ["calca", ["calca"]],
+    ["tenis", ["tenis"]],
+    ["bone", ["bone"]],
+    ["carteira", ["carteira"]],
+  ];
+  const found = categories.find(([, terms]) => terms.some((term) => name.includes(term)));
+  if (found) return `category:${found[0]}`;
   return null;
 }
 
