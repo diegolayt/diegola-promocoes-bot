@@ -27,6 +27,7 @@ async function loadConfig() {
     keywords: (config.KEYWORDS || "oferta").split(",").map((value) => value.trim()).filter(Boolean),
     minDiscount: Number(config.MIN_DISCOUNT_PERCENT || 0),
     minCommission: Number(config.MIN_COMMISSION_PERCENT || 0),
+    focusTerms: (config.FOCUS_TERMS || "masculino,smartphone,celular,notebook,fone,headset,teclado,mouse,gamer,smartwatch,relógio,monitor,ssd,memória,caixa de som,bluetooth,console,carregador,power bank").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
     postsPerCycle: Math.max(1, Number(config.POSTS_PER_CYCLE || 3)),
     pollMs: Math.max(60_000, Number(config.POLL_MINUTES || 45) * 60_000),
   };
@@ -78,6 +79,11 @@ function offerNameKey(offer) {
   return `name:${String(offer.productName || "").trim().toLocaleLowerCase("pt-BR")}`;
 }
 
+function matchesFocus(offer, config) {
+  const name = String(offer.productName || "").toLocaleLowerCase("pt-BR");
+  return config.focusTerms.some((term) => name.includes(term));
+}
+
 function offerText(offer) {
   const low = Number(offer.priceMin || offer.priceMax || 0);
   const high = Number(offer.priceMax || 0);
@@ -120,7 +126,7 @@ async function postOffer(config, offer) {
 function qualifies(offer, config, posted) {
   const key = String(offer.itemId);
   const commission = Number(offer.commissionRate || 0) * 100;
-  return key && offer.offerLink && !posted.has(key) && !posted.has(offerNameKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
+  return key && offer.offerLink && matchesFocus(offer, config) && !posted.has(key) && !posted.has(offerNameKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
