@@ -27,7 +27,7 @@ async function loadConfig() {
     keywords: (config.KEYWORDS || "oferta").split(",").map((value) => value.trim()).filter(Boolean),
     minDiscount: Number(config.MIN_DISCOUNT_PERCENT || 0),
     minCommission: Number(config.MIN_COMMISSION_PERCENT || 0),
-    focusTerms: (config.FOCUS_TERMS || "masculino,smartphone,celular,notebook,fone,headset,teclado,mouse,gamer,smartwatch,relógio,monitor,ssd,memória,caixa de som,bluetooth,console,carregador,power bank").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
+    focusTerms: (config.FOCUS_TERMS || "masculino,perfume,fragrância,smartphone,celular,notebook,fone,headset,teclado,mouse,gamer,smartwatch,relógio,monitor,ssd,memória,caixa de som,bluetooth,console,carregador,power bank").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
     postsPerCycle: Math.max(1, Number(config.POSTS_PER_CYCLE || 3)),
     pollMs: Math.max(60_000, Number(config.POLL_MINUTES || 45) * 60_000),
   };
