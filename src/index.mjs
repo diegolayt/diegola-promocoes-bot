@@ -17,7 +17,7 @@ function parseEnv(text) {
 
 async function loadConfig() {
   let file = "";
-  try { file = await readFile(envPath, "utf8"); } catch { throw new Error("Crie o arquivo .env a partir do .env.example antes de iniciar."); }
+  try { file = await readFile(envPath, "utf8"); } catch { /* Em hospedagens, as credenciais podem vir apenas das variáveis de ambiente. */ }
   const config = { ...parseEnv(file), ...Object.fromEntries(Object.entries(process.env).filter(([, value]) => value)) };
   for (const key of ["SHOPEE_APP_ID", "SHOPEE_SECRET", "TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID"]) {
     if (!config[key]) throw new Error(`Falta preencher ${key} no arquivo .env.`);
