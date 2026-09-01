@@ -101,6 +101,10 @@ function offerNameKey(offer) {
   return `name:${String(offer.productName || "").trim().toLocaleLowerCase("pt-BR")}`;
 }
 
+function offerLinkKey(offer) {
+  return `link:${createHash("sha256").update(String(offer.offerLink || "")).digest("hex")}`;
+}
+
 function matchesFocus(offer, config) {
   const name = String(offer.productName || "").toLocaleLowerCase("pt-BR");
   return config.focusTerms.some((term) => name.includes(term));
@@ -194,13 +198,14 @@ async function postOffer(config, offer) {
 function qualifies(offer, config, posted) {
   const key = String(offer.itemId);
   const commission = Number(offer.commissionRate || 0) * 100;
-  return key && offer.offerLink && matchesFocus(offer, config) && !posted.has(key) && !posted.has(offerNameKey(offer)) && !hasRecentCategory(posted, categoryKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
+  return key && offer.offerLink && matchesFocus(offer, config) && !posted.has(key) && !posted.has(offerNameKey(offer)) && !posted.has(offerLinkKey(offer)) && !hasRecentCategory(posted, categoryKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
 function rememberOffer(posted, offer) {
   posted.add(String(offer.itemId));
   posted.add(offerNameKey(offer));
+  posted.add(offerLinkKey(offer));
   const category = categoryKey(offer);
   if (category) {
     for (const value of posted) if (value.startsWith(`${category}:`)) posted.delete(value);
