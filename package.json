@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.mjs",
-    "once": "node src/index.mjs --once"
+    "once": "node src/index.mjs --once",
+    "reserve": "node src/index.mjs --reserve",
+    "publish-reserved": "node src/index.mjs --publish-reserved"
   },
   "engines": {
     "node": ">=20"

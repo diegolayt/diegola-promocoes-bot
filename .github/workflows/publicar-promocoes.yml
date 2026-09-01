@@ -29,8 +29,8 @@ jobs:
         with:
           node-version: 24
 
-      - name: Buscar e publicar uma oferta
-        run: npm run once
+      - name: Reservar uma oferta antes da publicação
+        run: npm run reserve
         env:
           SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
           SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
@@ -42,7 +42,7 @@ jobs:
           MIN_COMMISSION_PERCENT: "1"
           POSTS_PER_CYCLE: "1"
 
-      - name: Salvar controle de ofertas já publicadas
+      - name: Salvar reserva antes de enviar ao Telegram
         run: |
           git config user.name "Diegola Promoções Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -58,6 +58,28 @@ jobs:
             try { remote = JSON.parse(execFileSync("git", ["show", "origin/main:data/posted.json"], { encoding: "utf8" })); } catch {}
             await writeFile("data/posted.json", JSON.stringify([...new Set([...remote, ...local])].slice(-2000), null, 2) + "\\n");
           '
-          git add data/posted.json
-          git diff --cached --quiet || git commit -m "Atualiza ofertas publicadas"
-          git push origin HEAD:main
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -m "Reserva oferta para publicação"
+            git push origin HEAD:main
+          fi
+
+      - name: Publicar a oferta reservada
+        run: npm run publish-reserved
+        env:
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Confirmar publicação sem reabrir a reserva
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset origin/main
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -m "Confirma publicação da oferta"
+            git push origin HEAD:main
+          fi

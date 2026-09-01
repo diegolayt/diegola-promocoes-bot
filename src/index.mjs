@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, unlink, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -7,6 +7,7 @@ const here = dirname(fileURLToPath(import.meta.url));
 const root = join(here, "..");
 const envPath = join(root, ".env");
 const statePath = join(root, "data", "posted.json");
+const pendingPath = join(root, "data", "pending.json");
 
 function parseEnv(text) {
   return Object.fromEntries(
@@ -69,6 +70,19 @@ async function getPosted() {
 async function savePosted(posted) {
   await mkdir(dirname(statePath), { recursive: true });
   await writeFile(statePath, JSON.stringify([...posted].slice(-2000), null, 2));
+}
+
+async function getPending() {
+  try { return JSON.parse(await readFile(pendingPath, "utf8")); } catch { return null; }
+}
+
+async function savePending(reservation) {
+  await mkdir(dirname(pendingPath), { recursive: true });
+  await writeFile(pendingPath, JSON.stringify(reservation, null, 2));
+}
+
+async function clearPending() {
+  try { await unlink(pendingPath); } catch (error) { if (error.code !== "ENOENT") throw error; }
 }
 
 function money(value) {
@@ -176,8 +190,17 @@ function qualifies(offer, config, posted) {
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
-async function cycle(config) {
-  const posted = await getPosted();
+function rememberOffer(posted, offer) {
+  posted.add(String(offer.itemId));
+  posted.add(offerNameKey(offer));
+  const category = categoryKey(offer);
+  if (category) {
+    for (const value of posted) if (value.startsWith(`${category}:`)) posted.delete(value);
+    posted.add(`${category}:${Date.now()}`);
+  }
+}
+
+async function selectOffer(config, posted) {
   const candidates = [];
   for (const keyword of config.keywords) {
     const offers = await getShopeeOffers(config, keyword);
@@ -187,25 +210,52 @@ async function cycle(config) {
   const unique = [...new Map(candidates.map((offer) => [String(offer.itemId), offer])).values()]
     .filter((offer) => qualifies(offer, config, posted))
     .sort((a, b) => Number(b.priceDiscountRate || 0) - Number(a.priceDiscountRate || 0));
-  for (const offer of unique.slice(0, config.postsPerCycle)) {
-    await postOffer(config, offer);
-    posted.add(String(offer.itemId));
-    posted.add(offerNameKey(offer));
-    const category = categoryKey(offer);
-    if (category) {
-      for (const value of posted) if (value.startsWith(`${category}:`)) posted.delete(value);
-      posted.add(`${category}:${Date.now()}`);
-    }
-    console.log(`Publicado: ${offer.productName}`);
-    await new Promise((resolve) => setTimeout(resolve, 3_000));
+  return unique[0] || null;
+}
+
+async function reserveOffer(config) {
+  const pending = await getPending();
+  if (pending) throw new Error("Há uma oferta reservada sem confirmação. Publicação bloqueada para evitar repetição.");
+  const posted = await getPosted();
+  const offer = await selectOffer(config, posted);
+  if (!offer) {
+    console.log("Nenhuma oferta nova aprovada.");
+    return false;
   }
+  // A reserva é salva e sincronizada antes de chamar o Telegram.
+  // Se qualquer etapa posterior falhar, a oferta continua bloqueada.
+  rememberOffer(posted, offer);
   await savePosted(posted);
-  console.log(`${Math.min(unique.length, config.postsPerCycle)} oferta(s) publicada(s).`);
+  await savePending({ offer, reservedAt: new Date().toISOString() });
+  console.log(`Reservado: ${offer.productName}`);
+  return true;
+}
+
+async function publishReservedOffer(config) {
+  const pending = await getPending();
+  if (!pending?.offer) {
+    console.log("Nenhuma oferta reservada para publicar.");
+    return false;
+  }
+  await postOffer(config, pending.offer);
+  await clearPending();
+  console.log(`Publicado: ${pending.offer.productName}`);
+  return true;
+}
+
+async function cycle(config) {
+  if (await reserveOffer(config)) await publishReservedOffer(config);
 }
 
 const config = await loadConfig();
-await cycle(config);
-if (!process.argv.includes("--once")) {
+if (process.argv.includes("--reserve")) {
+  await reserveOffer(config);
+} else if (process.argv.includes("--publish-reserved")) {
+  await publishReservedOffer(config);
+} else {
+  await cycle(config);
+}
+if (!process.argv.includes("--once") && !process.argv.includes("--reserve") && !process.argv.includes("--publish-reserved")) {
   console.log(`Aguardando ${config.pollMs / 60_000} minutos entre ciclos.`);
   setInterval(() => cycle(config).catch((error) => console.error(error.message)), config.pollMs);
 }
