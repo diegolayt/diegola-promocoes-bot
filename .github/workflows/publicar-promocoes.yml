@@ -1,6 +1,8 @@
 name: Publicar promoções
 
 on:
+  schedule:
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 # Impede duas execuções de escolherem e publicarem a mesma oferta antes que
