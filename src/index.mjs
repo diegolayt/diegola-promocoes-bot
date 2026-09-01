@@ -9,6 +9,7 @@ const envPath = join(root, ".env");
 const statePath = join(root, "data", "posted.json");
 const backupStatePath = join(root, "data", "posted.backup.json");
 const pendingPath = join(root, "data", "pending.json");
+const BLOCK_MS = 24 * 60 * 60 * 1000;
 
 function parseEnv(text) {
   return Object.fromEntries(
@@ -65,10 +66,10 @@ async function getShopeeOffers(config, keyword) {
 }
 
 async function getPosted() {
-  try { return new Set(JSON.parse(await readFile(statePath, "utf8"))); }
+  try { return migrateLegacyPosted(new Set(JSON.parse(await readFile(statePath, "utf8")))); }
   catch (error) {
     try {
-      const backup = new Set(JSON.parse(await readFile(backupStatePath, "utf8")));
+      const backup = migrateLegacyPosted(new Set(JSON.parse(await readFile(backupStatePath, "utf8"))));
       console.warn(`Histórico principal recuperado pela cópia de segurança: ${error.message}`);
       return backup;
     } catch (backupError) {
@@ -80,8 +81,40 @@ async function getPosted() {
 
 async function savePosted(posted) {
   await mkdir(dirname(statePath), { recursive: true });
-  const contents = JSON.stringify([...posted], null, 2);
+  const contents = JSON.stringify([...compactPosted(posted)], null, 2);
   await Promise.all([writeFile(statePath, contents), writeFile(backupStatePath, contents)]);
+}
+
+function fingerprint(value) {
+  return createHash("sha256").update(String(value)).digest("hex");
+}
+
+function seenKey(value, timestamp = Date.now()) {
+  return `seen:${fingerprint(value)}:${timestamp}`;
+}
+
+function hasRecentValue(posted, value) {
+  const prefix = `seen:${fingerprint(value)}:`;
+  const limit = Date.now() - BLOCK_MS;
+  return [...posted].some((entry) => entry.startsWith(prefix) && Number(entry.slice(prefix.length)) >= limit);
+}
+
+function migrateLegacyPosted(posted) {
+  const now = Date.now();
+  const migrated = new Set();
+  for (const value of posted) {
+    if (value.startsWith("seen:") || value.startsWith("category:")) migrated.add(value);
+    else migrated.add(seenKey(value, now));
+  }
+  return migrated;
+}
+
+function compactPosted(posted) {
+  const limit = Date.now() - BLOCK_MS;
+  return new Set([...posted].filter((entry) => {
+    if (entry.startsWith("seen:") || entry.startsWith("category:")) return Number(entry.slice(entry.lastIndexOf(":") + 1)) >= limit;
+    return false;
+  }));
 }
 
 async function getPending() {
@@ -160,7 +193,7 @@ function categoryKey(offer) {
 
 function hasRecentCategory(posted, category) {
   if (!category) return false;
-  const limit = Date.now() - 24 * 60 * 60 * 1000;
+  const limit = Date.now() - BLOCK_MS;
   const legacyCategories = {
     "category:fone": ["category:audio"],
     "category:headset": ["category:audio"],
@@ -214,16 +247,16 @@ function qualifies(offer, config, posted) {
   const key = String(offer.itemId);
   const commission = Number(offer.commissionRate || 0) * 100;
   const imageKey = offerImageKey(offer);
-  return key && offer.offerLink && matchesFocus(offer, config) && !posted.has(key) && !posted.has(offerNameKey(offer)) && !posted.has(offerLinkKey(offer)) && (!imageKey || !posted.has(imageKey)) && !hasRecentCategory(posted, categoryKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
+  return key && offer.offerLink && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && !hasRecentCategory(posted, categoryKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
 function rememberOffer(posted, offer) {
-  posted.add(String(offer.itemId));
-  posted.add(offerNameKey(offer));
-  posted.add(offerLinkKey(offer));
+  posted.add(seenKey(String(offer.itemId)));
+  posted.add(seenKey(offerNameKey(offer)));
+  posted.add(seenKey(offerLinkKey(offer)));
   const imageKey = offerImageKey(offer);
-  if (imageKey) posted.add(imageKey);
+  if (imageKey) posted.add(seenKey(imageKey));
   const category = categoryKey(offer);
   if (category) {
     for (const value of posted) if (value.startsWith(`${category}:`)) posted.delete(value);
