@@ -64,16 +64,24 @@ async function getShopeeOffers(config, keyword) {
 }
 
 async function getPosted() {
-  try { return new Set(JSON.parse(await readFile(statePath, "utf8"))); } catch { return new Set(); }
+  try { return new Set(JSON.parse(await readFile(statePath, "utf8"))); }
+  catch (error) {
+    if (error.code === "ENOENT") return new Set();
+    throw new Error(`Histórico de ofertas indisponível; publicação bloqueada: ${error.message}`);
+  }
 }
 
 async function savePosted(posted) {
   await mkdir(dirname(statePath), { recursive: true });
-  await writeFile(statePath, JSON.stringify([...posted].slice(-2000), null, 2));
+  await writeFile(statePath, JSON.stringify([...posted], null, 2));
 }
 
 async function getPending() {
-  try { return JSON.parse(await readFile(pendingPath, "utf8")); } catch { return null; }
+  try { return JSON.parse(await readFile(pendingPath, "utf8")); }
+  catch (error) {
+    if (error.code === "ENOENT") return null;
+    throw new Error(`Reserva de oferta indisponível; publicação bloqueada: ${error.message}`);
+  }
 }
 
 async function savePending(reservation) {
