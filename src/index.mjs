@@ -120,7 +120,14 @@ function categoryKey(offer) {
 function hasRecentCategory(posted, category) {
   if (!category) return false;
   const limit = Date.now() - 24 * 60 * 60 * 1000;
-  return [...posted].some((value) => value.startsWith(`${category}:`) && Number(value.slice(category.length + 1)) >= limit);
+  const legacyCategories = {
+    "category:fone": ["category:audio"],
+    "category:headset": ["category:audio"],
+    "category:caixa_som": ["category:audio"],
+    "category:smartwatch": ["category:relogio"],
+  };
+  const categories = [category, ...(legacyCategories[category] || [])];
+  return [...posted].some((value) => categories.some((item) => value.startsWith(`${item}:`) && Number(value.slice(item.length + 1)) >= limit));
 }
 
 function offerText(offer) {
