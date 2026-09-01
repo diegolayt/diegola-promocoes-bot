@@ -56,7 +56,8 @@ jobs:
             const local = JSON.parse(await readFile("data/posted.json", "utf8"));
             let remote = [];
             try { remote = JSON.parse(execFileSync("git", ["show", "origin/main:data/posted.json"], { encoding: "utf8" })); } catch {}
-            await writeFile("data/posted.json", JSON.stringify([...new Set([...remote, ...local])], null, 2) + "\n");
+            const contents = JSON.stringify([...new Set([...remote, ...local])], null, 2) + "\n";
+            await Promise.all([writeFile("data/posted.json", contents), writeFile("data/posted.backup.json", contents)]);
           '
           git add -A data
           if ! git diff --cached --quiet; then

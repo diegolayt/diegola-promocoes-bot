@@ -7,6 +7,7 @@ const here = dirname(fileURLToPath(import.meta.url));
 const root = join(here, "..");
 const envPath = join(root, ".env");
 const statePath = join(root, "data", "posted.json");
+const backupStatePath = join(root, "data", "posted.backup.json");
 const pendingPath = join(root, "data", "pending.json");
 
 function parseEnv(text) {
@@ -66,14 +67,21 @@ async function getShopeeOffers(config, keyword) {
 async function getPosted() {
   try { return new Set(JSON.parse(await readFile(statePath, "utf8"))); }
   catch (error) {
-    if (error.code === "ENOENT") return new Set();
-    throw new Error(`Histórico de ofertas indisponível; publicação bloqueada: ${error.message}`);
+    try {
+      const backup = new Set(JSON.parse(await readFile(backupStatePath, "utf8")));
+      console.warn(`Histórico principal recuperado pela cópia de segurança: ${error.message}`);
+      return backup;
+    } catch (backupError) {
+      if (error.code === "ENOENT" && backupError.code === "ENOENT") return new Set();
+      throw new Error(`Histórico e cópia de segurança indisponíveis; publicação bloqueada: ${error.message}`);
+    }
   }
 }
 
 async function savePosted(posted) {
   await mkdir(dirname(statePath), { recursive: true });
-  await writeFile(statePath, JSON.stringify([...posted], null, 2));
+  const contents = JSON.stringify([...posted], null, 2);
+  await Promise.all([writeFile(statePath, contents), writeFile(backupStatePath, contents)]);
 }
 
 async function getPending() {
