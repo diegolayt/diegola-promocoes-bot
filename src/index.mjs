@@ -10,6 +10,9 @@ const statePath = join(root, "data", "posted.json");
 const backupStatePath = join(root, "data", "posted.backup.json");
 const pendingPath = join(root, "data", "pending.json");
 const BLOCK_MS = 24 * 60 * 60 * 1000;
+// Um produto idêntico fica bloqueado por 24h. A categoria usa uma janela menor
+// para manter a sequência variada sem esgotar as opções disponíveis no dia.
+const CATEGORY_COOLDOWN_MS = 6 * 60 * 60 * 1000;
 
 function parseEnv(text) {
   return Object.fromEntries(
@@ -30,7 +33,8 @@ async function loadConfig() {
     keywords: (config.KEYWORDS || "oferta").split(",").map((value) => value.trim()).filter(Boolean),
     minDiscount: Number(config.MIN_DISCOUNT_PERCENT || 0),
     minCommission: Number(config.MIN_COMMISSION_PERCENT || 0),
-    focusTerms: (config.FOCUS_TERMS || "masculino,perfume,fragrância,smartphone,celular,notebook,fone,headset,teclado,mouse,gamer,smartwatch,relógio,monitor,ssd,memória,caixa de som,bluetooth,console,carregador,power bank,blusa").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
+    focusTerms: (config.FOCUS_TERMS || "masculino,perfume,fragrância,smartphone,celular,notebook,fone,headset,teclado,mouse,smartwatch,relógio,monitor,ssd,memória,cartão de memória,caixa de som,bluetooth,console,carregador,power bank,blusa,camisa,camiseta,moletom,casaco,bermuda,calça,tênis,boné,carteira").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
+    excludedTerms: (config.EXCLUDED_TERMS || "mesa,boia,brinquedo,infantil,bebê,bebe,papelaria").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
     postsPerCycle: Math.max(1, Number(config.POSTS_PER_CYCLE || 3)),
     pollMs: Math.max(60_000, Number(config.POLL_MINUTES || 45) * 60_000),
   };
@@ -155,7 +159,8 @@ function offerImageKey(offer) {
 
 function matchesFocus(offer, config) {
   const name = String(offer.productName || "").toLocaleLowerCase("pt-BR");
-  return config.focusTerms.some((term) => name.includes(term));
+  return config.focusTerms.some((term) => name.includes(term))
+    && !config.excludedTerms.some((term) => name.includes(term));
 }
 
 function categoryKey(offer) {
@@ -174,11 +179,13 @@ function categoryKey(offer) {
     ["mouse", ["mouse"]],
     ["gamer", ["gamer"]],
     ["monitor", ["monitor"]],
-    ["armazenamento", ["ssd", "memoria"]],
+    ["armazenamento", ["ssd", "memoria", "cartao de memoria"]],
     ["console", ["console"]],
     ["energia", ["carregador", "power bank"]],
     ["camiseta", ["camiseta"]],
     ["camisa", ["camisa"]],
+    ["moletom", ["moletom"]],
+    ["casaco", ["casaco", "jaqueta"]],
     ["blusa", ["blusa"]],
     ["bermuda", ["bermuda"]],
     ["calca", ["calca"]],
@@ -193,7 +200,7 @@ function categoryKey(offer) {
 
 function hasRecentCategory(posted, category) {
   if (!category) return false;
-  const limit = Date.now() - BLOCK_MS;
+  const limit = Date.now() - CATEGORY_COOLDOWN_MS;
   const legacyCategories = {
     "category:fone": ["category:audio"],
     "category:headset": ["category:audio"],
@@ -202,6 +209,21 @@ function hasRecentCategory(posted, category) {
   };
   const categories = [category, ...(legacyCategories[category] || [])];
   return [...posted].some((value) => categories.some((item) => value.startsWith(`${item}:`) && Number(value.slice(item.length + 1)) >= limit));
+}
+
+function categoryLastPublishedAt(posted, category) {
+  if (!category) return 0;
+  const legacyCategories = {
+    "category:fone": ["category:audio"],
+    "category:headset": ["category:audio"],
+    "category:caixa_som": ["category:audio"],
+    "category:smartwatch": ["category:relogio"],
+  };
+  const categories = [category, ...(legacyCategories[category] || [])];
+  return [...posted].reduce((latest, value) => {
+    const matched = categories.find((item) => value.startsWith(`${item}:`));
+    return matched ? Math.max(latest, Number(value.slice(matched.length + 1)) || 0) : latest;
+  }, 0);
 }
 
 function offerText(offer) {
@@ -247,7 +269,8 @@ function qualifies(offer, config, posted) {
   const key = String(offer.itemId);
   const commission = Number(offer.commissionRate || 0) * 100;
   const imageKey = offerImageKey(offer);
-  return key && offer.offerLink && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && !hasRecentCategory(posted, categoryKey(offer)) && Number(offer.priceMin || offer.priceMax) > 0
+  const category = categoryKey(offer);
+  return key && offer.offerLink && category && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && !hasRecentCategory(posted, category) && Number(offer.priceMin || offer.priceMax) > 0
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
@@ -273,7 +296,13 @@ async function selectOffer(config, posted) {
   }
   const unique = [...new Map(candidates.map((offer) => [String(offer.itemId), offer])).values()]
     .filter((offer) => qualifies(offer, config, posted))
-    .sort((a, b) => Number(b.priceDiscountRate || 0) - Number(a.priceDiscountRate || 0));
+    // Primeiro vem a categoria que está há mais tempo sem aparecer. Só depois
+    // usamos o desconto como desempate. Isso impede uma sequência de casacos,
+    // fones ou mochilas mesmo quando uma dessas categorias tiver desconto maior.
+    .sort((a, b) => {
+      const byCategoryAge = categoryLastPublishedAt(posted, categoryKey(a)) - categoryLastPublishedAt(posted, categoryKey(b));
+      return byCategoryAge || Number(b.priceDiscountRate || 0) - Number(a.priceDiscountRate || 0);
+    });
   return unique[0] || null;
 }
 
