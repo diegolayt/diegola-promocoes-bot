@@ -146,6 +146,21 @@ function offerNameKey(offer) {
   return `name:${String(offer.productName || "").trim().toLocaleLowerCase("pt-BR")}`;
 }
 
+function offerNameSignatureKey(offer) {
+  // A Shopee pode devolver o mesmo item com pequenas diferenças no título
+  // (emoji, "oficial", pontuação, cor etc.). Esta assinatura deliberadamente
+  // ignora essas variações para impedir uma cópia quase idêntica por 24h.
+  const ignored = new Set(["a", "o", "as", "os", "de", "da", "do", "e", "em", "para", "com", "por", "original", "oficial", "premium", "novo", "nova", "oferta", "promoção", "promocao"]);
+  const terms = String(offer.productName || "")
+    .toLocaleLowerCase("pt-BR")
+    .normalize("NFD").replace(/\p{Diacritic}/gu, "")
+    .replace(/[^\p{Letter}\p{Number}]+/gu, " ")
+    .split(" ")
+    .filter((term) => term.length > 1 && !ignored.has(term))
+    .sort();
+  return `signature:${terms.join("|")}`;
+}
+
 function offerLinkKey(offer) {
   return `link:${createHash("sha256").update(String(offer.offerLink || "")).digest("hex")}`;
 }
@@ -270,13 +285,14 @@ function qualifies(offer, config, posted) {
   const commission = Number(offer.commissionRate || 0) * 100;
   const imageKey = offerImageKey(offer);
   const category = categoryKey(offer);
-  return key && offer.offerLink && category && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && !hasRecentCategory(posted, category) && Number(offer.priceMin || offer.priceMax) > 0
+  return key && offer.offerLink && category && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerNameSignatureKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && !hasRecentCategory(posted, category) && Number(offer.priceMin || offer.priceMax) > 0
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
 function rememberOffer(posted, offer) {
   posted.add(seenKey(String(offer.itemId)));
   posted.add(seenKey(offerNameKey(offer)));
+  posted.add(seenKey(offerNameSignatureKey(offer)));
   posted.add(seenKey(offerLinkKey(offer)));
   const imageKey = offerImageKey(offer);
   if (imageKey) posted.add(seenKey(imageKey));
