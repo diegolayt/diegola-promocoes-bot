@@ -19,6 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Uma execução que ficou na fila deve usar o histórico mais recente,
+          # e não o commit que existia quando o agendamento foi criado.
+          ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -41,7 +46,18 @@ jobs:
         run: |
           git config user.name "Diegola Promoções Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          # Mantém as novas ofertas desta execução e une com qualquer histórico
+          # que tenha chegado ao repositório enquanto ela aguardava na fila.
+          git reset origin/main
+          node --input-type=module -e '
+            import { execFileSync } from "node:child_process";
+            import { readFile, writeFile } from "node:fs/promises";
+            const local = JSON.parse(await readFile("data/posted.json", "utf8"));
+            let remote = [];
+            try { remote = JSON.parse(execFileSync("git", ["show", "origin/main:data/posted.json"], { encoding: "utf8" })); } catch {}
+            await writeFile("data/posted.json", JSON.stringify([...new Set([...remote, ...local])].slice(-2000), null, 2) + "\\n");
+          '
           git add data/posted.json
           git diff --cached --quiet || git commit -m "Atualiza ofertas publicadas"
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main
