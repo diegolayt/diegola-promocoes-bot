@@ -94,7 +94,7 @@ async function getPosted() {
     // Recupera os dois históricos que uma versão anterior gravou com os
     // caracteres literais "\\n" depois do JSON. O próximo salvamento já os
     // normaliza; nunca descartamos o histórico por causa desse defeito.
-    return JSON.parse(contents.replace(/\\\\n\s*$/, "\n"));
+    return JSON.parse(contents.replace(/\\n\s*$/, "\n"));
   };
   try { return migrateLegacyPosted(new Set(parseHistory(await readFile(statePath, "utf8")))); }
   catch (error) {
