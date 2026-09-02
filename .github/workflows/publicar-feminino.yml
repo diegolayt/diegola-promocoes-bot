@@ -25,9 +25,10 @@ jobs:
       KEYWORDS: vestido feminino,lingerie feminina,maquiagem,bolsa feminina,acessórios femininos,saia feminina,blusa feminina,calça feminina,tênis feminino,perfume feminino
       FOCUS_TERMS: vestido,lingerie,sutiã,calcinha,maquiagem,batom,base facial,máscara de cílios,bolsa,acessórios,saia,blusa,calça,tênis,perfume
       REQUIRED_TERMS: feminino,feminina,mulher
-      EXCLUDED_TERMS: masculino,masculina,infantil,bebê,bebe,unissex,mesa,boia,brinquedo,papelaria
+      EXCLUDED_TERMS: masculino,masculina,infantil,bebê,bebe,unissex,mesa,boia,brinquedo,papelaria,réplica,replica,inspirado,inspirada,1:1,um pra um,primeira linha
       MIN_DISCOUNT_PERCENT: "10"
       MIN_COMMISSION_PERCENT: "1"
+      MIN_PRICE: "19.99"
       POSTS_PER_CYCLE: "1"
     steps:
       - uses: actions/checkout@v4

@@ -39,9 +39,10 @@ jobs:
           KEYWORDS: camiseta masculina,camisa masculina,moletom masculino,casaco masculino,jaqueta masculina,bermuda masculina,calça masculina,tênis masculino,relógio masculino,carteira masculina,boné masculino,cinto masculino,bolsa masculina,mochila masculina,perfume masculino
           FOCUS_TERMS: camiseta,camisa,moletom,casaco,jaqueta,bermuda,calça,tênis,relógio,carteira,boné,cinto,bolsa,mochila,perfume
           REQUIRED_TERMS: masculino,masculina,homem
-          EXCLUDED_TERMS: feminino,feminina,infantil,bebê,bebe,unissex,mesa,boia,brinquedo,papelaria
+          EXCLUDED_TERMS: feminino,feminina,infantil,bebê,bebe,unissex,mesa,boia,brinquedo,papelaria,réplica,replica,inspirado,inspirada,1:1,um pra um,primeira linha
           MIN_DISCOUNT_PERCENT: "10"
           MIN_COMMISSION_PERCENT: "1"
+          MIN_PRICE: "19.99"
           POSTS_PER_CYCLE: "1"
 
       - name: Salvar reserva antes de enviar ao Telegram

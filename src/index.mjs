@@ -39,6 +39,7 @@ async function loadConfig() {
     keywords: (config.KEYWORDS || "oferta").split(",").map((value) => value.trim()).filter(Boolean),
     minDiscount: Number(config.MIN_DISCOUNT_PERCENT || 0),
     minCommission: Number(config.MIN_COMMISSION_PERCENT || 0),
+    minPrice: Number(config.MIN_PRICE || 0),
     focusTerms: (config.FOCUS_TERMS || "masculino,perfume,fragrância,smartphone,celular,notebook,fone,headset,teclado,mouse,smartwatch,relógio,monitor,ssd,memória,cartão de memória,caixa de som,bluetooth,console,carregador,power bank,blusa,camisa,camiseta,moletom,casaco,bermuda,calça,tênis,boné,carteira").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
     requiredTerms: (config.REQUIRED_TERMS || "").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
     excludedTerms: (config.EXCLUDED_TERMS || "mesa,boia,brinquedo,infantil,bebê,bebe,papelaria").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
@@ -355,7 +356,8 @@ function qualifies(offer, config, posted) {
   const commission = Number(offer.commissionRate || 0) * 100;
   const imageKey = offerImageKey(offer);
   const category = categoryKey(offer);
-  return key && offer.offerLink && category && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerNameSignatureKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && !hasRecentCategory(posted, category) && Number(offer.priceMin || offer.priceMax) > 0
+  const price = Number(offer.priceMin || offer.priceMax || 0);
+  return key && offer.offerLink && category && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerNameSignatureKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && !hasRecentCategory(posted, category) && price >= config.minPrice
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
