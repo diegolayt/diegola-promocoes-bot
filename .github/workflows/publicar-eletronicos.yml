@@ -1,0 +1,81 @@
+name: Publicar promoções de eletrônicos
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: publicar-eletronicos
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    env:
+      SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+      SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      TELEGRAM_MESSAGE_THREAD_ID: "958021"
+      STATE_NAMESPACE: eletronicos
+      KEYWORDS: smartphone,notebook,tablet,teclado gamer,mouse gamer,webcam,fone bluetooth,caixa de som,console,smart tv,air fryer,aspirador de pó,forno elétrico,liquidificador,ventilador
+      FOCUS_TERMS: smartphone,celular,notebook,tablet,teclado,mouse,webcam,fone,headset,caixa de som,bluetooth,console,controle,gamepad,smart tv,televisão,televisao,air fryer,aspirador,forno elétrico,forno eletrico,liquidificador,ventilador,monitor,ssd,memória,cartão de memória,carregador,power bank
+      EXCLUDED_TERMS: mesa,boia,brinquedo,infantil,bebê,bebe,papelaria
+      MIN_DISCOUNT_PERCENT: "10"
+      MIN_COMMISSION_PERCENT: "1"
+      POSTS_PER_CYCLE: "1"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Reservar uma oferta de eletrônicos
+        run: npm run reserve
+
+      - name: Salvar reserva antes de enviar ao Telegram
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset origin/main
+          node --input-type=module -e '
+            import { execFileSync } from "node:child_process";
+            import { readFile, writeFile } from "node:fs/promises";
+            const namespace = process.env.STATE_NAMESPACE;
+            const path = `data/posted.${namespace}.json`;
+            const backup = `data/posted.${namespace}.backup.json`;
+            const local = JSON.parse(await readFile(path, "utf8"));
+            let remote = [];
+            try { remote = JSON.parse(execFileSync("git", ["show", `origin/main:${path}`], { encoding: "utf8" })); } catch {}
+            const contents = JSON.stringify([...new Set([...remote, ...local])], null, 2) + "\n";
+            await Promise.all([writeFile(path, contents), writeFile(backup, contents)]);
+          '
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -m "Reserva oferta de eletrônicos"
+            git push origin HEAD:main
+          fi
+
+      - name: Publicar a oferta de eletrônicos
+        run: npm run publish-reserved
+
+      - name: Confirmar publicação
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset origin/main
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -m "Confirma publicação de eletrônicos"
+            git push origin HEAD:main
+          fi

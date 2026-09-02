@@ -6,9 +6,12 @@ import { fileURLToPath } from "node:url";
 const here = dirname(fileURLToPath(import.meta.url));
 const root = join(here, "..");
 const envPath = join(root, ".env");
-const statePath = join(root, "data", "posted.json");
-const backupStatePath = join(root, "data", "posted.backup.json");
-const pendingPath = join(root, "data", "pending.json");
+const stateNamespace = process.env.STATE_NAMESPACE || "";
+if (stateNamespace && !/^[a-z0-9-]+$/i.test(stateNamespace)) throw new Error("STATE_NAMESPACE inválido.");
+const stateStem = stateNamespace ? `posted.${stateNamespace}` : "posted";
+const statePath = join(root, "data", `${stateStem}.json`);
+const backupStatePath = join(root, "data", `${stateStem}.backup.json`);
+const pendingPath = join(root, "data", `pending${stateNamespace ? `.${stateNamespace}` : ""}.json`);
 const BLOCK_MS = 24 * 60 * 60 * 1000;
 const ROTATION_ITEMS = 150;
 // Um produto idêntico fica bloqueado por 24h. A categoria usa uma janela menor
@@ -223,6 +226,15 @@ function categoryKey(offer) {
     ["monitor", ["monitor"]],
     ["armazenamento", ["ssd", "memoria", "cartao de memoria"]],
     ["console", ["console"]],
+    ["controle", ["controle", "gamepad"]],
+    ["webcam", ["webcam"]],
+    ["tablet", ["tablet"]],
+    ["tv", ["smart tv", "televisao", "televisão", " tv "]],
+    ["air_fryer", ["air fryer"]],
+    ["aspirador", ["aspirador"]],
+    ["forno_eletrico", ["forno eletrico"]],
+    ["liquidificador", ["liquidificador"]],
+    ["ventilador", ["ventilador"]],
     ["energia", ["carregador", "power bank"]],
     ["camiseta", ["camiseta"]],
     ["camisa", ["camisa"]],
