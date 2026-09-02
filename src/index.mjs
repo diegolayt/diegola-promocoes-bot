@@ -10,6 +10,7 @@ const statePath = join(root, "data", "posted.json");
 const backupStatePath = join(root, "data", "posted.backup.json");
 const pendingPath = join(root, "data", "pending.json");
 const BLOCK_MS = 24 * 60 * 60 * 1000;
+const ROTATION_ITEMS = 150;
 // Um produto idêntico fica bloqueado por 24h. A categoria usa uma janela menor
 // para manter a sequência variada sem esgotar as opções disponíveis no dia.
 const CATEGORY_COOLDOWN_MS = 6 * 60 * 60 * 1000;
@@ -97,10 +98,26 @@ function seenKey(value, timestamp = Date.now()) {
   return `seen:${fingerprint(value)}:${timestamp}`;
 }
 
+function seenTimestampsInRotation(posted) {
+  return new Set([...posted]
+    .filter((entry) => entry.startsWith("seen:"))
+    .map((entry) => Number(entry.slice(entry.lastIndexOf(":") + 1)))
+    .filter(Number.isFinite)
+    .sort((a, b) => b - a)
+    .filter((timestamp, index, values) => index === 0 || timestamp !== values[index - 1])
+    .slice(0, ROTATION_ITEMS));
+}
+
 function hasRecentValue(posted, value) {
   const prefix = `seen:${fingerprint(value)}:`;
-  const limit = Date.now() - BLOCK_MS;
-  return [...posted].some((entry) => entry.startsWith(prefix) && Number(entry.slice(prefix.length)) >= limit);
+  // A trava por tempo impede repetição rápida mesmo se houver um pico de
+  // publicações. A fila impede a repetição depois da virada de 24 horas.
+  const rotation = seenTimestampsInRotation(posted);
+  return [...posted].some((entry) => {
+    if (!entry.startsWith(prefix)) return false;
+    const publishedAt = Number(entry.slice(prefix.length));
+    return publishedAt >= Date.now() - BLOCK_MS || rotation.has(publishedAt);
+  });
 }
 
 function migrateLegacyPosted(posted) {
@@ -115,8 +132,18 @@ function migrateLegacyPosted(posted) {
 
 function compactPosted(posted) {
   const limit = Date.now() - BLOCK_MS;
+  const rotation = seenTimestampsInRotation(posted);
+  const latestCategory = new Map();
+  for (const entry of posted) {
+    if (!entry.startsWith("category:")) continue;
+    const key = entry.slice(0, entry.lastIndexOf(":"));
+    const timestamp = Number(entry.slice(entry.lastIndexOf(":") + 1));
+    if (timestamp > (latestCategory.get(key) || 0)) latestCategory.set(key, timestamp);
+  }
   return new Set([...posted].filter((entry) => {
-    if (entry.startsWith("seen:") || entry.startsWith("category:")) return Number(entry.slice(entry.lastIndexOf(":") + 1)) >= limit;
+    const timestamp = Number(entry.slice(entry.lastIndexOf(":") + 1));
+    if (entry.startsWith("seen:")) return timestamp >= limit || rotation.has(timestamp);
+    if (entry.startsWith("category:")) return latestCategory.get(entry.slice(0, entry.lastIndexOf(":"))) === timestamp;
     return false;
   }));
 }
@@ -290,16 +317,17 @@ function qualifies(offer, config, posted) {
 }
 
 function rememberOffer(posted, offer) {
-  posted.add(seenKey(String(offer.itemId)));
-  posted.add(seenKey(offerNameKey(offer)));
-  posted.add(seenKey(offerNameSignatureKey(offer)));
-  posted.add(seenKey(offerLinkKey(offer)));
+  const publishedAt = Date.now();
+  posted.add(seenKey(String(offer.itemId), publishedAt));
+  posted.add(seenKey(offerNameKey(offer), publishedAt));
+  posted.add(seenKey(offerNameSignatureKey(offer), publishedAt));
+  posted.add(seenKey(offerLinkKey(offer), publishedAt));
   const imageKey = offerImageKey(offer);
-  if (imageKey) posted.add(seenKey(imageKey));
+  if (imageKey) posted.add(seenKey(imageKey, publishedAt));
   const category = categoryKey(offer);
   if (category) {
     for (const value of posted) if (value.startsWith(`${category}:`)) posted.delete(value);
-    posted.add(`${category}:${Date.now()}`);
+    posted.add(`${category}:${publishedAt}`);
   }
 }
 
