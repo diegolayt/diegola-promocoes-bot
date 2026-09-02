@@ -89,10 +89,17 @@ async function getShopeeOffers(config, keyword) {
 }
 
 async function getPosted() {
-  try { return migrateLegacyPosted(new Set(JSON.parse(await readFile(statePath, "utf8")))); }
+  const parseHistory = (contents) => {
+    try { return JSON.parse(contents); } catch { /* tenta o formato legado abaixo */ }
+    // Recupera os dois históricos que uma versão anterior gravou com os
+    // caracteres literais "\\n" depois do JSON. O próximo salvamento já os
+    // normaliza; nunca descartamos o histórico por causa desse defeito.
+    return JSON.parse(contents.replace(/\\\\n\s*$/, "\n"));
+  };
+  try { return migrateLegacyPosted(new Set(parseHistory(await readFile(statePath, "utf8")))); }
   catch (error) {
     try {
-      const backup = migrateLegacyPosted(new Set(JSON.parse(await readFile(backupStatePath, "utf8"))));
+      const backup = migrateLegacyPosted(new Set(parseHistory(await readFile(backupStatePath, "utf8"))));
       console.warn(`Histórico principal recuperado pela cópia de segurança: ${error.message}`);
       return backup;
     } catch (backupError) {

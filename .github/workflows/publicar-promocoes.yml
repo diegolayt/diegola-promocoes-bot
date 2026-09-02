@@ -48,23 +48,15 @@ jobs:
         run: |
           git config user.name "Diegola Promoções Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          # Mantém as novas ofertas desta execução e une com qualquer histórico
-          # que tenha chegado ao repositório enquanto ela aguardava na fila.
-          git reset origin/main
-          node --input-type=module -e '
-            import { execFileSync } from "node:child_process";
-            import { readFile, writeFile } from "node:fs/promises";
-            const local = JSON.parse(await readFile("data/posted.json", "utf8"));
-            let remote = [];
-            try { remote = JSON.parse(execFileSync("git", ["show", "origin/main:data/posted.json"], { encoding: "utf8" })); } catch {}
-            const contents = JSON.stringify([...new Set([...remote, ...local])], null, 2) + "\n";
-            await Promise.all([writeFile("data/posted.json", contents), writeFile("data/posted.backup.json", contents)]);
-          '
           git add -A data
           if ! git diff --cached --quiet; then
             git commit -m "Reserva oferta para publicação"
-            git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
           fi
 
       - name: Publicar a oferta reservada
@@ -79,10 +71,13 @@ jobs:
         run: |
           git config user.name "Diegola Promoções Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git reset origin/main
           git add -A data
           if ! git diff --cached --quiet; then
             git commit -m "Confirma publicação da oferta"
-            git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
           fi

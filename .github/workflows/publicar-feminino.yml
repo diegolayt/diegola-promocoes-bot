@@ -46,24 +46,15 @@ jobs:
         run: |
           git config user.name "Diegola Promoções Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git reset origin/main
-          node --input-type=module -e '
-            import { execFileSync } from "node:child_process";
-            import { readFile, writeFile } from "node:fs/promises";
-            const namespace = process.env.STATE_NAMESPACE;
-            const path = `data/posted.${namespace}.json`;
-            const backup = `data/posted.${namespace}.backup.json`;
-            const local = JSON.parse(await readFile(path, "utf8"));
-            let remote = [];
-            try { remote = JSON.parse(execFileSync("git", ["show", `origin/main:${path}`], { encoding: "utf8" })); } catch {}
-            const contents = JSON.stringify([...new Set([...remote, ...local])], null, 2) + "\\n";
-            await Promise.all([writeFile(path, contents), writeFile(backup, contents)]);
-          '
           git add -A data
           if ! git diff --cached --quiet; then
             git commit -m "Reserva oferta feminina"
-            git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
           fi
 
       - name: Publicar a oferta feminina
@@ -73,10 +64,13 @@ jobs:
         run: |
           git config user.name "Diegola Promoções Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git reset origin/main
           git add -A data
           if ! git diff --cached --quiet; then
             git commit -m "Confirma publicação feminina"
-            git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
           fi
