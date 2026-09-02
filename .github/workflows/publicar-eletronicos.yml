@@ -24,7 +24,7 @@ jobs:
       STATE_NAMESPACE: eletronicos
       KEYWORDS: smartphone,notebook,tablet,teclado gamer,mouse gamer,webcam,fone bluetooth,caixa de som,console,smart tv,air fryer,aspirador de pó,forno elétrico,liquidificador,ventilador
       FOCUS_TERMS: smartphone,celular,notebook,tablet,teclado,mouse,webcam,fone,headset,caixa de som,bluetooth,console,controle,gamepad,smart tv,televisão,televisao,air fryer,aspirador,forno elétrico,forno eletrico,liquidificador,ventilador,monitor,ssd,memória,cartão de memória,carregador,power bank
-      EXCLUDED_TERMS: mesa,boia,brinquedo,infantil,bebê,bebe,papelaria
+      EXCLUDED_TERMS: mesa,boia,brinquedo,infantil,bebê,bebe,papelaria,mochila,mochla,backpack,bolsa
       MIN_DISCOUNT_PERCENT: "10"
       MIN_COMMISSION_PERCENT: "1"
       MIN_PRICE: "19.99"
