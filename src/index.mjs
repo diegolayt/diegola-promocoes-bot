@@ -13,10 +13,12 @@ const statePath = join(root, "data", `${stateStem}.json`);
 const backupStatePath = join(root, "data", `${stateStem}.backup.json`);
 const pendingPath = join(root, "data", `pending${stateNamespace ? `.${stateNamespace}` : ""}.json`);
 const BLOCK_MS = 24 * 60 * 60 * 1000;
+// Cada tópico mantém uma fila própria: nenhum produto (nem variações de nome,
+// link ou imagem) pode retornar antes de 150 publicações daquele tópico.
 const ROTATION_ITEMS = 150;
-// Um produto idêntico fica bloqueado por 24h. A categoria usa uma janela menor
-// para manter a sequência variada sem esgotar as opções disponíveis no dia.
-const CATEGORY_COOLDOWN_MS = 6 * 60 * 60 * 1000;
+// Evita uma sequência monótona sem bloquear uma categoria durante o dia todo.
+// A categoria só volta depois de pelo menos quatro outras categorias.
+const CATEGORY_ROTATION_ITEMS = 4;
 
 function parseEnv(text) {
   return Object.fromEntries(
@@ -137,17 +139,11 @@ function migrateLegacyPosted(posted) {
 function compactPosted(posted) {
   const limit = Date.now() - BLOCK_MS;
   const rotation = seenTimestampsInRotation(posted);
-  const latestCategory = new Map();
-  for (const entry of posted) {
-    if (!entry.startsWith("category:")) continue;
-    const key = entry.slice(0, entry.lastIndexOf(":"));
-    const timestamp = Number(entry.slice(entry.lastIndexOf(":") + 1));
-    if (timestamp > (latestCategory.get(key) || 0)) latestCategory.set(key, timestamp);
-  }
+  const categoryRotation = recentCategoryEntries(posted);
   return new Set([...posted].filter((entry) => {
     const timestamp = Number(entry.slice(entry.lastIndexOf(":") + 1));
     if (entry.startsWith("seen:")) return timestamp >= limit || rotation.has(timestamp);
-    if (entry.startsWith("category:")) return latestCategory.get(entry.slice(0, entry.lastIndexOf(":"))) === timestamp;
+    if (entry.startsWith("category:")) return categoryRotation.has(entry);
     return false;
   }));
 }
@@ -244,12 +240,25 @@ function categoryKey(offer) {
     ["casaco", ["casaco", "jaqueta"]],
     ["blusa", ["blusa"]],
     ["bermuda", ["bermuda"]],
+    ["shorts", ["shorts"]],
     ["calca", ["calca"]],
     ["tenis", ["tenis"]],
     ["bone", ["bone"]],
     ["carteira", ["carteira"]],
     ["cinto", ["cinto"]],
-    ["bolsa", ["bolsa masculina", "pochete"]],
+    ["bolsa", ["bolsa masculina", "bolsa feminina", "pochete"]],
+    ["vestido", ["vestido"]],
+    ["lingerie", ["lingerie", "sutia", "calcinha"]],
+    ["maquiagem", ["maquiagem", "batom", "base facial", "mascara de cilios"]],
+    ["saia", ["saia"]],
+    ["chocolate", ["chocolate", "bombom"]],
+    ["biscoito", ["biscoito", "bolacha", "cookie"]],
+    ["salgadinho", ["salgadinho", "cheetos", "doritos", "lays", "elma chips"]],
+    ["energetico", ["energetico", "red bull"]],
+    ["whey", ["whey"]],
+    ["creatina", ["creatina"]],
+    ["iogurte", ["danone", "iogurte"]],
+    ["bebida", ["refrigerante", "suco", "cafe"]],
   ];
   const found = categories.find(([, terms]) => terms.some((term) => name.includes(term)));
   if (found) return `category:${found[0]}`;
@@ -258,15 +267,14 @@ function categoryKey(offer) {
 
 function hasRecentCategory(posted, category) {
   if (!category) return false;
-  const limit = Date.now() - CATEGORY_COOLDOWN_MS;
-  const legacyCategories = {
-    "category:fone": ["category:audio"],
-    "category:headset": ["category:audio"],
-    "category:caixa_som": ["category:audio"],
-    "category:smartwatch": ["category:relogio"],
-  };
-  const categories = [category, ...(legacyCategories[category] || [])];
-  return [...posted].some((value) => categories.some((item) => value.startsWith(`${item}:`) && Number(value.slice(item.length + 1)) >= limit));
+  return [...recentCategoryEntries(posted)].some((entry) => entry.startsWith(`${category}:`));
+}
+
+function recentCategoryEntries(posted) {
+  return new Set([...posted]
+    .filter((entry) => entry.startsWith("category:"))
+    .sort((a, b) => Number(b.slice(b.lastIndexOf(":") + 1)) - Number(a.slice(a.lastIndexOf(":") + 1)))
+    .slice(0, CATEGORY_ROTATION_ITEMS));
 }
 
 function categoryLastPublishedAt(posted, category) {
@@ -342,7 +350,6 @@ function rememberOffer(posted, offer) {
   if (imageKey) posted.add(seenKey(imageKey, publishedAt));
   const category = categoryKey(offer);
   if (category) {
-    for (const value of posted) if (value.startsWith(`${category}:`)) posted.delete(value);
     posted.add(`${category}:${publishedAt}`);
   }
 }

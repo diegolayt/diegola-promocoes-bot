@@ -1,12 +1,12 @@
-name: Publicar promoções de eletrônicos
+name: Publicar promoções de mercado
 
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "11,26,41,56 * * * *"
   workflow_dispatch:
 
 concurrency:
-  group: publicar-eletronicos
+  group: publicar-mercado
   cancel-in-progress: false
 
 permissions:
@@ -20,11 +20,11 @@ jobs:
       SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      TELEGRAM_MESSAGE_THREAD_ID: "958021"
-      STATE_NAMESPACE: eletronicos
-      KEYWORDS: smartphone,notebook,tablet,teclado gamer,mouse gamer,webcam,fone bluetooth,caixa de som,console,smart tv,air fryer,aspirador de pó,forno elétrico,liquidificador,ventilador
-      FOCUS_TERMS: smartphone,celular,notebook,tablet,teclado,mouse,webcam,fone,headset,caixa de som,bluetooth,console,controle,gamepad,smart tv,televisão,televisao,air fryer,aspirador,forno elétrico,forno eletrico,liquidificador,ventilador,monitor,ssd,memória,cartão de memória,carregador,power bank
-      EXCLUDED_TERMS: mesa,boia,brinquedo,infantil,bebê,bebe,papelaria
+      TELEGRAM_MESSAGE_THREAD_ID: "958026"
+      STATE_NAMESPACE: mercado
+      KEYWORDS: biscoito,bolacha,cookie,chocolate,bombom,salgadinho,cheetos,doritos,lays,energético,whey protein,creatina,iogurte,danone,barra de proteína
+      FOCUS_TERMS: biscoito,bolacha,cookie,chocolate,bombom,salgadinho,cheetos,doritos,lays,elma chips,energético,red bull,whey,creatina,iogurte,danone,barra de proteína,refrigerante,suco,café
+      EXCLUDED_TERMS: arroz,feijão,macarrão,farinha,infantil,bebê,bebe,brinquedo,papelaria,mesa,boia
       MIN_DISCOUNT_PERCENT: "10"
       MIN_COMMISSION_PERCENT: "1"
       POSTS_PER_CYCLE: "1"
@@ -38,7 +38,7 @@ jobs:
         with:
           node-version: 24
 
-      - name: Reservar uma oferta de eletrônicos
+      - name: Reservar uma oferta de mercado
         run: npm run reserve
 
       - name: Salvar reserva antes de enviar ao Telegram
@@ -56,16 +56,16 @@ jobs:
             const local = JSON.parse(await readFile(path, "utf8"));
             let remote = [];
             try { remote = JSON.parse(execFileSync("git", ["show", `origin/main:${path}`], { encoding: "utf8" })); } catch {}
-            const contents = JSON.stringify([...new Set([...remote, ...local])], null, 2) + "\n";
+            const contents = JSON.stringify([...new Set([...remote, ...local])], null, 2) + "\\n";
             await Promise.all([writeFile(path, contents), writeFile(backup, contents)]);
           '
           git add -A data
           if ! git diff --cached --quiet; then
-            git commit -m "Reserva oferta de eletrônicos"
+            git commit -m "Reserva oferta de mercado"
             git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
           fi
 
-      - name: Publicar a oferta de eletrônicos
+      - name: Publicar a oferta de mercado
         run: npm run publish-reserved
 
       - name: Confirmar publicação
@@ -76,6 +76,6 @@ jobs:
           git reset origin/main
           git add -A data
           if ! git diff --cached --quiet; then
-            git commit -m "Confirma publicação de eletrônicos"
+            git commit -m "Confirma publicação de mercado"
             git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
           fi

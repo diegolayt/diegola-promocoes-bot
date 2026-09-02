@@ -64,7 +64,7 @@ jobs:
           git add -A data
           if ! git diff --cached --quiet; then
             git commit -m "Reserva oferta para publicação"
-            git push origin HEAD:main
+            git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
           fi
 
       - name: Publicar a oferta reservada
@@ -84,5 +84,5 @@ jobs:
           git add -A data
           if ! git diff --cached --quiet; then
             git commit -m "Confirma publicação da oferta"
-            git push origin HEAD:main
+            git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
           fi
