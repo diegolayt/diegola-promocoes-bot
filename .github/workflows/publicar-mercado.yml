@@ -24,7 +24,7 @@ jobs:
       STATE_NAMESPACE: mercado
       KEYWORDS: biscoito,bolacha,cookie,chocolate,bombom,salgadinho,cheetos,doritos,lays,energético,whey protein,creatina,iogurte,danone,barra de proteína
       FOCUS_TERMS: biscoito,bolacha,cookie,chocolate,bombom,salgadinho,cheetos,doritos,lays,elma chips,energético,red bull,whey,creatina,iogurte,danone,barra de proteína,refrigerante,suco,café
-      EXCLUDED_TERMS: arroz,feijão,macarrão,farinha,infantil,bebê,bebe,brinquedo,papelaria,mesa,boia
+      EXCLUDED_TERMS: arroz,feijão,macarrão,farinha,infantil,bebê,bebe,brinquedo,papelaria,mesa,boia,saco,sacolé,sacole,saquinho,embalagem,descartável,pote,copo,forma,molde,canudo,utensílio,kit para fazer
       MIN_DISCOUNT_PERCENT: "10"
       MIN_COMMISSION_PERCENT: "1"
       POSTS_PER_CYCLE: "1"
