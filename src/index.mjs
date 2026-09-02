@@ -61,19 +61,31 @@ function payloadFor(keyword) {
 
 async function getShopeeOffers(config, keyword) {
   const payload = payloadFor(keyword);
-  const timestamp = Math.floor(Date.now() / 1000).toString();
-  const signature = createHash("sha256").update(`${config.SHOPEE_APP_ID}${timestamp}${payload}${config.SHOPEE_SECRET}`).digest("hex");
-  const response = await fetch("https://open-api.affiliate.shopee.com.br/graphql", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `SHA256 Credential=${config.SHOPEE_APP_ID},Timestamp=${timestamp},Signature=${signature}`,
-    },
-    body: payload,
-  });
-  const json = await response.json();
-  if (!response.ok || json.errors?.length) throw new Error(json.errors?.map((item) => item.message).join("; ") || `Shopee respondeu HTTP ${response.status}`);
-  return json.data?.productOfferV2?.nodes || [];
+  let lastError;
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
+    try {
+      const timestamp = Math.floor(Date.now() / 1000).toString();
+      const signature = createHash("sha256").update(`${config.SHOPEE_APP_ID}${timestamp}${payload}${config.SHOPEE_SECRET}`).digest("hex");
+      const response = await fetch("https://open-api.affiliate.shopee.com.br/graphql", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `SHA256 Credential=${config.SHOPEE_APP_ID},Timestamp=${timestamp},Signature=${signature}`,
+        },
+        body: payload,
+      });
+      const json = await response.json();
+      if (!response.ok || json.errors?.length) throw new Error(json.errors?.map((item) => item.message).join("; ") || `Shopee respondeu HTTP ${response.status}`);
+      return json.data?.productOfferV2?.nodes || [];
+    } catch (error) {
+      lastError = error;
+      if (attempt < 3) {
+        console.warn(`Consulta "${keyword}" indisponível (tentativa ${attempt}/3): ${error.message}`);
+        await new Promise((resolve) => setTimeout(resolve, attempt * 5_000));
+      }
+    }
+  }
+  throw lastError;
 }
 
 async function getPosted() {
@@ -357,8 +369,15 @@ function rememberOffer(posted, offer) {
 async function selectOffer(config, posted) {
   const candidates = [];
   for (const keyword of config.keywords) {
-    const offers = await getShopeeOffers(config, keyword);
-    candidates.push(...offers);
+    try {
+      const offers = await getShopeeOffers(config, keyword);
+      candidates.push(...offers);
+    } catch (error) {
+      // Uma resposta temporariamente indisponível da Shopee não deve parar o
+      // ciclo inteiro nem gerar uma publicação repetida. As demais buscas
+      // continuam normalmente e o próximo ciclo tenta esta palavra de novo.
+      console.warn(`Pulando consulta "${keyword}": ${error.message}`);
+    }
     await new Promise((resolve) => setTimeout(resolve, 31_000)); // regra da Shopee sem scrollId
   }
   const unique = [...new Map(candidates.map((offer) => [String(offer.itemId), offer])).values()]
@@ -375,7 +394,14 @@ async function selectOffer(config, posted) {
 
 async function reserveOffer(config) {
   const pending = await getPending();
-  if (pending) throw new Error("Há uma oferta reservada sem confirmação. Publicação bloqueada para evitar repetição.");
+  if (pending) {
+    // Se uma execução anterior caiu após a reserva, não tentamos reenviar o
+    // item: ele já está marcado no histórico. Descartamos apenas a reserva
+    // pendente para que o próximo ciclo siga com outra oferta.
+    console.warn("Reserva anterior sem confirmação descartada; a oferta continua bloqueada para evitar repetição.");
+    await clearPending();
+    return false;
+  }
   const posted = await getPosted();
   const offer = await selectOffer(config, posted);
   if (!offer) {
