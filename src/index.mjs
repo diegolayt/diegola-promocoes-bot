@@ -38,6 +38,7 @@ async function loadConfig() {
     minDiscount: Number(config.MIN_DISCOUNT_PERCENT || 0),
     minCommission: Number(config.MIN_COMMISSION_PERCENT || 0),
     focusTerms: (config.FOCUS_TERMS || "masculino,perfume,fragrância,smartphone,celular,notebook,fone,headset,teclado,mouse,smartwatch,relógio,monitor,ssd,memória,cartão de memória,caixa de som,bluetooth,console,carregador,power bank,blusa,camisa,camiseta,moletom,casaco,bermuda,calça,tênis,boné,carteira").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
+    requiredTerms: (config.REQUIRED_TERMS || "").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
     excludedTerms: (config.EXCLUDED_TERMS || "mesa,boia,brinquedo,infantil,bebê,bebe,papelaria").split(",").map((value) => value.trim().toLocaleLowerCase("pt-BR")).filter(Boolean),
     postsPerCycle: Math.max(1, Number(config.POSTS_PER_CYCLE || 3)),
     pollMs: Math.max(60_000, Number(config.POLL_MINUTES || 45) * 60_000),
@@ -205,6 +206,7 @@ function offerImageKey(offer) {
 function matchesFocus(offer, config) {
   const name = String(offer.productName || "").toLocaleLowerCase("pt-BR");
   return config.focusTerms.some((term) => name.includes(term))
+    && (!config.requiredTerms.length || config.requiredTerms.some((term) => name.includes(term)))
     && !config.excludedTerms.some((term) => name.includes(term));
 }
 
@@ -246,6 +248,8 @@ function categoryKey(offer) {
     ["tenis", ["tenis"]],
     ["bone", ["bone"]],
     ["carteira", ["carteira"]],
+    ["cinto", ["cinto"]],
+    ["bolsa", ["bolsa masculina", "pochete"]],
   ];
   const found = categories.find(([, terms]) => terms.some((term) => name.includes(term)));
   if (found) return `category:${found[0]}`;
