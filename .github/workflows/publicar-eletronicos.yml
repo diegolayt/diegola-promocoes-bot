@@ -27,6 +27,7 @@ jobs:
       EXCLUDED_TERMS: mesa,boia,brinquedo,infantil,bebê,bebe,papelaria
       MIN_DISCOUNT_PERCENT: "10"
       MIN_COMMISSION_PERCENT: "1"
+      MIN_PRICE: "19.99"
       POSTS_PER_CYCLE: "1"
     steps:
       - uses: actions/checkout@v4
