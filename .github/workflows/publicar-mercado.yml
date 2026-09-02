@@ -2,7 +2,7 @@ name: Publicar promoções de mercado
 
 on:
   schedule:
-    - cron: "11,26,41,56 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 concurrency:

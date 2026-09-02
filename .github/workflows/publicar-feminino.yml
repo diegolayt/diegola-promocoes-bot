@@ -2,7 +2,7 @@ name: Publicar promoções femininas
 
 on:
   schedule:
-    - cron: "4,19,34,49 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 concurrency:
