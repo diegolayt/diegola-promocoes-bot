@@ -20,8 +20,8 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       TELEGRAM_MESSAGE_THREAD_ID: "958026"
       STATE_NAMESPACE: mercado
-      KEYWORDS: biscoito,bolacha,cookie,chocolate,bombom,salgadinho,cheetos,doritos,lays,energético,whey protein,creatina,iogurte,danone,barra de proteína
-      FOCUS_TERMS: biscoito,bolacha,cookie,chocolate,bombom,salgadinho,cheetos,doritos,lays,elma chips,energético,red bull,whey,creatina,iogurte,danone,barra de proteína,refrigerante,suco,café
+      KEYWORDS: biscoito,traquinas,passatempo,pringles,chocolate,nutella,salgadinho,lays,energético,whey protein,creatina,omo,amaciante,desinfetante,detergente
+      FOCUS_TERMS: biscoito,bolacha,cookie,traquinas,passatempo,oreo,chocolate,bombom,kitkat,nutella,creme de avelã,salgadinho,cheetos,doritos,lays,pringles,elma chips,energético,red bull,monster,whey,creatina,barra de proteína,refrigerante,suco,café,sabão,sabao,omo,amaciante,comfort,downy,detergente,desinfetante,água sanitária,agua sanitaria,multiuso,limpeza
       EXCLUDED_TERMS: arroz,feijão,macarrão,farinha,infantil,bebê,bebe,brinquedo,papelaria,mesa,boia,saco,sacolé,sacole,saquinho,embalagem,descartável,pote,copo,forma,molde,canudo,utensílio,kit para fazer
       MIN_DISCOUNT_PERCENT: "10"
       MIN_COMMISSION_PERCENT: "1"

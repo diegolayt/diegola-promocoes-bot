@@ -57,7 +57,11 @@ function payloadFor(keyword) {
       }
     }
   }`;
-  return JSON.stringify({ query, operationName: "ProductOffers", variables: { keyword, page: 1, limit: 20 } });
+  // Vinte resultados por busca eram poucos: depois das travas de repetição e
+  // de categoria, alguns tópicos ficavam sem uma opção válida apesar de haver
+  // muitas ofertas na Shopee. A API aceita listas bem maiores; 100 amplia a
+  // variedade sem aumentar o número de chamadas.
+  return JSON.stringify({ query, operationName: "ProductOffers", variables: { keyword, page: 1, limit: 100 } });
 }
 
 async function getShopeeOffers(config, keyword) {
@@ -253,6 +257,10 @@ function categoryKey(offer) {
     ["forno_eletrico", ["forno eletrico"]],
     ["liquidificador", ["liquidificador"]],
     ["ventilador", ["ventilador"]],
+    ["sanduicheira", ["sanduicheira", "grill eletrico", "grill elétrico"]],
+    ["cafeteira", ["cafeteira"]],
+    ["power_bank", ["power bank", "powerbank"]],
+    ["soprador", ["soprador", "soprador de ar"]],
     ["energia", ["carregador", "power bank"]],
     ["camiseta", ["camiseta"]],
     ["camisa", ["camisa"]],
@@ -271,14 +279,18 @@ function categoryKey(offer) {
     ["lingerie", ["lingerie", "sutia", "calcinha"]],
     ["maquiagem", ["maquiagem", "batom", "base facial", "mascara de cilios"]],
     ["saia", ["saia"]],
-    ["chocolate", ["chocolate", "bombom"]],
-    ["biscoito", ["biscoito", "bolacha", "cookie"]],
-    ["salgadinho", ["salgadinho", "cheetos", "doritos", "lays", "elma chips"]],
-    ["energetico", ["energetico", "red bull"]],
+    ["chocolate", ["chocolate", "bombom", "bis ", "kitkat", "nutella", "creme de avela", "creme de avelã"]],
+    ["biscoito", ["biscoito", "bolacha", "cookie", "traquinas", "passatempo", "oreo"]],
+    ["salgadinho", ["salgadinho", "cheetos", "doritos", "lays", "elma chips", "pringles", "batata chips"]],
+    ["energetico", ["energetico", "red bull", "monster", "fusion"]],
     ["whey", ["whey"]],
     ["creatina", ["creatina"]],
     ["iogurte", ["danone", "iogurte"]],
     ["bebida", ["refrigerante", "suco", "cafe"]],
+    ["sabao", ["sabao em po", "sabao em pó", "sabao liquido", "sabão líquido", "omo", "tixan"]],
+    ["amaciante", ["amaciante", "comfort", "downy"]],
+    ["detergente", ["detergente"]],
+    ["desinfetante", ["desinfetante", "agua sanitaria", "água sanitária", "multiuso", "limpeza"]],
   ];
   const found = categories.find(([, terms]) => terms.some((term) => name.includes(term)));
   if (found) return `category:${found[0]}`;
