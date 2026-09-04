@@ -59,9 +59,9 @@ function payloadFor(keyword) {
   }`;
   // Vinte resultados por busca eram poucos: depois das travas de repetição e
   // de categoria, alguns tópicos ficavam sem uma opção válida apesar de haver
-  // muitas ofertas na Shopee. A API aceita listas bem maiores; 100 amplia a
-  // variedade sem aumentar o número de chamadas.
-  return JSON.stringify({ query, operationName: "ProductOffers", variables: { keyword, page: 1, limit: 100 } });
+  // muitas ofertas na Shopee. O limite máximo aceito pela API é 50; ampliar
+  // de 20 para 50 aumenta a variedade sem invalidar a consulta.
+  return JSON.stringify({ query, operationName: "ProductOffers", variables: { keyword, page: 1, limit: 50 } });
 }
 
 async function getShopeeOffers(config, keyword) {
