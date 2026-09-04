@@ -401,7 +401,8 @@ async function selectOffer(config, posted) {
     }
     await new Promise((resolve) => setTimeout(resolve, 31_000)); // regra da Shopee sem scrollId
   }
-  const unique = [...new Map(candidates.map((offer) => [String(offer.itemId), offer])).values()]
+  const distinct = [...new Map(candidates.map((offer) => [String(offer.itemId), offer])).values()];
+  const unique = distinct
     .filter((offer) => qualifies(offer, config, posted))
     // Primeiro vem a categoria que está há mais tempo sem aparecer. Só depois
     // usamos o desconto como desempate. Isso impede uma sequência de casacos,
@@ -410,6 +411,7 @@ async function selectOffer(config, posted) {
       const byCategoryAge = categoryLastPublishedAt(posted, categoryKey(a)) - categoryLastPublishedAt(posted, categoryKey(b));
       return byCategoryAge || Number(b.priceDiscountRate || 0) - Number(a.priceDiscountRate || 0);
     });
+  console.log(`Busca concluída: ${candidates.length} ofertas recebidas, ${distinct.length} distintas e ${unique.length} aprovadas.`);
   return unique[0] || null;
 }
 
