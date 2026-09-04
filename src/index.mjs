@@ -14,8 +14,8 @@ const backupStatePath = join(root, "data", `${stateStem}.backup.json`);
 const pendingPath = join(root, "data", `pending${stateNamespace ? `.${stateNamespace}` : ""}.json`);
 const BLOCK_MS = 24 * 60 * 60 * 1000;
 // Cada tópico mantém uma fila própria: nenhum produto (nem variações de nome,
-// link ou imagem) pode retornar antes de 150 publicações daquele tópico.
-const ROTATION_ITEMS = 150;
+// link ou imagem) pode retornar antes de 200 publicações daquele tópico.
+const ROTATION_ITEMS = 200;
 // Evita uma sequência monótona sem bloquear uma categoria durante o dia todo.
 // A categoria só volta depois de pelo menos quatro outras categorias.
 const CATEGORY_ROTATION_ITEMS = 4;
