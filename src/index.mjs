@@ -17,8 +17,9 @@ const BLOCK_MS = 24 * 60 * 60 * 1000;
 // link ou imagem) pode retornar antes de 200 publicações daquele tópico.
 const ROTATION_ITEMS = 200;
 // Evita uma sequência monótona sem bloquear uma categoria durante o dia todo.
-// A categoria só volta depois de pelo menos quatro outras categorias.
-const CATEGORY_ROTATION_ITEMS = 4;
+// A categoria só volta depois de pelo menos oito outras categorias, para que
+// os termos de busca ampliem o catálogo sem virar uma prioridade de postagem.
+const CATEGORY_ROTATION_ITEMS = 8;
 
 function parseEnv(text) {
   return Object.fromEntries(
@@ -283,8 +284,9 @@ function categoryKey(offer) {
     ["biscoito", ["biscoito", "bolacha", "cookie", "traquinas", "passatempo", "oreo"]],
     ["salgadinho", ["salgadinho", "cheetos", "doritos", "lays", "elma chips", "pringles", "batata chips"]],
     ["energetico", ["energetico", "red bull", "monster", "fusion"]],
-    ["whey", ["whey"]],
-    ["creatina", ["creatina"]],
+    // Whey e creatina são suplementos da mesma família editorial. Tratá-los
+    // juntos impede que um fique alternando com o outro em ciclos curtos.
+    ["suplementos", ["whey", "creatina", "barra de proteina", "barra de proteína", "pre treino", "pré treino"]],
     ["iogurte", ["danone", "iogurte"]],
     ["bebida", ["refrigerante", "suco", "cafe"]],
     ["sabao", ["sabao em po", "sabao em pó", "sabao liquido", "sabão líquido", "omo", "tixan"]],
@@ -299,7 +301,20 @@ function categoryKey(offer) {
 
 function hasRecentCategory(posted, category) {
   if (!category) return false;
-  return [...recentCategoryEntries(posted)].some((entry) => entry.startsWith(`${category}:`));
+  return [...recentCategoryEntries(posted)].some((entry) => categoryAliases(category).some((item) => entry.startsWith(`${item}:`)));
+}
+
+function categoryAliases(category) {
+  // Mantém a nova regra de rotação mesmo para itens gravados antes de duas
+  // categorias serem agrupadas em uma família editorial.
+  const legacyCategories = {
+    "category:fone": ["category:audio"],
+    "category:headset": ["category:audio"],
+    "category:caixa_som": ["category:audio"],
+    "category:smartwatch": ["category:relogio"],
+    "category:suplementos": ["category:whey", "category:creatina"],
+  };
+  return [category, ...(legacyCategories[category] || [])];
 }
 
 function recentCategoryEntries(posted) {
@@ -311,13 +326,7 @@ function recentCategoryEntries(posted) {
 
 function categoryLastPublishedAt(posted, category) {
   if (!category) return 0;
-  const legacyCategories = {
-    "category:fone": ["category:audio"],
-    "category:headset": ["category:audio"],
-    "category:caixa_som": ["category:audio"],
-    "category:smartwatch": ["category:relogio"],
-  };
-  const categories = [category, ...(legacyCategories[category] || [])];
+  const categories = categoryAliases(category);
   return [...posted].reduce((latest, value) => {
     const matched = categories.find((item) => value.startsWith(`${item}:`));
     return matched ? Math.max(latest, Number(value.slice(matched.length + 1)) || 0) : latest;
