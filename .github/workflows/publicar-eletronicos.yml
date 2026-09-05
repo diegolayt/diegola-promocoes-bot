@@ -20,7 +20,7 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       TELEGRAM_MESSAGE_THREAD_ID: "958021"
       STATE_NAMESPACE: eletronicos
-      KEYWORDS: smartphone,notebook,tablet samsung,teclado gamer,mouse gamer,headset,caixa de som,playstation,xbox,smart tv samsung,air fryer,sanduicheira,forno elétrico,liquidificador,power bank,monitor
+      KEYWORDS: smartphone,notebook,tablet samsung,teclado gamer,mouse gamer,headset,caixa de som,playstation,xbox,smart tv samsung,air fryer,sanduicheira,forno elétrico,liquidificador,monitor
       FOCUS_TERMS: smartphone,celular,notebook,tablet,teclado,mouse,webcam,fone,headset,caixa de som,bluetooth,console,controle,gamepad,smart tv,televisão,televisao,air fryer,fritadeira,aspirador,forno elétrico,forno eletrico,liquidificador,ventilador,monitor,ssd,memória,cartão de memória,carregador,power bank,powerbank,sanduicheira,grill elétrico,grill eletrico,cafeteira
       EXCLUDED_TERMS: mesa,boia,brinquedo,infantil,bebê,bebe,papelaria,mochila,mochla,backpack,bolsa,medidor de pressão,medidor de pressao,pressão arterial,pressao arterial,esfigmomanômetro,esfigmomanometro
       MIN_DISCOUNT_PERCENT: "10"

@@ -260,7 +260,10 @@ function categoryKey(offer) {
     ["ventilador", ["ventilador"]],
     ["sanduicheira", ["sanduicheira", "grill eletrico", "grill elétrico"]],
     ["cafeteira", ["cafeteira"]],
-    ["power_bank", ["power bank", "powerbank"]],
+    // Carregador portátil, bateria externa e power bank são o mesmo tipo de
+    // produto para a rotação. Não podem alternar entre nomes para furar a
+    // trava de variedade.
+    ["power_bank", ["power bank", "powerbank", "carregador portatil", "carregador portátil", "bateria portatil", "bateria portátil", "bateria externa"]],
     ["soprador", ["soprador", "soprador de ar"]],
     ["energia", ["carregador", "power bank"]],
     ["camiseta", ["camiseta"]],
@@ -313,6 +316,7 @@ function categoryAliases(category) {
     "category:caixa_som": ["category:audio"],
     "category:smartwatch": ["category:relogio"],
     "category:suplementos": ["category:whey", "category:creatina"],
+    "category:power_bank": ["category:energia"],
   };
   return [category, ...(legacyCategories[category] || [])];
 }
@@ -382,6 +386,20 @@ function qualifies(offer, config, posted) {
     && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
 }
 
+// Usa exatamente os mesmos critérios de qualidade e de antirrepetição, mas
+// ignora somente a trava editorial de categoria. É acionado apenas se a
+// rotação rígida não encontrar nada, evitando que um tópico fique horas sem
+// publicar por haver poucas categorias elegíveis naquele momento.
+function qualifiesIgnoringCategoryRotation(offer, config, posted) {
+  const key = String(offer.itemId);
+  const commission = Number(offer.commissionRate || 0) * 100;
+  const imageKey = offerImageKey(offer);
+  const category = categoryKey(offer);
+  const price = Number(offer.priceMin || offer.priceMax || 0);
+  return key && offer.offerLink && category && matchesFocus(offer, config) && !hasRecentValue(posted, key) && !hasRecentValue(posted, offerNameKey(offer)) && !hasRecentValue(posted, offerNameSignatureKey(offer)) && !hasRecentValue(posted, offerLinkKey(offer)) && (!imageKey || !hasRecentValue(posted, imageKey)) && price >= config.minPrice
+    && Number(offer.priceDiscountRate || 0) >= config.minDiscount && commission >= config.minCommission;
+}
+
 function rememberOffer(posted, offer) {
   const publishedAt = Date.now();
   posted.add(seenKey(String(offer.itemId), publishedAt));
@@ -411,7 +429,7 @@ async function selectOffer(config, posted) {
     await new Promise((resolve) => setTimeout(resolve, 31_000)); // regra da Shopee sem scrollId
   }
   const distinct = [...new Map(candidates.map((offer) => [String(offer.itemId), offer])).values()];
-  const unique = distinct
+  let unique = distinct
     .filter((offer) => qualifies(offer, config, posted))
     // Primeiro vem a categoria que está há mais tempo sem aparecer. Só depois
     // usamos o desconto como desempate. Isso impede uma sequência de casacos,
@@ -420,6 +438,15 @@ async function selectOffer(config, posted) {
       const byCategoryAge = categoryLastPublishedAt(posted, categoryKey(a)) - categoryLastPublishedAt(posted, categoryKey(b));
       return byCategoryAge || Number(b.priceDiscountRate || 0) - Number(a.priceDiscountRate || 0);
     });
+  if (!unique.length) {
+    unique = distinct
+      .filter((offer) => qualifiesIgnoringCategoryRotation(offer, config, posted))
+      .sort((a, b) => {
+        const byCategoryAge = categoryLastPublishedAt(posted, categoryKey(a)) - categoryLastPublishedAt(posted, categoryKey(b));
+        return byCategoryAge || Number(b.priceDiscountRate || 0) - Number(a.priceDiscountRate || 0);
+      });
+    if (unique.length) console.warn("Rotação de categorias esgotada; usando a categoria aprovada há mais tempo sem repetir produto.");
+  }
   console.log(`Busca concluída: ${candidates.length} ofertas recebidas, ${distinct.length} distintas e ${unique.length} aprovadas.`);
   return unique[0] || null;
 }
