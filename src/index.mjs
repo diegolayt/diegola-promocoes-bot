@@ -254,12 +254,20 @@ function categoryKey(offer) {
     ["tablet", ["tablet"]],
     ["tv", ["smart tv", "televisao", "televisão", " tv "]],
     ["air_fryer", ["air fryer"]],
+    ["microondas", ["microondas", "micro-ondas"]],
+    ["geladeira", ["geladeira", "refrigerador", "frigobar"]],
+    ["maquina_lavar", ["maquina de lavar", "lava e seca"]],
+    ["robo_aspirador", ["robo aspirador", "robô aspirador"]],
     ["aspirador", ["aspirador"]],
     ["forno_eletrico", ["forno eletrico"]],
     ["liquidificador", ["liquidificador"]],
     ["ventilador", ["ventilador"]],
     ["sanduicheira", ["sanduicheira", "grill eletrico", "grill elétrico"]],
     ["cafeteira", ["cafeteira"]],
+    ["roteador", ["roteador", "router", "repetidor wifi", "repetidor wi-fi"]],
+    ["impressora", ["impressora"]],
+    ["camera_seguranca", ["camera de seguranca", "câmera de segurança", "camera wifi", "câmera wifi"]],
+    ["projetor", ["projetor"]],
     // Carregador portátil, bateria externa e power bank são o mesmo tipo de
     // produto para a rotação. Não podem alternar entre nomes para furar a
     // trava de variedade.
@@ -293,11 +301,15 @@ function categoryKey(offer) {
     // juntos impede que um fique alternando com o outro em ciclos curtos.
     ["suplementos", ["whey", "creatina", "barra de proteina", "barra de proteína", "pre treino", "pré treino"]],
     ["iogurte", ["danone", "iogurte"]],
-    ["bebida", ["refrigerante", "suco", "cafe"]],
+    ["cafe_cha", ["cafe", "café", "cha", "chá", "capsula de cafe", "cápsula de café"]],
+    ["bebida", ["refrigerante", "suco"]],
+    ["cereais", ["granola", "cereal", "aveia", "barra de cereal"]],
+    ["pasta_amendoim", ["pasta de amendoim", "amendoim", "castanha"]],
     ["sabao", ["sabao em po", "sabao em pó", "sabao liquido", "sabão líquido", "omo", "tixan"]],
     ["amaciante", ["amaciante", "comfort", "downy"]],
     ["detergente", ["detergente"]],
     ["desinfetante", ["desinfetante", "agua sanitaria", "água sanitária", "multiuso", "limpeza"]],
+    ["higiene", ["shampoo", "condicionador", "sabonete", "desodorante", "pasta de dente", "papel higienico", "papel higiênico"]],
   ];
   const found = categories.find(([, terms]) => terms.some((term) => name.includes(term)));
   if (found) return `category:${found[0]}`;

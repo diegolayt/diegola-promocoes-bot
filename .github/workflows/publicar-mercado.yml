@@ -20,8 +20,8 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       TELEGRAM_MESSAGE_THREAD_ID: "958026"
       STATE_NAMESPACE: mercado
-      KEYWORDS: biscoito,traquinas,passatempo,pringles,chocolate,nutella,salgadinho,lays,energético,whey protein,creatina,omo,amaciante,desinfetante,detergente
-      FOCUS_TERMS: biscoito,bolacha,cookie,traquinas,passatempo,oreo,chocolate,bombom,kitkat,nutella,creme de avelã,salgadinho,cheetos,doritos,lays,pringles,elma chips,energético,red bull,monster,whey,creatina,barra de proteína,refrigerante,suco,café,sabão,sabao,omo,amaciante,comfort,downy,detergente,desinfetante,água sanitária,agua sanitaria,multiuso,limpeza
+      KEYWORDS: biscoito,chocolate,salgadinho,energético,whey protein,creatina,refrigerante,granola,pasta de amendoim,café,omo,amaciante,desinfetante,detergente,shampoo,papel higiênico,sabonete
+      FOCUS_TERMS: biscoito,bolacha,cookie,traquinas,passatempo,oreo,chocolate,bombom,kitkat,nutella,creme de avelã,salgadinho,cheetos,doritos,lays,pringles,elma chips,energético,red bull,monster,whey,creatina,barra de proteína,refrigerante,suco,café,cafe,granola,cereal,aveia,pasta de amendoim,amendoim,castanha,sabão,sabao,omo,amaciante,comfort,downy,detergente,desinfetante,água sanitária,agua sanitaria,multiuso,limpeza,shampoo,condicionador,sabonete,desodorante,pasta de dente,papel higiênico
       EXCLUDED_TERMS: arroz,feijão,macarrão,farinha,infantil,bebê,bebe,brinquedo,papelaria,mesa,boia,saco,sacolé,sacole,saquinho,embalagem,descartável,pote,copo,forma,molde,canudo,utensílio,kit para fazer,biquíni,bikini,sandália,sandalia,sapato,tênis,tenis,calçado,calcado,vestido,lingerie,calcinha,sutiã,sutia,blusa,camisa,camiseta,calça,calca,shorts,bermuda,bolsa,mochila,boné,bone,brinco,colar,pulseira
       MIN_DISCOUNT_PERCENT: "10"
       MIN_COMMISSION_PERCENT: "1"
