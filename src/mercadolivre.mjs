@@ -9,7 +9,7 @@ const backupPath = join(root, "data", "posted.mercadolivre.backup.json");
 const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const authPath = join(root, "data", "mercadolivre-auth.json");
 const ROTATION_ITEMS = 200;
-const CATEGORY_ROTATION_ITEMS = 8;
+const CATEGORY_ROTATION_ITEMS = 12;
 
 // Categorias-folha com ranking oficial de mais vendidos. O endpoint /search
 // não é liberado para esta aplicação; /highlights é o recurso oficial feito
@@ -127,7 +127,17 @@ async function resolveHighlight(token, highlight, category) {
     raw = await apiGet(token, `/items/${encodeURIComponent(highlight.id)}`);
   } else if (highlight.type === "PRODUCT") {
     const product = await apiGet(token, `/products/${encodeURIComponent(highlight.id)}`);
-    raw = product.buy_box_winner || product;
+    raw = product.buy_box_winner;
+    // Rankings podem devolver uma página de catálogo sem preço. Nesse caso,
+    // seleciona uma oferta ativa e nunca publica um valor fictício de R$ 0,00.
+    if (!raw || !Number.isFinite(Number(raw.price)) || Number(raw.price) <= 0) {
+      const offers = await apiGet(token, `/products/${encodeURIComponent(product.id)}/items?status=active`);
+      const rows = offers.results || offers.items || [];
+      raw = rows
+        .filter((entry) => Number.isFinite(Number(entry.price)) && Number(entry.price) > 0)
+        .sort((a, b) => Number(b.sold_quantity || 0) - Number(a.sold_quantity || 0))[0];
+    }
+    if (!raw) return null;
     raw.catalog_product_id ||= product.id;
     raw.title ||= product.name;
     raw.thumbnail ||= product.pictures?.[0]?.url;
@@ -143,6 +153,43 @@ async function resolveHighlight(token, highlight, category) {
     sold_quantity: raw.sold_quantity || Math.max(1, 21 - Number(highlight.position || 20)) * 100,
     rotationCategory: category,
   };
+}
+
+function broadCategory(value) {
+  const title = normalizedTitle(value);
+  const groups = [
+    ["celular", /celular|smartphone|iphone|galaxy|xiaomi|motorola/],
+    ["computador", /notebook|computador|monitor|teclado|mouse|webcam|impressora/],
+    ["áudio", /fone|headset|caixa de som|soundbar|microfone|alto falante/],
+    ["tv", /televisao|smart tv|projetor/],
+    ["games", /videogame|console|playstation|xbox|nintendo|controle gamer/],
+    ["eletrodoméstico", /air fryer|fritadeira|geladeira|microondas|forno|liquidificador|cafeteira|aspirador|ventilador|ar condicionado|sanduicheira/],
+    ["moda", /camisa|camiseta|calca|tenis|sapato|jaqueta|moletom|bermuda|vestido/],
+    ["beleza", /perfume|cosmetico|maquiagem|barbeador|secador/],
+    ["casa", /cadeira|mesa|colchao|cozinha|banheiro|torneira|ferramenta/],
+    ["esporte", /academia|fitness|bicicleta|futebol|corrida|whey|creatina/],
+  ];
+  return groups.find(([, regex]) => regex.test(title))?.[0] || `outros:${title.split(" ").slice(0, 2).join("-")}`;
+}
+
+async function searchTrendingProducts(token, history) {
+  const trends = await apiGet(token, "/trends/MLB");
+  const desired = Array.isArray(trends) ? trends.slice(10, 30) : [];
+  const offset = history.length % Math.max(1, desired.length);
+  const wanted = [...desired.slice(offset), ...desired.slice(0, offset)].slice(0, 8);
+  const resolved = [];
+  for (const trend of wanted) {
+    try {
+      const found = await apiGet(token, `/products/search?status=active&site_id=MLB&limit=3&q=${encodeURIComponent(trend.keyword)}`);
+      for (const product of (found.results || []).slice(0, 3)) {
+        const item = await resolveHighlight(token, { id: product.id, type: "PRODUCT", position: 20 }, broadCategory(product.name || trend.keyword));
+        if (item) resolved.push({ ...item, trendRank: true });
+      }
+    } catch (error) {
+      console.warn(`Tendência ${trend.keyword} ignorada: ${error.message}`);
+    }
+  }
+  return resolved;
 }
 
 async function searchProducts(token, categoryId, category) {
@@ -177,7 +224,8 @@ function normalizedTitle(title) {
 }
 
 function isEligible(item, history) {
-  if (!item.id || !item.permalink || !item.title || Number(item.price) < 19.99) return false;
+  const price = Number(item.price);
+  if (!item.id || !item.permalink || !item.title || !Number.isFinite(price) || price < 19.99) return false;
   const title = normalizedTitle(item.title);
   if (/replica|inspirado|primeira linha|1 1|mochila|bolsa|backpack/.test(title) && item.rotationCategory !== "masculino") return false;
   const recent = history.slice(-ROTATION_ITEMS);
@@ -194,7 +242,8 @@ function score(item) {
   const price = Number(item.price || 0);
   const original = Number(item.original_price || 0);
   const discount = original > price ? (original - price) / original : 0;
-  return Math.log10(sold + 1) * 25 + discount * 100 + (item.official_store_id ? 20 : 0) + (item.shipping?.free_shipping ? 8 : 0);
+  // Mais vendidos têm prioridade; tendências entram como segunda fonte.
+  return Math.log10(sold + 1) * 25 + discount * 100 + (item.official_store_id ? 20 : 0) + (item.shipping?.free_shipping ? 8 : 0) - (item.trendRank ? 15 : 0);
 }
 
 async function selectProduct(history) {
@@ -206,6 +255,8 @@ async function selectProduct(history) {
     try { candidates.push(...await searchProducts(token, categoryId, category)); }
     catch (error) { console.warn(error.message); }
   }
+  try { candidates.push(...await searchTrendingProducts(token, history)); }
+  catch (error) { console.warn(`Tendências indisponíveis: ${error.message}`); }
   const distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
   const available = distinct.filter((item) => isEligible(item, history)).sort((a, b) => score(b) - score(a));
   console.log(`Mercado Livre: ${candidates.length} resultados, ${distinct.length} produtos distintos e ${available.length} aprovados.`);
