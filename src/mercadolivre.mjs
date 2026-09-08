@@ -10,15 +10,16 @@ const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const ROTATION_ITEMS = 200;
 const CATEGORY_ROTATION_ITEMS = 8;
 
+// Categorias-folha com ranking oficial de mais vendidos. O endpoint /search
+// não é liberado para esta aplicação; /highlights é o recurso oficial feito
+// justamente para obter os 20 campeões de venda por categoria.
 const searches = [
-  ["celular", "celular smartphone"], ["notebook", "notebook"], ["televisão", "smart tv"],
-  ["monitor", "monitor gamer"], ["console", "console videogame"], ["tablet", "tablet"],
-  ["áudio", "fone bluetooth"], ["áudio", "caixa de som bluetooth"], ["periférico", "teclado gamer"],
-  ["periférico", "mouse gamer"], ["eletrodoméstico", "air fryer"], ["eletrodoméstico", "cafeteira elétrica"],
-  ["eletrodoméstico", "sanduicheira elétrica"], ["eletrodoméstico", "aspirador de pó"],
-  ["eletrodoméstico", "ventilador"], ["ferramenta", "furadeira parafusadeira"],
-  ["masculino", "tênis masculino"], ["masculino", "perfume masculino original"],
-  ["masculino", "relógio masculino"], ["casa", "jogo de panelas"],
+  ["celular", "MLB1055"], ["televisão", "MLB1002"], ["monitor", "MLB99245"],
+  ["console", "MLB11172"], ["tablet", "MLB99889"], ["áudio", "MLB3843"],
+  ["periférico", "MLB1714"], ["eletrodoméstico", "MLB456045"],
+  ["eletrodoméstico", "MLB9188"], ["eletrodoméstico", "MLB31683"],
+  ["ferramenta", "MLB189007"], ["masculino", "MLB23332"],
+  ["perfume", "MLB6284"], ["relógio", "MLB26426"], ["casa", "MLB107564"],
 ];
 
 function required(name) {
@@ -75,15 +76,49 @@ async function getAccessToken() {
   return json.access_token;
 }
 
-async function searchProducts(token, query, category) {
-  const url = new URL("https://api.mercadolibre.com/sites/MLB/search");
-  url.searchParams.set("q", query);
-  url.searchParams.set("limit", "50");
-  url.searchParams.set("condition", "new");
-  const response = await fetch(url, { headers: { Authorization: `Bearer ${token}`, Accept: "application/json" } });
+async function apiGet(token, path) {
+  const response = await fetch(`https://api.mercadolibre.com${path}`, { headers: { Authorization: `Bearer ${token}`, Accept: "application/json" } });
   const json = await response.json();
-  if (!response.ok) throw new Error(`Busca "${query}" falhou (HTTP ${response.status}): ${json.message || "resposta inválida"}`);
-  return (json.results || []).map((item) => ({ ...item, rotationCategory: category }));
+  if (!response.ok) throw new Error(`${path} falhou (HTTP ${response.status}): ${json.message || "resposta inválida"}`);
+  return json;
+}
+
+async function resolveHighlight(token, highlight, category) {
+  let raw;
+  if (highlight.type === "ITEM") {
+    raw = await apiGet(token, `/items/${encodeURIComponent(highlight.id)}`);
+  } else if (highlight.type === "PRODUCT") {
+    const product = await apiGet(token, `/products/${encodeURIComponent(highlight.id)}`);
+    raw = product.buy_box_winner || product;
+    raw.catalog_product_id ||= product.id;
+    raw.title ||= product.name;
+    raw.thumbnail ||= product.pictures?.[0]?.url;
+    raw.permalink ||= product.permalink || `https://www.mercadolivre.com.br/p/${product.id}`;
+  } else {
+    return null;
+  }
+  return {
+    ...raw,
+    id: raw.item_id || raw.id,
+    title: raw.title || raw.name,
+    permalink: raw.permalink || `https://produto.mercadolivre.com.br/${String(raw.item_id || raw.id).replace(/^MLB/, "MLB-")}`,
+    sold_quantity: raw.sold_quantity || Math.max(1, 21 - Number(highlight.position || 20)) * 100,
+    rotationCategory: category,
+  };
+}
+
+async function searchProducts(token, categoryId, category) {
+  const ranking = await apiGet(token, `/highlights/MLB/category/${categoryId}`);
+  const resolved = [];
+  for (const highlight of (ranking.content || []).slice(0, 20)) {
+    try {
+      const item = await resolveHighlight(token, highlight, category);
+      if (item) resolved.push(item);
+    } catch (error) {
+      console.warn(`Ignorando ${highlight.id}: ${error.message}`);
+    }
+  }
+  return resolved;
 }
 
 function affiliateUrl(permalink) {
@@ -129,8 +164,8 @@ async function selectProduct(history) {
   const offset = history.length % searches.length;
   const ordered = [...searches.slice(offset), ...searches.slice(0, offset)];
   const candidates = [];
-  for (const [category, query] of ordered) {
-    try { candidates.push(...await searchProducts(token, query, category)); }
+  for (const [category, categoryId] of ordered) {
+    try { candidates.push(...await searchProducts(token, categoryId, category)); }
     catch (error) { console.warn(error.message); }
   }
   const distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
