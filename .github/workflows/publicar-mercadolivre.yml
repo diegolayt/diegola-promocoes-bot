@@ -1,0 +1,74 @@
+name: Publicar Mercado Livre
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: publicar-mercadolivre
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Reservar produto sem repetição
+        run: npm run ml:reserve
+        env:
+          MERCADOLIVRE_CLIENT_ID: ${{ secrets.MERCADOLIVRE_CLIENT_ID }}
+          MERCADOLIVRE_CLIENT_SECRET: ${{ secrets.MERCADOLIVRE_CLIENT_SECRET }}
+          MERCADOLIVRE_MATT_WORD: ${{ secrets.MERCADOLIVRE_MATT_WORD }}
+          MERCADOLIVRE_MATT_TOOL: ${{ secrets.MERCADOLIVRE_MATT_TOOL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE_THREAD_ID: "960130"
+
+      - name: Salvar reserva antes de publicar
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -m "Reserva oferta Mercado Livre"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
+          fi
+
+      - name: Publicar no Telegram
+        run: npm run ml:publish
+        env:
+          MERCADOLIVRE_MATT_WORD: ${{ secrets.MERCADOLIVRE_MATT_WORD }}
+          MERCADOLIVRE_MATT_TOOL: ${{ secrets.MERCADOLIVRE_MATT_TOOL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE_THREAD_ID: "960130"
+
+      - name: Confirmar publicação
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -m "Confirma publicação Mercado Livre"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
+          fi

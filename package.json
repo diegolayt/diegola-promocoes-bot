@@ -7,7 +7,10 @@
     "start": "node src/index.mjs",
     "once": "node src/index.mjs --once",
     "reserve": "node src/index.mjs --reserve",
-    "publish-reserved": "node src/index.mjs --publish-reserved"
+    "publish-reserved": "node src/index.mjs --publish-reserved",
+    "ml:once": "node src/mercadolivre.mjs --once",
+    "ml:reserve": "node src/mercadolivre.mjs --reserve",
+    "ml:publish": "node src/mercadolivre.mjs --publish-reserved"
   },
   "engines": {
     "node": ">=20"
