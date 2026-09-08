@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB7216335252",
+    "site_id": "MLB",
+    "seller_id": 1034419747,
+    "accepts_mercadopago": true,
+    "price": 223,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "standard_price_by_quantity",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 212422,
+    "original_price": 449.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4172039075",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB74834131",
+    "title": "Fone Videogame Console De Mao Retro X9 Portatil Jogos branco",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_877397-MLA112819655892_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB74834131",
+    "id": "MLB7216335252",
+    "sold_quantity": 800,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-08T23:31:45.295Z"
+}
