@@ -1,4 +1,4 @@
-import { createHash } from "node:crypto";
+import { createCipheriv, createDecipheriv, createHash, randomBytes } from "node:crypto";
 import { mkdir, readFile, unlink, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -7,6 +7,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const statePath = join(root, "data", "posted.mercadolivre.json");
 const backupPath = join(root, "data", "posted.mercadolivre.backup.json");
 const pendingPath = join(root, "data", "pending.mercadolivre.json");
+const authPath = join(root, "data", "mercadolivre-auth.json");
 const ROTATION_ITEMS = 200;
 const CATEGORY_ROTATION_ITEMS = 8;
 
@@ -60,12 +61,32 @@ async function clearPending() {
   try { await unlink(pendingPath); } catch (error) { if (error.code !== "ENOENT") throw error; }
 }
 
-async function getAccessToken() {
-  const body = new URLSearchParams({
-    grant_type: "client_credentials",
-    client_id: required("MERCADOLIVRE_CLIENT_ID"),
-    client_secret: required("MERCADOLIVRE_CLIENT_SECRET"),
-  });
+function cryptKey() {
+  return createHash("sha256").update(required("MERCADOLIVRE_CLIENT_SECRET")).digest();
+}
+
+async function readAuth() {
+  try {
+    const saved = JSON.parse(await readFile(authPath, "utf8"));
+    const decipher = createDecipheriv("aes-256-gcm", cryptKey(), Buffer.from(saved.iv, "base64"));
+    decipher.setAuthTag(Buffer.from(saved.tag, "base64"));
+    return JSON.parse(Buffer.concat([decipher.update(Buffer.from(saved.data, "base64")), decipher.final()]).toString("utf8"));
+  } catch (error) {
+    if (error.code === "ENOENT") return null;
+    throw new Error(`Credencial renovável do Mercado Livre inválida: ${error.message}`);
+  }
+}
+
+async function writeAuth(auth) {
+  const iv = randomBytes(12);
+  const cipher = createCipheriv("aes-256-gcm", cryptKey(), iv);
+  const encrypted = Buffer.concat([cipher.update(JSON.stringify(auth)), cipher.final()]);
+  await mkdir(dirname(authPath), { recursive: true });
+  await writeFile(authPath, JSON.stringify({ iv: iv.toString("base64"), tag: cipher.getAuthTag().toString("base64"), data: encrypted.toString("base64") }, null, 2));
+}
+
+async function exchangeToken(parameters) {
+  const body = new URLSearchParams({ client_id: required("MERCADOLIVRE_CLIENT_ID"), client_secret: required("MERCADOLIVRE_CLIENT_SECRET"), ...parameters });
   const response = await fetch("https://api.mercadolibre.com/oauth/token", {
     method: "POST",
     headers: { "Content-Type": "application/x-www-form-urlencoded", Accept: "application/json" },
@@ -73,7 +94,24 @@ async function getAccessToken() {
   });
   const json = await response.json();
   if (!response.ok || !json.access_token) throw new Error(`Autenticação do Mercado Livre falhou (HTTP ${response.status}): ${json.message || json.error || "resposta inválida"}`);
-  return json.access_token;
+  return { ...json, expiresAt: Date.now() + Number(json.expires_in || 21600) * 1000 };
+}
+
+async function getAccessToken() {
+  let auth = await readAuth();
+  if (auth?.access_token && Number(auth.expiresAt) > Date.now() + 5 * 60_000) return auth.access_token;
+  if (auth?.refresh_token) {
+    auth = await exchangeToken({ grant_type: "refresh_token", refresh_token: auth.refresh_token });
+  } else {
+    const code = required("MERCADOLIVRE_AUTH_CODE");
+    auth = await exchangeToken({
+      grant_type: "authorization_code",
+      code,
+      redirect_uri: "https://github.com/diegolayt/diegola-promocoes-bot",
+    });
+  }
+  await writeAuth(auth);
+  return auth.access_token;
 }
 
 async function apiGet(token, path) {
