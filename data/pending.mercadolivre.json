@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB4145841299",
+    "site_id": "MLB",
+    "seller_id": 1859317514,
+    "accepts_mercadopago": true,
+    "price": 36.1,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 15 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "dynamic_standard_price",
+      "catalog_boost",
+      "has_published_clips",
+      "kit_component",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 83082,
+    "original_price": 69.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0VYVDdjZTBi",
+        "name": "Extrema"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 15,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "15 dias",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU3321425460",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB53342774",
+    "title": "BODY SPLASH MASCULINO BARBARIUS 200ML - PRIMACIAL PERFUME AMADEIRADO",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_678849-MLA88887060350_082025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB53342774",
+    "id": "MLB4145841299",
+    "sold_quantity": 1300,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-09T07:47:07.279Z"
+}
