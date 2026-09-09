@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB5911063798",
+    "site_id": "MLB",
+    "seller_id": 584911659,
+    "accepts_mercadopago": true,
+    "price": 2198,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 5590,
+    "original_price": 3189.71,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTcyOTU",
+        "name": "Guarulhos"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBBUnQ5bXdm",
+        "name": "Parque São Miguel"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3539758141",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB58623212",
+    "title": "Nintendo Switch Console OLED 64gb",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB58623212",
+    "id": "MLB5911063798",
+    "sold_quantity": 1500,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-09T02:47:17.786Z"
+}
