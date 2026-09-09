@@ -1,0 +1,77 @@
+{
+  "item": {
+    "item_id": "MLB4836902343",
+    "site_id": "MLB",
+    "seller_id": 323697852,
+    "accepts_mercadopago": true,
+    "price": 4099,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 1626,
+    "original_price": 6314.6,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 18.12
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0lQQTYxODQxOQ",
+        "name": "Ipameri"
+      },
+      "state": {
+        "id": "TUxCUEdPSVMxNzVmMw",
+        "name": "Goiás"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNBVjgxNzIxMQ",
+        "name": "Cavalheiro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3769817533",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB54963150",
+    "title": "Console Playstation 5 Slim Edição Digital 825 Gb",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_971864-MLA91925160023_092025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB54963150",
+    "id": "MLB4836902343",
+    "sold_quantity": 1900,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-09T06:01:36.130Z"
+}
