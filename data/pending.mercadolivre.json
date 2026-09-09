@@ -1,0 +1,78 @@
+{
+  "item": {
+    "item_id": "MLB6943757138",
+    "site_id": "MLB",
+    "seller_id": 1266417954,
+    "accepts_mercadopago": true,
+    "price": 19.99,
+    "category_id": "MLB1714",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 203682,
+    "original_price": 49.99,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+        "name": "Jundiaí"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIFNhbnRhIEdlcnRydWRlc1RWa",
+        "name": "Jardim Santa Gertrudes"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4077205648",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB72674962",
+    "title": "Mouse Sem Fio Recarregável Bluetooth Wireless Ergonômico Óptico Informática Gamer Led Rgb Notebook Pc Tablet Smartphone Comica",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_698387-MLA112152526650_062026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB72674962",
+    "id": "MLB6943757138",
+    "sold_quantity": 1900,
+    "rotationCategory": "periférico"
+  },
+  "reservedAt": "2026-09-09T03:16:42.402Z"
+}
