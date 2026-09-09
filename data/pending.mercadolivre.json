@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB7224329990",
+    "site_id": "MLB",
+    "seller_id": 3466133417,
+    "accepts_mercadopago": true,
+    "price": 439.12,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "standard_price_by_quantity",
+      "user_product_unify",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 998,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYU29yb2NhYmFUVXhDVUZOQlQwODVOMkU0",
+        "name": "Sorocaba"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQm9hIFZpc3RhVFZoWVUyOXliMk5oWW1GV",
+        "name": "Boa Vista"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU4309184633",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB62751919",
+    "title": "Monitor Portátil 15.6''com Usb C Dupla/hdmi Fhd 1080p 60hz",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_626700-MLA99662959648_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB62751919",
+    "id": "MLB7224329990",
+    "sold_quantity": 1100,
+    "rotationCategory": "monitor"
+  },
+  "reservedAt": "2026-09-09T09:01:44.608Z"
+}
