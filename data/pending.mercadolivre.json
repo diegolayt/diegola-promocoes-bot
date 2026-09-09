@@ -1,0 +1,73 @@
+{
+  "item": {
+    "item_id": "MLB7158521510",
+    "site_id": "MLB",
+    "seller_id": 3003157451,
+    "accepts_mercadopago": true,
+    "price": 2064.39,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "standard_price_by_channel",
+      "cbt_item",
+      "cbt_fulfillment_us",
+      "net_proceeds_prices",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 3686.46,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "cbt_fulfillment"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "China Grove"
+      },
+      "state": {
+        "id": "",
+        "name": "Texas"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB57289097",
+    "title": "Tablet Samsung Tab S10 Lite 128GB 6GB RAM 10,9” cor prata",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_922216-MLA93017736893_092025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB57289097",
+    "id": "MLB7158521510",
+    "sold_quantity": 1700,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-09T03:02:16.385Z"
+}
