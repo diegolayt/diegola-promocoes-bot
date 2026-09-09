@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB6594019728",
+    "site_id": "MLB",
+    "seller_id": 518226649,
+    "accepts_mercadopago": true,
+    "price": 135,
+    "category_id": "MLB9188",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kit_component",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 61486,
+    "original_price": 299,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1ZJTGU5YTdl",
+        "name": "Vila Velha"
+      },
+      "state": {
+        "id": "TUxCUEVTUE8xN2Y3NA",
+        "name": "Espírito Santo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3897093026",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB15737844",
+    "title": "Cafeteira Elétrica BLACK+DECKER 15 a 18 Cafés CM15 Com Jarra de Inox",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_620798-MLA99527121936_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB15737844",
+    "id": "MLB6594019728",
+    "sold_quantity": 900,
+    "rotationCategory": "eletrodoméstico"
+  },
+  "reservedAt": "2026-09-09T20:16:12.792Z"
+}
