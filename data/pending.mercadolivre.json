@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB5893192142",
+    "site_id": "MLB",
+    "seller_id": 200524310,
+    "accepts_mercadopago": true,
+    "price": 554.88,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 80562,
+    "original_price": 899,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTQ1MDE",
+        "name": "São Caetano do Sul"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBSTzg3MDE",
+        "name": "Prosperidade"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3530906503",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB38017111",
+    "title": "Monitor Gamer LG 24MS500-B 24ms Ips Fullhd 100hz Ajuste de Inclinação Negro",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921982-MLA99962503055_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB38017111",
+    "id": "MLB5893192142",
+    "sold_quantity": 1700,
+    "rotationCategory": "monitor"
+  },
+  "reservedAt": "2026-09-09T18:46:39.917Z"
+}
