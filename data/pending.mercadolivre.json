@@ -1,0 +1,73 @@
+{
+  "item": {
+    "item_id": "MLB6938452632",
+    "site_id": "MLB",
+    "seller_id": 3246949086,
+    "accepts_mercadopago": true,
+    "price": 2970.12,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "net_proceeds_prices",
+      "cbt_item",
+      "standard_price_by_channel",
+      "cbt_fulfillment_us",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "cbt_fulfillment"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "China Grove"
+      },
+      "state": {
+        "id": "",
+        "name": "Texas"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB49200061",
+    "title": "Console Nintendo Switch 2, Modelo Nacional de Tomada",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB49200061",
+    "id": "MLB6938452632",
+    "sold_quantity": 1600,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-10T08:16:25.388Z"
+}
