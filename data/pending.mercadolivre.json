@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB4166752343",
+    "site_id": "MLB",
+    "seller_id": 2120349894,
+    "accepts_mercadopago": true,
+    "price": 110.02,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 2 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 457662,
+    "original_price": 199.99,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping",
+        "proximity"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTk0MDc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNBTjhhYWR4",
+        "name": "Canindé"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 2,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "2 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3365620461",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB50283368",
+    "title": "Parafusadeira Furadeira Sem Fio 2 Baterias 340w 1550 Rpm Cor Amarelo",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_889490-MLA99461631446_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB50283368",
+    "id": "MLB4166752343",
+    "sold_quantity": 1200,
+    "rotationCategory": "ferramenta"
+  },
+  "reservedAt": "2026-09-10T03:47:03.673Z"
+}
