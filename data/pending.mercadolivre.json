@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5892892042",
+    "site_id": "MLB",
+    "seller_id": 85263796,
+    "accepts_mercadopago": true,
+    "price": 639,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "deal_of_the_day",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 3401,
+    "original_price": 1070,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQXJ1asOhVFV4Q1VGTkJUMDg1TjJFNA",
+        "name": "Arujá"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3523024207",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB61455819",
+    "title": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_748152-MLA96322082514_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB61455819",
+    "id": "MLB5892892042",
+    "sold_quantity": 2000,
+    "rotationCategory": "monitor"
+  },
+  "reservedAt": "2026-09-10T04:31:55.840Z"
+}
