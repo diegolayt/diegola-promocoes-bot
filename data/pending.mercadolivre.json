@@ -1,0 +1,84 @@
+{
+  "item": {
+    "item_id": "MLB4142836978",
+    "site_id": "MLB",
+    "seller_id": 1109075514,
+    "accepts_mercadopago": true,
+    "price": 135.15,
+    "category_id": "MLB26426",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 12 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "extended_warranty_eligible",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 70054,
+    "original_price": 259,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0ZST2QwZmI3",
+        "name": "Fronteira"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 dias",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU1442491074",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB18115557",
+    "title": "Relógio De Pulso Casio Youth W-218H-1AV",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_823304-MLA115822777673_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB18115557",
+    "id": "MLB4142836978",
+    "sold_quantity": 600,
+    "rotationCategory": "relógio"
+  },
+  "reservedAt": "2026-09-10T00:16:00.870Z"
+}
