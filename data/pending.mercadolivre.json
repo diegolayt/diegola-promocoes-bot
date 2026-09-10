@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB3695363229",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 84.9,
+    "category_id": "MLB31683",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "good_quality_thumbnail",
+      "dynamic_standard_price",
+      "first_party",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2707,
+    "original_price": 154.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU1155281419",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB22607777",
+    "title": "Sanduicheira Mondial Master Grill Mondial 750W S-20",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_684525-MLU72639791707_112023-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB22607777",
+    "id": "MLB3695363229",
+    "sold_quantity": 1600,
+    "rotationCategory": "eletrodoméstico"
+  },
+  "reservedAt": "2026-09-10T22:16:40.755Z"
+}
