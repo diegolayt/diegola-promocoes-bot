@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5913260442",
+    "site_id": "MLB",
+    "seller_id": 2592900341,
+    "accepts_mercadopago": true,
+    "price": 95.97,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 341842,
+    "original_price": 174.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYVmluaGVkb1RVeENVRk5CVDA4NU4yRTQ",
+        "name": "Vinhedo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQ2VudHJvVFZoWVZtbHVhR1ZrYjFSVmVFT",
+        "name": "Centro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU3379517120",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB22238931",
+    "title": "Furadeira De Impacto Einhell Th Id 550/1",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_952443-MLA99516461994_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB22238931",
+    "id": "MLB5913260442",
+    "sold_quantity": 200,
+    "rotationCategory": "ferramenta"
+  },
+  "reservedAt": "2026-09-10T16:46:29.809Z"
+}
