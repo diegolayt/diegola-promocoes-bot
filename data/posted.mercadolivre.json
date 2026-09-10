@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5093203779",
-    "productKey": "de4eec9097d88bdb8a364fb0f3e85879ef7a7ad3dcd76f452885235262be0afb",
-    "titleHash": "563048d443d787a2f53b63285baddcdbf316d4ded6353877678b5e12133c3db6",
-    "category": "televisão",
-    "reservedAt": "2026-09-08T21:46:23.932Z"
-  },
-  {
     "itemId": "MLB4515776631",
     "productKey": "d381c25d0176b94f842159ab32c4454d75f540183d06b4965d9294b16808ac40",
     "titleHash": "95f9e16ad91213b4cf6ce279de398899313144b6796a677047e96792d5660a9d",
@@ -1398,5 +1391,12 @@
     "titleHash": "4e21a569e001ae6eee5b7451faf8c0c513618282f9431e64790e6615304896f9",
     "category": "áudio",
     "reservedAt": "2026-09-10T23:31:18.171Z"
+  },
+  {
+    "itemId": "MLB4516658475",
+    "productKey": "bed9824c15628b2773847f3c1b86c86b19ca0749c96d33122b7e5b3b5f3f253e",
+    "titleHash": "087ef1e47e318558c1f07ef92e074d0fc34cdc170d30c05efc18fa4026802a7a",
+    "category": "televisão",
+    "reservedAt": "2026-09-10T23:46:36.528Z"
   }
 ]
