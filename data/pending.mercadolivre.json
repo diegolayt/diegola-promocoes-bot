@@ -1,0 +1,73 @@
+{
+  "item": {
+    "item_id": "MLB4316677885",
+    "site_id": "MLB",
+    "seller_id": 3003299087,
+    "accepts_mercadopago": true,
+    "price": 597.39,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "cbt_item",
+      "kvs_primary",
+      "net_proceeds_prices",
+      "standard_price_by_channel",
+      "cbt_fulfillment_us",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "cbt_fulfillment"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "China Grove"
+      },
+      "state": {
+        "id": "",
+        "name": "Texas"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB34380457",
+    "title": "Unidade De Disco Playstation 5 Slim Cor Branco",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA100007892529_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB34380457",
+    "id": "MLB4316677885",
+    "sold_quantity": 100,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-10T22:46:35.317Z"
+}
