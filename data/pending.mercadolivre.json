@@ -1,0 +1,77 @@
+{
+  "item": {
+    "item_id": "MLB5211156491",
+    "site_id": "MLB",
+    "seller_id": 3041806912,
+    "accepts_mercadopago": true,
+    "price": 71.05,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 4 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSXRhdGliYVRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Itatiba"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYTsO6Y2xlbyBSZXNpZGVuY2lhbCBEb3V0b",
+        "name": "Núcleo Residencial Doutor Luiz De Mattos Pimenta"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 4,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "4 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5123833567",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB68104527",
+    "title": "Kit Body Splash Masculino Barbarius + Enigma + Midtown 200ml",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_997574-MLA109633443994_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB68104527",
+    "id": "MLB5211156491",
+    "sold_quantity": 1600,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-10T13:02:08.238Z"
+}
