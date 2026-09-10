@@ -1,0 +1,79 @@
+{
+  "item": {
+    "item_id": "MLB5177838325",
+    "site_id": "MLB",
+    "seller_id": 3426891201,
+    "accepts_mercadopago": true,
+    "price": 847,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 1487,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQmFydWVyaVRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Barueri"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIEJlbHZhbFRWaFlRbUZ5ZFdWe",
+        "name": "Jardim Belval"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5095318042",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB54987753",
+    "title": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_807017-MLA91535682558_092025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB54987753",
+    "id": "MLB5177838325",
+    "sold_quantity": 2000,
+    "rotationCategory": "celular"
+  },
+  "reservedAt": "2026-09-10T18:46:36.663Z"
+}
