@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB3659386427",
+    "site_id": "MLB",
+    "seller_id": 768826009,
+    "accepts_mercadopago": true,
+    "price": 228.99,
+    "category_id": "MLB107501",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "dynamic_standard_price",
+      "good_quality_thumbnail",
+      "kvs_primary",
+      "first_party",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 4611,
+    "original_price": 276.73,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+        "name": "Distrito Industrial"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU2313342802",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB26687788",
+    "title": "Tramontina 6,0l Vancouver 24 Cm Grande Panela De Pressão",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_821083-MLA99502411020_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB26687788",
+    "id": "MLB3659386427",
+    "sold_quantity": 1800,
+    "rotationCategory": "casa"
+  },
+  "reservedAt": "2026-09-10T18:31:49.295Z"
+}
