@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB5296582028",
+    "site_id": "MLB",
+    "seller_id": 502603355,
+    "accepts_mercadopago": true,
+    "price": 152,
+    "category_id": "MLB1714",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 245,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTkxMjE",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlNBTjIxOTla",
+        "name": "Santo Amaro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3033780678",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB41149253",
+    "title": "Mouse Gamer Attack Shark X11 22.000 DPI Ultraleve 63g Bluetooth 2.4GHz USB-C Branco",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_712379-MLA111715244952_062026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB41149253",
+    "id": "MLB5296582028",
+    "sold_quantity": 1400,
+    "rotationCategory": "periférico"
+  },
+  "reservedAt": "2026-09-10T15:01:56.023Z"
+}
