@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB6755553584",
+    "site_id": "MLB",
+    "seller_id": 584911659,
+    "accepts_mercadopago": true,
+    "price": 1399,
+    "category_id": "MLB1002",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 164028,
+    "original_price": 1883.41,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTcyOTU",
+        "name": "Guarulhos"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBBUnQ5bXdm",
+        "name": "Parque São Miguel"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3952860213",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB20662382",
+    "title": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_994322-MLA99533174096_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB20662382",
+    "id": "MLB6755553584",
+    "sold_quantity": 400,
+    "rotationCategory": "televisão"
+  },
+  "reservedAt": "2026-09-10T17:16:45.339Z"
+}
