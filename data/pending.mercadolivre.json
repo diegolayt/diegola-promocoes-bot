@@ -1,0 +1,84 @@
+{
+  "item": {
+    "item_id": "MLB3942750191",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 55.92,
+    "category_id": "MLB1714",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "standard_price_by_quantity",
+      "user_product_unify",
+      "kvs_primary",
+      "dynamic_standard_price",
+      "catalog_boost",
+      "first_party",
+      "extended_warranty_eligible",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 4635,
+    "original_price": 79.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU2919413492",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB45508836",
+    "title": "Mouse Bluetooth Logitech M196 em cor grafite",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_863915-MLA99955334931_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB45508836",
+    "id": "MLB3942750191",
+    "sold_quantity": 500,
+    "rotationCategory": "periférico"
+  },
+  "reservedAt": "2026-09-11T10:31:26.971Z"
+}
