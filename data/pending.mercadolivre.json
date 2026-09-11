@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB5560222992",
+    "site_id": "MLB",
+    "seller_id": 1121892651,
+    "accepts_mercadopago": true,
+    "price": 37,
+    "category_id": "MLB3843",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 1 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "has_published_clips",
+      "standard_price_by_quantity",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 201984,
+    "original_price": 68.5,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTcyOTU",
+        "name": "Guarulhos"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlZJTDI1Mjc",
+        "name": "Vila Galvão"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU3349509606",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB53401865",
+    "title": "Caixa Caixinha De Som Bluetooth Pendrive Sd Fm Portátil Alto Falante Potente Estéreo Coolmusic Preto 20w",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_961687-MLA113661169873_062026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB53401865",
+    "id": "MLB5560222992",
+    "sold_quantity": 1800,
+    "rotationCategory": "áudio"
+  },
+  "reservedAt": "2026-09-11T15:45:59.606Z"
+}
