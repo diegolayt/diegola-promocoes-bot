@@ -1,0 +1,79 @@
+{
+  "item": {
+    "item_id": "MLB5086087047",
+    "site_id": "MLB",
+    "seller_id": 1154960366,
+    "accepts_mercadopago": true,
+    "price": 213.5,
+    "category_id": "MLB107564",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 350,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQXJhcmFzVFV4Q1VGTkJUMDg1TjJFNA",
+        "name": "Araras"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4807290568",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB75506680",
+    "title": "Jogo De Panelas Variadas Antiaderente 10 Peças - Bege Poá. Marfim",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921310-MLA114659220483_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB75506680",
+    "id": "MLB5086087047",
+    "sold_quantity": 900,
+    "rotationCategory": "casa"
+  },
+  "reservedAt": "2026-09-11T14:01:56.854Z"
+}

@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6255788298",
-    "productKey": "d2ad12d669f1db5069a5472992c53540ba20a191f90c143336c116c9f4c85bf8",
-    "titleHash": "8dc070294722bcd29c3759ade1a307690c0dcc2ede77b8149144d2319ac541a5",
-    "category": "masculino",
-    "reservedAt": "2026-09-09T12:01:47.389Z"
-  },
-  {
     "itemId": "MLB4325411061",
     "productKey": "d92fed14d7d60aacef7c703075d8a837ddc3c02df5bb705c781db4d22ddd522d",
     "titleHash": "c8b258ec420a0df0918ef90570e4fca77dbba5fae48e42d9736f4f565ada3194",
@@ -1398,5 +1391,12 @@
     "titleHash": "7d023ef81933d9e064cdbab9d19bd94dfe77c1c6ec057f6574bf7f655a57c221",
     "category": "periférico",
     "reservedAt": "2026-09-11T13:45:57.732Z"
+  },
+  {
+    "itemId": "MLB5086087047",
+    "productKey": "1984953db221eb12f2798067f743817ad4b1bb916a3c7fb84d23ee7a5e13110d",
+    "titleHash": "0fc65dd07a9749c78c10fcabf249fb3f628547ce577c113b4702a108eee4b283",
+    "category": "casa",
+    "reservedAt": "2026-09-11T14:01:56.852Z"
   }
 ]
