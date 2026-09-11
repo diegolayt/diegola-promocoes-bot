@@ -1,0 +1,77 @@
+{
+  "item": {
+    "item_id": "MLB4936159825",
+    "site_id": "MLB",
+    "seller_id": 1254076060,
+    "accepts_mercadopago": true,
+    "price": 22.5,
+    "category_id": "MLB1714",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 265526,
+    "original_price": 45,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYVsOhcnplYSBQYXVsaXN0YVRVeENVRk5CV",
+        "name": "Várzea Paulista"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYU8OtdGlvIERvIE11cnNhVFZoWVZzT2hjb",
+        "name": "Sítio Do Mursa"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4396144969",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB61226803",
+    "title": "Mouse Sem Fio Recarregável Rgb Maxnova Ergonômico Usb Gamer Branco",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_835837-MLA108024632331_032026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB61226803",
+    "id": "MLB4936159825",
+    "sold_quantity": 800,
+    "rotationCategory": "periférico"
+  },
+  "reservedAt": "2026-09-11T20:16:01.942Z"
+}
