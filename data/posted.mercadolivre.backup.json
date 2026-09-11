@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB1868909823",
-    "productKey": "991f39682e7a09d5b335c36cf0a7fbf3320b1919b9fc9b389308e8be9f0eff20",
-    "titleHash": "11123598345baae0f1960fb2ef7ee922bc390447d23211a508c0ff6faa9098e7",
-    "category": "periférico",
-    "reservedAt": "2026-09-09T16:17:16.188Z"
-  },
-  {
     "itemId": "MLB6706535682",
     "productKey": "00b14ae85745311ee4a26e9b8c9865df2bd8ff6efbea1ffe3a2a7676d673573c",
     "titleHash": "4332a25ca14ae5224eba2ede185ec0a12a02fe3a858ab4186ba84818edddb7f9",
@@ -1398,5 +1391,12 @@
     "titleHash": "af8ecbf6a7506bdcd10b33e7bff5a911769079c96c1f3518944ce0c629f93e6f",
     "category": "tablet",
     "reservedAt": "2026-09-11T18:02:06.754Z"
+  },
+  {
+    "itemId": "MLB4286084873",
+    "productKey": "c260467a1f22e58f63957cc7a2fa4bcf0a83ce5155ac9b18fc95176bff45f703",
+    "titleHash": "97d8f5488303a9731ba7b93b9e647f36295129546088dd8e9ca2f4614b0cf20e",
+    "category": "outros:de-2",
+    "reservedAt": "2026-09-11T18:16:30.929Z"
   }
 ]
