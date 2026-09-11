@@ -1,0 +1,64 @@
+{
+  "item": {
+    "item_id": "MLB4660482303",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 549,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "dynamic_standard_price",
+      "first_party",
+      "standard_price_by_quantity",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2962,
+    "original_price": 699,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU3450148366",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB51435621",
+    "title": "Monitor Gamer Samsung Essential S3, 24\" FHD, 120 Hz, HDMI, Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652104-MLA96195278152_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB51435621",
+    "id": "MLB4660482303",
+    "sold_quantity": 800,
+    "rotationCategory": "monitor"
+  },
+  "reservedAt": "2026-09-11T00:01:28.744Z"
+}
