@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4381275799",
-    "productKey": "54bcafff073ccc814c3bd481cc3716b86e54d551f7b8326f28c3b8cbb2537b7d",
-    "titleHash": "03b88914d8c3a628cc1087718a22d209d3aa678a69f64f804d17c20991db4c78",
-    "category": "tablet",
-    "reservedAt": "2026-09-08T23:47:17.141Z"
-  },
-  {
     "itemId": "MLB1813858157",
     "productKey": "cd49aae79bb3a2e24e6cbe92d19af6c93e7315d114e2c4f8be457ca9d10c61cd",
     "titleHash": "acd7395731aedb0be15dfde60b981483aea4bda99378654b60d94f491c9ccb75",
@@ -1398,5 +1391,12 @@
     "titleHash": "ee59843d9f1c91fc3782cceae9e642a58b8fb967229e16b54d3657840c0d43f6",
     "category": "eletrodoméstico",
     "reservedAt": "2026-09-11T01:31:04.027Z"
+  },
+  {
+    "itemId": "MLB4807650945",
+    "productKey": "6dea423b9a9533fd468af531ffbaebd6cb967c08c628743cfa8d147129dfb0e1",
+    "titleHash": "cdfb32015fca0b1827660c0b471c67c21d1c5a969b0191d9895910f064e17bdb",
+    "category": "tablet",
+    "reservedAt": "2026-09-11T01:46:51.742Z"
   }
 ]

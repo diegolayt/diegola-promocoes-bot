@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4807650945",
+    "site_id": "MLB",
+    "seller_id": 3446637274,
+    "accepts_mercadopago": true,
+    "price": 1319,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+        "name": "Presidente Prudente"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIFZhbGUgRG8gU29sVFZoWVVIS",
+        "name": "Jardim Vale Do Sol"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4153738762",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB55469325",
+    "title": "Tablets Xiaomi Redmi Pad 2 com 4 Gb de RAM e 128 Gb de ROM na cor violeta",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_612507-MLA97889624419_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB55469325",
+    "id": "MLB4807650945",
+    "sold_quantity": 2000,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-11T01:46:51.744Z"
+}
