@@ -1,0 +1,72 @@
+{
+  "item": {
+    "item_id": "MLB5220179029",
+    "site_id": "MLB",
+    "seller_id": 760771836,
+    "accepts_mercadopago": true,
+    "price": 1399.3,
+    "category_id": "MLB1002",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 3601,
+    "original_price": 1999,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 29.9
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JJR2MzODhl",
+        "name": "Biguaçu"
+      },
+      "state": {
+        "id": "TUxCUFNBTkE5Nzc4",
+        "name": "Santa Catarina"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4680405116",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB59090080",
+    "title": "Smart Tv 43 Aoc Led Roku Full Hd Wi-fi 60hz Hdmi Usb 43s5155/78g",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_600093-MLA115184611400_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB59090080",
+    "id": "MLB5220179029",
+    "sold_quantity": 900,
+    "rotationCategory": "televisão"
+  },
+  "reservedAt": "2026-09-11T19:15:58.990Z"
+}
