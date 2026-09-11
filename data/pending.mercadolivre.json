@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB4514233797",
+    "site_id": "MLB",
+    "seller_id": 768826009,
+    "accepts_mercadopago": true,
+    "price": 199,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "first_party",
+      "kit_component",
+      "dynamic_standard_price",
+      "1p_6x_campaign",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2707,
+    "original_price": 260,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+        "name": "Distrito Industrial"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3826994773",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB28765604",
+    "title": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_621555-MLA114663974288_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB28765604",
+    "id": "MLB4514233797",
+    "sold_quantity": 1700,
+    "rotationCategory": "ferramenta"
+  },
+  "reservedAt": "2026-09-11T12:16:36.448Z"
+}
