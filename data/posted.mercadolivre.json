@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7542206284",
-    "productKey": "0e87cb88ccb526deca4a31305edb943c1376fe9ef793fb2920f72df7e83edf32",
-    "titleHash": "407e2968450640ea66cd78350eb1d997ecdce50bed89b63fa36c8a6d59b8e51c",
-    "category": "outros:poco-x8",
-    "reservedAt": "2026-09-09T16:01:57.426Z"
-  },
-  {
     "itemId": "MLB1868909823",
     "productKey": "991f39682e7a09d5b335c36cf0a7fbf3320b1919b9fc9b389308e8be9f0eff20",
     "titleHash": "11123598345baae0f1960fb2ef7ee922bc390447d23211a508c0ff6faa9098e7",
@@ -1398,5 +1391,12 @@
     "titleHash": "7f2f4a5a7854a3b61993d25a0602ee3e88dba647be9b27143f2f78692e96c939",
     "category": "eletrodoméstico",
     "reservedAt": "2026-09-11T17:46:38.153Z"
+  },
+  {
+    "itemId": "MLB4576693657",
+    "productKey": "ebfca99113baae9978b988d1f819d8e7539d3e2c183d886f3ab977bebe2a6535",
+    "titleHash": "af8ecbf6a7506bdcd10b33e7bff5a911769079c96c1f3518944ce0c629f93e6f",
+    "category": "tablet",
+    "reservedAt": "2026-09-11T18:02:06.754Z"
   }
 ]
