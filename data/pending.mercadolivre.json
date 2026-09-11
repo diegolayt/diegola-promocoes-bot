@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4325411061",
+    "site_id": "MLB",
+    "seller_id": 344811873,
+    "accepts_mercadopago": true,
+    "price": 579,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 336666,
+    "original_price": 1499,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JSQTU2M2Yy",
+        "name": "Brasília"
+      },
+      "state": {
+        "id": "TUxCUERJU0wxMWJhYg",
+        "name": "Distrito Federal"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU3629247668",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB46560669",
+    "title": "Monitor Gamer Samsung 24\" FHD,100 Hz, HDMI, VGA,Preto, S3",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_931100-MLA99973037971_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB46560669",
+    "id": "MLB4325411061",
+    "sold_quantity": 600,
+    "rotationCategory": "monitor"
+  },
+  "reservedAt": "2026-09-11T16:16:12.021Z"
+}
