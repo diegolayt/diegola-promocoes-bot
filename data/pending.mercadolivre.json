@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB5452462868",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 89.01,
+    "category_id": "MLB1714",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 2 anos",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "dynamic_standard_price",
+      "first_party",
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 1858,
+    "original_price": 143.43,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 2,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "2 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3192785912",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB8752191",
+    "title": "Mouse Gamer Redragon Cobra Rgb Preto Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_678685-MLA95671095550_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB8752191",
+    "id": "MLB5452462868",
+    "sold_quantity": 1400,
+    "rotationCategory": "periférico"
+  },
+  "reservedAt": "2026-09-11T17:01:12.032Z"
+}
