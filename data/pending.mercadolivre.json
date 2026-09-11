@@ -1,0 +1,77 @@
+{
+  "item": {
+    "item_id": "MLB4243065885",
+    "site_id": "MLB",
+    "seller_id": 2393362329,
+    "accepts_mercadopago": true,
+    "price": 39.99,
+    "category_id": "MLB107482",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 1984,
+    "original_price": 54.5,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0lUQTEzMDAz",
+        "name": "Itapeva"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3355202729",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB28518886",
+    "title": "Frigideira Cozinha 18cm 0,7l Turim Antiaderente Tramontina",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_755847-MLA100067588859_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB28518886",
+    "id": "MLB4243065885",
+    "sold_quantity": 1800,
+    "rotationCategory": "casa"
+  },
+  "reservedAt": "2026-09-11T04:16:01.910Z"
+}
