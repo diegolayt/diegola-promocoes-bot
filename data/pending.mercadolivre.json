@@ -1,0 +1,84 @@
+{
+  "item": {
+    "item_id": "MLB3535018973",
+    "site_id": "MLB",
+    "seller_id": 1063424391,
+    "accepts_mercadopago": true,
+    "price": 290.22,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 180 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "good_quality_thumbnail",
+      "has_published_clips",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2160,
+    "original_price": 559.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTIzNTE",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQk7aQzB3MjVl",
+        "name": "Núcleo do Engordador"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 180,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "180 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU1158647953",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB28530314",
+    "title": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta The Black Tools",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB28530314",
+    "id": "MLB3535018973",
+    "sold_quantity": 1500,
+    "rotationCategory": "ferramenta"
+  },
+  "reservedAt": "2026-09-11T05:46:43.615Z"
+}
