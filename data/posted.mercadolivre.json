@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3782376983",
-    "productKey": "f896870b6050f0cbecd82f85c2c702df09d190f2fe124a634d32c2b9b26080ad",
-    "titleHash": "cd8195a219238688e29eb60800b16098a6f1b01d4858bcb18ec724bd9b95632e",
-    "category": "ferramenta",
-    "reservedAt": "2026-09-09T11:32:05.242Z"
-  },
-  {
     "itemId": "MLB4155584727",
     "productKey": "7a3adc50909495ea008799a9a343eb2b1337c93bc6b02f566b76ba5e6226cc1c",
     "titleHash": "ae65e1d234f01dda8476227ec3a7fd4249dca5d846eb601a3ab8949cd032ae2b",
@@ -1398,5 +1391,12 @@
     "titleHash": "908d5d38065971ef32f32e8adef38685d3cf8d2c2f562f16c6a4dfbdb8a780ac",
     "category": "masculino",
     "reservedAt": "2026-09-11T13:16:58.688Z"
+  },
+  {
+    "itemId": "MLB5418075830",
+    "productKey": "2210bd12caef19cd6a128f6227c474d03a53834a5dfc725a66ac84298e0b111b",
+    "titleHash": "0d4965722b86e0137ba01971e5e47eaebe0ab1421884ef0671a85cb0889fe06e",
+    "category": "perfume",
+    "reservedAt": "2026-09-11T13:31:34.960Z"
   }
 ]
