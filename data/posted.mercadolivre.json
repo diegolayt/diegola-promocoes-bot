@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4836902343",
-    "productKey": "66c7b386fec7fb85f448fd4205a17e5c311b3c889e1174ac013ae2dcf43aae20",
-    "titleHash": "07d3743c349b4b43431c41d55dd1faae21cec1c1353d6627af4ce3184f5efe2a",
-    "category": "console",
-    "reservedAt": "2026-09-09T06:01:36.127Z"
-  },
-  {
     "itemId": "MLB4571210341",
     "productKey": "163a58eb61a4412fd3d8f240ddd7f5289f8f32dcacde0ed36753c934187ee3cf",
     "titleHash": "bbadc9cd22e0fc10322d5d9ecfb6529569c91d8d21b055a58013b86b346e86c7",
@@ -1398,5 +1391,12 @@
     "titleHash": "b77df8f33456311fa7e8f08dbd9240d4c56a4dce54c4461c53c866454911678d",
     "category": "celular",
     "reservedAt": "2026-09-11T07:46:51.576Z"
+  },
+  {
+    "itemId": "MLB3313037975",
+    "productKey": "ce034a7c0ea40aa9808298839f69df38c505937c759c36a4901221fbc08a72c2",
+    "titleHash": "464b5572c7ccd03a414fb37b38be536d10a81902d90ef75652ee904987dafb82",
+    "category": "eletrodoméstico",
+    "reservedAt": "2026-09-11T08:01:18.165Z"
   }
 ]
