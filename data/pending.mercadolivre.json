@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5178641573",
+    "site_id": "MLB",
+    "seller_id": 3548540088,
+    "accepts_mercadopago": true,
+    "price": 134.95,
+    "category_id": "MLB26426",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 299.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTk0MDc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNFTjUwNzE",
+        "name": "Centro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5096632268",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB21387387",
+    "title": "Relógio de pulso Casio AQ-230 com corria de aço inoxidável cor dourado - fondo branco/dourado",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_974924-MLU77383605127_072024-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB21387387",
+    "id": "MLB5178641573",
+    "sold_quantity": 1500,
+    "rotationCategory": "relógio"
+  },
+  "reservedAt": "2026-09-11T15:17:06.766Z"
+}
