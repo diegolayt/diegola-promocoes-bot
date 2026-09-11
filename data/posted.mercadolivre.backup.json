@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3949441415",
-    "productKey": "05b84b93849ca0c3f686d42568e2f52f6f19021f5d4f720bb8163860e0512967",
-    "titleHash": "7ddd215d3c9f7147d63a7d8b721fd040c41f57e4fa5fa8e22d30e9dcc802917d",
-    "category": "relógio",
-    "reservedAt": "2026-09-09T01:31:05.536Z"
-  },
-  {
     "itemId": "MLB3525364839",
     "productKey": "f8b4730edfd7a1c2c3be39afc856de2c11a9c53521d83d76fd4823302070faf6",
     "titleHash": "16dd35246dab9fd4e88c940ad739fb232447f7844624e5cead9f86c28484bdb2",
@@ -1398,5 +1391,12 @@
     "titleHash": "89aefc55a86b317a4bf29f46fa2d19be287a6a64a0cb03acc75a127cc10bd09c",
     "category": "monitor",
     "reservedAt": "2026-09-11T03:16:34.114Z"
+  },
+  {
+    "itemId": "MLB4974716957",
+    "productKey": "4c6bd1d6a4f7801e3a32d9fcd2d6e8579a8fca238d36debc0a17cea7bbc773f2",
+    "titleHash": "84a8ab1cca29acd4ccc5a5367c39989640a68dd0265180ef94790b94fb9988ca",
+    "category": "masculino",
+    "reservedAt": "2026-09-11T03:31:42.281Z"
   }
 ]
