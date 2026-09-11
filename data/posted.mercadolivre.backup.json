@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4145841299",
-    "productKey": "f08d4994babb8ed212efd5605591078945819552d5a4cefbe77c1f078fbf3901",
-    "titleHash": "fe4d1b4dd37b62e9dd2ff589cb7bf0c797c938c9f6b5b6834f6e134de2b9d55d",
-    "category": "perfume",
-    "reservedAt": "2026-09-09T07:47:07.277Z"
-  },
-  {
     "itemId": "MLB4264223185",
     "productKey": "ec4b519641a7ee718abd48fe3b1b8d8885ba171f434be321ebc5bb9d78723a22",
     "titleHash": "06afb66b058ef953c3dd6a0f66324231fa8a63e66e1fea833a64c8ceeb921526",
@@ -1398,5 +1391,12 @@
     "titleHash": "673a514c6de388e3b8b5a6dc5cb8275c15f31855e63ff7e0d555007d7a832739",
     "category": "televisão",
     "reservedAt": "2026-09-11T09:31:32.679Z"
+  },
+  {
+    "itemId": "MLB5872798820",
+    "productKey": "ec3b73f24f9af25723e63ff1355e7b5ff02cb34d090b5d721fccf5800fec9e9c",
+    "titleHash": "802e07e18ad37e9baf3b34f820f7ba4701a7b6cb8c16f809cecbc989fc966db5",
+    "category": "monitor",
+    "reservedAt": "2026-09-11T09:46:49.929Z"
   }
 ]
