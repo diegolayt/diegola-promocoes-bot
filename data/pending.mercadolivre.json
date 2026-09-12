@@ -1,0 +1,70 @@
+{
+  "item": {
+    "item_id": "MLB7166721108",
+    "site_id": "MLB",
+    "seller_id": 533256392,
+    "accepts_mercadopago": true,
+    "price": 105.9,
+    "category_id": "MLB107564",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 199,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "Rio de Janeiro"
+      },
+      "state": {
+        "id": "",
+        "name": "Rio de Janeiro"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU4323437436",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB38808321",
+    "title": "Kit Panela Feijoada Caldo De Alumínio 3 Peças Industrial Prateado",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603869-MLA96127119343_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB38808321",
+    "id": "MLB7166721108",
+    "sold_quantity": 1500,
+    "rotationCategory": "casa"
+  },
+  "reservedAt": "2026-09-12T06:16:44.935Z"
+}
