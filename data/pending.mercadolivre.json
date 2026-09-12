@@ -1,0 +1,73 @@
+{
+  "item": {
+    "item_id": "MLB6171381236",
+    "site_id": "MLB",
+    "seller_id": 3101197694,
+    "accepts_mercadopago": true,
+    "price": 234.75,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "cbt_item",
+      "cbt_fulfillment_us",
+      "standard_price_by_channel",
+      "kvs_primary",
+      "net_proceeds_prices",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "cbt_fulfillment"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "China Grove"
+      },
+      "state": {
+        "id": "",
+        "name": "Texas"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19715509",
+    "title": "Perfume Armaf Club De Nuit Urban Elixir 105 Ml Edp-masculino",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_801300-MLA72798773716_112023-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19715509",
+    "id": "MLB6171381236",
+    "sold_quantity": 1100,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-12T20:16:54.161Z"
+}
