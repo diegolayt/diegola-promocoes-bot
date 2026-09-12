@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4487140697",
+    "site_id": "MLB",
+    "seller_id": 1116518230,
+    "accepts_mercadopago": true,
+    "price": 999,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 51,
+    "original_price": 1599,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0VYVDdjZTBi",
+        "name": "Extrema"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3806965507",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB62511762",
+    "title": "Celular Smartphone Realme C73 128gb 4gb Ram Dual Sim 120hz 6000mAh Violeta",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_799364-MLA102612646955_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB62511762",
+    "id": "MLB4487140697",
+    "sold_quantity": 400,
+    "rotationCategory": "celular"
+  },
+  "reservedAt": "2026-09-12T09:45:54.557Z"
+}
