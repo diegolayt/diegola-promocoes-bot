@@ -1,0 +1,77 @@
+{
+  "item": {
+    "item_id": "MLB5225203667",
+    "site_id": "MLB",
+    "seller_id": 177129936,
+    "accepts_mercadopago": true,
+    "price": 66.24,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 1 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 129.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [],
+      "cost": 43.993152
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQXJhcmFzVFV4Q1VGTkJUMDg1TjJFNA",
+        "name": "Araras"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYUGFycXVlIERhcyDDgXJ2b3Jlc1RWaFlRW",
+        "name": "Parque Das Árvores"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5179167232",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB68104527",
+    "title": "Kit Body Splash Masculino Barbarius + Enigma + Midtown 200ml",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_997574-MLA109633443994_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB68104527",
+    "id": "MLB5225203667",
+    "sold_quantity": 1700,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-12T18:46:55.739Z"
+}
