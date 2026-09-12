@@ -1,0 +1,87 @@
+{
+  "item": {
+    "item_id": "MLB3883382057",
+    "site_id": "MLB",
+    "seller_id": 1109075514,
+    "accepts_mercadopago": true,
+    "price": 280,
+    "category_id": "MLB26426",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "dynamic_standard_price",
+      "extended_warranty_eligible",
+      "fvf_discount_item",
+      "good_quality_thumbnail",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 70054,
+    "original_price": 389,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0ZST2QwZmI3",
+        "name": "Fronteira"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU2445383826",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB39333655",
+    "title": "Relógio Technos Masculino 2115NAP/1A 45 Milímetros Casual em Aço Inoxidável Prova D´Agua 50 Metros com Calendário Fundo Azul",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_795743-MLA116271778571_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB39333655",
+    "id": "MLB3883382057",
+    "sold_quantity": 600,
+    "rotationCategory": "relógio"
+  },
+  "reservedAt": "2026-09-12T01:01:51.650Z"
+}
