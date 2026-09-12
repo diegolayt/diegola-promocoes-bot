@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4870163935",
+    "site_id": "MLB",
+    "seller_id": 311083618,
+    "accepts_mercadopago": true,
+    "price": 830,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 1699.99,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYVmluaGVkb1RVeENVRk5CVDA4NU4yRTQ",
+        "name": "Vinhedo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQ2VudHJvVFZoWVZtbHVhR1ZrYjFSVmVFT",
+        "name": "Centro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4251616963",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB55044657",
+    "title": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Cinza",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_807545-MLA91949036595_092025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB55044657",
+    "id": "MLB4870163935",
+    "sold_quantity": 2000,
+    "rotationCategory": "celular"
+  },
+  "reservedAt": "2026-09-12T22:46:34.272Z"
+}
