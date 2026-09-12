@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB3897807155",
+    "site_id": "MLB",
+    "seller_id": 1191885645,
+    "accepts_mercadopago": true,
+    "price": 4880,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "good_quality_thumbnail",
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 318402,
+    "original_price": 6000,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTk0MDc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlNBTnptY2do",
+        "name": "Santa Efigênia"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU2700159401",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB70042630",
+    "title": "Playstation 5 Slim Digital 825gb Branco Novo Cfi-2114 2 Controles Dualsense Originais Sony Ps5 Lacrado Console Completo Ssd Ultra Rápido 4k Ray Tracing Wifi Bluetooth",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_979186-MLA110974759368_052026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB70042630",
+    "id": "MLB3897807155",
+    "sold_quantity": 1700,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-12T10:31:02.013Z"
+}
