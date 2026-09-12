@@ -1,0 +1,72 @@
+{
+  "item": {
+    "item_id": "MLB4085175433",
+    "site_id": "MLB",
+    "seller_id": 1957713361,
+    "accepts_mercadopago": true,
+    "price": 75.95,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kit_component",
+      "user_product_unify",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 95106,
+    "original_price": 189.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTY5NzA",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBBUmMxbjQ5",
+        "name": "Parque Anhangüera"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3215896939",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB45358161",
+    "title": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_916194-MLA114865292471_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB45358161",
+    "id": "MLB4085175433",
+    "sold_quantity": 1200,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-12T05:46:14.493Z"
+}
