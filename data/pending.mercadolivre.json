@@ -1,0 +1,72 @@
+{
+  "item": {
+    "item_id": "MLB7348198478",
+    "site_id": "MLB",
+    "seller_id": 571954063,
+    "accepts_mercadopago": true,
+    "price": 329.7,
+    "category_id": "MLB107564",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 310764,
+    "original_price": 699,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTQzMzc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlZJTG8xZTBz",
+        "name": "Vila Santo Henrique"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3760613893",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB66891534",
+    "title": "Jogo De Panelas Cerâmico Triplo Indução Vitrex Ecoglid 5 Peças Cor Preto Granito",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_729072-MLA109111585999_032026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB66891534",
+    "id": "MLB7348198478",
+    "sold_quantity": 1700,
+    "rotationCategory": "casa"
+  },
+  "reservedAt": "2026-09-12T19:15:59.843Z"
+}
