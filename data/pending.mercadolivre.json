@@ -1,0 +1,70 @@
+{
+  "item": {
+    "item_id": "MLB5505469078",
+    "site_id": "MLB",
+    "seller_id": 1230369845,
+    "accepts_mercadopago": true,
+    "price": 23.99,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 39.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTQzMzc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlZJTHpjaTYy",
+        "name": "Vila Nova"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3299885029",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB36931922",
+    "title": "Desodorante Colônia Cebolinha Turma da Mônica 25ml",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_685367-MLA115708034876_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB36931922",
+    "id": "MLB5505469078",
+    "sold_quantity": 1900,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-12T15:31:37.686Z"
+}
