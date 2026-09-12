@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB4902600247",
+    "site_id": "MLB",
+    "seller_id": 3513312421,
+    "accepts_mercadopago": true,
+    "price": 1785.54,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "cbt_item",
+      "net_proceeds_prices",
+      "kvs_primary",
+      "cbt_fulfillment_us",
+      "standard_price_by_channel",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "cbt_fulfillment"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "China Grove"
+      },
+      "state": {
+        "id": "",
+        "name": "Texas"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB47885021",
+    "title": "Tablet Samsung Galaxy Tab S10 FE WiFi, 128GB, 8GB, Tela 10.9\" 90Hz, S Pen e Capa Inclusas Cinza",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_954938-MLA115631465566_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB47885021",
+    "id": "MLB4902600247",
+    "sold_quantity": 1600,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-12T10:16:28.503Z"
+}
