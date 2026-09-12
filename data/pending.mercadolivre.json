@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5691483790",
+    "site_id": "MLB",
+    "seller_id": 535577527,
+    "accepts_mercadopago": true,
+    "price": 117.3,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 75506,
+    "original_price": 335.17,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYTGVuw6fDs2lzIFBhdWxpc3RhVFV4Q1VGT",
+        "name": "Lençóis Paulista"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3412953947",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB55560792",
+    "title": "Parafusadeira E Furadeira A Bateria Pf21b2 21v Com Duas Baterias F02 4979 - Falasca",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_936782-MLA99583119196_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB55560792",
+    "id": "MLB5691483790",
+    "sold_quantity": 700,
+    "rotationCategory": "ferramenta"
+  },
+  "reservedAt": "2026-09-12T17:32:49.123Z"
+}
