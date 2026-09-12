@@ -1,0 +1,70 @@
+{
+  "item": {
+    "item_id": "MLB7584340758",
+    "site_id": "MLB",
+    "seller_id": 175928026,
+    "accepts_mercadopago": true,
+    "price": 5499.99,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JFTGU0ODdm",
+        "name": "Belo Horizonte"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "TUxCQk5BWjZBQjBF",
+        "name": "Nazaré"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU5071031893",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB34380025",
+    "title": "Ps5 Hw 2015 Standard Slim Console Slim Ps5 Standard",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_677190-MLA91874484751_092025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB34380025",
+    "id": "MLB7584340758",
+    "sold_quantity": 1900,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-12T07:16:49.212Z"
+}
