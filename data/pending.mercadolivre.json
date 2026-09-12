@@ -1,0 +1,70 @@
+{
+  "item": {
+    "item_id": "MLB7501654346",
+    "site_id": "MLB",
+    "seller_id": 3592255542,
+    "accepts_mercadopago": true,
+    "price": 2426.72,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 439262,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+        "name": "Jundiaí"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+        "name": "Distrito Industrial"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 0,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "0 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4904559149",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB68201987",
+    "title": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_987360-MLA109664859882_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB68201987",
+    "id": "MLB7501654346",
+    "sold_quantity": 1700,
+    "rotationCategory": "celular"
+  },
+  "reservedAt": "2026-09-12T06:32:06.121Z"
+}
