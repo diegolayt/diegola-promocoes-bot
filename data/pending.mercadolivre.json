@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB7541063716",
+    "site_id": "MLB",
+    "seller_id": 3624312333,
+    "accepts_mercadopago": true,
+    "price": 244.64,
+    "category_id": "MLB23332",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 7 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 349.5,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": true,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1ZJVGQ5MWM5",
+        "name": "Vitória da Conquista"
+      },
+      "state": {
+        "id": "TUxCUEJBSEFlYmEx",
+        "name": "Bahia"
+      },
+      "neighborhood": {
+        "id": "TUxCQlJFQzNGNEI2",
+        "name": "Recreio"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 7,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "7 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4855493628",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB37266485",
+    "title": "Vans Knu Skool Sem gênero Adultos",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_859837-MLA95966726773_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB37266485",
+    "id": "MLB7541063716",
+    "sold_quantity": 1400,
+    "rotationCategory": "masculino"
+  },
+  "reservedAt": "2026-09-12T18:31:37.973Z"
+}
