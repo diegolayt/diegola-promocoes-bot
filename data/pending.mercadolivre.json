@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB4602927930",
+    "site_id": "MLB",
+    "seller_id": 154666537,
+    "accepts_mercadopago": true,
+    "price": 98.9,
+    "category_id": "MLB23332",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "certified_quality_thumbnail",
+      "good_quality_thumbnail",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 5633,
+    "original_price": 166.5,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1BBUjljOTRl",
+        "name": "Pará de Minas"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU1697274112",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB35699243",
+    "title": "Tênis Vili All Journey Feminino Caminhada Academia Confortável",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_896854-MLA99495456624_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB35699243",
+    "id": "MLB4602927930",
+    "sold_quantity": 200,
+    "rotationCategory": "masculino"
+  },
+  "reservedAt": "2026-09-12T08:46:15.646Z"
+}
