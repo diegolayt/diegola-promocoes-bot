@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4701980889",
-    "productKey": "a616d98f3708e736516694d4bfa8c66cf822dd81ddde24e2ebef9e2f35165c8b",
-    "titleHash": "da5edffbb5ec623758e66bf7afa7cb666f8c21f2cf8f2b00d9f40c87895fca28",
-    "category": "outros:album-copa",
-    "reservedAt": "2026-09-10T19:31:24.433Z"
-  },
-  {
     "itemId": "MLB6244200310",
     "productKey": "d312a39909ff96945811224970bb134b2723e83710a5f8d2ee62ebc05fd3d11c",
     "titleHash": "7b00a6697c8e3bcd72d027c5d924bae10bfa422da2836ef04ff658bf37720d33",
@@ -1398,5 +1391,12 @@
     "titleHash": "84cf3d3be75f26285535156a83242d800b451dd7aadac4e91e13fe82c70fd261",
     "category": "televisão",
     "reservedAt": "2026-09-12T21:15:56.428Z"
+  },
+  {
+    "itemId": "MLB5146610670",
+    "productKey": "b124c07810832875255d5dc11fc1725d11919bc897d9ce8e7a87ea1609715fd4",
+    "titleHash": "193e39a55d48c15a3a72f96be5f499b55dea969d1f60e705264ba5de3b45454d",
+    "category": "monitor",
+    "reservedAt": "2026-09-12T21:31:33.379Z"
   }
 ]
