@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB7397312012",
+    "site_id": "MLB",
+    "seller_id": 717665158,
+    "accepts_mercadopago": true,
+    "price": 163,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 7 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 338,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "Barueri"
+      },
+      "state": {
+        "id": "",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 7,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "7 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4650639087",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB67496919",
+    "title": "Ferofire 100ml Perfume Masculino Sedutor",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_633650-MLA117201212837_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB67496919",
+    "id": "MLB7397312012",
+    "sold_quantity": 400,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-12T12:16:35.953Z"
+}
