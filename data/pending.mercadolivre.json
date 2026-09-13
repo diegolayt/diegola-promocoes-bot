@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4970604943",
+    "site_id": "MLB",
+    "seller_id": 200524310,
+    "accepts_mercadopago": true,
+    "price": 854.28,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 80562,
+    "original_price": 1449.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTQ1MDE",
+        "name": "São Caetano do Sul"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBSTzg3MDE",
+        "name": "Prosperidade"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4520156976",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB64311324",
+    "title": "LG UltraGear Monitor Gamer 27\" IPS 144Hz (O/C) 1ms (MBR) Full HD (1920x1080) HDR10 NVIDIA G-SYNC AMD FreeSync, Preto - 27G411A",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_629075-MLA104879398469_012026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB64311324",
+    "id": "MLB4970604943",
+    "sold_quantity": 700,
+    "rotationCategory": "monitor"
+  },
+  "reservedAt": "2026-09-13T17:16:14.911Z"
+}
