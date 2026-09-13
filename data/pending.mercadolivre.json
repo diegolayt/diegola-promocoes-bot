@@ -1,0 +1,79 @@
+{
+  "item": {
+    "item_id": "MLB4608334829",
+    "site_id": "MLB",
+    "seller_id": 2710704360,
+    "accepts_mercadopago": true,
+    "price": 28.39,
+    "category_id": "MLB1714",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 7 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 78.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTIzNTE",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlZJTHUyNHA5",
+        "name": "Vila Maria Baixa"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 7,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "7 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3896928713",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB77754884",
+    "title": "Mouse Gamer RGB USB Com Fio 3200 DPI Ajustável 7 Botões Fire Button LED 7 Cores Para PC Ergonômico",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_754663-MLA116444410165_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB77754884",
+    "id": "MLB4608334829",
+    "sold_quantity": 700,
+    "rotationCategory": "periférico"
+  },
+  "reservedAt": "2026-09-13T18:01:30.380Z"
+}
