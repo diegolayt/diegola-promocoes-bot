@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB7492989502",
+    "site_id": "MLB",
+    "seller_id": 291294700,
+    "accepts_mercadopago": true,
+    "price": 1356,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 1799.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYVGFxdWFyaXR1YmFUVXhDVUZOQlQwODVOM",
+        "name": "Taquarituba"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4890071953",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB52170796",
+    "title": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_994730-MLA115998386538_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB52170796",
+    "id": "MLB7492989502",
+    "sold_quantity": 500,
+    "rotationCategory": "monitor"
+  },
+  "reservedAt": "2026-09-13T10:46:31.269Z"
+}
