@@ -1,0 +1,69 @@
+{
+  "item": {
+    "item_id": "MLB4190363583",
+    "site_id": "MLB",
+    "seller_id": 1826334693,
+    "accepts_mercadopago": true,
+    "price": 44,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 248182,
+    "original_price": 99,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0VYVDdjZTBi",
+        "name": "Extrema"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3207294541",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB47592598",
+    "title": "Perfume Attracione Feminino By Attracione Woman Mulher Sensual",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_980364-MLA85451076578_062025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB47592598",
+    "id": "MLB4190363583",
+    "sold_quantity": 200,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-13T11:16:07.527Z"
+}
