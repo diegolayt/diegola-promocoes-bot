@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB6810086936",
+    "site_id": "MLB",
+    "seller_id": 23187348,
+    "accepts_mercadopago": true,
+    "price": 4499,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "catalog_boost",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": true,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0FMTWRlNTFl",
+        "name": "Almirante Tamandaré"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "TUxCQkpBUkNCMjNB",
+        "name": "Jardim Itamarati"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3856721997",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB54963150",
+    "title": "Console Playstation 5 Slim Edição Digital 825 Gb",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_971864-MLA91925160023_092025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB54963150",
+    "id": "MLB6810086936",
+    "sold_quantity": 1700,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-13T12:46:29.712Z"
+}
