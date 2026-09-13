@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB4810526809",
+    "site_id": "MLB",
+    "seller_id": 169979779,
+    "accepts_mercadopago": true,
+    "price": 80,
+    "category_id": "MLB26426",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 329686,
+    "original_price": 99.99,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYU8OjbyBKb3PDqSBkbyBSaW8gUHJldG9UV",
+        "name": "São José do Rio Preto"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQmVsdmVkZXJlIFRlcnJhIE5vdmFUVmhZV",
+        "name": "Belvedere Terra Nova"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4158363968",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB56334051",
+    "title": "Relógio Classic Vintage Suíço Masculino Em Couro Esportivo Correia Preto Bisel Prateado Fundo Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_794434-MLA95961963407_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB56334051",
+    "id": "MLB4810526809",
+    "sold_quantity": 1300,
+    "rotationCategory": "relógio"
+  },
+  "reservedAt": "2026-09-13T13:01:43.824Z"
+}
