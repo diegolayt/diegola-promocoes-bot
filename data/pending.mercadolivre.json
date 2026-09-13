@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB3893171797",
+    "site_id": "MLB",
+    "seller_id": 296064033,
+    "accepts_mercadopago": true,
+    "price": 5440.71,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "extended_warranty_eligible",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2162,
+    "original_price": 6499,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0RPSTUzMTg",
+        "name": "Dois Irmãos"
+      },
+      "state": {
+        "id": "TUxCUFJJT0xkYzM0",
+        "name": "Rio Grande do Sul"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU2631225886",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB1040287800",
+    "title": "Apple iPhone 16 (128 GB) - Ultramarine - Distribuidor Autorizado",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_842494-MLA96419095420_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB1040287800",
+    "id": "MLB3893171797",
+    "sold_quantity": 400,
+    "rotationCategory": "celular"
+  },
+  "reservedAt": "2026-09-13T18:31:03.634Z"
+}
