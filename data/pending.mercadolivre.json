@@ -1,0 +1,85 @@
+{
+  "item": {
+    "item_id": "MLB5299082738",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 3998.89,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "good_quality_thumbnail",
+      "standard_price_by_quantity",
+      "dynamic_standard_price",
+      "kvs_primary",
+      "first_party",
+      "extended_warranty_eligible",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2162,
+    "original_price": 5799,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3027575009",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB1046217031",
+    "title": "iPhone 16e (128 GB) - Branco - Distribuidor Autorizado",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_938094-MLA96869129517_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB1046217031",
+    "id": "MLB5299082738",
+    "sold_quantity": 400,
+    "rotationCategory": "celular"
+  },
+  "reservedAt": "2026-09-13T02:01:06.889Z"
+}
