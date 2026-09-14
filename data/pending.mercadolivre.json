@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB7572855004",
+    "site_id": "MLB",
+    "seller_id": 2724861290,
+    "accepts_mercadopago": true,
+    "price": 139.9,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 169.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYUmlvIENsYXJvVFV4Q1VGTkJUMDg1TjJFN",
+        "name": "Rio Claro"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQ2VudHJvVFZoWVVtbHZJRU5zWVhKdlZGV0",
+        "name": "Centro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU5053317025",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB38053317",
+    "title": "Parafusadeira E Furadeira Impacto The Black Tools Tb-21pw 3/8 Cor Amarelo Frequência 50/60 Hz",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_629064-MLA114933297788_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB38053317",
+    "id": "MLB7572855004",
+    "sold_quantity": 1800,
+    "rotationCategory": "ferramenta"
+  },
+  "reservedAt": "2026-09-14T12:15:58.648Z"
+}
