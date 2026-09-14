@@ -1,0 +1,79 @@
+{
+  "item": {
+    "item_id": "MLB7634737186",
+    "site_id": "MLB",
+    "seller_id": 3299829240,
+    "accepts_mercadopago": true,
+    "price": 2379,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 7 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYU8OjbyBKb3PDqSBkbyBSaW8gUHJldG9UV",
+        "name": "São José do Rio Preto"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIEFsdG8gQWxlZ3JlVFZoWVU4T",
+        "name": "Jardim Alto Alegre"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 7,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "7 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5156260495",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB65827305",
+    "title": "Tab Samsung Galaxy S10 Lite 128gb, 6gb Ram Prata Prata",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_625861-MLA106784703070_022026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB65827305",
+    "id": "MLB7634737186",
+    "sold_quantity": 1500,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-14T01:45:58.890Z"
+}
