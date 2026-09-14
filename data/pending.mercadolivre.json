@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5040503375",
+    "site_id": "MLB",
+    "seller_id": 1939847160,
+    "accepts_mercadopago": true,
+    "price": 999.01,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 3 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 176646,
+    "original_price": 1299,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NBTDg4YjQ5",
+        "name": "Lauro de Freitas"
+      },
+      "state": {
+        "id": "TUxCUEJBSEFlYmEx",
+        "name": "Bahia"
+      },
+      "neighborhood": {
+        "id": "TUxCQk5BWjVCMDc2",
+        "name": "Nazaré"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4696398486",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB47372713",
+    "title": "Chave de fenda Dewalt DCD7781d2 Furadeira + Carregador + 2 Bat 2a Cor Amarelo Frequência 50hz",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_705675-MLA82974830878_032025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB47372713",
+    "id": "MLB5040503375",
+    "sold_quantity": 200,
+    "rotationCategory": "ferramenta"
+  },
+  "reservedAt": "2026-09-14T05:46:36.658Z"
+}
