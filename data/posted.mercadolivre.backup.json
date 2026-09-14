@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7542590948",
-    "productKey": "eb51dbff36a5eb40095b619f0aa02eade42fd54ed1731d2bbdbd5e0404ea40ec",
-    "titleHash": "be2262f681e916024fdb7d80d881ac4434f895403c02250e47b71f81b610e01e",
-    "category": "celular",
-    "reservedAt": "2026-09-12T00:01:11.808Z"
-  },
-  {
     "itemId": "MLB4129620283",
     "productKey": "43f0297e9b71cc770bfa1d517b7669fda88b9503e9e5158acbde8b95cef6a2a2",
     "titleHash": "ccdb6051f7397c858304b0fb9c9868c579d72441716def2471f5b6aa0cd3267b",
@@ -1398,5 +1391,12 @@
     "titleHash": "eebbcf52dd22a1cc2d20dcd3313aec02eb4aeec00c697ab3f8e31a75fd038651",
     "category": "relógio",
     "reservedAt": "2026-09-14T02:16:51.548Z"
+  },
+  {
+    "itemId": "MLB4927904000",
+    "productKey": "f896870b6050f0cbecd82f85c2c702df09d190f2fe124a634d32c2b9b26080ad",
+    "titleHash": "cd8195a219238688e29eb60800b16098a6f1b01d4858bcb18ec724bd9b95632e",
+    "category": "ferramenta",
+    "reservedAt": "2026-09-14T02:31:32.082Z"
   }
 ]
