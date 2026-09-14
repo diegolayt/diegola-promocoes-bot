@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3797364569",
-    "productKey": "96983e4185e3eef77d193d28fcf6cde4af7061fd547eaa6ec0a06c1dbb0a9919",
-    "titleHash": "f469ce3c49a26e010fd418119fec59eb00b5e70802a56c9a417dc41a56ce6bc1",
-    "category": "casa",
-    "reservedAt": "2026-09-12T09:31:00.827Z"
-  },
-  {
     "itemId": "MLB4487140697",
     "productKey": "4a9fbebfeaab768b40b1c82dcc2ea7a8a4d62e1a3b512c240f3e9eb3fb04d27e",
     "titleHash": "19ec35468f9223344b399b4778abe7363b8d62e593038e425d68a92c1311ac10",
@@ -1398,5 +1391,12 @@
     "titleHash": "eeffbadec005ea518ecbbbc994bb79df3da7cb924a3fbdd1971f1f07264727a3",
     "category": "console",
     "reservedAt": "2026-09-14T11:46:25.816Z"
+  },
+  {
+    "itemId": "MLB5178639195",
+    "productKey": "b53f11f1dc9026bdb2080afb23d8f78f1928065352b638fd9b56449e10e02fc3",
+    "titleHash": "36afe20dd9cd5d5cead467f3500c20ce640b5757254cb67b4bccf5f4c14b2c8e",
+    "category": "relógio",
+    "reservedAt": "2026-09-14T12:02:01.878Z"
   }
 ]
