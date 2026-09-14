@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4085175433",
-    "productKey": "3b13b451c92df4751dfe6a08d1a28b246046c76c1d4efbabf2e0f5097637638b",
-    "titleHash": "5933a654bc57192dea106235455238ff3b3942af95d0a49495d5bca1776a3084",
-    "category": "perfume",
-    "reservedAt": "2026-09-12T05:46:14.492Z"
-  },
-  {
     "itemId": "MLB5776728534",
     "productKey": "fb940bc8a256ecd8880f67101b314b711ab55dc428106d541e33da3172cc6418",
     "titleHash": "2e209790e65e495f177b3ee0af79647596219d04806dce767d64cd2d39355a67",
@@ -1398,5 +1391,12 @@
     "titleHash": "7c83b6633b5ec6ab7f169b7257a9f9fac52cd65f15a3674340bb0d0e42efe5d2",
     "category": "eletrodoméstico",
     "reservedAt": "2026-09-14T08:01:58.656Z"
+  },
+  {
+    "itemId": "MLB4571210341",
+    "productKey": "163a58eb61a4412fd3d8f240ddd7f5289f8f32dcacde0ed36753c934187ee3cf",
+    "titleHash": "bbadc9cd22e0fc10322d5d9ecfb6529569c91d8d21b055a58013b86b346e86c7",
+    "category": "tablet",
+    "reservedAt": "2026-09-14T08:16:10.466Z"
   }
 ]
