@@ -1,0 +1,70 @@
+{
+  "item": {
+    "item_id": "MLB7626653062",
+    "site_id": "MLB",
+    "seller_id": 3580240576,
+    "accepts_mercadopago": true,
+    "price": 172.9,
+    "category_id": "MLB1714",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 220,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JBUmQ0MjRj",
+        "name": "Barreiras"
+      },
+      "state": {
+        "id": "TUxCUEJBSEFlYmEx",
+        "name": "Bahia"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU5178071352",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB39936557",
+    "title": "Mouse Gamer X11 Attack Shark Tri Mode 22000dpi Paw3311 Dock Cor Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_798925-MLA116911085611_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB39936557",
+    "id": "MLB7626653062",
+    "sold_quantity": 1600,
+    "rotationCategory": "periférico"
+  },
+  "reservedAt": "2026-09-14T00:46:40.702Z"
+}
