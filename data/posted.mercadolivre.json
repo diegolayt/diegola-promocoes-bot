@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB1813853930",
-    "productKey": "78e837820f280a46b9f4dc3998824860874f23a788625873be3c4a3903fbdac5",
-    "titleHash": "317291d871c967cb6731fe5a292e05e33d4f3096228f2647228e06fbea2e2d5d",
-    "category": "periférico",
-    "reservedAt": "2026-09-13T04:46:43.041Z"
-  },
-  {
     "itemId": "MLB4647606299",
     "productKey": "45898311a1c2368721470e87c3b2816851d2556c1e16feb12f8a97c6fdec4269",
     "titleHash": "65399aa5ab3c519eb059b2f1c7324b895ee3bafd406e2544f87dac1336aebc16",
@@ -1398,5 +1391,12 @@
     "titleHash": "61a703f2b686e4a3db83e4212888cf45b15be5393f2beaae213c7368524cf8ce",
     "category": "tablet",
     "reservedAt": "2026-09-15T07:01:44.239Z"
+  },
+  {
+    "itemId": "MLB4375098269",
+    "productKey": "ee47efe7c709c012ec89f9c3ef44021587146951c86f1b1e0ff1a9a8f43a79d2",
+    "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
+    "category": "outros:pneu-bridgestone",
+    "reservedAt": "2026-09-15T07:16:33.680Z"
   }
 ]
