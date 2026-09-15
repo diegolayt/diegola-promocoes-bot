@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB6744287826",
+    "site_id": "MLB",
+    "seller_id": 3267767792,
+    "accepts_mercadopago": true,
+    "price": 1299,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0VORzQzNmVm",
+        "name": "Engenheiro Beltrão"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3960594522",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB52862035",
+    "title": "Tablet Xiaomi Redmi Pad 2 128gb 4 Ram Wi-fi Green Verde Verde",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_908499-MLA105887605914_022026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB52862035",
+    "id": "MLB6744287826",
+    "sold_quantity": 1700,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-15T13:31:22.675Z"
+}
