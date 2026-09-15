@@ -1,0 +1,85 @@
+{
+  "item": {
+    "item_id": "MLB5224842987",
+    "site_id": "MLB",
+    "seller_id": 570267839,
+    "accepts_mercadopago": true,
+    "price": 310.11,
+    "category_id": "MLB26426",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "has_published_clips",
+      "standard_price_by_channel",
+      "catalog_boost",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 4873,
+    "original_price": 457.39,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0pBTmM1MjBj",
+        "name": "Januária"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU1968001098",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB79268057",
+    "title": "Relógio Orient Masculino Pulso Prova Dagua 50m Correia Prateado Bisel Prateado Fundo Branco C Numero Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_941058-MLA116090952676_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB79268057",
+    "id": "MLB5224842987",
+    "sold_quantity": 800,
+    "rotationCategory": "relógio"
+  },
+  "reservedAt": "2026-09-15T01:01:27.316Z"
+}
