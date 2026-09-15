@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4647606299",
-    "productKey": "45898311a1c2368721470e87c3b2816851d2556c1e16feb12f8a97c6fdec4269",
-    "titleHash": "65399aa5ab3c519eb059b2f1c7324b895ee3bafd406e2544f87dac1336aebc16",
-    "category": "casa",
-    "reservedAt": "2026-09-13T05:01:24.384Z"
-  },
-  {
     "itemId": "MLB5462013472",
     "productKey": "1317d74e4994bd841ea8eeec329adabd14f4bc6bb6ef835a4b8c705362a5851e",
     "titleHash": "8f9df435193feed7fc4597b975db2d157e9b724e4d1f82b470f29dc96853b50d",
@@ -1398,5 +1391,12 @@
     "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
     "category": "outros:pneu-bridgestone",
     "reservedAt": "2026-09-15T07:16:33.680Z"
+  },
+  {
+    "itemId": "MLB7076998774",
+    "productKey": "4a7024a549412f209612f0d503d29ea44c2c8b98cf0ae733fb682a810074d541",
+    "titleHash": "be63dae6e232243898b14245dd1b9c47f4dbab9ab72e00b297d331e52c49ac83",
+    "category": "relógio",
+    "reservedAt": "2026-09-15T07:31:28.487Z"
   }
 ]
