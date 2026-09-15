@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB6857181466",
+    "site_id": "MLB",
+    "seller_id": 638325656,
+    "accepts_mercadopago": true,
+    "price": 489.79,
+    "category_id": "MLB48666",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 140690,
+    "original_price": 791.88,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NFUmI1ZGQx",
+        "name": "Serra"
+      },
+      "state": {
+        "id": "TUxCUEVTUE8xN2Y3NA",
+        "name": "Espírito Santo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU4015667383",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB40505573",
+    "title": "Panela Elétrica Pe-60-6l Digital Pressão 6l Mondial Cor Preto Frequência 60hz",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_863144-MLA99929186259_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB40505573",
+    "id": "MLB6857181466",
+    "sold_quantity": 1200,
+    "rotationCategory": "casa"
+  },
+  "reservedAt": "2026-09-15T06:16:44.461Z"
+}
