@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4970604943",
-    "productKey": "066ab85fd1e4dc8dc8666fa8fecea5cc9e3e564b09402145fb0e601e91a0f64b",
-    "titleHash": "74f67794de0329baf692940c92e3c65d2be674a2d8ccf1c0ba5d41ca60037917",
-    "category": "monitor",
-    "reservedAt": "2026-09-13T17:16:14.910Z"
-  },
-  {
     "itemId": "MLB7421931592",
     "productKey": "6b2635dcbdb6ad4e7732f4f7a6a72710e9b9387f4c59e5bebb6f95a329ceedd0",
     "titleHash": "41c27df8b24ed2fbea53fffa40c6b8016f199801fd232f237c4cedda69baba39",
@@ -1398,5 +1391,12 @@
     "titleHash": "eb5b7f49eb8b38b2c35124eeb749ecc1970cb64d286e3c19d7dc1cd3c3b0fe3c",
     "category": "casa",
     "reservedAt": "2026-09-15T19:16:32.480Z"
+  },
+  {
+    "itemId": "MLB5402372302",
+    "productKey": "bf86873401aafdee93072c4ae95b4656a5008795661ccab139a818826bddaef4",
+    "titleHash": "b95467ee86ed620d737fa61e0a84d6287ddeeee268df20574fcb6be3f0b038a4",
+    "category": "celular",
+    "reservedAt": "2026-09-15T19:31:49.225Z"
   }
 ]
