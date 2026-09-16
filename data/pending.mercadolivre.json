@@ -1,0 +1,84 @@
+{
+  "item": {
+    "item_id": "MLB4555424718",
+    "site_id": "MLB",
+    "seller_id": 723878806,
+    "accepts_mercadopago": true,
+    "price": 5199,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "standard_price_by_channel",
+      "good_quality_thumbnail",
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": true,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTk0MDc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlNBTnptY2do",
+        "name": "Santa Efigênia"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU1985686233",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB52897777",
+    "title": "Console Sony Playstation 5 Edição Slim Disk 1tb Branco",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921596-MLA100042443481_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB52897777",
+    "id": "MLB4555424718",
+    "sold_quantity": 1900,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-16T12:46:33.582Z"
+}
