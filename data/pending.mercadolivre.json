@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB6761586200",
+    "site_id": "MLB",
+    "seller_id": 2611289426,
+    "accepts_mercadopago": true,
+    "price": 365,
+    "category_id": "MLB23332",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 549.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0ZPWmRjOGZh",
+        "name": "Foz do Iguaçu"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "TUxCQlZJTDFBN0Q3",
+        "name": "Vila Portes"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3839834187",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB68205604",
+    "title": "Tenis Masculino Fila Racer Speedzone Lisa",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_897097-MLA109666860852_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB68205604",
+    "id": "MLB6761586200",
+    "sold_quantity": 1600,
+    "rotationCategory": "masculino"
+  },
+  "reservedAt": "2026-09-16T01:16:08.795Z"
+}
