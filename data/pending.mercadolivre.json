@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB3989033613",
+    "site_id": "MLB",
+    "seller_id": 54795867,
+    "accepts_mercadopago": true,
+    "price": 449.9,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "standard_price_by_channel",
+      "kvs_primary",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 5193,
+    "original_price": 499.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0NPTjMxMzZk",
+        "name": "Contagem"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNJTkQ3MEJE",
+        "name": "Cinco"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3043893760",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB39201871",
+    "title": "Tablet Positivo Vision TAB 7 - Processador Octa-Core 3GB RAM 64GB Armazenamento Tela 7” IPS Bateria 3100mAh, Android 14 Go, Wi-fi - Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_656533-MLA111594960631_052026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB39201871",
+    "id": "MLB3989033613",
+    "sold_quantity": 900,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-17T18:01:07.217Z"
+}
