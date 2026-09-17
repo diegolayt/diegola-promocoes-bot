@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5137504975",
-    "productKey": "0bf78dce655c889ab05bee09fadf5452fb386209251b9c8d64366ea4d0f04559",
-    "titleHash": "c7bbafdaedea8444eecc370d52cac7faeadd6556a239d68d34c745f3c8b9ce57",
-    "category": "áudio",
-    "reservedAt": "2026-09-14T22:16:15.789Z"
-  },
-  {
     "itemId": "MLB7381750218",
     "productKey": "6fe8b4465b95dd02ce3872f0c82d9edd63fcb221f54821135fddc6c8a3b6a5fa",
     "titleHash": "731fa288d145bab5093f0e097cac9c5b054b8b539508fad924716dcce4568630",
@@ -1398,5 +1391,12 @@
     "titleHash": "126ecb59ac7c20671a06e42cc4c3f2b7983025828462c8cfc067f88bce2db4c8",
     "category": "perfume",
     "reservedAt": "2026-09-17T00:31:18.681Z"
+  },
+  {
+    "itemId": "MLB3996219935",
+    "productKey": "23d044c4df4dfc97d2fe18d5e8614d3cdd3fe07c0b5a74eabdfaec0a8cdfe5fa",
+    "titleHash": "610606b97c175fd5cb677399be157cf37127fd7c4170ecf2259df10b6a203310",
+    "category": "periférico",
+    "reservedAt": "2026-09-17T00:46:36.903Z"
   }
 ]
