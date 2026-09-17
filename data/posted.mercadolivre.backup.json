@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4375098269",
-    "productKey": "ee47efe7c709c012ec89f9c3ef44021587146951c86f1b1e0ff1a9a8f43a79d2",
-    "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
-    "category": "outros:pneu-bridgestone",
-    "reservedAt": "2026-09-15T07:16:33.680Z"
-  },
-  {
     "itemId": "MLB7076998774",
     "productKey": "4a7024a549412f209612f0d503d29ea44c2c8b98cf0ae733fb682a810074d541",
     "titleHash": "be63dae6e232243898b14245dd1b9c47f4dbab9ab72e00b297d331e52c49ac83",
@@ -1398,5 +1391,12 @@
     "titleHash": "731fa288d145bab5093f0e097cac9c5b054b8b539508fad924716dcce4568630",
     "category": "televisão",
     "reservedAt": "2026-09-17T09:31:32.791Z"
+  },
+  {
+    "itemId": "MLB5146610670",
+    "productKey": "b124c07810832875255d5dc11fc1725d11919bc897d9ce8e7a87ea1609715fd4",
+    "titleHash": "193e39a55d48c15a3a72f96be5f499b55dea969d1f60e705264ba5de3b45454d",
+    "category": "monitor",
+    "reservedAt": "2026-09-17T09:45:53.256Z"
   }
 ]
