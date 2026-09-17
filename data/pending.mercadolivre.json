@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB5441434772",
+    "site_id": "MLB",
+    "seller_id": 2024441743,
+    "accepts_mercadopago": true,
+    "price": 71.96,
+    "category_id": "MLB3843",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "lightning_deal",
+      "standard_price_by_quantity",
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 259342,
+    "original_price": 117.97,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTk0MDc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkJSwTMwNTMyNA",
+        "name": "Brás"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3098197269",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB45987118",
+    "title": "Caixa De Som Portatil 20W, Inova Caixa de Som pequena com Radio FM E RGB, caixinha som bluetooth À Prova D'água IP67, Caixa De Som Potente Para Moto Bike, Bateria 15h, TWS Som Estéreo Grave Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_839594-MLA99937957939_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB45987118",
+    "id": "MLB5441434772",
+    "sold_quantity": 400,
+    "rotationCategory": "áudio"
+  },
+  "reservedAt": "2026-09-17T15:46:13.654Z"
+}
