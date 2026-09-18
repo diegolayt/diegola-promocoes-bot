@@ -1,0 +1,79 @@
+{
+  "item": {
+    "item_id": "MLB7021490670",
+    "site_id": "MLB",
+    "seller_id": 1917068106,
+    "accepts_mercadopago": true,
+    "price": 1598.89,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 84762,
+    "original_price": 2699,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTY5NzA",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNJRDM3bTN5",
+        "name": "Cidade Moncoes"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4152249678",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB50302985",
+    "title": "Smartphone Motorola Moto g56 5G 256GB - 8GB RAM+16GB Ram Boost, e 50MP Sony Lytia 600 AI Camera Ultrarresistência militar IP68 + IP69",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_919734-MLA99464900322_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB50302985",
+    "id": "MLB7021490670",
+    "sold_quantity": 1200,
+    "rotationCategory": "celular"
+  },
+  "reservedAt": "2026-09-18T09:46:28.337Z"
+}
