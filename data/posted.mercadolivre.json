@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4234487519",
-    "productKey": "bd5a57a6887059e5c4b90bd303456fc928da05372cd3b1623ca03d003cc8d8e6",
-    "titleHash": "2f41e2e081190be24bbaf1270b4ecb85c4ff08c446228e894934bdabe46b4bee",
-    "category": "console",
-    "reservedAt": "2026-09-15T23:46:27.542Z"
-  },
-  {
     "itemId": "MLB4741244193",
     "productKey": "7c90e1ccf4c6f893a5624e465a492fff37e886e35593cf110eef2c772a6a4f83",
     "titleHash": "d57d151979516cbcc4025021b3742e71d3b3ef9d3c906741ab2041f5c14b0ee6",
@@ -1398,5 +1391,12 @@
     "titleHash": "1e2890a0d74c84a0736f674f5c87b3bcea50029ee71dbb5f96ae46a410bd622f",
     "category": "televisão",
     "reservedAt": "2026-09-18T01:46:21.927Z"
+  },
+  {
+    "itemId": "MLB4171028747",
+    "productKey": "d92fed14d7d60aacef7c703075d8a837ddc3c02df5bb705c781db4d22ddd522d",
+    "titleHash": "c8b258ec420a0df0918ef90570e4fca77dbba5fae48e42d9736f4f565ada3194",
+    "category": "monitor",
+    "reservedAt": "2026-09-18T02:01:24.763Z"
   }
 ]
