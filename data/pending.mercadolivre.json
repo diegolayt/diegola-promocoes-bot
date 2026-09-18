@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5245805155",
+    "site_id": "MLB",
+    "seller_id": 2189432203,
+    "accepts_mercadopago": true,
+    "price": 3582,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 3980,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTQzMzc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNJRDFoa2Qy",
+        "name": "Cidade Mãe Do Ceu"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5186097867",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB61641324",
+    "title": "Apple iPad 11 Geração A16 Wi-fi 128gb",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_734029-MLA96642469036_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB61641324",
+    "id": "MLB5245805155",
+    "sold_quantity": 1000,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-18T00:31:23.273Z"
+}
