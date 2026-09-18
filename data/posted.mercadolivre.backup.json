@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7245055100",
-    "productKey": "429e344a68635eec16bf2ea6e9715f7d0ebd30d7ab1e904e721416940f38383f",
-    "titleHash": "0d6a97bbb0f3ef1cb3c22df16ada7d47396b7d95e6d17dc57acf7b4a28525102",
-    "category": "televisão",
-    "reservedAt": "2026-09-16T20:31:40.573Z"
-  },
-  {
     "itemId": "MLB5395031516",
     "productKey": "06babd581101f23b90922b83232d6bfdc75a71e644d837a92c4cba375aa42f16",
     "titleHash": "49b321f683ef6a9407b3a5791875d99f52090ca5b3fd45641a574aa90bec1dcd",
@@ -1398,5 +1391,12 @@
     "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
     "category": "outros:pneu-bridgestone",
     "reservedAt": "2026-09-18T22:16:37.259Z"
+  },
+  {
+    "itemId": "MLB6600141906",
+    "productKey": "5cdfc748d3f2450ea6e29d2954c015d2a087389d829c2dfc6fd6db5bf3b769f2",
+    "titleHash": "435320f6ce3c76a7ca05f74c0cc0ad14fd9b3e557765a08944f3bd3be5b47bba",
+    "category": "casa",
+    "reservedAt": "2026-09-18T22:31:01.708Z"
   }
 ]
