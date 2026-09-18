@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4286128237",
-    "productKey": "5bd1da402a27bcc7e3ff99c9d3c7068cd269ecac902e3499c108e7eca29e63fe",
-    "titleHash": "8b02e1cd20d5d3b1639f3894f0d974b4ec8b06cb69e3c32cfe8b8f01e5aa5175",
-    "category": "tablet",
-    "reservedAt": "2026-09-16T19:16:16.544Z"
-  },
-  {
     "itemId": "MLB5009969971",
     "productKey": "9c493a02acefa6612832c62dc7b01ab4c17c1eaa71d09b3330fc8ded360a83e8",
     "titleHash": "3c6c98fa07c9061dc426a83812f5f4095f28465cab160519074add27320499eb",
@@ -1398,5 +1391,12 @@
     "titleHash": "e444ae5933e349209a9236e895d96a78c5489e0fa66513886c7d9435bc1f4a8c",
     "category": "áudio",
     "reservedAt": "2026-09-18T21:02:27.106Z"
+  },
+  {
+    "itemId": "MLB5220434045",
+    "productKey": "2c2b688ed1849d8f376f4f012e46fdf52b7c08b8847a17f6674c97d22cac9320",
+    "titleHash": "41b3bbae93bde1d92d308f0d21e0b882769566a67eb6096998f0c6d81e6b98ce",
+    "category": "televisão",
+    "reservedAt": "2026-09-18T21:15:55.508Z"
   }
 ]

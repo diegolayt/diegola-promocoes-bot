@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB5220434045",
+    "site_id": "MLB",
+    "seller_id": 584911659,
+    "accepts_mercadopago": true,
+    "price": 1699.9,
+    "category_id": "MLB1002",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 164028,
+    "original_price": 2083.4,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTcyOTU",
+        "name": "Guarulhos"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBBUnQ5bXdm",
+        "name": "Parque São Miguel"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3819178428",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB63777677",
+    "title": "Smart Tv Samsung 43 Ls43f6000fgxzd Full Hd Led 110v/220v",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_850374-MLA103344560695_012026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB63777677",
+    "id": "MLB5220434045",
+    "sold_quantity": 600,
+    "rotationCategory": "televisão"
+  },
+  "reservedAt": "2026-09-18T21:15:55.509Z"
+}
