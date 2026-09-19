@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4020673619",
-    "productKey": "c9df3c56099bd37b74860e50cd76eb5e547d19a0cb7d871da26dc8111250ae7d",
-    "titleHash": "34f9448e848ee07017b392a16f15bbb58aca27bfef9cad94fb0afa93f7b47efa",
-    "category": "eletrodoméstico",
-    "reservedAt": "2026-09-17T21:01:36.345Z"
-  },
-  {
     "itemId": "MLB4320504787",
     "productKey": "28d216f74a70b104ea52ad2d122040061135186b5080d636c88482c7c07099b1",
     "titleHash": "fd6cf3f85ccd5ee41c53481db9df24f1c9235475ceaad64336f08129a3c489e4",
@@ -1398,5 +1391,12 @@
     "titleHash": "2a38590f6d0b6551c06da2008b0aa6cc1cf3c835dc5a9944c56b7e77e9e7b2f2",
     "category": "ferramenta",
     "reservedAt": "2026-09-19T23:02:01.882Z"
+  },
+  {
+    "itemId": "MLB4265593011",
+    "productKey": "bc389f68cf19d347ca8bb929721cf3efff0adba45d30f8b871b8a6bb91dcb136",
+    "titleHash": "48ef58d227a092a0ae5a66d739db29b1e02aebf6b4cbe35abd1bb19a191aadd3",
+    "category": "áudio",
+    "reservedAt": "2026-09-19T23:16:45.158Z"
   }
 ]
