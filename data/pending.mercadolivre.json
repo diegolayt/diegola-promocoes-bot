@@ -1,0 +1,74 @@
+{
+  "item": {
+    "item_id": "MLB4497812897",
+    "site_id": "MLB",
+    "seller_id": 533180837,
+    "accepts_mercadopago": true,
+    "price": 549.99,
+    "category_id": "MLB9188",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2114,
+    "original_price": 1099.99,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "optional_me2_chosen"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYRW1idSBkYXMgQXJ0ZXNUVXhDVUZOQlQwO",
+        "name": "Embu das Artes"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIFZpc3RhIEFsZWdyZVRWaFlSV",
+        "name": "Jardim Vista Alegre"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3820553284",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB17003267",
+    "title": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_998097-MLA115435101684_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB17003267",
+    "id": "MLB4497812897",
+    "sold_quantity": 600,
+    "rotationCategory": "eletrodoméstico"
+  },
+  "reservedAt": "2026-09-19T02:31:04.824Z"
+}
