@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7029015864",
-    "productKey": "7c972cb1c1f2297f89235adb68d4491aa20f2251ec70cc67c34f3dd2a63505d1",
-    "titleHash": "a264f7d00f58e910e7c376155c652574f31e49ad067f43b0f0fcb780c61979e7",
-    "category": "casa",
-    "reservedAt": "2026-09-16T21:46:00.331Z"
-  },
-  {
     "itemId": "MLB7637946222",
     "productKey": "6789e40f4375e624d1eb7342da1b16b50d728b00bec24afc46c540e8e534d849",
     "titleHash": "49c94b4f2a7e8f0b8e3414c20ab932032ffc96572606f78c28d71e5c717209f8",
@@ -1398,5 +1391,12 @@
     "titleHash": "716fd96cf064037fd1ef0a84faa1fb487b17ee63fb94187b1e7d09176d994f8f",
     "category": "tablet",
     "reservedAt": "2026-09-18T23:31:34.884Z"
+  },
+  {
+    "itemId": "MLB6620285750",
+    "productKey": "93fc55b842d4bce020fdc9b51804f9c4e64bf5ddad968a54830af2f7d92baf1c",
+    "titleHash": "66f5d26bb2ea3ba6ac27e6821d75ea00e4a36c7d0cf462f6a486901b781af3d7",
+    "category": "relógio",
+    "reservedAt": "2026-09-19T00:01:44.043Z"
   }
 ]
