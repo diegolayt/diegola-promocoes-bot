@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4595348777",
+    "site_id": "MLB",
+    "seller_id": 1066070218,
+    "accepts_mercadopago": true,
+    "price": 214,
+    "category_id": "MLB9188",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 211782,
+    "original_price": 356.75,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0NPTjMxMzZk",
+        "name": "Contagem"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3886169533",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19434520",
+    "title": "Cafeteira Elétrica Electrolux ECM25 Experience Programável Com Timer Preto E Inox",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_958585-MLA99463173290_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19434520",
+    "id": "MLB4595348777",
+    "sold_quantity": 800,
+    "rotationCategory": "eletrodoméstico"
+  },
+  "reservedAt": "2026-09-19T15:30:59.967Z"
+}
