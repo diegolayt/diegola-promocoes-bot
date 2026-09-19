@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4969980449",
+    "site_id": "MLB",
+    "seller_id": 1006742882,
+    "accepts_mercadopago": true,
+    "price": 98.94,
+    "category_id": "MLB31683",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 100202,
+    "original_price": 215.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYTWF1w6FUVXhDVUZOQlQwODVOMkU0",
+        "name": "Mauá"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4493376451",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB66288462",
+    "title": "Sanduicheira Duo Time 800w Antiaderente Preta Elgin Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_822211-MLA108262470411_032026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB66288462",
+    "id": "MLB4969980449",
+    "sold_quantity": 1400,
+    "rotationCategory": "eletrodoméstico"
+  },
+  "reservedAt": "2026-09-19T22:01:23.939Z"
+}
