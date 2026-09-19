@@ -1,0 +1,69 @@
+{
+  "item": {
+    "item_id": "MLB5047787641",
+    "site_id": "MLB",
+    "seller_id": 89658375,
+    "accepts_mercadopago": true,
+    "price": 1061,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 1599,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "São José dos Campos"
+      },
+      "state": {
+        "id": "",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU4710378430",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB65257310",
+    "title": "Tablet Samsung Galaxy Tab A11 64gb Prata + E-books Digitais Prata",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_611717-MLA106533716665_022026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB65257310",
+    "id": "MLB5047787641",
+    "sold_quantity": 1400,
+    "rotationCategory": "tablet"
+  },
+  "reservedAt": "2026-09-19T09:31:13.332Z"
+}
