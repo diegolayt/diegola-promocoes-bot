@@ -1,0 +1,72 @@
+{
+  "item": {
+    "item_id": "MLB5827705106",
+    "site_id": "MLB",
+    "seller_id": 315244969,
+    "accepts_mercadopago": true,
+    "price": 154.9,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "catalog_boost",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0NBTTFiNzU5",
+        "name": "Campo Grande"
+      },
+      "state": {
+        "id": "TUxCUE1BVEw4ZTc",
+        "name": "Mato Grosso do Sul"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBBUkQyQTg3",
+        "name": "Parque Residencial União"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3470897046",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB45588941",
+    "title": "Malbec Tradicional Perfume Masculino O Boticário 100ml",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_824592-MLA116996098171_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB45588941",
+    "id": "MLB5827705106",
+    "sold_quantity": 1000,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-20T06:46:29.763Z"
+}
