@@ -1,0 +1,84 @@
+{
+  "item": {
+    "item_id": "MLB3988634735",
+    "site_id": "MLB",
+    "seller_id": 226520435,
+    "accepts_mercadopago": true,
+    "price": 45.99,
+    "category_id": "MLB107482",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "good_quality_thumbnail",
+      "catalog_boost",
+      "kvs_primary",
+      "user_product_unify",
+      "extended_warranty_eligible",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 112904,
+    "original_price": 78,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "fbm_in_process"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQW1lcmljYW5hVFV4Q1VGTkJUMDg1TjJFN",
+        "name": "Americana"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU2947526709",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB46484590",
+    "title": "Mini Frigideira Turim Antiaderente Com Tampa Ovo Tramontina Cor Vermelha",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_735196-MLA100084628329_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB46484590",
+    "id": "MLB3988634735",
+    "sold_quantity": 1400,
+    "rotationCategory": "casa"
+  },
+  "reservedAt": "2026-09-20T17:16:10.034Z"
+}
