@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5926653126",
-    "productKey": "2f19ab49dff9833ee3c6514a6f43692ad0aab3325dcd5d11c8b4f3d0ca8e73ac",
-    "titleHash": "d401bb0c0418c14bfebd87fc68b98f686f672d2975e8200cf702a4717ba3ae67",
-    "category": "tablet",
-    "reservedAt": "2026-09-18T20:17:17.094Z"
-  },
-  {
     "itemId": "MLB2832923201",
     "productKey": "2870f29b6b14909958c3d9f7053fb6210bd8dce0c062a84e3755a6db061739a8",
     "titleHash": "0f38316b231b29afa8a315038244e4c9ec6bc9cee83159784be6c0060efe3c25",
@@ -1398,5 +1391,12 @@
     "titleHash": "190b71ddac76b50c537574e24e12b9a5846a745eaee7a59f66ce915548b985a6",
     "category": "televisão",
     "reservedAt": "2026-09-20T22:46:14.549Z"
+  },
+  {
+    "itemId": "MLB4660482303",
+    "productKey": "9f620b521d231202970060e589a2d9d1752403eb93f4753525367159a116837d",
+    "titleHash": "8ebbebef839099e67d0be8d32ad350e62632fb44a2c3b84f3abd780b3fa8eee6",
+    "category": "monitor",
+    "reservedAt": "2026-09-20T23:01:29.043Z"
   }
 ]
