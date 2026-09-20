@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3942750191",
-    "productKey": "9206c49b94baf3b6d64948f40e9caef939c69d424badeb42443eab09137969f9",
-    "titleHash": "5048b90686ac86c08d5f625cacb9fedd40002f687d8dcf4b60829814ee662a25",
-    "category": "periférico",
-    "reservedAt": "2026-09-18T16:46:37.175Z"
-  },
-  {
     "itemId": "MLB6026685906",
     "productKey": "bc922e227b5800bac37ab8ff5f3819c5ce4789b5e4b17b63bc8376eeb515fea1",
     "titleHash": "383be87347b82975dd0b68a790c8dd21b21e14c3cd6d55e928446039445b40e6",
@@ -1398,5 +1391,12 @@
     "titleHash": "c06f58b840ddb9942156739137f7d34b53bc0f3f4f0cd5cd9eae726be7f64e29",
     "category": "áudio",
     "reservedAt": "2026-09-20T19:01:17.354Z"
+  },
+  {
+    "itemId": "MLB4653048973",
+    "productKey": "6180001c6230def6b992fdf50cec05e52dec28b4c2427eb1c82fa2c80d931917",
+    "titleHash": "539fb2acfcc17660d36e8b0df8792b9a6f3fdfbf896c01a65112d4164190940d",
+    "category": "televisão",
+    "reservedAt": "2026-09-20T19:16:28.699Z"
   }
 ]
