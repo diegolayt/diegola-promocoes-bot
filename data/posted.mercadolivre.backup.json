@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5220434045",
-    "productKey": "2c2b688ed1849d8f376f4f012e46fdf52b7c08b8847a17f6674c97d22cac9320",
-    "titleHash": "41b3bbae93bde1d92d308f0d21e0b882769566a67eb6096998f0c6d81e6b98ce",
-    "category": "televisão",
-    "reservedAt": "2026-09-18T21:15:55.508Z"
-  },
-  {
     "itemId": "MLB5892892042",
     "productKey": "7e5eeb5fc2da9a55d68ffee03d02ca876a3f04f4fdd8d02ba159ae41de67cd63",
     "titleHash": "6ab4b45d11833727a7ebf1a0184e9581c3ba3695d8accf72690696d6d02bda4a",
@@ -1398,5 +1391,12 @@
     "titleHash": "ec460846842fc3d5cf5781cdeed80e076523ae467fd5d4b9904cf6a864b0d8ab",
     "category": "console",
     "reservedAt": "2026-09-20T23:46:54.058Z"
+  },
+  {
+    "itemId": "MLB7025998908",
+    "productKey": "5ff7ac43cb165e0064eb7c86eca479098b59a2b5d09e6281cec31a6aae2ad003",
+    "titleHash": "5eee92e2eaa0b132bcb14a2c6067db27d03060a7fb916c8368400b8b68178e75",
+    "category": "casa",
+    "reservedAt": "2026-09-21T00:01:45.161Z"
   }
 ]
