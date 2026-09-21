@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB2820363821",
-    "productKey": "59afe4eb44bdad9f144683d72e7ed8efa9631f9e5d1740467c42391c42e6fd98",
-    "titleHash": "8f249dad7ac115a40e2b732ec28ad02d337c7e0ae210f5edd383d4c6351e4d14",
-    "category": "perfume",
-    "reservedAt": "2026-09-19T17:46:12.627Z"
-  },
-  {
     "itemId": "MLB7580937816",
     "productKey": "1fa92a7b6e9eda98c2be981141fa02a24e5468f6646cef6f04fb428cf85bc30e",
     "titleHash": "5048c16cc77af7a64e06d3d078dfc96f3abd4679c4ec585f96c82219a0e38252",
@@ -1398,5 +1391,12 @@
     "titleHash": "2e06f605ea6be20f7311e5520e2f78683d2030b758c9bbe1ec09cc1b892d319e",
     "category": "eletrodoméstico",
     "reservedAt": "2026-09-21T20:02:03.764Z"
+  },
+  {
+    "itemId": "MLB6591243200",
+    "productKey": "fe77a17050a0656467efff43199852329dd05bacb21e55ebab41016eeaf35e70",
+    "titleHash": "14ae8ede10b6264da020f7d624c13c0b1a1efdec7dac8be4f4f2a68f8f5fb664",
+    "category": "periférico",
+    "reservedAt": "2026-09-21T20:16:22.674Z"
   }
 ]
