@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3557264671",
-    "productKey": "5c15702ed6d4f3bb94028e1c2a701f8d7ac8eb0d1bcdd93306b98f7be567c171",
-    "titleHash": "eab2d9165b0159cb5f5c19e7b4d6eec7f7fb82294fcd4477370af0121e27625d",
-    "category": "relógio",
-    "reservedAt": "2026-09-19T16:15:58.338Z"
-  },
-  {
     "itemId": "MLB3371578831",
     "productKey": "10b192510125e400c9ffd7319f99a931532006dcdc27bf59281b7405048ea26a",
     "titleHash": "199e80e775bd5fd7a309eda593f49652063dc2258233d8d4fabfb1412e57540d",
@@ -1398,5 +1391,12 @@
     "titleHash": "89aefc55a86b317a4bf29f46fa2d19be287a6a64a0cb03acc75a127cc10bd09c",
     "category": "monitor",
     "reservedAt": "2026-09-21T18:32:00.501Z"
+  },
+  {
+    "itemId": "MLB4664051753",
+    "productKey": "ee47efe7c709c012ec89f9c3ef44021587146951c86f1b1e0ff1a9a8f43a79d2",
+    "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
+    "category": "outros:pneu-bridgestone",
+    "reservedAt": "2026-09-21T18:46:10.591Z"
   }
 ]
