@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5788581954",
-    "productKey": "208c3439eb64b08f172cd0b4570606255d8701a732356c85e2924e4a8df0e476",
-    "titleHash": "f960116bd3600d278714d438cac7f726a2d85a3577c9033944b1c6d9b1540a49",
-    "category": "áudio",
-    "reservedAt": "2026-09-19T07:01:31.458Z"
-  },
-  {
     "itemId": "MLB7282553372",
     "productKey": "0d89405e65a8c65e3a9c225cdb56d75e2a20f855a330d9f5db11c12fe3ee053e",
     "titleHash": "d8d5e40afde929781624a1081cbb55938dc1bcbce67c458f285024a89516f5bb",
@@ -1398,5 +1391,12 @@
     "titleHash": "126ecb59ac7c20671a06e42cc4c3f2b7983025828462c8cfc067f88bce2db4c8",
     "category": "perfume",
     "reservedAt": "2026-09-21T09:15:54.486Z"
+  },
+  {
+    "itemId": "MLB6938452632",
+    "productKey": "3472274b89b121ef2ae3267c5907090643216b63e1280e1a423c042af4da6e6f",
+    "titleHash": "e4b1ad14a95f048b360214b472f132acaea761d81951d61f266a5fb851dc1f78",
+    "category": "console",
+    "reservedAt": "2026-09-21T09:31:18.943Z"
   }
 ]
