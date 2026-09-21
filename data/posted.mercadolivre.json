@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5075681026",
-    "productKey": "ef90bebb3e7d85eed0d589a59471e82cdc18a5200f4d939afd5217ff0c666a24",
-    "titleHash": "61c4c2d4cfc8440676bfa1bb8fc6e5526e0ce7066d7a67f082c3fc8a156186e4",
-    "category": "relógio",
-    "reservedAt": "2026-09-19T19:31:48.621Z"
-  },
-  {
     "itemId": "MLB4188936547",
     "productKey": "820fe92a0a494ae2608ee4a43ac3b2238a046125bd6e7a0361cc1d74aaca89de",
     "titleHash": "ea40fb8bb999cfcc89b5e7fd17b34998e0155104e1f5df0777ec1736292f464a",
@@ -1398,5 +1391,12 @@
     "titleHash": "193e39a55d48c15a3a72f96be5f499b55dea969d1f60e705264ba5de3b45454d",
     "category": "monitor",
     "reservedAt": "2026-09-21T21:46:45.403Z"
+  },
+  {
+    "itemId": "MLB4671405763",
+    "productKey": "3a1b365faa27bb85f0c2395a346d32b9176f02298a9594901c90121b90d8f7b8",
+    "titleHash": "cf7d935f76a04b2def73f132f88ad8324c6491dd13b663fa54d34d6c7b730aae",
+    "category": "outros:adaptador-ethernet",
+    "reservedAt": "2026-09-21T22:01:27.067Z"
   }
 ]
