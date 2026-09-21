@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4664051753",
-    "productKey": "ee47efe7c709c012ec89f9c3ef44021587146951c86f1b1e0ff1a9a8f43a79d2",
-    "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
-    "category": "outros:pneu-bridgestone",
-    "reservedAt": "2026-09-18T22:16:37.259Z"
-  },
-  {
     "itemId": "MLB6600141906",
     "productKey": "5cdfc748d3f2450ea6e29d2954c015d2a087389d829c2dfc6fd6db5bf3b769f2",
     "titleHash": "435320f6ce3c76a7ca05f74c0cc0ad14fd9b3e557765a08944f3bd3be5b47bba",
@@ -1398,5 +1391,12 @@
     "titleHash": "e607f1a423f2a41c2ca871361bf4e28eba473871a222a62d62dc9720c98e2d86",
     "category": "periférico",
     "reservedAt": "2026-09-21T00:46:01.941Z"
+  },
+  {
+    "itemId": "MLB7628326698",
+    "productKey": "fcc7a180a1e9a81f6f1a3fb0b8df1ee7d9dd1e2f977abda993fd6d1c054ce757",
+    "titleHash": "431bb561f757117330a81821ade2d5340aa62c8d64e3e6e501ee4190123ef2d8",
+    "category": "tablet",
+    "reservedAt": "2026-09-21T01:01:38.953Z"
   }
 ]
