@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3371578831",
-    "productKey": "10b192510125e400c9ffd7319f99a931532006dcdc27bf59281b7405048ea26a",
-    "titleHash": "199e80e775bd5fd7a309eda593f49652063dc2258233d8d4fabfb1412e57540d",
-    "category": "ferramenta",
-    "reservedAt": "2026-09-19T16:32:00.788Z"
-  },
-  {
     "itemId": "MLB6954342220",
     "productKey": "01626bf5a4615728abc4efa158da8f8799cfcd0f1c101b423ccf7481133bbed4",
     "titleHash": "a64225f5f9af9c7cdebff03860144ee9bb2798aa47833a223d7630ec84951eba",
@@ -1398,5 +1391,12 @@
     "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
     "category": "outros:pneu-bridgestone",
     "reservedAt": "2026-09-21T18:46:10.591Z"
+  },
+  {
+    "itemId": "MLB5190260133",
+    "productKey": "e1794297dc2cb2f2219932eb24d33498f53a36b4c1f4115e225f70e8990f81c0",
+    "titleHash": "0476e78d75cd872f8a0b5b10df9c4f8ed52715a88e691c7ba3bf8ddf5cfcf2e5",
+    "category": "perfume",
+    "reservedAt": "2026-09-21T19:01:27.921Z"
   }
 ]
