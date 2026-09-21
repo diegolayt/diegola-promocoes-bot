@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4188936547",
-    "productKey": "820fe92a0a494ae2608ee4a43ac3b2238a046125bd6e7a0361cc1d74aaca89de",
-    "titleHash": "ea40fb8bb999cfcc89b5e7fd17b34998e0155104e1f5df0777ec1736292f464a",
-    "category": "ferramenta",
-    "reservedAt": "2026-09-19T19:46:36.866Z"
-  },
-  {
     "itemId": "MLB5914358036",
     "productKey": "fc28a1c5fabd91cf8af96cdf343e005fb7d10c85b6b235455cbe5231df013a29",
     "titleHash": "a2c18b50c16465828b5cc5b2295004c3645a6a2fbe7ffe11d4f1a7c158c4bedf",
@@ -1398,5 +1391,12 @@
     "titleHash": "cf7d935f76a04b2def73f132f88ad8324c6491dd13b663fa54d34d6c7b730aae",
     "category": "outros:adaptador-ethernet",
     "reservedAt": "2026-09-21T22:01:27.067Z"
+  },
+  {
+    "itemId": "MLB4085175433",
+    "productKey": "3b13b451c92df4751dfe6a08d1a28b246046c76c1d4efbabf2e0f5097637638b",
+    "titleHash": "5933a654bc57192dea106235455238ff3b3942af95d0a49495d5bca1776a3084",
+    "category": "perfume",
+    "reservedAt": "2026-09-21T22:16:52.179Z"
   }
 ]
