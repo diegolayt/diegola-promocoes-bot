@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4151346474",
-    "productKey": "fd737aadf43816702dfb3f21b6832ba6b5b5076b72287699ad4959124a3be977",
-    "titleHash": "78730df97f88614d62e4e4f86a092e6656393367f37e490f9fad75224a8c8358",
-    "category": "relógio",
-    "reservedAt": "2026-09-20T02:01:40.928Z"
-  },
-  {
     "itemId": "MLB3525364839",
     "productKey": "f8b4730edfd7a1c2c3be39afc856de2c11a9c53521d83d76fd4823302070faf6",
     "titleHash": "16dd35246dab9fd4e88c940ad739fb232447f7844624e5cead9f86c28484bdb2",
@@ -1398,5 +1391,12 @@
     "titleHash": "3f644395875c5baa0fe1b312e3aa7bd651912257c56ef6c4e7899bd3e1b5b0cf",
     "category": "monitor",
     "reservedAt": "2026-09-22T04:15:57.145Z"
+  },
+  {
+    "itemId": "MLB7625026660",
+    "productKey": "bbbcab83b53caf8dc31023a810e77c0951006b63d29c7ab21cc2f0b11e826ffa",
+    "titleHash": "4d125c614256b48a42ed70deee0ee26d235f6588a468da2e078e4e608ac1c9fc",
+    "category": "tablet",
+    "reservedAt": "2026-09-22T04:32:04.522Z"
   }
 ]
