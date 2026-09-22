@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB5264659391",
+    "site_id": "MLB",
+    "seller_id": 792166347,
+    "accepts_mercadopago": true,
+    "price": 10839,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": true,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQXJhw6dhdHViYVRVeENVRk5CVDA4NU4yR",
+        "name": "Araçatuba"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYRXNwbGFuYWRhVFZoWVFYSmh3NmRoZEhWa",
+        "name": "Esplanada"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5256891976",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB77160771",
+    "title": "Console PlayStation 5 Digital 825GB - Edição Limitada Wolverine",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_838044-MLA116048814325_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB77160771",
+    "id": "MLB5264659391",
+    "sold_quantity": 1000,
+    "rotationCategory": "console"
+  },
+  "reservedAt": "2026-09-22T08:16:14.556Z"
+}
