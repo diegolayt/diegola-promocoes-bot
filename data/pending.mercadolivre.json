@@ -1,0 +1,69 @@
+{
+  "item": {
+    "item_id": "MLB7492067588",
+    "site_id": "MLB",
+    "seller_id": 3621339217,
+    "accepts_mercadopago": true,
+    "price": 187,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYUGluZGFtb25oYW5nYWJhVFV4Q1VGTkJUM",
+        "name": "Pindamonhangaba"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQ2VudHJvVFZoWVVHbHVaR0Z0YjI1b1lXN",
+        "name": "Centro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU4889188537",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19380755",
+    "title": "Nautica Tradicional Voyage Clasico EDT 200ml para masculino",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_871599-MLM48114705283_112021-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19380755",
+    "id": "MLB7492067588",
+    "sold_quantity": 300,
+    "rotationCategory": "perfume"
+  },
+  "reservedAt": "2026-09-22T11:16:17.544Z"
+}
