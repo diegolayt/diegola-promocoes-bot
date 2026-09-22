@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3525364839",
-    "productKey": "f8b4730edfd7a1c2c3be39afc856de2c11a9c53521d83d76fd4823302070faf6",
-    "titleHash": "16dd35246dab9fd4e88c940ad739fb232447f7844624e5cead9f86c28484bdb2",
-    "category": "ferramenta",
-    "reservedAt": "2026-09-20T02:16:12.392Z"
-  },
-  {
     "itemId": "MLB5788445272",
     "productKey": "93b46bd8fb163c4467939b58f6fc5603312d1cf22ec6b3f34684b95d0b0e768d",
     "titleHash": "3d2fcebe5559bfb1d763e6bc5b1db8437a9f6966f8fe2023dc93993a6c746208",
@@ -1398,5 +1391,12 @@
     "titleHash": "4d125c614256b48a42ed70deee0ee26d235f6588a468da2e078e4e608ac1c9fc",
     "category": "tablet",
     "reservedAt": "2026-09-22T04:32:04.522Z"
+  },
+  {
+    "itemId": "MLB4148496029",
+    "productKey": "802c97ddb7e5f6cb619d483ab48a8fa833c22151b39d7d61a7b6c1d8bd240791",
+    "titleHash": "c7abf9c840d395f9861bcd976b0e74a919eddd5faeccd0edf07aaa7a01726228",
+    "category": "perfume",
+    "reservedAt": "2026-09-22T04:45:53.669Z"
   }
 ]
