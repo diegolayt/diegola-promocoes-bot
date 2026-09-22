@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5068354885",
-    "productKey": "900e89edba1ffa266c38df9f1ae26733282c0a606c07a11c30f8fa43ef685e53",
-    "titleHash": "41c27df8b24ed2fbea53fffa40c6b8016f199801fd232f237c4cedda69baba39",
-    "category": "masculino",
-    "reservedAt": "2026-09-20T00:01:21.029Z"
-  },
-  {
     "itemId": "MLB5418075830",
     "productKey": "2210bd12caef19cd6a128f6227c474d03a53834a5dfc725a66ac84298e0b111b",
     "titleHash": "0d4965722b86e0137ba01971e5e47eaebe0ab1421884ef0671a85cb0889fe06e",
@@ -1398,5 +1391,12 @@
     "titleHash": "2d4e78b24cd92766767aceea069f4a31fc69b3ea238dd2e9e58aa964cf9e985d",
     "category": "celular",
     "reservedAt": "2026-09-22T02:17:02.376Z"
+  },
+  {
+    "itemId": "MLB5424008500",
+    "productKey": "1414f95dcd37fa40b9e6cef98eb750121c75c77f7938ef007f1eda48efce4ba3",
+    "titleHash": "53bf5bea212d904134dede456a85061e02fdde3c2e023cc7ca5f07119f072ceb",
+    "category": "eletrodoméstico",
+    "reservedAt": "2026-09-22T02:31:15.406Z"
   }
 ]
