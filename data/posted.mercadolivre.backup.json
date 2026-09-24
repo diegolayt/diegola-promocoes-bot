@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3822716709",
-    "productKey": "c75319f984cfccb16c573d32bb9c2d2f963fe8f9954103c3d2b257e3f3c82558",
-    "titleHash": "f32f47739b2d915211e7f50962df8289c43bca93a52ec454ada9f8304a2a059b",
-    "category": "perfume",
-    "reservedAt": "2026-09-20T10:01:57.183Z"
-  },
-  {
     "itemId": "MLB7432953690",
     "productKey": "a9dd8ff2b914849e3fcd2ae3963ff748a9074d2927665b6bb4ee8ee3b41723f7",
     "titleHash": "bf0fa0934c37b08112bad02e9597e0857b265709ebdc8c23b535a8f80d78687b",
@@ -1398,5 +1391,12 @@
     "titleHash": "ccce0b6e5cf155c8033b57b3bec25066b788da0cf9cc27a144c03fda5c837089",
     "category": "eletrodoméstico",
     "reservedAt": "2026-09-22T12:16:09.505Z"
+  },
+  {
+    "itemId": "MLB7686863524",
+    "productKey": "74b37c0b8db7a848bfccd6789cd4e7bcaf5d70e834f8b8f189f86639fc00801e",
+    "titleHash": "27c8b319a715962c006b396bb49d9b02b538a8dd8daab85b94bc9bb734b14956",
+    "category": "outros:karseell-collagen",
+    "reservedAt": "2026-09-24T14:02:00.394Z"
   }
 ]
