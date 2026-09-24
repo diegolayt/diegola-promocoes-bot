@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7642929970",
-    "productKey": "dea2c4a9da61bcd68f51b65e0e87b77e4c9e2c07e4c3c5bfd0c8810d229f72d9",
-    "titleHash": "6c866c86c418343dca74da68b8492daa20fd57a42169890ddf3e00ac8a712b07",
-    "category": "console",
-    "reservedAt": "2026-09-20T13:46:28.758Z"
-  },
-  {
     "itemId": "MLB4302336307",
     "productKey": "07a0e6d94f5e6094be288d6dfb199eb031908b414df93ce97d65158a2ebafe13",
     "titleHash": "efce48db75573c1ea4f63521b338068a182ec133e5e13a891f46098968782075",
@@ -1398,5 +1391,12 @@
     "titleHash": "2f41e2e081190be24bbaf1270b4ecb85c4ff08c446228e894934bdabe46b4bee",
     "category": "console",
     "reservedAt": "2026-09-24T17:16:22.271Z"
+  },
+  {
+    "itemId": "MLB5281022753",
+    "productKey": "6d6a36b43f25814b872c925167a7492b148d4f4d8251234ee44971008e3cc79f",
+    "titleHash": "864ba560595ab6add1df037ee70a926070372b702b28e26aeab4ad4520849045",
+    "category": "periférico",
+    "reservedAt": "2026-09-24T17:31:19.108Z"
   }
 ]
