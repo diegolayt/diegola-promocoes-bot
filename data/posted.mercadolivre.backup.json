@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7651936164",
-    "productKey": "fb1bb53ce910184c522fdd5301decd33aecb4c304d40571f61eef64c38aa1c1b",
-    "titleHash": "5a5eef9a3de02aae452781986e98651125e17abe5dd8187cc8ce6d1110cb0b15",
-    "category": "perfume",
-    "reservedAt": "2026-09-20T13:31:14.839Z"
-  },
-  {
     "itemId": "MLB7642929970",
     "productKey": "dea2c4a9da61bcd68f51b65e0e87b77e4c9e2c07e4c3c5bfd0c8810d229f72d9",
     "titleHash": "6c866c86c418343dca74da68b8492daa20fd57a42169890ddf3e00ac8a712b07",
@@ -1398,5 +1391,12 @@
     "titleHash": "f50e0c45978e401669f639972f9bd064bafea1cd00599bdf8fd5848e467ed796",
     "category": "eletrodoméstico",
     "reservedAt": "2026-09-24T17:01:01.566Z"
+  },
+  {
+    "itemId": "MLB5728106336",
+    "productKey": "bd5a57a6887059e5c4b90bd303456fc928da05372cd3b1623ca03d003cc8d8e6",
+    "titleHash": "2f41e2e081190be24bbaf1270b4ecb85c4ff08c446228e894934bdabe46b4bee",
+    "category": "console",
+    "reservedAt": "2026-09-24T17:16:22.271Z"
   }
 ]
