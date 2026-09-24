@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7083947022",
-    "productKey": "f1a9adf12461c156d03f6a8d3cb1ceb481bf97a6d47444c4332b2a40a9233a88",
-    "titleHash": "25cdbcab6d1b3141aa139a0f68b01f5de1de14cea24d833c999f303cb51f8262",
-    "category": "áudio",
-    "reservedAt": "2026-09-20T12:17:04.901Z"
-  },
-  {
     "itemId": "MLB6777437586",
     "productKey": "488e0777c37e73869e9657f542b6b61ac9963296190071d630692e9a938cff7b",
     "titleHash": "84cf3d3be75f26285535156a83242d800b451dd7aadac4e91e13fe82c70fd261",
@@ -1398,5 +1391,12 @@
     "titleHash": "a52b2817a8ca9972676c7d184590589c4979d3a1643c367808de8e156ce9f99d",
     "category": "perfume",
     "reservedAt": "2026-09-24T16:01:54.629Z"
+  },
+  {
+    "itemId": "MLB4974716923",
+    "productKey": "779f5305bad544eba2cb6ec70b54b2f599bcdd5db00420e4fec239d77f31e438",
+    "titleHash": "84a8ab1cca29acd4ccc5a5367c39989640a68dd0265180ef94790b94fb9988ca",
+    "category": "masculino",
+    "reservedAt": "2026-09-24T16:16:49.905Z"
   }
 ]
