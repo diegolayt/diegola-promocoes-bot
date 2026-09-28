@@ -1,0 +1,67 @@
+{
+  "item": {
+    "item_id": "MLB4513005598",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 278.15,
+    "category_id": "MLB9188",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "dynamic_standard_price",
+      "first_party",
+      "extended_warranty_eligible",
+      "good_quality_thumbnail",
+      "kvs_primary",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2707,
+    "original_price": 399.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU597959049",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB28525881",
+    "title": "Cafeteira Elétrica Dolce Arome Digital, Mondial 800W - C-44-32X-SDI",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_617663-MLA99919730435_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB28525881",
+    "id": "MLB4513005598",
+    "sold_quantity": 600,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188"
+  },
+  "reservedAt": "2026-09-28T21:45:36.819Z"
+}
