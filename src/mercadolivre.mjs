@@ -10,10 +10,10 @@ const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const authPath = join(root, "data", "mercadolivre-auth.json");
 const ROTATION_ITEMS = 200;
 const CATEGORY_ROTATION_ITEMS = 12;
-const MAX_API_CALLS = 24;
+const MAX_API_CALLS = 28;
 const MIN_REQUEST_INTERVAL_MS = 750;
-const CATEGORIES_PER_RUN = 3;
-const HIGHLIGHTS_PER_CATEGORY = 3;
+const CATEGORIES_PER_RUN = 4;
+const HIGHLIGHTS_PER_CATEGORY = 2;
 let apiCalls = 0;
 let lastApiCallAt = 0;
 
@@ -243,18 +243,25 @@ function normalizedTitle(title) {
     .replace(/[^a-z0-9]+/g, " ").trim();
 }
 
-function isEligible(item, history) {
+function rejectionReason(item, history, enforceCategorySpacing = true) {
   const price = Number(item.price);
-  if (!item.id || !item.permalink || !item.title || !Number.isFinite(price) || price < 19.99) return false;
+  if (!item.id || !item.permalink || !item.title) return "dados incompletos";
+  if (!Number.isFinite(price) || price < 19.99) return "preco invalido";
   const title = normalizedTitle(item.title);
-  if (/replica|inspirado|primeira linha|1 1|mochila|bolsa|backpack/.test(title) && item.rotationCategory !== "masculino") return false;
+  if (/replica|inspirado|primeira linha|1 1|mochila|bolsa|backpack/.test(title) && item.rotationCategory !== "masculino") return "termo bloqueado";
   const recent = history.slice(-ROTATION_ITEMS);
   const key = productKey(item);
-  if (recent.some((entry) => entry.productKey === key || entry.itemId === item.id)) return false;
+  if (recent.some((entry) => entry.productKey === key || entry.itemId === item.id)) return "produto nos ultimos 200";
   const titleHash = fingerprint(title);
-  if (recent.some((entry) => entry.titleHash === titleHash)) return false;
-  if (history.slice(-CATEGORY_ROTATION_ITEMS).some((entry) => entry.category === item.rotationCategory)) return false;
-  return true;
+  if (recent.some((entry) => entry.titleHash === titleHash)) return "titulo nos ultimos 200";
+  if (enforceCategorySpacing && history.slice(-CATEGORY_ROTATION_ITEMS).some((entry) => entry.category === item.rotationCategory)) return "categoria recente";
+  return null;
+}
+
+function approvedProducts(items, history, enforceCategorySpacing = true) {
+  return items
+    .filter((item) => !rejectionReason(item, history, enforceCategorySpacing))
+    .sort((a, b) => score(b) - score(a));
 }
 
 function score(item) {
@@ -289,12 +296,24 @@ async function selectProduct(history) {
     }
   }
   let distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
-  let available = distinct.filter((item) => isEligible(item, history)).sort((a, b) => score(b) - score(a));
+  let available = approvedProducts(distinct, history);
   if (!available.length && apiCalls < MAX_API_CALLS - 4) {
     try { candidates.push(...await searchTrendingProducts(token, history)); }
     catch (error) { console.warn(`Tendências indisponíveis: ${error.message}`); }
     distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
-    available = distinct.filter((item) => isEligible(item, history)).sort((a, b) => score(b) - score(a));
+    available = approvedProducts(distinct, history);
+  }
+  // A identidade e o título continuam bloqueados por 200 publicações. Somente
+  // o espaçamento de categoria é relaxado quando ele, sozinho, impedir toda a
+  // rodada; assim o bot não para e nunca repete o mesmo produto nesse ciclo.
+  if (!available.length) available = approvedProducts(distinct, history, false);
+  if (!available.length && distinct.length) {
+    const reasons = distinct.reduce((counts, item) => {
+      const reason = rejectionReason(item, history, false) || "aprovado";
+      counts[reason] = (counts[reason] || 0) + 1;
+      return counts;
+    }, {});
+    console.warn(`Rejeicoes do Mercado Livre: ${JSON.stringify(reasons)}.`);
   }
   console.log(`Mercado Livre: ${apiCalls} consultas, ${candidates.length} resultados, ${distinct.length} produtos distintos e ${available.length} aprovados.`);
   return available[0] || null;
