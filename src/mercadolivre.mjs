@@ -10,10 +10,10 @@ const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const authPath = join(root, "data", "mercadolivre-auth.json");
 const ROTATION_ITEMS = 200;
 const CATEGORY_ROTATION_ITEMS = 12;
-const MAX_API_CALLS = 28;
-const MIN_REQUEST_INTERVAL_MS = 450;
-const CATEGORIES_PER_RUN = 5;
-const HIGHLIGHTS_PER_CATEGORY = 4;
+const MAX_API_CALLS = 24;
+const MIN_REQUEST_INTERVAL_MS = 750;
+const CATEGORIES_PER_RUN = 3;
+const HIGHLIGHTS_PER_CATEGORY = 3;
 let apiCalls = 0;
 let lastApiCallAt = 0;
 
@@ -143,11 +143,16 @@ async function resolveHighlight(token, highlight, category) {
     const product = await apiGet(token, `/products/${encodeURIComponent(highlight.id)}`);
     raw = product.buy_box_winner;
     // Algumas páginas de catálogo não têm uma oferta vencedora com preço.
-    // Consultar /products/:id/items para cada uma delas estoura rapidamente o
-    // limite da API; é mais seguro ignorá-las e avançar para outro produto.
+    // Busca uma oferta ativa, mas somente dentro do pequeno lote espaçado da
+    // rodada para não atingir novamente o limite da API.
     if (!raw || !Number.isFinite(Number(raw.price)) || Number(raw.price) <= 0) {
-      return null;
+      const offers = await apiGet(token, `/products/${encodeURIComponent(product.id)}/items?status=active`);
+      const rows = offers.results || offers.items || [];
+      raw = rows
+        .filter((entry) => Number.isFinite(Number(entry.price)) && Number(entry.price) > 0)
+        .sort((a, b) => Number(b.sold_quantity || 0) - Number(a.sold_quantity || 0))[0];
     }
+    if (!raw) return null;
     raw.catalog_product_id ||= product.id;
     raw.title ||= product.name;
     raw.thumbnail ||= product.pictures?.[0]?.url;
