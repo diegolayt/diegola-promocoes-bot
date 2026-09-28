@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4577536772",
-    "productKey": "d183ffc6ca9812408f59e0d6110a5d58d54cf0252aafa22b3c9e90331bbe3981",
-    "titleHash": "7a5da6dba43afbfd41c558439cdf5ef0ff82d9548b134360de77941856e1255b",
-    "category": "relógio",
-    "reservedAt": "2026-09-20T18:31:43.767Z"
-  },
-  {
     "itemId": "MLB3782376983",
     "productKey": "f896870b6050f0cbecd82f85c2c702df09d190f2fe124a634d32c2b9b26080ad",
     "titleHash": "cd8195a219238688e29eb60800b16098a6f1b01d4858bcb18ec724bd9b95632e",
@@ -1409,5 +1402,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-09-28T23:15:39.540Z"
+  },
+  {
+    "itemId": "MLB4924616549",
+    "productKey": "df1c472ea3539e5c2da52d5c692551eb5a3d4532c16b612272bedcfd2e434412",
+    "titleHash": "733b1b9f4f7becdf7e3d4486749c15484dd283f43b561b40a02b2e109c936645",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-09-28T23:30:35.575Z"
   }
 ]
