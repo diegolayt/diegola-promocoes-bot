@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6624256706",
-    "productKey": "f9c826b18b37e1ad850cef092d8f981834b4589a5ba1e597bfec60954e3ff7fb",
-    "titleHash": "51dd04afe47fb6f7453f52e5887f0865e0af52004ff67c84a72dea7ec91637bd",
-    "category": "celular",
-    "reservedAt": "2026-09-20T17:31:30.898Z"
-  },
-  {
     "itemId": "MLB3622608315",
     "productKey": "9a13cabc48449b24514fda1ecc9d081c805ff8f8082da710930057f9abc94255",
     "titleHash": "7f2f4a5a7854a3b61993d25a0602ee3e88dba647be9b27143f2f78692e96c939",
@@ -1405,5 +1398,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-09-28T22:15:26.537Z"
+  },
+  {
+    "itemId": "MLB5980496924",
+    "productKey": "5e2b747dccadc7ed703fe7181bce06e3377912d2a8fcf47436a1293a04ace489",
+    "titleHash": "b11c7c849e9f236ca84ffa66cb7940ee8c9ed92a66de86f4f3ae3420a8cf1a90",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-09-28T22:30:39.567Z"
   }
 ]
