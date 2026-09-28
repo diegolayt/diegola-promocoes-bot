@@ -208,10 +208,14 @@ async function searchTrendingProducts(token, history) {
   return resolved;
 }
 
-async function searchProducts(token, categoryId, category, sampleOffset = 0) {
+async function searchProducts(token, categoryId, category, history, sampleOffset = 0) {
   const ranking = await apiGet(token, `/highlights/MLB/category/${categoryId}`);
   const resolved = [];
-  const content = ranking.content || [];
+  const recent = history.slice(-ROTATION_ITEMS);
+  const content = (ranking.content || []).filter((highlight) => {
+    const key = fingerprint(highlight.id);
+    return !recent.some((entry) => entry.productKey === key || entry.itemId === highlight.id);
+  });
   const offset = content.length ? sampleOffset % content.length : 0;
   const sample = [...content.slice(offset), ...content.slice(0, offset)].slice(0, HIGHLIGHTS_PER_CATEGORY);
   for (const highlight of sample) {
@@ -289,7 +293,7 @@ async function selectProduct(history) {
       entry.sourceCategoryId ? entry.sourceCategoryId === categoryId : entry.category === category
     ).length;
     try {
-      candidates.push(...await searchProducts(token, categoryId, category, visits * HIGHLIGHTS_PER_CATEGORY));
+      candidates.push(...await searchProducts(token, categoryId, category, history, visits * HIGHLIGHTS_PER_CATEGORY));
     } catch (error) {
       console.warn(error.message);
       if (error instanceof ApiLimitError) break;
