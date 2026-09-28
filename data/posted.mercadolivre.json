@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3622608315",
-    "productKey": "9a13cabc48449b24514fda1ecc9d081c805ff8f8082da710930057f9abc94255",
-    "titleHash": "7f2f4a5a7854a3b61993d25a0602ee3e88dba647be9b27143f2f78692e96c939",
-    "category": "eletrodoméstico",
-    "reservedAt": "2026-09-20T17:46:25.165Z"
-  },
-  {
     "itemId": "MLB6943757138",
     "productKey": "b92d841efb9e31e2dcadb0035637f24aa735fd61905b5446d59bae44dfdbb38b",
     "titleHash": "3bcddec43b5f07c0c48832654be1319435982feefd3de588b000a6c7529bec67",
@@ -1406,5 +1399,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-09-28T22:30:39.567Z"
+  },
+  {
+    "itemId": "MLB7045954108",
+    "productKey": "66c7b386fec7fb85f448fd4205a17e5c311b3c889e1174ac013ae2dcf43aae20",
+    "titleHash": "07d3743c349b4b43431c41d55dd1faae21cec1c1353d6627af4ce3184f5efe2a",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-09-28T22:45:29.350Z"
   }
 ]
