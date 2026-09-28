@@ -10,6 +10,14 @@ const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const authPath = join(root, "data", "mercadolivre-auth.json");
 const ROTATION_ITEMS = 200;
 const CATEGORY_ROTATION_ITEMS = 12;
+const MAX_API_CALLS = 28;
+const MIN_REQUEST_INTERVAL_MS = 450;
+const CATEGORIES_PER_RUN = 5;
+const HIGHLIGHTS_PER_CATEGORY = 4;
+let apiCalls = 0;
+let lastApiCallAt = 0;
+
+class ApiLimitError extends Error {}
 
 // Categorias-folha com ranking oficial de mais vendidos. O endpoint /search
 // não é liberado para esta aplicação; /highlights é o recurso oficial feito
@@ -115,8 +123,14 @@ async function getAccessToken() {
 }
 
 async function apiGet(token, path) {
+  if (apiCalls >= MAX_API_CALLS) throw new ApiLimitError("Limite seguro de consultas desta rodada atingido.");
+  const wait = Math.max(0, MIN_REQUEST_INTERVAL_MS - (Date.now() - lastApiCallAt));
+  if (wait) await new Promise((resolve) => setTimeout(resolve, wait));
+  apiCalls += 1;
+  lastApiCallAt = Date.now();
   const response = await fetch(`https://api.mercadolibre.com${path}`, { headers: { Authorization: `Bearer ${token}`, Accept: "application/json" } });
   const json = await response.json();
+  if (response.status === 429) throw new ApiLimitError(`${path} atingiu o limite temporário da API do Mercado Livre.`);
   if (!response.ok) throw new Error(`${path} falhou (HTTP ${response.status}): ${json.message || "resposta inválida"}`);
   return json;
 }
@@ -128,16 +142,12 @@ async function resolveHighlight(token, highlight, category) {
   } else if (highlight.type === "PRODUCT") {
     const product = await apiGet(token, `/products/${encodeURIComponent(highlight.id)}`);
     raw = product.buy_box_winner;
-    // Rankings podem devolver uma página de catálogo sem preço. Nesse caso,
-    // seleciona uma oferta ativa e nunca publica um valor fictício de R$ 0,00.
+    // Algumas páginas de catálogo não têm uma oferta vencedora com preço.
+    // Consultar /products/:id/items para cada uma delas estoura rapidamente o
+    // limite da API; é mais seguro ignorá-las e avançar para outro produto.
     if (!raw || !Number.isFinite(Number(raw.price)) || Number(raw.price) <= 0) {
-      const offers = await apiGet(token, `/products/${encodeURIComponent(product.id)}/items?status=active`);
-      const rows = offers.results || offers.items || [];
-      raw = rows
-        .filter((entry) => Number.isFinite(Number(entry.price)) && Number(entry.price) > 0)
-        .sort((a, b) => Number(b.sold_quantity || 0) - Number(a.sold_quantity || 0))[0];
+      return null;
     }
-    if (!raw) return null;
     raw.catalog_product_id ||= product.id;
     raw.title ||= product.name;
     raw.thumbnail ||= product.pictures?.[0]?.url;
@@ -176,30 +186,35 @@ async function searchTrendingProducts(token, history) {
   const trends = await apiGet(token, "/trends/MLB");
   const desired = Array.isArray(trends) ? trends.slice(10, 30) : [];
   const offset = history.length % Math.max(1, desired.length);
-  const wanted = [...desired.slice(offset), ...desired.slice(0, offset)].slice(0, 8);
+  const wanted = [...desired.slice(offset), ...desired.slice(0, offset)].slice(0, 2);
   const resolved = [];
   for (const trend of wanted) {
     try {
-      const found = await apiGet(token, `/products/search?status=active&site_id=MLB&limit=3&q=${encodeURIComponent(trend.keyword)}`);
-      for (const product of (found.results || []).slice(0, 3)) {
+      const found = await apiGet(token, `/products/search?status=active&site_id=MLB&limit=1&q=${encodeURIComponent(trend.keyword)}`);
+      for (const product of (found.results || []).slice(0, 1)) {
         const item = await resolveHighlight(token, { id: product.id, type: "PRODUCT", position: 20 }, broadCategory(product.name || trend.keyword));
         if (item) resolved.push({ ...item, trendRank: true });
       }
     } catch (error) {
+      if (error instanceof ApiLimitError) throw error;
       console.warn(`Tendência ${trend.keyword} ignorada: ${error.message}`);
     }
   }
   return resolved;
 }
 
-async function searchProducts(token, categoryId, category) {
+async function searchProducts(token, categoryId, category, sampleOffset = 0) {
   const ranking = await apiGet(token, `/highlights/MLB/category/${categoryId}`);
   const resolved = [];
-  for (const highlight of (ranking.content || []).slice(0, 20)) {
+  const content = ranking.content || [];
+  const offset = content.length ? sampleOffset % content.length : 0;
+  const sample = [...content.slice(offset), ...content.slice(0, offset)].slice(0, HIGHLIGHTS_PER_CATEGORY);
+  for (const highlight of sample) {
     try {
       const item = await resolveHighlight(token, highlight, category);
-      if (item) resolved.push(item);
+      if (item) resolved.push({ ...item, sourceCategoryId: categoryId });
     } catch (error) {
+      if (error instanceof ApiLimitError) throw error;
       console.warn(`Ignorando ${highlight.id}: ${error.message}`);
     }
   }
@@ -247,19 +262,36 @@ function score(item) {
 }
 
 async function selectProduct(history) {
+  apiCalls = 0;
+  lastApiCallAt = 0;
   const token = await getAccessToken();
-  const offset = history.length % searches.length;
+  const last = history.at(-1);
+  const lastSourceIndex = searches.findIndex(([category, categoryId]) =>
+    last?.sourceCategoryId ? categoryId === last.sourceCategoryId : category === last?.category
+  );
+  const offset = lastSourceIndex >= 0 ? (lastSourceIndex + 1) % searches.length : 0;
   const ordered = [...searches.slice(offset), ...searches.slice(0, offset)];
   const candidates = [];
-  for (const [category, categoryId] of ordered) {
-    try { candidates.push(...await searchProducts(token, categoryId, category)); }
-    catch (error) { console.warn(error.message); }
+  for (const [category, categoryId] of ordered.slice(0, CATEGORIES_PER_RUN)) {
+    const visits = history.filter((entry) =>
+      entry.sourceCategoryId ? entry.sourceCategoryId === categoryId : entry.category === category
+    ).length;
+    try {
+      candidates.push(...await searchProducts(token, categoryId, category, visits * HIGHLIGHTS_PER_CATEGORY));
+    } catch (error) {
+      console.warn(error.message);
+      if (error instanceof ApiLimitError) break;
+    }
   }
-  try { candidates.push(...await searchTrendingProducts(token, history)); }
-  catch (error) { console.warn(`Tendências indisponíveis: ${error.message}`); }
-  const distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
-  const available = distinct.filter((item) => isEligible(item, history)).sort((a, b) => score(b) - score(a));
-  console.log(`Mercado Livre: ${candidates.length} resultados, ${distinct.length} produtos distintos e ${available.length} aprovados.`);
+  let distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
+  let available = distinct.filter((item) => isEligible(item, history)).sort((a, b) => score(b) - score(a));
+  if (!available.length && apiCalls < MAX_API_CALLS - 4) {
+    try { candidates.push(...await searchTrendingProducts(token, history)); }
+    catch (error) { console.warn(`Tendências indisponíveis: ${error.message}`); }
+    distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
+    available = distinct.filter((item) => isEligible(item, history)).sort((a, b) => score(b) - score(a));
+  }
+  console.log(`Mercado Livre: ${apiCalls} consultas, ${candidates.length} resultados, ${distinct.length} produtos distintos e ${available.length} aprovados.`);
   return available[0] || null;
 }
 
@@ -313,7 +345,7 @@ async function reserve() {
   const history = await loadHistory();
   const item = await selectProduct(history);
   if (!item) throw new Error("Nenhum produto novo aprovado nesta rodada.");
-  history.push({ itemId: item.id, productKey: productKey(item), titleHash: fingerprint(normalizedTitle(item.title)), category: item.rotationCategory, reservedAt: new Date().toISOString() });
+  history.push({ itemId: item.id, productKey: productKey(item), titleHash: fingerprint(normalizedTitle(item.title)), category: item.rotationCategory, sourceCategoryId: item.sourceCategoryId || null, reservedAt: new Date().toISOString() });
   await saveHistory(history);
   await writeFile(pendingPath, JSON.stringify({ item, reservedAt: new Date().toISOString() }, null, 2));
   console.log(`Reservado Mercado Livre: ${item.id} (${item.rotationCategory}).`);
