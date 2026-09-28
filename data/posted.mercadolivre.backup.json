@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6992340404",
-    "productKey": "bbc689030a50ec021ce2a8e14d2e3afaf971316a34ec7a73ce4b784da4fa468f",
-    "titleHash": "fcc9074de14ea86af8ac8262e7da508dbaee2ccc5679dc3b616e6c06e3bac90a",
-    "category": "televisão",
-    "reservedAt": "2026-09-20T16:01:19.568Z"
-  },
-  {
     "itemId": "MLB4867074696",
     "productKey": "7e0f9674708e9b3a34ba988c71da1e6578a123a424669b6731f93bfb464e9ae4",
     "titleHash": "62edd5c9366aded59122bcda794f155dcbdc96f065884de5056e9cdc0167a96e",
@@ -1399,5 +1392,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-09-28T20:45:42.086Z"
+  },
+  {
+    "itemId": "MLB4976858459",
+    "productKey": "6fe8b4465b95dd02ce3872f0c82d9edd63fcb221f54821135fddc6c8a3b6a5fa",
+    "titleHash": "731fa288d145bab5093f0e097cac9c5b054b8b539508fad924716dcce4568630",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-09-28T21:00:44.614Z"
   }
 ]
