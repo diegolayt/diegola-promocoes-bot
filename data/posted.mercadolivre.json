@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6895458032",
-    "productKey": "e00dd8ce7bb48c9d134a0b461fe332cb37d8b7bfa74464c9e5100713840a2331",
-    "titleHash": "9e65b9e5f0ab6467a0fed4c54c88828a7bcad3a6a18deaf0e5dfddb2df240ed2",
-    "category": "áudio",
-    "reservedAt": "2026-09-20T22:31:12.107Z"
-  },
-  {
     "itemId": "MLB4367472775",
     "productKey": "fa34295fd787e18cd07fd2a0630755a78cbd91e8f36a0eb938c9172f2b85abfc",
     "titleHash": "190b71ddac76b50c537574e24e12b9a5846a745eaee7a59f66ce915548b985a6",
@@ -1424,5 +1417,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-09-29T21:15:30.302Z"
+  },
+  {
+    "itemId": "MLB7328449336",
+    "productKey": "1984953db221eb12f2798067f743817ad4b1bb916a3c7fb84d23ee7a5e13110d",
+    "titleHash": "0fc65dd07a9749c78c10fcabf249fb3f628547ce577c113b4702a108eee4b283",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-09-29T21:30:33.564Z"
   }
 ]
