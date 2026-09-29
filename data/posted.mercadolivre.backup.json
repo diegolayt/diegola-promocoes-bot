@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4050171685",
-    "productKey": "4b4cb3622b35e02888299877bc0016516a17f59762a6374c5e4efb9ca84d47db",
-    "titleHash": "8bce4eaf9c8fbbd51136d8247dedd27d6c983bd37cff2cb05efb6c6023f6d805",
-    "category": "perfume",
-    "reservedAt": "2026-09-20T20:01:45.803Z"
-  },
-  {
     "itemId": "MLB4857423967",
     "productKey": "1c1a1b874a30de475b7384d733f4a0e84aae0381068a16715f9a6916d89926c1",
     "titleHash": "5cc0254ef98a465472c1b715ba05daa855b7630da78fbcc0a3e5b4d8603b3d0d",
@@ -1415,5 +1408,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-09-29T00:45:35.312Z"
+  },
+  {
+    "itemId": "MLB5114484065",
+    "productKey": "ef7a24a84c9e132908de0d95f7e4fa06a94737984083662028caee9e6ae09949",
+    "titleHash": "f664ec61372dc7954a6b87ce608d420da91e2a88b52ef74d979b4bcee2c5b924",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-09-29T01:00:39.328Z"
   }
 ]

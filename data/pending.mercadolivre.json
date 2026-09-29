@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB5114484065",
+    "site_id": "MLB",
+    "seller_id": 436235134,
+    "accepts_mercadopago": true,
+    "price": 299.17,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 358062,
+    "original_price": 631.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQmFydWVyaVRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Osasco"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIENhbGlmw7NybmlhVFZoWVFtR",
+        "name": "Jardim Califórnia"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3875534609",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB69441156",
+    "title": "Chave De Impacto Com 2 Baterias Furadeira Parafusadeira Profissional Torque 330 Nm 0-3200 Rpm Velocidade Variável Carregador Bivolt Motor Brushless Com Acessórios E Maleta CNC DO BRASIL",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739580-MLA115649080902_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB69441156",
+    "id": "MLB5114484065",
+    "sold_quantity": 100,
+    "rotationCategory": "ferramenta",
+    "sourceCategoryId": "MLB189007"
+  },
+  "reservedAt": "2026-09-29T01:00:39.329Z"
+}
