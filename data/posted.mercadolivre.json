@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4480679679",
-    "productKey": "0638625ecb1d4f3069415a83316e094d568927a479e5b6fdac5bc8eab6b646af",
-    "titleHash": "8dc070294722bcd29c3759ade1a307690c0dcc2ede77b8149144d2319ac541a5",
-    "category": "masculino",
-    "reservedAt": "2026-09-20T23:16:46.666Z"
-  },
-  {
     "itemId": "MLB4835180937",
     "productKey": "abf8d06c6cfb1b902013ccf1d68e9eff9e88217b332bd45fe65ac4ec046dc0ea",
     "titleHash": "96e7f5a9a79b44c8c5649735f090507ff71536ccd5893625d3ec18180f4620d2",
@@ -1427,5 +1420,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-09-29T22:00:39.494Z"
+  },
+  {
+    "itemId": "MLB7665746954",
+    "productKey": "bfd6728ad1b171f984cee4018f498661edb08f362daac46365ad0a59b343f0e3",
+    "titleHash": "181b50122314a076084217f1ad9f07e42d889f85f150bd9a9f70d712f75d75e2",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-09-29T22:15:30.032Z"
   }
 ]
