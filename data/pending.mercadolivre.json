@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB4696185003",
+    "site_id": "MLB",
+    "seller_id": 376934766,
+    "accepts_mercadopago": true,
+    "price": 78.9,
+    "category_id": "MLB31683",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 75832,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTIzNTE",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlZJTDg5OTU",
+        "name": "Vila Maria"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3989834566",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB69971255",
+    "title": "Sanduicheira Elétrica Luxe Grill 2 Em 1 Antiaderente Multiuso Compacta 750w Inox 110v Ex Decor",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_845600-MLA113470800237_062026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB69971255",
+    "id": "MLB4696185003",
+    "sold_quantity": 1100,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683"
+  },
+  "reservedAt": "2026-09-29T22:45:31.645Z"
+}
