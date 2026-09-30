@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB5248915745",
+    "site_id": "MLB",
+    "seller_id": 3592255542,
+    "accepts_mercadopago": true,
+    "price": 1804.05,
+    "category_id": "MLB1055",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 439262,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+        "name": "Jundiaí"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+        "name": "Distrito Industrial"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 0,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "0 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4935873702",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB51340616",
+    "title": "Smartphone Motorola Moto G86 5g - 256gb 8gb Ram+16gb Ram Boost, Tela 1.5k Poled, 50mp Sony Camera Ois Moto Ai, Videos Em 4k, Ip68 + Ip69 - Vermelho",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_814913-MLA99969880153_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB51340616",
+    "id": "MLB5248915745",
+    "sold_quantity": 1300,
+    "rotationCategory": "celular",
+    "sourceCategoryId": "MLB1055"
+  },
+  "reservedAt": "2026-09-30T15:30:34.753Z"
+}
