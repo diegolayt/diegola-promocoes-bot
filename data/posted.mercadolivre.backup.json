@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB1813858157",
-    "productKey": "cd49aae79bb3a2e24e6cbe92d19af6c93e7315d114e2c4f8be457ca9d10c61cd",
-    "titleHash": "acd7395731aedb0be15dfde60b981483aea4bda99378654b60d94f491c9ccb75",
-    "category": "periférico",
-    "reservedAt": "2026-09-21T10:31:31.488Z"
-  },
-  {
     "itemId": "MLB4571210341",
     "productKey": "163a58eb61a4412fd3d8f240ddd7f5289f8f32dcacde0ed36753c934187ee3cf",
     "titleHash": "bbadc9cd22e0fc10322d5d9ecfb6529569c91d8d21b055a58013b86b346e86c7",
@@ -1472,5 +1465,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-09-30T17:45:28.422Z"
+  },
+  {
+    "itemId": "MLB7166721108",
+    "productKey": "05eaa0848b465a939cb02531103ba42ad6096329318cb14ff716c1f252a2098e",
+    "titleHash": "9b22ebe344adee1c8b02eeeb1bf112d873421da3eb9ecfdc8da98e5f7ec4efcf",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-09-30T18:00:41.747Z"
   }
 ]
