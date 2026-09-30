@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6938452632",
-    "productKey": "3472274b89b121ef2ae3267c5907090643216b63e1280e1a423c042af4da6e6f",
-    "titleHash": "e4b1ad14a95f048b360214b472f132acaea761d81951d61f266a5fb851dc1f78",
-    "category": "console",
-    "reservedAt": "2026-09-21T09:31:18.943Z"
-  },
-  {
     "itemId": "MLB7166721108",
     "productKey": "05eaa0848b465a939cb02531103ba42ad6096329318cb14ff716c1f252a2098e",
     "titleHash": "9b56bbb812936e7902e1774d738488bc776d81a7347181c21601b62dcfbeeade",
@@ -1468,5 +1461,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-09-30T16:45:31.225Z"
+  },
+  {
+    "itemId": "MLB4232553473",
+    "productKey": "e00dd8ce7bb48c9d134a0b461fe332cb37d8b7bfa74464c9e5100713840a2331",
+    "titleHash": "9e65b9e5f0ab6467a0fed4c54c88828a7bcad3a6a18deaf0e5dfddb2df240ed2",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-09-30T17:00:36.866Z"
   }
 ]
