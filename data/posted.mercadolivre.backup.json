@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7538654288",
-    "productKey": "994a1a66356508daec2033eb80ee9eda5688c7d7ceb5161490816022ec06fd47",
-    "titleHash": "9d5844882d92fcf9a940bd4bc76a1a4b28ec483afc7164285d0c1cb530c6c36f",
-    "category": "áudio",
-    "reservedAt": "2026-09-21T01:46:12.231Z"
-  },
-  {
     "itemId": "MLB5220434045",
     "productKey": "2c2b688ed1849d8f376f4f012e46fdf52b7c08b8847a17f6674c97d22cac9320",
     "titleHash": "41b3bbae93bde1d92d308f0d21e0b882769566a67eb6096998f0c6d81e6b98ce",
@@ -1437,5 +1430,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-09-30T04:45:31.978Z"
+  },
+  {
+    "itemId": "MLB7579589860",
+    "productKey": "0129e0ad07cd5b49d93d66988a56520d40a4b3b578e5f92a6badad948ec7ff73",
+    "titleHash": "254070ed90aabce5e0903da867dc7069d65d79f982a23a3311f4dc5583eae2fe",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-09-30T05:00:31.920Z"
   }
 ]
