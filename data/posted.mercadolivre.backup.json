@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7669281746",
-    "productKey": "e9149a57bf1eb90658bab04130cf69a3fe7098e9de3ce20dc8a49dc89f98cd89",
-    "titleHash": "8a20097e8048a272e3dd9d627a3763fc7b75311d512937b3acc72f7ec270e5f8",
-    "category": "masculino",
-    "reservedAt": "2026-09-21T02:31:37.525Z"
-  },
-  {
     "itemId": "MLB4540296511",
     "productKey": "bfabb1a825874d305fdc5a96b6418d04a827ebe1455cc4d976ae9033023fbfbe",
     "titleHash": "b4d8df6ce6f87334d81393c286d0c47720ff9ff38bbfdb3a2431656b40d3def5",
@@ -1440,5 +1433,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-09-30T05:30:30.406Z"
+  },
+  {
+    "itemId": "MLB1941785534",
+    "productKey": "1010a845202376dbe0dc4a1081b4359a489793ee41247a523067a1eae986b8f2",
+    "titleHash": "ae3d9f5c10f2e3eb8a586f78618c80f3eeedc042b782bd9d92b3bc8aa34af094",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-09-30T05:45:29.119Z"
   }
 ]
