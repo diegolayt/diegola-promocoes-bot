@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6233880886",
-    "productKey": "3ca6817919fcd030d1dadda9bb28b9dd358a48327ecae759bf727ed872f39e76",
-    "titleHash": "cd5b71801dc81bee06166df407d3e1c28ffd30b368a3255d50d511f611d3d236",
-    "category": "eletrodoméstico",
-    "reservedAt": "2026-09-21T03:46:11.476Z"
-  },
-  {
     "itemId": "MLB1813858187",
     "productKey": "bfb4e1e7fd1fef1dde1677a99da174a259dacab54df0fb0e3376272f1bb15d94",
     "titleHash": "465e3e53a8e51ea08cc5db12ddf2e264eb6c965c8b600a04b807264c44e34362",
@@ -1445,5 +1438,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-09-30T06:45:32.948Z"
+  },
+  {
+    "itemId": "MLB5256219731",
+    "productKey": "de4eec9097d88bdb8a364fb0f3e85879ef7a7ad3dcd76f452885235262be0afb",
+    "titleHash": "563048d443d787a2f53b63285baddcdbf316d4ded6353877678b5e12133c3db6",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-09-30T07:00:38.670Z"
   }
 ]
