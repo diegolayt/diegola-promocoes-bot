@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7576869066",
-    "productKey": "0a8029195c4f1e7c55b5df34cd15d69fc2245c7b833125bb245eeabd7a917be8",
-    "titleHash": "b200e329c3abf6006978ebde64f5390466e1c838a6636ea9fd91e140c3d2e5e5",
-    "category": "relógio",
-    "reservedAt": "2026-09-21T11:01:40.481Z"
-  },
-  {
     "itemId": "MLB5691483790",
     "productKey": "783302b037ea7bcc28761be9029f86c8ce89f67cd46020a1c086878a53c793e0",
     "titleHash": "410390b5746898960b034630b11a254efdabe258c0bfd14c00e1cae45a9ccb87",
@@ -1474,5 +1467,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-09-30T18:15:34.996Z"
+  },
+  {
+    "itemId": "MLB5571930734",
+    "productKey": "f404f4d48a375164008c5f574623c32d94994a61a0637f8909354379214b0f0e",
+    "titleHash": "4ecc5e6577f6dfe721f4ebd81c69d2db7cfff156e1aeeb9dd62e8ae34581e1e8",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-09-30T18:30:32.436Z"
   }
 ]
