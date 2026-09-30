@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6420227790",
-    "productKey": "93daf941b0c19e4edd71e96ddeaf8f1b0d3f60131fc1f9bffaa247e7b1e03380",
-    "titleHash": "2c52eee37b94dd576cfe591bf2cf0d48a3a2cd148fa66dd1082fd5ddf65cf006",
-    "category": "celular",
-    "reservedAt": "2026-09-21T03:31:32.843Z"
-  },
-  {
     "itemId": "MLB6233880886",
     "productKey": "3ca6817919fcd030d1dadda9bb28b9dd358a48327ecae759bf727ed872f39e76",
     "titleHash": "cd5b71801dc81bee06166df407d3e1c28ffd30b368a3255d50d511f611d3d236",
@@ -1444,5 +1437,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-09-30T06:30:39.921Z"
+  },
+  {
+    "itemId": "MLB6257364448",
+    "productKey": "ba7df21eb0ca203657b74d7ea4ae1773655b42d17accfa68bfb2c42c6c052ff7",
+    "titleHash": "e289328335e8aff0edb32ab31940bba3f35502e8178c8cf03ba293546a281734",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-09-30T06:45:32.948Z"
   }
 ]
