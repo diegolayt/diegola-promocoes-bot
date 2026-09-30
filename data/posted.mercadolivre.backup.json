@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3605137523",
-    "productKey": "effe01c14b60bca63ba4fe57645d0d89fe1b9c400e7f3f579a45b0eded271042",
-    "titleHash": "49622d31b2a212fe28d086e1df2e745aee2975bffc16449e9a7262c1565615b3",
-    "category": "eletrodoméstico",
-    "reservedAt": "2026-09-21T07:01:31.732Z"
-  },
-  {
     "itemId": "MLB4590140133",
     "productKey": "2e191208d3232e0818377948394b9fba87ffda63c079b76b27ca2473a36bc5c9",
     "titleHash": "2c7a03e25c50a18f66dbc39514787aaad926a2bc915350fd211af16f469f65a8",
@@ -1458,5 +1451,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-09-30T10:00:40.376Z"
+  },
+  {
+    "itemId": "MLB5313180429",
+    "productKey": "0ab12307f17ca8d325e958ae31aebe4e54bdefc3ac1f118548cd271a3366a23d",
+    "titleHash": "f0205a3ab2e3ffbbb11776ce6b091fd8fdf23c2e2926662b6d5f31a9d814c45d",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-09-30T10:15:33.161Z"
   }
 ]
