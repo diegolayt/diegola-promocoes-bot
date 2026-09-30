@@ -1,0 +1,64 @@
+{
+  "item": {
+    "item_id": "MLB4070238179",
+    "site_id": "MLB",
+    "seller_id": 630278197,
+    "accepts_mercadopago": true,
+    "price": 42.9,
+    "category_id": "MLB107482",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0dBUjFiOWEz",
+        "name": "Garibaldi"
+      },
+      "state": {
+        "id": "TUxCUFJJT0xkYzM0",
+        "name": "Rio Grande do Sul"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU3191553120",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB21970986",
+    "title": "Frigideira Antiaderente Tramontina 20 Cm Turim em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Vermelho",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_910373-MLA99574340900_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB21970986",
+    "id": "MLB4070238179",
+    "sold_quantity": 300,
+    "rotationCategory": "casa",
+    "sourceCategoryId": "MLB107564"
+  },
+  "reservedAt": "2026-09-30T16:30:33.420Z"
+}

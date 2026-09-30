@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6255801292",
-    "productKey": "705e0f7b95a15adc7782ae605b0ff18fcd1309879589042ddcce99965b557ccb",
-    "titleHash": "2d763f035353f8e88d4059eaae08a5bd0caad91bffaaf74152be4be57db76b4d",
-    "category": "masculino",
-    "reservedAt": "2026-09-21T09:01:59.872Z"
-  },
-  {
     "itemId": "MLB4748589927",
     "productKey": "21c0dc1f30ed90277f70223411396b407c96f6ca5bfb7bd5b7d80ea50e916faf",
     "titleHash": "126ecb59ac7c20671a06e42cc4c3f2b7983025828462c8cfc067f88bce2db4c8",
@@ -1466,5 +1459,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-09-30T16:17:36.233Z"
+  },
+  {
+    "itemId": "MLB4070238179",
+    "productKey": "459bbea6fe06d062391808ca4dd9e7766c9914220fd730ee49e886a706c6c709",
+    "titleHash": "bac41a6e174e5dfd2eb26efc1132418b5ab537b5f0a734cabdc3c020c9f3eb46",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-09-30T16:30:33.418Z"
   }
 ]
