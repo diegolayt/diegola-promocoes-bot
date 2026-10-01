@@ -1,0 +1,63 @@
+{
+  "item": {
+    "item_id": "MLB4238295613",
+    "site_id": "MLB",
+    "seller_id": 2510796023,
+    "accepts_mercadopago": true,
+    "price": 149.9,
+    "category_id": "MLB31683",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 585,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "optional_me2_chosen"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JBTDc5NDIyMQ",
+        "name": "Balneário Piçarras"
+      },
+      "state": {
+        "id": "TUxCUFNBTkE5Nzc4",
+        "name": "Santa Catarina"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU3417098082",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB25875980",
+    "title": "Sanduicheira Mini Grill Oster Inox 2 Em 1 Ogrl230 1000w",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_920318-MLA99389875298_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB25875980",
+    "id": "MLB4238295613",
+    "sold_quantity": 800,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683"
+  },
+  "reservedAt": "2026-10-01T12:01:02.713Z"
+}
