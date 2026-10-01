@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4937093399",
-    "productKey": "b2d223ec185289e5ad891e9b4747aad7d540b399da122b85451f0f5f3740d1b6",
-    "titleHash": "9a71e415276447f6e37df2194e539b04b69e83ebf874865159bda2b2a783eaba",
-    "category": "televisão",
-    "reservedAt": "2026-09-21T21:32:07.245Z"
-  },
-  {
     "itemId": "MLB5146610670",
     "productKey": "b124c07810832875255d5dc11fc1725d11919bc897d9ce8e7a87ea1609715fd4",
     "titleHash": "193e39a55d48c15a3a72f96be5f499b55dea969d1f60e705264ba5de3b45454d",
@@ -1516,5 +1509,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-01T21:31:10.848Z"
+  },
+  {
+    "itemId": "MLB3797364569",
+    "productKey": "96983e4185e3eef77d193d28fcf6cde4af7061fd547eaa6ec0a06c1dbb0a9919",
+    "titleHash": "f469ce3c49a26e010fd418119fec59eb00b5e70802a56c9a417dc41a56ce6bc1",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-01T21:45:38.741Z"
   }
 ]
