@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4647606299",
-    "productKey": "45898311a1c2368721470e87c3b2816851d2556c1e16feb12f8a97c6fdec4269",
-    "titleHash": "65399aa5ab3c519eb059b2f1c7324b895ee3bafd406e2544f87dac1336aebc16",
-    "category": "casa",
-    "reservedAt": "2026-09-21T13:02:09.611Z"
-  },
-  {
     "itemId": "MLB4487191577",
     "productKey": "381fd5b224641c75ce4b545a7e922a45f393f3e1090fc0bfa85ea3891b0d6521",
     "titleHash": "7c0b2dc917495bc11e78bcff08a1916ee5ca4d969e68cd24c5d79c3e803eb0d8",
@@ -1482,5 +1475,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-01T10:00:45.277Z"
+  },
+  {
+    "itemId": "MLB5316443189",
+    "productKey": "2089dabf8ab1aff6b963aa217b4e406b0d236f6a2f494a1aa1a9974bc4faa9d6",
+    "titleHash": "8a20097e8048a272e3dd9d627a3763fc7b75311d512937b3acc72f7ec270e5f8",
+    "category": "masculino",
+    "sourceCategoryId": "MLB23332",
+    "reservedAt": "2026-10-01T10:15:32.556Z"
   }
 ]
