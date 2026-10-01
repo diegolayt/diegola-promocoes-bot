@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3981338469",
-    "productKey": "d52598d8d7d8b30e50b42f12b586051f9bfc7de27bde138a69963d23b903eaa0",
-    "titleHash": "467892fbe5774932a9064a9f0000c05718cadca7f5cc35369d4c4952210c73c5",
-    "category": "perfume",
-    "reservedAt": "2026-09-21T15:46:22.834Z"
-  },
-  {
     "itemId": "MLB5251825177",
     "productKey": "78e15032506bdded9fd68e37b8c6ff22273c17fb6e211404bef36e4d55b6a49c",
     "titleHash": "390f920e0311bfb0e5a075088caafe622e05f21e58d497a6f754e8feb916ccce",
@@ -1493,5 +1486,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-01T15:45:34.575Z"
+  },
+  {
+    "itemId": "MLB7446104906",
+    "productKey": "b1a6ed780f0fe24013b1e36629ce7023b539364e8948ca2ca7b14795acebc468",
+    "titleHash": "1982de45a97168c2224ed744733c5bca5037dda9197a66da7fa419c831d61220",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-01T16:00:36.816Z"
   }
 ]
