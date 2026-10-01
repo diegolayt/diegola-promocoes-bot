@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4671405763",
-    "productKey": "3a1b365faa27bb85f0c2395a346d32b9176f02298a9594901c90121b90d8f7b8",
-    "titleHash": "cf7d935f76a04b2def73f132f88ad8324c6491dd13b663fa54d34d6c7b730aae",
-    "category": "outros:adaptador-ethernet",
-    "reservedAt": "2026-09-21T22:01:27.067Z"
-  },
-  {
     "itemId": "MLB4085175433",
     "productKey": "3b13b451c92df4751dfe6a08d1a28b246046c76c1d4efbabf2e0f5097637638b",
     "titleHash": "5933a654bc57192dea106235455238ff3b3942af95d0a49495d5bca1776a3084",
@@ -1518,5 +1511,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-01T22:00:48.576Z"
+  },
+  {
+    "itemId": "MLB4660482303",
+    "productKey": "9f620b521d231202970060e589a2d9d1752403eb93f4753525367159a116837d",
+    "titleHash": "8ebbebef839099e67d0be8d32ad350e62632fb44a2c3b84f3abd780b3fa8eee6",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-01T22:15:32.579Z"
   }
 ]
