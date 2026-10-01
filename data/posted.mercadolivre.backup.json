@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4902600247",
-    "productKey": "ec1a0f6646947a523b5fd0251a3ad2bc9e3b6f326027ee5a67833949bc550709",
-    "titleHash": "8194a721d6cd8807f4d468088ca272f1e34eacdcd9fccfaaf437b07c731c8d54",
-    "category": "tablet",
-    "reservedAt": "2026-09-21T20:31:17.660Z"
-  },
-  {
     "itemId": "MLB7652036004",
     "productKey": "5c15702ed6d4f3bb94028e1c2a701f8d7ac8eb0d1bcdd93306b98f7be567c171",
     "titleHash": "eab2d9165b0159cb5f5c19e7b4d6eec7f7fb82294fcd4477370af0121e27625d",
@@ -1512,5 +1505,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-01T20:30:34.381Z"
+  },
+  {
+    "itemId": "MLB5131529079",
+    "productKey": "3472274b89b121ef2ae3267c5907090643216b63e1280e1a423c042af4da6e6f",
+    "titleHash": "e4b1ad14a95f048b360214b472f132acaea761d81951d61f266a5fb851dc1f78",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-01T20:45:27.060Z"
   }
 ]
