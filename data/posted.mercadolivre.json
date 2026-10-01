@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4664051753",
-    "productKey": "ee47efe7c709c012ec89f9c3ef44021587146951c86f1b1e0ff1a9a8f43a79d2",
-    "titleHash": "6abf3c7b64f520f689f7013c55383d7a9e2555e6db3b9ea5884712e6d1f1243c",
-    "category": "outros:pneu-bridgestone",
-    "reservedAt": "2026-09-21T18:46:10.591Z"
-  },
-  {
     "itemId": "MLB5190260133",
     "productKey": "e1794297dc2cb2f2219932eb24d33498f53a36b4c1f4115e225f70e8990f81c0",
     "titleHash": "0476e78d75cd872f8a0b5b10df9c4f8ed52715a88e691c7ba3bf8ddf5cfcf2e5",
@@ -1505,5 +1498,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-01T18:45:31.035Z"
+  },
+  {
+    "itemId": "MLB6518530354",
+    "productKey": "bc83df21726f18461930175d2500814f3e85ee7f1958d272b16aabc3813207ad",
+    "titleHash": "89aefc55a86b317a4bf29f46fa2d19be287a6a64a0cb03acc75a127cc10bd09c",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-01T19:00:39.173Z"
   }
 ]
