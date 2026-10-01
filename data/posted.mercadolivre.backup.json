@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3925843031",
-    "productKey": "6187b33bbd506a19fb47f71e063475869ce772c0971f7895de399672714adb69",
-    "titleHash": "50514a501fdcd1b84d68b98bec6d256865a8cbded055a1e32f7673b16e42a06e",
-    "category": "monitor",
-    "reservedAt": "2026-09-21T12:01:06.753Z"
-  },
-  {
     "itemId": "MLB7651819264",
     "productKey": "810a325f7afd22eba047fdfe39407b0561b4a811d2919b147d629a1c18b2611e",
     "titleHash": "6afb59f7d2a79900618ed84767722bf8a5949c36d4ab9dc5dcf36d9a9e6ed93d",
@@ -1478,5 +1471,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-09-30T19:15:38.010Z"
+  },
+  {
+    "itemId": "MLB4686448395",
+    "productKey": "812ee9b3a9484dd68b65dc63b0aa775bddb8a3d5c963c9f0f410136a097f5c82",
+    "titleHash": "7e6d77e6af877b0a67c3157cf418c652da3dd486f0a97a778da48270277503f2",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-01T09:15:30.184Z"
   }
 ]
