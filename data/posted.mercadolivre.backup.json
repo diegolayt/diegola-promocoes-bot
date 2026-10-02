@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4313615199",
-    "productKey": "d60f40144ad87174c8d364fb6c69328c258847d823558c2194d266beee1c55c5",
-    "titleHash": "673a514c6de388e3b8b5a6dc5cb8275c15f31855e63ff7e0d555007d7a832739",
-    "category": "televisão",
-    "reservedAt": "2026-09-22T07:16:04.818Z"
-  },
-  {
     "itemId": "MLB5249072699",
     "productKey": "a5159ad3bb7f346ba7b484c2c6098f7d5509242d7f15d244bfa4a63dabcad680",
     "titleHash": "b3a008af85b3061b83f59270444dbf748cc9a0e592c8feb22669c46b0e5c3070",
@@ -1555,5 +1548,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-02T19:45:28.426Z"
+  },
+  {
+    "itemId": "MLB6061985796",
+    "productKey": "9d501d04b619787bcfa6f67a7a089132e8736cd42b0138a2160ca73d1f0d986e",
+    "titleHash": "60b43647216b307c2b45077c28fe557723d8fe7a508bbe0d6ac080c8d8d9f1c8",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-02T20:00:38.924Z"
   }
 ]
