@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5441434772",
-    "productKey": "f5c7b29042c41105f11df2e4c5a2ef8bcbfb7aa95d7bdde2b28e9caf33fa1f59",
-    "titleHash": "5fe760bf49b3d7a75f3a6d78d2e3534dc186287aafd92a7f7a541e6d54f84f47",
-    "category": "áudio",
-    "reservedAt": "2026-09-22T07:02:05.916Z"
-  },
-  {
     "itemId": "MLB4313615199",
     "productKey": "d60f40144ad87174c8d364fb6c69328c258847d823558c2194d266beee1c55c5",
     "titleHash": "673a514c6de388e3b8b5a6dc5cb8275c15f31855e63ff7e0d555007d7a832739",
@@ -1554,5 +1547,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-02T19:30:39.282Z"
+  },
+  {
+    "itemId": "MLB4320374081",
+    "productKey": "bd7e186faebad4c2816e3936d38b82baf9c8a9b9d2f250a558daf2d495e2d808",
+    "titleHash": "4f66bd4101d296eee5e726f66f7ead1f823121c079262b6677c6c019011f3689",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-02T19:45:28.426Z"
   }
 ]
