@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB1813858183",
-    "productKey": "0093a548dee7b78c991ee7b2ccbcb3ea5c2f262debc61654ebd3e77ec8c336b1",
-    "titleHash": "acc61814edc438ee37f973ce83fdb34f52a5525a50a02ef2701aa4706c5d78b2",
-    "category": "periférico",
-    "reservedAt": "2026-09-21T23:31:01.152Z"
-  },
-  {
     "itemId": "MLB5047787641",
     "productKey": "cabbb447af73cacd0f8725871cae9994353af701a7b860f90be57f2afb12fa99",
     "titleHash": "13bc6b92a0023758cde5af03f2ed712e9741d3ad30c2e09a100359a5875e0ca8",
@@ -1524,5 +1517,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-02T03:15:27.671Z"
+  },
+  {
+    "itemId": "MLB7358069070",
+    "productKey": "bf86873401aafdee93072c4ae95b4656a5008795661ccab139a818826bddaef4",
+    "titleHash": "b95467ee86ed620d737fa61e0a84d6287ddeeee268df20574fcb6be3f0b038a4",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-02T03:30:37.796Z"
   }
 ]
