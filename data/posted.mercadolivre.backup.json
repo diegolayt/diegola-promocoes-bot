@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5187466235",
-    "productKey": "b7371e77d704b462aed4efeeaa8e6c7e1c05b4d3fdec60e546ea4ac210556390",
-    "titleHash": "cc44c47e60e54f0b5ba53b9691b7393b5f35e13b24602a442fb1168d1e723b08",
-    "category": "console",
-    "reservedAt": "2026-09-22T05:01:57.939Z"
-  },
-  {
     "itemId": "MLB4709294547",
     "productKey": "f68a711c1d7c3bb7c939a2cbace279e129bf3501fe9851d3cb3ff5209c5b4165",
     "titleHash": "9d2ecb424ee4a5b20b33693a86b3ea5d9fe0e7ab2e8a25ba0bf698eea6e16766",
@@ -1546,5 +1539,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-02T17:30:37.643Z"
+  },
+  {
+    "itemId": "MLB5204833669",
+    "productKey": "812634e89d0a39b7e16d54025800cb55339e08755a7287afa545fb6f8e4ab78f",
+    "titleHash": "c61cb7f19b5587d63601af5dd5e6a603fcd65858f6e4187cc8fb13bd9d948da7",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-02T17:45:39.168Z"
   }
 ]
