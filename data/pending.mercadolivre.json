@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB7069872302",
+    "site_id": "MLB",
+    "seller_id": 77274052,
+    "accepts_mercadopago": true,
+    "price": 290.03,
+    "category_id": "MLB3843",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 299,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1JKLTUzMDE",
+        "name": "Rio de Janeiro"
+      },
+      "state": {
+        "id": "TUxCUFJJT08xODM5Zg",
+        "name": "Rio de Janeiro"
+      },
+      "neighborhood": {
+        "id": "TUxCQk3JSTI3MTY",
+        "name": "Méier"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4111627576",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB67497923",
+    "title": "Caixa Som Jbl Go 5 Bluetooth Portátil Prova Dágua Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_998901-MLA116817580001_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB67497923",
+    "id": "MLB7069872302",
+    "sold_quantity": 1500,
+    "rotationCategory": "áudio",
+    "sourceCategoryId": "MLB3843"
+  },
+  "reservedAt": "2026-10-02T05:30:29.433Z"
+}
