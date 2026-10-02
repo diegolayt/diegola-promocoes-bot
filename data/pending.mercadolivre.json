@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4289780029",
+    "site_id": "MLB",
+    "seller_id": 2596900710,
+    "accepts_mercadopago": true,
+    "price": 960,
+    "category_id": "MLB189008",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 3 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1BJVTRlZDMw",
+        "name": "Piúma"
+      },
+      "state": {
+        "id": "TUxCUEVTUE8xN2Y3NA",
+        "name": "Espírito Santo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3543577254",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB18357322",
+    "title": "Parafusadeira Furadeira de Impacto Dewalt DCD7781D2 20V Brushless Mandril 13mm Torque 65Nm Com 2 Baterias Carregador Bivolt e Maleta",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_747497-MLA116950538042_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB18357322",
+    "id": "MLB4289780029",
+    "sold_quantity": 700,
+    "rotationCategory": "ferramenta",
+    "sourceCategoryId": "MLB189007"
+  },
+  "reservedAt": "2026-10-02T04:30:31.570Z"
+}
