@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5780517622",
-    "productKey": "8f124f1e81765fa33fe765e2b7f3de53092b81874307520b3f13a1afc91ee545",
-    "titleHash": "d2550ddbb8986e76dc6bab36cdb39d5c5a1907a8905bea1bb86f00201196d07a",
-    "category": "relógio",
-    "reservedAt": "2026-09-22T00:01:09.650Z"
-  },
-  {
     "itemId": "MLB4035332659",
     "productKey": "9b55661115fd896bf222b1f1b9afd608f1f15a0b36955776a604f7905d970136",
     "titleHash": "d5bb0c95b91a66552a6efe552fe704bb52201a7dcdd76ff27e7c83466fc3f793",
@@ -1526,5 +1519,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-02T03:45:31.324Z"
+  },
+  {
+    "itemId": "MLB4057447935",
+    "productKey": "12fbac5f802ec459bdcc4023619f33c15d25e953220ac925bd0ef51f392fe9c9",
+    "titleHash": "fa2696c2972f88f4a626bcc1588b2383447d57314b378966f466daf5324a3dc7",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-02T04:00:34.818Z"
   }
 ]
