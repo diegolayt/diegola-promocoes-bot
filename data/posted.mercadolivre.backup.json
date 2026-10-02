@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5068354885",
-    "productKey": "900e89edba1ffa266c38df9f1ae26733282c0a606c07a11c30f8fa43ef685e53",
-    "titleHash": "41c27df8b24ed2fbea53fffa40c6b8016f199801fd232f237c4cedda69baba39",
-    "category": "masculino",
-    "reservedAt": "2026-09-22T02:45:56.202Z"
-  },
-  {
     "itemId": "MLB7602485590",
     "productKey": "d90185c5813ba0bb15b33de8567a0558da407b9c7b17c78cea1cc45263afa380",
     "titleHash": "21a3e3073fb16c72f79bcccb55628ee6b1f28981a9e7da0162351cef4c171f58",
@@ -1537,5 +1530,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-02T15:15:26.101Z"
+  },
+  {
+    "itemId": "MLB7501362280",
+    "productKey": "490cecdfbaa48fb2076e8bb13de6b0d9b36241804a511181a4ae1f8234e87b24",
+    "titleHash": "2d4e78b24cd92766767aceea069f4a31fc69b3ea238dd2e9e58aa964cf9e985d",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-02T15:30:35.602Z"
   }
 ]
