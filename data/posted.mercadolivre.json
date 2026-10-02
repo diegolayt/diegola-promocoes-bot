@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4142836978",
-    "productKey": "f764b26a37859a9e187aba242397af19496187fbb6a566e03b27e76e896d75a0",
-    "titleHash": "8b8c5f4cc7076bede1439756673a89bb94790e612c76ca192cff1dc1e75eb49d",
-    "category": "relógio",
-    "reservedAt": "2026-09-22T03:16:42.207Z"
-  },
-  {
     "itemId": "MLB4166752343",
     "productKey": "69e6b543996f75e04b571688c72a280a299815e625432e2c7b1670c911c19928",
     "titleHash": "2a38590f6d0b6551c06da2008b0aa6cc1cf3c835dc5a9944c56b7e77e9e7b2f2",
@@ -1539,5 +1532,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-02T15:45:28.745Z"
+  },
+  {
+    "itemId": "MLB1813858183",
+    "productKey": "0093a548dee7b78c991ee7b2ccbcb3ea5c2f262debc61654ebd3e77ec8c336b1",
+    "titleHash": "acc61814edc438ee37f973ce83fdb34f52a5525a50a02ef2701aa4706c5d78b2",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-02T16:00:38.680Z"
   }
 ]
