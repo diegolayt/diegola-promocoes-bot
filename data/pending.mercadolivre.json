@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB4230320801",
+    "site_id": "MLB",
+    "seller_id": 53567467,
+    "accepts_mercadopago": true,
+    "price": 179.99,
+    "category_id": "MLB1645",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 399104,
+    "original_price": 239.99,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTMzNjI",
+        "name": "São Bernardo do Campo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQk5PVjc1NzE",
+        "name": "Nova Petrópolis"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU3458073626",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB23370534",
+    "title": "Wap Turbo Flow Turbo Mesa e parede",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_849279-MLA114543888838_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB23370534",
+    "id": "MLB4230320801",
+    "sold_quantity": 300,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045"
+  },
+  "reservedAt": "2026-10-03T19:30:45.550Z"
+}
