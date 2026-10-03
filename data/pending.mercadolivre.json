@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5547189234",
+    "site_id": "MLB",
+    "seller_id": 1286432339,
+    "accepts_mercadopago": true,
+    "price": 20.15,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 60 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "user_product_unify",
+      "standard_price_by_quantity",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 39.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYTW9naSBHdWHDp3VUVXhDVUZOQlQwODVOM",
+        "name": "Mogi Guaçu"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQXJydWFtZW50byBQcmltYXZlcmFUVmhZV",
+        "name": "Arruamento Primavera"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 60,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "60 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3349098374",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB36931922",
+    "title": "Desodorante Colônia Cebolinha Turma da Mônica 25ml",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_685367-MLA115708034876_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB36931922",
+    "id": "MLB5547189234",
+    "sold_quantity": 1700,
+    "rotationCategory": "perfume",
+    "sourceCategoryId": "MLB6284"
+  },
+  "reservedAt": "2026-10-03T23:15:34.513Z"
+}
