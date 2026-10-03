@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB4171028747",
-    "productKey": "d92fed14d7d60aacef7c703075d8a837ddc3c02df5bb705c781db4d22ddd522d",
-    "titleHash": "c8b258ec420a0df0918ef90570e4fca77dbba5fae48e42d9736f4f565ada3194",
-    "category": "monitor",
-    "reservedAt": "2026-09-24T15:31:47.092Z"
-  },
-  {
     "itemId": "MLB5557463904",
     "productKey": "b7cc3760e8097a938caff53662392c3f5ca1ef869f4adc0a5056d4e14fab1ac3",
     "titleHash": "24e99cad35007dd19f841b0acedb8d0140715bae8a0900244378be5b6b763c22",
@@ -1582,5 +1575,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-03T21:15:31.085Z"
+  },
+  {
+    "itemId": "MLB6858475012",
+    "productKey": "cd15604f7e5918da4d1d324200a4b397d240eb6a5be6e02825ebda29eb8f8175",
+    "titleHash": "052ebf55096977e654b83070d2048edbac13793744255a851e8fb1e3441ae03c",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-03T21:30:34.080Z"
   }
 ]
