@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5217693736",
-    "productKey": "bd3aa3aa17d44d1a4dae9f219e30649e06c95d5eb913489c020de7b132531ab2",
-    "titleHash": "bb0ac3e977c3091768e97a3820669df984d97fce77e0c34235c864b3acb22a6e",
-    "category": "celular",
-    "reservedAt": "2026-09-24T16:46:16.000Z"
-  },
-  {
     "itemId": "MLB5283067343",
     "productKey": "e35e63157073651e33d3bab253890a2d9ba058c7135299c0a33894305b998c63",
     "titleHash": "f50e0c45978e401669f639972f9bd064bafea1cd00599bdf8fd5848e467ed796",
@@ -1587,5 +1580,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-03T22:30:42.006Z"
+  },
+  {
+    "itemId": "MLB4018165359",
+    "productKey": "50ab90676bd59f5a10ef2361463c8858a33ed4a4bacbb8b008ee476da1c78856",
+    "titleHash": "442a6f99a7b46ef1b0d5e9e5ba4c8db0819c34f6cbb3f7898d40019208b1a301",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-03T22:45:34.077Z"
   }
 ]
