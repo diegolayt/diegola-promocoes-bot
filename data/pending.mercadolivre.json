@@ -1,0 +1,87 @@
+{
+  "item": {
+    "item_id": "MLB5177123728",
+    "site_id": "MLB",
+    "seller_id": 1486572798,
+    "accepts_mercadopago": true,
+    "price": 936.39,
+    "category_id": "MLB189007",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 3 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "good_quality_thumbnail",
+      "kvs_primary",
+      "user_product_unify",
+      "standard_price_by_quantity",
+      "standard_price_by_channel",
+      "extended_warranty_eligible",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 1476,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JSQTU2M2Yy",
+        "name": "Brasília"
+      },
+      "state": {
+        "id": "TUxCUERJU0wxMWJhYg",
+        "name": "Distrito Federal"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU2759543373",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19730797",
+    "title": "Parafusadeira e Furadeira de Impacto 13mm 20V DEWALT DCD7781D2 Com 2 Baterias, Carregador e Maleta",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_968964-MLA79669592303_092024-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19730797",
+    "id": "MLB5177123728",
+    "sold_quantity": 800,
+    "rotationCategory": "ferramenta",
+    "sourceCategoryId": "MLB189007"
+  },
+  "reservedAt": "2026-10-03T19:45:36.918Z"
+}
