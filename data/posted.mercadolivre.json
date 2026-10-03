@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6600129404",
-    "productKey": "307900e287a5728086527a40a26918cbf66e4df31445625e2332db5649022a02",
-    "titleHash": "5ab2e697025e7a60cf01a613a9491a187ec35cb9fda58bff476aef3ab43ea3fd",
-    "category": "casa",
-    "reservedAt": "2026-09-22T11:47:02.371Z"
-  },
-  {
     "itemId": "MLB5252097901",
     "productKey": "5e63e5ce2fe5389fa907ef5b7178384bd4fec858aeae4be9594ede0d43694ad3",
     "titleHash": "e6e45a893d28ec80155101190416d21f27f66151ab3d12569c016141fe9feacf",
@@ -1573,5 +1566,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-03T19:00:35.332Z"
+  },
+  {
+    "itemId": "MLB6171381236",
+    "productKey": "3f5acdba5710f4db9b6227072000448c1d52315f653f32ca1ebdfd49a0b14dbb",
+    "titleHash": "e26d29743330841294a5e735cc1d128275a8436aaf9211fb3747a25c5ee5df33",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-03T19:15:28.292Z"
   }
 ]
