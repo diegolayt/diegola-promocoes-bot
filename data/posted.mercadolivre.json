@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5406590144",
-    "productKey": "d88fc5b406c04f25fd99bdc83b254cc8900dbf02f8276de41f911bef7dee6b66",
-    "titleHash": "69cd998096845fa2db38d9d1a9051f2058a236afd9319f63dc4fd133e7131ed0",
-    "category": "eletrodoméstico",
-    "reservedAt": "2026-09-22T09:01:21.702Z"
-  },
-  {
     "itemId": "MLB7199281488",
     "productKey": "c2e347a086856df140e15be0b1249bc6b32d0cde9da7d2ec0154ec14e72db69e",
     "titleHash": "90781e8fdcac061f65172ed4b78d05aa6bf1e3399e75f118c1801eaaff05fb15",
@@ -1562,5 +1555,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-03T16:15:38.356Z"
+  },
+  {
+    "itemId": "MLB6501036046",
+    "productKey": "dd308e2808324d842b70ba035b8f35ebd6f5c67239d5f3f87cd5709059853034",
+    "titleHash": "3cd571e03dae13c22c4c9f9815d8a80525a2883e500bc118e55a85d3ccdb493c",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-03T16:30:35.913Z"
   }
 ]
