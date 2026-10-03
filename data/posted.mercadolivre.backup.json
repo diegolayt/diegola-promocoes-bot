@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB7686863524",
-    "productKey": "74b37c0b8db7a848bfccd6789cd4e7bcaf5d70e834f8b8f189f86639fc00801e",
-    "titleHash": "27c8b319a715962c006b396bb49d9b02b538a8dd8daab85b94bc9bb734b14956",
-    "category": "outros:karseell-collagen",
-    "reservedAt": "2026-09-24T14:02:00.394Z"
-  },
-  {
     "itemId": "MLB7229242978",
     "productKey": "7a3d980ed6ec40a540f6be4b01ab769f3555becac8638d8855b540b40372bc52",
     "titleHash": "5cbca51bf680726e692c445424cd069ca2e90bc449d585a54a05667f504aaa1a",
@@ -1576,5 +1569,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-03T19:45:36.917Z"
+  },
+  {
+    "itemId": "MLB7678733460",
+    "productKey": "d003e21bca8d0229b059c57c316327a5a23294dd57278652a1251db9d14a67a2",
+    "titleHash": "2f1611724bad8c748cac37ccf89e17c221a576ee582a0175d264026bf7d1e114",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-03T20:00:37.746Z"
   }
 ]
