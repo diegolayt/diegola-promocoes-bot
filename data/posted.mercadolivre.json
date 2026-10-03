@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB6716754230",
-    "productKey": "820a7bf3129a48cfe591c1975c67cee9719ce5ce42e4f3a75656ff6f92ccad5e",
-    "titleHash": "82c17092d0642575aab834c971b2c625a124a00f5216a9381ad476c6601b7884",
-    "category": "celular",
-    "reservedAt": "2026-09-22T08:45:56.017Z"
-  },
-  {
     "itemId": "MLB5406590144",
     "productKey": "d88fc5b406c04f25fd99bdc83b254cc8900dbf02f8276de41f911bef7dee6b66",
     "titleHash": "69cd998096845fa2db38d9d1a9051f2058a236afd9319f63dc4fd133e7131ed0",
@@ -1561,5 +1554,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-03T16:00:46.028Z"
+  },
+  {
+    "itemId": "MLB6889668614",
+    "productKey": "61936a573d33a226014ce7b904c831f1562b78a45e60d11a6f2f9a112bcbd7f9",
+    "titleHash": "4aba07aa2efc9eb5882878a10138e7f9c68bd97565d01a85d509270a902bb0f9",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-03T16:15:38.356Z"
   }
 ]
