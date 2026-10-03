@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB5281022753",
-    "productKey": "6d6a36b43f25814b872c925167a7492b148d4f4d8251234ee44971008e3cc79f",
-    "titleHash": "864ba560595ab6add1df037ee70a926070372b702b28e26aeab4ad4520849045",
-    "category": "periférico",
-    "reservedAt": "2026-09-24T17:31:19.108Z"
-  },
-  {
     "itemId": "MLB5656974534",
     "productKey": "0ab7ac472ebadef736c1fb8a81eacb1a2fb4d39b3c38c1c46219507ef36acb4a",
     "titleHash": "bb1dc58e46127577cfadf99cf5099a09f916c3495afec1847679cb82fe236dd5",
@@ -1590,5 +1583,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-03T23:15:34.512Z"
+  },
+  {
+    "itemId": "MLB3143183122",
+    "productKey": "f957ab0d39b2d366a561556f6e7d2d028b9290a3808f9b21251809c1d1899287",
+    "titleHash": "b1c4d572f20022fdb83c82a70aedc1ffefc18e4fc6f850261e848d0e9fd89229",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-03T23:30:31.922Z"
   }
 ]
