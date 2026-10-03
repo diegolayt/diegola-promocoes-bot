@@ -1,0 +1,84 @@
+{
+  "item": {
+    "item_id": "MLB6294491390",
+    "site_id": "MLB",
+    "seller_id": 2696805843,
+    "accepts_mercadopago": true,
+    "price": 415,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 2 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "user_product_unify",
+      "standard_price_by_quantity",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 799,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTk0MDc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkJFTDg3NjE",
+        "name": "Bela Vista"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 2,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "2 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU3749498152",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB44320380",
+    "title": "Monitor Portátil Gamer Bettdow 15.6'' Full HD 60Hz IPS Compatível 4K Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_660084-MLA99977469865_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB44320380",
+    "id": "MLB6294491390",
+    "sold_quantity": 400,
+    "rotationCategory": "monitor",
+    "sourceCategoryId": "MLB99245"
+  },
+  "reservedAt": "2026-10-03T20:45:29.491Z"
+}
