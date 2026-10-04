@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5125731201",
-    "productKey": "b8935fb8944c490f67858b26e311c24bad6d4cc2807cbe1ec730d960a8ea1484",
-    "titleHash": "285cbfea11f2ea3e951360651254c9aaa2784c8618604811d6fe9de32426dc94",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-09-29T21:45:34.854Z"
-  },
-  {
     "itemId": "MLB5266194197",
     "productKey": "43f7c06cf64275c47161bc37ebf5e9a4f3d5663b10f1c9a100708c6d23dc5add",
     "titleHash": "0175c59baab28e5b8cd36f7402c82823f63c6d75b63bf84120e48d2f027564db",
@@ -1598,5 +1590,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-04T20:30:37.620Z"
+  },
+  {
+    "itemId": "MLB5209196056",
+    "productKey": "56e953d72225b9db4e64c85d946cd80433ccfb088f1407212b77dc65ed8d72b3",
+    "titleHash": "a52b2817a8ca9972676c7d184590589c4979d3a1643c367808de8e156ce9f99d",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-04T20:45:34.743Z"
   }
 ]
