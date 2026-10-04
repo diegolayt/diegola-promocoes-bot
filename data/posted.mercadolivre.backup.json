@@ -1,12 +1,5 @@
 [
   {
-    "itemId": "MLB3969638313",
-    "productKey": "1f336dc2d7fd96fc3cb13e2ed1eb378a3bcb62c2521b3f39a0396205e7d01fe3",
-    "titleHash": "ab3cc4ecec2850f5ba1f615c9f2371753e4d1c56564e4a15d9d6639ace69144f",
-    "category": "tablet",
-    "reservedAt": "2026-09-24T19:01:10.287Z"
-  },
-  {
     "itemId": "MLB6665768026",
     "productKey": "fb1bb53ce910184c522fdd5301decd33aecb4c304d40571f61eef64c38aa1c1b",
     "titleHash": "5a5eef9a3de02aae452781986e98651125e17abe5dd8187cc8ce6d1110cb0b15",
@@ -1596,5 +1589,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-04T00:45:37.082Z"
+  },
+  {
+    "itemId": "MLB7529392590",
+    "productKey": "fd83f25c3b8fcc66a94268a16404266f5ecfa3a0bcec8ced56e994ba145c7d4a",
+    "titleHash": "7d923047dcc35c568aa321bd2b2ba7aa2a24731fb2e5b8974dc7841f4fd65b37",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-04T01:00:36.596Z"
   }
 ]
