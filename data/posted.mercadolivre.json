@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7564145522",
-    "productKey": "40238636ac8e30ad9de982f4189ab174d56820b76a53be28d6dca1c909a7bf8f",
-    "titleHash": "4e11a2983df7b25df051d7a6b7770e92a2ed249ea6bcebf740560decf60e0e84",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-09-28T23:45:27.456Z"
-  },
-  {
     "itemId": "MLB4108132843",
     "productKey": "b8b821ebbc3d00cc3f5311dadb20d7621a1e7e3f8dfe8a66a2928f05eb1100ca",
     "titleHash": "015f139068ee71d9c830b20e36044bdeb452cfa1525c93873a79be854167255c",
@@ -1598,5 +1590,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-04T16:45:35.596Z"
+  },
+  {
+    "itemId": "MLB4088294769",
+    "productKey": "00f86ee9aca029608c8f42a65d456b917f08863d38af916e149e8ed6f9c232a3",
+    "titleHash": "fefc3b53dabe13e9f33f53e61b6ccaabcab35afe1ccc7ee6c368fccd791da014",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-04T17:00:39.620Z"
   }
 ]
