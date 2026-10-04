@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB5325858927",
+    "site_id": "MLB",
+    "seller_id": 434443741,
+    "accepts_mercadopago": true,
+    "price": 1001,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0ZFSWI0MDkz",
+        "name": "Feira de Santana"
+      },
+      "state": {
+        "id": "TUxCUEJBSEFlYmEx",
+        "name": "Bahia"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5379732236",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB46056259",
+    "title": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB46056259",
+    "id": "MLB5325858927",
+    "sold_quantity": 400,
+    "rotationCategory": "monitor",
+    "sourceCategoryId": "MLB99245"
+  },
+  "reservedAt": "2026-10-04T17:45:28.270Z"
+}
