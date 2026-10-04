@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3771505959",
-    "productKey": "3e24012756b6950c11e99aa43105bbc302ac924b94a372777fd72c6008362c64",
-    "titleHash": "fd06cf3b916fc566b02cce868630702841277b6f470845ef92fc2fe8e350a14c",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-09-30T03:15:33.510Z"
-  },
-  {
     "itemId": "MLB7590996778",
     "productKey": "d91a46db3bbd17c53578e3c5b2c5bd4eb0ee865844c2ee12c06f156637ddb07f",
     "titleHash": "83f5c4bda28b8b9000236c41f4faf3215119398d9c4711bec7edac49d53d2a31",
@@ -1598,5 +1590,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-04T21:45:33.410Z"
+  },
+  {
+    "itemId": "MLB5171642043",
+    "productKey": "0148ce1e4ac0e87b98f1d443a53a74ab04f42bfec8c438849bc920a25e652f5c",
+    "titleHash": "f85124cedc6e4bf093a43306ad7cf9bbe9ff6c7d00d6d87b1046b44916ce86dd",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-04T22:00:41.090Z"
   }
 ]
