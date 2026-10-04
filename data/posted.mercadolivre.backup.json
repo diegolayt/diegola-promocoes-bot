@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5980496924",
-    "productKey": "5e2b747dccadc7ed703fe7181bce06e3377912d2a8fcf47436a1293a04ace489",
-    "titleHash": "b11c7c849e9f236ca84ffa66cb7940ee8c9ed92a66de86f4f3ae3420a8cf1a90",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-09-28T22:30:39.567Z"
-  },
-  {
     "itemId": "MLB7045954108",
     "productKey": "66c7b386fec7fb85f448fd4205a17e5c311b3c889e1174ac013ae2dcf43aae20",
     "titleHash": "07d3743c349b4b43431c41d55dd1faae21cec1c1353d6627af4ce3184f5efe2a",
@@ -1598,5 +1590,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-04T15:30:33.014Z"
+  },
+  {
+    "itemId": "MLB7580937816",
+    "productKey": "1fa92a7b6e9eda98c2be981141fa02a24e5468f6646cef6f04fb428cf85bc30e",
+    "titleHash": "5048c16cc77af7a64e06d3d078dfc96f3abd4679c4ec585f96c82219a0e38252",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-04T15:46:05.745Z"
   }
 ]
