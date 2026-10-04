@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4108132843",
-    "productKey": "b8b821ebbc3d00cc3f5311dadb20d7621a1e7e3f8dfe8a66a2928f05eb1100ca",
-    "titleHash": "015f139068ee71d9c830b20e36044bdeb452cfa1525c93873a79be854167255c",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-09-29T00:00:38.307Z"
-  },
-  {
     "itemId": "MLB6411200326",
     "productKey": "bbc689030a50ec021ce2a8e14d2e3afaf971316a34ec7a73ce4b784da4fa468f",
     "titleHash": "fcc9074de14ea86af8ac8262e7da508dbaee2ccc5679dc3b616e6c06e3bac90a",
@@ -1598,5 +1590,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-04T17:00:39.620Z"
+  },
+  {
+    "itemId": "MLB4707470817",
+    "productKey": "d6a71d4ad92adb04174861d019736d3b4214c11c735e9512fc05198533199f05",
+    "titleHash": "7125328ec044bc84d6252aeb98c820329c7d9d297a1caff5eddfea31d593454d",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-04T17:15:26.942Z"
   }
 ]
