@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7045954108",
-    "productKey": "66c7b386fec7fb85f448fd4205a17e5c311b3c889e1174ac013ae2dcf43aae20",
-    "titleHash": "07d3743c349b4b43431c41d55dd1faae21cec1c1353d6627af4ce3184f5efe2a",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-09-28T22:45:29.350Z"
-  },
-  {
     "itemId": "MLB7477193852",
     "productKey": "6403b6e254f49bd25dd5062131f36ac75b58183a3366ecd4b7087d48de47f871",
     "titleHash": "d4411427bb3a1d9763f2f6079b32e47996468c760bb532fc97897bd5e8b3e07a",
@@ -1598,5 +1590,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-04T15:46:05.745Z"
+  },
+  {
+    "itemId": "MLB7183971156",
+    "productKey": "1249a8fb3d88e9ff722f82f4657bf1c75081416160d50a42402c42d1f1163317",
+    "titleHash": "360d83604027a19c09c3b852140eaa25578e77aa7dedbd382a7a4eca72eb0cf8",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-04T16:00:39.263Z"
   }
 ]
