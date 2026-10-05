@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3725747499",
-    "productKey": "dbad8859d64bf59b5db7b3da82373a22dc161015911356803cb83291ac1e7abe",
-    "titleHash": "614e347075a236f39e6014070b2dceda74a79eafd6413adc0cca88b5705404e8",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-09-30T16:17:36.233Z"
-  },
-  {
     "itemId": "MLB4070238179",
     "productKey": "459bbea6fe06d062391808ca4dd9e7766c9914220fd730ee49e886a706c6c709",
     "titleHash": "bac41a6e174e5dfd2eb26efc1132418b5ab537b5f0a734cabdc3c020c9f3eb46",
@@ -1598,5 +1590,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-05T22:30:45.142Z"
+  },
+  {
+    "itemId": "MLB5408541396",
+    "productKey": "07d55cd5bc2fcbd650d9be408839a6b6779aded8a6558e32344c8855918c803a",
+    "titleHash": "1ce6265d54d5cadbe89935995caca7e0f708f42ebc7f50f137af3eebefc715bc",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-05T22:45:30.427Z"
   }
 ]
