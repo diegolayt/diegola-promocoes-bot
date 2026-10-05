@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5849862690",
-    "productKey": "e93db4dd324e538875de4e35f52cbdd355a39433c2561801aef1ad72b27a6cd3",
-    "titleHash": "f77e10024cba70001242da98f97ee1e09a66d54419baf7811e3e5ef1c78e26f0",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-09-30T06:15:37.292Z"
-  },
-  {
     "itemId": "MLB5379030888",
     "productKey": "b2b24aaea52d093c4aa552bf18261becfe3e1fe13abde604a36bea81e6400d64",
     "titleHash": "161556333ab3ba279c548b440861f9770c2fc34bd8ba9bdba5bc930f0167aed7",
@@ -1598,5 +1590,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-05T00:45:28.480Z"
+  },
+  {
+    "itemId": "MLB1941785534",
+    "productKey": "1010a845202376dbe0dc4a1081b4359a489793ee41247a523067a1eae986b8f2",
+    "titleHash": "ae3d9f5c10f2e3eb8a586f78618c80f3eeedc042b782bd9d92b3bc8aa34af094",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-05T01:00:43.950Z"
   }
 ]
