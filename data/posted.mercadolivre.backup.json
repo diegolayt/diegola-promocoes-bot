@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3787957121",
-    "productKey": "2696ef941668e6bc49c2a98d93da93dee088252aa9967d79d4d7168afd6c66b6",
-    "titleHash": "bd863ae05c62aa731785d9cd3734405baac5a9f72435d5b03848a96a1b405ebf",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-09-30T08:15:36.843Z"
-  },
-  {
     "itemId": "MLB7025998908",
     "productKey": "5ff7ac43cb165e0064eb7c86eca479098b59a2b5d09e6281cec31a6aae2ad003",
     "titleHash": "5eee92e2eaa0b132bcb14a2c6067db27d03060a7fb916c8368400b8b68178e75",
@@ -1598,5 +1590,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-05T09:15:37.784Z"
+  },
+  {
+    "itemId": "MLB6455385580",
+    "productKey": "ac0bdddf38ebf512428ad413f8d1a5a86429bf318244d602636660d6f75b7835",
+    "titleHash": "28d35725bedc03023c28e693a1a8eac12c72cbed8912a4b6aefab7c25fcfdd1a",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-05T17:15:42.913Z"
   }
 ]
