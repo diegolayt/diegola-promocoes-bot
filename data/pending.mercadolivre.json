@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4857152173",
+    "site_id": "MLB",
+    "seller_id": 233225438,
+    "accepts_mercadopago": true,
+    "price": 189,
+    "category_id": "MLB3843",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 236,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0ZFSWI0MDkz",
+        "name": "Feira de Santana"
+      },
+      "state": {
+        "id": "TUxCUEJBSEFlYmEx",
+        "name": "Bahia"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4227195873",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB26826554",
+    "title": "Caixa De Som Speaker Aiwa AWS-SP-01 Bluetooth Cor Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_812534-MLA99524049864_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB26826554",
+    "id": "MLB4857152173",
+    "sold_quantity": 600,
+    "rotationCategory": "áudio",
+    "sourceCategoryId": "MLB3843"
+  },
+  "reservedAt": "2026-10-05T18:00:40.329Z"
+}
