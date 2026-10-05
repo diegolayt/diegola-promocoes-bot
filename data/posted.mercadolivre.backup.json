@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1941785534",
-    "productKey": "1010a845202376dbe0dc4a1081b4359a489793ee41247a523067a1eae986b8f2",
-    "titleHash": "ae3d9f5c10f2e3eb8a586f78618c80f3eeedc042b782bd9d92b3bc8aa34af094",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-09-30T05:45:29.119Z"
-  },
-  {
     "itemId": "MLB7574472154",
     "productKey": "943989407173d02b6baedd01f34966934c54e2014ca27b3e9619131021eda8cf",
     "titleHash": "7c83b6633b5ec6ab7f169b7257a9f9fac52cd65f15a3674340bb0d0e42efe5d2",
@@ -1598,5 +1590,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-05T00:15:35.266Z"
+  },
+  {
+    "itemId": "MLB4367472775",
+    "productKey": "fa34295fd787e18cd07fd2a0630755a78cbd91e8f36a0eb938c9172f2b85abfc",
+    "titleHash": "190b71ddac76b50c537574e24e12b9a5846a745eaee7a59f66ce915548b985a6",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-05T00:30:33.313Z"
   }
 ]
