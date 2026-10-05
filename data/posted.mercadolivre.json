@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7692118176",
-    "productKey": "abdd2f1282b8b459ea5bbe2528886e4a51c3be1ff34b00ac3e9c75bd7b539256",
-    "titleHash": "0a380cdcd01571d6099a4065143fd875997b966f4f088f14a09a97ab2586584e",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-09-30T05:15:31.901Z"
-  },
-  {
     "itemId": "MLB4341589519",
     "productKey": "7796b371bcf2a430b451414b0adeedd024d46634507f3bd6cf64007a7bdee577",
     "titleHash": "ec460846842fc3d5cf5781cdeed80e076523ae467fd5d4b9904cf6a864b0d8ab",
@@ -1598,5 +1590,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-04T23:45:34.471Z"
+  },
+  {
+    "itemId": "MLB4793162315",
+    "productKey": "302af128e0f93e9db091f462c85e2c0368c0bf4a2a7e7d367b1305c2ebf77f9a",
+    "titleHash": "0c238aed75c8a2bb7928de58e8284e066c3138127d632b976d508ccc785361ab",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-05T00:00:41.511Z"
   }
 ]
