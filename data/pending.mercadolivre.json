@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB6930358896",
+    "site_id": "MLB",
+    "seller_id": 3226902225,
+    "accepts_mercadopago": true,
+    "price": 35.99,
+    "category_id": "MLB26426",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 39.99,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ05PVjViZWQ1",
+        "name": "Novo Hamburgo"
+      },
+      "state": {
+        "id": "TUxCUFJJT0xkYzM0",
+        "name": "Rio Grande do Sul"
+      },
+      "neighborhood": {
+        "id": "TUxCQkxPTUI3RTYz",
+        "name": "Lomba Grande"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4063829293",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB45453067",
+    "title": "Geneva Quartzo Br01 Masculino Adultos",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_968012-MLA83882306611_042025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB45453067",
+    "id": "MLB6930358896",
+    "sold_quantity": 700,
+    "rotationCategory": "relógio",
+    "sourceCategoryId": "MLB26426"
+  },
+  "reservedAt": "2026-10-05T00:15:35.267Z"
+}

@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4341589519",
-    "productKey": "7796b371bcf2a430b451414b0adeedd024d46634507f3bd6cf64007a7bdee577",
-    "titleHash": "ec460846842fc3d5cf5781cdeed80e076523ae467fd5d4b9904cf6a864b0d8ab",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-09-30T05:30:30.406Z"
-  },
-  {
     "itemId": "MLB1941785534",
     "productKey": "1010a845202376dbe0dc4a1081b4359a489793ee41247a523067a1eae986b8f2",
     "titleHash": "ae3d9f5c10f2e3eb8a586f78618c80f3eeedc042b782bd9d92b3bc8aa34af094",
@@ -1598,5 +1590,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-05T00:00:41.511Z"
+  },
+  {
+    "itemId": "MLB6930358896",
+    "productKey": "98d962546c6c0cd1c43d28b86632c3eae5a97ca132663bca5068561e24fbd04b",
+    "titleHash": "d6a036bb48c6a43aa698448baaf8f1188267f411f70f683070b3a2fd7bf12dfb",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-05T00:15:35.266Z"
   }
 ]
