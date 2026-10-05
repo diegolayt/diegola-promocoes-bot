@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB7705751624",
+    "site_id": "MLB",
+    "seller_id": 3686259785,
+    "accepts_mercadopago": true,
+    "price": 4949,
+    "category_id": "MLB11172",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "standard_price_by_quantity",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1VNVTYyMWMx",
+        "name": "Umuarama"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5315622060",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB52897777",
+    "title": "Console Sony Playstation 5 Edição Slim Disk 1tb Branco",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921596-MLA100042443481_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB52897777",
+    "id": "MLB7705751624",
+    "sold_quantity": 1700,
+    "rotationCategory": "console",
+    "sourceCategoryId": "MLB11172"
+  },
+  "reservedAt": "2026-10-05T21:30:34.167Z"
+}
