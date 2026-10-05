@@ -1,0 +1,63 @@
+{
+  "item": {
+    "item_id": "MLB4937103255",
+    "site_id": "MLB",
+    "seller_id": 2510796023,
+    "accepts_mercadopago": true,
+    "price": 133,
+    "category_id": "MLB120237",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 585,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "optional_me2_chosen"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JBTDc5NDIyMQ",
+        "name": "Balneário Piçarras"
+      },
+      "state": {
+        "id": "TUxCUFNBTkE5Nzc4",
+        "name": "Santa Catarina"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU3417096858",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB25801012",
+    "title": "Mini Grill Elétrico de Inox Oster 2 Em 1 220V 1000W OGRL230",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_693280-MLA99951936741_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB25801012",
+    "id": "MLB4937103255",
+    "sold_quantity": 900,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683"
+  },
+  "reservedAt": "2026-10-05T01:15:37.210Z"
+}
