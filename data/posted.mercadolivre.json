@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6539025322",
-    "productKey": "67959f7697e2dbdeafaa0e57471f047ac8c92cb69fdb44d44f3afc10af2993c7",
-    "titleHash": "69c47bee8d5cd059dbd6e68208136bfe7f8398e10598f21de44795eab884af0c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-09-30T18:15:34.996Z"
-  },
-  {
     "itemId": "MLB5571930734",
     "productKey": "f404f4d48a375164008c5f574623c32d94994a61a0637f8909354379214b0f0e",
     "titleHash": "4ecc5e6577f6dfe721f4ebd81c69d2db7cfff156e1aeeb9dd62e8ae34581e1e8",
@@ -1598,5 +1590,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-06T03:45:34.708Z"
+  },
+  {
+    "itemId": "MLB5872798820",
+    "productKey": "ec3b73f24f9af25723e63ff1355e7b5ff02cb34d090b5d721fccf5800fec9e9c",
+    "titleHash": "802e07e18ad37e9baf3b34f820f7ba4701a7b6cb8c16f809cecbc989fc966db5",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-06T04:00:37.996Z"
   }
 ]
