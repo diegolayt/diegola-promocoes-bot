@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4487191577",
-    "productKey": "381fd5b224641c75ce4b545a7e922a45f393f3e1090fc0bfa85ea3891b0d6521",
-    "titleHash": "7c0b2dc917495bc11e78bcff08a1916ee5ca4d969e68cd24c5d79c3e803eb0d8",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-01T10:45:37.566Z"
-  },
-  {
     "itemId": "MLB4749956743",
     "productKey": "2c2b688ed1849d8f376f4f012e46fdf52b7c08b8847a17f6674c97d22cac9320",
     "titleHash": "41b3bbae93bde1d92d308f0d21e0b882769566a67eb6096998f0c6d81e6b98ce",
@@ -1598,5 +1590,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-06T15:15:29.155Z"
+  },
+  {
+    "itemId": "MLB7620607478",
+    "productKey": "f404f4d48a375164008c5f574623c32d94994a61a0637f8909354379214b0f0e",
+    "titleHash": "4ecc5e6577f6dfe721f4ebd81c69d2db7cfff156e1aeeb9dd62e8ae34581e1e8",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-06T15:30:47.478Z"
   }
 ]
