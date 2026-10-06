@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB7319690876",
+    "site_id": "MLB",
+    "seller_id": 2386918098,
+    "accepts_mercadopago": true,
+    "price": 138,
+    "category_id": "MLB9188",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 6 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 299,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTkxMjE",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkpBUmlkcWlz",
+        "name": "Jardim Celeste"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 6,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "6 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4573616180",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19784557",
+    "title": "Cafeteira Elétrica ECM20 30 Xícaras Efficient Função Manter Aquecido Cor Inox Preta Electrolux",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_744545-MLA116380152181_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19784557",
+    "id": "MLB7319690876",
+    "sold_quantity": 1200,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188"
+  },
+  "reservedAt": "2026-10-06T06:00:42.127Z"
+}

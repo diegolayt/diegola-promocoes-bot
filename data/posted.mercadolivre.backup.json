@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7021496446",
-    "productKey": "06651e2562cbb16b92cb333243e8e0b58e5cf988ba003b8836119c3e29d3af19",
-    "titleHash": "827ce4bd52859f5602059fa78d900cb0dedd62b2bc6f84882130f88af2160a53",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-01T10:00:45.277Z"
-  },
-  {
     "itemId": "MLB5316443189",
     "productKey": "2089dabf8ab1aff6b963aa217b4e406b0d236f6a2f494a1aa1a9974bc4faa9d6",
     "titleHash": "8a20097e8048a272e3dd9d627a3763fc7b75311d512937b3acc72f7ec270e5f8",
@@ -1598,5 +1590,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-06T05:45:29.851Z"
+  },
+  {
+    "itemId": "MLB7319690876",
+    "productKey": "268fde5a5ed2195069035c2de05ecd79d5d642c443a392a20cbe51de7b64a26b",
+    "titleHash": "5806263d0b543f9923e691c9c9b20a88e1c23a2dcaf42e68f2d7b7a682db0d05",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-06T06:00:42.126Z"
   }
 ]
