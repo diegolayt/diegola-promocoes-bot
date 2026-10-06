@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4145841299",
-    "productKey": "f08d4994babb8ed212efd5605591078945819552d5a4cefbe77c1f078fbf3901",
-    "titleHash": "fe4d1b4dd37b62e9dd2ff589cb7bf0c797c938c9f6b5b6834f6e134de2b9d55d",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-01T10:30:48.757Z"
-  },
-  {
     "itemId": "MLB4487191577",
     "productKey": "381fd5b224641c75ce4b545a7e922a45f393f3e1090fc0bfa85ea3891b0d6521",
     "titleHash": "7c0b2dc917495bc11e78bcff08a1916ee5ca4d969e68cd24c5d79c3e803eb0d8",
@@ -1598,5 +1590,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-06T06:15:31.574Z"
+  },
+  {
+    "itemId": "MLB5720585642",
+    "productKey": "367d174daf344affe96b9a28ca93f1335d82ba76a6e3ba7737fc7754816b2ce7",
+    "titleHash": "4da21b05e69194919c64d5aa7831a83e798a1b724748fbe5d071467ef9a2562a",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-06T15:15:29.155Z"
   }
 ]
