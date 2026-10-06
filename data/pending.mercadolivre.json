@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB4512679555",
+    "site_id": "MLB",
+    "seller_id": 694785153,
+    "accepts_mercadopago": true,
+    "price": 1784,
+    "category_id": "MLB1002",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "catalog_boost",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 3396,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ05BVGI2OTFm",
+        "name": "Natal"
+      },
+      "state": {
+        "id": "TUxCUFJJT0VkMmNj",
+        "name": "Rio Grande do Norte"
+      },
+      "neighborhood": {
+        "id": "TUxCQk5FTzE1MzhF",
+        "name": "Neópolis"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      }
+    ],
+    "user_product_id": "MLBU3822864285",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB63467528",
+    "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB63467528",
+    "id": "MLB4512679555",
+    "sold_quantity": 400,
+    "rotationCategory": "televisão",
+    "sourceCategoryId": "MLB1002"
+  },
+  "reservedAt": "2026-10-06T05:30:37.011Z"
+}
