@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB4117188833",
+    "site_id": "MLB",
+    "seller_id": 257919653,
+    "accepts_mercadopago": true,
+    "price": 1389.1,
+    "category_id": "MLB99245",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 2395,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1ZJVGEzZGJj",
+        "name": "Serra"
+      },
+      "state": {
+        "id": "TUxCUEVTUE8xN2Y3NA",
+        "name": "Espírito Santo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkpBUjg0MTUx",
+        "name": "Jardim Camburi"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3274304953",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB46196451",
+    "title": "Monitor Gamer Samsung Odyssey G5, 32 ,qhd, 165hz,1ms,hdmi,dp Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_987462-MLA99509630578_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB46196451",
+    "id": "MLB4117188833",
+    "sold_quantity": 1100,
+    "rotationCategory": "monitor",
+    "sourceCategoryId": "MLB99245"
+  },
+  "reservedAt": "2026-10-06T18:30:44.006Z"
+}
