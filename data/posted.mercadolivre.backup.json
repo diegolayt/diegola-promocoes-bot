@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5316443189",
-    "productKey": "2089dabf8ab1aff6b963aa217b4e406b0d236f6a2f494a1aa1a9974bc4faa9d6",
-    "titleHash": "8a20097e8048a272e3dd9d627a3763fc7b75311d512937b3acc72f7ec270e5f8",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-10-01T10:15:32.556Z"
-  },
-  {
     "itemId": "MLB4145841299",
     "productKey": "f08d4994babb8ed212efd5605591078945819552d5a4cefbe77c1f078fbf3901",
     "titleHash": "fe4d1b4dd37b62e9dd2ff589cb7bf0c797c938c9f6b5b6834f6e134de2b9d55d",
@@ -1598,5 +1590,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-06T06:00:42.126Z"
+  },
+  {
+    "itemId": "MLB5311422843",
+    "productKey": "c68e7df5fbb0bc4078be3d540794ac83762288564539187318591ab295af3364",
+    "titleHash": "a5628dcc75d4851c701f3d40e00780dc95feadd13430483133aeacb5d2eeccc2",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-06T06:15:31.574Z"
   }
 ]
