@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4523651861",
-    "productKey": "8001d68ba72e9a64d1e631376959ecf2d0fa261b137816c2b6ca14e8fc54642d",
-    "titleHash": "567445470a0ab6a0a95c9305cbc19bf13530fececc9e09b4e2343bc7a464e542",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-01T20:00:31.068Z"
-  },
-  {
     "itemId": "MLB3986439067",
     "productKey": "12c33843ea3ba51632bd00d9dd55e089cba61163ef9f2dd1bab9d572236d8574",
     "titleHash": "f5092e1b3b45ec908dcdd6b8950940b83ead6017e657e06c1e73b17a236348a4",
@@ -1598,5 +1590,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-06T21:30:43.845Z"
+  },
+  {
+    "itemId": "MLB1813858157",
+    "productKey": "cd49aae79bb3a2e24e6cbe92d19af6c93e7315d114e2c4f8be457ca9d10c61cd",
+    "titleHash": "acd7395731aedb0be15dfde60b981483aea4bda99378654b60d94f491c9ccb75",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-06T21:45:35.827Z"
   }
 ]
