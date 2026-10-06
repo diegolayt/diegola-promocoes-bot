@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7690626104",
-    "productKey": "bd7ce8c073ce4d785c724fbd5e043e971db627a92d2e875ef95d24f43f4df8c1",
-    "titleHash": "9c59f5fda561e68048c1b32bfb7deb360f568407096e57437572de3862fd470b",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-01T21:31:10.848Z"
-  },
-  {
     "itemId": "MLB3797364569",
     "productKey": "96983e4185e3eef77d193d28fcf6cde4af7061fd547eaa6ec0a06c1dbb0a9919",
     "titleHash": "f469ce3c49a26e010fd418119fec59eb00b5e70802a56c9a417dc41a56ce6bc1",
@@ -1598,5 +1590,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-06T23:00:35.313Z"
+  },
+  {
+    "itemId": "MLB6428860970",
+    "productKey": "8cf2f4c72a746d4a063403d8ea3787b3de570b6b07e89e653ef14fa8a654a5c9",
+    "titleHash": "9d6dadecb5b9d28c4132cc5bae1d28d2c90d485b161e7c6b119261340d371239",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-06T23:15:27.171Z"
   }
 ]
