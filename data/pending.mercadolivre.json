@@ -1,0 +1,72 @@
+{
+  "item": {
+    "item_id": "MLB4232553473",
+    "site_id": "MLB",
+    "seller_id": 2466873056,
+    "accepts_mercadopago": true,
+    "price": 178.99,
+    "category_id": "MLB11507",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYRW1idSBkYXMgQXJ0ZXNUVXhDVUZOQlQwO",
+        "name": "Embu das Artes"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3456703641",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB23534885",
+    "title": "Caixa Amplificada Cm-150 Bivolt Preto Mondial",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_716222-MLA99988238741_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB23534885",
+    "id": "MLB4232553473",
+    "sold_quantity": 400,
+    "rotationCategory": "áudio",
+    "sourceCategoryId": "MLB3843"
+  },
+  "reservedAt": "2026-10-06T05:45:29.853Z"
+}
