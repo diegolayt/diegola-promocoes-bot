@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4686448395",
-    "productKey": "812ee9b3a9484dd68b65dc63b0aa775bddb8a3d5c963c9f0f410136a097f5c82",
-    "titleHash": "7e6d77e6af877b0a67c3157cf418c652da3dd486f0a97a778da48270277503f2",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-01T09:15:30.184Z"
-  },
-  {
     "itemId": "MLB5006007521",
     "productKey": "0a9ab3d2be2ebe8b1fd0dc818968d4af97fc9af8447111a22cec032f4df0ad69",
     "titleHash": "b37656ffe37607bcb5fb4d567a7eef40fa1e0324498f9a2883aa395930212f2d",
@@ -1598,5 +1590,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-06T05:00:36.086Z"
+  },
+  {
+    "itemId": "MLB5980496924",
+    "productKey": "5e2b747dccadc7ed703fe7181bce06e3377912d2a8fcf47436a1293a04ace489",
+    "titleHash": "b11c7c849e9f236ca84ffa66cb7940ee8c9ed92a66de86f4f3ae3420a8cf1a90",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-06T05:15:29.370Z"
   }
 ]
