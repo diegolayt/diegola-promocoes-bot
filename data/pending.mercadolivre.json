@@ -1,0 +1,74 @@
+{
+  "item": {
+    "item_id": "MLB4371605519",
+    "site_id": "MLB",
+    "seller_id": 571954063,
+    "accepts_mercadopago": true,
+    "price": 75.77,
+    "category_id": "MLB244658",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kit_component",
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 143504,
+    "original_price": 159.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "Guarulhos"
+      },
+      "state": {
+        "id": "",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3532268560",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB66060206",
+    "title": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Fitness Rishon",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_605578-MLA113633610823_062026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB66060206",
+    "id": "MLB4371605519",
+    "sold_quantity": 1300,
+    "rotationCategory": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "minPrice": 50
+  },
+  "reservedAt": "2026-10-07T19:00:47.468Z"
+}
