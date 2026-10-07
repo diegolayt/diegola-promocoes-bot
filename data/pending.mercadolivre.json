@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB4946003879",
+    "site_id": "MLB",
+    "seller_id": 46702124,
+    "accepts_mercadopago": true,
+    "price": 129.9,
+    "category_id": "MLB446228",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 10 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSXRhcXVhcXVlY2V0dWJhVFV4Q1VGTkJUM",
+        "name": "Itaquaquecetuba"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 10,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "10 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4447911162",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB24001849",
+    "title": "Aparador de Pelos Mondial Super Groom 10 BG-03 6W Bivolt — Completo",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_948099-MLA109212540976_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB24001849",
+    "id": "MLB4946003879",
+    "sold_quantity": 1700,
+    "rotationCategory": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "minPrice": 60
+  },
+  "reservedAt": "2026-10-07T04:45:31.044Z"
+}
