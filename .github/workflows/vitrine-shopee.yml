@@ -1,0 +1,51 @@
+name: Vitrine Shopee
+
+# Monta a lista dos melhores produtos de cada categoria da Shopee para o site.
+# Não publica nada no Telegram.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 9,21 * * *"
+
+concurrency:
+  group: vitrine-shopee
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  vitrine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Montar a vitrine
+        run: node src/vitrine-shopee.mjs
+        env:
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+
+      - name: Salvar a vitrine
+        run: |
+          if [ ! -f data/vitrine.shopee.json ]; then exit 0; fi
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/vitrine.shopee.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza vitrine Shopee"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
+          fi
