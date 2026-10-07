@@ -1,0 +1,64 @@
+{
+  "item": {
+    "item_id": "MLB4811259715",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 38.58,
+    "category_id": "MLB437616",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "dynamic_standard_price",
+      "has_published_clips",
+      "kvs_primary",
+      "first_party",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 123448,
+    "original_price": 59.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU4153774414",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB74135784",
+    "title": "Eu duvido você terminar este livro - Mafra, Giuliana - Editora Planeta - Capa Mole",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_716741-MLA113066519028_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB74135784",
+    "id": "MLB4811259715",
+    "sold_quantity": 1900,
+    "rotationCategory": "livros",
+    "sourceCategoryId": "MLB437616",
+    "minPrice": 25
+  },
+  "reservedAt": "2026-10-07T05:00:34.900Z"
+}
