@@ -10,6 +10,7 @@ const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const authPath = join(root, "data", "mercadolivre-auth.json");
 const feedPath = join(root, "data", "feed.mercadolivre.json");
 const showcasePath = join(root, "data", "vitrine.mercadolivre.json");
+const couponsPath = join(root, "data", "cupons.json");
 const FEED_ITEMS = 300;
 // Com 96 publicações por dia, 600 itens dão cerca de seis dias sem repetir.
 const ROTATION_ITEMS = 600;
@@ -372,6 +373,28 @@ async function selectProduct(history) {
   return available[0] || null;
 }
 
+// Cupons válidos agora. O arquivo é mantido a partir dos canais oficiais do
+// programa de afiliados; o site lê o mesmo arquivo.
+const TICKET = String.fromCodePoint(0x1F39F, 0xFE0F);
+const NL = String.fromCharCode(10);
+
+async function loadCoupons() {
+  try {
+    const now = Date.now();
+    return JSON.parse(await readFile(couponsPath, "utf8")).filter((c) => c?.loja === "mercadolivre" && c.codigo && c.descricao
+      && (!c.inicio || Date.parse(c.inicio) <= now) && (!c.fim || Date.parse(c.fim) > now));
+  } catch { return []; }
+}
+
+// Cupom que vale para este produto: mesma categoria de origem e preço mínimo.
+function couponFor(item, coupons) {
+  return coupons.find((c) => !c.soLista && (c.fontes || []).includes(item.rotationCategory) && Number(item.price) >= Number(c.precoMinimo || 0)) || null;
+}
+
+function escapeHtml(text) {
+  return String(text).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+}
+
 function money(value) {
   return Number(value).toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
 }
@@ -381,11 +404,13 @@ async function postToTelegram(item) {
   const original = Number(item.original_price || 0);
   const price = Number(item.price || 0);
   const discount = original > price ? Math.round((1 - price / original) * 100) : 0;
+  const coupon = couponFor(item, await loadCoupons());
   const lines = [
     `🟡 <b>${String(item.title).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]))}</b>`,
     "",
     original > price ? `De <s>${money(original)}</s> por <b>${money(price)}</b>${discount ? ` (${discount}% OFF)` : ""}` : `💥 Por <b>${money(price)}</b>`,
     item.shipping?.free_shipping ? "🚚 Frete grátis" : "",
+    coupon ? `${TICKET} Cupom <code>${escapeHtml(coupon.codigo)}</code>: ${escapeHtml(coupon.descricao)}` : "",
     `🛒 <a href="${link.replace(/&/g, "&amp;")}">Compre aqui pelo Mercado Livre</a>`,
     "",
     "⚠️ Preço e estoque podem mudar no site.",
@@ -534,7 +559,27 @@ async function buildShowcase() {
   await writeFile(showcasePath, JSON.stringify([...picks.values()].map(feedEntry), null, 1));
 }
 
-if (process.argv.includes("--vitrine")) await buildShowcase();
+// Resumo dos cupons válidos, publicado no tópico algumas vezes por dia.
+async function postCouponDigest() {
+  const coupons = await loadCoupons();
+  if (!coupons.length) return console.log("Nenhum cupom válido para divulgar.");
+  const blocks = coupons.map((c) => [
+    `${TICKET} <code>${escapeHtml(c.codigo)}</code> · <b>${escapeHtml(c.descricao)}</b>`,
+    c.regra ? escapeHtml(c.regra) : "",
+    c.link ? `<a href="${String(c.link).replace(/&/g, "&amp;")}">Ver produtos</a>` : "",
+  ].filter(Boolean).join(NL));
+  const text = [`<b>${TICKET} Cupons do Mercado Livre válidos hoje</b>`, "Toque no código para copiar e use no fechamento da compra.", "", blocks.join(NL + NL)].join(NL);
+  const response = await fetch(`https://api.telegram.org/bot${required("TELEGRAM_BOT_TOKEN")}/sendMessage`, {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ chat_id: required("TELEGRAM_CHAT_ID"), message_thread_id: Number(process.env.TELEGRAM_MESSAGE_THREAD_ID || 960130), parse_mode: "HTML", text, disable_web_page_preview: true }),
+  });
+  const json = await response.json();
+  if (!response.ok || !json.ok) throw new Error(`Telegram recusou os cupons: ${json.description || response.status}`);
+  console.log(`Cupons divulgados: ${coupons.length}.`);
+}
+
+if (process.argv.includes("--cupons")) await postCouponDigest();
+else if (process.argv.includes("--vitrine")) await buildShowcase();
 else if (process.argv.includes("--reserve")) await reserve();
 else if (process.argv.includes("--publish-reserved")) await publishReserved();
 else if (await reserve()) await publishReserved();
