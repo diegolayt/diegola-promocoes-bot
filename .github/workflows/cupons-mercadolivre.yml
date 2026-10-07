@@ -1,0 +1,31 @@
+name: Cupons Mercado Livre
+
+# Publica no tópico do Mercado Livre o resumo dos cupons válidos (data/cupons.json).
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 12,18,22 * * *"
+
+concurrency:
+  group: cupons-mercadolivre
+  cancel-in-progress: false
+
+jobs:
+  cupons:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Publicar cupons
+        run: node src/mercadolivre.mjs --cupons
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE_THREAD_ID: "960130"
