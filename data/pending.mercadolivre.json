@@ -1,0 +1,72 @@
+{
+  "item": {
+    "item_id": "MLB7578902582",
+    "site_id": "MLB",
+    "seller_id": 62571360,
+    "accepts_mercadopago": true,
+    "price": 320,
+    "category_id": "MLB7073",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "dynamic_standard_price",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 350,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1RSRWYwNDkx",
+        "name": "Três Lagoas"
+      },
+      "state": {
+        "id": "TUxCUE1BVEw4ZTc",
+        "name": "Mato Grosso do Sul"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNFTjJDOEE3",
+        "name": "Centro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU5062464625",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB23772724",
+    "title": "Câmera Inteligente Full HD iM5 SC com MicroSD 32GB Branca Intelbras",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_967014-MLA99501171286_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB23772724",
+    "id": "MLB7578902582",
+    "sold_quantity": 1300,
+    "rotationCategory": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-07T11:15:38.873Z"
+}
