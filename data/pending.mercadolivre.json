@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB6391662968",
+    "site_id": "MLB",
+    "seller_id": 2214148300,
+    "accepts_mercadopago": true,
+    "price": 159.9,
+    "category_id": "MLB133950",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "catalog_boost",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 356882,
+    "original_price": 209.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+        "name": "Jundiaí"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQ2jDoWNhcmEgVXJiYW5hVFZoWVNuVnVaR",
+        "name": "Chácara Urbana"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU3785619811",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB66140783",
+    "title": "Tv Stick 4k Android Chromecast Smart Hdmi Wifi Ao Vivo Preto Padrão",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_928830-MLA115777838275_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB66140783",
+    "id": "MLB6391662968",
+    "sold_quantity": 2000,
+    "rotationCategory": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "minPrice": 150
+  },
+  "reservedAt": "2026-10-07T04:30:32.375Z"
+}
