@@ -1,0 +1,73 @@
+{
+  "item": {
+    "item_id": "MLB7497417816",
+    "site_id": "MLB",
+    "seller_id": 3592255542,
+    "accepts_mercadopago": true,
+    "price": 1735.79,
+    "category_id": "MLB21168",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 439262,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+        "name": "Jundiaí"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+        "name": "Distrito Industrial"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 0,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "0 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4898859038",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB62889081",
+    "title": "Máquina De Lavar Roupas 12kg Branca Midea Wave Impeller Branco",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_629848-MLA100011513144_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB62889081",
+    "id": "MLB7497417816",
+    "sold_quantity": 1400,
+    "rotationCategory": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "minPrice": 400
+  },
+  "reservedAt": "2026-10-07T16:30:35.857Z"
+}
