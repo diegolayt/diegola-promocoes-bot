@@ -1,0 +1,86 @@
+{
+  "item": {
+    "item_id": "MLB4239943613",
+    "site_id": "MLB",
+    "seller_id": 260879072,
+    "accepts_mercadopago": true,
+    "price": 259.99,
+    "category_id": "MLB459678",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "content_editable",
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 5732,
+    "original_price": 337.49,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_in",
+        "fbm_in_process",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQXRpYmFpYVRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Atibaia"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYUmlvIEFiYWl4b1RWaFlRWFJwWW1GcFlWU",
+        "name": "Rio Abaixo"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3476116786",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB22648882",
+    "title": "Bicicleta Infantil Aro 12 Homem Aranha Nathor Spider-man Cor Vermelho Azul e Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_990528-MLA109374024880_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB22648882",
+    "id": "MLB4239943613",
+    "sold_quantity": 1900,
+    "rotationCategory": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "minPrice": 100
+  },
+  "reservedAt": "2026-10-07T17:30:41.749Z"
+}
