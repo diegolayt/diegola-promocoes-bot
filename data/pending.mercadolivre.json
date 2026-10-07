@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB5343519941",
+    "site_id": "MLB",
+    "seller_id": 2945737696,
+    "accepts_mercadopago": true,
+    "price": 164.9,
+    "category_id": "MLB6899",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYU29yb2NhYmFUVXhDVUZOQlQwODVOMkU0",
+        "name": "Avaré"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIFNhaXJhVFZoWVUyOXliMk5oW",
+        "name": "Jardim Saira"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5377024967",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB79394681",
+    "title": "Pokémon Celebração de 30 anos – Blister Triplo com Adesivo Lucario",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_847932-MLA116259880492_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB79394681",
+    "id": "MLB5343519941",
+    "sold_quantity": 1900,
+    "rotationCategory": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "minPrice": 50
+  },
+  "reservedAt": "2026-10-07T05:15:32.577Z"
+}
