@@ -1,7 +1,8 @@
 import { createHash } from "node:crypto";
-import { mkdir, readFile, unlink, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, unlink, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { FONTES } from "./fontes.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = join(here, "..");
@@ -12,6 +13,20 @@ const stateStem = stateNamespace ? `posted.${stateNamespace}` : "posted";
 const statePath = join(root, "data", `${stateStem}.json`);
 const backupStatePath = join(root, "data", `${stateStem}.backup.json`);
 const pendingPath = join(root, "data", `pending${stateNamespace ? `.${stateNamespace}` : ""}.json`);
+const feedPath = join(root, "data", `feed${stateNamespace ? `.${stateNamespace}` : ""}.json`);
+const FEED_ITEMS = 300;
+// Memória longa: além da fila de 200 publicações, nenhum produto volta antes
+// de 14 dias, em nenhum tópico da Shopee. Cada tópico grava só o seu arquivo
+// (para não conflitar no git) e lê os de todos.
+const seenFile = `vistos${stateNamespace ? `.${stateNamespace}` : ""}.json`;
+const SEEN_MS = 14 * 24 * 60 * 60 * 1000;
+const DRY_RUN = process.argv.includes("--dry-run");
+// Quantas categorias cada rodada consulta e quantas páginas de cada uma.
+const SOURCES_PER_RUN = 7;
+const PAGES_PER_SOURCE = 2;
+const MAX_PAGE = 5;
+const QUERY_INTERVAL_MS = 600;
+const BLOCKED_NAME = /\b(replica|inspirad[oa]s?|primeira linha|1:1|um pra um|usad[oa]s?|seminov[oa]s?|recondicionad[oa]s?|vitrine|open box|validade proxima|com defeito|desbloquead[oa]s?|destravad[oa]s?|\d+ ?mil jogos|\d{3,} jogos|(hd|pen ?drive)\S* .{0,30}jogos)\b|\d+ ?tb ?\/ ?\d+ ?tb|\b(16|30|32|64) ?tb\b/;
 const BLOCK_MS = 24 * 60 * 60 * 1000;
 // Cada tópico mantém uma fila própria: nenhum produto (nem variações de nome,
 // link ou imagem) pode retornar antes de 200 publicações daquele tópico.
@@ -65,8 +80,19 @@ function payloadFor(keyword) {
   return JSON.stringify({ query, operationName: "ProductOffers", variables: { keyword, page: 1, limit: 50 } });
 }
 
-async function getShopeeOffers(config, keyword) {
-  const payload = payloadFor(keyword);
+function payloadForSource(source, page) {
+  const query = `query CategoryOffers($cat: Int!, $page: Int!, $limit: Int!) {
+    productOfferV2(productCatId: $cat, sortType: 2, page: $page, limit: $limit) {
+      nodes {
+        itemId productName imageUrl offerLink priceMin priceMax priceDiscountRate
+        commissionRate commission shopName sales periodEndTime ratingStar shopType
+      }
+    }
+  }`;
+  return JSON.stringify({ query, operationName: "CategoryOffers", variables: { cat: source.cat, page, limit: 50 } });
+}
+
+async function getShopeeOffers(config, keyword, payload = payloadFor(keyword)) {
   let lastError;
   for (let attempt = 1; attempt <= 3; attempt += 1) {
     try {
@@ -232,6 +258,8 @@ function matchesFocus(offer, config) {
 }
 
 function categoryKey(offer) {
+  // Ofertas vindas de uma fonte por categoria já sabem a que rotação pertencem.
+  if (offer.fonte) return `category:${offer.fonte}`;
   const name = String(offer.productName || "").toLocaleLowerCase("pt-BR").normalize("NFD").replace(/\p{Diacritic}/gu, "");
   const categories = [
     ["mochila", ["mochila", "mochla", "backpack"]],
@@ -351,12 +379,27 @@ function categoryLastPublishedAt(posted, category) {
   }, 0);
 }
 
+function isOfficialShop(offer) {
+  return (offer.shopType || []).includes(1);
+}
+
+function soldLabel(sales) {
+  const sold = Number(sales || 0);
+  if (sold >= 1000) return `${Math.floor(sold / 1000)} mil+ vendidos`;
+  return sold >= 50 ? `${sold}+ vendidos` : "";
+}
+
 function offerText(offer) {
   const low = Number(offer.priceMin || offer.priceMax || 0);
   const high = Number(offer.priceMax || 0);
-  const price = high && high !== low ? `A partir de ${money(low)}` : `Por ${money(low)}`;
+  const discount = Number(offer.priceDiscountRate || 0);
+  let price = high && high !== low ? `A partir de ${money(low)}` : `Por ${money(low)}`;
+  if (discount >= 5 && discount < 100) price = `De ${money(low / (1 - discount / 100))} por ${money(low)} (-${discount}%)`;
+  const rating = Number(offer.ratingStar || 0);
+  const proof = [rating >= 4 ? `⭐ ${rating.toFixed(1).replace(".", ",")}` : "", soldLabel(offer.sales), isOfficialShop(offer) ? "✅ Loja oficial" : ""].filter(Boolean).join(" · ");
   return [
     `🛍️ ${offer.productName}`,
+    proof,
     "",
     `💥 ${price}`,
     `🛒 Compre aqui 👉 ${offer.offerLink}`,
@@ -428,7 +471,133 @@ function rememberOffer(posted, offer) {
   }
 }
 
+function plainName(offer) {
+  return String(offer.productName || "").toLocaleLowerCase("pt-BR").normalize("NFD").replace(/\p{Diacritic}/gu, "");
+}
+
+function longSeenKeys(offer) {
+  return [String(offer.itemId), `s:${fingerprint(offerNameSignatureKey(offer)).slice(0, 12)}`];
+}
+
+async function getLongSeen() {
+  const seen = new Map();
+  const limit = Date.now() - SEEN_MS;
+  let files = [];
+  try { files = (await readdir(join(root, "data"))).filter((file) => /^vistos(\.[a-z0-9-]+)?\.json$/i.test(file)); } catch { /* primeira execução */ }
+  for (const file of files) {
+    try {
+      for (const [key, at] of Object.entries(JSON.parse(await readFile(join(root, "data", file), "utf8")))) {
+        if (at >= limit && at > (seen.get(key) || 0)) seen.set(key, at);
+      }
+    } catch (error) { console.warn(`Memória longa ${file} ignorada: ${error.message}`); }
+  }
+  return seen;
+}
+
+async function rememberLong(offer) {
+  const path = join(root, "data", seenFile);
+  let own = {};
+  try { own = JSON.parse(await readFile(path, "utf8")); } catch { /* primeiro registro */ }
+  const now = Date.now();
+  for (const key of longSeenKeys(offer)) own[key] = now;
+  const kept = Object.fromEntries(Object.entries(own).filter(([, at]) => at >= now - SEEN_MS));
+  await writeFile(path, JSON.stringify(kept));
+}
+
+// Critérios de qualidade: nota alta, vendas reais, preço mínimo da categoria
+// e desconto plausível. Desconto acima de 80% quase sempre é preço cheio
+// inflado pelo vendedor, então não entra.
+function rejection(offer, source, config, posted, longSeen) {
+  const price = Number(offer.priceMin || offer.priceMax || 0);
+  const discount = Number(offer.priceDiscountRate || 0);
+  const name = plainName(offer);
+  if (!offer.itemId || !offer.offerLink || !offer.productName) return "dados incompletos";
+  if (price < source.min) return "abaixo do preço mínimo";
+  if (Number(offer.ratingStar || 0) < 4.5) return "nota baixa ou sem avaliação";
+  if (source.oficial && !isOfficialShop(offer)) return "categoria só aceita loja oficial";
+  if (Number(offer.sales || 0) < (isOfficialShop(offer) ? 20 : 50)) return "poucas vendas";
+  if (discount < config.minDiscount) return "desconto pequeno";
+  if (discount > 80) return "desconto implausível";
+  if (Number(offer.commissionRate || 0) * 100 < config.minCommission) return "comissão baixa";
+  if (source.exige && !source.exige.test(name)) return "fora do público do tópico";
+  if (source.evita && source.evita.test(name)) return "fora do público do tópico";
+  // As listas de termos do .env foram feitas para a busca por palavra-chave e
+  // barram coisas legítimas aqui (por exemplo "pote" em whey). Na busca por
+  // categoria vale só esta lista de produto falso, usado ou perto de vencer.
+  if (BLOCKED_NAME.test(name)) return "termo bloqueado";
+  if (longSeenKeys(offer).some((key) => longSeen.has(key))) return "publicado nos últimos 14 dias";
+  const imageKey = offerImageKey(offer);
+  if ([String(offer.itemId), offerNameKey(offer), offerNameSignatureKey(offer), offerLinkKey(offer), imageKey].some((key) => key && hasRecentValue(posted, key))) return "publicado recentemente";
+  return null;
+}
+
+function qualityScore(offer) {
+  const discount = Math.min(Number(offer.priceDiscountRate || 0), 60);
+  const shop = offer.shopType || [];
+  const shopBonus = shop.includes(1) ? 14 : shop.includes(2) || shop.includes(4) ? 5 : 0;
+  return discount * 0.6
+    + Math.log10(Number(offer.sales || 0) + 1) * 8
+    + (Number(offer.ratingStar || 0) - 4.5) * 30
+    + shopBonus;
+}
+
+async function selectFromSources(config, posted, sources) {
+  const longSeen = await getLongSeen();
+  // Prioriza as categorias há mais tempo sem aparecer e completa com outras
+  // sorteadas: se as primeiras não tiverem nada aprovado, a rodada seguinte
+  // não fica presa consultando sempre as mesmas.
+  const names = [...new Set(sources.map((source) => source.nome))]
+    .filter((name) => !hasRecentCategory(posted, `category:${name}`))
+    .map((name) => ({ name, last: categoryLastPublishedAt(posted, `category:${name}`), tie: Math.random() }))
+    .sort((a, b) => a.last - b.last || a.tie - b.tie)
+    .map((entry) => entry.name);
+  const oldest = names.slice(0, 4);
+  const others = names.slice(4).sort(() => Math.random() - 0.5);
+  const chosenNames = [...oldest, ...others].slice(0, SOURCES_PER_RUN);
+  const chosen = sources.filter((source) => chosenNames.includes(source.nome));
+  const approved = [];
+  const reasons = {};
+  let received = 0;
+  for (const source of chosen) {
+    const pages = [...Array(MAX_PAGE).keys()].map((index) => index + 1).sort(() => Math.random() - 0.5).slice(0, PAGES_PER_SOURCE);
+    for (const page of pages) {
+      try {
+        const offers = await getShopeeOffers(config, `${source.nome} p${page}`, payloadForSource(source, page));
+        received += offers.length;
+        for (const offer of offers) {
+          const reason = rejection(offer, source, config, posted, longSeen);
+          if (reason) reasons[reason] = (reasons[reason] || 0) + 1;
+          else approved.push({ ...offer, fonte: source.nome });
+        }
+      } catch (error) {
+        console.warn(`Pulando ${source.nome} (página ${page}): ${error.message}`);
+      }
+      await new Promise((resolve) => setTimeout(resolve, QUERY_INTERVAL_MS));
+    }
+  }
+  const distinct = [...new Map(approved.map((offer) => [String(offer.itemId), offer])).values()];
+  const order = new Map(chosenNames.map((name, index) => [name, index]));
+  distinct.sort((a, b) => order.get(a.fonte) - order.get(b.fonte) || qualityScore(b) - qualityScore(a));
+  console.log(`Busca por categoria: ${chosenNames.join(", ")}. ${received} ofertas recebidas, ${distinct.length} aprovadas. Rejeições: ${JSON.stringify(reasons)}`);
+  if (DRY_RUN) {
+    for (const name of chosenNames) {
+      const best = distinct.filter((offer) => offer.fonte === name).slice(0, 3);
+      console.log(`  [${name}] ${best.length ? "" : "nada aprovado"}`);
+      for (const offer of best) console.log(`    ${money(offer.priceMin)} -${offer.priceDiscountRate}% ★${offer.ratingStar} ${offer.sales} vend.${isOfficialShop(offer) ? " OFICIAL" : ""} | ${offer.productName.slice(0, 80)}`);
+    }
+  }
+  return distinct[0] || null;
+}
+
 async function selectOffer(config, posted) {
+  const sources = FONTES[stateNamespace];
+  if (sources?.length) {
+    const offer = await selectFromSources(config, posted, sources);
+    // Só volta para a busca antiga por palavra-chave se a busca por categoria
+    // não aprovar nada, para o tópico nunca ficar parado.
+    if (offer || DRY_RUN) return offer;
+    console.warn("Busca por categoria sem aprovados; usando a busca por palavra-chave.");
+  }
   const candidates = [];
   for (const keyword of config.keywords) {
     try {
@@ -481,6 +650,11 @@ async function reserveOffer(config) {
     console.log("Nenhuma oferta nova aprovada.");
     return false;
   }
+  if (DRY_RUN) {
+    console.log(`\nSimulação: seria publicado\n${offerText(offer)}`);
+    return false;
+  }
+  await rememberLong(offer);
   // A reserva é salva e sincronizada antes de chamar o Telegram.
   // Se qualquer etapa posterior falhar, a oferta continua bloqueada.
   rememberOffer(posted, offer);
@@ -490,6 +664,32 @@ async function reserveOffer(config) {
   return true;
 }
 
+// O site de ofertas lê este arquivo. Cada tópico grava o seu próprio feed
+// para que execuções simultâneas não entrem em conflito no git.
+async function appendFeed(offer) {
+  const price = Number(offer.priceMin || offer.priceMax || 0);
+  const discount = Number(offer.priceDiscountRate || 0);
+  const entry = {
+    id: `shopee-${offer.itemId}`,
+    loja: "shopee",
+    titulo: String(offer.productName || "").replace(/\s+/g, " ").trim(),
+    imagem: offer.imageUrl || null,
+    preco: price,
+    precoDe: discount > 0 && discount < 100 ? Math.round((price / (1 - discount / 100)) * 100) / 100 : null,
+    link: offer.offerLink,
+    vendidos: Number(offer.sales || 0),
+    nota: Number(offer.ratingStar || 0) || null,
+    lojaOficial: isOfficialShop(offer),
+    fonte: offer.fonte || null,
+    publicadoEm: new Date().toISOString(),
+  };
+  let feed = [];
+  try { feed = JSON.parse(await readFile(feedPath, "utf8")); } catch { /* primeiro registro ou arquivo inválido: recomeça */ }
+  if (!Array.isArray(feed)) feed = [];
+  feed = [entry, ...feed.filter((item) => item.id !== entry.id)].slice(0, FEED_ITEMS);
+  await writeFile(feedPath, JSON.stringify(feed, null, 1));
+}
+
 async function publishReservedOffer(config) {
   const pending = await getPending();
   if (!pending?.offer) {
@@ -497,6 +697,9 @@ async function publishReservedOffer(config) {
     return false;
   }
   await postOffer(config, pending.offer);
+  // A publicação no Telegram já aconteceu; uma falha no feed do site não
+  // pode derrubar o ciclo nem deixar a reserva presa.
+  try { await appendFeed(pending.offer); } catch (error) { console.warn(`Feed do site não atualizado: ${error.message}`); }
   await clearPending();
   console.log(`Publicado: ${pending.offer.productName}`);
   return true;

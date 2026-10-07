@@ -8,7 +8,11 @@ const statePath = join(root, "data", "posted.mercadolivre.json");
 const backupPath = join(root, "data", "posted.mercadolivre.backup.json");
 const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const authPath = join(root, "data", "mercadolivre-auth.json");
-const ROTATION_ITEMS = 200;
+const feedPath = join(root, "data", "feed.mercadolivre.json");
+const FEED_ITEMS = 300;
+// Com 96 publicações por dia, 600 itens dão cerca de seis dias sem repetir.
+const ROTATION_ITEMS = 600;
+const SLOT_MS = 15 * 60_000;
 const CATEGORY_ROTATION_ITEMS = 12;
 const MAX_API_CALLS = 28;
 const MIN_REQUEST_INTERVAL_MS = 750;
@@ -22,13 +26,28 @@ class ApiLimitError extends Error {}
 // Categorias-folha com ranking oficial de mais vendidos. O endpoint /search
 // não é liberado para esta aplicação; /highlights é o recurso oficial feito
 // justamente para obter os 20 campeões de venda por categoria.
+// O terceiro valor é o preço mínimo: nas categorias que misturam produto e
+// acessório, ele deixa passar o produto e barra capinha, cabo e peça.
+// A ordem intercala os assuntos para o grupo não receber quatro ofertas
+// parecidas em sequência.
 const searches = [
-  ["celular", "MLB1055"], ["televisão", "MLB1002"], ["monitor", "MLB99245"],
-  ["console", "MLB11172"], ["tablet", "MLB99889"], ["áudio", "MLB3843"],
-  ["periférico", "MLB1714"], ["eletrodoméstico", "MLB456045"],
-  ["eletrodoméstico", "MLB9188"], ["eletrodoméstico", "MLB31683"],
-  ["ferramenta", "MLB189007"], ["masculino", "MLB23332"],
-  ["perfume", "MLB6284"], ["relógio", "MLB26426"], ["casa", "MLB107564"],
+  ["celular", "MLB1055", 400], ["televisão", "MLB1002", 700], ["monitor", "MLB99245", 350],
+  ["console", "MLB11172", 300], ["tablet", "MLB99889", 350], ["áudio", "MLB3843", 60],
+  ["periférico", "MLB1714", 50], ["eletrodoméstico", "MLB456045", 80],
+  ["eletrodoméstico", "MLB9188", 80], ["eletrodoméstico", "MLB31683", 80],
+  ["ferramenta", "MLB189007", 60], ["masculino", "MLB23332", 40],
+  ["perfume", "MLB6284", 60], ["relógio", "MLB26426", 60], ["casa", "MLB107564", 40],
+  ["jogos", "MLB186456", 80], ["notebook", "MLB430687", 900], ["cozinha", "MLB1618", 50],
+  ["smartwatch", "MLB417704", 100], ["climatização", "MLB252358", 120], ["suplemento", "MLB438178", 50],
+  ["componente", "MLB1712", 150], ["refrigeração", "MLB1576", 500], ["calçado", "MLB23262", 80],
+  ["armazenamento", "MLB430598", 100], ["lavadora", "MLB438282", 400], ["cabelo", "MLB1263", 40],
+  ["computador", "MLB430637", 900], ["fogão", "MLB1580", 250], ["móveis", "MLB436380", 150],
+  ["som", "MLB3835", 80], ["cuidado pessoal", "MLB439347", 60], ["colchão", "MLB438928", 200],
+  ["redes", "MLB1700", 80], ["projetor", "MLB2830", 200], ["pele", "MLB199407", 40],
+  ["impressão", "MLB5875", 300], ["ferramenta elétrica", "MLB2526", 120], ["fitness", "MLB1338", 80],
+  ["streaming", "MLB133950", 150], ["purificador", "MLB21171", 150], ["barbearia", "MLB264787", 60],
+  ["drone", "MLB264065", 250], ["iluminação", "MLB1582", 50], ["ciclismo", "MLB1292", 100],
+  ["segurança", "MLB7069", 80],
 ];
 
 function required(name) {
@@ -39,6 +58,13 @@ function required(name) {
 
 function fingerprint(value) {
   return createHash("sha256").update(String(value)).digest("hex");
+}
+
+// O histórico novo guarda só o começo de cada hash para o arquivo não crescer
+// com a janela maior; os registros antigos, completos, continuam valendo.
+const HASH_CHARS = 16;
+function sameHash(saved, full) {
+  return Boolean(saved) && String(saved).slice(0, HASH_CHARS) === full.slice(0, HASH_CHARS);
 }
 
 async function loadHistory(path = statePath) {
@@ -208,20 +234,20 @@ async function searchTrendingProducts(token, history) {
   return resolved;
 }
 
-async function searchProducts(token, categoryId, category, history, sampleOffset = 0) {
+async function searchProducts(token, categoryId, category, history, sampleOffset = 0, minPrice = 19.99) {
   const ranking = await apiGet(token, `/highlights/MLB/category/${categoryId}`);
   const resolved = [];
   const recent = history.slice(-ROTATION_ITEMS);
   const content = (ranking.content || []).filter((highlight) => {
     const key = fingerprint(highlight.id);
-    return !recent.some((entry) => entry.productKey === key || entry.itemId === highlight.id);
+    return !recent.some((entry) => sameHash(entry.productKey, key) || entry.itemId === highlight.id);
   });
   const offset = content.length ? sampleOffset % content.length : 0;
   const sample = [...content.slice(offset), ...content.slice(0, offset)].slice(0, HIGHLIGHTS_PER_CATEGORY);
   for (const highlight of sample) {
     try {
       const item = await resolveHighlight(token, highlight, category);
-      if (item) resolved.push({ ...item, sourceCategoryId: categoryId });
+      if (item) resolved.push({ ...item, sourceCategoryId: categoryId, minPrice });
     } catch (error) {
       if (error instanceof ApiLimitError) throw error;
       console.warn(`Ignorando ${highlight.id}: ${error.message}`);
@@ -251,13 +277,14 @@ function rejectionReason(item, history, enforceCategorySpacing = true) {
   const price = Number(item.price);
   if (!item.id || !item.permalink || !item.title) return "dados incompletos";
   if (!Number.isFinite(price) || price < 19.99) return "preco invalido";
+  if (price < Number(item.minPrice || 0)) return "abaixo do preco minimo da categoria";
   const title = normalizedTitle(item.title);
   if (/replica|inspirado|primeira linha|1 1|mochila|bolsa|backpack/.test(title) && item.rotationCategory !== "masculino") return "termo bloqueado";
   const recent = history.slice(-ROTATION_ITEMS);
   const key = productKey(item);
-  if (recent.some((entry) => entry.productKey === key || entry.itemId === item.id)) return "produto nos ultimos 200";
+  if (recent.some((entry) => sameHash(entry.productKey, key) || entry.itemId === item.id)) return "produto publicado recentemente";
   const titleHash = fingerprint(title);
-  if (recent.some((entry) => entry.titleHash === titleHash)) return "titulo nos ultimos 200";
+  if (recent.some((entry) => sameHash(entry.titleHash, titleHash))) return "titulo publicado recentemente";
   if (enforceCategorySpacing && history.slice(-CATEGORY_ROTATION_ITEMS).some((entry) => entry.category === item.rotationCategory)) return "categoria recente";
   return null;
 }
@@ -273,34 +300,40 @@ function score(item) {
   const price = Number(item.price || 0);
   const original = Number(item.original_price || 0);
   const discount = original > price ? (original - price) / original : 0;
-  // Mais vendidos têm prioridade; tendências entram como segunda fonte.
-  return Math.log10(sold + 1) * 25 + discount * 100 + (item.official_store_id ? 20 : 0) + (item.shipping?.free_shipping ? 8 : 0) - (item.trendRank ? 15 : 0);
+  // Entre os mais vendidos, quem está com desconto de verdade passa na frente:
+  // 20% de desconto pesa tanto quanto ser de loja oficial e ter frete grátis
+  // juntos. Tendências entram como segunda fonte.
+  return Math.log10(sold + 1) * 15 + discount * 200 + (item.official_store_id ? 20 : 0) + (item.shipping?.free_shipping ? 8 : 0) - (item.trendRank ? 15 : 0);
 }
 
 async function selectProduct(history) {
   apiCalls = 0;
   lastApiCallAt = 0;
   const token = await getAccessToken();
-  const last = history.at(-1);
-  const lastSourceIndex = searches.findIndex(([category, categoryId]) =>
-    last?.sourceCategoryId ? categoryId === last.sourceCategoryId : category === last?.category
-  );
-  const offset = lastSourceIndex >= 0 ? (lastSourceIndex + 1) % searches.length : 0;
+  // O ponto de partida avança com o relógio, não com a última publicação.
+  // Antes, quando as categorias seguintes à última publicada não tinham nada
+  // novo, toda rodada consultava as mesmas e falhava por horas seguidas.
+  const offset = (Math.floor(Date.now() / SLOT_MS) * CATEGORIES_PER_RUN) % searches.length;
   const ordered = [...searches.slice(offset), ...searches.slice(0, offset)];
   const candidates = [];
-  for (const [category, categoryId] of ordered.slice(0, CATEGORIES_PER_RUN)) {
+  let distinct = [];
+  let available = [];
+  for (const [index, [category, categoryId, minPrice]] of ordered.entries()) {
+    // Depois do lote normal, só continua enquanto não houver aprovado e ainda
+    // sobrar folga no limite de consultas da rodada.
+    if (index >= CATEGORIES_PER_RUN && (available.length || apiCalls > MAX_API_CALLS - 6)) break;
     const visits = history.filter((entry) =>
       entry.sourceCategoryId ? entry.sourceCategoryId === categoryId : entry.category === category
     ).length;
     try {
-      candidates.push(...await searchProducts(token, categoryId, category, history, visits * HIGHLIGHTS_PER_CATEGORY));
+      candidates.push(...await searchProducts(token, categoryId, category, history, visits * HIGHLIGHTS_PER_CATEGORY, minPrice));
     } catch (error) {
       console.warn(error.message);
       if (error instanceof ApiLimitError) break;
     }
+    distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
+    available = approvedProducts(distinct, history);
   }
-  let distinct = [...new Map(candidates.map((item) => [item.catalog_product_id || item.id, item])).values()];
-  let available = approvedProducts(distinct, history);
   if (!available.length && apiCalls < MAX_API_CALLS - 4) {
     try { candidates.push(...await searchTrendingProducts(token, history)); }
     catch (error) { console.warn(`Tendências indisponíveis: ${error.message}`); }
@@ -364,6 +397,28 @@ async function postToTelegram(item) {
   if (!response.ok || !json.ok) throw new Error(`Telegram recusou a publicação: ${json.description || response.status}`);
 }
 
+// O site de ofertas lê este arquivo, com o link de afiliado já montado.
+async function appendFeed(item) {
+  const price = Number(item.price || 0);
+  const original = Number(item.original_price || 0);
+  const entry = {
+    id: `mercadolivre-${item.id}`,
+    loja: "mercadolivre",
+    titulo: String(item.title || "").replace(/\s+/g, " ").trim(),
+    imagem: String(item.thumbnail || "").replace(/^http:/, "https:").replace(/-I\.(jpg|webp)$/i, "-O.$1") || null,
+    preco: price,
+    precoDe: original > price ? original : null,
+    link: affiliateUrl(item.permalink),
+    freteGratis: Boolean(item.shipping?.free_shipping),
+    publicadoEm: new Date().toISOString(),
+  };
+  let feed = [];
+  try { feed = JSON.parse(await readFile(feedPath, "utf8")); } catch { /* primeiro registro ou arquivo inválido: recomeça */ }
+  if (!Array.isArray(feed)) feed = [];
+  feed = [entry, ...feed.filter((existing) => existing.id !== entry.id)].slice(0, FEED_ITEMS);
+  await writeFile(feedPath, JSON.stringify(feed, null, 1));
+}
+
 async function reserve() {
   if (await getPending()) {
     console.warn("Reserva anterior descartada sem liberar o produto, evitando duplicidade.");
@@ -373,7 +428,7 @@ async function reserve() {
   const history = await loadHistory();
   const item = await selectProduct(history);
   if (!item) throw new Error("Nenhum produto novo aprovado nesta rodada.");
-  history.push({ itemId: item.id, productKey: productKey(item), titleHash: fingerprint(normalizedTitle(item.title)), category: item.rotationCategory, sourceCategoryId: item.sourceCategoryId || null, reservedAt: new Date().toISOString() });
+  history.push({ itemId: item.id, productKey: productKey(item).slice(0, HASH_CHARS), titleHash: fingerprint(normalizedTitle(item.title)).slice(0, HASH_CHARS), category: item.rotationCategory, sourceCategoryId: item.sourceCategoryId || null, reservedAt: new Date().toISOString() });
   await saveHistory(history);
   await writeFile(pendingPath, JSON.stringify({ item, reservedAt: new Date().toISOString() }, null, 2));
   console.log(`Reservado Mercado Livre: ${item.id} (${item.rotationCategory}).`);
@@ -384,6 +439,9 @@ async function publishReserved() {
   const pending = await getPending();
   if (!pending?.item) return console.log("Nenhuma oferta do Mercado Livre reservada."), false;
   await postToTelegram(pending.item);
+  // A publicação no Telegram já aconteceu; uma falha no feed do site não
+  // pode derrubar a rodada nem deixar a reserva presa.
+  try { await appendFeed(pending.item); } catch (error) { console.warn(`Feed do site não atualizado: ${error.message}`); }
   await clearPending();
   console.log(`Publicado Mercado Livre: ${pending.item.id}.`);
   return true;
