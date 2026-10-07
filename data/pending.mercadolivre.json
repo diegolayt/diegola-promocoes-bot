@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB7684615904",
+    "site_id": "MLB",
+    "seller_id": 1480097248,
+    "accepts_mercadopago": true,
+    "price": 309,
+    "category_id": "MLB456045",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 423782,
+    "original_price": 749,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYU2FudGEgQsOhcmJhcmEgRCdPZXN0ZVRVe",
+        "name": "Santa Bárbara D'Oeste"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYSmFyZGltIEFtw6lyaWNhVFZoWVUyRnVkR",
+        "name": "Jardim América"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5238356409",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB68835767",
+    "title": "S429049631 Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_606677-MLA115733886141_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB68835767",
+    "id": "MLB7684615904",
+    "sold_quantity": 1800,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-07T05:45:31.378Z"
+}
