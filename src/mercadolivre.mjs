@@ -9,6 +9,7 @@ const backupPath = join(root, "data", "posted.mercadolivre.backup.json");
 const pendingPath = join(root, "data", "pending.mercadolivre.json");
 const authPath = join(root, "data", "mercadolivre-auth.json");
 const feedPath = join(root, "data", "feed.mercadolivre.json");
+const showcasePath = join(root, "data", "vitrine.mercadolivre.json");
 const FEED_ITEMS = 300;
 // Com 96 publicações por dia, 600 itens dão cerca de seis dias sem repetir.
 const ROTATION_ITEMS = 600;
@@ -18,6 +19,14 @@ const MAX_API_CALLS = 28;
 const MIN_REQUEST_INTERVAL_MS = 750;
 const CATEGORIES_PER_RUN = 4;
 const HIGHLIGHTS_PER_CATEGORY = 2;
+// A vitrine do site consulta muito mais que uma rodada normal, então roda com
+// um teto próprio, mais devagar e esperando quando a API pede para esperar.
+const SHOWCASE_MAX_CALLS = 750;
+const SHOWCASE_SAMPLE = 6;
+const SHOWCASE_PER_CATEGORY = 4;
+let maxApiCalls = MAX_API_CALLS;
+let requestIntervalMs = MIN_REQUEST_INTERVAL_MS;
+let showcaseMode = false;
 let apiCalls = 0;
 let lastApiCallAt = 0;
 
@@ -47,7 +56,8 @@ const searches = [
   ["impressão", "MLB5875", 300], ["ferramenta elétrica", "MLB2526", 120], ["fitness", "MLB1338", 80],
   ["streaming", "MLB133950", 150], ["purificador", "MLB21171", 150], ["barbearia", "MLB264787", 60],
   ["drone", "MLB264065", 250], ["iluminação", "MLB1582", 50], ["ciclismo", "MLB1292", 100],
-  ["segurança", "MLB7069", 80],
+  ["segurança", "MLB7069", 80], ["livros", "MLB437616", 25], ["natal", "MLB117798", 40],
+  ["brinquedos", "MLB1132", 50], ["maquiagem", "MLB1248", 40], ["jogos de tabuleiro", "MLB432988", 50],
 ];
 
 function required(name) {
@@ -148,14 +158,20 @@ async function getAccessToken() {
   return auth.access_token;
 }
 
-async function apiGet(token, path) {
-  if (apiCalls >= MAX_API_CALLS) throw new ApiLimitError("Limite seguro de consultas desta rodada atingido.");
-  const wait = Math.max(0, MIN_REQUEST_INTERVAL_MS - (Date.now() - lastApiCallAt));
+async function apiGet(token, path, attempt = 0) {
+  if (apiCalls >= maxApiCalls) throw new ApiLimitError("Limite seguro de consultas desta rodada atingido.");
+  const wait = Math.max(0, requestIntervalMs - (Date.now() - lastApiCallAt));
   if (wait) await new Promise((resolve) => setTimeout(resolve, wait));
   apiCalls += 1;
   lastApiCallAt = Date.now();
   const response = await fetch(`https://api.mercadolibre.com${path}`, { headers: { Authorization: `Bearer ${token}`, Accept: "application/json" } });
   const json = await response.json();
+  if (response.status === 429 && showcaseMode && attempt < 2) {
+    await new Promise((resolve) => setTimeout(resolve, 30_000 * (attempt + 1)));
+    return apiGet(token, path, attempt + 1);
+  }
+  // Na vitrine o token nunca é renovado; se vencer no meio, para e salva o que tem.
+  if (response.status === 401 && showcaseMode) throw new ApiLimitError("O token venceu durante a vitrine.");
   if (response.status === 429) throw new ApiLimitError(`${path} atingiu o limite temporário da API do Mercado Livre.`);
   if (!response.ok) throw new Error(`${path} falhou (HTTP ${response.status}): ${json.message || "resposta inválida"}`);
   return json;
@@ -398,10 +414,10 @@ async function postToTelegram(item) {
 }
 
 // O site de ofertas lê este arquivo, com o link de afiliado já montado.
-async function appendFeed(item) {
+function feedEntry(item) {
   const price = Number(item.price || 0);
   const original = Number(item.original_price || 0);
-  const entry = {
+  return {
     id: `mercadolivre-${item.id}`,
     loja: "mercadolivre",
     titulo: String(item.title || "").replace(/\s+/g, " ").trim(),
@@ -410,8 +426,15 @@ async function appendFeed(item) {
     precoDe: original > price ? original : null,
     link: affiliateUrl(item.permalink),
     freteGratis: Boolean(item.shipping?.free_shipping),
+    lojaOficial: Boolean(item.official_store_id),
+    nota: Number(item.ratingAverage || 0) || null,
+    fonte: item.rotationCategory || null,
     publicadoEm: new Date().toISOString(),
   };
+}
+
+async function appendFeed(item) {
+  const entry = feedEntry(item);
   let feed = [];
   try { feed = JSON.parse(await readFile(feedPath, "utf8")); } catch { /* primeiro registro ou arquivo inválido: recomeça */ }
   if (!Array.isArray(feed)) feed = [];
@@ -447,6 +470,71 @@ async function publishReserved() {
   return true;
 }
 
-if (process.argv.includes("--reserve")) await reserve();
+// Vitrine do site: os melhores de cada categoria (mais vendidos com desconto
+// real ou de loja oficial), gravados em um arquivo que o site lê. Não publica
+// nada no Telegram e não mexe no histórico de publicações.
+async function buildShowcase() {
+  // Só usa um token ainda válido. Renovar aqui poderia invalidar o token que a
+  // rodada de publicação está usando ao mesmo tempo.
+  const auth = await readAuth();
+  if (!auth?.access_token || Number(auth.expiresAt) < Date.now() + 20 * 60_000) {
+    console.log("Token do Mercado Livre perto de vencer; a vitrine fica para a próxima execução.");
+    return;
+  }
+  const token = auth.access_token;
+  apiCalls = 0;
+  lastApiCallAt = 0;
+  maxApiCalls = SHOWCASE_MAX_CALLS;
+  requestIntervalMs = Number(process.env.ML_SHOWCASE_INTERVAL_MS || 1_000);
+  showcaseMode = true;
+  const picks = new Map();
+  try {
+    for (const [category, categoryId, minPrice] of searches) {
+      let ranking;
+      try { ranking = await apiGet(token, `/highlights/MLB/category/${categoryId}`); }
+      catch (error) {
+        if (error instanceof ApiLimitError) throw error;
+        console.warn(`${category}: ${error.message}`);
+        continue;
+      }
+      const resolved = [];
+      for (const highlight of (ranking.content || []).slice(0, SHOWCASE_SAMPLE)) {
+        try {
+          const item = await resolveHighlight(token, highlight, category);
+          if (item) resolved.push({ ...item, minPrice });
+        } catch (error) {
+          if (error instanceof ApiLimitError) throw error;
+        }
+      }
+      const good = resolved
+        .filter((item) => !rejectionReason(item, [], false))
+        .filter((item) => Number(item.original_price || 0) > Number(item.price) * 1.05 || item.official_store_id)
+        .sort((a, b) => score(b) - score(a))
+        .slice(0, SHOWCASE_PER_CATEGORY);
+      for (const item of good) {
+        try {
+          const reviews = await apiGet(token, `/reviews/item/${encodeURIComponent(item.id)}`);
+          item.ratingAverage = reviews.rating_average;
+        } catch (error) {
+          if (error instanceof ApiLimitError) throw error;
+        }
+        // Com avaliação conhecida e ruim, fica de fora; sem avaliação, entra pelo resto.
+        if (!item.ratingAverage || item.ratingAverage >= 4.3) picks.set(item.catalog_product_id || item.id, item);
+      }
+      console.log(`${category}: ${resolved.length} consultados, ${good.length} aprovados.`);
+    }
+  } catch (error) {
+    if (!(error instanceof ApiLimitError)) throw error;
+    console.warn(`Vitrine parcial: ${error.message}`);
+  }
+  console.log(`Vitrine do Mercado Livre: ${apiCalls} consultas, ${picks.size} produtos.`);
+  // Uma execução fraca não apaga a vitrine anterior.
+  if (picks.size < 20) return;
+  await mkdir(dirname(showcasePath), { recursive: true });
+  await writeFile(showcasePath, JSON.stringify([...picks.values()].map(feedEntry), null, 1));
+}
+
+if (process.argv.includes("--vitrine")) await buildShowcase();
+else if (process.argv.includes("--reserve")) await reserve();
 else if (process.argv.includes("--publish-reserved")) await publishReserved();
 else if (await reserve()) await publishReserved();
