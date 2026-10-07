@@ -1,0 +1,85 @@
+{
+  "item": {
+    "item_id": "MLB7324004066",
+    "site_id": "MLB",
+    "seller_id": 3295946682,
+    "accepts_mercadopago": true,
+    "price": 199,
+    "category_id": "MLB264715",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 2 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "standard_price_by_quantity",
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 399,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 2,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "2 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4329725176",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB75682176",
+    "title": "Gokoco GD037 Modeladora/Cacheadora - Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_653652-MLA113721401192_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB75682176",
+    "id": "MLB7324004066",
+    "sold_quantity": 1900,
+    "rotationCategory": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "minPrice": 60
+  },
+  "reservedAt": "2026-10-07T01:30:34.226Z"
+}
