@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4660482303",
-    "productKey": "9f620b521d231202970060e589a2d9d1752403eb93f4753525367159a116837d",
-    "titleHash": "8ebbebef839099e67d0be8d32ad350e62632fb44a2c3b84f3abd780b3fa8eee6",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-01T22:15:32.579Z"
-  },
-  {
     "itemId": "MLB5934587642",
     "productKey": "4c9a2bafeaf753b68d76d2697d82a1f50e4365954677548c675f31c4fc517f92",
     "titleHash": "17682e2f317c0d59ad0ceb2dee4dcade6ff0306acf001e3a1b4be3c066e3cec8",
@@ -1598,5 +1590,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-06T23:45:32.418Z"
+  },
+  {
+    "itemId": "MLB7690626104",
+    "productKey": "bd7ce8c073ce4d785c724fbd5e043e971db627a92d2e875ef95d24f43f4df8c1",
+    "titleHash": "9c59f5fda561e68048c1b32bfb7deb360f568407096e57437572de3862fd470b",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-07T00:00:35.910Z"
   }
 ]
