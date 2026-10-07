@@ -40,7 +40,7 @@ export const FONTES = {
     { nome: "microondas", cat: 100200, min: 300 },
     { nome: "robo_aspirador", cat: 100177, min: 150 },
     { nome: "ventilador", cat: 100181, min: 100 },
-    { nome: "cadeira_gamer", cat: 101171, min: 300 },
+    { nome: "cadeira_gamer", cat: 101171, min: 300, exige: /\b(gamer|escritorio|ergonomica|presidente)\b/ },
     { nome: "camera_seguranca", cat: 101100, min: 80 },
     { nome: "roteador", cat: 101969, min: 60 },
   ],
