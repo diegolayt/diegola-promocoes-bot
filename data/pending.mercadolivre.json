@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB7165405014",
+    "site_id": "MLB",
+    "seller_id": 748071809,
+    "accepts_mercadopago": true,
+    "price": 2199.9,
+    "category_id": "MLB181294",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 6 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": 2873.7,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [
+        "optional_me1_chosen",
+        "lost_me2_by_dimensions"
+      ],
+      "cost": 106.99
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NBTzJmMDQ",
+        "name": "São José do Cedro"
+      },
+      "state": {
+        "id": "TUxCUFNBTkE5Nzc4",
+        "name": "Santa Catarina"
+      },
+      "neighborhood": {
+        "id": "TUxCQk1BUjQxNzM1NQ",
+        "name": "Mariflor"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 6,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "6 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4111856278",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB59799660",
+    "title": "Geladeira Consul Frost Free 333 Litros Duplex Branca - CRM40MB",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_649623-MLA94806311973_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB59799660",
+    "id": "MLB7165405014",
+    "sold_quantity": 1400,
+    "rotationCategory": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "minPrice": 500
+  },
+  "reservedAt": "2026-10-07T22:45:28.691Z"
+}
