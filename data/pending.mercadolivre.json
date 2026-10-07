@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB4140455415",
+    "site_id": "MLB",
+    "seller_id": 1342516587,
+    "accepts_mercadopago": true,
+    "price": 630,
+    "category_id": "MLB73057",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 52582,
+    "original_price": 1061.9,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3325974581",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19617676",
+    "title": "Micro-ondas ME23S 23L Efficient Com Descongelamento Assistido Cor Inox Electrolux",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_940680-MLA99700976956_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19617676",
+    "id": "MLB4140455415",
+    "sold_quantity": 1700,
+    "rotationCategory": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "minPrice": 250
+  },
+  "reservedAt": "2026-10-07T19:45:29.294Z"
+}
