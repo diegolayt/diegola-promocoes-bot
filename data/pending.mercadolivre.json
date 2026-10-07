@@ -1,0 +1,79 @@
+{
+  "item": {
+    "item_id": "MLB5276447003",
+    "site_id": "MLB",
+    "seller_id": 3595234463,
+    "accepts_mercadopago": true,
+    "price": 484.99,
+    "category_id": "MLB63312",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 439342,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1ZJQTM3ZTYx",
+        "name": "Viana"
+      },
+      "state": {
+        "id": "TUxCUEVTUE8xN2Y3NA",
+        "name": "Espírito Santo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5056293143",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB40656539",
+    "title": "Starlink MINI Internet Via Satélite",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_799612-MLA95359719699_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB40656539",
+    "id": "MLB5276447003",
+    "sold_quantity": 2000,
+    "rotationCategory": "redes",
+    "sourceCategoryId": "MLB1700",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-07T13:45:34.202Z"
+}
