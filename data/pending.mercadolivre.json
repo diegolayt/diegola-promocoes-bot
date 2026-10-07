@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB7719076464",
+    "site_id": "MLB",
+    "seller_id": 2207585975,
+    "accepts_mercadopago": true,
+    "price": 97,
+    "category_id": "MLB107564",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 5 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": true,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYRHVxdWUgZGUgQ2F4aWFzVFV4Q1VGSkpUM",
+        "name": "Duque de Caxias"
+      },
+      "state": {
+        "id": "TUxCUFJJT08xODM5Zg",
+        "name": "Rio de Janeiro"
+      },
+      "neighborhood": {
+        "id": "TVhYVmlsYSBTw6NvIEx1aXNUVmhZUkhWeGRXV",
+        "name": "Vila São Luis"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 5,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "5 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5298812771",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB38808321",
+    "title": "Kit 3 Panelas Feijoada Caldo Alumínio 23 cm 25 cm 27 cm",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603869-MLA96127119343_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB38808321",
+    "id": "MLB7719076464",
+    "sold_quantity": 900,
+    "rotationCategory": "casa",
+    "sourceCategoryId": "MLB107564",
+    "minPrice": 40
+  },
+  "reservedAt": "2026-10-07T12:15:36.718Z"
+}
