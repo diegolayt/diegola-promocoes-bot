@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB6906628416",
+    "site_id": "MLB",
+    "seller_id": 743518733,
+    "accepts_mercadopago": true,
+    "price": 1250,
+    "category_id": "MLB1649",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 6 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 74542,
+    "original_price": 1543.33,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JFTGU0ODdm",
+        "name": "Belo Horizonte"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 6,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "6 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4009521878",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB38526875",
+    "title": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED, Windows 10 Pro, Bivolt, Preto - BluePC Office CDBP-OFF100",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_616947-MLA116432884583_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB38526875",
+    "id": "MLB6906628416",
+    "sold_quantity": 1400,
+    "rotationCategory": "computador",
+    "sourceCategoryId": "MLB430637",
+    "minPrice": 900
+  },
+  "reservedAt": "2026-10-07T13:30:37.454Z"
+}
