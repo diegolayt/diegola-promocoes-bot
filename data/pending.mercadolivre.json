@@ -1,0 +1,86 @@
+{
+  "item": {
+    "item_id": "MLB2720108621",
+    "site_id": "MLB",
+    "seller_id": 280794942,
+    "accepts_mercadopago": true,
+    "price": 299,
+    "category_id": "MLB1645",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "good_quality_thumbnail",
+      "extended_warranty_eligible",
+      "good_quality_picture",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 1328,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "optional_me2_chosen"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NFUmI1ZGQx",
+        "name": "Serra"
+      },
+      "state": {
+        "id": "TUxCUEVTUE8xN2Y3NA",
+        "name": "Espírito Santo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU1109051999",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB35556218",
+    "title": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB35556218",
+    "id": "MLB2720108621",
+    "sold_quantity": 1800,
+    "rotationCategory": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "minPrice": 120
+  },
+  "reservedAt": "2026-10-08T20:45:43.331Z"
+}
