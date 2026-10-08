@@ -1,0 +1,67 @@
+{
+  "item": {
+    "item_id": "MLB4088010131",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 2099,
+    "category_id": "MLB21168",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "bulky",
+      "dynamic_standard_price",
+      "first_party",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 2707,
+    "original_price": 2679,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU3193333464",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB50374755",
+    "title": "Máquina De Lavar Electrolux 14,5kg Cesto Inox Lep15 Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_899028-MLA85766474233_062025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB50374755",
+    "id": "MLB4088010131",
+    "sold_quantity": 500,
+    "rotationCategory": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "minPrice": 400
+  },
+  "reservedAt": "2026-10-08T14:45:32.518Z"
+}
