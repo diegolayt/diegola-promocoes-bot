@@ -1,0 +1,86 @@
+{
+  "item": {
+    "item_id": "MLB3509861975",
+    "site_id": "MLB",
+    "seller_id": 237710330,
+    "accepts_mercadopago": true,
+    "price": 167,
+    "category_id": "MLB188914",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 90 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "fvf_discount_item",
+      "user_product_unify",
+      "good_quality_thumbnail",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 275608,
+    "original_price": 197.99,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "cross_docking",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTMzNjI",
+        "name": "São Bernardo do Campo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlZJTDk1MTY2Mw",
+        "name": "Vila Gonçalves"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 90,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "90 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU1155422289",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB27080589",
+    "title": "Kit 2 Refil De Água Acqua Pure Electrolux Pe12a Pe12b Pe12g PC01X, Cor Marrom-claro",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_764049-MLA114244626520_082026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB27080589",
+    "id": "MLB3509861975",
+    "sold_quantity": 2000,
+    "rotationCategory": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "minPrice": 150
+  },
+  "reservedAt": "2026-10-08T12:30:37.597Z"
+}
