@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB5361384028",
+    "site_id": "MLB",
+    "seller_id": 226418798,
+    "accepts_mercadopago": true,
+    "price": 1827.9,
+    "category_id": "MLB73046",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 879,
+    "original_price": 2999.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 39.9
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0lUQTVjOTA4",
+        "name": "Itaperuçu"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3062957918",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19620531",
+    "title": "Lava-Louças Brastemp 8 Serviços Inox - BLF08BS",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_665342-MLA99986229919_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19620531",
+    "id": "MLB5361384028",
+    "sold_quantity": 700,
+    "rotationCategory": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "minPrice": 400
+  },
+  "reservedAt": "2026-10-08T08:15:31.668Z"
+}
