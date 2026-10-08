@@ -1,0 +1,73 @@
+{
+  "item": {
+    "item_id": "MLB5724876880",
+    "site_id": "MLB",
+    "seller_id": 1142362911,
+    "accepts_mercadopago": true,
+    "price": 97,
+    "category_id": "MLB6284",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "kit_component",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 5588,
+    "original_price": 299,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTY5NzA",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQsFHVTg4NzY",
+        "name": "Água Branca"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU3428900891",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB21360271",
+    "title": "Club 6 Voyage Desodorante Colônia 95ml",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB21360271",
+    "id": "MLB5724876880",
+    "sold_quantity": 400,
+    "rotationCategory": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "minPrice": 60
+  },
+  "reservedAt": "2026-10-08T10:30:44.083Z"
+}
