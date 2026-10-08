@@ -1,0 +1,75 @@
+{
+  "item": {
+    "item_id": "MLB7358531924",
+    "site_id": "MLB",
+    "seller_id": 3003289177,
+    "accepts_mercadopago": true,
+    "price": 584.73,
+    "category_id": "MLB430802",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "net_proceeds_prices",
+      "cbt_item",
+      "cbt_fulfillment_us",
+      "standard_price_by_channel",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "cbt_fulfillment"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "China Grove"
+      },
+      "state": {
+        "id": "",
+        "name": "Texas"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB39410080",
+    "title": "SSD Kingston NV3 500GB M2 2280 NVME PCIe 4.0 Gen 4x4",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_790864-MLA106134764970_022026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB39410080",
+    "id": "MLB7358531924",
+    "sold_quantity": 1400,
+    "rotationCategory": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "minPrice": 100
+  },
+  "reservedAt": "2026-10-08T01:45:36.044Z"
+}
