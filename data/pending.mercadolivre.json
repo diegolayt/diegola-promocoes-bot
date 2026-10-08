@@ -1,0 +1,85 @@
+{
+  "item": {
+    "item_id": "MLB4198218091",
+    "site_id": "MLB",
+    "seller_id": 80278818,
+    "accepts_mercadopago": true,
+    "price": 225.47,
+    "category_id": "MLB5412",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 6 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "has_published_clips",
+      "kit_component",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 4181,
+    "original_price": 426.72,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTcyOTU",
+        "name": "Guarulhos"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNJRDIwaWFu",
+        "name": "Cidade Industrial Satélite de São Paulo"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 6,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "6 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU1720892652",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB18580665",
+    "title": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_742671-MLU78597786812_082024-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB18580665",
+    "id": "MLB4198218091",
+    "sold_quantity": 1600,
+    "rotationCategory": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "minPrice": 60
+  },
+  "reservedAt": "2026-10-08T05:30:45.523Z"
+}
