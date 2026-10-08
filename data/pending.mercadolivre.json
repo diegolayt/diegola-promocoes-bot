@@ -1,0 +1,84 @@
+{
+  "item": {
+    "item_id": "MLB5219998762",
+    "site_id": "MLB",
+    "seller_id": 743518733,
+    "accepts_mercadopago": true,
+    "price": 1159,
+    "category_id": "MLB1649",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 6 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "extended_warranty_eligible",
+      "good_quality_thumbnail",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 74542,
+    "original_price": 1365.56,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JFTGU0ODdm",
+        "name": "Belo Horizonte"
+      },
+      "state": {
+        "id": "TUxCUE1JTlMxNTAyZA",
+        "name": "Minas Gerais"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 6,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "6 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU2315847259",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB42270876",
+    "title": "Computador Completo Fast Intel Core i5, 8GB RAM, SSD 256GB, Windows 10 Pro, Bivolt, Preto, Monitor 20\" LED, Mouse e Teclado - BluePC CD2E-0110FA",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_996195-MLA114054845027_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB42270876",
+    "id": "MLB5219998762",
+    "sold_quantity": 800,
+    "rotationCategory": "computador",
+    "sourceCategoryId": "MLB430637",
+    "minPrice": 900
+  },
+  "reservedAt": "2026-10-08T11:30:39.893Z"
+}
