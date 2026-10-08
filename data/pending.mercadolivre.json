@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB5274910975",
+    "site_id": "MLB",
+    "seller_id": 260466799,
+    "accepts_mercadopago": true,
+    "price": 2999,
+    "category_id": "MLB181294",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 1118,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [
+        "lost_me2_by_dimensions"
+      ],
+      "cost": 106.99
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1BPTjJjY2I5",
+        "name": "Ponta Grossa"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "TUxCQlJPTjI4RjA3",
+        "name": "Ronda"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4669323421",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB65863229",
+    "title": "Geladeira Electrolux Frost Free 380l Autosense Inverter Duplex Inox Look (if41s)",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_632884-MLA106796987142_022026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB65863229",
+    "id": "MLB5274910975",
+    "sold_quantity": 1100,
+    "rotationCategory": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "minPrice": 500
+  },
+  "reservedAt": "2026-10-08T05:00:39.672Z"
+}
