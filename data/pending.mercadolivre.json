@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB4931541395",
+    "site_id": "MLB",
+    "seller_id": 2505230661,
+    "accepts_mercadopago": true,
+    "price": 62.9,
+    "category_id": "MLB70632",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "self_service_in"
+      ],
+      "cost": 43.143840000000004
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1ZJVGQ5MWM5",
+        "name": "Vitória da Conquista"
+      },
+      "state": {
+        "id": "TUxCUEJBSEFlYmEx",
+        "name": "Bahia"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNBTkExQzZC",
+        "name": "Candeias"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU4406868884",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB23535579",
+    "title": "Corretivo de alta cobertura Natura Una Extrema",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_737709-MLU74482834658_022024-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB23535579",
+    "id": "MLB4931541395",
+    "sold_quantity": 1600,
+    "rotationCategory": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "minPrice": 40
+  },
+  "reservedAt": "2026-10-08T03:30:35.620Z"
+}
