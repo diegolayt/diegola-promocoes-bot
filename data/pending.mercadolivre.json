@@ -1,0 +1,65 @@
+{
+  "item": {
+    "item_id": "MLB3845254515",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 37.46,
+    "category_id": "MLB437616",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "dynamic_standard_price",
+      "kvs_primary",
+      "first_party",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 123766,
+    "original_price": 60.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU1039969346",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19299491",
+    "title": "Hábitos atômicos - Clear, James - Editora Alta Books - Capa Mole",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_653257-MLU50462500949_062022-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19299491",
+    "id": "MLB3845254515",
+    "sold_quantity": 700,
+    "rotationCategory": "livros",
+    "sourceCategoryId": "MLB437616",
+    "minPrice": 25
+  },
+  "reservedAt": "2026-10-08T16:00:37.434Z"
+}
