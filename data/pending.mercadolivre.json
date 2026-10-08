@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB5343580317",
+    "site_id": "MLB",
+    "seller_id": 3708570558,
+    "accepts_mercadopago": true,
+    "price": 149.12,
+    "category_id": "MLB456045",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 1 anos",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "xd_drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NBUjZmNDhl",
+        "name": "Sarandi"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 1,
+          "unit": "anos"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "1 anos",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5377078739",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB50376945",
+    "title": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_927559-MLA99450788218_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB50376945",
+    "id": "MLB5343580317",
+    "sold_quantity": 2000,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-08T04:00:34.244Z"
+}
