@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB2797899761",
+    "site_id": "MLB",
+    "seller_id": 267892530,
+    "accepts_mercadopago": true,
+    "price": 699,
+    "category_id": "MLB73057",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 0 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "brand_verified",
+      "good_quality_thumbnail",
+      "extended_warranty_eligible",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 1215,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 19.9
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0NVUjYyZmY1",
+        "name": "Curitiba"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNJRDM4RTVG",
+        "name": "Cidade Industrial"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 0,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "0 meses",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU1092838050",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB8742310",
+    "title": "Micro-ondas Electrolux de bancada Branco com Função Tira Odor e Manter Aquecido 34L MEO44",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_889684-MLA99475706302_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB8742310",
+    "id": "MLB2797899761",
+    "sold_quantity": 1300,
+    "rotationCategory": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "minPrice": 250
+  },
+  "reservedAt": "2026-10-08T21:15:41.666Z"
+}
