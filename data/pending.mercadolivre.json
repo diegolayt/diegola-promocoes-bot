@@ -1,0 +1,82 @@
+{
+  "item": {
+    "item_id": "MLB5021389961",
+    "site_id": "MLB",
+    "seller_id": 2579572742,
+    "accepts_mercadopago": true,
+    "price": 89.99,
+    "category_id": "MLB7073",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 223704,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_in",
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTQzMzc",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQkFMVGN1ejd6",
+        "name": "Alto da Mooca"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3836429272",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB26988439",
+    "title": "Câmera De Segurança Wifi Yoosee Externa Mini Dome Full Hd Infravermelho Prova D'água Woosh",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_660918-MLA117911296795_092026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB26988439",
+    "id": "MLB5021389961",
+    "sold_quantity": 200,
+    "rotationCategory": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-08T06:15:32.442Z"
+}
