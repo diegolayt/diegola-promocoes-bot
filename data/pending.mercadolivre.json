@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB7762600120",
+    "site_id": "MLB",
+    "seller_id": 2349235577,
+    "accepts_mercadopago": true,
+    "price": 329,
+    "category_id": "MLB186456",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTY5NzA",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBBUm5neTFk",
+        "name": "Parque Continental"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU5376095165",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB66764100",
+    "title": "Jogo Marvel's Wolverine Para Playstation 5 (físico)",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_758991-MLA108103450088_032026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB66764100",
+    "id": "MLB7762600120",
+    "sold_quantity": 1900,
+    "rotationCategory": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-08T20:30:39.698Z"
+}
