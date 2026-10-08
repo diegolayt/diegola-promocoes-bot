@@ -1,0 +1,64 @@
+{
+  "item": {
+    "item_id": "MLB5205579974",
+    "site_id": "MLB",
+    "seller_id": 480263032,
+    "accepts_mercadopago": true,
+    "price": 44.83,
+    "category_id": "MLB437616",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "first_party",
+      "dynamic_standard_price",
+      "kvs_primary",
+      "user_product_unify",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 123448,
+    "original_price": 71.9,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU2875964743",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19305160",
+    "title": "Libro O diário de uma princesa desastrada, Um Romance, de Lacerda, Maidy. Editorial Outro Planeta., tapa mole, en português (2022)",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_960774-MLU50455305870_062022-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19305160",
+    "id": "MLB5205579974",
+    "sold_quantity": 1000,
+    "rotationCategory": "livros",
+    "sourceCategoryId": "MLB437616",
+    "minPrice": 25
+  },
+  "reservedAt": "2026-10-08T03:15:29.569Z"
+}
