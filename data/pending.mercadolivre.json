@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB4140740101",
+    "site_id": "MLB",
+    "seller_id": 2101642318,
+    "accepts_mercadopago": true,
+    "price": 51.73,
+    "category_id": "MLB437616",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 7 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 3152,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [],
+      "cost": 43.302816
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0FOQWFmNGQw",
+        "name": "Ananindeua"
+      },
+      "state": {
+        "id": "TUxCUFBBUkFiY2Uw",
+        "name": "Pará"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNPUTc4OEZE",
+        "name": "Coqueiro"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      },
+      {
+        "value_struct": {
+          "number": 7,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "7 dias",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU3326526659",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB22500020",
+    "title": "Melhor do que nos filmes - Painter, Lynn - Intrínseca - Capa Mole",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_715474-MLU72564017573_102023-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB22500020",
+    "id": "MLB4140740101",
+    "sold_quantity": 600,
+    "rotationCategory": "livros",
+    "sourceCategoryId": "MLB437616",
+    "minPrice": 25
+  },
+  "reservedAt": "2026-10-09T01:45:40.094Z"
+}
