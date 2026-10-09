@@ -1,0 +1,79 @@
+{
+  "item": {
+    "item_id": "MLB7772698464",
+    "site_id": "MLB",
+    "seller_id": 471461326,
+    "accepts_mercadopago": true,
+    "price": 55.9,
+    "category_id": "MLB10589",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [],
+      "cost": 43.302816
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NBTmIzNzkw",
+        "name": "Santa Terezinha de Itaipu"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU5402864475",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB75538416",
+    "title": "Jogo Desafio Desenrolar Cordas Anti Estresse Raciocínio Quebra Cabeça Babuu Brinquedos Educativos",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_808125-MLA115097192577_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB75538416",
+    "id": "MLB7772698464",
+    "sold_quantity": 1200,
+    "rotationCategory": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "minPrice": 50
+  },
+  "reservedAt": "2026-10-09T14:30:38.192Z"
+}
