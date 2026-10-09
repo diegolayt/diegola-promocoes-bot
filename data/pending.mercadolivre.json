@@ -1,0 +1,71 @@
+{
+  "item": {
+    "item_id": "MLB5341537513",
+    "site_id": "MLB",
+    "seller_id": 180640607,
+    "accepts_mercadopago": true,
+    "price": 79.98,
+    "category_id": "MLB189884",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "drop_off",
+      "tags": [
+        "mandatory_free_shipping"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQVEFCQTAx",
+        "name": "Taubaté"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlNQSkFSODM",
+        "name": "Jardim Maria Augusta"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU5414865608",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB53880377",
+    "title": "kit 2 Refletor Led 200w Holofote Bivolt Prova D'água Cor Branco Frio 6500k",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_993375-MLA112854255007_062026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB53880377",
+    "id": "MLB5341537513",
+    "sold_quantity": 1800,
+    "rotationCategory": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "minPrice": 50
+  },
+  "reservedAt": "2026-10-09T14:00:51.978Z"
+}
