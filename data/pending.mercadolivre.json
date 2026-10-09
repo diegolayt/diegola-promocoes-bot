@@ -1,0 +1,74 @@
+{
+  "item": {
+    "item_id": "MLB3475590683",
+    "site_id": "MLB",
+    "seller_id": 768826009,
+    "accepts_mercadopago": true,
+    "price": 61.5,
+    "category_id": "MLB6883",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "first_party",
+      "dynamic_standard_price",
+      "kvs_primary",
+      "user_product_unify",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 4114,
+    "original_price": 89.99,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+        "name": "Cajamar"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+        "name": "Distrito Industrial"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "user_product_id": "MLBU1981461079",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB8942199",
+    "title": "Jogo Eu Sou...? Estrela",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_715723-MLA99937755703_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB8942199",
+    "id": "MLB3475590683",
+    "sold_quantity": 600,
+    "rotationCategory": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "minPrice": 50
+  },
+  "reservedAt": "2026-10-09T20:45:37.766Z"
+}
