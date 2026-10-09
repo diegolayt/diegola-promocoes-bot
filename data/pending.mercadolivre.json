@@ -1,0 +1,75 @@
+{
+  "item": {
+    "item_id": "MLB5957878356",
+    "site_id": "MLB",
+    "seller_id": 2980925626,
+    "accepts_mercadopago": true,
+    "price": 2048.66,
+    "category_id": "MLB99889",
+    "currency_id": "BRL",
+    "warranty": "Sem garantia",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "net_proceeds_prices",
+      "cbt_item",
+      "kvs_primary",
+      "standard_price_by_channel",
+      "cbt_fulfillment_us",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": null,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "cbt_fulfillment"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "",
+        "name": "China Grove"
+      },
+      "state": {
+        "id": "",
+        "name": "Texas"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Sem garantia",
+        "value_id": "6150835"
+      }
+    ],
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB47295086",
+    "title": "Tablet Xiaomi Pad 7 - Tela De 3,2 Mil E 11,2 Polegadas, Snap Cor Cinza-escuro",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_681634-MLA100021287705_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB47295086",
+    "id": "MLB5957878356",
+    "sold_quantity": 600,
+    "rotationCategory": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "minPrice": 350
+  },
+  "reservedAt": "2026-10-09T08:15:39.623Z"
+}
