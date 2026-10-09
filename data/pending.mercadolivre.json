@@ -1,0 +1,66 @@
+{
+  "item": {
+    "item_id": "MLB5733297138",
+    "site_id": "MLB",
+    "seller_id": 2510796023,
+    "accepts_mercadopago": true,
+    "price": 137.75,
+    "category_id": "MLB31683",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "user_product_unify",
+      "kvs_primary",
+      "extended_warranty_eligible",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 585,
+    "original_price": 145,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "optional_me2_chosen"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JBTDc5NDIyMQ",
+        "name": "Balneário Piçarras"
+      },
+      "state": {
+        "id": "TUxCUFNBTkE5Nzc4",
+        "name": "Santa Catarina"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU3441543876",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB57325867",
+    "title": "Sanduicheira Oster 220V 1000W Multiuso Inox OSAN500",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_854021-MLA112550266440_062026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB57325867",
+    "id": "MLB5733297138",
+    "sold_quantity": 1700,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-09T02:31:18.074Z"
+}
