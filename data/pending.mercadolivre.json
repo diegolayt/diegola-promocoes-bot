@@ -1,0 +1,66 @@
+{
+  "item": {
+    "item_id": "MLB7285928992",
+    "site_id": "MLB",
+    "seller_id": 2510796023,
+    "accepts_mercadopago": true,
+    "price": 94.09,
+    "category_id": "MLB31683",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "catalog_boost",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 373,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "mandatory_free_shipping",
+        "optional_me2_chosen"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0JBTDc5NDIyMQ",
+        "name": "Balneário Piçarras"
+      },
+      "state": {
+        "id": "TUxCUFNBTkE5Nzc4",
+        "name": "Santa Catarina"
+      },
+      "neighborhood": {
+        "id": "",
+        "name": ""
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU4445105201",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB75940117",
+    "title": "Sanduicheira Elétrica Cadence Click Inox Cadence",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_829514-MLA115308614383_072026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB75940117",
+    "id": "MLB7285928992",
+    "sold_quantity": 500,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-10T20:00:42.508Z"
+}
