@@ -1,0 +1,83 @@
+{
+  "item": {
+    "item_id": "MLB5119946035",
+    "site_id": "MLB",
+    "seller_id": 142941371,
+    "accepts_mercadopago": true,
+    "price": 227.9,
+    "category_id": "MLB133950",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 3 meses",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 217062,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [
+        "self_service_out",
+        "mandatory_free_shipping",
+        "self_service_available"
+      ],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYU8OjbyBKb3PDqSBkb3MgQ2FtcG9zVFV4Q",
+        "name": "São José dos Campos"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYUGFycXVlIFJlc2lkZW5jaWFsIEFxdWFya",
+        "name": "Parque Residencial Aquarius"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 3,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "3 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4922897212",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB47308815",
+    "title": "Smart Pro Eletronic Tv Box 4k Android Netflix Youtube Cor Azul Tipo De Controle Remoto Padrão",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_851480-MLA99475762726_112025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB47308815",
+    "id": "MLB5119946035",
+    "sold_quantity": 1800,
+    "rotationCategory": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "minPrice": 150
+  },
+  "reservedAt": "2026-10-10T12:15:28.655Z"
+}
