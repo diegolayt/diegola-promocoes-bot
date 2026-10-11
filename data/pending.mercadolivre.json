@@ -1,0 +1,81 @@
+{
+  "item": {
+    "item_id": "MLB6182336356",
+    "site_id": "MLB",
+    "seller_id": 795325396,
+    "accepts_mercadopago": true,
+    "price": 69.6,
+    "category_id": "MLB189908",
+    "currency_id": "BRL",
+    "warranty": "Garantia do vendedor: 30 dias",
+    "condition": "new",
+    "listing_type_id": "gold_special",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "has_published_clips",
+      "standard_price_by_quantity",
+      "kvs_primary",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 295922,
+    "original_price": 154.67,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me2",
+      "logistic_type": "fulfillment",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TVhYSW5kYWlhdHViYVRVeENVRk5CVDA4NU4yR",
+        "name": "Indaiatuba"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TVhYQ29tZXJjaWFsIFZpdG9yaWEgTWFydGlua",
+        "name": "Comercial Vitoria Martini"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": {
+          "number": 30,
+          "unit": "dias"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "30 dias",
+        "value_id": null
+      },
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia do vendedor",
+        "value_id": "2230280"
+      }
+    ],
+    "user_product_id": "MLBU1480414998",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB63957433",
+    "title": "Fita De Led Branco Neutro 4000k 10 Metros Direta 240led/m Luz Branco-neutro",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_692792-MLA117005495392_102026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB63957433",
+    "id": "MLB6182336356",
+    "sold_quantity": 200,
+    "rotationCategory": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "minPrice": 50
+  },
+  "reservedAt": "2026-10-11T17:00:49.629Z"
+}
