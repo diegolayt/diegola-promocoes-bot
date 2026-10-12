@@ -1,0 +1,80 @@
+{
+  "item": {
+    "item_id": "MLB7513457268",
+    "site_id": "MLB",
+    "seller_id": 1046986303,
+    "accepts_mercadopago": true,
+    "price": 519,
+    "category_id": "MLB456045",
+    "currency_id": "BRL",
+    "warranty": "Garantia de fábrica: 12 meses",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "kvs_primary",
+      "has_published_clips",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 60822,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": true,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 0
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ1NQLTY5NzA",
+        "name": "São Paulo"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      },
+      "neighborhood": {
+        "id": "TUxCQlBJTkNBUDE1MQ",
+        "name": "Pinheiros"
+      }
+    },
+    "sale_terms": [
+      {
+        "value_struct": null,
+        "id": "WARRANTY_TYPE",
+        "name": "Tipo de garantia",
+        "value_name": "Garantia de fábrica",
+        "value_id": "2230279"
+      },
+      {
+        "value_struct": {
+          "number": 12,
+          "unit": "meses"
+        },
+        "id": "WARRANTY_TIME",
+        "name": "Tempo de garantia",
+        "value_name": "12 meses",
+        "value_id": null
+      }
+    ],
+    "user_product_id": "MLBU4245895704",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB61696961",
+    "title": "Air Fryer Forno Mondial AFON-12L-GI 12L 2200W Digital 220V - Preto e Inox",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_904318-MLA99523391338_122025-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB61696961",
+    "id": "MLB7513457268",
+    "sold_quantity": 1100,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-12T22:30:39.550Z"
+}
