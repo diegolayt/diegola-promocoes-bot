@@ -1,0 +1,63 @@
+{
+  "item": {
+    "item_id": "MLB3608600095",
+    "site_id": "MLB",
+    "seller_id": 267892530,
+    "accepts_mercadopago": true,
+    "price": 219.9,
+    "category_id": "MLB9188",
+    "currency_id": "BRL",
+    "warranty": "",
+    "condition": "new",
+    "listing_type_id": "gold_pro",
+    "international_delivery_mode": "none",
+    "tier": "",
+    "inventory_id": "",
+    "tags": [
+      "extended_warranty_eligible",
+      "kvs_primary",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+    ],
+    "deal_ids": [],
+    "official_store_id": 1215,
+    "original_price": null,
+    "shipping": {
+      "free_shipping": false,
+      "store_pick_up": false,
+      "local_pick_up": false,
+      "mode": "me1",
+      "logistic_type": "default",
+      "tags": [],
+      "cost": 9.9
+    },
+    "seller_address": {
+      "city": {
+        "id": "TUxCQ0NVUjYyZmY1",
+        "name": "Curitiba"
+      },
+      "state": {
+        "id": "TUxCUFBBUkExODBlZA",
+        "name": "Paraná"
+      },
+      "neighborhood": {
+        "id": "TUxCQkNJRDM4RTVG",
+        "name": "Cidade Industrial"
+      }
+    },
+    "sale_terms": [],
+    "user_product_id": "MLBU1123975108",
+    "min_purchase_unit": 1,
+    "catalog_product_id": "MLB19434521",
+    "title": "Cafeteira Elétrica Electrolux 30 Xícaras Com Timer Ecm25 Cor Granite grey",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_619861-MLA110473667727_042026-F.jpg",
+    "permalink": "https://www.mercadolivre.com.br/p/MLB19434521",
+    "id": "MLB3608600095",
+    "sold_quantity": 900,
+    "rotationCategory": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "minPrice": 80
+  },
+  "reservedAt": "2026-10-12T22:45:41.323Z"
+}
