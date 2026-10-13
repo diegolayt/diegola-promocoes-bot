@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6234101476",
+      "site_id": "MLB",
+      "seller_id": 1168726042,
+      "accepts_mercadopago": true,
+      "price": 451,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 20,
+      "original_price": 654,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3774465555",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB14815387",
+      "title": "Lavadora Semiautomática Lcs 10kg Branca Colormaq 110v Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_715151-MLA113216371516_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB14815387",
+      "id": "MLB6234101476",
+      "sold_quantity": 1000,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB3876858111",
+      "site_id": "MLB",
+      "seller_id": 1932878227,
+      "accepts_mercadopago": true,
+      "price": 78.11,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 54823,
+      "original_price": 99.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYVmFyZ2VtIEdyYW5kZSBkbyBTdWxUVXhDV",
+          "name": "Vargem Grande do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2285989124",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB12406685",
+      "title": "Anabolic Mass 28500 3kg Profit Labs Sabor Chocolate",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_616506-MLA110075703952_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB12406685",
+      "id": "MLB3876858111",
+      "sold_quantity": 1000,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7513457270",
+      "site_id": "MLB",
+      "seller_id": 1046986303,
+      "accepts_mercadopago": true,
+      "price": 519,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 60822,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJTkNBUDE1MQ",
+          "name": "Pinheiros"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4245895858",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61697017",
+      "title": "Air Fryer Forno 12l Afon-12l-gi 2000w Digital Mondial - Preto E Inox",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_927932-MLA99506222196_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61697017",
+      "id": "MLB7513457270",
+      "sold_quantity": 1100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7761665108",
+      "site_id": "MLB",
+      "seller_id": 3595234463,
+      "accepts_mercadopago": true,
+      "price": 2247.05,
+      "category_id": "MLB1658",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439342,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4930889476",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26915018",
+      "title": "Placa de Vídeo ASRock Radeon RX 7600 8GB Challenger OC GDDR6 HDMI 2.1",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_943539-MLA99518576410_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26915018",
+      "id": "MLB7761665108",
+      "sold_quantity": 400,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-13T21:16:24.716Z"
+}
