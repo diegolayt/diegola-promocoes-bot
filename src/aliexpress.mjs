@@ -179,7 +179,7 @@ async function topicId() {
   if (process.env.TELEGRAM_MESSAGE_THREAD_ID) return Number(process.env.TELEGRAM_MESSAGE_THREAD_ID);
   const saved = await readJson(topicPath, null);
   if (saved?.id) return saved.id;
-  const topic = await telegram("createForumTopic", { chat_id: await env("TELEGRAM_CHAT_ID"), name: "🔴 AliExpress" });
+  const topic = await telegram("createForumTopic", { chat_id: await env("TELEGRAM_CHAT_ID"), name: "Promoções AliExpress" });
   await writeJson(topicPath, { id: topic.message_thread_id, criadoEm: new Date().toISOString() });
   return topic.message_thread_id;
 }
