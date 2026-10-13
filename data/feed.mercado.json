@@ -1,5 +1,19 @@
 [
  {
+  "id": "shopee-58264349169",
+  "loja": "shopee",
+  "titulo": "Cafe Grao Torrado 100% arábico 1kg",
+  "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mqp4gxnd730ge9",
+  "preco": 73.7,
+  "precoDe": 110,
+  "link": "https://s.shopee.com.br/9V2Ca8vgOe",
+  "vendidos": 111,
+  "nota": 4.9,
+  "lojaOficial": false,
+  "fonte": "cafe_cha",
+  "publicadoEm": "2026-10-13T03:45:29.915Z"
+ },
+ {
   "id": "shopee-20799205643",
   "loja": "shopee",
   "titulo": "Kit 3 Barra de Cereais Cada Caixa C/24 Unidades - Nutry",
@@ -4184,19 +4198,5 @@
   "lojaOficial": true,
   "fonte": "higiene",
   "publicadoEm": "2026-10-10T00:30:30.814Z"
- },
- {
-  "id": "shopee-22897438436",
-  "loja": "shopee",
-  "titulo": "Pasta de Amendoim Leitinho Cookies e Cream com Whey Protein 500g - Manicrem",
-  "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mswpwjyj8kcl9b",
-  "preco": 39.99,
-  "precoDe": 57.96,
-  "link": "https://s.shopee.com.br/5VVxHbLvd6",
-  "vendidos": 258,
-  "nota": 4.9,
-  "lojaOficial": true,
-  "fonte": "pasta_amendoim",
-  "publicadoEm": "2026-10-10T00:15:29.201Z"
  }
 ]
