@@ -2,8 +2,10 @@
 // "AliExpress" do grupo do Telegram.
 //   node src/aliexpress.mjs --showcase            grava data/vitrine.aliexpress.json
 //   node src/aliexpress.mjs --publish [--dry-run]  publica uma oferta ainda não enviada
+//   node src/aliexpress.mjs --receive-hot          recebe do navegador a lista "em alta" com cupons
 import { createHmac } from "node:crypto";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { createServer } from "node:http";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -13,6 +15,9 @@ const showcasePath = dataPath("vitrine.aliexpress.json");
 const feedPath = dataPath("feed.aliexpress.json");
 const statePath = dataPath("posted.aliexpress.json");
 const topicPath = dataPath("aliexpress-topic.json");
+const hotPath = dataPath("hot.aliexpress.json");
+const hotRawPath = dataPath("hot.aliexpress.bruto.json");
+const HOT_PORT = 8772;
 const PER_SOURCE = 5;
 const FEED_ITEMS = 300;
 const HISTORY_ITEMS = 800;
@@ -196,6 +201,7 @@ function feedEntry(offer) {
     nota: Math.round(percent(offer.evaluate_rate) / 2) / 10 || null,
     // Sem categoria (lista pronta do AliExpress), o site adivinha pelo título.
     ...(offer.categoria ? { categoria: offer.categoria } : {}),
+    ...(offer.cupom ? { cupom: offer.cupom.codigo } : {}),
     fonte: offer.fonte,
     publicadoEm: new Date().toISOString(),
   };
@@ -246,6 +252,8 @@ function caption(offer) {
     off ? `De <s>${money(original(offer))}</s> por <b>${money(price(offer))}</b> (${off}% OFF)` : `💥 Por <b>${money(price(offer))}</b>`,
     `⭐ ${percent(offer.evaluate_rate)}% de avaliações positivas · ${Number(offer.lastest_volume)} vendidos`,
     ...(offer.doBrasil ? ["🇧🇷 Enviado do Brasil"] : []),
+    ...(offer.cupom ? [`🎟️ Cupom <code>${escapeHtml(offer.cupom.codigo)}</code>: ${money(offer.cupom.valor)} OFF em compras acima de ${money(offer.cupom.minimo)}`] : []),
+    ...(offer.cupom && price(offer) >= offer.cupom.minimo ? [`💰 Com o cupom sai por <b>${money(price(offer) - offer.cupom.valor)}</b>`] : []),
     `🛒 <a href="${String(offer.promotion_link).replace(/&/g, "&amp;")}">Compre aqui pelo AliExpress</a>`,
     "",
     offer.doBrasil ? "⚠️ Preço e estoque podem mudar no site." : "⚠️ Preço e estoque podem mudar. Compra internacional pode ter imposto de importação.",
@@ -257,7 +265,8 @@ async function publish(dryRun) {
   const seen = new Set(history.map((entry) => entry.id));
   // Cada execução começa por uma fonte diferente, para o tópico não repetir categoria.
   const start = Math.floor(Date.now() / SLOT_MS) % FONTES.length;
-  let offer;
+  // Metade das publicações sai da lista "em alta no Brasil" (com cupom); a outra metade, das buscas.
+  let offer = Math.floor(Date.now() / SLOT_MS) % 2 === 0 ? await nextHot(seen) : null;
   for (let step = 0; step < FONTES.length && !offer; step++) {
     const source = FONTES[(start + step) % FONTES.length];
     try {
@@ -267,7 +276,7 @@ async function publish(dryRun) {
     }
   }
   if (!offer) throw new Error("Nenhuma oferta nova do AliExpress nesta execução.");
-  await shorten([offer]);
+  if (offer.fonte !== "ali_em_alta") await shorten([offer]);
   if (dryRun) {
     console.log(caption(offer));
     return;
@@ -293,7 +302,66 @@ async function publish(dryRun) {
   console.log(`Publicado: ${entry.titulo}`);
 }
 
+// "Em alta no Brasil" com cupom: a lista vem do portal de afiliados (Ad Center),
+// que só abre com login, então é coletada no navegador (aliexpress-coletor.js)
+// e mandada para cá por formulário. Aqui os links viram links de afiliado.
+function fromPortal(item) {
+  const code = item.code?.codeId ? item.code : null;
+  return {
+    product_id: String(item.id),
+    product_title: String(item.titulo || "").replace(/\s+/g, " ").trim(),
+    product_main_image_url: item.img,
+    product_detail_url: String(item.url || "").split("?")[0],
+    target_sale_price: Number(item.preco || 0),
+    target_original_price: Number(item.de || 0),
+    evaluate_rate: `${Math.round(Number(item.nota || 0) * 20)}%`,
+    lastest_volume: Number(item.vendas || 0),
+    fonte: "ali_em_alta",
+    doBrasil: false,
+    cupom: code && { codigo: code.codeId, valor: Number(code.codeValue), minimo: Number(code.codeMinimumSpending), fim: code.endTime },
+  };
+}
+
+async function receiveHot() {
+  const body = await new Promise((resolve, reject) => {
+    const server = createServer((request, response) => {
+      const chunks = [];
+      request.on("data", (chunk) => chunks.push(chunk));
+      request.on("end", () => {
+        response.writeHead(200, { "Content-Type": "text/plain; charset=utf-8" });
+        if (request.method !== "POST") return response.end("Envie a coleta por POST.");
+        response.end("Recebido. Veja o resultado no terminal.");
+        server.close();
+        resolve(Buffer.concat(chunks).toString("utf8"));
+      });
+    }).listen(HOT_PORT, "127.0.0.1", () => console.log(`Esperando a coleta em http://127.0.0.1:${HOT_PORT} ...`));
+    setTimeout(() => { server.close(); reject(new Error("Nada recebido em 20 minutos.")); }, 20 * 60_000).unref();
+  });
+  const items = JSON.parse(body.startsWith("dados=") ? new URLSearchParams(body).get("dados") : body);
+  const unique = new Map(items.map(fromPortal)
+    .filter((offer) => price(offer) >= 25 && percent(offer.evaluate_rate) >= 90 && offer.lastest_volume >= 100 && offer.product_main_image_url
+      && !BLOCKED.some((term) => plain(offer.product_title).includes(term)) && !/calcinha|lingerie|sutia|cueca/.test(plain(offer.product_title)))
+    .map((offer) => [offer.product_id, offer]));
+  const offers = (await shorten([...unique.values()])).filter((offer) => offer.promotion_link);
+  console.log(`Em alta no AliExpress: ${offers.length} de ${items.length} recebidos (${offers.filter((offer) => offer.cupom).length} com cupom).`);
+  // Coleta fraca (portal deslogado, página mudou) não apaga a lista anterior.
+  if (offers.length < 30) throw new Error("Coleta fraca; arquivos mantidos.");
+  const now = new Date().toISOString();
+  await writeJson(hotRawPath, offers.map((offer) => ({ ...offer, coletadoEm: now })));
+  await writeJson(hotPath, offers.map(feedEntry));
+}
+
+// Oferta em alta ainda válida (coletada há menos de 72h, cupom dentro do prazo) e não publicada.
+async function nextHot(seen) {
+  const limit = Date.now() - 72 * 3_600_000;
+  const valid = (await readJson(hotRawPath, [])).filter((offer) => Date.parse(offer.coletadoEm) > limit && !seen.has(String(offer.product_id))
+    && (!offer.cupom || Date.parse(offer.cupom.fim.replace(" ", "T")) > Date.now() + 24 * 3_600_000));
+  // A lista vem com produtos parecidos em sequência; saltar pela lista evita repetir o mesmo tipo.
+  return valid[(Math.floor(Date.now() / SLOT_MS) * 37) % (valid.length || 1)];
+}
+
 const args = process.argv.slice(2);
-if (args.includes("--showcase")) await buildShowcase();
+if (args.includes("--receive-hot")) await receiveHot();
+else if (args.includes("--showcase")) await buildShowcase();
 else if (args.includes("--publish")) await publish(args.includes("--dry-run"));
 else console.log("Use --showcase ou --publish [--dry-run].");
