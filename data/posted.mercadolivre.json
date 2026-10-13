@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5934587642",
-    "productKey": "4c9a2bafeaf753b68d76d2697d82a1f50e4365954677548c675f31c4fc517f92",
-    "titleHash": "17682e2f317c0d59ad0ceb2dee4dcade6ff0306acf001e3a1b4be3c066e3cec8",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-01T22:30:33.314Z"
-  },
-  {
-    "itemId": "MLB4452264949",
-    "productKey": "d85d9a112674f27de4e3eeab99b7f13a39a3532c8a2bfe55912a38450042b337",
-    "titleHash": "53db776e88590465909ce35cb4c15f91cdf6870fe3fed2d60c85d3f239e228dd",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-01T22:45:39.659Z"
-  },
-  {
-    "itemId": "MLB4046267101",
-    "productKey": "94515ec2fc819af06ca497f17e15218cb50622fa18aa0a1ea1dc640b6636e9a5",
-    "titleHash": "2602411dd1f9a94a895e25e22245277d9d6669f2ea22b68c863e6ec7eff2ae3f",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-01T23:00:38.710Z"
-  },
-  {
-    "itemId": "MLB7347909130",
-    "productKey": "97325fa9138e7ad5d21f5a69bea489d88f68d084dec432f93114b441fe8c4f87",
-    "titleHash": "c63014cebd9480cad16899e25f10a5f8591909fdfbeafe2857974115c8461104",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-01T23:15:27.779Z"
-  },
-  {
     "itemId": "MLB5260023429",
     "productKey": "5c15702ed6d4f3bb94028e1c2a701f8d7ac8eb0d1bcdd93306b98f7be567c171",
     "titleHash": "eab2d9165b0159cb5f5c19e7b4d6eec7f7fb82294fcd4477370af0121e27625d",
@@ -4798,5 +4766,37 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-13T22:31:23.784Z"
+  },
+  {
+    "itemId": "MLB4415922197",
+    "productKey": "f1eff9eced4a288f",
+    "titleHash": "cc08d37274c23394",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-13T22:46:23.118Z"
+  },
+  {
+    "itemId": "MLB3966803973",
+    "productKey": "ab95e285844c979e",
+    "titleHash": "1da1223a6945e333",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-13T22:46:23.118Z"
+  },
+  {
+    "itemId": "MLB5130081305",
+    "productKey": "a2a3edc1809c6c6b",
+    "titleHash": "b14b8b4878c17f55",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-13T22:46:23.118Z"
+  },
+  {
+    "itemId": "MLB5380860757",
+    "productKey": "3ae67792fdb583fa",
+    "titleHash": "25054d9ac727dd22",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-13T22:46:23.118Z"
   }
 ]
