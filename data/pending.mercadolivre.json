@@ -1,0 +1,321 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7377413084",
+      "site_id": "MLB",
+      "seller_id": 260466799,
+      "accepts_mercadopago": true,
+      "price": 1849,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1118,
+      "original_price": 2149,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 39.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BPTjJjY2I5",
+          "name": "Ponta Grossa"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJPTjI4RjA3",
+          "name": "Ronda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3769339961",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61372818",
+      "title": "Máquina de Lavar Brastemp 14Kg Branca Smart Sensor- BWJ14AB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_986650-MLA96608230621_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61372818",
+      "id": "MLB7377413084",
+      "sold_quantity": 1400,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB5079124123",
+      "site_id": "MLB",
+      "seller_id": 1349412023,
+      "accepts_mercadopago": true,
+      "price": 268.99,
+      "category_id": "MLB23332",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "user_product_unify",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 309.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBT2Q1YzMy",
+          "name": "São João Batista"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4265472732",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB68410017",
+      "title": "Fila Rise Up Masculino",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_992958-MLA109851144816_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB68410017",
+      "id": "MLB5079124123",
+      "sold_quantity": 1200,
+      "rotationCategory": "calçado",
+      "sourceCategoryId": "MLB23262",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4201839131",
+      "site_id": "MLB",
+      "seller_id": 14933621,
+      "accepts_mercadopago": true,
+      "price": 395,
+      "category_id": "MLB6777",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5532,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3419756392",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65084012",
+      "title": "Fonte Cooler Master Mwe 750 V3 750w Atx 3.1 Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_663942-MLA116503586141_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65084012",
+      "id": "MLB4201839131",
+      "sold_quantity": 1000,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB4810872029",
+      "site_id": "MLB",
+      "seller_id": 50961577,
+      "accepts_mercadopago": true,
+      "price": 479,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0RPVWQwOTQz",
+          "name": "Dourados"
+        },
+        "state": {
+          "id": "TUxCUE1BVEw4ZTc",
+          "name": "Mato Grosso do Sul"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU4142074667",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17978326",
+      "title": "SSD Kingston A400 480GB SATA III 2.5\" 500MB/s SA400S37/480G",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_890700-MLA99502433930_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17978326",
+      "id": "MLB4810872029",
+      "sold_quantity": 200,
+      "rotationCategory": "armazenamento",
+      "sourceCategoryId": "MLB430598",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-10-13T15:45:46.904Z"
+}
