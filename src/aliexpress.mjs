@@ -17,37 +17,54 @@ const PER_SOURCE = 5;
 const FEED_ITEMS = 300;
 const HISTORY_ITEMS = 800;
 const SLOT_MS = 30 * 60_000;
-const BLOCKED = ["replica", "1:1", "usado", "used", "refurbished", "recondicionad", "adult", "sexy", "erotic", "vape", "cigarr", "knife", "faca tatica", "airsoft", "spy", "espia"];
+const BLOCKED = ["replica", "1:1", "adult", "sexy", "erotic", "vape", "cigarr", "knife", "faca tatica", "airsoft", "spy", "espia"];
+const USED = ["usado", "usada", "used", "refurbished", "recondicionad", "seminov"];
 
 // Buscas em inglês rendem mais resultado; o título volta em português.
-// "categoria" é a do site e "min" é o preço mínimo em reais.
+// "categoria" é a do site e "min" é o preço mínimo em reais. Opcionais:
+// "exige"/"evita" (padrões no título sem acento), "usados" (aceita peça usada,
+// comum em placa de vídeo e processador), "nota"/"vendas" (régua própria) e
+// "promo" (lista pronta do AliExpress em vez de busca).
 const FONTES = [
-  { nome: "ali_smartphone", categoria: "Celulares", busca: "smartphone global version", min: 400 },
-  { nome: "ali_carregador", categoria: "Celulares", busca: "gan charger usb c", min: 40 },
-  { nome: "ali_powerbank", categoria: "Celulares", busca: "power bank 20000mah", min: 60 },
-  { nome: "ali_fone", categoria: "Áudio e TV", busca: "bluetooth earbuds", min: 50 },
+  { nome: "ali_smartphone", categoria: "Celulares", busca: "smartphone global version", min: 400, exige: /smartphone|celular|telefone/, evita: /capa|pelicula|suporte|alto-falante|caixa de som/ },
+  { nome: "ali_carregador", categoria: "Celulares", busca: "gan charger usb c", min: 40, exige: /carregador/ },
+  { nome: "ali_powerbank", categoria: "Celulares", busca: "power bank 20000mah", min: 60, exige: /power ?bank|bateria (externa|portatil)|carregador portatil/, evita: /ventilador|radio|caixa carregadora|diy|lanterna/ },
+  { nome: "ali_fone", categoria: "Áudio e TV", busca: "bluetooth earbuds", min: 50, exige: /fone|earbud|headphone|headset/ },
   { nome: "ali_tvbox", categoria: "Áudio e TV", busca: "tv stick 4k", min: 100 },
-  { nome: "ali_projetor", categoria: "Áudio e TV", busca: "projector 1080p", min: 250 },
-  { nome: "ali_ssd", categoria: "Informática", busca: "ssd nvme 1tb", min: 150 },
-  { nome: "ali_teclado", categoria: "Informática", busca: "mechanical keyboard", min: 100 },
-  { nome: "ali_mouse", categoria: "Informática", busca: "wireless gaming mouse", min: 60 },
-  { nome: "ali_tablet", categoria: "Informática", busca: "tablet android", min: 400 },
-  { nome: "ali_minipc", categoria: "Informática", busca: "mini pc", min: 600 },
-  { nome: "ali_controle", categoria: "Games", busca: "wireless gamepad controller", min: 80 },
-  { nome: "ali_portatil", categoria: "Games", busca: "handheld game console", min: 150 },
+  { nome: "ali_projetor", categoria: "Áudio e TV", busca: "projector 1080p", min: 250, exige: /projetor/ },
+  { nome: "ali_ssd", categoria: "Informática", busca: "ssd nvme 1tb", min: 150, exige: /ssd|nvme/ },
+  { nome: "ali_ram", categoria: "Informática", busca: "ddr4 16gb ram desktop", min: 80, exige: /ddr[345]|memoria/, usados: true },
+  { nome: "ali_ram_notebook", categoria: "Informática", busca: "ddr4 sodimm laptop ram", min: 80, exige: /ddr[345]|memoria/, usados: true },
+  { nome: "ali_placa_video", categoria: "Informática", busca: "rx 580 graphics card", min: 300, exige: /placa (de video|grafica)|rtx|gtx|rx ?\d{3,4}|radeon|geforce/, evita: /suporte|cabo|riser|cooler|ventoinha/, usados: true, nota: 88, vendas: 20 },
+  { nome: "ali_placa_video_rtx", categoria: "Informática", busca: "rtx graphics card", min: 600, exige: /placa (de video|grafica)|rtx|gtx|radeon|geforce/, evita: /suporte|cabo|riser|cooler|ventoinha/, usados: true, nota: 88, vendas: 20 },
+  { nome: "ali_processador", categoria: "Informática", busca: "ryzen 5 cpu processor", min: 200, exige: /processador|ryzen|xeon|core i[3579]|cpu/, evita: /cooler|ventoinha|pasta termica|suporte/, usados: true, nota: 88, vendas: 20 },
+  { nome: "ali_kit_xeon", categoria: "Informática", busca: "x99 motherboard kit xeon", min: 300, exige: /x99|x79|placa[- ]mae|motherboard/, usados: true, nota: 88, vendas: 20 },
+  { nome: "ali_placa_mae", categoria: "Informática", busca: "b450 motherboard", min: 300, exige: /placa[- ]mae|motherboard/, usados: true, nota: 88, vendas: 20 },
+  { nome: "ali_cooler", categoria: "Informática", busca: "cpu air cooler", min: 60, exige: /cooler|ventoinha|refrigera/ },
+  { nome: "ali_fonte_pc", categoria: "Informática", busca: "pc power supply 600w", min: 150, exige: /fonte|psu|alimentacao/ },
+  { nome: "ali_monitor", categoria: "Informática", busca: "gaming monitor 144hz", min: 500, exige: /monitor/, evita: /suporte|braco/ },
+  { nome: "ali_teclado", categoria: "Informática", busca: "mechanical keyboard", min: 100, exige: /teclado/ },
+  { nome: "ali_mouse", categoria: "Informática", busca: "wireless gaming mouse", min: 60, exige: /mouse/ },
+  { nome: "ali_tablet", categoria: "Informática", busca: "tablet android", min: 400, exige: /tablet/, evita: /capa|suporte|pelicula/ },
+  { nome: "ali_minipc", categoria: "Informática", busca: "mini pc", min: 600, exige: /mini ?pc|computador/ },
+  { nome: "ali_camera", categoria: "Informática", busca: "wifi security camera", min: 80, exige: /camera/ },
+  { nome: "ali_controle", categoria: "Games", busca: "wireless gamepad controller", min: 80, exige: /controle|gamepad|joystick/ },
+  { nome: "ali_portatil", categoria: "Games", busca: "handheld game console", min: 150, exige: /console|portatil|videogame|video game/ },
+  { nome: "ali_retro", categoria: "Games", busca: "retro handheld game console 10000 games", min: 80, exige: /console|portatil|retro|videogame|video game/ },
+  { nome: "ali_game_stick", categoria: "Games", busca: "game stick 4k retro tv", min: 80, exige: /game ?stick|console|retro/ },
   { nome: "ali_smartwatch", categoria: "Moda", busca: "smartwatch", min: 80 },
-  { nome: "ali_mochila", categoria: "Moda", busca: "laptop backpack", min: 80 },
-  { nome: "ali_aspirador", categoria: "Eletrodomésticos", busca: "robot vacuum cleaner", min: 400 },
-  { nome: "ali_airfryer", categoria: "Eletrodomésticos", busca: "air fryer", min: 200 },
+  { nome: "ali_mochila", categoria: "Moda", busca: "laptop backpack", min: 80, exige: /mochila/ },
+  { nome: "ali_aspirador", categoria: "Eletrodomésticos", busca: "robot vacuum cleaner", min: 400, exige: /aspirador/ },
+  { nome: "ali_airfryer", categoria: "Eletrodomésticos", busca: "air fryer", min: 200, exige: /air ?fryer|fritadeira/ },
   { nome: "ali_led", categoria: "Casa", busca: "led strip lights rgb", min: 30 },
   { nome: "ali_parafusadeira", categoria: "Casa", busca: "cordless electric screwdriver", min: 80 },
-  { nome: "ali_camera", categoria: "Informática", busca: "wifi security camera", min: 80 },
   { nome: "ali_barbeador", categoria: "Beleza", busca: "electric shaver men", min: 60 },
-  { nome: "ali_secador", categoria: "Beleza", busca: "hair dryer", min: 80 },
+  { nome: "ali_secador", categoria: "Beleza", busca: "hair dryer", min: 80, exige: /secador/ },
   { nome: "ali_blocos", categoria: "Brinquedos", busca: "building blocks set", min: 60 },
   { nome: "ali_bike", categoria: "Esportes", busca: "bicycle light", min: 40 },
+  // Os mais vendidos entre os que saem de estoque no Brasil (chegam rápido e sem imposto de importação).
+  { nome: "ali_envio_brasil", promo: "AEB_BR_ShipFromBR_20241114", min: 40, doBrasil: true },
 ];
-
 let envFile;
 async function env(name, fallback) {
   if (envFile === undefined) {
@@ -94,6 +111,19 @@ async function api(method, parameters) {
 }
 
 async function search(source, page) {
+  if (source.promo) {
+    const result = await api("aliexpress.affiliate.featuredpromo.products.get", {
+      promotion_name: source.promo,
+      page_no: String(page),
+      page_size: "50",
+      sort: "volumeDesc",
+      country: "BR",
+      target_currency: "BRL",
+      target_language: "PT",
+      tracking_id: await env("ALIEXPRESS_TRACKING_ID", "default"),
+    });
+    return result?.products?.product || [];
+  }
   const result = await api("aliexpress.affiliate.product.query", {
     keywords: source.busca,
     min_sale_price: String(Math.round(source.min * 100)),
@@ -117,15 +147,17 @@ const score = (offer) => Math.min(discount(offer), 60) * 0.6 + Math.log10(Number
 
 function good(offer, source) {
   const name = plain(offer.product_title);
-  return price(offer) >= source.min && percent(offer.evaluate_rate) >= 92 && Number(offer.lastest_volume || 0) >= 50
+  return price(offer) >= source.min && percent(offer.evaluate_rate) >= (source.nota || 92) && Number(offer.lastest_volume || 0) >= (source.vendas || 50)
     && discount(offer) >= 10 && discount(offer) <= 80 && offer.promotion_link && offer.product_main_image_url
+    && (!source.exige || source.exige.test(name)) && (!source.evita || !source.evita.test(name))
+    && (source.usados || !USED.some((term) => name.includes(term)))
     && !BLOCKED.some((term) => name.includes(term));
 }
 
 async function bestOf(source, pages = 2) {
   const offers = [];
   for (let page = 1; page <= pages; page++) offers.push(...await search(source, page));
-  const unique = new Map(offers.filter((offer) => good(offer, source)).map((offer) => [String(offer.product_id), { ...offer, fonte: source.nome, categoria: source.categoria }]));
+  const unique = new Map(offers.filter((offer) => good(offer, source)).map((offer) => [String(offer.product_id), { ...offer, fonte: source.nome, categoria: source.categoria, doBrasil: Boolean(source.doBrasil) }]));
   return [...unique.values()].sort((a, b) => score(b) - score(a));
 }
 
@@ -162,7 +194,8 @@ function feedEntry(offer) {
     link: offer.promotion_link,
     vendidos: Number(offer.lastest_volume || 0),
     nota: Math.round(percent(offer.evaluate_rate) / 2) / 10 || null,
-    categoria: offer.categoria,
+    // Sem categoria (lista pronta do AliExpress), o site adivinha pelo título.
+    ...(offer.categoria ? { categoria: offer.categoria } : {}),
     fonte: offer.fonte,
     publicadoEm: new Date().toISOString(),
   };
@@ -212,9 +245,10 @@ function caption(offer) {
     "",
     off ? `De <s>${money(original(offer))}</s> por <b>${money(price(offer))}</b> (${off}% OFF)` : `💥 Por <b>${money(price(offer))}</b>`,
     `⭐ ${percent(offer.evaluate_rate)}% de avaliações positivas · ${Number(offer.lastest_volume)} vendidos`,
+    ...(offer.doBrasil ? ["🇧🇷 Enviado do Brasil"] : []),
     `🛒 <a href="${String(offer.promotion_link).replace(/&/g, "&amp;")}">Compre aqui pelo AliExpress</a>`,
     "",
-    "⚠️ Preço e estoque podem mudar. Compra internacional pode ter imposto de importação.",
+    offer.doBrasil ? "⚠️ Preço e estoque podem mudar no site." : "⚠️ Preço e estoque podem mudar. Compra internacional pode ter imposto de importação.",
   ].join("\n");
 }
 
