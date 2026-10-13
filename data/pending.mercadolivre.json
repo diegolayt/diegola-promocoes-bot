@@ -1,0 +1,159 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6112190914",
+      "site_id": "MLB",
+      "seller_id": 1046986303,
+      "accepts_mercadopago": true,
+      "price": 406.9,
+      "category_id": "MLB120294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 60822,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 9.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJTkNBUDE1MQ",
+          "name": "Pinheiros"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3670124268",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47944518",
+      "title": "Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com Aplicador De Detergente E Lança Regulável",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_894333-MLA115546000124_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47944518",
+      "id": "MLB6112190914",
+      "sold_quantity": 1200,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB5354562655",
+      "site_id": "MLB",
+      "seller_id": 1874030747,
+      "accepts_mercadopago": true,
+      "price": 350,
+      "category_id": "MLB5412",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHppb3g3",
+          "name": "Vila Moinho Velho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5444702268",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65038132",
+      "title": "Secador De Cabelos Bsd15a Rosa Com Rosê",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_839229-MLA111085616947_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65038132",
+      "id": "MLB5354562655",
+      "sold_quantity": 200,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-13T19:16:30.742Z"
+}
