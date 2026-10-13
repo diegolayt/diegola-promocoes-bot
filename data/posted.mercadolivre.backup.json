@@ -4214,5 +4214,37 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-13T16:01:01.453Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-13T16:16:14.299Z"
+  },
+  {
+    "itemId": "MLB5384284337",
+    "productKey": "f2cc121a987258d9",
+    "titleHash": "6d8e200943d2f5c5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-13T16:16:14.299Z"
+  },
+  {
+    "itemId": "MLB6166950734",
+    "productKey": "c0b3029c49551398",
+    "titleHash": "0dea28415ed27e40",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-13T16:16:14.299Z"
+  },
+  {
+    "itemId": "MLB7664832664",
+    "productKey": "ef60b543f7ca8673",
+    "titleHash": "0f1343e7b07c7865",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-13T16:16:14.299Z"
   }
 ]
