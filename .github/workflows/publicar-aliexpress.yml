@@ -30,8 +30,8 @@ jobs:
       - name: Publicar no Telegram
         run: |
           publicadas=0
-          for rodada in 1 2 3 4; do
-            if node src/aliexpress.mjs --publish; then publicadas=$((publicadas + 1)); else break; fi
+          for passo in 0 1 2 3; do
+            if ALI_PASSO=$passo node src/aliexpress.mjs --publish; then publicadas=$((publicadas + 1)); else break; fi
             sleep 4
           done
           echo "Ofertas publicadas: $publicadas"
