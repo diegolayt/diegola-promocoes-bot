@@ -16,10 +16,10 @@ const FEED_ITEMS = 300;
 const ROTATION_ITEMS = 600;
 const SLOT_MS = 15 * 60_000;
 const CATEGORY_ROTATION_ITEMS = 12;
-const MAX_API_CALLS = 28;
+const MAX_API_CALLS = 45;
 const MIN_REQUEST_INTERVAL_MS = 750;
 const CATEGORIES_PER_RUN = 4;
-const HIGHLIGHTS_PER_CATEGORY = 2;
+const HIGHLIGHTS_PER_CATEGORY = 3;
 // A vitrine do site consulta muito mais que uma rodada normal, então roda com
 // um teto próprio, mais devagar e esperando quando a API pede para esperar.
 const SHOWCASE_MAX_CALLS = 750;
@@ -259,8 +259,15 @@ async function searchProducts(token, categoryId, category, history, sampleOffset
     const key = fingerprint(highlight.id);
     return !recent.some((entry) => sameHash(entry.productKey, key) || entry.itemId === highlight.id);
   });
-  const offset = content.length ? sampleOffset % content.length : 0;
-  const sample = [...content.slice(offset), ...content.slice(0, offset)].slice(0, HIGHLIGHTS_PER_CATEGORY);
+  // Anúncio avulso (ITEM) quase sempre volta 403 nesta aplicação e só gasta
+  // consulta; fica como último recurso, quando a categoria não tem produto de catálogo.
+  const products = content.filter((highlight) => highlight.type === "PRODUCT");
+  const pool = products.length ? products : content;
+  // A amostra também anda com o relógio: antes, um par recusado (preço mínimo,
+  // título repetido) era consultado de novo em toda rodada e a categoria travava.
+  const turn = Math.floor(Date.now() / SLOT_MS) * HIGHLIGHTS_PER_CATEGORY;
+  const offset = pool.length ? (sampleOffset + turn) % pool.length : 0;
+  const sample = [...pool.slice(offset), ...pool.slice(0, offset)].slice(0, HIGHLIGHTS_PER_CATEGORY);
   for (const highlight of sample) {
     try {
       const item = await resolveHighlight(token, highlight, category);
