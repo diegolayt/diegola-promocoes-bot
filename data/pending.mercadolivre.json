@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4803658086",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 153.05,
+      "category_id": "MLB264715",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "dynamic_standard_price",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 193.48,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU597989859",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25327723",
+      "title": "Escova Secadora Philco Pes19sg 3 Acessórios 1300w Cor Prata",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_677760-MLA99871074989_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25327723",
+      "id": "MLB4803658086",
+      "sold_quantity": 800,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4604327726",
+      "site_id": "MLB",
+      "seller_id": 1426398299,
+      "accepts_mercadopago": true,
+      "price": 569.9,
+      "category_id": "MLB180387",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1215,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBDYXJsb3NUVXhDVUZOQlQwODVOM",
+          "name": "São Carlos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU2271200990",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26981065",
+      "title": "Purificador De Água Electrolux Gelada/fria/natural Pe11x Bivolt Prateado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_827641-MLU76394011194_052024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26981065",
+      "id": "MLB4604327726",
+      "sold_quantity": 1800,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-13T19:31:28.332Z"
+}
