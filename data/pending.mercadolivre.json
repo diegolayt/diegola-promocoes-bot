@@ -1,0 +1,283 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3854074921",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 153.32,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "good_quality_thumbnail",
+        "first_party",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 289,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU710205388",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18947494",
+      "title": "Creatina Vitafor Creafort Creapure Creafort pote 300g Sem sabor x 300g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_891763-MLA111596907303_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18947494",
+      "id": "MLB3854074921",
+      "sold_quantity": 1400,
+      "rotationCategory": "fitness",
+      "sourceCategoryId": "MLB1338",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6943752224",
+      "site_id": "MLB",
+      "seller_id": 795325396,
+      "accepts_mercadopago": true,
+      "price": 73.8,
+      "category_id": "MLB189908",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "dynamic_standard_price",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 295922,
+      "original_price": 123,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSW5kYWlhdHViYVRVeENVRk5CVDA4NU4yR",
+          "name": "Indaiatuba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ29tZXJjaWFsIFZpdG9yaWEgTWFydGlua",
+          "name": "Comercial Vitoria Martini"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3973355499",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB70068978",
+      "title": "Fita Led Cob 10 Metros Direto Na Rede 150w/ 320led Perfil Branco Neutro 110v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_656136-MLA112002895217_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB70068978",
+      "id": "MLB6943752224",
+      "sold_quantity": 800,
+      "rotationCategory": "iluminação",
+      "sourceCategoryId": "MLB1582",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4392315273",
+      "site_id": "MLB",
+      "seller_id": 840561163,
+      "accepts_mercadopago": true,
+      "price": 209.89,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "catalog_boost",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1811,
+      "original_price": 249.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBT2ViMzg2",
+          "name": "São José"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3431668296",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53403093",
+      "title": "Câmera Inteligente Intelbras Ime 360 3mp Visão 360 Wi-fi Cor Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_913608-MLA99464199898_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53403093",
+      "id": "MLB4392315273",
+      "sold_quantity": 800,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7398437480",
+      "site_id": "MLB",
+      "seller_id": 1023263156,
+      "accepts_mercadopago": true,
+      "price": 449.99,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 430068,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_out",
+          "fbm_in_process",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4681960077",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB76353767",
+      "title": "Drone Greendles GT8 Profissional 4K Com Câmera, 2 Baterias e Tela no Controle",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_940975-MLA115594984843_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB76353767",
+      "id": "MLB7398437480",
+      "sold_quantity": 500,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-10-13T16:46:02.580Z"
+}
