@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4057447935",
-    "productKey": "12fbac5f802ec459bdcc4023619f33c15d25e953220ac925bd0ef51f392fe9c9",
-    "titleHash": "fa2696c2972f88f4a626bcc1588b2383447d57314b378966f466daf5324a3dc7",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-02T04:00:34.818Z"
-  },
-  {
-    "itemId": "MLB4671001440",
-    "productKey": "de330e271b690a16a0fe3ea13faff27e11405b2d04dbea7c0eb4f59583d450da",
-    "titleHash": "ee59843d9f1c91fc3782cceae9e642a58b8fb967229e16b54d3657840c0d43f6",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-02T04:15:37.681Z"
-  },
-  {
-    "itemId": "MLB4289780029",
-    "productKey": "9b55661115fd896bf222b1f1b9afd608f1f15a0b36955776a604f7905d970136",
-    "titleHash": "d5bb0c95b91a66552a6efe552fe704bb52201a7dcdd76ff27e7c83466fc3f793",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-02T04:30:31.569Z"
-  },
-  {
     "itemId": "MLB7635087138",
     "productKey": "7c972cb1c1f2297f89235adb68d4491aa20f2251ec70cc67c34f3dd2a63505d1",
     "titleHash": "a264f7d00f58e910e7c376155c652574f31e49ad067f43b0f0fcb780c61979e7",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-13T23:01:33.857Z"
+  },
+  {
+    "itemId": "MLB4771398286",
+    "productKey": "12bdcfabca3caf4e",
+    "titleHash": "f71509e0a3defcad",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-13T23:16:22.147Z"
+  },
+  {
+    "itemId": "MLB5402372302",
+    "productKey": "bf86873401aafdee",
+    "titleHash": "b95467ee86ed620d",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-13T23:16:22.148Z"
+  },
+  {
+    "itemId": "MLB7597764124",
+    "productKey": "d042f8f81af2c69f",
+    "titleHash": "f8fc4194f2663a29",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-13T23:16:22.148Z"
   }
 ]
