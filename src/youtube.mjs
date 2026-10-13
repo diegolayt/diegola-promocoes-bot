@@ -9,7 +9,6 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const statePath = resolve(root, "data/youtube.json");
 const dryRun = process.argv.includes("--dry-run");
 
-const CHANNEL_ID = process.env.YOUTUBE_CHANNEL_ID || "UCaRDttbPh8WcogMeMiR9uBg";
 const HANDLE = process.env.YOUTUBE_HANDLE || "@diegola021";
 const CHAT_ID = process.env.YOUTUBE_TELEGRAM_CHAT_ID || "@Diegolanftweb3";
 const MAX_POR_VEZ = 2;
@@ -30,13 +29,8 @@ async function page(url) {
   return response.text();
 }
 
-// O feed oficial costuma falhar; a aba "Vídeos" do canal é a reserva (não traz Shorts nem lives).
+// Só a aba "Vídeos" do canal: o feed oficial mistura Shorts e lives, e já fez o bot avisar Short antigo.
 async function listar() {
-  try {
-    const xml = await page(`https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}`);
-    const ids = unique([...xml.matchAll(/<yt:videoId>([\w-]{11})<\/yt:videoId>/g)].map((m) => m[1]));
-    if (ids.length) return ids;
-  } catch {}
   const html = await page(`https://www.youtube.com/${HANDLE}/videos`);
   const ids = unique([...html.matchAll(/"contentId":"([\w-]{11})"/g)].map((m) => m[1]));
   if (!ids.length) throw new Error("Não achei nenhum vídeo na página do canal.");
@@ -98,10 +92,16 @@ async function main() {
   } catch {}
 
   if (!state) {
-    console.log(`Primeira execução: ${ids.length} vídeos guardados, nada publicado.`);
+    // Estreia agendada (só pode estar entre os mais recentes) fica de fora, para ser avisada quando sair.
+    const vistos = [];
+    for (const [i, id] of ids.entries()) {
+      if (i < 3 && (await aindaNaoSaiu(id))) continue;
+      vistos.push(id);
+    }
+    console.log(`Primeira execução: ${vistos.length} vídeos guardados, nada publicado.`);
     if (!dryRun) {
       await mkdir(dirname(statePath), { recursive: true });
-      await writeFile(statePath, `${JSON.stringify({ vistos: ids }, null, 2)}\n`);
+      await writeFile(statePath, `${JSON.stringify({ vistos }, null, 2)}\n`);
     }
     return;
   }
