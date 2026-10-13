@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5260023429",
-    "productKey": "5c15702ed6d4f3bb94028e1c2a701f8d7ac8eb0d1bcdd93306b98f7be567c171",
-    "titleHash": "eab2d9165b0159cb5f5c19e7b4d6eec7f7fb82294fcd4477370af0121e27625d",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-02T03:15:27.671Z"
-  },
-  {
-    "itemId": "MLB7358069070",
-    "productKey": "bf86873401aafdee93072c4ae95b4656a5008795661ccab139a818826bddaef4",
-    "titleHash": "b95467ee86ed620d737fa61e0a84d6287ddeeee268df20574fcb6be3f0b038a4",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-02T03:30:37.796Z"
-  },
-  {
-    "itemId": "MLB5108369965",
-    "productKey": "a9dd8ff2b914849e3fcd2ae3963ff748a9074d2927665b6bb4ee8ee3b41723f7",
-    "titleHash": "bf0fa0934c37b08112bad02e9597e0857b265709ebdc8c23b535a8f80d78687b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-02T03:45:31.324Z"
-  },
-  {
     "itemId": "MLB4057447935",
     "productKey": "12fbac5f802ec459bdcc4023619f33c15d25e953220ac925bd0ef51f392fe9c9",
     "titleHash": "fa2696c2972f88f4a626bcc1588b2383447d57314b378966f466daf5324a3dc7",
@@ -4798,5 +4774,29 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-13T22:46:23.118Z"
+  },
+  {
+    "itemId": "MLB5106493651",
+    "productKey": "851494f04904610e",
+    "titleHash": "3f3055db5e5f2d44",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-13T23:01:33.857Z"
+  },
+  {
+    "itemId": "MLB6666918416",
+    "productKey": "9f78f29633b289d2",
+    "titleHash": "8068712b03430b55",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-13T23:01:33.857Z"
+  },
+  {
+    "itemId": "MLB6400344928",
+    "productKey": "d6cc0984381470cf",
+    "titleHash": "a33e46855fcff71c",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-13T23:01:33.857Z"
   }
 ]
