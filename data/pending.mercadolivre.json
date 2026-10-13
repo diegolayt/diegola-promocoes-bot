@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5230433185",
+      "site_id": "MLB",
+      "seller_id": 1915776735,
+      "accepts_mercadopago": true,
+      "price": 458.99,
+      "category_id": "MLB3095",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 249022,
+      "original_price": 1111.1,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNIwWN2anNp",
+          "name": "Chácara Mafalda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3401757324",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78878036",
+      "title": "Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante e Display LCD",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA117138558111_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78878036",
+      "id": "MLB5230433185",
+      "sold_quantity": 700,
+      "rotationCategory": "fitness",
+      "sourceCategoryId": "MLB1338",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-13T20:00:59.513Z"
+}
