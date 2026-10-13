@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4243087779",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 1599,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 343,
+      "original_price": 1699,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 39.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3458465762",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB59322248",
+      "title": "Máquina De Lavar Branca Consul 12kg Com Dosagem Econômica E Cor Branco 110v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_612560-MLA99968162739_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB59322248",
+      "id": "MLB4243087779",
+      "sold_quantity": 1700,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB4604473486",
+      "site_id": "MLB",
+      "seller_id": 353148713,
+      "accepts_mercadopago": true,
+      "price": 3419,
+      "category_id": "MLB1652",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2053,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1168114246",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35715045",
+      "title": "Notebook ASUS VivoBook Go 15, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, KeepOS/Linux, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_737034-MLU75570682760_042024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35715045",
+      "id": "MLB4604473486",
+      "sold_quantity": 500,
+      "rotationCategory": "notebook",
+      "sourceCategoryId": "MLB430687",
+      "minPrice": 900
+    }
+  ],
+  "reservedAt": "2026-10-13T18:16:51.506Z"
+}
