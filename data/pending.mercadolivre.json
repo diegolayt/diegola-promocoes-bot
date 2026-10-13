@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7707499492",
+      "site_id": "MLB",
+      "seller_id": 267149738,
+      "accepts_mercadopago": true,
+      "price": 225,
+      "category_id": "MLB196208",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJhaWEgR3JhbmRlVFV4Q1VGTkJUMDg1T",
+          "name": "Praia Grande"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYTm92YSBNaXJpbVRWaFlVSEpoYVdFZ1IzS",
+          "name": "Nova Mirim"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5279553765",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52039200",
+      "title": "Samsung Galaxy Buds Core branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_967872-MLA87279987383_072025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52039200",
+      "id": "MLB7707499492",
+      "sold_quantity": 1500,
+      "rotationCategory": "som",
+      "sourceCategoryId": "MLB3835",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7772262436",
+      "site_id": "MLB",
+      "seller_id": 1874030747,
+      "accepts_mercadopago": true,
+      "price": 350,
+      "category_id": "MLB5412",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHppb3g3",
+          "name": "Vila Moinho Velho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5444695698",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65036528",
+      "title": "Secador de Cabelo Britânia Motor BLDC 1450W BSD15A",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_797556-MLA112324517294_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65036528",
+      "id": "MLB7772262436",
+      "sold_quantity": 200,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7802452252",
+      "site_id": "MLB",
+      "seller_id": 346422675,
+      "accepts_mercadopago": true,
+      "price": 67.35,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 43.282944
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBKb3PDqSBkbyBSaW8gUHJldG9UV",
+          "name": "São José do Rio Preto"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ29uanVudG8gSGFiaXRhY2lvbmFsIENya",
+          "name": "Conjunto Habitacional Cristo Rei"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5510953758",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB39286905",
+      "title": "Truss Uso Obrigatório Tratamento Reconstrutor 260ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_756430-MLA108913064464_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB39286905",
+      "id": "MLB7802452252",
+      "sold_quantity": 200,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-13T22:01:31.977Z"
+}
