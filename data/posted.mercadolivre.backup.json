@@ -4182,5 +4182,37 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-13T15:45:46.902Z"
+  },
+  {
+    "itemId": "MLB5459718962",
+    "productKey": "a03a2d8869594efc",
+    "titleHash": "2e478d1b8ded1eb9",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-13T16:01:01.453Z"
+  },
+  {
+    "itemId": "MLB5015685889",
+    "productKey": "f28c430b2349dd9d",
+    "titleHash": "cbc14ed247b8b10d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-13T16:01:01.453Z"
+  },
+  {
+    "itemId": "MLB5283742843",
+    "productKey": "d4255e0a63e61dfb",
+    "titleHash": "7595d754ee6983fc",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-13T16:01:01.453Z"
+  },
+  {
+    "itemId": "MLB6654934512",
+    "productKey": "43b31f7e3b19a97c",
+    "titleHash": "ceeb1d44a11c971f",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-13T16:01:01.453Z"
   }
 ]
