@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6922339234",
+      "site_id": "MLB",
+      "seller_id": 119658288,
+      "accepts_mercadopago": true,
+      "price": 193.03,
+      "category_id": "MLB7457",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 619,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NJQTU0N2Jm",
+          "name": "Cianorte"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU4055685011",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65541449",
+      "title": "Fone de Ouvido JBL Tune 530BT Bluetooth Sem Fio Preto Headphone com Microfone Wireless Estéreo Graves Potentes Confortável",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65541449",
+      "id": "MLB6922339234",
+      "sold_quantity": 1200,
+      "rotationCategory": "som",
+      "sourceCategoryId": "MLB3835",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-13T18:46:24.794Z"
+}
