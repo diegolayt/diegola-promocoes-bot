@@ -263,10 +263,12 @@ function caption(offer) {
 async function publish(dryRun) {
   const history = await readJson(statePath, []);
   const seen = new Set(history.map((entry) => entry.id));
-  // Cada execução começa por uma fonte diferente, para o tópico não repetir categoria.
-  const start = Math.floor(Date.now() / SLOT_MS) % FONTES.length;
+  // Cada publicação começa por uma fonte diferente, para o tópico não repetir categoria.
+  // A rodada publica quatro vezes seguidas (ALI_PASSO de 0 a 3), então o passo entra na conta.
+  const turn = Math.floor(Date.now() / SLOT_MS) * 4 + Number(process.env.ALI_PASSO || 0);
+  const start = turn % FONTES.length;
   // Metade das publicações sai da lista "em alta no Brasil" (com cupom); a outra metade, das buscas.
-  let offer = Math.floor(Date.now() / SLOT_MS) % 2 === 0 ? await nextHot(seen) : null;
+  let offer = turn % 2 === 0 ? await nextHot(seen, turn) : null;
   for (let step = 0; step < FONTES.length && !offer; step++) {
     const source = FONTES[(start + step) % FONTES.length];
     try {
@@ -352,12 +354,12 @@ async function receiveHot() {
 }
 
 // Oferta em alta ainda válida (coletada há menos de 72h, cupom dentro do prazo) e não publicada.
-async function nextHot(seen) {
+async function nextHot(seen, turn) {
   const limit = Date.now() - 72 * 3_600_000;
   const valid = (await readJson(hotRawPath, [])).filter((offer) => Date.parse(offer.coletadoEm) > limit && !seen.has(String(offer.product_id))
     && (!offer.cupom || Date.parse(offer.cupom.fim.replace(" ", "T")) > Date.now() + 24 * 3_600_000));
   // A lista vem com produtos parecidos em sequência; saltar pela lista evita repetir o mesmo tipo.
-  return valid[(Math.floor(Date.now() / SLOT_MS) * 37) % (valid.length || 1)];
+  return valid[(turn * 37) % (valid.length || 1)];
 }
 
 const args = process.argv.slice(2);
