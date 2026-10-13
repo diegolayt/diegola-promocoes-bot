@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4264223185",
+      "site_id": "MLB",
+      "seller_id": 747884827,
+      "accepts_mercadopago": true,
+      "price": 126.96,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "extended_warranty_eligible",
+        "lightning_deal",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 140002,
+      "original_price": 259.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JBTDI3ZmQ3",
+          "name": "Camboriú"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3377588334",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB60126432",
+      "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB60126432",
+      "id": "MLB4264223185",
+      "sold_quantity": 1000,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4053374163",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 310.62,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "first_party",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4611,
+      "original_price": 424.98,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3095727220",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB32466350",
+      "title": "Jogo de Panelas Tramontina Allegra 3 peças Inox 65660/220",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_923809-MLA95696729330_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB32466350",
+      "id": "MLB4053374163",
+      "sold_quantity": 200,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5251383319",
+      "site_id": "MLB",
+      "seller_id": 3427087278,
+      "accepts_mercadopago": true,
+      "price": 99.9,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 119.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0xBVTE2OWRi",
+          "name": "Lauro de Freitas"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5233105726",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19035973",
+      "title": "Perfume Natura Kaiak Aero EDT 100 ml Masculino",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_772620-MLA54969323660_042023-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19035973",
+      "id": "MLB5251383319",
+      "sold_quantity": 200,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7578512216",
+      "site_id": "MLB",
+      "seller_id": 426839015,
+      "accepts_mercadopago": true,
+      "price": 309.9,
+      "category_id": "MLB23332",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTW9naSBHdWHDp3VUVXhDVUZOQlQwODVOM",
+          "name": "Mogi Guaçu"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIEFsdm9yYWRhVFZoWVRXOW5hU",
+          "name": "Jardim Alvorada"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5075738880",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67374277",
+      "title": "Tênis Feminino Rise Up Fila",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_768105-MLA108903322998_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67374277",
+      "id": "MLB7578512216",
+      "sold_quantity": 500,
+      "rotationCategory": "masculino",
+      "sourceCategoryId": "MLB23332",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-13T17:31:22.888Z"
+}
