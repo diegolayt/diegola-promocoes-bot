@@ -1,11 +1,10 @@
 name: Publicar AliExpress
 
-# Uma oferta por hora no tópico "AliExpress" do grupo, das 8h às 23h de Brasília.
+# Quatro ofertas por rodada no tópico "AliExpress" do grupo, no mesmo volume da Shopee.
+# Quem dispara é o cron-job.org, a cada 15 minutos (o agendamento do GitHub não roda aqui).
 # O tópico é criado sozinho na primeira execução.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "20 0-2,11-23 * * *"
 
 concurrency:
   group: publicar-aliexpress
@@ -29,7 +28,14 @@ jobs:
           node-version: 24
 
       - name: Publicar no Telegram
-        run: node src/aliexpress.mjs --publish
+        run: |
+          publicadas=0
+          for rodada in 1 2 3 4; do
+            if node src/aliexpress.mjs --publish; then publicadas=$((publicadas + 1)); else break; fi
+            sleep 4
+          done
+          echo "Ofertas publicadas: $publicadas"
+          [ "$publicadas" -gt 0 ]
         env:
           ALIEXPRESS_APP_KEY: "553330"
           ALIEXPRESS_APP_SECRET: ${{ secrets.ALIEXPRESS_APP_SECRET }}
