@@ -11,12 +11,14 @@ const authPath = join(root, "data", "mercadolivre-auth.json");
 const feedPath = join(root, "data", "feed.mercadolivre.json");
 const showcasePath = join(root, "data", "vitrine.mercadolivre.json");
 const couponsPath = join(root, "data", "cupons.json");
-const FEED_ITEMS = 300;
+const FEED_ITEMS = 1200;
 // Com 96 publicações por dia, 600 itens dão cerca de seis dias sem repetir.
 const ROTATION_ITEMS = 600;
 const SLOT_MS = 15 * 60_000;
 const CATEGORY_ROTATION_ITEMS = 12;
-const MAX_API_CALLS = 45;
+const MAX_API_CALLS = 90;
+// Mesmo volume da Shopee, que publica uma oferta em cada um dos quatro tópicos por rodada.
+const POSTS_PER_RUN = 4;
 const MIN_REQUEST_INTERVAL_MS = 750;
 const CATEGORIES_PER_RUN = 4;
 const HIGHLIGHTS_PER_CATEGORY = 3;
@@ -330,7 +332,20 @@ function score(item) {
   return Math.log10(sold + 1) * 15 + discount * 200 + (item.official_store_id ? 20 : 0) + (item.shipping?.free_shipping ? 8 : 0) - (item.trendRank ? 15 : 0);
 }
 
-async function selectProduct(history) {
+// Os melhores da rodada, um por categoria, para o tópico não receber quatro ofertas parecidas.
+function pickVaried(available) {
+  const picked = [];
+  const categories = new Set();
+  for (const item of available) {
+    if (categories.has(item.rotationCategory)) continue;
+    categories.add(item.rotationCategory);
+    picked.push(item);
+    if (picked.length === POSTS_PER_RUN) break;
+  }
+  return picked;
+}
+
+async function selectProducts(history) {
   apiCalls = 0;
   lastApiCallAt = 0;
   const token = await getAccessToken();
@@ -343,9 +358,9 @@ async function selectProduct(history) {
   let distinct = [];
   let available = [];
   for (const [index, [category, categoryId, minPrice]] of ordered.entries()) {
-    // Depois do lote normal, só continua enquanto não houver aprovado e ainda
-    // sobrar folga no limite de consultas da rodada.
-    if (index >= CATEGORIES_PER_RUN && (available.length || apiCalls > MAX_API_CALLS - 6)) break;
+    // Depois do lote normal, só continua enquanto faltar oferta para a rodada
+    // e ainda sobrar folga no limite de consultas.
+    if (index >= CATEGORIES_PER_RUN && (pickVaried(available).length >= POSTS_PER_RUN || apiCalls > MAX_API_CALLS - 8)) break;
     const visits = history.filter((entry) =>
       entry.sourceCategoryId ? entry.sourceCategoryId === categoryId : entry.category === category
     ).length;
@@ -377,7 +392,7 @@ async function selectProduct(history) {
     console.warn(`Rejeicoes do Mercado Livre: ${JSON.stringify(reasons)}.`);
   }
   console.log(`Mercado Livre: ${apiCalls} consultas, ${candidates.length} resultados, ${distinct.length} produtos distintos e ${available.length} aprovados.`);
-  return available[0] || null;
+  return pickVaried(available);
 }
 
 // Cupons válidos agora. O arquivo é mantido a partir dos canais oficiais do
@@ -481,24 +496,40 @@ async function reserve() {
     return false;
   }
   const history = await loadHistory();
-  const item = await selectProduct(history);
-  if (!item) throw new Error("Nenhum produto novo aprovado nesta rodada.");
-  history.push({ itemId: item.id, productKey: productKey(item).slice(0, HASH_CHARS), titleHash: fingerprint(normalizedTitle(item.title)).slice(0, HASH_CHARS), category: item.rotationCategory, sourceCategoryId: item.sourceCategoryId || null, reservedAt: new Date().toISOString() });
+  const items = await selectProducts(history);
+  if (!items.length) throw new Error("Nenhum produto novo aprovado nesta rodada.");
+  for (const item of items) {
+    history.push({ itemId: item.id, productKey: productKey(item).slice(0, HASH_CHARS), titleHash: fingerprint(normalizedTitle(item.title)).slice(0, HASH_CHARS), category: item.rotationCategory, sourceCategoryId: item.sourceCategoryId || null, reservedAt: new Date().toISOString() });
+  }
   await saveHistory(history);
-  await writeFile(pendingPath, JSON.stringify({ item, reservedAt: new Date().toISOString() }, null, 2));
-  console.log(`Reservado Mercado Livre: ${item.id} (${item.rotationCategory}).`);
+  await writeFile(pendingPath, JSON.stringify({ items, reservedAt: new Date().toISOString() }, null, 2));
+  console.log(`Reservados Mercado Livre: ${items.map((item) => `${item.id} (${item.rotationCategory})`).join(", ")}.`);
   return true;
 }
 
 async function publishReserved() {
   const pending = await getPending();
-  if (!pending?.item) return console.log("Nenhuma oferta do Mercado Livre reservada."), false;
-  await postToTelegram(pending.item);
-  // A publicação no Telegram já aconteceu; uma falha no feed do site não
-  // pode derrubar a rodada nem deixar a reserva presa.
-  try { await appendFeed(pending.item); } catch (error) { console.warn(`Feed do site não atualizado: ${error.message}`); }
+  // Reserva antiga guardava uma oferta só, em "item".
+  const items = pending?.items || (pending?.item ? [pending.item] : []);
+  if (!items.length) return console.log("Nenhuma oferta do Mercado Livre reservada."), false;
+  let published = 0;
+  for (const [index, item] of items.entries()) {
+    // Respiro entre as mensagens para o Telegram não barrar a sequência.
+    if (index) await new Promise((resolve) => setTimeout(resolve, 3_500));
+    try {
+      await postToTelegram(item);
+    } catch (error) {
+      console.warn(`Oferta ${item.id} não publicada: ${error.message}`);
+      continue;
+    }
+    published += 1;
+    // A publicação no Telegram já aconteceu; uma falha no feed do site não
+    // pode derrubar a rodada nem deixar a reserva presa.
+    try { await appendFeed(item); } catch (error) { console.warn(`Feed do site não atualizado: ${error.message}`); }
+    console.log(`Publicado Mercado Livre: ${item.id}.`);
+  }
   await clearPending();
-  console.log(`Publicado Mercado Livre: ${pending.item.id}.`);
+  if (!published) throw new Error("Nenhuma oferta reservada do Mercado Livre foi publicada.");
   return true;
 }
 
