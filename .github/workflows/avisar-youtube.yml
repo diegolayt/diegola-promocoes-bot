@@ -1,0 +1,50 @@
+name: Avisar vídeo novo do YouTube
+
+# Olha o canal @diegola021 a cada 10 minutos e avisa no canal Diegola P2E quando sai vídeo novo.
+# A primeira execução só guarda os vídeos que já existem.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+concurrency:
+  group: avisar-youtube
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  avisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Avisar no Telegram
+        run: node src/youtube.mjs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
+      - name: Salvar vídeos já avisados
+        if: always()
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/youtube.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza vídeos avisados do YouTube"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
+          fi
