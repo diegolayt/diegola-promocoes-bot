@@ -1,0 +1,53 @@
+name: Publicar AliExpress
+
+# Uma oferta por hora no tópico "AliExpress" do grupo, das 8h às 23h de Brasília.
+# O tópico é criado sozinho na primeira execução.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 0-2,11-23 * * *"
+
+concurrency:
+  group: publicar-aliexpress
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Publicar no Telegram
+        run: node src/aliexpress.mjs --publish
+        env:
+          ALIEXPRESS_APP_KEY: "553330"
+          ALIEXPRESS_APP_SECRET: ${{ secrets.ALIEXPRESS_APP_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Salvar histórico e feed
+        if: always()
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if ! git diff --cached --quiet; then
+            git commit -m "Publica oferta AliExpress"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
+          fi
