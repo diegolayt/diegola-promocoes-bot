@@ -129,6 +129,27 @@ async function bestOf(source, pages = 2) {
   return [...unique.values()].sort((a, b) => score(b) - score(a));
 }
 
+// A busca devolve um link de afiliado com mais de mil letras, que estoura a
+// legenda do Telegram. Aqui ele é trocado pelo link curto (s.click.aliexpress.com/e/...).
+async function shorten(offers) {
+  for (let start = 0; start < offers.length; start += 40) {
+    const batch = offers.slice(start, start + 40).filter((offer) => offer.product_detail_url);
+    if (!batch.length) continue;
+    try {
+      const result = await api("aliexpress.affiliate.link.generate", {
+        promotion_link_type: "0",
+        source_values: batch.map((offer) => offer.product_detail_url).join(","),
+        tracking_id: await env("ALIEXPRESS_TRACKING_ID", "default"),
+      });
+      const short = new Map((result?.promotion_links?.promotion_link || []).map((link) => [link.source_value, link.promotion_link]));
+      for (const offer of batch) offer.promotion_link = short.get(offer.product_detail_url) || offer.promotion_link;
+    } catch (error) {
+      console.warn(`link curto: ${error.message}`);
+    }
+  }
+  return offers;
+}
+
 // O site de ofertas lê este formato, com o link de afiliado já montado.
 function feedEntry(offer) {
   return {
@@ -159,7 +180,7 @@ async function buildShowcase() {
   }
   console.log(`Vitrine do AliExpress: ${picks.size} produtos.`);
   // Uma execução fraca não apaga a vitrine anterior.
-  if (picks.size >= 30) await writeJson(showcasePath, [...picks.values()].map(feedEntry));
+  if (picks.size >= 30) await writeJson(showcasePath, (await shorten([...picks.values()])).map(feedEntry));
 }
 
 const escapeHtml = (text) => String(text).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
@@ -212,6 +233,7 @@ async function publish(dryRun) {
     }
   }
   if (!offer) throw new Error("Nenhuma oferta nova do AliExpress nesta execução.");
+  await shorten([offer]);
   if (dryRun) {
     console.log(caption(offer));
     return;
