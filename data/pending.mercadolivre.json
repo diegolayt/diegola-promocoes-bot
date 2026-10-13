@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5329092593",
+      "site_id": "MLB",
+      "seller_id": 267625012,
+      "accepts_mercadopago": true,
+      "price": 226.99,
+      "category_id": "MLB271858",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0ZMT2RmMDFk",
+          "name": "Florestópolis"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5346408183",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43319779",
+      "title": "Smartwatch Xiaomi Redmi Watch 5 Active Tela Lcd 2.00 Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_900217-MLA116031574344_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43319779",
+      "id": "MLB5329092593",
+      "sold_quantity": 1300,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-10-13T21:01:31.432Z"
+}
