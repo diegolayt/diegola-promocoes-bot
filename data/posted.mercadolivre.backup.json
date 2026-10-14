@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6539025322",
-    "productKey": "67959f7697e2dbdeafaa0e57471f047ac8c92cb69fdb44d44f3afc10af2993c7",
-    "titleHash": "69c47bee8d5cd059dbd6e68208136bfe7f8398e10598f21de44795eab884af0c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-06T22:45:36.867Z"
-  },
-  {
-    "itemId": "MLB4836902343",
-    "productKey": "66c7b386fec7fb85f448fd4205a17e5c311b3c889e1174ac013ae2dcf43aae20",
-    "titleHash": "07d3743c349b4b43431c41d55dd1faae21cec1c1353d6627af4ce3184f5efe2a",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-06T23:00:35.313Z"
-  },
-  {
-    "itemId": "MLB6428860970",
-    "productKey": "8cf2f4c72a746d4a063403d8ea3787b3de570b6b07e89e653ef14fa8a654a5c9",
-    "titleHash": "9d6dadecb5b9d28c4132cc5bae1d28d2c90d485b161e7c6b119261340d371239",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-06T23:15:27.171Z"
-  },
-  {
     "itemId": "MLB4132725271",
     "productKey": "b70bcf8b75607f51461b894e0ea7976858e81b3985630428234bd974601cc04e",
     "titleHash": "c01ccd1bd728f32c696a095ebe4b67969927a1ca97b7c697e183ab7b6b4a6aa3",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-14T22:31:32.302Z"
+  },
+  {
+    "itemId": "MLB7626469070",
+    "productKey": "4e76f6a7a0601678",
+    "titleHash": "d7af21b015eb8656",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-14T22:46:27.364Z"
+  },
+  {
+    "itemId": "MLB5284590343",
+    "productKey": "8001d68ba72e9a64",
+    "titleHash": "567445470a0ab6a0",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-14T22:46:27.364Z"
+  },
+  {
+    "itemId": "MLB4372865191",
+    "productKey": "991815a1915c7fac",
+    "titleHash": "3542b47735241eef",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-14T22:46:27.364Z"
   }
 ]
