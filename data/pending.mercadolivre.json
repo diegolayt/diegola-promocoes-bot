@@ -1,0 +1,213 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5456928122",
+      "site_id": "MLB",
+      "seller_id": 1354124140,
+      "accepts_mercadopago": true,
+      "price": 92.34,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "kvs_primary",
+        "has_published_clips",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 479204,
+      "original_price": 199.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Bernardo do Campo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3260554794",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB6087971",
+      "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB6087971",
+      "id": "MLB5456928122",
+      "sold_quantity": 1800,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7773413658",
+      "site_id": "MLB",
+      "seller_id": 3595234463,
+      "accepts_mercadopago": true,
+      "price": 397.86,
+      "category_id": "MLB1692",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 36 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439342,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 36,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "36 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU4899580956",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB22649400",
+      "title": "Placa-mãe Msi A520m-a Pro Am4 Matx Ddr4 Hdmi Dvi M.2",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_644232-MLA99455670876_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB22649400",
+      "id": "MLB7773413658",
+      "sold_quantity": 800,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5836698228",
+      "site_id": "MLB",
+      "seller_id": 234000251,
+      "accepts_mercadopago": true,
+      "price": 1819,
+      "category_id": "MLB73046",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 942,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 77
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3505732817",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB49503931",
+      "title": "Lava-louça Electrolux Inox Com Programa Lava E Seca LS08E Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_606650-MLA99935855021_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB49503931",
+      "id": "MLB5836698228",
+      "sold_quantity": 600,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-14T01:16:24.799Z"
+}

@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4452425949",
-    "productKey": "4da8403653ad3f9aa9140a1d6386b03d16146a0bc591ececbeaf352247464345",
-    "titleHash": "3f644395875c5baa0fe1b312e3aa7bd651912257c56ef6c4e7899bd3e1b5b0cf",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-02T17:15:34.565Z"
-  },
-  {
-    "itemId": "MLB4796581904",
-    "productKey": "88a6dadf927c669812ccd7f60c3b0bf9672b6fb6a897062f34dca086a0fb0e2c",
-    "titleHash": "cbbf495579edc022471db05c76285f4d27ce0768298a6a6d048daeb4c95ee206",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-02T17:30:37.643Z"
-  },
-  {
-    "itemId": "MLB5204833669",
-    "productKey": "812634e89d0a39b7e16d54025800cb55339e08755a7287afa545fb6f8e4ab78f",
-    "titleHash": "c61cb7f19b5587d63601af5dd5e6a603fcd65858f6e4187cc8fb13bd9d948da7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-02T17:45:39.168Z"
-  },
-  {
     "itemId": "MLB4166752343",
     "productKey": "69e6b543996f75e04b571688c72a280a299815e625432e2c7b1670c911c19928",
     "titleHash": "2a38590f6d0b6551c06da2008b0aa6cc1cf3c835dc5a9944c56b7e77e9e7b2f2",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-14T01:01:33.762Z"
+  },
+  {
+    "itemId": "MLB5456928122",
+    "productKey": "7fdc50d60ebffd96",
+    "titleHash": "f971c499c5d94e8b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T01:16:24.797Z"
+  },
+  {
+    "itemId": "MLB7773413658",
+    "productKey": "8a12e9f39235f525",
+    "titleHash": "d987a052a3594718",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-14T01:16:24.797Z"
+  },
+  {
+    "itemId": "MLB5836698228",
+    "productKey": "07f1520aa80ab712",
+    "titleHash": "bc8ac8efca670c74",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-14T01:16:24.797Z"
   }
 ]
