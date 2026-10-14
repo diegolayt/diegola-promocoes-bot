@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6171381236",
-    "productKey": "3f5acdba5710f4db9b6227072000448c1d52315f653f32ca1ebdfd49a0b14dbb",
-    "titleHash": "e26d29743330841294a5e735cc1d128275a8436aaf9211fb3747a25c5ee5df33",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-03T19:15:28.292Z"
-  },
-  {
-    "itemId": "MLB4230320801",
-    "productKey": "3efcfbd8773c40fb8c3f70d00e2b88b91e3216ffb35b71a04285ad0a820ff13a",
-    "titleHash": "7a2e0f4cc569a4d57068fc83f716592841d37c7706bc93055a73f11ea556a468",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-03T19:30:45.549Z"
-  },
-  {
     "itemId": "MLB5177123728",
     "productKey": "a0577f276a61d486abe06fff1ec7d6b82635244e81b4b5b938b2c4a2a9c93d8a",
     "titleHash": "a0e7068095171d6a6f4500b4124d37c9d8777ec37d9ae175e53be17fab903eae",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-14T03:31:27.664Z"
+  },
+  {
+    "itemId": "MLB7786538322",
+    "productKey": "a7879a027f4d74fd",
+    "titleHash": "589086f1c091f25b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T03:46:22.690Z"
+  },
+  {
+    "itemId": "MLB7054792392",
+    "productKey": "cf31f194e5125ea5",
+    "titleHash": "53f465883ca4f30e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-14T03:46:22.691Z"
   }
 ]
