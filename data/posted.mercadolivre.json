@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7608232924",
-    "productKey": "4ec722ec04218905f120a15372213a3949ea8c0dfd580f8d4a4a55554934b17b",
-    "titleHash": "79b4b1f7c1ee65806df3c035f5b1d382a5d7423b54b84f99d6c332b51a71a3a2",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-05T21:45:39.777Z"
-  },
-  {
     "itemId": "MLB5779941542",
     "productKey": "0b028e4f27c78df23236cb835e69ec790180c748a347e79cd9bc91ea821cfe62",
     "titleHash": "ddce1d36b82207f4359c638525f065853e2cba08a23b6fe4a8ce2c0fbbfe857c",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-14T14:16:23.249Z"
+  },
+  {
+    "itemId": "MLB5384817399",
+    "productKey": "090f9f25713d0f10",
+    "titleHash": "80d4529d802411df",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-14T15:01:34.520Z"
   }
 ]
