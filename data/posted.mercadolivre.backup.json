@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5441434772",
-    "productKey": "f5c7b29042c41105f11df2e4c5a2ef8bcbfb7aa95d7bdde2b28e9caf33fa1f59",
-    "titleHash": "5fe760bf49b3d7a75f3a6d78d2e3534dc186287aafd92a7f7a541e6d54f84f47",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-03T21:15:31.085Z"
-  },
-  {
-    "itemId": "MLB6858475012",
-    "productKey": "cd15604f7e5918da4d1d324200a4b397d240eb6a5be6e02825ebda29eb8f8175",
-    "titleHash": "052ebf55096977e654b83070d2048edbac13793744255a851e8fb1e3441ae03c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-03T21:30:34.080Z"
-  },
-  {
     "itemId": "MLB4994232995",
     "productKey": "aebc15008f2c015807dad268acd6ad1fb1a000988faa3ed43e733a7d7091cb05",
     "titleHash": "bcea9751249951d561805c19118ec84d4698eb89be501a8345c258ed5c29e392",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-14T04:31:30.189Z"
+  },
+  {
+    "itemId": "MLB4469987063",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-14T04:46:22.991Z"
+  },
+  {
+    "itemId": "MLB7729259904",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-14T04:46:22.991Z"
   }
 ]

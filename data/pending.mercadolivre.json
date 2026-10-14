@@ -1,0 +1,156 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4469987063",
+      "site_id": "MLB",
+      "seller_id": 1415061602,
+      "accepts_mercadopago": true,
+      "price": 216.9,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 60 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 312462,
+      "original_price": 329.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTjhhYWR4",
+          "name": "Canindé"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 60,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "60 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3789923348",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63950169",
+      "title": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_611561-MLA118558817253_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63950169",
+      "id": "MLB4469987063",
+      "sold_quantity": 1700,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    },
+    {
+      "item_id": "MLB7729259904",
+      "site_id": "MLB",
+      "seller_id": 154535539,
+      "accepts_mercadopago": true,
+      "price": 225,
+      "category_id": "MLB271167",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ01BUmVmMmFi",
+          "name": "Maringá"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjU5MjFG",
+          "name": "Jardim São Francisco"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5182305307",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67989415",
+      "title": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180 m²",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_755357-MLA109556445022_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67989415",
+      "id": "MLB7729259904",
+      "sold_quantity": 400,
+      "rotationCategory": "redes",
+      "sourceCategoryId": "MLB1700",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-14T04:46:22.993Z"
+}
