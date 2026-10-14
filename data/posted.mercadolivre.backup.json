@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5055972719",
-    "productKey": "1317d74e4994bd841ea8eeec329adabd14f4bc6bb6ef835a4b8c705362a5851e",
-    "titleHash": "9c2438faaf66bd0949d6036cf99562f68e3993563b1f859270de618cfb8b91ec",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-06T17:00:40.969Z"
-  },
-  {
-    "itemId": "MLB7717146116",
-    "productKey": "2f742d6104f56e3fc8d07bfab4acc0a8900cf5f5fce9d133cae2733a540b4b48",
-    "titleHash": "72f46bd8beed252c37f605a066ce40583f9277692231e450d1ca63b2a7883070",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-06T17:15:32.004Z"
-  },
-  {
     "itemId": "MLB5776728534",
     "productKey": "fb940bc8a256ecd8880f67101b314b711ab55dc428106d541e33da3172cc6418",
     "titleHash": "2e209790e65e495f177b3ee0af79647596219d04806dce767d64cd2d39355a67",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-14T18:31:29.279Z"
+  },
+  {
+    "itemId": "MLB6847613118",
+    "productKey": "6a0f874da4937eb3",
+    "titleHash": "994272fd0fa8ee25",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-14T18:46:34.796Z"
+  },
+  {
+    "itemId": "MLB5957865496",
+    "productKey": "6cb8a3bad69a7f8b",
+    "titleHash": "5f5b66ae18a9ad3b",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-14T18:46:34.796Z"
   }
 ]
