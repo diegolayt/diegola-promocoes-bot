@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5140003520",
-    "productKey": "66aad9dacbb2cc0c40893fc83f4c74c26000fe2dc1b15f5095d833082759e63d",
-    "titleHash": "9d1eae52c8bb94160d723bdd171dbe6445a019efdc12ffd2fc5382172a9c71d2",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-02T19:00:43.186Z"
-  },
-  {
-    "itemId": "MLB4540296511",
-    "productKey": "561f43f75c5fd9a2666a971b310caea9e09657ab342fc956525fe84085f96da3",
-    "titleHash": "b4d8df6ce6f87334d81393c286d0c47720ff9ff38bbfdb3a2431656b40d3def5",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-02T19:15:28.032Z"
-  },
-  {
     "itemId": "MLB7734911928",
     "productKey": "e192924e8dfd60cbc3f5107ed5af5490c2e9cde25837402279fb0901ab7525c3",
     "titleHash": "f8a0196898f2d9774fd703fe8c1637f31feedb05c26cd0587f9e98c1e2e531db",
@@ -4798,5 +4782,21 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-10-14T01:46:22.243Z"
+  },
+  {
+    "itemId": "MLB7476653636",
+    "productKey": "bc04daa8ab567d61",
+    "titleHash": "f8bb3ea79829b117",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-14T02:01:31.509Z"
+  },
+  {
+    "itemId": "MLB6943361042",
+    "productKey": "25d77da721ba1aad",
+    "titleHash": "58d471363e8a624e",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-14T02:01:31.509Z"
   }
 ]
