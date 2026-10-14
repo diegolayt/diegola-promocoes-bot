@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6325940828",
-    "productKey": "42b3d57c38a3059e6eb1569a77c5e1aecb03ba3dda80e150cd408b1842bc11b0",
-    "titleHash": "ec8ae247e926de2bbf53312a4545d63373c778dcf4f204844179bb450c4c1681",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-04T15:30:33.014Z"
-  },
-  {
-    "itemId": "MLB7580937816",
-    "productKey": "1fa92a7b6e9eda98c2be981141fa02a24e5468f6646cef6f04fb428cf85bc30e",
-    "titleHash": "5048c16cc77af7a64e06d3d078dfc96f3abd4679c4ec585f96c82219a0e38252",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-04T15:46:05.745Z"
-  },
-  {
-    "itemId": "MLB7183971156",
-    "productKey": "1249a8fb3d88e9ff722f82f4657bf1c75081416160d50a42402c42d1f1163317",
-    "titleHash": "360d83604027a19c09c3b852140eaa25578e77aa7dedbd382a7a4eca72eb0cf8",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-04T16:00:39.263Z"
-  },
-  {
-    "itemId": "MLB4454189603",
-    "productKey": "12075010278a85224b3e3d9e23e79c6958bc0683cf0fe93695befaeb41edf971",
-    "titleHash": "e82cc8ca27f22e47f3c404a73d0ec3996404f1c8bc6fc7c9ac9c7f04b1d0eba4",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-04T16:15:31.547Z"
-  },
-  {
     "itemId": "MLB6253142964",
     "productKey": "192669dedf8678b49942f50a0bea9f4948bd9c92603f4d65b19c12b118e66995",
     "titleHash": "3c1a178d28c537bce3de12d7dd9821d93275beff65c83b2f1640ff4a7141969b",
@@ -4798,5 +4766,37 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-14T06:16:22.780Z"
+  },
+  {
+    "itemId": "MLB6194983256",
+    "productKey": "fd83f25c3b8fcc66",
+    "titleHash": "7d923047dcc35c56",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-14T06:31:26.871Z"
+  },
+  {
+    "itemId": "MLB3949441415",
+    "productKey": "05b84b93849ca0c3",
+    "titleHash": "7ddd215d3c9f7147",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-14T06:31:26.871Z"
+  },
+  {
+    "itemId": "MLB4958845831",
+    "productKey": "f957ab0d39b2d366",
+    "titleHash": "b1c4d572f20022fd",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-14T06:31:26.871Z"
+  },
+  {
+    "itemId": "MLB5250712463",
+    "productKey": "3b13b451c92df475",
+    "titleHash": "5933a654bc57192d",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-14T06:31:26.871Z"
   }
 ]
