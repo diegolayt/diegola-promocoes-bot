@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6665768026",
-    "productKey": "fb1bb53ce910184c522fdd5301decd33aecb4c304d40571f61eef64c38aa1c1b",
-    "titleHash": "5a5eef9a3de02aae452781986e98651125e17abe5dd8187cc8ce6d1110cb0b15",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-05T19:00:42.695Z"
-  },
-  {
     "itemId": "MLB7025998908",
     "productKey": "5ff7ac43cb165e0064eb7c86eca479098b59a2b5d09e6281cec31a6aae2ad003",
     "titleHash": "5eee92e2eaa0b132bcb14a2c6067db27d03060a7fb916c8368400b8b68178e75",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-14T13:16:26.700Z"
+  },
+  {
+    "itemId": "MLB5842112358",
+    "productKey": "338c9537ace4e54f",
+    "titleHash": "446e3b9a83ed6784",
+    "category": "calçado",
+    "sourceCategoryId": "MLB23262",
+    "reservedAt": "2026-10-14T13:31:28.422Z"
   }
 ]
