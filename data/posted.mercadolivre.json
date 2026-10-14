@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3771505959",
-    "productKey": "3e24012756b6950c11e99aa43105bbc302ac924b94a372777fd72c6008362c64",
-    "titleHash": "fd06cf3b916fc566b02cce868630702841277b6f470845ef92fc2fe8e350a14c",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-05T03:15:33.859Z"
-  },
-  {
     "itemId": "MLB5379030888",
     "productKey": "b2b24aaea52d093c4aa552bf18261becfe3e1fe13abde604a36bea81e6400d64",
     "titleHash": "161556333ab3ba279c548b440861f9770c2fc34bd8ba9bdba5bc930f0167aed7",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-14T11:31:35.721Z"
+  },
+  {
+    "itemId": "MLB7439917998",
+    "productKey": "a7188d7e617deefb",
+    "titleHash": "a84daf9417637e62",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-14T11:46:22.281Z"
   }
 ]
