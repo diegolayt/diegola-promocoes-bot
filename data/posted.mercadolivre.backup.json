@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4571210341",
-    "productKey": "163a58eb61a4412fd3d8f240ddd7f5289f8f32dcacde0ed36753c934187ee3cf",
-    "titleHash": "bbadc9cd22e0fc10322d5d9ecfb6529569c91d8d21b055a58013b86b346e86c7",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-06T18:45:34.005Z"
-  },
-  {
-    "itemId": "MLB7021496446",
-    "productKey": "06651e2562cbb16b92cb333243e8e0b58e5cf988ba003b8836119c3e29d3af19",
-    "titleHash": "827ce4bd52859f5602059fa78d900cb0dedd62b2bc6f84882130f88af2160a53",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-06T19:00:37.480Z"
-  },
-  {
-    "itemId": "MLB4907921846",
-    "productKey": "be39b75dae01ea03c4ff49896f721966666b80b579f24e751189f028aa8f885b",
-    "titleHash": "958915ba465fdc7d3a812968d992af2b5d0105ff62bd5c7071197333ff9b90d1",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-06T19:15:37.990Z"
-  },
-  {
     "itemId": "MLB4835180937",
     "productKey": "abf8d06c6cfb1b902013ccf1d68e9eff9e88217b332bd45fe65ac4ec046dc0ea",
     "titleHash": "96e7f5a9a79b44c8c5649735f090507ff71536ccd5893625d3ec18180f4620d2",
@@ -4798,5 +4774,29 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-14T19:16:25.146Z"
+  },
+  {
+    "itemId": "MLB7218448202",
+    "productKey": "c60055d50d04d5b9",
+    "titleHash": "57beea07a809047b",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-14T19:31:30.313Z"
+  },
+  {
+    "itemId": "MLB4514233797",
+    "productKey": "b80aa50f4c572f73",
+    "titleHash": "554791d76d1ac8c8",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-14T19:31:30.314Z"
+  },
+  {
+    "itemId": "MLB7618822944",
+    "productKey": "7c5b29917a5a4f0d",
+    "titleHash": "4df93f7a820e0b0f",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-14T19:31:30.314Z"
   }
 ]
