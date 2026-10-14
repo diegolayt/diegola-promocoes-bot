@@ -1,0 +1,246 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5123290574",
+      "site_id": "MLB",
+      "seller_id": 222932916,
+      "accepts_mercadopago": true,
+      "price": 125,
+      "category_id": "MLB192369",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 199,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDFxbnlx",
+          "name": "Vila Fanton"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2348652225",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB22666471",
+      "title": "Kit 24 Copos Long Drink Vidro 300ml FMsp Oca Nadir Figueiredo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_624896-MLA93335691056_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB22666471",
+      "id": "MLB5123290574",
+      "sold_quantity": 600,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7160567726",
+      "site_id": "MLB",
+      "seller_id": 204394948,
+      "accepts_mercadopago": true,
+      "price": 292,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 82434,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNJVEIwNjg5",
+          "name": "Sítio Cercado"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4315018104",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18722625",
+      "title": "Proteína Darkness Carnibol Beef em pó sabor Chocolate x 1.8kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_775815-MLA99993472513_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18722625",
+      "id": "MLB7160567726",
+      "sold_quantity": 500,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7646052474",
+      "site_id": "MLB",
+      "seller_id": 15619104,
+      "accepts_mercadopago": true,
+      "price": 387.5,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDQ3MzU",
+          "name": "Cidade Ademar"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5211069286",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB64375525",
+      "title": "Smartwatch HUAWEI Band 11 Pro Posicionamento GNSS Autônomo Tela 162\" AMOLED Bateria com Autonomia de Até 14 Dias Monitoramento Aprimorado do Sono Compatível com iOS e Android Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_905350-MLA109781838406_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB64375525",
+      "id": "MLB7646052474",
+      "sold_quantity": 500,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-10-14T06:46:21.657Z"
+}

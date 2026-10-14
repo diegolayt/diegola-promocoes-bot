@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6253142964",
-    "productKey": "192669dedf8678b49942f50a0bea9f4948bd9c92603f4d65b19c12b118e66995",
-    "titleHash": "3c1a178d28c537bce3de12d7dd9821d93275beff65c83b2f1640ff4a7141969b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-04T16:31:17.820Z"
-  },
-  {
-    "itemId": "MLB5066917184",
-    "productKey": "2fbe972296c15ac4d1e640779ed0e106eb8dd38406fdb8476d90463fa1b8e345",
-    "titleHash": "94d92cdc19e55d62a00b7e6e8d5025ee6d3d56e136dea2ebdce748e0c28de3b2",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-04T16:45:35.596Z"
-  },
-  {
-    "itemId": "MLB4088294769",
-    "productKey": "00f86ee9aca029608c8f42a65d456b917f08863d38af916e149e8ed6f9c232a3",
-    "titleHash": "fefc3b53dabe13e9f33f53e61b6ccaabcab35afe1ccc7ee6c368fccd791da014",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-04T17:00:39.620Z"
-  },
-  {
     "itemId": "MLB4707470817",
     "productKey": "d6a71d4ad92adb04174861d019736d3b4214c11c735e9512fc05198533199f05",
     "titleHash": "7125328ec044bc84d6252aeb98c820329c7d9d297a1caff5eddfea31d593454d",
@@ -4798,5 +4774,29 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-14T06:31:26.871Z"
+  },
+  {
+    "itemId": "MLB5123290574",
+    "productKey": "8c76b04b8266652e",
+    "titleHash": "f095017ffecc087e",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-14T06:46:21.655Z"
+  },
+  {
+    "itemId": "MLB7160567726",
+    "productKey": "2b8d916b04c09f90",
+    "titleHash": "e6a0bbceb4a1566b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T06:46:21.656Z"
+  },
+  {
+    "itemId": "MLB7646052474",
+    "productKey": "eb06b71550ec0423",
+    "titleHash": "a1cefc98726517c3",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-14T06:46:21.656Z"
   }
 ]
