@@ -1,0 +1,277 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4962528607",
+      "site_id": "MLB",
+      "seller_id": 234766909,
+      "accepts_mercadopago": true,
+      "price": 1449,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5590,
+      "original_price": 1999.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTjMxMzZk",
+          "name": "Contagem"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJTkQ3MEJE",
+          "name": "Cinco"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3803597057",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB40199765",
+      "title": "Console Nintendo Switch Lite 32gb Azul Turquesa Standard Tela 5,5'' Cor Azul-turquesa",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_750146-MLA99972052003_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB40199765",
+      "id": "MLB4962528607",
+      "sold_quantity": 200,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    },
+    {
+      "item_id": "MLB5378454342",
+      "site_id": "MLB",
+      "seller_id": 50708392,
+      "accepts_mercadopago": true,
+      "price": 159.19,
+      "category_id": "MLB3843",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 76064,
+      "original_price": 198.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTGltZWlyYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Limeira"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1098850925",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48929479",
+      "title": "Caixa de Som Bluetooth Caixinha Grande 2 Altos Falantes 10w-hz 5.0 Boombox Com Radio Fm E Entrada Usb Pendrive",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_681719-MLA99467991212_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48929479",
+      "id": "MLB5378454342",
+      "sold_quantity": 1300,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4028626831",
+      "site_id": "MLB",
+      "seller_id": 1296169364,
+      "accepts_mercadopago": true,
+      "price": 124.51,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 139.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JSQTU2M2Yy",
+          "name": "Brasília"
+        },
+        "state": {
+          "id": "TUxCUERJU0wxMWJhYg",
+          "name": "Distrito Federal"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3039032042",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB14881694",
+      "title": "Mouse sem Fio HP 200 Oman Vermelho - com Sensor Óptico de até 1000 DPI, Ambidestro, Conexão Wireless com Receptor Nano de 2.4GHz e até 10 m de Distância (2HU82AA)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_749691-MLA99472662964_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB14881694",
+      "id": "MLB4028626831",
+      "sold_quantity": 700,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5228450663",
+      "site_id": "MLB",
+      "seller_id": 2299974722,
+      "accepts_mercadopago": true,
+      "price": 1029,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU5154879671",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65257310",
+      "title": "Tablet Samsung Galaxy Tab A11 64gb Prata + E-books Digitais Prata",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_611717-MLA106533716665_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65257310",
+      "id": "MLB5228450663",
+      "sold_quantity": 1200,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-14T09:16:23.330Z"
+}
