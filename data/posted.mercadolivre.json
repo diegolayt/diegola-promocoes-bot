@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5720585642",
-    "productKey": "367d174daf344affe96b9a28ca93f1335d82ba76a6e3ba7737fc7754816b2ce7",
-    "titleHash": "4da21b05e69194919c64d5aa7831a83e798a1b724748fbe5d071467ef9a2562a",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-06T15:15:29.155Z"
-  },
-  {
     "itemId": "MLB7620607478",
     "productKey": "f404f4d48a375164008c5f574623c32d94994a61a0637f8909354379214b0f0e",
     "titleHash": "4ecc5e6577f6dfe721f4ebd81c69d2db7cfff156e1aeeb9dd62e8ae34581e1e8",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-14T17:16:25.494Z"
+  },
+  {
+    "itemId": "MLB6243961170",
+    "productKey": "aea2de8a7c5c3d52",
+    "titleHash": "fd8a49ba38884f61",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-14T17:31:25.169Z"
   }
 ]

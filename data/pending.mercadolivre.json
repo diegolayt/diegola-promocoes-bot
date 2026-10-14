@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6243961170",
+      "site_id": "MLB",
+      "seller_id": 179105330,
+      "accepts_mercadopago": true,
+      "price": 134.06,
+      "category_id": "MLB199648",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2333,
+      "original_price": 208.96,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTE2NDE",
+          "name": "Santo André"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUjE5NTM",
+          "name": "Parque Jaçatuba"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3405342678",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB16138960",
+      "title": "Protetor solar Neostrata Minesol Oil Control 70FPS en gel creme 70mL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_894466-MLA108917866038_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB16138960",
+      "id": "MLB6243961170",
+      "sold_quantity": 100,
+      "rotationCategory": "pele",
+      "sourceCategoryId": "MLB199407",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-14T17:31:25.171Z"
+}
