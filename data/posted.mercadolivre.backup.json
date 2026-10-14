@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5319543557",
-    "productKey": "e1794297dc2cb2f2219932eb24d33498f53a36b4c1f4115e225f70e8990f81c0",
-    "titleHash": "0476e78d75cd872f8a0b5b10df9c4f8ed52715a88e691c7ba3bf8ddf5cfcf2e5",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-02T15:15:26.101Z"
-  },
-  {
-    "itemId": "MLB7501362280",
-    "productKey": "490cecdfbaa48fb2076e8bb13de6b0d9b36241804a511181a4ae1f8234e87b24",
-    "titleHash": "2d4e78b24cd92766767aceea069f4a31fc69b3ea238dd2e9e58aa964cf9e985d",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-02T15:30:35.602Z"
-  },
-  {
     "itemId": "MLB6658549258",
     "productKey": "cabbb447af73cacd0f8725871cae9994353af701a7b860f90be57f2afb12fa99",
     "titleHash": "13bc6b92a0023758cde5af03f2ed712e9741d3ad30c2e09a100359a5875e0ca8",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-14T00:01:21.247Z"
+  },
+  {
+    "itemId": "MLB4328622612",
+    "productKey": "029d0c6fc887611c",
+    "titleHash": "a2174520f63568e4",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-14T00:16:24.353Z"
+  },
+  {
+    "itemId": "MLB7686326512",
+    "productKey": "52e8973cc70fcc11",
+    "titleHash": "8d39b7cca9eea60b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T00:16:24.354Z"
   }
 ]
