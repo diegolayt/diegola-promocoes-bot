@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4707470817",
-    "productKey": "d6a71d4ad92adb04174861d019736d3b4214c11c735e9512fc05198533199f05",
-    "titleHash": "7125328ec044bc84d6252aeb98c820329c7d9d297a1caff5eddfea31d593454d",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-04T17:15:26.942Z"
-  },
-  {
     "itemId": "MLB3085731370",
     "productKey": "d28d7ff4dc31986108f3d4edf0186f9dbf7cc19a55a47422d8333d7c6e2b4738",
     "titleHash": "c7d4fc32964b4cb74a4debef751d87b3b6706482ca05f188fd81221e0cd0eca7",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-14T06:46:21.656Z"
+  },
+  {
+    "itemId": "MLB3838209499",
+    "productKey": "b9ee45f2c4136d0e",
+    "titleHash": "ae8d97b0516bc2b5",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-14T07:01:27.553Z"
   }
 ]
