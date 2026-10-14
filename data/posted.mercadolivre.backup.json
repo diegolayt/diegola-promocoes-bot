@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5379030888",
-    "productKey": "b2b24aaea52d093c4aa552bf18261becfe3e1fe13abde604a36bea81e6400d64",
-    "titleHash": "161556333ab3ba279c548b440861f9770c2fc34bd8ba9bdba5bc930f0167aed7",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-05T03:30:27.441Z"
-  },
-  {
-    "itemId": "MLB3999741077",
-    "productKey": "abdd2f1282b8b459ea5bbe2528886e4a51c3be1ff34b00ac3e9c75bd7b539256",
-    "titleHash": "0a380cdcd01571d6099a4065143fd875997b966f4f088f14a09a97ab2586584e",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-05T03:45:29.848Z"
-  },
-  {
-    "itemId": "MLB5295401309",
-    "productKey": "d90185c5813ba0bb15b33de8567a0558da407b9c7b17c78cea1cc45263afa380",
-    "titleHash": "21a3e3073fb16c72f79bcccb55628ee6b1f28981a9e7da0162351cef4c171f58",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-05T04:00:44.892Z"
-  },
-  {
     "itemId": "MLB6661253766",
     "productKey": "42cfb473bdcb95d9df43038710236314cabcabe21a4b64bd755c838341009e66",
     "titleHash": "7c8a36c01be3208a77d77e035cad96c09c101b73259ba9eba761dde1ca1ec89c",
@@ -4798,5 +4774,29 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-10-14T11:46:22.281Z"
+  },
+  {
+    "itemId": "MLB4287637614",
+    "productKey": "69af084751970c16",
+    "titleHash": "5d1608fdc1548bcb",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-14T12:01:31.871Z"
+  },
+  {
+    "itemId": "MLB4564236093",
+    "productKey": "41888fb320739b37",
+    "titleHash": "3fc1ad64a62d5f86",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-14T12:01:31.871Z"
+  },
+  {
+    "itemId": "MLB7531233584",
+    "productKey": "f0c5518ea0cabfba",
+    "titleHash": "b801230ddad01ff0",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-14T12:01:31.871Z"
   }
 ]
