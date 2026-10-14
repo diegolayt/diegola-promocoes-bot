@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4286128237",
-    "productKey": "5bd1da402a27bcc7e3ff99c9d3c7068cd269ecac902e3499c108e7eca29e63fe",
-    "titleHash": "8b02e1cd20d5d3b1639f3894f0d974b4ec8b06cb69e3c32cfe8b8f01e5aa5175",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-03T21:00:36.739Z"
-  },
-  {
     "itemId": "MLB5441434772",
     "productKey": "f5c7b29042c41105f11df2e4c5a2ef8bcbfb7aa95d7bdde2b28e9caf33fa1f59",
     "titleHash": "5fe760bf49b3d7a75f3a6d78d2e3534dc186287aafd92a7f7a541e6d54f84f47",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-14T04:16:24.794Z"
+  },
+  {
+    "itemId": "MLB4181168707",
+    "productKey": "196111ffacbbd89e",
+    "titleHash": "6584cbac695959ac",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-14T04:31:30.189Z"
   }
 ]
