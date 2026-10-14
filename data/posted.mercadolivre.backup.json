@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5289276835",
-    "productKey": "ba7df21eb0ca203657b74d7ea4ae1773655b42d17accfa68bfb2c42c6c052ff7",
-    "titleHash": "e289328335e8aff0edb32ab31940bba3f35502e8178c8cf03ba293546a281734",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-05T17:31:09.450Z"
-  },
-  {
-    "itemId": "MLB7751189958",
-    "productKey": "f1bf6bf916c5306ed5b2a9f75233b37dcf5516fdd63ce1c96c4c12f4926c0518",
-    "titleHash": "bbdcb68937be3dc78e40b9366e965c9cfdf374ee3ff01ff9ad257264aa757a22",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-05T17:45:35.309Z"
-  },
-  {
-    "itemId": "MLB4857152173",
-    "productKey": "e1f31ebb49ae051b5e8ee16b64794508a4b540d7e580a7d64e455ee7c835da08",
-    "titleHash": "da52ddf8d551059cbfa486b93ae7cea08923ae09e7fe748b038edff716222009",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-05T18:00:40.327Z"
-  },
-  {
     "itemId": "MLB6943757138",
     "productKey": "b92d841efb9e31e2dcadb0035637f24aa735fd61905b5446d59bae44dfdbb38b",
     "titleHash": "9d3845c26075840e16ec83ec2266cbe06b316fffb03a9642b743fd38ce03567b",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-14T12:16:26.402Z"
+  },
+  {
+    "itemId": "MLB6954342220",
+    "productKey": "01626bf5a4615728",
+    "titleHash": "a64225f5f9af9c7c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-14T12:31:25.487Z"
+  },
+  {
+    "itemId": "MLB5251825177",
+    "productKey": "78e15032506bdded",
+    "titleHash": "390f920e0311bfb0",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-14T12:31:25.487Z"
+  },
+  {
+    "itemId": "MLB4506025355",
+    "productKey": "e35e63157073651e",
+    "titleHash": "5e8971eaf2160afc",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-14T12:31:25.487Z"
   }
 ]
