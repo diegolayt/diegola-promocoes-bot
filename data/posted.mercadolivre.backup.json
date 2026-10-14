@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1941785534",
-    "productKey": "1010a845202376dbe0dc4a1081b4359a489793ee41247a523067a1eae986b8f2",
-    "titleHash": "ae3d9f5c10f2e3eb8a586f78618c80f3eeedc042b782bd9d92b3bc8aa34af094",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-05T01:00:43.950Z"
-  },
-  {
     "itemId": "MLB4937103255",
     "productKey": "43c350cfb5bcfa4fe80ee74cec981ffc8247a914e1b5b00246cd957c6c78f8b0",
     "titleHash": "3449650e195a39c3a0a085d3e66f1861360b5f69590c20d84c4c288b1db025ad",
@@ -4798,5 +4790,13 @@
     "category": "esporte",
     "sourceCategoryId": null,
     "reservedAt": "2026-10-14T11:00:47.426Z"
+  },
+  {
+    "itemId": "MLB3838932193",
+    "productKey": "bb97bec5430921e3",
+    "titleHash": "50bc1e37d298bba9",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-14T11:16:23.863Z"
   }
 ]
