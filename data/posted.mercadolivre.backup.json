@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5957865496",
-    "productKey": "6cb8a3bad69a7f8ba0602efa3ceb7b3857365e5f530351c99c96c70e5c4be672",
-    "titleHash": "5f5b66ae18a9ad3b9e19e39cb22afa7688ca10ae42053a6c08c9d9c32aa66cad",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-03T17:45:29.433Z"
-  },
-  {
-    "itemId": "MLB6954342220",
-    "productKey": "01626bf5a4615728abc4efa158da8f8799cfcd0f1c101b423ccf7481133bbed4",
-    "titleHash": "a64225f5f9af9c7cdebff03860144ee9bb2798aa47833a223d7630ec84951eba",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-03T18:00:40.034Z"
-  },
-  {
-    "itemId": "MLB4028626831",
-    "productKey": "5a76a4eddf9a8c24c6d1d24b6fc143430e74b17ac5e75150c1ffc4d13214a843",
-    "titleHash": "80b12ed4dcc25fa630fed8cee6af6c3b4235d807f9b1780c4d7127755da95def",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-03T18:15:31.050Z"
-  },
-  {
     "itemId": "MLB4267312145",
     "productKey": "78c76163d845c43163213ad778778144a39d10ae78922b11704a57308607a7e7",
     "titleHash": "f4a2d665975991c4c838d74bd1233a2432453510306c915680188a6d1d0b3083",
@@ -4798,5 +4774,29 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-14T03:01:32.501Z"
+  },
+  {
+    "itemId": "MLB5332948385",
+    "productKey": "0c50fbe1ab1492a5",
+    "titleHash": "08c42f6b7de828d4",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-14T03:16:22.998Z"
+  },
+  {
+    "itemId": "MLB7030301236",
+    "productKey": "2c91e939a7b3a3a7",
+    "titleHash": "bbfa3287b1760a8f",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-14T03:16:22.998Z"
+  },
+  {
+    "itemId": "MLB4540296511",
+    "productKey": "561f43f75c5fd9a2",
+    "titleHash": "b4d8df6ce6f87334",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-14T03:16:22.998Z"
   }
 ]

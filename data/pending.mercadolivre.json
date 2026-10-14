@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5332948385",
+      "site_id": "MLB",
+      "seller_id": 3593748995,
+      "accepts_mercadopago": true,
+      "price": 86.97,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 299.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjUwNzE",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5396430470",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19721946",
+      "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19721946",
+      "id": "MLB5332948385",
+      "sold_quantity": 1300,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7030301236",
+      "site_id": "MLB",
+      "seller_id": 178333545,
+      "accepts_mercadopago": true,
+      "price": 320.09,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 589.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSXRhcXVhcXVlY2V0dWJhVFV4Q1VGTkJUM",
+          "name": "Itaquaquecetuba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYVW5hVFZoWVNYUmhjWFZoY1hWbFkyVjBkV",
+          "name": "Una"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4158674228",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB58339296",
+      "title": "Jogo De Panelas Cerâmico Triplo Indução Tuut Ecoglid 8 Peças Cor Marble",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_898490-MLA99452766568_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB58339296",
+      "id": "MLB7030301236",
+      "sold_quantity": 1800,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB4540296511",
+      "site_id": "MLB",
+      "seller_id": 276463533,
+      "accepts_mercadopago": true,
+      "price": 78.11,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "catalog_boost",
+        "user_product_unify",
+        "has_published_clips",
+        "kvs_primary",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 309802,
+      "original_price": 125.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUVWM2Y2Ix",
+          "name": "Ituiutaba"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1BUjNCRDQ3",
+          "name": "Marta Helena"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2965094917",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB80136311",
+      "title": "Body Splash Arabe C/4un 200ml Perfume Feminino de Luxo Alta Concentração",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_800232-MLA118786204179_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB80136311",
+      "id": "MLB4540296511",
+      "sold_quantity": 700,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-14T03:16:23.001Z"
+}
