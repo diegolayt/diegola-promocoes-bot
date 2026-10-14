@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5776728534",
-    "productKey": "fb940bc8a256ecd8880f67101b314b711ab55dc428106d541e33da3172cc6418",
-    "titleHash": "2e209790e65e495f177b3ee0af79647596219d04806dce767d64cd2d39355a67",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-06T17:30:31.391Z"
-  },
-  {
-    "itemId": "MLB5446652380",
-    "productKey": "f93053933a8a7b055d52b74f5a1205ddd25ab692035dc28a86c5dcd4d6122cb9",
-    "titleHash": "9ff8e650d856c58dea937383fc952eabf85835a571b1b8aec0c3ae7abada3ea3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-06T17:45:31.066Z"
-  },
-  {
     "itemId": "MLB7618822944",
     "productKey": "7c5b29917a5a4f0d81692e3a8431a63c2728f79d307064854fac19497b4e3a72",
     "titleHash": "4df93f7a820e0b0f17e343f8d16c4fa775ce417f379862e5530672b9d2e09b61",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-14T18:46:34.796Z"
+  },
+  {
+    "itemId": "MLB4959727595",
+    "productKey": "6ee34dbf91ba8236",
+    "titleHash": "44f5a0eb4c12ff71",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-14T19:01:30.044Z"
+  },
+  {
+    "itemId": "MLB7613817060",
+    "productKey": "a69d636355916b46",
+    "titleHash": "23b7e30efd25845a",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-14T19:01:30.044Z"
   }
 ]
