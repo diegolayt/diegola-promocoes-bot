@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5177123728",
-    "productKey": "a0577f276a61d486abe06fff1ec7d6b82635244e81b4b5b938b2c4a2a9c93d8a",
-    "titleHash": "a0e7068095171d6a6f4500b4124d37c9d8777ec37d9ae175e53be17fab903eae",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-03T19:45:36.917Z"
-  },
-  {
-    "itemId": "MLB7678733460",
-    "productKey": "d003e21bca8d0229b059c57c316327a5a23294dd57278652a1251db9d14a67a2",
-    "titleHash": "2f1611724bad8c748cac37ccf89e17c221a576ee582a0175d264026bf7d1e114",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-03T20:00:37.746Z"
-  },
-  {
-    "itemId": "MLB5364351408",
-    "productKey": "eb2f009025729323d2a9ae5806bf83ce304d634eb5e6ddd52855e876d1f635f0",
-    "titleHash": "11354607f2627f167a43cc2a1b7c6d276794a14d796c6f135888ea82b67906c7",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-03T20:15:31.111Z"
-  },
-  {
-    "itemId": "MLB5324923349",
-    "productKey": "5d7af8f790c6fdd63d05df5c1c732f725ffeaf4eaea995375b482f75144857f5",
-    "titleHash": "47e6d2d1173e13c141467ddee85addca549682f1223e3e245fb53ff9ae4a252d",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-03T20:30:35.807Z"
-  },
-  {
     "itemId": "MLB6294491390",
     "productKey": "d729de19b9126a4a7431178431c5c4a82166de5013a7a06fd66ee7674f587e31",
     "titleHash": "14712115457fe6790b256b549c3b5b97c7d142ed782332422e7d370332df38df",
@@ -4798,5 +4766,37 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-14T03:46:22.691Z"
+  },
+  {
+    "itemId": "MLB7764924996",
+    "productKey": "c421c7dbedfa4af5",
+    "titleHash": "d1f3d0e27d1791c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-14T04:01:31.739Z"
+  },
+  {
+    "itemId": "MLB7699264564",
+    "productKey": "a04a75b9fb4e31ed",
+    "titleHash": "f6dd9b7437ccaa6c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T04:01:31.739Z"
+  },
+  {
+    "itemId": "MLB3659334745",
+    "productKey": "ca64f9d61aaeaaab",
+    "titleHash": "c760fa318235a1c4",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-14T04:01:31.739Z"
+  },
+  {
+    "itemId": "MLB5342139513",
+    "productKey": "23c4410a26b6c187",
+    "titleHash": "a4502ea76973e897",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-14T04:01:31.739Z"
   }
 ]

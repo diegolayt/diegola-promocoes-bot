@@ -1,0 +1,296 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7764924996",
+      "site_id": "MLB",
+      "seller_id": 723264377,
+      "accepts_mercadopago": true,
+      "price": 322,
+      "category_id": "MLB6777",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 748,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BJTmU4ZjEw",
+          "name": "Pinhais"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU5387369451",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62535762",
+      "title": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_620355-MLA99033065284_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62535762",
+      "id": "MLB7764924996",
+      "sold_quantity": 1900,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB7699264564",
+      "site_id": "MLB",
+      "seller_id": 1254142595,
+      "accepts_mercadopago": true,
+      "price": 95,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 152.15,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBUDM2NTg1",
+          "name": "Capela do Socorro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5264353805",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB39230611",
+      "title": "Creatina Integralmédica sem sabor pacote x 2 frascos de 300g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99985874825_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB39230611",
+      "id": "MLB7699264564",
+      "sold_quantity": 1500,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3659334745",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 376,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "dynamic_standard_price",
+        "first_party",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4611,
+      "original_price": 438.93,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1981342788",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB32643222",
+      "title": "Jogo De Panelas Tramontina Antiaderente Turim 10 Pç Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_968749-MLA96127424143_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB32643222",
+      "id": "MLB3659334745",
+      "sold_quantity": 400,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5342139513",
+      "site_id": "MLB",
+      "seller_id": 1426609959,
+      "accepts_mercadopago": true,
+      "price": 106,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQmFydWVyaVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Barueri"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUGFycXVlIERvcyBDYW1hcmdvc1RWaFlRb",
+          "name": "Parque Dos Camargos"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5374027425",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB32162099",
+      "title": "Relógio Unissex Casio Digital Esportivo A158wa-1df Prata Retrô Vintage Pulseira em Aço Inoxidável",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_723628-MLA118260371869_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB32162099",
+      "id": "MLB5342139513",
+      "sold_quantity": 600,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-14T04:01:31.741Z"
+}
