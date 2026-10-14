@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7319690876",
-    "productKey": "268fde5a5ed2195069035c2de05ecd79d5d642c443a392a20cbe51de7b64a26b",
-    "titleHash": "5806263d0b543f9923e691c9c9b20a88e1c23a2dcaf42e68f2d7b7a682db0d05",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-06T06:00:42.126Z"
-  },
-  {
     "itemId": "MLB5311422843",
     "productKey": "c68e7df5fbb0bc4078be3d540794ac83762288564539187318591ab295af3364",
     "titleHash": "a5628dcc75d4851c701f3d40e00780dc95feadd13430483133aeacb5d2eeccc2",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-14T16:46:29.776Z"
+  },
+  {
+    "itemId": "MLB5281065549",
+    "productKey": "7860af033b3fd150",
+    "titleHash": "6ca13a59e47a1cb7",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-14T17:01:30.912Z"
   }
 ]
