@@ -1,0 +1,324 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3995338569",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 299,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "dynamic_standard_price",
+        "first_party",
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 569.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3013701383",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46098247",
+      "title": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6L 8 receitas pré-sugeridas timer 60 minutos desligamento automático cesto removivel dupla camada antiaderente - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_947666-MLA103616632598_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46098247",
+      "id": "MLB3995338569",
+      "sold_quantity": 1700,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4576693657",
+      "site_id": "MLB",
+      "seller_id": 85263796,
+      "accepts_mercadopago": true,
+      "price": 1499,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4398,
+      "original_price": 2212.86,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJ1asOhVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Arujá"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3871209779",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67468569",
+      "title": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band, Câmera 8MP + Selfie 5MP, 7000mAh, Android 16, com Teclado Magnético de Conexão Inteligente – Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_911625-MLA111714671966_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67468569",
+      "id": "MLB4576693657",
+      "sold_quantity": 1700,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB5441434772",
+      "site_id": "MLB",
+      "seller_id": 2024441743,
+      "accepts_mercadopago": true,
+      "price": 73,
+      "category_id": "MLB3843",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 259342,
+      "original_price": 117.97,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3098197269",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45987118",
+      "title": "Caixa De Som Portatil 20W, Inova Caixa de Som pequena com Radio FM E RGB, caixinha som bluetooth À Prova D'água IP67, Caixa De Som Potente Para Moto Bike, Bateria 15h, TWS Som Estéreo Grave Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_839594-MLA99937957939_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45987118",
+      "id": "MLB5441434772",
+      "sold_quantity": 400,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7320465078",
+      "site_id": "MLB",
+      "seller_id": 3366877785,
+      "accepts_mercadopago": true,
+      "price": 74.9,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NJTWUyMzlm",
+          "name": "Simões Filho"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4574700360",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB15144095",
+      "title": "Logitech Mouse Sem Fio M170 Preto Cinza USB 2.4GHz Ambidestro Compacto para Notebook PC Computador com Nano Receptor USB Conexão Sem Fio Tecnologia Wireless Com De 1000DPI",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_956180-MLA99964568593_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB15144095",
+      "id": "MLB7320465078",
+      "sold_quantity": 1300,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-14T15:46:23.911Z"
+}
