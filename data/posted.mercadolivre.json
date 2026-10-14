@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6847613118",
-    "productKey": "6a0f874da4937eb3ffcb06901036db32c7be062208698437e18d52aa1ba98431",
-    "titleHash": "994272fd0fa8ee25b903d69848f2a2baf16fc73e6d78cbd10ec99f1bdefd1e4b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-04T00:30:36.047Z"
-  },
-  {
-    "itemId": "MLB4124835881",
-    "productKey": "9b9a7eeb47a643f9f406fbba2727191be6c1bb5981a33d67e9db0520b2f3877d",
-    "titleHash": "3afcd513ed4312ba66a4e9b3fbc8e13860d0311d194fc5eb0863600616de34c7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-04T00:45:37.082Z"
-  },
-  {
-    "itemId": "MLB7529392590",
-    "productKey": "fd83f25c3b8fcc66a94268a16404266f5ecfa3a0bcec8ced56e994ba145c7d4a",
-    "titleHash": "7d923047dcc35c568aa321bd2b2ba7aa2a24731fb2e5b8974dc7841f4fd65b37",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-04T01:00:36.596Z"
-  },
-  {
-    "itemId": "MLB3949441415",
-    "productKey": "05b84b93849ca0c3f686d42568e2f52f6f19021f5d4f720bb8163860e0512967",
-    "titleHash": "7ddd215d3c9f7147d63a7d8b721fd040c41f57e4fa5fa8e22d30e9dcc802917d",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-04T01:15:29.672Z"
-  },
-  {
     "itemId": "MLB6099870676",
     "productKey": "488e0777c37e73869e9657f542b6b61ac9963296190071d630692e9a938cff7b",
     "titleHash": "84cf3d3be75f26285535156a83242d800b451dd7aadac4e91e13fe82c70fd261",
@@ -4798,5 +4766,37 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-14T05:31:25.046Z"
+  },
+  {
+    "itemId": "MLB4367472233",
+    "productKey": "586170da6abacc2c",
+    "titleHash": "9db3ad497b1f6ba2",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-14T05:46:20.394Z"
+  },
+  {
+    "itemId": "MLB7701800018",
+    "productKey": "8391a7ae62302cad",
+    "titleHash": "1f20a51ee45cd080",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-14T05:46:20.394Z"
+  },
+  {
+    "itemId": "MLB5217693736",
+    "productKey": "bd3aa3aa17d44d1a",
+    "titleHash": "bb0ac3e977c30917",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-14T05:46:20.394Z"
+  },
+  {
+    "itemId": "MLB4573612827",
+    "productKey": "82b49af509dbfda1",
+    "titleHash": "16c4a8443cfb86b5",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-14T05:46:20.394Z"
   }
 ]
