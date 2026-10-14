@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4631787401",
-    "productKey": "5707418a30805cbf3fff166e12ddaae63e314f9a7e5f90634ecd75c8e465bcb0",
-    "titleHash": "4e21a569e001ae6eee5b7451faf8c0c513618282f9431e64790e6615304896f9",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-06T16:00:45.552Z"
-  },
-  {
-    "itemId": "MLB3488256704",
-    "productKey": "4a51d4df37ada10ade6bb9597bdab14b104f2389e25d628d62640649bef7eeaa",
-    "titleHash": "564f62580d03beeed8eab13bfd7c42051195198057421877a9258e5867ec21ec",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-06T16:15:42.425Z"
-  },
-  {
-    "itemId": "MLB5725107494",
-    "productKey": "d3512e005bef4d49d63430dd5253e527520b1a7204dfff25a877b97195465870",
-    "titleHash": "3b8d07d05440f04be420767ae4e1a77c81f3d877a48dee882c03a820b6e2d7cf",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-06T16:30:40.814Z"
-  },
-  {
-    "itemId": "MLB6407635640",
-    "productKey": "2582e84a06cf522c175923c3a88ecf868a912acb5668e4015175aaf5639e7ca5",
-    "titleHash": "abda8896591ac5e3b716525c641489cd01ecd3578cc309a4800ab0e3a2b583f2",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-06T16:45:28.871Z"
-  },
-  {
     "itemId": "MLB5055972719",
     "productKey": "1317d74e4994bd841ea8eeec329adabd14f4bc6bb6ef835a4b8c705362a5851e",
     "titleHash": "9c2438faaf66bd0949d6036cf99562f68e3993563b1f859270de618cfb8b91ec",
@@ -4798,5 +4766,37 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-14T18:16:23.956Z"
+  },
+  {
+    "itemId": "MLB3398173761",
+    "productKey": "3ad3274eb28b3f64",
+    "titleHash": "a87908bc89d55121",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-14T18:31:29.278Z"
+  },
+  {
+    "itemId": "MLB3085731370",
+    "productKey": "d28d7ff4dc319861",
+    "titleHash": "c7d4fc32964b4cb7",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-14T18:31:29.279Z"
+  },
+  {
+    "itemId": "MLB5350127318",
+    "productKey": "ec3b73f24f9af257",
+    "titleHash": "802e07e18ad37e9b",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-14T18:31:29.279Z"
+  },
+  {
+    "itemId": "MLB5245640533",
+    "productKey": "820a7bf3129a48cf",
+    "titleHash": "82c17092d0642575",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-14T18:31:29.279Z"
   }
 ]
