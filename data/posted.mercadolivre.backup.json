@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5217693736",
-    "productKey": "bd3aa3aa17d44d1a4dae9f219e30649e06c95d5eb913489c020de7b132531ab2",
-    "titleHash": "bb0ac3e977c3091768e97a3820669df984d97fce77e0c34235c864b3acb22a6e",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-03T23:46:05.326Z"
-  },
-  {
-    "itemId": "MLB5728106336",
-    "productKey": "bd5a57a6887059e5c4b90bd303456fc928da05372cd3b1623ca03d003cc8d8e6",
-    "titleHash": "2f41e2e081190be24bbaf1270b4ecb85c4ff08c446228e894934bdabe46b4bee",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-04T00:00:42.353Z"
-  },
-  {
-    "itemId": "MLB5926653126",
-    "productKey": "2f19ab49dff9833ee3c6514a6f43692ad0aab3325dcd5d11c8b4f3d0ca8e73ac",
-    "titleHash": "d401bb0c0418c14bfebd87fc68b98f686f672d2975e8200cf702a4717ba3ae67",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-04T00:15:34.376Z"
-  },
-  {
     "itemId": "MLB6847613118",
     "productKey": "6a0f874da4937eb3ffcb06901036db32c7be062208698437e18d52aa1ba98431",
     "titleHash": "994272fd0fa8ee25b903d69848f2a2baf16fc73e6d78cbd10ec99f1bdefd1e4b",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-14T05:16:35.999Z"
+  },
+  {
+    "itemId": "MLB5643054880",
+    "productKey": "214fc030cd4ff663",
+    "titleHash": "8f91897b121eb9ff",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-14T05:31:25.046Z"
+  },
+  {
+    "itemId": "MLB5525263450",
+    "productKey": "1d8166e9351c06df",
+    "titleHash": "2d20bb6dda958724",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-14T05:31:25.046Z"
+  },
+  {
+    "itemId": "MLB3690378660",
+    "productKey": "f50d9493dc09f208",
+    "titleHash": "4a48b2b1ec2a17f0",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-14T05:31:25.046Z"
   }
 ]
