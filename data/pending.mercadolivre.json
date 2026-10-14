@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5274918465",
+      "site_id": "MLB",
+      "seller_id": 2943049215,
+      "accepts_mercadopago": true,
+      "price": 78.9,
+      "category_id": "MLB122102",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 260904,
+      "original_price": 139.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1RJSmU0ZjNi",
+          "name": "Tijucas"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5177324326",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB79566827",
+      "title": "Creatina Monohidratada 500g Pouch - Growth Supplements Sem Sabor",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652335-MLA117880266953_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB79566827",
+      "id": "MLB5274918465",
+      "sold_quantity": 1000,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-14T07:31:29.004Z"
+}

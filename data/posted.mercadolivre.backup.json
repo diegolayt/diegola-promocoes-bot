@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5325858927",
-    "productKey": "6c0323ca8b28669bedd42489a11d6ca11ea2a2585ada66b114b2f3f6e3d793a3",
-    "titleHash": "53bd0ca4aa5bcfef9939f794a53341e43febea3dc688360cb7fa3214ad0ebe28",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-04T17:45:28.269Z"
-  },
-  {
     "itemId": "MLB5324900649",
     "productKey": "993970d7bfdf9394b465327efb92ed8d952e4bbfac1049db31e8fa9d8706214b",
     "titleHash": "c8e300260d302cab5fab3313078da4f237524121305218b7226ca2cc597a8d08",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-14T07:16:23.491Z"
+  },
+  {
+    "itemId": "MLB5274918465",
+    "productKey": "2bee8087e74a7b84",
+    "titleHash": "ca4023b18b64a686",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T07:31:29.001Z"
   }
 ]
