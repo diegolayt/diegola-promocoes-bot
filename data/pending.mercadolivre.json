@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6534791040",
+      "site_id": "MLB",
+      "seller_id": 265331896,
+      "accepts_mercadopago": true,
+      "price": 549.9,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 264768,
+      "original_price": 1299.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDNtczJn",
+          "name": "Vila Ivone"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3876754702",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB72899500",
+      "title": "Drone Profissional Gt8 Pro 4k Ultra Hd Com Câmera Aérea Desvio Inteligente De Obstáculos Controle Por Gestos Motor Sem Escovas Voo Estável E Kit Completo Acessórios Marca Popsy",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_702096-MLA112926785611_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB72899500",
+      "id": "MLB6534791040",
+      "sold_quantity": 1300,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB7480407364",
+      "site_id": "MLB",
+      "seller_id": 726591607,
+      "accepts_mercadopago": true,
+      "price": 59.9,
+      "category_id": "MLB117801",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 191282,
+      "original_price": 79.86,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUmZ0MW4z",
+          "name": "Jardim Cumbica"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4899795116",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78017742",
+      "title": "Kit Maleta 50 Bolas Pendentes + Estrela Ponteira Para Árvore De Natal Decoração Natalina Premium - Dourada",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_828156-MLA117378032355_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78017742",
+      "id": "MLB7480407364",
+      "sold_quantity": 1100,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5677267318",
+      "site_id": "MLB",
+      "seller_id": 1158756553,
+      "accepts_mercadopago": true,
+      "price": 1099,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2962,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTENBUDI1",
+          "name": "Vila São Francisco (Zona Sul)"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3405440631",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54961556",
+      "title": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_895724-MLA91526198522_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54961556",
+      "id": "MLB5677267318",
+      "sold_quantity": 1800,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB4807627215",
+      "site_id": "MLB",
+      "seller_id": 376737221,
+      "accepts_mercadopago": true,
+      "price": 169,
+      "category_id": "MLB277555",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4153729444",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24348255",
+      "title": "Apple AirTag Rastreador Localizador APENAS UMA UNIDADE",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603595-MLA99450394422_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24348255",
+      "id": "MLB4807627215",
+      "sold_quantity": 300,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-14T02:31:23.279Z"
+}
