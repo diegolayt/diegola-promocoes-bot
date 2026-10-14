@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5779941542",
-    "productKey": "0b028e4f27c78df23236cb835e69ec790180c748a347e79cd9bc91ea821cfe62",
-    "titleHash": "ddce1d36b82207f4359c638525f065853e2cba08a23b6fe4a8ce2c0fbbfe857c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-05T22:00:41.091Z"
-  },
-  {
-    "itemId": "MLB4696185003",
-    "productKey": "32f7bac396473e6362ae3e50b0450fb2453e2d2daa5123fee6b9d6a058431184",
-    "titleHash": "bb8a00aed59d0b9bcbdeba8539095f6569596c63d356351c1b557d5103a10039",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-05T22:15:33.708Z"
-  },
-  {
-    "itemId": "MLB4612875615",
-    "productKey": "8a5cc19f5fa3af1f53db16458fc620b7ecc0e8232ebdc1a9df6bd9e8e01b631b",
-    "titleHash": "3ec3ade5cbdb1caac8ec0404d777910c1d7ec9e92b79d393c68e5ef9ef93a240",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-05T22:30:45.142Z"
-  },
-  {
     "itemId": "MLB5408541396",
     "productKey": "07d55cd5bc2fcbd650d9be408839a6b6779aded8a6558e32344c8855918c803a",
     "titleHash": "1ce6265d54d5cadbe89935995caca7e0f708f42ebc7f50f137af3eebefc715bc",
@@ -4798,5 +4774,29 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-10-14T15:01:34.520Z"
+  },
+  {
+    "itemId": "MLB5097723592",
+    "productKey": "0314016684b00af3",
+    "titleHash": "f150802ac716f3c0",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-14T15:16:21.454Z"
+  },
+  {
+    "itemId": "MLB7439289696",
+    "productKey": "e192924e8dfd60cb",
+    "titleHash": "f8a0196898f2d977",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-14T15:16:21.454Z"
+  },
+  {
+    "itemId": "MLB5348359793",
+    "productKey": "ba34241d40e58f46",
+    "titleHash": "099d8a3235f740a5",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-14T15:16:21.454Z"
   }
 ]
