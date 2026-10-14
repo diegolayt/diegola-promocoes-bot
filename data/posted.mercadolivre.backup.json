@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6661253766",
-    "productKey": "42cfb473bdcb95d9df43038710236314cabcabe21a4b64bd755c838341009e66",
-    "titleHash": "7c8a36c01be3208a77d77e035cad96c09c101b73259ba9eba761dde1ca1ec89c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-05T04:15:35.542Z"
-  },
-  {
-    "itemId": "MLB5849862690",
-    "productKey": "e93db4dd324e538875de4e35f52cbdd355a39433c2561801aef1ad72b27a6cd3",
-    "titleHash": "f77e10024cba70001242da98f97ee1e09a66d54419baf7811e3e5ef1c78e26f0",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-05T09:15:37.784Z"
-  },
-  {
-    "itemId": "MLB6455385580",
-    "productKey": "ac0bdddf38ebf512428ad413f8d1a5a86429bf318244d602636660d6f75b7835",
-    "titleHash": "28d35725bedc03023c28e693a1a8eac12c72cbed8912a4b6aefab7c25fcfdd1a",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-05T17:15:42.913Z"
-  },
-  {
     "itemId": "MLB5289276835",
     "productKey": "ba7df21eb0ca203657b74d7ea4ae1773655b42d17accfa68bfb2c42c6c052ff7",
     "titleHash": "e289328335e8aff0edb32ab31940bba3f35502e8178c8cf03ba293546a281734",
@@ -4798,5 +4774,29 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-14T12:01:31.871Z"
+  },
+  {
+    "itemId": "MLB4367472775",
+    "productKey": "fa34295fd787e18c",
+    "titleHash": "190b71ddac76b50c",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-14T12:16:26.401Z"
+  },
+  {
+    "itemId": "MLB6233971228",
+    "productKey": "a5159ad3bb7f346b",
+    "titleHash": "b3a008af85b3061b",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-14T12:16:26.402Z"
+  },
+  {
+    "itemId": "MLB5387430169",
+    "productKey": "906063b0ea0b600c",
+    "titleHash": "064b2f5eecc087e2",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-14T12:16:26.402Z"
   }
 ]
