@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6160701910",
+      "site_id": "MLB",
+      "seller_id": 3069226173,
+      "accepts_mercadopago": true,
+      "price": 59.99,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjUwNzE",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3719269507",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54823259",
+      "title": "Creatina Growth Supplements (250g) Monohidratada - Sabor Sem Sabor",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_722814-MLA111759166568_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54823259",
+      "id": "MLB6160701910",
+      "sold_quantity": 100,
+      "rotationCategory": "esporte",
+      "trendRank": true
+    }
+  ],
+  "reservedAt": "2026-10-14T11:00:47.428Z"
+}
