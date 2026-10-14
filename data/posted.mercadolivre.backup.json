@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3863878037",
-    "productKey": "6187b33bbd506a19fb47f71e063475869ce772c0971f7895de399672714adb69",
-    "titleHash": "50514a501fdcd1b84d68b98bec6d256865a8cbded055a1e32f7673b16e42a06e",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-03T15:45:31.600Z"
-  },
-  {
-    "itemId": "MLB7634694416",
-    "productKey": "bbbcab83b53caf8dc31023a810e77c0951006b63d29c7ab21cc2f0b11e826ffa",
-    "titleHash": "4d125c614256b48a42ed70deee0ee26d235f6588a468da2e078e4e608ac1c9fc",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-03T16:00:46.028Z"
-  },
-  {
-    "itemId": "MLB6889668614",
-    "productKey": "61936a573d33a226014ce7b904c831f1562b78a45e60d11a6f2f9a112bcbd7f9",
-    "titleHash": "4aba07aa2efc9eb5882878a10138e7f9c68bd97565d01a85d509270a902bb0f9",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-03T16:15:38.356Z"
-  },
-  {
-    "itemId": "MLB6501036046",
-    "productKey": "dd308e2808324d842b70ba035b8f35ebd6f5c67239d5f3f87cd5709059853034",
-    "titleHash": "3cd571e03dae13c22c4c9f9815d8a80525a2883e500bc118e55a85d3ccdb493c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-03T16:30:35.913Z"
-  },
-  {
     "itemId": "MLB7609280426",
     "productKey": "d381c25d0176b94f842159ab32c4454d75f540183d06b4965d9294b16808ac40",
     "titleHash": "95f9e16ad91213b4cf6ce279de398899313144b6796a677047e96792d5660a9d",
@@ -4798,5 +4766,37 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-14T02:31:23.277Z"
+  },
+  {
+    "itemId": "MLB4796581904",
+    "productKey": "88a6dadf927c6698",
+    "titleHash": "cbbf495579edc022",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-14T02:46:21.828Z"
+  },
+  {
+    "itemId": "MLB4452425949",
+    "productKey": "4da8403653ad3f9a",
+    "titleHash": "3f644395875c5baa",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-14T02:46:21.828Z"
+  },
+  {
+    "itemId": "MLB7572147416",
+    "productKey": "beff4cef257732ed",
+    "titleHash": "11fa0ab13597eab7",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-14T02:46:21.828Z"
+  },
+  {
+    "itemId": "MLB4320374081",
+    "productKey": "bd7e186faebad4c2",
+    "titleHash": "4f66bd4101d296ee",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-14T02:46:21.828Z"
   }
 ]
