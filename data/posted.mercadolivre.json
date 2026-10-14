@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7609280426",
-    "productKey": "d381c25d0176b94f842159ab32c4454d75f540183d06b4965d9294b16808ac40",
-    "titleHash": "95f9e16ad91213b4cf6ce279de398899313144b6796a677047e96792d5660a9d",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-03T16:45:31.477Z"
-  },
-  {
-    "itemId": "MLB3659334745",
-    "productKey": "ca64f9d61aaeaaab730f7b97c87307ff9abe343c869881c9bbb6e7ffe31239cf",
-    "titleHash": "c760fa318235a1c44930143284b355178282818aeb7b89ae9406c1aa1f028c44",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-03T17:00:35.054Z"
-  },
-  {
-    "itemId": "MLB4217058289",
-    "productKey": "820a7bf3129a48cfe591c1975c67cee9719ce5ce42e4f3a75656ff6f92ccad5e",
-    "titleHash": "82c17092d0642575aab834c971b2c625a124a00f5216a9381ad476c6601b7884",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-03T17:15:36.827Z"
-  },
-  {
-    "itemId": "MLB4231760729",
-    "productKey": "4117e94c7579dfc526c084dc85d0de4af160ce4272d8d759fc12fc32b0045347",
-    "titleHash": "4aeac4b09780d00f4ebdf681b69646c73620b14659e6452e1c3b3939b0744433",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-03T17:30:35.868Z"
-  },
-  {
     "itemId": "MLB5957865496",
     "productKey": "6cb8a3bad69a7f8ba0602efa3ceb7b3857365e5f530351c99c96c70e5c4be672",
     "titleHash": "5f5b66ae18a9ad3b9e19e39cb22afa7688ca10ae42053a6c08c9d9c32aa66cad",
@@ -4798,5 +4766,37 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-14T02:46:21.828Z"
+  },
+  {
+    "itemId": "MLB3525364839",
+    "productKey": "f8b4730edfd7a1c2",
+    "titleHash": "16dd35246dab9fd4",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-14T03:01:32.500Z"
+  },
+  {
+    "itemId": "MLB6889668614",
+    "productKey": "61936a573d33a226",
+    "titleHash": "4aba07aa2efc9eb5",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-14T03:01:32.501Z"
+  },
+  {
+    "itemId": "MLB5174923981",
+    "productKey": "0093a548dee7b78c",
+    "titleHash": "acc61814edc438ee",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-14T03:01:32.501Z"
+  },
+  {
+    "itemId": "MLB5301029635",
+    "productKey": "b7371e77d704b462",
+    "titleHash": "cc44c47e60e54f0b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-14T03:01:32.501Z"
   }
 ]
