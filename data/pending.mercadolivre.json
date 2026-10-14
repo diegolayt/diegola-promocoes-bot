@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7724332862",
+      "site_id": "MLB",
+      "seller_id": 750553953,
+      "accepts_mercadopago": true,
+      "price": 626.67,
+      "category_id": "MLB73052",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 899,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1P0zE4Mjc",
+          "name": "Moóca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5307414841",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46943735",
+      "title": "Purificador de Água Gelada Fria e Natural Eletrônico Placa Compacto Electrolux PE12P com Filtro Carvão 6 meses ou 3000L Painel Touch Preto Bivolt",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_966228-MLA99958747163_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46943735",
+      "id": "MLB7724332862",
+      "sold_quantity": 900,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB4386377708",
+      "site_id": "MLB",
+      "seller_id": 1453624811,
+      "accepts_mercadopago": true,
+      "price": 217,
+      "category_id": "MLB1611",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kit_component",
+        "good_quality_thumbnail",
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 259,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU1983118545",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB29553039",
+      "title": "Travesseiro Cervical Nasa - Coluna Relax - Carvão Ativado Cor branco e cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_717878-MLA95711097224_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB29553039",
+      "id": "MLB4386377708",
+      "sold_quantity": 300,
+      "rotationCategory": "colchão",
+      "sourceCategoryId": "MLB438928",
+      "minPrice": 200
+    },
+    {
+      "item_id": "MLB5069140505",
+      "site_id": "MLB",
+      "seller_id": 2492571813,
+      "accepts_mercadopago": true,
+      "price": 85,
+      "category_id": "MLB277387",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDI5NTY",
+          "name": "Vila Alpina"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4757999514",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB16088308",
+      "title": "Gillette Mach3 Sensitive Carga para Aparelho de Barbear com Aloe 8 Unidades",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_730130-MLA110378234867_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB16088308",
+      "id": "MLB5069140505",
+      "sold_quantity": 1600,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7366888370",
+      "site_id": "MLB",
+      "seller_id": 156797617,
+      "accepts_mercadopago": true,
+      "price": 343,
+      "category_id": "MLB188785",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0dPSTVkMTYw",
+          "name": "Goiânia"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJFU0FGNDQ2",
+          "name": "Residencial Sonho Dourado"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4658233680",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19802405",
+      "title": "2Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_707426-MLU72340464209_102023-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19802405",
+      "id": "MLB7366888370",
+      "sold_quantity": 1400,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-14T05:01:29.703Z"
+}
