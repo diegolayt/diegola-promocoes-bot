@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4660482345",
-    "productKey": "da8b0f32abc3066348a8513b47f7aa50c461021a2c034ced9ce941badc3b16b0",
-    "titleHash": "f0e541059e0ba40010870c934c6db55b1ae6b22a50843a3e1a56269bbb83c589",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-05T21:21:12.530Z"
-  },
-  {
     "itemId": "MLB7705751624",
     "productKey": "1c1a1b874a30de475b7384d733f4a0e84aae0381068a16715f9a6916d89926c1",
     "titleHash": "5cc0254ef98a465472c1b715ba05daa855b7630da78fbcc0a3e5b4d8603b3d0d",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-14T13:46:25.075Z"
+  },
+  {
+    "itemId": "MLB4324797875",
+    "productKey": "0a5cc4226c46bc09",
+    "titleHash": "03b0c5869530dd67",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T14:01:32.278Z"
   }
 ]

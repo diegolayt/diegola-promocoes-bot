@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4324797875",
+      "site_id": "MLB",
+      "seller_id": 2943049215,
+      "accepts_mercadopago": true,
+      "price": 72.9,
+      "category_id": "MLB122102",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 260904,
+      "original_price": 104.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1RJSmU0ZjNi",
+          "name": "Tijucas"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3628324966",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18725403",
+      "title": "Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_819000-MLA101180020755_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18725403",
+      "id": "MLB4324797875",
+      "sold_quantity": 1300,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-14T14:01:32.281Z"
+}
