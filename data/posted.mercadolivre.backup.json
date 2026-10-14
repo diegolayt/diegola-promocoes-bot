@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5306661713",
-    "productKey": "78e15032506bdded9fd68e37b8c6ff22273c17fb6e211404bef36e4d55b6a49c",
-    "titleHash": "390f920e0311bfb0e5a075088caafe622e05f21e58d497a6f754e8feb916ccce",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-04T19:15:34.575Z"
-  },
-  {
     "itemId": "MLB5172320425",
     "productKey": "890e2a103f8d9a7c05d15b946365ca7829cbd1927a518cfb756d63164b128485",
     "titleHash": "f2f146b69d03f097a1e18075c975c2ecc4bb745b163d91fcb39fbf6d516037e3",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-14T08:31:26.093Z"
+  },
+  {
+    "itemId": "MLB5461309698",
+    "productKey": "c500286efe3eb38e",
+    "titleHash": "62725f63d38ae48e",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-14T08:46:22.278Z"
   }
 ]
