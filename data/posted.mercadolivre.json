@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4166752343",
-    "productKey": "69e6b543996f75e04b571688c72a280a299815e625432e2c7b1670c911c19928",
-    "titleHash": "2a38590f6d0b6551c06da2008b0aa6cc1cf3c835dc5a9944c56b7e77e9e7b2f2",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-02T18:00:38.357Z"
-  },
-  {
     "itemId": "MLB7030301236",
     "productKey": "2c91e939a7b3a3a7fc9f1355f8ea6f75c50f52870e3746af6461b1a9996bda7f",
     "titleHash": "bbfa3287b1760a8fe63de4b65d1f5d6aa85899689b57d76056bc189d21fa3d8e",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-14T01:16:24.797Z"
+  },
+  {
+    "itemId": "MLB7715861974",
+    "productKey": "40821c73f39974e2",
+    "titleHash": "400d008b3de62193",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-14T01:31:25.730Z"
   }
 ]
