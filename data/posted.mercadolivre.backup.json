@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7025998908",
-    "productKey": "5ff7ac43cb165e0064eb7c86eca479098b59a2b5d09e6281cec31a6aae2ad003",
-    "titleHash": "5eee92e2eaa0b132bcb14a2c6067db27d03060a7fb916c8368400b8b68178e75",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-05T19:15:53.266Z"
-  },
-  {
     "itemId": "MLB4660482345",
     "productKey": "da8b0f32abc3066348a8513b47f7aa50c461021a2c034ced9ce941badc3b16b0",
     "titleHash": "f0e541059e0ba40010870c934c6db55b1ae6b22a50843a3e1a56269bbb83c589",
@@ -4798,5 +4790,13 @@
     "category": "calçado",
     "sourceCategoryId": "MLB23262",
     "reservedAt": "2026-10-14T13:31:28.422Z"
+  },
+  {
+    "itemId": "MLB6825755108",
+    "productKey": "19ec831940837ddc",
+    "titleHash": "dfbead09ac119be3",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-14T13:46:25.075Z"
   }
 ]
