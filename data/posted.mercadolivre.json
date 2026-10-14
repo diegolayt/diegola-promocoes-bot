@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7069872302",
-    "productKey": "d6a6e9c334751e4a1d8bfbc0708ce4d76692b8b3e59b9de480c8e18aee7c9c72",
-    "titleHash": "e444ae5933e349209a9236e895d96a78c5489e0fa66513886c7d9435bc1f4a8c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-02T05:30:29.432Z"
-  },
-  {
-    "itemId": "MLB5457116760",
-    "productKey": "12ba1e7daad2e45544032c8a9b53bcffeaa636ca1cb3cfe0bc7c21a8eb271cd9",
-    "titleHash": "308ca2a85e1b8a8aa5e25cfe860833f0c9a46b73b20db6a10ac404f2dc393f1b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-02T05:45:38.824Z"
-  },
-  {
-    "itemId": "MLB5119947909",
-    "productKey": "bd6eadcf7646ce045e73b9896ca38f9cb0b3f8c311e85fa5c1cb92d4936fa713",
-    "titleHash": "a06af627f26a4f6bf1d8571f85e33cd3591fc774331cac32aa624f06245bdec3",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-02T06:00:36.387Z"
-  },
-  {
-    "itemId": "MLB5270732917",
-    "productKey": "c60055d50d04d5b96cc040657d2de2a77d59c10e3f67f1d4745df19f7c040014",
-    "titleHash": "57beea07a809047b27ea11431d4509456c3d784f2a71c98629b50c3a1497aa90",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-02T06:15:29.453Z"
-  },
-  {
     "itemId": "MLB5319543557",
     "productKey": "e1794297dc2cb2f2219932eb24d33498f53a36b4c1f4115e225f70e8990f81c0",
     "titleHash": "0476e78d75cd872f8a0b5b10df9c4f8ed52715a88e691c7ba3bf8ddf5cfcf2e5",
@@ -4798,5 +4766,37 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-13T23:46:20.593Z"
+  },
+  {
+    "itemId": "MLB7567650428",
+    "productKey": "b6d1cedb49d30deb",
+    "titleHash": "51bd3c9452ef23f3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-14T00:01:21.247Z"
+  },
+  {
+    "itemId": "MLB7797678576",
+    "productKey": "5c15702ed6d4f3bb",
+    "titleHash": "eab2d9165b0159cb",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-14T00:01:21.247Z"
+  },
+  {
+    "itemId": "MLB7805461776",
+    "productKey": "392dfea6c16fe498",
+    "titleHash": "28777b6d8f1e2193",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-14T00:01:21.247Z"
+  },
+  {
+    "itemId": "MLB4094474629",
+    "productKey": "65e1d528b27f6299",
+    "titleHash": "965c2a083e3288c7",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-14T00:01:21.247Z"
   }
 ]
