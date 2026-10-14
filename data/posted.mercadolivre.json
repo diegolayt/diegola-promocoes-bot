@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7734911928",
-    "productKey": "e192924e8dfd60cbc3f5107ed5af5490c2e9cde25837402279fb0901ab7525c3",
-    "titleHash": "f8a0196898f2d9774fd703fe8c1637f31feedb05c26cd0587f9e98c1e2e531db",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-02T19:30:39.282Z"
-  },
-  {
-    "itemId": "MLB4320374081",
-    "productKey": "bd7e186faebad4c2816e3936d38b82baf9c8a9b9d2f250a558daf2d495e2d808",
-    "titleHash": "4f66bd4101d296eee5e726f66f7ead1f823121c079262b6677c6c019011f3689",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-02T19:45:28.426Z"
-  },
-  {
     "itemId": "MLB6061985796",
     "productKey": "9d501d04b619787bcfa6f67a7a089132e8736cd42b0138a2160ca73d1f0d986e",
     "titleHash": "60b43647216b307c2b45077c28fe557723d8fe7a508bbe0d6ac080c8d8d9f1c8",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-14T02:01:31.509Z"
+  },
+  {
+    "itemId": "MLB5957141822",
+    "productKey": "dab439480dd9b128",
+    "titleHash": "d54de27ef0c2bc22",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-14T02:16:25.602Z"
+  },
+  {
+    "itemId": "MLB5312665021",
+    "productKey": "6293ebc644672953",
+    "titleHash": "bf9b46b6bc5158e3",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-14T02:16:25.602Z"
   }
 ]

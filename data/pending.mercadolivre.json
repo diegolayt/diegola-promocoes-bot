@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5957141822",
+      "site_id": "MLB",
+      "seller_id": 1159687577,
+      "accepts_mercadopago": true,
+      "price": 238.9,
+      "category_id": "MLB180269",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 270782,
+      "original_price": 399,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU2FudGFuYSBkZSBQYXJuYcOtYmFUVXhDV",
+          "name": "Santana de Parnaíba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3603921434",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45975876",
+      "title": "Bicicleta Infantil Aro 12 Menina Nathor Flower Rodinha Cesta 2 a 5 Anos",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_641740-MLA117324581438_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45975876",
+      "id": "MLB5957141822",
+      "sold_quantity": 200,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5312665021",
+      "site_id": "MLB",
+      "seller_id": 239856386,
+      "accepts_mercadopago": true,
+      "price": 36.99,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUm16ZnF0",
+          "name": "Parada XV de Novembro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5349574076",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19459381",
+      "title": "A Hipótese Do Amor De Ali Hazelwood com sobrecapa do filme",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_806334-MLA118538215027_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19459381",
+      "id": "MLB5312665021",
+      "sold_quantity": 1000,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-14T02:16:25.605Z"
+}
