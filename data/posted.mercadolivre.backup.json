@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7030301236",
-    "productKey": "2c91e939a7b3a3a7fc9f1355f8ea6f75c50f52870e3746af6461b1a9996bda7f",
-    "titleHash": "bbfa3287b1760a8fe63de4b65d1f5d6aa85899689b57d76056bc189d21fa3d8e",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-02T18:15:29.083Z"
-  },
-  {
-    "itemId": "MLB5292000209",
-    "productKey": "b7371e77d704b462aed4efeeaa8e6c7e1c05b4d3fdec60e546ea4ac210556390",
-    "titleHash": "cc44c47e60e54f0b5ba53b9691b7393b5f35e13b24602a442fb1168d1e723b08",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-02T18:30:33.373Z"
-  },
-  {
-    "itemId": "MLB4728634751",
-    "productKey": "85d041b839360d1ef2ef3bc7eb94d989637ddcc98a08762558a8629df7c040ee",
-    "titleHash": "89b2d3d9c594e645eb5890685be2316ec7c9e77e0a077beade4836e93a763640",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-02T18:45:35.692Z"
-  },
-  {
     "itemId": "MLB5140003520",
     "productKey": "66aad9dacbb2cc0c40893fc83f4c74c26000fe2dc1b15f5095d833082759e63d",
     "titleHash": "9d1eae52c8bb94160d723bdd171dbe6445a019efdc12ffd2fc5382172a9c71d2",
@@ -4798,5 +4774,29 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-14T01:31:25.730Z"
+  },
+  {
+    "itemId": "MLB4345564271",
+    "productKey": "79178e47f5fa7c8d",
+    "titleHash": "68370d91aa4e7d65",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-14T01:46:22.243Z"
+  },
+  {
+    "itemId": "MLB5893156714",
+    "productKey": "57b2072c025c23d7",
+    "titleHash": "bdcb0168742683bf",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-14T01:46:22.243Z"
+  },
+  {
+    "itemId": "MLB6605415878",
+    "productKey": "7c1203a2803ba98c",
+    "titleHash": "c471681ba2f9bd71",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-10-14T01:46:22.243Z"
   }
 ]
