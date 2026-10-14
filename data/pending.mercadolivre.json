@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5599415982",
+      "site_id": "MLB",
+      "seller_id": 193888152,
+      "accepts_mercadopago": true,
+      "price": 80,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJTGU5YTdl",
+          "name": "Vila Velha"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk5PU0I2NTY4",
+          "name": "Nossa Senhora da Penha"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3023132109",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB15984136",
+      "title": "Mouse sem fio Logitech M185 - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739022-MLA96123688333_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB15984136",
+      "id": "MLB5599415982",
+      "sold_quantity": 1100,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-14T13:01:30.579Z"
+}
