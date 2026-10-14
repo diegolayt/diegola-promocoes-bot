@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7575353316",
+      "site_id": "MLB",
+      "seller_id": 2099008520,
+      "accepts_mercadopago": true,
+      "price": 312,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 699.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "Ferraz de Vasconcelos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUnM3Mmsx",
+          "name": "Parque das Paineiras"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5090050346",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB69221811",
+      "title": "Relógio Smartwatch Redmi Watch 5 Active Lite Xiaomi Preto Prateado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_761997-MLA111392533251_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB69221811",
+      "id": "MLB7575353316",
+      "sold_quantity": 900,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB5317425883",
+      "site_id": "MLB",
+      "seller_id": 723264377,
+      "accepts_mercadopago": true,
+      "price": 227.06,
+      "category_id": "MLB6777",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 262,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BJTmU4ZjEw",
+          "name": "Pinhais"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU5360331908",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB22211506",
+      "title": "Fonte De Alimentacao 600w Gs600 80 Plus White Gamemax Cor Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_959510-MLA104803260424_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB22211506",
+      "id": "MLB5317425883",
+      "sold_quantity": 1600,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB7740755082",
+      "site_id": "MLB",
+      "seller_id": 167971552,
+      "accepts_mercadopago": true,
+      "price": 89,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTG91dmVpcmFUVXhDVUZOQlQwODVOMkU0",
+          "name": "Louveira"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5380351952",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB68104527",
+      "title": "Kit Body Splash Masculino Barbarius + Enigma + Midtown 200ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_918307-MLA118847501699_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB68104527",
+      "id": "MLB7740755082",
+      "sold_quantity": 1200,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-14T00:31:26.102Z"
+}

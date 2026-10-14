@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6658549258",
-    "productKey": "cabbb447af73cacd0f8725871cae9994353af701a7b860f90be57f2afb12fa99",
-    "titleHash": "13bc6b92a0023758cde5af03f2ed712e9741d3ad30c2e09a100359a5875e0ca8",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-02T15:45:28.745Z"
-  },
-  {
-    "itemId": "MLB1813858183",
-    "productKey": "0093a548dee7b78c991ee7b2ccbcb3ea5c2f262debc61654ebd3e77ec8c336b1",
-    "titleHash": "acc61814edc438ee37f973ce83fdb34f52a5525a50a02ef2701aa4706c5d78b2",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-02T16:00:38.680Z"
-  },
-  {
-    "itemId": "MLB4856696863",
-    "productKey": "4b5d7211d804f914b337680c8dc0710b7e2656701a634603abe71c78d3ac79eb",
-    "titleHash": "e85ef4a734ec8242788387027f1ce6b88c4362b41c4b1563af3b2d5d3324d1e0",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-02T16:15:42.630Z"
-  },
-  {
     "itemId": "MLB7143241746",
     "productKey": "5023cde27034c973883d15d7f6aefcd415df0e53d0b1d97b56358a07c9a0132e",
     "titleHash": "2b53c4ca6bda3d8103cc89b602526ee365bfb82cf8cdced22f4175dd6d34f6b0",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-14T00:16:24.354Z"
+  },
+  {
+    "itemId": "MLB7575353316",
+    "productKey": "da6e47d6f5b6a37a",
+    "titleHash": "da2698cd8324fb9f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-14T00:31:26.098Z"
+  },
+  {
+    "itemId": "MLB5317425883",
+    "productKey": "df46f21258a3c7a1",
+    "titleHash": "1cbc1384378886f7",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-14T00:31:26.099Z"
+  },
+  {
+    "itemId": "MLB7740755082",
+    "productKey": "e1794297dc2cb2f2",
+    "titleHash": "0476e78d75cd872f",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-14T00:31:26.099Z"
   }
 ]
