@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3371578831",
-    "productKey": "10b192510125e400c9ffd7319f99a931532006dcdc27bf59281b7405048ea26a",
-    "titleHash": "199e80e775bd5fd7a309eda593f49652063dc2258233d8d4fabfb1412e57540d",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-04T18:30:32.917Z"
-  },
-  {
-    "itemId": "MLB4748589927",
-    "productKey": "21c0dc1f30ed90277f70223411396b407c96f6ca5bfb7bd5b7d80ea50e916faf",
-    "titleHash": "126ecb59ac7c20671a06e42cc4c3f2b7983025828462c8cfc067f88bce2db4c8",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-04T18:45:25.966Z"
-  },
-  {
     "itemId": "MLB4564236093",
     "productKey": "41888fb320739b378063f94f4f097e1a60f165313184c1d6f037ec9f680c1a36",
     "titleHash": "3fc1ad64a62d5f86e2141eaf6396386a9268d40b27e299c638aa7fae5238919f",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-14T08:01:38.603Z"
+  },
+  {
+    "itemId": "MLB4324368929",
+    "productKey": "1bff0ff397ddef2c",
+    "titleHash": "31d3d3c068113c56",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-14T08:16:24.295Z"
+  },
+  {
+    "itemId": "MLB7753962586",
+    "productKey": "1e5c108fd46efb01",
+    "titleHash": "3325efde1b1c620d",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-14T08:16:24.295Z"
   }
 ]
