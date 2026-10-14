@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3326463445",
-    "productKey": "4da20096241f83a16fc114a4c51ba95c099b1564510a869a7452deaf833bebc5",
-    "titleHash": "122b2943937f121894cd2b777b1ebb69915c4d177122f7a3684bff2c68300663",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-06T04:45:35.810Z"
-  },
-  {
-    "itemId": "MLB5220774941",
-    "productKey": "b80aa50f4c572f73daa6c458d74c3d91f7ace8516ca1b80ac1da8e01fbb64127",
-    "titleHash": "554791d76d1ac8c865e508172694af2d39348af7220efe2947ffe4214a2b4b3d",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-06T05:00:36.086Z"
-  },
-  {
-    "itemId": "MLB5980496924",
-    "productKey": "5e2b747dccadc7ed703fe7181bce06e3377912d2a8fcf47436a1293a04ace489",
-    "titleHash": "b11c7c849e9f236ca84ffa66cb7940ee8c9ed92a66de86f4f3ae3420a8cf1a90",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-06T05:15:29.370Z"
-  },
-  {
-    "itemId": "MLB4512679555",
-    "productKey": "c46d283d33986d75f64fe22c98eb6b053449ec92840c06c3c09546abe2e3ea58",
-    "titleHash": "87531ed1d9562ed55edc5c9a5415eb73aea493b317a987fef29b265e9e75502b",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-06T05:30:37.009Z"
-  },
-  {
     "itemId": "MLB4232553473",
     "productKey": "e00dd8ce7bb48c9d134a0b461fe332cb37d8b7bfa74464c9e5100713840a2331",
     "titleHash": "9e65b9e5f0ab6467a0fed4c54c88828a7bcad3a6a18deaf0e5dfddb2df240ed2",
@@ -4798,5 +4766,37 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-14T16:16:27.866Z"
+  },
+  {
+    "itemId": "MLB4988957162",
+    "productKey": "4686bb6a7ae35103",
+    "titleHash": "bc4eac3d45f0fc46",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-14T16:31:32.451Z"
+  },
+  {
+    "itemId": "MLB7805324102",
+    "productKey": "9614c6fc06399731",
+    "titleHash": "84c3d0989b55ca0f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-14T16:31:32.451Z"
+  },
+  {
+    "itemId": "MLB7760007454",
+    "productKey": "6895bea8f3ef61ff",
+    "titleHash": "8a73e464d04fb954",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-14T16:31:32.451Z"
+  },
+  {
+    "itemId": "MLB5306636779",
+    "productKey": "98aa92e5a98722ca",
+    "titleHash": "b6dfdbb0bf292d78",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-14T16:31:32.451Z"
   }
 ]
