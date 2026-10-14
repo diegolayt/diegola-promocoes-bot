@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5324900649",
-    "productKey": "993970d7bfdf9394b465327efb92ed8d952e4bbfac1049db31e8fa9d8706214b",
-    "titleHash": "c8e300260d302cab5fab3313078da4f237524121305218b7226ca2cc597a8d08",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-04T18:00:35.213Z"
-  },
-  {
     "itemId": "MLB7589262904",
     "productKey": "1414f95dcd37fa40b9e6cef98eb750121c75c77f7938ef007f1eda48efce4ba3",
     "titleHash": "53bf5bea212d904134dede456a85061e02fdde3c2e023cc7ca5f07119f072ceb",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-14T07:31:29.001Z"
+  },
+  {
+    "itemId": "MLB7606575730",
+    "productKey": "7ae62e631b538a5f",
+    "titleHash": "72426c512b75ce79",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-14T07:46:26.387Z"
   }
 ]
