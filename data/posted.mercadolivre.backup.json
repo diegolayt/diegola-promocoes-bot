@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4018165359",
-    "productKey": "50ab90676bd59f5a10ef2361463c8858a33ed4a4bacbb8b008ee476da1c78856",
-    "titleHash": "442a6f99a7b46ef1b0d5e9e5ba4c8db0819c34f6cbb3f7898d40019208b1a301",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-03T22:45:34.077Z"
-  },
-  {
-    "itemId": "MLB7581717656",
-    "productKey": "a506aed7deef2db7bc8b0c6ab6729f60662232286ce7c10d183cf82b9ce6fdd6",
-    "titleHash": "ccce0b6e5cf155c8033b57b3bec25066b788da0cf9cc27a144c03fda5c837089",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-03T23:00:40.809Z"
-  },
-  {
-    "itemId": "MLB5547189234",
-    "productKey": "4b4cb3622b35e02888299877bc0016516a17f59762a6374c5e4efb9ca84d47db",
-    "titleHash": "8bce4eaf9c8fbbd51136d8247dedd27d6c983bd37cff2cb05efb6c6023f6d805",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-03T23:15:34.512Z"
-  },
-  {
-    "itemId": "MLB3143183122",
-    "productKey": "f957ab0d39b2d366a561556f6e7d2d028b9290a3808f9b21251809c1d1899287",
-    "titleHash": "b1c4d572f20022fdb83c82a70aedc1ffefc18e4fc6f850261e848d0e9fd89229",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-03T23:30:31.922Z"
-  },
-  {
     "itemId": "MLB5217693736",
     "productKey": "bd3aa3aa17d44d1a4dae9f219e30649e06c95d5eb913489c020de7b132531ab2",
     "titleHash": "bb0ac3e977c3091768e97a3820669df984d97fce77e0c34235c864b3acb22a6e",
@@ -4798,5 +4766,37 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-14T05:01:29.701Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-14T05:16:35.999Z"
+  },
+  {
+    "itemId": "MLB7658629246",
+    "productKey": "142385f66dcdd104",
+    "titleHash": "4d563e7f677f169d",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-14T05:16:35.999Z"
+  },
+  {
+    "itemId": "MLB3251982185",
+    "productKey": "6e6b0a0afa3e4adb",
+    "titleHash": "ba28ef2dcd7fcc21",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-14T05:16:35.999Z"
+  },
+  {
+    "itemId": "MLB5379563707",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-14T05:16:35.999Z"
   }
 ]
