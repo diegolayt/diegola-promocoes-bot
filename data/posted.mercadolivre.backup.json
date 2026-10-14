@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5408541396",
-    "productKey": "07d55cd5bc2fcbd650d9be408839a6b6779aded8a6558e32344c8855918c803a",
-    "titleHash": "1ce6265d54d5cadbe89935995caca7e0f708f42ebc7f50f137af3eebefc715bc",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-05T22:45:30.427Z"
-  },
-  {
-    "itemId": "MLB4576693657",
-    "productKey": "ebfca99113baae9978b988d1f819d8e7539d3e2c183d886f3ab977bebe2a6535",
-    "titleHash": "af8ecbf6a7506bdcd10b33e7bff5a911769079c96c1f3518944ce0c629f93e6f",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-05T23:00:37.162Z"
-  },
-  {
-    "itemId": "MLB7477193852",
-    "productKey": "6403b6e254f49bd25dd5062131f36ac75b58183a3366ecd4b7087d48de47f871",
-    "titleHash": "d4411427bb3a1d9763f2f6079b32e47996468c760bb532fc97897bd5e8b3e07a",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-05T23:15:32.522Z"
-  },
-  {
-    "itemId": "MLB4150270587",
-    "productKey": "30428afb79b315759aed81e4d36b0f4823c6dcd8b5a3e32ed3f767a18066f77c",
-    "titleHash": "b6b3e81f29d415de296351b32b0507a38672b42588104a1cf0b3118804e811c0",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-05T23:30:42.258Z"
-  },
-  {
     "itemId": "MLB6239125220",
     "productKey": "e182a703ecdee38d43efbd7f441582130e7c34f07a516682bcf3ed1da73d43b4",
     "titleHash": "785f6b605b0038f4a21091f65ebf3dc738cafa6d52fe389635ba773765980956",
@@ -4798,5 +4766,37 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-10-14T15:16:21.454Z"
+  },
+  {
+    "itemId": "MLB3091257861",
+    "productKey": "c56d3960198fc1d0",
+    "titleHash": "4a6681e89c62e2e6",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-14T15:31:26.898Z"
+  },
+  {
+    "itemId": "MLB4753169987",
+    "productKey": "6c0323ca8b28669b",
+    "titleHash": "53bd0ca4aa5bcfef",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-14T15:31:26.898Z"
+  },
+  {
+    "itemId": "MLB5384413033",
+    "productKey": "bc05e3f7f280662b",
+    "titleHash": "b5aa74d84ac5676f",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-14T15:31:26.898Z"
+  },
+  {
+    "itemId": "MLB6465314542",
+    "productKey": "1892336b3d8bd447",
+    "titleHash": "fdf156853bd08536",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-14T15:31:26.898Z"
   }
 ]

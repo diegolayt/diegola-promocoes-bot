@@ -1,0 +1,323 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3091257861",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 998.27,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "dynamic_standard_price",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "good_quality_picture",
+        "first_party",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 1399.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1117085696",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19955269",
+      "title": "Smart TV AIWA 32” Android HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-32-BL-02-A",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_690159-MLA99542831560_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19955269",
+      "id": "MLB3091257861",
+      "sold_quantity": 500,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    },
+    {
+      "item_id": "MLB4753169987",
+      "site_id": "MLB",
+      "seller_id": 759339692,
+      "accepts_mercadopago": true,
+      "price": 1140.25,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1553,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4075126850",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46056259",
+      "title": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46056259",
+      "id": "MLB4753169987",
+      "sold_quantity": 400,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB5384413033",
+      "site_id": "MLB",
+      "seller_id": 53371725,
+      "accepts_mercadopago": true,
+      "price": 1999,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTUzMDE",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQkRFTDU3ODU",
+          "name": "Del Castilho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5512926814",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB58623212",
+      "title": "Nintendo Switch Console OLED 64gb",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB58623212",
+      "id": "MLB5384413033",
+      "sold_quantity": 1800,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    },
+    {
+      "item_id": "MLB6465314542",
+      "site_id": "MLB",
+      "seller_id": 1895071177,
+      "accepts_mercadopago": true,
+      "price": 54,
+      "category_id": "MLB29871",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 0 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0FQVWJhY2Uy",
+          "name": "Apucarana"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjNCNjQx",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3850735038",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB32472672",
+      "title": "Maquillaje Revlon Illuminance Sérum Tint Tono Light Natural",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_768096-MLU74348257360_022024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB32472672",
+      "id": "MLB6465314542",
+      "sold_quantity": 100,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-14T15:31:26.900Z"
+}
