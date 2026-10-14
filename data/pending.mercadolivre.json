@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6732057674",
+      "site_id": "MLB",
+      "seller_id": 85263796,
+      "accepts_mercadopago": true,
+      "price": 489.9,
+      "category_id": "MLB1676",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3401,
+      "original_price": 712.86,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJ1asOhVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Arujá"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3659346383",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62998911",
+      "title": "Impressora Multifuncional HP DeskJet Ink Advantage 2975 Colorida 1 USB 2.0 de alta velocidade Wi-Fi de banda dupla - 100 a 240 VCA - AJ4Y4A#AK4",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_641445-MLA107256158981_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62998911",
+      "id": "MLB6732057674",
+      "sold_quantity": 400,
+      "rotationCategory": "impressão",
+      "sourceCategoryId": "MLB5875",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-10-14T08:31:26.096Z"
+}

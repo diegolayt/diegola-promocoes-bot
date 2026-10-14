@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4564236093",
-    "productKey": "41888fb320739b378063f94f4f097e1a60f165313184c1d6f037ec9f680c1a36",
-    "titleHash": "3fc1ad64a62d5f86e2141eaf6396386a9268d40b27e299c638aa7fae5238919f",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-04T19:00:36.998Z"
-  },
-  {
     "itemId": "MLB5306661713",
     "productKey": "78e15032506bdded9fd68e37b8c6ff22273c17fb6e211404bef36e4d55b6a49c",
     "titleHash": "390f920e0311bfb0e5a075088caafe622e05f21e58d497a6f754e8feb916ccce",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-14T08:16:24.295Z"
+  },
+  {
+    "itemId": "MLB6732057674",
+    "productKey": "ef732e4f03e0d21d",
+    "titleHash": "d98a4fda2313e216",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-14T08:31:26.093Z"
   }
 ]
