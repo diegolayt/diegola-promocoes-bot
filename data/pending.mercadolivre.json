@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6166313818",
+      "site_id": "MLB",
+      "seller_id": 2696805843,
+      "accepts_mercadopago": true,
+      "price": 300,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 2 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJFTDg3NjE",
+          "name": "Bela Vista"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 2,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "2 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3651117704",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62756066",
+      "title": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_984233-MLA105531058053_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62756066",
+      "id": "MLB6166313818",
+      "sold_quantity": 2000,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB7442035444",
+      "site_id": "MLB",
+      "seller_id": 3278005198,
+      "accepts_mercadopago": true,
+      "price": 89.9,
+      "category_id": "MLB244658",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 139.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "fbm_in_process",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTE2NDE",
+          "name": "São Bernardo do Campo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjY0NDk",
+          "name": "Jardim Las Vegas"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4767611531",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77567181",
+      "title": "Kit 10 Pote Vidro Hermético Marmita 640ml Micro-ondas Freezer Forno Organização Geladeira",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_912036-MLA116332987719_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77567181",
+      "id": "MLB7442035444",
+      "sold_quantity": 1100,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5325831505",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 249.9,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "first_party",
+        "kvs_primary",
+        "user_product_unify",
+        "standard_price_by_quantity",
+        "dynamic_standard_price",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 294,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4830179609",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77843015",
+      "title": "Wap Ventiladores Flow Turbo Coluna De pé - 50 cm - 60 - Preto Cinza - Plástico - 8",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_718168-MLA115102266954_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77843015",
+      "id": "MLB5325831505",
+      "sold_quantity": 100,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-14T03:31:27.666Z"
+}
