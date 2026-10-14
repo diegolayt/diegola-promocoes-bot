@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4980072131",
-    "productKey": "1f336dc2d7fd96fc3cb13e2ed1eb378a3bcb62c2521b3f39a0396205e7d01fe3",
-    "titleHash": "ab3cc4ecec2850f5ba1f615c9f2371753e4d1c56564e4a15d9d6639ace69144f",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-06T15:45:31.215Z"
-  },
-  {
     "itemId": "MLB4631787401",
     "productKey": "5707418a30805cbf3fff166e12ddaae63e314f9a7e5f90634ecd75c8e465bcb0",
     "titleHash": "4e21a569e001ae6eee5b7451faf8c0c513618282f9431e64790e6615304896f9",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-14T17:46:26.600Z"
+  },
+  {
+    "itemId": "MLB6976567444",
+    "productKey": "10d83ae90f0fb762",
+    "titleHash": "5467f88d296880b9",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-14T18:16:23.956Z"
   }
 ]

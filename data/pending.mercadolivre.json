@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6976567444",
+      "site_id": "MLB",
+      "seller_id": 3277620874,
+      "accepts_mercadopago": true,
+      "price": 105,
+      "category_id": "MLB1965",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjhrNHVj",
+          "name": "Jardim Tietê"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4116204022",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67578878",
+      "title": "Kit Com 48 Pacotes de Figurinhas Panini Para o Álbum Copa do Mundo FIFA 2026",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_979288-MLA109171693698_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67578878",
+      "id": "MLB6976567444",
+      "sold_quantity": 1200,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-14T18:16:23.958Z"
+}
