@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4371605519",
-    "productKey": "2a86db727b2c5887",
-    "titleHash": "a6e7bc74d0fd88c8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-07T19:00:47.466Z"
-  },
-  {
-    "itemId": "MLB5681133066",
-    "productKey": "7335295731f87564",
-    "titleHash": "8f2edb66e9dc7cb0",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-07T19:15:30.416Z"
-  },
-  {
     "itemId": "MLB6031639350",
     "productKey": "afbff89ee85c38b5",
     "titleHash": "bae5a48604e386ea",
@@ -4798,5 +4782,21 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-15T09:46:25.822Z"
+  },
+  {
+    "itemId": "MLB3746185363",
+    "productKey": "ed3df50a2cbf5f8f",
+    "titleHash": "b659e2c201fc5062",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-15T10:01:30.973Z"
+  },
+  {
+    "itemId": "MLB5400923188",
+    "productKey": "8b22be28b8f4d3bd",
+    "titleHash": "7866188a6d14a530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-15T10:01:30.973Z"
   }
 ]
