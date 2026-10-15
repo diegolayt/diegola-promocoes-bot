@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7124261450",
-    "productKey": "9c762775786a2c63",
-    "titleHash": "379fa42f634764dd",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-09T01:00:36.224Z"
-  },
-  {
     "itemId": "MLB7481745282",
     "productKey": "92ed4d201e5b3bee",
     "titleHash": "48c67fe42edfb18e",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-15T23:31:23.969Z"
+  },
+  {
+    "itemId": "MLB5472112506",
+    "productKey": "56904ab5dc84f89a",
+    "titleHash": "1db72bf5ac1dec28",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-15T23:46:28.123Z"
   }
 ]
