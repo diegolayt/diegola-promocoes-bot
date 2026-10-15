@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4513056610",
-    "productKey": "a6c9a899dbe6cf71",
-    "titleHash": "6733c606fc453816",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-08T08:45:46.575Z"
-  },
-  {
-    "itemId": "MLB5762049098",
-    "productKey": "a1085792541f2e70",
-    "titleHash": "d8faca7aab92efc8",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-08T09:15:32.442Z"
-  },
-  {
     "itemId": "MLB4483842387",
     "productKey": "6ae9b8d7d9d10774",
     "titleHash": "9294edea4271c7e2",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-15T16:16:26.486Z"
+  },
+  {
+    "itemId": "MLB5205579974",
+    "productKey": "a8251bc98e70126a",
+    "titleHash": "3d01cd9c39438f12",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-15T16:31:33.053Z"
+  },
+  {
+    "itemId": "MLB3917376669",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-15T16:31:33.054Z"
   }
 ]
