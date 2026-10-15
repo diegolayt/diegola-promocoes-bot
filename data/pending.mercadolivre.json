@@ -1,0 +1,167 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7770409132",
+      "site_id": "MLB",
+      "seller_id": 206815928,
+      "accepts_mercadopago": true,
+      "price": 406,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 649,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pBUjJkNjY4",
+          "name": "Jaraguá do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDY0Rjk1",
+          "name": "Vila Lalau"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5398271299",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65263077",
+      "title": "Drone Gt8 Profissional 4k Tela No Controle 2 Baterias E Bag",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_910577-MLA105966199238_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65263077",
+      "id": "MLB7770409132",
+      "sold_quantity": 1400,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB5276419394",
+      "site_id": "MLB",
+      "seller_id": 750553953,
+      "accepts_mercadopago": true,
+      "price": 629.9,
+      "category_id": "MLB180387",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_limited_marketplace_visibility",
+        "kvs_primary",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 873.75,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1P0zE4Mjc",
+          "name": "Moóca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2719915117",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24804661",
+      "title": "Purificador de Água Gelada Fria e Natural Elétrico Compacto Eletrônico placa Filtro refil 6 meses ou 3000l Painel Touch Bivolt Cinza PE12G Electrolux",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_619844-MLA99938311049_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24804661",
+      "id": "MLB5276419394",
+      "sold_quantity": 1600,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-15T22:46:22.736Z"
+}
