@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3833488891",
-    "productKey": "0f0fdb96cb6446aa",
-    "titleHash": "1670416b92bd28cb",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-08T02:00:41.479Z"
-  },
-  {
     "itemId": "MLB2715864979",
     "productKey": "c61bb77a90f70d42",
     "titleHash": "e318b8d137692aca",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-15T12:46:33.062Z"
+  },
+  {
+    "itemId": "MLB7693128360",
+    "productKey": "fee0803db3fdd4f9",
+    "titleHash": "036294730bf79c55",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-15T13:01:34.141Z"
   }
 ]
