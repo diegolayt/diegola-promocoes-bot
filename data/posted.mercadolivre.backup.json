@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6047945220",
-    "productKey": "a1d280e4c3ee7ae6",
-    "titleHash": "94ccd298a23fb896",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-07T02:45:33.608Z"
-  },
-  {
-    "itemId": "MLB5337424443",
-    "productKey": "f0ce6c3f19f94762",
-    "titleHash": "2e4937b263ba3a23",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-07T03:00:35.197Z"
-  },
-  {
     "itemId": "MLB4270470211",
     "productKey": "19f894e9b99512b0",
     "titleHash": "8cfef630b18b2465",
@@ -4798,5 +4782,21 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-15T02:01:30.083Z"
+  },
+  {
+    "itemId": "MLB2820196075",
+    "productKey": "9be23f720e3d6d4f",
+    "titleHash": "b4d7c6e7b7ef601d",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-15T02:31:27.419Z"
+  },
+  {
+    "itemId": "MLB3529796451",
+    "productKey": "35ee8e3194420329",
+    "titleHash": "78a13177cc204ee6",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-15T02:31:27.419Z"
   }
 ]
