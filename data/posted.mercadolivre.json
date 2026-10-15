@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5342811282",
-    "productKey": "3f3b1148afa866b2",
-    "titleHash": "5f3c6ee8eb084863",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-08T06:00:41.465Z"
-  },
-  {
-    "itemId": "MLB5021389961",
-    "productKey": "23ecfda2f3afa8ab",
-    "titleHash": "67045221e5f6d083",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-08T06:15:32.441Z"
-  },
-  {
     "itemId": "MLB6179874566",
     "productKey": "849a2124d0a8f984",
     "titleHash": "caed37ae9f327be6",
@@ -4798,5 +4782,21 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-15T14:46:22.901Z"
+  },
+  {
+    "itemId": "MLB5681133066",
+    "productKey": "7335295731f87564",
+    "titleHash": "8f2edb66e9dc7cb0",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-15T15:01:32.685Z"
+  },
+  {
+    "itemId": "MLB6291271670",
+    "productKey": "a791708c9d38d795",
+    "titleHash": "1f77d6cb0301532a",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-15T15:01:32.685Z"
   }
 ]
