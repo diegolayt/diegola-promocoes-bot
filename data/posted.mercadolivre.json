@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4198218091",
-    "productKey": "e9455fbd3cb133ae",
-    "titleHash": "947cef40e57cf05a",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-08T05:30:45.521Z"
-  },
-  {
     "itemId": "MLB5342811282",
     "productKey": "3f3b1148afa866b2",
     "titleHash": "5f3c6ee8eb084863",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-15T14:31:37.498Z"
+  },
+  {
+    "itemId": "MLB4371605519",
+    "productKey": "2a86db727b2c5887",
+    "titleHash": "a6e7bc74d0fd88c8",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-15T14:46:22.901Z"
   }
 ]
