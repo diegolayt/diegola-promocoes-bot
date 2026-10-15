@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4840024565",
-    "productKey": "56904ab5dc84f89a",
-    "titleHash": "1db72bf5ac1dec28",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-08T19:30:33.904Z"
-  },
-  {
     "itemId": "MLB5256219731",
     "productKey": "de4eec9097d88bdb",
     "titleHash": "a7e96d3a24f5bc62",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-15T21:01:32.976Z"
+  },
+  {
+    "itemId": "MLB4267312145",
+    "productKey": "78c76163d845c431",
+    "titleHash": "f4a2d665975991c4",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-15T21:16:26.300Z"
   }
 ]
