@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6764557012",
+      "site_id": "MLB",
+      "seller_id": 442421077,
+      "accepts_mercadopago": true,
+      "price": 2459,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 427424,
+      "original_price": 2679,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 49.99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTUI1MUI5",
+          "name": "Campinho da Serra I"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3870593782",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63996396",
+      "title": "Geladeira Brastemp Frost Free 385 Litros Duplex Branca - BRM46MB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_723388-MLA103632315252_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63996396",
+      "id": "MLB6764557012",
+      "sold_quantity": 1900,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    },
+    {
+      "item_id": "MLB7737286082",
+      "site_id": "MLB",
+      "seller_id": 460741122,
+      "accepts_mercadopago": true,
+      "price": 419.99,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkxVWnc3NThi",
+          "name": "Luz"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5332636931",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61622474",
+      "title": "Ventilado De Coluna Turbo 6 Pás 40cm Preto Ventisol Diâmetro 40 Cm Frequência 80 Watts",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_813236-MLA97022833631_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61622474",
+      "id": "MLB7737286082",
+      "sold_quantity": 1300,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-15T05:31:25.158Z"
+}

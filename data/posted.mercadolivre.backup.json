@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3741085827",
-    "productKey": "207e2794a9247dd6",
-    "titleHash": "8922eef1610cd8b4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-07T09:00:38.193Z"
-  },
-  {
-    "itemId": "MLB5120112265",
-    "productKey": "d6bd91ef4ba8fc6d",
-    "titleHash": "3610ef804ca50ebb",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-07T09:15:29.024Z"
-  },
-  {
     "itemId": "MLB7564635266",
     "productKey": "fce93ca31cf80312",
     "titleHash": "be9314762e244737",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-15T05:16:24.632Z"
+  },
+  {
+    "itemId": "MLB6764557012",
+    "productKey": "2fbf4e278f428da4",
+    "titleHash": "60e6c7fff123c448",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-15T05:31:25.156Z"
+  },
+  {
+    "itemId": "MLB7737286082",
+    "productKey": "e9800a0fc5b597cc",
+    "titleHash": "acfec4b582b90d37",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-15T05:31:25.156Z"
   }
 ]
