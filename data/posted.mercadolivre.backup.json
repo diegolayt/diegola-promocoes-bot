@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4080089661",
-    "productKey": "2e3f4ccf8d0a47fe",
-    "titleHash": "90b2562924cee160",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-08T23:30:39.629Z"
-  },
-  {
-    "itemId": "MLB4105433309",
-    "productKey": "de77083a4e6c4dab",
-    "titleHash": "adf49853a15a232f",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-08T23:45:35.992Z"
-  },
-  {
-    "itemId": "MLB5738738172",
-    "productKey": "9eb5fc3ffddd6db0",
-    "titleHash": "945f28db261b2b05",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-09T00:00:45.102Z"
-  },
-  {
     "itemId": "MLB4290226499",
     "productKey": "55fae1bf40b618cf",
     "titleHash": "2c0a170468ff47ea",
@@ -4798,5 +4774,29 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-15T23:01:30.909Z"
+  },
+  {
+    "itemId": "MLB7770878416",
+    "productKey": "5e63e5ce2fe5389f",
+    "titleHash": "e6e45a893d28ec80",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-15T23:16:24.214Z"
+  },
+  {
+    "itemId": "MLB6073210370",
+    "productKey": "d60f40144ad87174",
+    "titleHash": "673a514c6de388e3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-15T23:16:24.214Z"
+  },
+  {
+    "itemId": "MLB5021389961",
+    "productKey": "23ecfda2f3afa8ab",
+    "titleHash": "67045221e5f6d083",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-15T23:16:24.214Z"
   }
 ]
