@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4205581723",
+      "site_id": "MLB",
+      "seller_id": 1078114690,
+      "accepts_mercadopago": true,
+      "price": 177.41,
+      "category_id": "MLB439350",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 484932,
+      "original_price": 254,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU3VtYXLDqVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Sumaré"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIE1hcmNoaXNzb2xvVFZoWVUzV",
+          "name": "Jardim Marchissolo"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3424601818",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25168074",
+      "title": "Chapinha Prancha De Cabelo Taiff 200°c Red Íon",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_862196-MLA95397330092_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25168074",
+      "id": "MLB4205581723",
+      "sold_quantity": 600,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5295016289",
+      "site_id": "MLB",
+      "seller_id": 1204331633,
+      "accepts_mercadopago": true,
+      "price": 524,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjUwNzE",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5276535125",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB39410080",
+      "title": "SSD Kingston NV3 500GB M.2 2280 NVMe PCIe 4.0",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_790864-MLA106134764970_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB39410080",
+      "id": "MLB5295016289",
+      "sold_quantity": 1000,
+      "rotationCategory": "armazenamento",
+      "sourceCategoryId": "MLB430598",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-10-15T22:01:35.193Z"
+}
