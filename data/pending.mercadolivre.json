@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5311226591",
+      "site_id": "MLB",
+      "seller_id": 54795867,
+      "accepts_mercadopago": true,
+      "price": 206.93,
+      "category_id": "MLB5867",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5193,
+      "original_price": 299.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTjMxMzZk",
+          "name": "Contagem"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJTkQ3MEJE",
+          "name": "Cinco"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5346412984",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26119635",
+      "title": "Roteador Wifi 6 Dual Band Mesh Gigabit 4 Antenas Intelbras W6-1500 Cor Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_857383-MLA119344590377_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26119635",
+      "id": "MLB5311226591",
+      "sold_quantity": 100,
+      "rotationCategory": "redes",
+      "sourceCategoryId": "MLB1700",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-15T15:46:28.294Z"
+}
