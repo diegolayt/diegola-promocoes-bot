@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4415031943",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-08T16:15:34.948Z"
-  },
-  {
-    "itemId": "MLB6142924384",
-    "productKey": "2527dd838b018334",
-    "titleHash": "34d297fdc0d07825",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-08T16:30:33.971Z"
-  },
-  {
     "itemId": "MLB5210291587",
     "productKey": "9d751b711b454293",
     "titleHash": "836381a7863b8ad3",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-15T19:16:33.057Z"
+  },
+  {
+    "itemId": "MLB3340533709",
+    "productKey": "99ffce333c6f5953",
+    "titleHash": "10199bd0de5afba6",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-15T19:31:28.181Z"
+  },
+  {
+    "itemId": "MLB4483842387",
+    "productKey": "6ae9b8d7d9d10774",
+    "titleHash": "9294edea4271c7e2",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-10-15T19:31:28.181Z"
   }
 ]
