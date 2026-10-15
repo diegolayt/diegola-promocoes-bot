@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7622440798",
-    "productKey": "23786fcb0da3df5b",
-    "titleHash": "58ee5d7041f22ffa",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-08T01:30:39.632Z"
-  },
-  {
-    "itemId": "MLB7358531924",
-    "productKey": "1f2208dd21863a0e",
-    "titleHash": "de9093eca4ccebb3",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-08T01:45:36.043Z"
-  },
-  {
     "itemId": "MLB3833488891",
     "productKey": "0f0fdb96cb6446aa",
     "titleHash": "1670416b92bd28cb",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-15T12:31:27.766Z"
+  },
+  {
+    "itemId": "MLB6391662968",
+    "productKey": "566cd97ce7c0cedd",
+    "titleHash": "4b6513dfe9fb0f5e",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-15T12:46:33.062Z"
+  },
+  {
+    "itemId": "MLB4747976917",
+    "productKey": "1c0c2cfead503f62",
+    "titleHash": "4092e4d6763c3705",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-15T12:46:33.062Z"
   }
 ]
