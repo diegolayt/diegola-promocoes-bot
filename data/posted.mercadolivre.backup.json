@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5769944586",
-    "productKey": "ec93060555c6cb7b",
-    "titleHash": "9478296a7f5367d3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-08T01:00:45.545Z"
-  },
-  {
-    "itemId": "MLB4987172929",
-    "productKey": "cb0374b29bdf7cf4",
-    "titleHash": "6765def2c424013a",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-08T01:15:37.912Z"
-  },
-  {
     "itemId": "MLB7622440798",
     "productKey": "23786fcb0da3df5b",
     "titleHash": "58ee5d7041f22ffa",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-15T12:16:26.298Z"
+  },
+  {
+    "itemId": "MLB6031639350",
+    "productKey": "afbff89ee85c38b5",
+    "titleHash": "bae5a48604e386ea",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-15T12:31:27.765Z"
+  },
+  {
+    "itemId": "MLB5687621228",
+    "productKey": "c56d82e397f7eda7",
+    "titleHash": "e3119767a5bc6fc2",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-15T12:31:27.766Z"
   }
 ]
