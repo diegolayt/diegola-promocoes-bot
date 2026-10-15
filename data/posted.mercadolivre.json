@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6611494338",
-    "productKey": "22c1ab81d170e902",
-    "titleHash": "59b69a48e3f7ae93",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-07T02:00:36.888Z"
-  },
-  {
-    "itemId": "MLB3986439067",
-    "productKey": "12c33843ea3ba516",
-    "titleHash": "f5092e1b3b45ec90",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-07T02:15:28.535Z"
-  },
-  {
-    "itemId": "MLB5333606065",
-    "productKey": "bfd6728ad1b171f9",
-    "titleHash": "181b50122314a076",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-07T02:30:31.186Z"
-  },
-  {
     "itemId": "MLB6047945220",
     "productKey": "a1d280e4c3ee7ae6",
     "titleHash": "94ccd298a23fb896",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-15T01:46:23.428Z"
+  },
+  {
+    "itemId": "MLB7811645020",
+    "productKey": "812634e89d0a39b7",
+    "titleHash": "c61cb7f19b5587d6",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-15T02:01:30.082Z"
+  },
+  {
+    "itemId": "MLB4793162315",
+    "productKey": "302af128e0f93e9d",
+    "titleHash": "0c238aed75c8a2bb",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-15T02:01:30.082Z"
+  },
+  {
+    "itemId": "MLB5418164544",
+    "productKey": "81470f458df652f2",
+    "titleHash": "9b560d3758ed6fb2",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-15T02:01:30.083Z"
   }
 ]

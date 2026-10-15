@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7811645020",
+      "site_id": "MLB",
+      "seller_id": 2960328510,
+      "accepts_mercadopago": true,
+      "price": 560.64,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 876,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BPUjUxZTc1",
+          "name": "Portão"
+        },
+        "state": {
+          "id": "TUxCUFJJT0xkYzM0",
+          "name": "Rio Grande do Sul"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5485686873",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67159677",
+      "title": "Cafeteira Espresso Mondial Dolce Crema 1200w C-21-e-cnp Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_682927-MLA109470995645_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67159677",
+      "id": "MLB7811645020",
+      "sold_quantity": 400,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4793162315",
+      "site_id": "MLB",
+      "seller_id": 621739273,
+      "accepts_mercadopago": true,
+      "price": 359.99,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 430126,
+      "original_price": 429.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTGYzZDA5",
+          "name": "Colatina"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkFERTI3MjhD",
+          "name": "Adélia Giuberti"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4114930895",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46108035",
+      "title": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_824915-MLA107242837831_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46108035",
+      "id": "MLB4793162315",
+      "sold_quantity": 700,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5418164544",
+      "site_id": "MLB",
+      "seller_id": 1286432339,
+      "accepts_mercadopago": true,
+      "price": 129.99,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 60 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTW9naSBHdWHDp3VUVXhDVUZOQlQwODVOM",
+          "name": "Mogi Guaçu"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQXJydWFtZW50byBQcmltYXZlcmFUVmhZV",
+          "name": "Arruamento Primavera"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 60,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "60 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3223383206",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41221309",
+      "title": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia Masculina Kit Presente Original",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_735112-MLA115743494554_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41221309",
+      "id": "MLB5418164544",
+      "sold_quantity": 1800,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-15T02:01:30.084Z"
+}
