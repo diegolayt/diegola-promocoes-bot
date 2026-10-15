@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5343180685",
-    "productKey": "f9672ffd7eb0d1b1",
-    "titleHash": "50b2fe01b47311e2",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-07T18:31:09.959Z"
-  },
-  {
-    "itemId": "MLB5346574281",
-    "productKey": "47832994a8c13bf2",
-    "titleHash": "3abd30b8475f251b",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-07T18:45:29.834Z"
-  },
-  {
     "itemId": "MLB4371605519",
     "productKey": "2a86db727b2c5887",
     "titleHash": "a6e7bc74d0fd88c8",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-15T09:31:30.994Z"
+  },
+  {
+    "itemId": "MLB4234612519",
+    "productKey": "8966f7090ac1116d",
+    "titleHash": "0257198e68c33f08",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-15T09:46:25.822Z"
+  },
+  {
+    "itemId": "MLB7511726468",
+    "productKey": "70d0d929e25bfba8",
+    "titleHash": "d2bf0fa599588fcb",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-15T09:46:25.822Z"
   }
 ]
