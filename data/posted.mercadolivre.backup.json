@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5210291587",
-    "productKey": "9d751b711b454293",
-    "titleHash": "836381a7863b8ad3",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-08T16:45:28.424Z"
-  },
-  {
-    "itemId": "MLB6706535682",
-    "productKey": "00b14ae85745311e",
-    "titleHash": "4332a25ca14ae522",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-08T17:00:42.071Z"
-  },
-  {
     "itemId": "MLB7590146354",
     "productKey": "8d695fa54f022e04",
     "titleHash": "7fcbd2cc69672259",
@@ -4798,5 +4782,21 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-10-15T19:31:28.181Z"
+  },
+  {
+    "itemId": "MLB4415031943",
+    "productKey": "43ab81ed3d64cbfc",
+    "titleHash": "847b82f5eeb65c22",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-15T19:46:27.154Z"
+  },
+  {
+    "itemId": "MLB3845254515",
+    "productKey": "c51898934732d05c",
+    "titleHash": "2f77857bd51fad93",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-15T19:46:27.154Z"
   }
 ]
