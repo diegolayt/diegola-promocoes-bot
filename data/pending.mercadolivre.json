@@ -1,0 +1,317 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4748443751",
+      "site_id": "MLB",
+      "seller_id": 1142362911,
+      "accepts_mercadopago": true,
+      "price": 96.99,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5588,
+      "original_price": 299,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQsFHVTg4NzY",
+          "name": "Água Branca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4053808609",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB21360271",
+      "title": "Club 6 Voyage Desodorante Colônia 95ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB21360271",
+      "id": "MLB4748443751",
+      "sold_quantity": 300,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7149675174",
+      "site_id": "MLB",
+      "seller_id": 630125402,
+      "accepts_mercadopago": true,
+      "price": 183,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 371824,
+      "original_price": 299.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJPTTc5MDk",
+          "name": "Bom Retiro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3721733472",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB75390680",
+      "title": "Jogo de Panelas Chef D Aço Inox 6 Peças 3 Caçarolas 3 Tampas de Vidro Fundo Triplo Fogão Indução Gás Elétrico Saudável Sem BPA Atóxico",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_950554-MLA114714219435_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB75390680",
+      "id": "MLB7149675174",
+      "sold_quantity": 100,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB6511064980",
+      "site_id": "MLB",
+      "seller_id": 777338596,
+      "accepts_mercadopago": true,
+      "price": 151.28,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5622,
+      "original_price": 197.43,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTc2MDI",
+          "name": "Campinas"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTTQzMTA",
+          "name": "Cambuí"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU1425683046",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB22379833",
+      "title": "Jogo Gta 5 Ps5 - Grand Theft Auto V Ps5 Mídia Física",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_813771-MLA109219355845_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB22379833",
+      "id": "MLB6511064980",
+      "sold_quantity": 400,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB2950704331",
+      "site_id": "MLB",
+      "seller_id": 9231284,
+      "accepts_mercadopago": true,
+      "price": 229.9,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 24 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBDYXJsb3NUVXhDVUZOQlQwODVOM",
+          "name": "São Carlos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIEJyYXNpbFRWaFlVOE9qYnlCR",
+          "name": "Jardim Brasil"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 24,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "24 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2202327707",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19457579",
+      "title": "Mouse Sem Fio Logitech Signature M650 - Rose",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_772890-MLA99508508272_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19457579",
+      "id": "MLB2950704331",
+      "sold_quantity": 100,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-15T17:31:29.920Z"
+}
