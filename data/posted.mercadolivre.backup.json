@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4091456221",
-    "productKey": "40f3ce023dcaf098",
-    "titleHash": "43b0e8b2f3e2ee28",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-08T08:30:33.763Z"
-  },
-  {
     "itemId": "MLB4513056610",
     "productKey": "a6c9a899dbe6cf71",
     "titleHash": "6733c606fc453816",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-15T16:01:29.051Z"
+  },
+  {
+    "itemId": "MLB6949268730",
+    "productKey": "6e158df3dcbb96cd",
+    "titleHash": "639b847efcd22948",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-15T16:16:26.486Z"
   }
 ]
