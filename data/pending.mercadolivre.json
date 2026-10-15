@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3269837602",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 93.73,
+      "category_id": "MLB1262",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "first_party",
+        "good_quality_thumbnail",
+        "kit_component",
+        "user_product_unify",
+        "has_published_clips",
+        "dynamic_standard_price",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2987,
+      "original_price": 143.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU1097936524",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB21361292",
+      "title": "Loção Hidratante Corporal Sem Perfume, com Ceramidas Essenciais e Ácido Hialurônico, Textura Fluida CeraVe 473ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_744669-MLA110746875502_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB21361292",
+      "id": "MLB3269837602",
+      "sold_quantity": 1900,
+      "rotationCategory": "pele",
+      "sourceCategoryId": "MLB199407",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7187016886",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 269,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "dynamic_standard_price",
+        "first_party",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 362.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4035660626",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB28572551",
+      "title": "Smart Tv Stick Full Hd Intelbras Preto Padrão",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_978515-MLA99506607420_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB28572551",
+      "id": "MLB7187016886",
+      "sold_quantity": 1500,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-15T06:31:28.405Z"
+}
