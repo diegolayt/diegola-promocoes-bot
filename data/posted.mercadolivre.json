@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5686758284",
-    "productKey": "798e6bc4461c6d6eca04ba38ce84d4b7324ea7ed8a095decdd56934c7efeba69",
-    "titleHash": "981008734e2c7b78867ac356f2c0e72d00583ea887dbaaebd9e99e64c40e53ec",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-06T23:45:32.418Z"
-  },
-  {
     "itemId": "MLB7690626104",
     "productKey": "bd7ce8c073ce4d785c724fbd5e043e971db627a92d2e875ef95d24f43f4df8c1",
     "titleHash": "9c59f5fda561e68048c1b32bfb7deb360f568407096e57437572de3862fd470b",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-15T00:01:29.341Z"
+  },
+  {
+    "itemId": "MLB4311848782",
+    "productKey": "c6ffc2bdedffd41c",
+    "titleHash": "90bb9eb966478224",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-15T00:46:22.067Z"
   }
 ]
