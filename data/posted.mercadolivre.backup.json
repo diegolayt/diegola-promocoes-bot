@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4320329461",
-    "productKey": "ec1a0f6646947a52",
-    "titleHash": "8194a721d6cd8807",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-07T12:00:37.206Z"
-  },
-  {
     "itemId": "MLB7719076464",
     "productKey": "05eaa0848b465a93",
     "titleHash": "9b22ebe344adee1c",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-15T06:31:28.403Z"
+  },
+  {
+    "itemId": "MLB4177456449",
+    "productKey": "e45e7ce2520ec55f",
+    "titleHash": "58d4fc2df4ea9377",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-15T06:46:28.053Z"
   }
 ]
