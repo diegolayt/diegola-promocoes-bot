@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4104379865",
-    "productKey": "bcc383aebf7b4b19",
-    "titleHash": "7497e9df0d7cbdd8",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-07T07:15:51.620Z"
-  },
-  {
     "itemId": "MLB6695260200",
     "productKey": "ee8fd5861a3c2696",
     "titleHash": "f8bfd64d734b86ee",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-15T04:31:23.128Z"
+  },
+  {
+    "itemId": "MLB5849862690",
+    "productKey": "e93db4dd324e5388",
+    "titleHash": "f77e10024cba7000",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-15T04:46:27.667Z"
   }
 ]
