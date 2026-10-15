@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5451861382",
-    "productKey": "587d20e08660bde7",
-    "titleHash": "990a1ea0e342ba85",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-07T20:45:27.205Z"
-  },
-  {
-    "itemId": "MLB4035471677",
-    "productKey": "c6d850128e0d4647",
-    "titleHash": "0d363bda659ba892",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-07T21:00:36.460Z"
-  },
-  {
     "itemId": "MLB6420538026",
     "productKey": "3a80315e87a71f5f",
     "titleHash": "d67494a9c8764546",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-15T10:31:32.884Z"
+  },
+  {
+    "itemId": "MLB7021496446",
+    "productKey": "06651e2562cbb16b",
+    "titleHash": "827ce4bd52859f56",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-15T10:46:25.589Z"
+  },
+  {
+    "itemId": "MLB5288966679",
+    "productKey": "bfd6728ad1b171f9",
+    "titleHash": "181b50122314a076",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-15T10:46:25.589Z"
   }
 ]
