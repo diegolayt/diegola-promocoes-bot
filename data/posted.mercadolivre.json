@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4647606299",
-    "productKey": "45898311a1c23687",
-    "titleHash": "65399aa5ab3c519e",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-08T10:45:28.603Z"
-  },
-  {
-    "itemId": "MLB5947554058",
-    "productKey": "74b37c0b8db7a848",
-    "titleHash": "27c8b319a715962c",
-    "category": "outros:karseell-collagen",
-    "sourceCategoryId": null,
-    "reservedAt": "2026-10-08T11:00:41.888Z"
-  },
-  {
     "itemId": "MLB5653337336",
     "productKey": "e6ad6b20e76f3aca",
     "titleHash": "63fbb386c85e9033",
@@ -4798,5 +4782,21 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-15T16:46:27.058Z"
+  },
+  {
+    "itemId": "MLB4035471677",
+    "productKey": "c6d850128e0d4647",
+    "titleHash": "0d363bda659ba892",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-15T17:01:29.942Z"
+  },
+  {
+    "itemId": "MLB5506642044",
+    "productKey": "a9cae0a28560e7a3",
+    "titleHash": "d81a2f310b80cd21",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-15T17:01:29.942Z"
   }
 ]
