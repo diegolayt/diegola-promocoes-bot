@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4487191577",
-    "productKey": "381fd5b224641c75",
-    "titleHash": "7c0b2dc917495bc1",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-07T14:45:32.518Z"
-  },
-  {
     "itemId": "MLB5276483671",
     "productKey": "429e344a68635eec",
     "titleHash": "0d6a97bbb0f3ef1c",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-15T08:01:29.890Z"
+  },
+  {
+    "itemId": "MLB4391994143",
+    "productKey": "f2921cc7fb9fa9b5",
+    "titleHash": "dd922ec0efd9151c",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-15T08:16:25.012Z"
   }
 ]

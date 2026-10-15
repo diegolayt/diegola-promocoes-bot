@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4391994143",
+      "site_id": "MLB",
+      "seller_id": 185638169,
+      "accepts_mercadopago": true,
+      "price": 398,
+      "category_id": "MLB72503",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 874,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 79.32
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBPUkJFODUy",
+          "name": "Portal de Jacaraípe"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3670342942",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26208174",
+      "title": "Climatizador Ar Frio Portátil Evaporativo 16 Litros Umidificador Ventisol Clin 16",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791654-MLA119033069579_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26208174",
+      "id": "MLB4391994143",
+      "sold_quantity": 1700,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-15T08:16:25.014Z"
+}
