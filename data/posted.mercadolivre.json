@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5709541496",
-    "productKey": "24537fafde73d315",
-    "titleHash": "7d384b5d8ba79ed8",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-08T18:30:47.652Z"
-  },
-  {
-    "itemId": "MLB5347073057",
-    "productKey": "af6fd456573a6c22",
-    "titleHash": "1a0f1b9fd4ebb53e",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-08T18:45:31.124Z"
-  },
-  {
     "itemId": "MLB4571380593",
     "productKey": "82c1d37664f2e191",
     "titleHash": "a6eac2b7c71246e4",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-15T20:31:32.285Z"
+  },
+  {
+    "itemId": "MLB6706535682",
+    "productKey": "00b14ae85745311e",
+    "titleHash": "4332a25ca14ae522",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-15T20:46:24.477Z"
+  },
+  {
+    "itemId": "MLB7413456100",
+    "productKey": "f59ad2d75ea00ed2",
+    "titleHash": "2eeeca2ccff60b6f",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-15T20:46:24.477Z"
   }
 ]
