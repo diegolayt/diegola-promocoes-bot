@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5653337336",
-    "productKey": "e6ad6b20e76f3aca",
-    "titleHash": "63fbb386c85e9033",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-08T11:15:37.948Z"
-  },
-  {
-    "itemId": "MLB5219998762",
-    "productKey": "ab0f5abeb7d01b34",
-    "titleHash": "3dd9c056269296af",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-08T11:30:39.891Z"
-  },
-  {
     "itemId": "MLB7071397546",
     "productKey": "5183c4a1c81e2d57",
     "titleHash": "f55664334c135032",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-15T17:01:29.942Z"
+  },
+  {
+    "itemId": "MLB4132725271",
+    "productKey": "b70bcf8b75607f51",
+    "titleHash": "c01ccd1bd728f32c",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-15T17:16:24.934Z"
+  },
+  {
+    "itemId": "MLB3897807155",
+    "productKey": "faec2e4d8d4b7bcc",
+    "titleHash": "81b88b0bc1856a15",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-15T17:16:24.935Z"
   }
 ]
