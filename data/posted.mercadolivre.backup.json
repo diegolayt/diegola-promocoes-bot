@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3947958871",
-    "productKey": "c2379be6a1181cbb",
-    "titleHash": "0b1e7d2c4b9152ac",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-07T10:15:34.924Z"
-  },
-  {
-    "itemId": "MLB5575158922",
-    "productKey": "470a6f69c29f9087",
-    "titleHash": "128e67c8b561c343",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-07T10:30:40.635Z"
-  },
-  {
     "itemId": "MLB7187016886",
     "productKey": "3235a086bca26017",
     "titleHash": "7a1c23c1bdf33031",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-15T05:46:23.696Z"
+  },
+  {
+    "itemId": "MLB4104379865",
+    "productKey": "bcc383aebf7b4b19",
+    "titleHash": "7497e9df0d7cbdd8",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-15T06:01:34.587Z"
+  },
+  {
+    "itemId": "MLB3798032968",
+    "productKey": "873a360bbc93b276",
+    "titleHash": "f286bb4769ccb2ae",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-15T06:01:34.588Z"
   }
 ]
