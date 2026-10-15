@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4132725271",
-    "productKey": "b70bcf8b75607f51461b894e0ea7976858e81b3985630428234bd974601cc04e",
-    "titleHash": "c01ccd1bd728f32c696a095ebe4b67969927a1ca97b7c697e183ab7b6b4a6aa3",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-06T23:30:41.090Z"
-  },
-  {
     "itemId": "MLB5686758284",
     "productKey": "798e6bc4461c6d6eca04ba38ce84d4b7324ea7ed8a095decdd56934c7efeba69",
     "titleHash": "981008734e2c7b78867ac356f2c0e72d00583ea887dbaaebd9e99e64c40e53ec",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-14T22:46:27.364Z"
+  },
+  {
+    "itemId": "MLB7239615054",
+    "productKey": "6bd9217b8cf68d26",
+    "titleHash": "3dd9b1eaa871dd48",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-15T00:01:29.341Z"
   }
 ]
