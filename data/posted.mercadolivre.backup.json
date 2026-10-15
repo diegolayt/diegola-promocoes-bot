@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5314935406",
-    "productKey": "29a167728a58669c",
-    "titleHash": "a40852fe2e7ef3d0",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-07T23:00:36.125Z"
-  },
-  {
-    "itemId": "MLB4039445285",
-    "productKey": "99e7af203807e481",
-    "titleHash": "725a0ad2111c45fd",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-07T23:15:28.380Z"
-  },
-  {
-    "itemId": "MLB5687621228",
-    "productKey": "c56d82e397f7eda7",
-    "titleHash": "e3119767a5bc6fc2",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-07T23:30:33.860Z"
-  },
-  {
     "itemId": "MLB5281246079",
     "productKey": "f92db17f5742d141",
     "titleHash": "fe9869689cc5204c",
@@ -4798,5 +4774,29 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-15T11:16:16.596Z"
+  },
+  {
+    "itemId": "MLB5517602596",
+    "productKey": "00737ae5c6b1088e",
+    "titleHash": "98ce55219da388e1",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-15T11:31:25.303Z"
+  },
+  {
+    "itemId": "MLB3873837161",
+    "productKey": "01b83afad55f31c1",
+    "titleHash": "84ad45755322ea1e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-15T11:31:25.303Z"
+  },
+  {
+    "itemId": "MLB6174995494",
+    "productKey": "fd297f5b4123c3bc",
+    "titleHash": "50b29c5497026496",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-15T11:31:25.303Z"
   }
 ]
