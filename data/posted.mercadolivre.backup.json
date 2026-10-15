@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7646771648",
-    "productKey": "4f002a5a79a2d8a1",
-    "titleHash": "9cd154bb13561b3d",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-08T15:45:31.616Z"
-  },
-  {
-    "itemId": "MLB3845254515",
-    "productKey": "c51898934732d05c",
-    "titleHash": "2f77857bd51fad93",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-08T16:00:37.433Z"
-  },
-  {
     "itemId": "MLB4415031943",
     "productKey": "43ab81ed3d64cbfc",
     "titleHash": "847b82f5eeb65c22",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-15T19:01:29.681Z"
+  },
+  {
+    "itemId": "MLB5374243348",
+    "productKey": "4e3f4c35024a7d4c",
+    "titleHash": "c05ea3c2f80d0174",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-15T19:16:33.057Z"
+  },
+  {
+    "itemId": "MLB4862019629",
+    "productKey": "c2a977cf56ca2408",
+    "titleHash": "c6746d1c5883f26a",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-15T19:16:33.057Z"
   }
 ]
