@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5343580317",
-    "productKey": "a42d98f7b575f48f",
-    "titleHash": "5a853c171e00f952",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-08T04:00:34.243Z"
-  },
-  {
-    "itemId": "MLB7044000776",
-    "productKey": "0129e0ad07cd5b49",
-    "titleHash": "254070ed90aabce5",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-08T04:15:30.089Z"
-  },
-  {
     "itemId": "MLB6880186832",
     "productKey": "1a5dfaf3ef4dac5e",
     "titleHash": "c58f62d50bd6d030",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-15T13:46:25.430Z"
+  },
+  {
+    "itemId": "MLB4357546353",
+    "productKey": "12ba1e7daad2e455",
+    "titleHash": "308ca2a85e1b8a8a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-15T14:01:28.150Z"
+  },
+  {
+    "itemId": "MLB6073502876",
+    "productKey": "9badbfbd76dd1c0a",
+    "titleHash": "1ccdd80b94cd74ff",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-15T14:01:28.150Z"
   }
 ]

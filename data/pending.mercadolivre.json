@@ -1,0 +1,156 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4357546353",
+      "site_id": "MLB",
+      "seller_id": 1159687577,
+      "accepts_mercadopago": true,
+      "price": 228,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 270782,
+      "original_price": 459,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU2FudGFuYSBkZSBQYXJuYcOtYmFUVXhDV",
+          "name": "Santana de Parnaíba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3672829288",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB51032488",
+      "title": "Fritadeira Air Fryer 4,5l Widemax Com Interior De Alumínio 1500w Midea",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_733418-MLA99504461002_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB51032488",
+      "id": "MLB4357546353",
+      "sold_quantity": 300,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6073502876",
+      "site_id": "MLB",
+      "seller_id": 2980925626,
+      "accepts_mercadopago": true,
+      "price": 1160.98,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "cbt_fulfillment_us",
+        "cbt_item",
+        "standard_price_by_channel",
+        "net_proceeds_prices",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52862035",
+      "title": "Tablet Xiaomi Redmi Pad 2 128gb 4 Ram Wi-fi Green Verde Verde",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_908499-MLA105887605914_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52862035",
+      "id": "MLB6073502876",
+      "sold_quantity": 1600,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-15T14:01:28.151Z"
+}
