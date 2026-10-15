@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4108132843",
-    "productKey": "b8b821ebbc3d00cc",
-    "titleHash": "015f139068ee71d9",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-07T08:30:36.164Z"
-  },
-  {
-    "itemId": "MLB7029983022",
-    "productKey": "195addb9e0cb3945",
-    "titleHash": "0cb54f54b1ae9faf",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-07T08:45:32.169Z"
-  },
-  {
     "itemId": "MLB3741085827",
     "productKey": "207e2794a9247dd6",
     "titleHash": "8922eef1610cd8b4",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-15T05:01:29.402Z"
+  },
+  {
+    "itemId": "MLB5291381733",
+    "productKey": "4a4e4d305a849405",
+    "titleHash": "4d721e26d87f59c2",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-15T05:16:24.631Z"
+  },
+  {
+    "itemId": "MLB5118961233",
+    "productKey": "345927f9a5cd5d6b",
+    "titleHash": "5d50f67b87052340",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-15T05:16:24.632Z"
   }
 ]
