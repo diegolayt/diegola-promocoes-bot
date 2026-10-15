@@ -1,0 +1,305 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4357151563",
+      "site_id": "MLB",
+      "seller_id": 1066070218,
+      "accepts_mercadopago": true,
+      "price": 940,
+      "category_id": "MLB1649",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "has_published_clips",
+        "catalog_boost",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 485242,
+      "original_price": 1198,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Contagem"
+        },
+        "state": {
+          "id": "",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU1986493284",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45937885",
+      "title": "PC BestPc Intel Core i5 8GB 256GB HDD Windows 10 Corporativo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_899545-MLA99938962645_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45937885",
+      "id": "MLB4357151563",
+      "sold_quantity": 600,
+      "rotationCategory": "computador",
+      "sourceCategoryId": "MLB430637",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB5891845742",
+      "site_id": "MLB",
+      "seller_id": 1046986303,
+      "accepts_mercadopago": true,
+      "price": 538,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 60822,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJTkNBUDE1MQ",
+          "name": "Pinheiros"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3510042441",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25676946",
+      "title": "Tanquinho Colormaq 15kg Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_741532-MLA100001084481_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25676946",
+      "id": "MLB5891845742",
+      "sold_quantity": 1000,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB2749142843",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 609,
+      "category_id": "MLB73057",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 458,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 19.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1428954470",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19119107",
+      "title": "Micro-ondas Brastemp 32L Branco com Menu Gourmet - BMS46AB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_934673-MLA99506615418_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19119107",
+      "id": "MLB2749142843",
+      "sold_quantity": 1200,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB5274910975",
+      "site_id": "MLB",
+      "seller_id": 260466799,
+      "accepts_mercadopago": true,
+      "price": 2999,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1118,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [
+          "lost_me2_by_dimensions"
+        ],
+        "cost": 49.99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BPTjJjY2I5",
+          "name": "Ponta Grossa"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJPTjI4RjA3",
+          "name": "Ronda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4669323421",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65863229",
+      "title": "Geladeira Electrolux Frost Free 380l Autosense Inverter Duplex Inox Look (if41s)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_632884-MLA106796987142_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65863229",
+      "id": "MLB5274910975",
+      "sold_quantity": 1000,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-10-15T15:16:25.258Z"
+}
