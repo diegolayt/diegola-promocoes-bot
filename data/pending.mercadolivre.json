@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6251191294",
+      "site_id": "MLB",
+      "seller_id": 668432476,
+      "accepts_mercadopago": true,
+      "price": 1749,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3296,
+      "original_price": 1841.06,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 39.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTlkMjJj",
+          "name": "Itajaí"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTERBMDg4",
+          "name": "Salseiros"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3785601513",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62889081",
+      "title": "Máquina De Lavar Roupas 12kg Branca Midea Wave Impeller Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_629848-MLA100011513144_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62889081",
+      "id": "MLB6251191294",
+      "sold_quantity": 1500,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-15T12:01:30.847Z"
+}
