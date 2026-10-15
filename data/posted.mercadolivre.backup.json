@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4976126807",
-    "productKey": "9cb47f553c7cb85e",
-    "titleHash": "62c54a9500e1296b",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-08T03:00:35.414Z"
-  },
-  {
     "itemId": "MLB5205579974",
     "productKey": "a8251bc98e70126a",
     "titleHash": "3d01cd9c39438f12",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-15T13:16:23.657Z"
+  },
+  {
+    "itemId": "MLB4508032431",
+    "productKey": "3a80315e87a71f5f",
+    "titleHash": "d67494a9c8764546",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-15T13:31:31.679Z"
   }
 ]
