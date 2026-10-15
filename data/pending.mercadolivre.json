@@ -1,0 +1,233 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6444025356",
+      "site_id": "MLB",
+      "seller_id": 208984762,
+      "accepts_mercadopago": true,
+      "price": 94.99,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 224062,
+      "original_price": 175.04,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDg5OTU",
+          "name": "Vila Maria"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3805070927",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25474028",
+      "title": "Câmera Ip A8 App Icsee Infravermelho Prova D'água Externa Wifi Hd Cor Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921837-MLA99700943906_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25474028",
+      "id": "MLB6444025356",
+      "sold_quantity": 600,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5451861382",
+      "site_id": "MLB",
+      "seller_id": 574206369,
+      "accepts_mercadopago": true,
+      "price": 875.91,
+      "category_id": "MLB180269",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 1413,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpVUmo2MHBr",
+          "name": "Jurubatuba"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU4034233287",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB37726317",
+      "title": "Bicicleta Aro 29 Gts Dexter 24 Marchas Freio A Disco Cor Vermelho Ferrari Com Preto Tamanho Do Quadro 17",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_687472-MLA96151470367_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB37726317",
+      "id": "MLB5451861382",
+      "sold_quantity": 1500,
+      "rotationCategory": "ciclismo",
+      "sourceCategoryId": "MLB1292",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB5310520005",
+      "site_id": "MLB",
+      "seller_id": 299478192,
+      "accepts_mercadopago": true,
+      "price": 47.28,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 86626,
+      "original_price": 50.3,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJFQjM4MjBD",
+          "name": "Rebouças"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5345094774",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78777171",
+      "title": "O diário de tarefas gnomosas do floreante viajante - (Autor(es) original) Lacerda, Maidy - Outro Planeta - Capa Dura",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_690785-MLA117027871833_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78777171",
+      "id": "MLB5310520005",
+      "sold_quantity": 1400,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-15T13:16:23.659Z"
+}

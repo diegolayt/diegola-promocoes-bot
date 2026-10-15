@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB2715864979",
-    "productKey": "c61bb77a90f70d42",
-    "titleHash": "e318b8d137692aca",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-08T02:15:29.998Z"
-  },
-  {
-    "itemId": "MLB4712532313",
-    "productKey": "e79cacc5bfe33eec",
-    "titleHash": "248c99ad0a42a4d3",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-08T02:30:34.825Z"
-  },
-  {
-    "itemId": "MLB7512656884",
-    "productKey": "ceaea8496330561a",
-    "titleHash": "dab03d2d1a5cb4d4",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-08T02:45:34.091Z"
-  },
-  {
     "itemId": "MLB4976126807",
     "productKey": "9cb47f553c7cb85e",
     "titleHash": "62c54a9500e1296b",
@@ -4798,5 +4774,29 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-15T13:01:34.141Z"
+  },
+  {
+    "itemId": "MLB6444025356",
+    "productKey": "dd59d5b8ac2a5734",
+    "titleHash": "e42d2354a34bd978",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-15T13:16:23.657Z"
+  },
+  {
+    "itemId": "MLB5451861382",
+    "productKey": "587d20e08660bde7",
+    "titleHash": "990a1ea0e342ba85",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-15T13:16:23.657Z"
+  },
+  {
+    "itemId": "MLB5310520005",
+    "productKey": "45a7144daaa80c5a",
+    "titleHash": "8b43e2f0b059a1b9",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-15T13:16:23.657Z"
   }
 ]
