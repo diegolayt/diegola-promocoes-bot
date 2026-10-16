@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7768864322",
-    "productKey": "4281712d280b0c32",
-    "titleHash": "266ad6ce32b2ede7",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-09T09:45:36.797Z"
-  },
-  {
-    "itemId": "MLB4195198970",
-    "productKey": "19e579017e9bbafd",
-    "titleHash": "9bead5eecb241d6b",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-09T10:30:39.076Z"
-  },
-  {
     "itemId": "MLB7491689844",
     "productKey": "1f028055a5e8fcd7",
     "titleHash": "0b04907b65ed95a5",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-16T04:16:24.847Z"
+  },
+  {
+    "itemId": "MLB3949790433",
+    "productKey": "0b12e3121e49b10b",
+    "titleHash": "57c7b342fe45599f",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-16T04:31:27.254Z"
+  },
+  {
+    "itemId": "MLB7586576746",
+    "productKey": "f43c4b67e4b561d2",
+    "titleHash": "ef27e31e530b0098",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-16T04:31:27.254Z"
   }
 ]
