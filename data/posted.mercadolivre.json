@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5958020162",
-    "productKey": "2621d654c3ad014a",
-    "titleHash": "e4461bf3d926e13c",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-09T21:15:31.365Z"
-  },
-  {
     "itemId": "MLB4940614639",
     "productKey": "3b6eb982e74b6702",
     "titleHash": "889a963d1c9bef64",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-16T09:46:27.268Z"
+  },
+  {
+    "itemId": "MLB3721343581",
+    "productKey": "d0747d37c319a421",
+    "titleHash": "5bc53b25ced2901c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-16T10:16:25.415Z"
   }
 ]
