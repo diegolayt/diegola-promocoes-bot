@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5224565048",
-    "productKey": "e6050d267f47cfc8",
-    "titleHash": "5b3cb68fe22fad69",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-11T18:00:45.019Z"
-  },
-  {
-    "itemId": "MLB4647847848",
-    "productKey": "5214251f2a0e2de8",
-    "titleHash": "59ba011eeb15abff",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-11T18:15:44.048Z"
-  },
-  {
     "itemId": "MLB6292637190",
     "productKey": "c24f336d46098951",
     "titleHash": "ab3494d0997e9d21",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-16T17:16:29.432Z"
+  },
+  {
+    "itemId": "MLB5150684561",
+    "productKey": "b216c04d769cb55e",
+    "titleHash": "c90ed605ace0d242",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-16T17:31:26.108Z"
+  },
+  {
+    "itemId": "MLB7750005758",
+    "productKey": "230f44c477955a2b",
+    "titleHash": "f00637d35c135f0b",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-16T17:31:26.108Z"
   }
 ]
