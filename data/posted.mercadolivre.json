@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5222302551",
-    "productKey": "b7be33d4bb65f733",
-    "titleHash": "fc411d5e084f24e1",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-09T22:00:44.484Z"
-  },
-  {
     "itemId": "MLB7384623412",
     "productKey": "c5206a759ccdd87b",
     "titleHash": "d0890eac568b2de2",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-16T10:31:27.891Z"
+  },
+  {
+    "itemId": "MLB2654504800",
+    "productKey": "02983e6cebf8fe5d",
+    "titleHash": "29879c6e3f2ebbc5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-16T10:46:25.677Z"
   }
 ]
