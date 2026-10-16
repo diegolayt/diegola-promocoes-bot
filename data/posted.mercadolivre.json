@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5095743629",
-    "productKey": "ae85c86bc4c9a7b4",
-    "titleHash": "bdc1664bb96631fe",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-10T14:00:41.832Z"
-  },
-  {
     "itemId": "MLB5205409311",
     "productKey": "3c7929088ddb1bc7",
     "titleHash": "96b1b0fc2faefe4e",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-16T14:01:30.072Z"
+  },
+  {
+    "itemId": "MLB4247892213",
+    "productKey": "d84c458734ce60a1",
+    "titleHash": "ac334aa5f2b5a4d6",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-16T14:16:30.513Z"
   }
 ]
