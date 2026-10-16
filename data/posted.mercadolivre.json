@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5332948617",
-    "productKey": "b53f11f1dc9026bd",
-    "titleHash": "36afe20dd9cd5d5c",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-13T15:15:39.211Z"
-  },
-  {
-    "itemId": "MLB4645451007",
-    "productKey": "439eedc782437843",
-    "titleHash": "c770bbd6140c471d",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-13T15:30:54.204Z"
-  },
-  {
     "itemId": "MLB3588989695",
     "productKey": "768e563b801eaf8d",
     "titleHash": "ba545b060ab6da58",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-16T22:46:28.853Z"
+  },
+  {
+    "itemId": "MLB4592569844",
+    "productKey": "8e754a84d4cb7d6c",
+    "titleHash": "739fe962804bde10",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-16T23:01:32.752Z"
+  },
+  {
+    "itemId": "MLB5738738172",
+    "productKey": "9eb5fc3ffddd6db0",
+    "titleHash": "945f28db261b2b05",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-16T23:01:32.753Z"
   }
 ]

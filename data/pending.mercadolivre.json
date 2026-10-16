@@ -1,0 +1,131 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4592569844",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 248.03,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 70442,
+      "original_price": 399.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU787683152",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19462412",
+      "title": "Máscara de Reconstrução Profunda para Cabelos Danificados, Força e Elasticidade Résistance Thérapiste Kérastase 200ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_753132-MLA99450295832_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19462412",
+      "id": "MLB4592569844",
+      "sold_quantity": 1100,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5738738172",
+      "site_id": "MLB",
+      "seller_id": 267892530,
+      "accepts_mercadopago": true,
+      "price": 2499,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1215,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDM4RTVG",
+          "name": "Cidade Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3444978226",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB57348431",
+      "title": "Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_648570-MLA99962182477_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB57348431",
+      "id": "MLB5738738172",
+      "sold_quantity": 1800,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-10-16T23:01:32.754Z"
+}
