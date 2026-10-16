@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7541776960",
+      "site_id": "MLB",
+      "seller_id": 344773032,
+      "accepts_mercadopago": true,
+      "price": 158.48,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 199.98,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQ1MDE",
+          "name": "São Caetano do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkZVTjEwMzA",
+          "name": "Fundação"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5008098896",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45254298",
+      "title": "Tv Stick Android Streaming Hdmi Wifi 4k 128gb",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_736919-MLA95970509444_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45254298",
+      "id": "MLB7541776960",
+      "sold_quantity": 400,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-16T14:31:33.706Z"
+}
