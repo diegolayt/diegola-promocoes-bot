@@ -1,0 +1,291 @@
+{
+  "items": [
+    {
+      "item_id": "MLB2760711619",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 799,
+      "category_id": "MLB76481",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 458,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 19.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1429689944",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB10640823",
+      "title": "Adega De Vinhos Brastemp Para 12 Garrafas Com Painel Touch BZC12BE Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_913759-MLA99991718745_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB10640823",
+      "id": "MLB2760711619",
+      "sold_quantity": 200,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    },
+    {
+      "item_id": "MLB5376165413",
+      "site_id": "MLB",
+      "seller_id": 3750219725,
+      "accepts_mercadopago": true,
+      "price": 299.5,
+      "category_id": "MLB1265",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBKb8OjbyBkZSBNZXJpdGlUVXhDV",
+          "name": "São João de Meriti"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIFBhcmHDrXNvVFZoWVU4T2pie",
+          "name": "Jardim Paraíso"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5494654166",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48515682",
+      "title": "Kit Wella Invigo Nutri Enrich Shampoo E Condicionador 2 L [original]",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_855356-MLA99920310273_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48515682",
+      "id": "MLB5376165413",
+      "sold_quantity": 1000,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7826970574",
+      "site_id": "MLB",
+      "seller_id": 3233938745,
+      "accepts_mercadopago": true,
+      "price": 3736.57,
+      "category_id": "MLB1652",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Ribeirão Preto"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5565407362",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB70040749",
+      "title": "Notebook Dell Dc15-i51334u-a50 15.6 Fhd I5 8gb 512gb Win 11",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_602930-MLA111944189869_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB70040749",
+      "id": "MLB7826970574",
+      "sold_quantity": 700,
+      "rotationCategory": "notebook",
+      "sourceCategoryId": "MLB430687",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB7821489418",
+      "site_id": "MLB",
+      "seller_id": 3233938745,
+      "accepts_mercadopago": true,
+      "price": 515,
+      "category_id": "MLB120316",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Ribeirão Preto"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5553392252",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB50661985",
+      "title": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_958953-MLA99468178484_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB50661985",
+      "id": "MLB7821489418",
+      "sold_quantity": 200,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-10-16T16:46:27.556Z"
+}
