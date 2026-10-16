@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7697388652",
-    "productKey": "188aaec624c0db89",
-    "titleHash": "546002c2f3e9a515",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-11T17:30:38.082Z"
-  },
-  {
     "itemId": "MLB5972837798",
     "productKey": "c45a40bf0889759e",
     "titleHash": "7fb3749c5110ec68",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-16T16:46:27.554Z"
+  },
+  {
+    "itemId": "MLB5400787943",
+    "productKey": "bf7e00fa51c47b92",
+    "titleHash": "2b36c4d2d2387bd1",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-16T17:01:31.668Z"
   }
 ]
