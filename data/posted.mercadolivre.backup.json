@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4309475388",
-    "productKey": "594c5cd57eb22834",
-    "titleHash": "270e9800cc8093c8",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-13T11:45:41.948Z"
-  },
-  {
     "itemId": "MLB5332948617",
     "productKey": "b53f11f1dc9026bd",
     "titleHash": "36afe20dd9cd5d5c",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-16T22:31:36.138Z"
+  },
+  {
+    "itemId": "MLB4449888791",
+    "productKey": "735f5df2782173d2",
+    "titleHash": "1df3875054cdeb21",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-16T22:46:28.853Z"
   }
 ]
