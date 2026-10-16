@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5886831522",
-    "productKey": "62f91e78f631ddab",
-    "titleHash": "8268204c51c89120",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-10T16:30:39.518Z"
-  },
-  {
     "itemId": "MLB6144331194",
     "productKey": "104c62f84f8d85e8",
     "titleHash": "2f2b1411898660ab",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-16T14:46:27.556Z"
+  },
+  {
+    "itemId": "MLB5306202717",
+    "productKey": "f92db17f5742d141",
+    "titleHash": "ba604d815288c3ae",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-16T15:01:42.343Z"
   }
 ]
