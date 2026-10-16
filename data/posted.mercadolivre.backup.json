@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4592569844",
-    "productKey": "8e754a84d4cb7d6c",
-    "titleHash": "739fe962804bde10",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-12T17:30:40.459Z"
-  },
-  {
-    "itemId": "MLB4092999443",
-    "productKey": "9180f7359eb828c8",
-    "titleHash": "334a61232386e846",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-12T17:45:31.915Z"
-  },
-  {
     "itemId": "MLB5410852112",
     "productKey": "68616dd501c539e3",
     "titleHash": "f40968a9ec38373d",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-16T19:31:27.374Z"
+  },
+  {
+    "itemId": "MLB4286608357",
+    "productKey": "0bcf0514bbf146bf",
+    "titleHash": "4bdf6074887c635e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-16T19:46:24.199Z"
+  },
+  {
+    "itemId": "MLB5134573859",
+    "productKey": "ca96a7cdc65dd068",
+    "titleHash": "90d10515f2959749",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-16T19:46:24.199Z"
   }
 ]
