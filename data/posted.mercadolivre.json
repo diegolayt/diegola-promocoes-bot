@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5930202958",
-    "productKey": "fded24791054bb1d",
-    "titleHash": "bba7ae42ffd6ef51",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-10T03:15:41.405Z"
-  },
-  {
     "itemId": "MLB7758627412",
     "productKey": "5bbd37355bdaaca3",
     "titleHash": "c3390cb321d1deb2",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-16T12:01:31.225Z"
+  },
+  {
+    "itemId": "MLB3679704360",
+    "productKey": "c9df3c56099bd37b",
+    "titleHash": "34f9448e848ee070",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-16T12:16:32.771Z"
   }
 ]
