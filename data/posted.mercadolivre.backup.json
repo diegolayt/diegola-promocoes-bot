@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4559000033",
-    "productKey": "5b46392a746a1583",
-    "titleHash": "bc9fa749b71a0b00",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-13T00:15:43.698Z"
-  },
-  {
     "itemId": "MLB5305987156",
     "productKey": "f7922a1199c97b70",
     "titleHash": "c0e0c146c1eaab72",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-16T21:46:24.132Z"
+  },
+  {
+    "itemId": "MLB6246809052",
+    "productKey": "27482fda8b372737",
+    "titleHash": "2a9d9052071de1ee",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-16T22:01:34.063Z"
   }
 ]
