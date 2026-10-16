@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5119946035",
-    "productKey": "521cd6b50a0644fa",
-    "titleHash": "22851baee6276190",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-10T12:15:28.652Z"
-  },
-  {
-    "itemId": "MLB4579770653",
-    "productKey": "cd5b6c560fda0bb5",
-    "titleHash": "767d21d4d372502b",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-10T12:30:43.780Z"
-  },
-  {
     "itemId": "MLB5095743629",
     "productKey": "ae85c86bc4c9a7b4",
     "titleHash": "bdc1664bb96631fe",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-16T13:46:24.803Z"
+  },
+  {
+    "itemId": "MLB4516945661",
+    "productKey": "c5206a759ccdd87b",
+    "titleHash": "d0890eac568b2de2",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-16T14:01:30.071Z"
+  },
+  {
+    "itemId": "MLB4286575773",
+    "productKey": "ccb6a091dd86456b",
+    "titleHash": "34034148276df6c7",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-16T14:01:30.072Z"
   }
 ]
