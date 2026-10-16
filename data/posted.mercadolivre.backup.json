@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7747719778",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-09T06:30:41.658Z"
-  },
-  {
     "itemId": "MLB4362197680",
     "productKey": "d28f3f119522eab2",
     "titleHash": "54e743c0f46d20a1",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-16T02:46:23.685Z"
+  },
+  {
+    "itemId": "MLB3787957121",
+    "productKey": "2696ef941668e6bc",
+    "titleHash": "bd863ae05c62aa73",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-16T03:01:28.599Z"
   }
 ]
