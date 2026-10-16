@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4201823917",
-    "productKey": "7eecd5f765f1c03f",
-    "titleHash": "1f7cacb96af0197b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-09T05:31:17.937Z"
-  },
-  {
-    "itemId": "MLB3787957121",
-    "productKey": "2696ef941668e6bc",
-    "titleHash": "bd863ae05c62aa73",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-09T05:45:29.926Z"
-  },
-  {
     "itemId": "MLB7747719778",
     "productKey": "69878d2d21f252a1",
     "titleHash": "25419699bc99025e",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-16T02:31:25.987Z"
+  },
+  {
+    "itemId": "MLB5140003520",
+    "productKey": "66aad9dacbb2cc0c",
+    "titleHash": "9d1eae52c8bb9416",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-16T02:46:23.685Z"
+  },
+  {
+    "itemId": "MLB4000648165",
+    "productKey": "195f5579ec8ffc48",
+    "titleHash": "12b0a57284d7ef93",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-16T02:46:23.685Z"
   }
 ]
