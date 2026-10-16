@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5183209391",
-    "productKey": "1d7ed64d818cda9a",
-    "titleHash": "dec24c480881c03e",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-09T02:00:49.851Z"
-  },
-  {
     "itemId": "MLB7021497438",
     "productKey": "55918accac2564b2",
     "titleHash": "fa1655aba7b923ac",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-16T00:31:30.495Z"
+  },
+  {
+    "itemId": "MLB5173083245",
+    "productKey": "55fae1bf40b618cf",
+    "titleHash": "2c0a170468ff47ea",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-16T00:46:21.452Z"
   }
 ]
