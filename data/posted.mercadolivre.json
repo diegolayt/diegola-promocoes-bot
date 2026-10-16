@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7779016744",
-    "productKey": "329979dba837faee",
-    "titleHash": "fc34165272bbea83",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-11T18:45:35.801Z"
-  },
-  {
     "itemId": "MLB6437961764",
     "productKey": "c56ac286434861dc",
     "titleHash": "5543eb3b9d2ab9b7",
@@ -4798,5 +4790,13 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-10-16T17:46:24.149Z"
+  },
+  {
+    "itemId": "MLB7651759968",
+    "productKey": "e31c83ceab48f83b",
+    "titleHash": "880309c3e7db71f2",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-16T18:01:32.707Z"
   }
 ]
