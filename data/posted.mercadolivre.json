@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4505755729",
-    "productKey": "bf7e00fa51c47b92",
-    "titleHash": "2b36c4d2d2387bd1",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-09T03:45:36.875Z"
-  },
-  {
     "itemId": "MLB6530934370",
     "productKey": "d0d30cc4b966532b",
     "titleHash": "fb342bdcfde79310",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-16T01:46:22.557Z"
+  },
+  {
+    "itemId": "MLB3956146971",
+    "productKey": "b657492b7e761bf0",
+    "titleHash": "28f7e1efba05bb5f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-16T02:01:30.202Z"
   }
 ]
