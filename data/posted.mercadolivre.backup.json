@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3519338657",
-    "productKey": "3e89fb212f1b587a",
-    "titleHash": "a70af37fa192c514",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-11T05:15:37.361Z"
-  },
-  {
-    "itemId": "MLB6756873330",
-    "productKey": "82c1081d3a0ec4c7",
-    "titleHash": "2c7419f01adc742f",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-11T05:30:33.443Z"
-  },
-  {
     "itemId": "MLB4871349089",
     "productKey": "db52bddb843e7432",
     "titleHash": "2fd2f489a30c395a",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-16T15:46:28.088Z"
+  },
+  {
+    "itemId": "MLB6161925990",
+    "productKey": "077fe19f4736884c",
+    "titleHash": "d7b2cb595cb95e9a",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-16T16:01:32.656Z"
+  },
+  {
+    "itemId": "MLB7773409152",
+    "productKey": "d9a1640cf1b8c6e3",
+    "titleHash": "1fa95cf3ec92b68b",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-16T16:01:32.656Z"
   }
 ]
