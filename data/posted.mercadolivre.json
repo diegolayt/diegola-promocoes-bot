@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4362197680",
-    "productKey": "d28f3f119522eab2",
-    "titleHash": "54e743c0f46d20a1",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-09T06:45:34.417Z"
-  },
-  {
-    "itemId": "MLB7772114428",
-    "productKey": "daec8d0881c8d7d6",
-    "titleHash": "38709b9f79583c28",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-09T07:00:46.935Z"
-  },
-  {
     "itemId": "MLB4278550700",
     "productKey": "484a03825ae17ef1",
     "titleHash": "fe796f34ef3590ff",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-16T03:01:28.599Z"
+  },
+  {
+    "itemId": "MLB5959878540",
+    "productKey": "f675a987fa0ff8a9",
+    "titleHash": "368a530569ba2d5f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-16T03:16:27.766Z"
+  },
+  {
+    "itemId": "MLB5312630395",
+    "productKey": "a840ac5859f19fbe",
+    "titleHash": "92fe84908be8a274",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-16T03:16:27.766Z"
   }
 ]
