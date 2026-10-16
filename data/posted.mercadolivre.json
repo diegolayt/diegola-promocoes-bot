@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4953897671",
-    "productKey": "605baac0da39a5eb",
-    "titleHash": "7467a70e581a58cd",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-12T10:00:46.152Z"
-  },
-  {
-    "itemId": "MLB3910694373",
-    "productKey": "3281542ebae1f6e6",
-    "titleHash": "971df868445cdbf2",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-12T10:30:43.144Z"
-  },
-  {
     "itemId": "MLB5112459925",
     "productKey": "9affbdb880b8bc94",
     "titleHash": "e8ff47795136b334",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-16T18:46:22.215Z"
+  },
+  {
+    "itemId": "MLB4532977440",
+    "productKey": "78f2b6de4ac95865",
+    "titleHash": "41b27e352f9a3069",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-16T19:01:31.959Z"
+  },
+  {
+    "itemId": "MLB7779016744",
+    "productKey": "329979dba837faee",
+    "titleHash": "fc34165272bbea83",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-16T19:01:31.960Z"
   }
 ]
