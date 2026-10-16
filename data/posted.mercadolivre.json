@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7021497438",
-    "productKey": "55918accac2564b2",
-    "titleHash": "fa1655aba7b923ac",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-09T02:15:39.686Z"
-  },
-  {
-    "itemId": "MLB5733297138",
-    "productKey": "c52b9f7e056f0fce",
-    "titleHash": "d5f98a18efd59247",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-09T02:31:18.072Z"
-  },
-  {
     "itemId": "MLB2795953656",
     "productKey": "64d907793969abd0",
     "titleHash": "683807807645b6a9",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-16T00:46:21.452Z"
+  },
+  {
+    "itemId": "MLB5593836666",
+    "productKey": "9d5c96d703bbb08b",
+    "titleHash": "b4c97ba46d1f05ff",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-16T01:01:32.657Z"
+  },
+  {
+    "itemId": "MLB4293579529",
+    "productKey": "cdfb876d1a77e04b",
+    "titleHash": "bef1753a1a6057f5",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-16T01:01:32.657Z"
   }
 ]
