@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6708856768",
-    "productKey": "db1a4254f93598b2",
-    "titleHash": "9cad0ec9b02cf947",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-12T21:00:41.872Z"
-  },
-  {
-    "itemId": "MLB7513457268",
-    "productKey": "e56e36fb02778797",
-    "titleHash": "b1bb7820336a7a7d",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-12T22:30:39.549Z"
-  },
-  {
     "itemId": "MLB3608600095",
     "productKey": "ab5f5ca9264770f9",
     "titleHash": "6b0c8067530558db",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-16T20:46:22.990Z"
+  },
+  {
+    "itemId": "MLB7709046940",
+    "productKey": "ae11f27802361e7f",
+    "titleHash": "fd53318c6e50c543",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-16T21:31:28.321Z"
+  },
+  {
+    "itemId": "MLB5330484555",
+    "productKey": "4e7f7b1baa55e158",
+    "titleHash": "d95af3217f0f612d",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-16T21:31:28.321Z"
   }
 ]
