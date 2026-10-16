@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7772698464",
-    "productKey": "738309184d965f43",
-    "titleHash": "52a20a81d2804262",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-09T14:30:38.189Z"
-  },
-  {
-    "itemId": "MLB7227482292",
-    "productKey": "62bcab9e6c459851",
-    "titleHash": "503e887254ddf661",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-09T14:45:42.079Z"
-  },
-  {
     "itemId": "MLB5513621822",
     "productKey": "994e36c5b096c9e1",
     "titleHash": "8a37142a5fdadc67",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-16T05:31:28.536Z"
+  },
+  {
+    "itemId": "MLB7391079896",
+    "productKey": "c451c7876e54b375",
+    "titleHash": "4945a548e1858678",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-16T05:46:24.774Z"
+  },
+  {
+    "itemId": "MLB5210291587",
+    "productKey": "9d751b711b454293",
+    "titleHash": "836381a7863b8ad3",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-16T05:46:24.774Z"
   }
 ]
