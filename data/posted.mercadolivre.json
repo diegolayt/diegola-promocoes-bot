@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4120784153",
-    "productKey": "82ea52e043f4fc67",
-    "titleHash": "02daee1225284f3a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-12T16:00:34.344Z"
-  },
-  {
     "itemId": "MLB4592569844",
     "productKey": "8e754a84d4cb7d6c",
     "titleHash": "739fe962804bde10",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-16T19:16:25.046Z"
+  },
+  {
+    "itemId": "MLB7751552448",
+    "productKey": "c65287d4bd4790c6",
+    "titleHash": "701fe7632c6e3d92",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-16T19:31:27.374Z"
   }
 ]
