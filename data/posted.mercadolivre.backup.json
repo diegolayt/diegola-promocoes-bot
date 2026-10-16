@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7384623412",
-    "productKey": "c5206a759ccdd87b",
-    "titleHash": "d0890eac568b2de2",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-09T22:45:40.271Z"
-  },
-  {
     "itemId": "MLB4247892213",
     "productKey": "d84c458734ce60a1",
     "titleHash": "ac334aa5f2b5a4d6",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-16T10:46:25.677Z"
+  },
+  {
+    "itemId": "MLB3579786447",
+    "productKey": "44a3bea7e54cce74",
+    "titleHash": "ad265b3e1f03412c",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-16T11:16:25.058Z"
   }
 ]
