@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3588989695",
-    "productKey": "768e563b801eaf8d",
-    "titleHash": "ba545b060ab6da58",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-13T15:30:54.204Z"
-  },
-  {
     "itemId": "MLB4342539887",
     "productKey": "36e80a73bbf5e988",
     "titleHash": "7166f05bf6ba8c1d",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-16T23:01:32.753Z"
+  },
+  {
+    "itemId": "MLB5410852112",
+    "productKey": "68616dd501c539e3",
+    "titleHash": "f40968a9ec38373d",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-16T23:16:25.635Z"
   }
 ]
