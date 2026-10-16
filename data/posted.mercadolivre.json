@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6595924086",
-    "productKey": "221322921d734387",
-    "titleHash": "2522ad2052ace705",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-09T16:15:33.065Z"
-  },
-  {
-    "itemId": "MLB2787245412",
-    "productKey": "50274da5b327a827",
-    "titleHash": "22b4a28cffd81415",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-09T16:30:36.695Z"
-  },
-  {
     "itemId": "MLB2654504800",
     "productKey": "02983e6cebf8fe5d",
     "titleHash": "29879c6e3f2ebbc5",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-16T06:46:25.944Z"
+  },
+  {
+    "itemId": "MLB5812974526",
+    "productKey": "4d1932b6c96ba250",
+    "titleHash": "f662e7acd8eb0942",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-16T07:01:30.008Z"
+  },
+  {
+    "itemId": "MLB7057014274",
+    "productKey": "69878d2d21f252a1",
+    "titleHash": "25419699bc99025e",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-16T07:01:30.008Z"
   }
 ]
