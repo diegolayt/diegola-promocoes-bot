@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5281381495",
-    "productKey": "e8b365816ac55e07",
-    "titleHash": "a903844b96a9cadf",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-13T19:01:32.934Z"
-  },
-  {
-    "itemId": "MLB6112190914",
-    "productKey": "eafa4fac22bc28d4",
-    "titleHash": "ba618477890cc7be",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-13T19:16:30.740Z"
-  },
-  {
-    "itemId": "MLB5354562655",
-    "productKey": "c356c59be11ac235",
-    "titleHash": "4c99e959114099bb",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-13T19:16:30.740Z"
-  },
-  {
     "itemId": "MLB4803658086",
     "productKey": "10e676d7f3f50b79",
     "titleHash": "67503e7478865213",
@@ -4798,5 +4774,29 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-17T08:46:25.270Z"
+  },
+  {
+    "itemId": "MLB4258372955",
+    "productKey": "bac4b976444016af",
+    "titleHash": "5ee95c201463689d",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-10-17T09:01:28.248Z"
+  },
+  {
+    "itemId": "MLB7702250824",
+    "productKey": "6cb1243c40624794",
+    "titleHash": "86b6e248994c6e5b",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-17T09:01:28.248Z"
+  },
+  {
+    "itemId": "MLB4936320789",
+    "productKey": "7df1458663dc1f98",
+    "titleHash": "3a68c17bceca4a73",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-17T09:01:28.248Z"
   }
 ]
