@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7742862988",
-    "productKey": "ab7a06687d5141b6",
-    "titleHash": "90a8b50e660fc297",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-13T17:46:22.188Z"
-  },
-  {
     "itemId": "MLB5288019651",
     "productKey": "4dfdbd7c05bd8c8c",
     "titleHash": "2b8dd6fe975ec983",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-17T07:01:36.519Z"
+  },
+  {
+    "itemId": "MLB7584470644",
+    "productKey": "9affbdb880b8bc94",
+    "titleHash": "e8ff47795136b334",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-17T07:16:32.495Z"
   }
 ]
