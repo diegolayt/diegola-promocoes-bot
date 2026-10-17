@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7803770256",
-    "productKey": "dea2c4a9da61bcd6",
-    "titleHash": "6c866c86c418343d",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-13T17:16:17.955Z"
-  },
-  {
     "itemId": "MLB7154318590",
     "productKey": "987c4c76465148dd",
     "titleHash": "a95b15828b1406a8",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-17T05:46:22.816Z"
+  },
+  {
+    "itemId": "MLB5313190337",
+    "productKey": "43b31f7e3b19a97c",
+    "titleHash": "af434efe411da54e",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-17T06:16:30.007Z"
   }
 ]
