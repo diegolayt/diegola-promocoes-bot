@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3251982185",
-    "productKey": "6e6b0a0afa3e4adb",
-    "titleHash": "ba28ef2dcd7fcc21",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-14T05:16:35.999Z"
-  },
-  {
-    "itemId": "MLB5379563707",
-    "productKey": "113d9604631d6b0d",
-    "titleHash": "02055506bdcf30fc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-14T05:16:35.999Z"
-  },
-  {
-    "itemId": "MLB5643054880",
-    "productKey": "214fc030cd4ff663",
-    "titleHash": "8f91897b121eb9ff",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-14T05:31:25.046Z"
-  },
-  {
     "itemId": "MLB5525263450",
     "productKey": "1d8166e9351c06df",
     "titleHash": "2d20bb6dda958724",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-17T23:16:24.709Z"
+  },
+  {
+    "itemId": "MLB5413348601",
+    "productKey": "2178ba4369796815",
+    "titleHash": "eed3a9215068bf92",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-17T23:31:32.837Z"
+  },
+  {
+    "itemId": "MLB7677568494",
+    "productKey": "d00fd3d38d9c5864",
+    "titleHash": "c1f71c9a94dc2f5e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-17T23:31:32.837Z"
+  },
+  {
+    "itemId": "MLB5342139513",
+    "productKey": "23c4410a26b6c187",
+    "titleHash": "a4502ea76973e897",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-17T23:31:32.837Z"
   }
 ]
