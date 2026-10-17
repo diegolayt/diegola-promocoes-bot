@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5069140505",
-    "productKey": "093b9eee2f11757f",
-    "titleHash": "20ca04f8adaf4372",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-14T05:01:29.701Z"
-  },
-  {
-    "itemId": "MLB7366888370",
-    "productKey": "b912948cf9b5e753",
-    "titleHash": "f913a4edc4a02db1",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-14T05:01:29.701Z"
-  },
-  {
-    "itemId": "MLB7633876088",
-    "productKey": "e7466642d6b5d025",
-    "titleHash": "325029870601ba85",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-14T05:16:35.999Z"
-  },
-  {
     "itemId": "MLB7658629246",
     "productKey": "142385f66dcdd104",
     "titleHash": "4d563e7f677f169d",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-17T22:46:24.595Z"
+  },
+  {
+    "itemId": "MLB7597764124",
+    "productKey": "d042f8f81af2c69f",
+    "titleHash": "f8fc4194f2663a29",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-17T23:01:30.288Z"
+  },
+  {
+    "itemId": "MLB7725235560",
+    "productKey": "b7371e77d704b462",
+    "titleHash": "cc44c47e60e54f0b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-17T23:01:30.288Z"
+  },
+  {
+    "itemId": "MLB4959861957",
+    "productKey": "a6e34eb67a907296",
+    "titleHash": "301d15a17b8ba749",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-17T23:01:30.288Z"
   }
 ]
