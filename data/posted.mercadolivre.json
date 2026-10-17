@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5342139513",
-    "productKey": "23c4410a26b6c187",
-    "titleHash": "a4502ea76973e897",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-14T04:01:31.739Z"
-  },
-  {
-    "itemId": "MLB7658459660",
-    "productKey": "7553a221ebd439ad",
-    "titleHash": "bbf4157e2e7d1e0f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-14T04:16:24.794Z"
-  },
-  {
     "itemId": "MLB4181168707",
     "productKey": "196111ffacbbd89e",
     "titleHash": "6584cbac695959ac",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-17T21:16:07.772Z"
+  },
+  {
+    "itemId": "MLB4239462089",
+    "productKey": "7c16ecc85931f27a",
+    "titleHash": "85ee5166025b545e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-17T21:31:32.622Z"
+  },
+  {
+    "itemId": "MLB5325831505",
+    "productKey": "9785e1e4f9269a23",
+    "titleHash": "0517c1a09d1c4254",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-17T21:31:32.622Z"
   }
 ]
