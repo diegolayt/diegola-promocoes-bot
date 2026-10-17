@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7358347786",
+      "site_id": "MLB",
+      "seller_id": 637554745,
+      "accepts_mercadopago": true,
+      "price": 72.99,
+      "category_id": "MLB2097",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDM4RTVG",
+          "name": "Cidade Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4615087529",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35762220",
+      "title": "Conjunto 5 Carrinhos Hot Wheels - Mattel",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_724815-MLA99876815105_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35762220",
+      "id": "MLB7358347786",
+      "sold_quantity": 1200,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-17T13:31:29.550Z"
+}

@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7229426980",
-    "productKey": "b99a995b906409f9",
-    "titleHash": "e7e58aebd0fef472",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-13T21:31:24.293Z"
-  },
-  {
     "itemId": "MLB7390921114",
     "productKey": "6c831738d13143fe",
     "titleHash": "da1d90777d90d970",
@@ -4798,5 +4790,13 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-17T13:16:18.870Z"
+  },
+  {
+    "itemId": "MLB7358347786",
+    "productKey": "dd929be301bd7cf9",
+    "titleHash": "6c9ca49d8833bbda",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-17T13:31:29.548Z"
   }
 ]
