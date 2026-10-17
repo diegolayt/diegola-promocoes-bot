@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3399022201",
+      "site_id": "MLB",
+      "seller_id": 524736285,
+      "accepts_mercadopago": true,
+      "price": 51.9,
+      "category_id": "MLB12394",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "catalog_boost",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 219186,
+      "original_price": 78.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHUyNHA5",
+          "name": "Vila Maria Baixa"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1453498401",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25656186",
+      "title": "Patinete Infantil 3 Rodas com Led/Dobrável Menino/Menina",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_944838-MLA99549576346_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25656186",
+      "id": "MLB3399022201",
+      "sold_quantity": 2000,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3643568787",
+      "site_id": "MLB",
+      "seller_id": 794801093,
+      "accepts_mercadopago": true,
+      "price": 63.65,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "kit_component",
+        "good_quality_thumbnail",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3152,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDI1OTI",
+          "name": "Vila Andrade"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1129767677",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB30712586",
+      "title": "O diário de uma princesa desastrada 2 - Lacerda, Maidy - Editora Planeta - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_850094-MLA79580193572_102024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB30712586",
+      "id": "MLB3643568787",
+      "sold_quantity": 1100,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-17T06:46:19.974Z"
+}

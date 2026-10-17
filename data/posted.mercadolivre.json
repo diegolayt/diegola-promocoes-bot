@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7154318590",
-    "productKey": "987c4c76465148dd",
-    "titleHash": "a95b15828b1406a8",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-13T17:16:17.955Z"
-  },
-  {
-    "itemId": "MLB4264223185",
-    "productKey": "ec4b519641a7ee71",
-    "titleHash": "06afb66b058ef953",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-13T17:31:22.886Z"
-  },
-  {
     "itemId": "MLB4053374163",
     "productKey": "04168d7af042a735",
     "titleHash": "cd6447da33f541b3",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-17T06:16:30.007Z"
+  },
+  {
+    "itemId": "MLB3399022201",
+    "productKey": "f0bb7eab24f9461a",
+    "titleHash": "5de2e14bd196608c",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-17T06:46:19.972Z"
+  },
+  {
+    "itemId": "MLB3643568787",
+    "productKey": "e38f5a07bc73fbd7",
+    "titleHash": "17dc2126afaa1a23",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-17T06:46:19.973Z"
   }
 ]
