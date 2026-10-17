@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6666918416",
-    "productKey": "9f78f29633b289d2",
-    "titleHash": "8068712b03430b55",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-13T23:01:33.857Z"
-  },
-  {
-    "itemId": "MLB6400344928",
-    "productKey": "d6cc0984381470cf",
-    "titleHash": "a33e46855fcff71c",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-13T23:01:33.857Z"
-  },
-  {
     "itemId": "MLB4771398286",
     "productKey": "12bdcfabca3caf4e",
     "titleHash": "f71509e0a3defcad",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-17T15:16:26.621Z"
+  },
+  {
+    "itemId": "MLB4265708013",
+    "productKey": "3ca801cb1e1d27d3",
+    "titleHash": "9fab40653042a04f",
+    "category": "colchão",
+    "sourceCategoryId": "MLB438928",
+    "reservedAt": "2026-10-17T15:31:28.163Z"
+  },
+  {
+    "itemId": "MLB5425447788",
+    "productKey": "a05a1f4d4480cd6a",
+    "titleHash": "1c7f0f33f8c61e45",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-17T15:31:28.163Z"
   }
 ]

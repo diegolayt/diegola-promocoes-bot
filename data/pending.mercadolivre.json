@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4265708013",
+      "site_id": "MLB",
+      "seller_id": 1176215393,
+      "accepts_mercadopago": true,
+      "price": 779.99,
+      "category_id": "MLB33436",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "catalog_boost",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 386390,
+      "original_price": 1392.56,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [
+          "optional_me1_chosen"
+        ],
+        "cost": 96.05
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBUGQwNGRl",
+          "name": "Capitão Leônidas Marques"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2975038918",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB49609426",
+      "title": "Colchão Queen Molas Ensacadas Zidi Alabama 158x198x24cm Cor Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_907186-MLA110884669953_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB49609426",
+      "id": "MLB4265708013",
+      "sold_quantity": 100,
+      "rotationCategory": "colchão",
+      "sourceCategoryId": "MLB438928",
+      "minPrice": 200
+    },
+    {
+      "item_id": "MLB5425447788",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 304.96,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "first_party",
+        "standard_price_by_quantity",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 70442,
+      "original_price": 399.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3213299511",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53173424",
+      "title": "Óleo Capilar Kérastase Gloss Absolu Glaze Drops, Brilho Intenso Para Cabelos, Controle de Frizz, 45ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_839329-MLA99827175445_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53173424",
+      "id": "MLB5425447788",
+      "sold_quantity": 700,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-17T15:31:28.165Z"
+}
