@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6660300810",
-    "productKey": "0e235e469f68e106",
-    "titleHash": "2b5877d11ebbe081",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-13T21:46:21.791Z"
-  },
-  {
-    "itemId": "MLB6646381746",
-    "productKey": "6325cecbb66a769a",
-    "titleHash": "f528190e48027085",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-13T21:46:21.791Z"
-  },
-  {
-    "itemId": "MLB7707499492",
-    "productKey": "d947d4019fef538b",
-    "titleHash": "0c72f8035670cde0",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-13T22:01:31.974Z"
-  },
-  {
     "itemId": "MLB7772262436",
     "productKey": "8b660ee99efe635b",
     "titleHash": "94a291c2b2efa3dd",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-17T14:01:37.162Z"
+  },
+  {
+    "itemId": "MLB5656974534",
+    "productKey": "0ab7ac472ebadef7",
+    "titleHash": "bb1dc58e46127577",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-17T14:16:21.757Z"
+  },
+  {
+    "itemId": "MLB7243240382",
+    "productKey": "778552fa92898be8",
+    "titleHash": "be2e33eea945a4a3",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-17T14:16:21.757Z"
+  },
+  {
+    "itemId": "MLB5378365432",
+    "productKey": "459bbea6fe06d062",
+    "titleHash": "bac41a6e174e5dfd",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-17T14:16:21.757Z"
   }
 ]
