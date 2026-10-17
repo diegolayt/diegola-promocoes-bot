@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6922339234",
-    "productKey": "f46488f5ce61c7a7",
-    "titleHash": "5ac572bbf7b65602",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-13T18:46:24.792Z"
-  },
-  {
-    "itemId": "MLB4258372955",
-    "productKey": "bac4b976444016af",
-    "titleHash": "5ee95c201463689d",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-13T19:01:32.934Z"
-  },
-  {
-    "itemId": "MLB4275712681",
-    "productKey": "85945f71fa5374ee",
-    "titleHash": "28a257571e9f76c5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-13T19:01:32.934Z"
-  },
-  {
     "itemId": "MLB2797976958",
     "productKey": "6cb1243c40624794",
     "titleHash": "86b6e248994c6e5b",
@@ -4798,5 +4774,29 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-17T08:16:24.144Z"
+  },
+  {
+    "itemId": "MLB5574851656",
+    "productKey": "1605bae93a4b4381",
+    "titleHash": "f52975726d30d711",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-17T08:31:28.093Z"
+  },
+  {
+    "itemId": "MLB3493517295",
+    "productKey": "3d704c76f6046ebf",
+    "titleHash": "af51320b836920f2",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-17T08:31:28.094Z"
+  },
+  {
+    "itemId": "MLB4243087779",
+    "productKey": "24d6a63070e9986c",
+    "titleHash": "8619082c61209216",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-17T08:31:28.094Z"
   }
 ]
