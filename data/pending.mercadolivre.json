@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4803444412",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 329.43,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 2 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "first_party",
+        "kvs_primary",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "extended_warranty_eligible",
+        "dynamic_standard_price",
+        "good_quality_thumbnail",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3984,
+      "original_price": 699.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 2,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "2 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU600469432",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35612949",
+      "title": "Fritadeira airfryer XL Philips Walita HD9206",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_793048-MLA99873504395_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35612949",
+      "id": "MLB4803444412",
+      "sold_quantity": 100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5391607571",
+      "site_id": "MLB",
+      "seller_id": 50283218,
+      "accepts_mercadopago": true,
+      "price": 1061,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 1890,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JSQTU2M2Yy",
+          "name": "Brasília"
+        },
+        "state": {
+          "id": "TUxCUERJU0wxMWJhYg",
+          "name": "Distrito Federal"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5529359020",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52027456",
+      "title": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52027456",
+      "id": "MLB5391607571",
+      "sold_quantity": 800,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-17T17:01:33.679Z"
+}
