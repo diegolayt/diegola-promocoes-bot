@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7480397854",
-    "productKey": "a98d9ad149b55f1d",
-    "titleHash": "03bf29bdde2827a8",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-13T20:15:56.261Z"
-  },
-  {
     "itemId": "MLB5652612228",
     "productKey": "e1fa6b0d5edc06a7",
     "titleHash": "0a852a4ad606a43b",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-17T10:46:24.503Z"
+  },
+  {
+    "itemId": "MLB7421926236",
+    "productKey": "ab931fd77b9d4f68",
+    "titleHash": "7d0bcf0139afadac",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-17T11:16:24.640Z"
   }
 ]
