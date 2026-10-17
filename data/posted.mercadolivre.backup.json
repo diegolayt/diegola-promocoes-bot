@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5402372302",
-    "productKey": "bf86873401aafdee",
-    "titleHash": "b95467ee86ed620d",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-13T23:16:22.148Z"
-  },
-  {
-    "itemId": "MLB7597764124",
-    "productKey": "d042f8f81af2c69f",
-    "titleHash": "f8fc4194f2663a29",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-13T23:16:22.148Z"
-  },
-  {
     "itemId": "MLB5934587642",
     "productKey": "4c9a2bafeaf753b6",
     "titleHash": "17682e2f317c0d59",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-17T15:46:33.633Z"
+  },
+  {
+    "itemId": "MLB7825713642",
+    "productKey": "b5841668af3df70a",
+    "titleHash": "f7137e786cc705c4",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-17T16:01:37.576Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-17T16:01:37.576Z"
   }
 ]
