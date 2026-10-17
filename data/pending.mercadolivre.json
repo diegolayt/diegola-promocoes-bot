@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5172725622",
+      "site_id": "MLB",
+      "seller_id": 156133190,
+      "accepts_mercadopago": true,
+      "price": 190.59,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 209.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTU4MDI",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQkZSRUNBUDI1MA",
+          "name": "Freguesia (Jacarepaguá)"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2737058339",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18507745",
+      "title": "Cafeteira Elétrica 1,2 Litros Ocaf650 Com Jarra Inox Cor Preto Oster 127V",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_916788-MLA108360725955_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18507745",
+      "id": "MLB5172725622",
+      "sold_quantity": 1100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-17T10:31:28.755Z"
+}
