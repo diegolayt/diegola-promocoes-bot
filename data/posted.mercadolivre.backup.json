@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5677267318",
-    "productKey": "490cecdfbaa48fb2",
-    "titleHash": "2d4e78b24cd92766",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-14T02:31:23.277Z"
-  },
-  {
     "itemId": "MLB4807627215",
     "productKey": "da452a29d07592e5",
     "titleHash": "c09bfcf6c8bdf349",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-17T19:01:28.541Z"
+  },
+  {
+    "itemId": "MLB5138384241",
+    "productKey": "25d77da721ba1aad",
+    "titleHash": "58d471363e8a624e",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-17T19:16:23.498Z"
   }
 ]
