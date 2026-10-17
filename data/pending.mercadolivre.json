@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5459718962",
+      "site_id": "MLB",
+      "seller_id": 453531051,
+      "accepts_mercadopago": true,
+      "price": 308.46,
+      "category_id": "MLB120316",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3681,
+      "original_price": 571.29,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 29.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBUjllMzMw",
+          "name": "Cariacica"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3262869780",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46981302",
+      "title": "Fogão Cooktop Itatiaia Essencial 4 Bocas À Gás Preto-bivolt",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_970162-MLA110553040806_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46981302",
+      "id": "MLB5459718962",
+      "sold_quantity": 1000,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB4510325461",
+      "site_id": "MLB",
+      "seller_id": 2250558092,
+      "accepts_mercadopago": true,
+      "price": 249.98,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 346644,
+      "original_price": 365.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSWJhdMOpVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Ibaté"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3832873760",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48959123",
+      "title": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_898231-MLA112356757992_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48959123",
+      "id": "MLB4510325461",
+      "sold_quantity": 1500,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    }
+  ],
+  "reservedAt": "2026-10-17T02:46:24.111Z"
+}

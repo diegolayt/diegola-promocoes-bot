@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7777676646",
-    "productKey": "971583edb3d0942b",
-    "titleHash": "903d0141b9e13fbf",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-13T16:31:20.485Z"
-  },
-  {
-    "itemId": "MLB3854074921",
-    "productKey": "cb7b3aabd989fc60",
-    "titleHash": "594e45f940a05cc9",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-10-13T16:46:02.577Z"
-  },
-  {
     "itemId": "MLB6943752224",
     "productKey": "127b8887916baeb4",
     "titleHash": "fa8d671112a0eeee",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-17T02:31:28.604Z"
+  },
+  {
+    "itemId": "MLB5459718962",
+    "productKey": "a03a2d8869594efc",
+    "titleHash": "2e478d1b8ded1eb9",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-17T02:46:24.109Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-17T02:46:24.109Z"
   }
 ]
