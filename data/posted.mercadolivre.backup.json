@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5652612228",
-    "productKey": "e1fa6b0d5edc06a7",
-    "titleHash": "0a852a4ad606a43b",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-13T20:15:56.261Z"
-  },
-  {
-    "itemId": "MLB7358347786",
-    "productKey": "dd929be301bd7cf9",
-    "titleHash": "6c9ca49d8833bbda",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-13T20:15:56.261Z"
-  },
-  {
     "itemId": "MLB4361640499",
     "productKey": "28829ffedd0074fc",
     "titleHash": "4aebfb87fb18a5dc",
@@ -4798,5 +4782,21 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-17T11:16:24.640Z"
+  },
+  {
+    "itemId": "MLB3854139077",
+    "productKey": "6d324a2b20a693bf",
+    "titleHash": "212cf65596240c22",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-17T11:31:31.149Z"
+  },
+  {
+    "itemId": "MLB5800043516",
+    "productKey": "db0638517b0c4427",
+    "titleHash": "45d361ba93463419",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-17T11:31:31.149Z"
   }
 ]
