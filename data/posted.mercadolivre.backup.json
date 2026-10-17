@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4201839131",
-    "productKey": "a56325cf90bab0f5",
-    "titleHash": "dc5cb19db2f1630b",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-13T15:45:46.902Z"
-  },
-  {
     "itemId": "MLB4810872029",
     "productKey": "37500b1a9625ab89",
     "titleHash": "cd82b27d3ae85212",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-17T00:16:28.061Z"
+  },
+  {
+    "itemId": "MLB5320841995",
+    "productKey": "50fa74af2ebd33e3",
+    "titleHash": "4083df41fefb4f51",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-17T00:46:22.073Z"
   }
 ]
