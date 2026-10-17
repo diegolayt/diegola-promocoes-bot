@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5079124123",
-    "productKey": "779f5305bad544eb",
-    "titleHash": "84a8ab1cca29acd4",
-    "category": "calçado",
-    "sourceCategoryId": "MLB23262",
-    "reservedAt": "2026-10-13T15:45:46.902Z"
-  },
-  {
     "itemId": "MLB4201839131",
     "productKey": "a56325cf90bab0f5",
     "titleHash": "dc5cb19db2f1630b",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-17T00:01:30.255Z"
+  },
+  {
+    "itemId": "MLB7820712038",
+    "productKey": "57b947f0db7ebca2",
+    "titleHash": "2984fb83e939dddc",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-17T00:16:28.061Z"
   }
 ]
