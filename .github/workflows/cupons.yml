@@ -1,0 +1,51 @@
+name: Cupons automáticos
+
+# Coleta os cupons da Shopee (canal de afiliados no Telegram) e do AliExpress
+# (lista "em alta") para a aba de cupons do site. Não publica no Telegram.
+# Disparado pelo cron-job.org; o schedule do GitHub fica só de reserva.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 */2 * * *"
+
+concurrency:
+  group: cupons
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cupons:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Coletar os cupons
+        run: node src/cupons.mjs
+        env:
+          SHOPEE_APP_ID: ${{ secrets.SHOPEE_APP_ID }}
+          SHOPEE_SECRET: ${{ secrets.SHOPEE_SECRET }}
+
+      - name: Salvar os cupons
+        run: |
+          git config user.name "Diegola Promoções Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/cupons.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza cupons automáticos"
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+              git rebase --abort || true
+              sleep $((attempt * 2))
+            done
+            exit 1
+          fi
