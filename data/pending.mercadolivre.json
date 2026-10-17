@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4937103255",
+      "site_id": "MLB",
+      "seller_id": 2510796023,
+      "accepts_mercadopago": true,
+      "price": 131,
+      "category_id": "MLB120237",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 585,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JBTDc5NDIyMQ",
+          "name": "Balneário Piçarras"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3417096858",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25801012",
+      "title": "Mini Grill Elétrico de Inox Oster 2 Em 1 220V 1000W OGRL230",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_693280-MLA99951936741_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25801012",
+      "id": "MLB4937103255",
+      "sold_quantity": 900,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB31683",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5094796875",
+      "site_id": "MLB",
+      "seller_id": 3003300109,
+      "accepts_mercadopago": true,
+      "price": 2894.25,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_channel",
+        "cbt_item",
+        "cbt_fulfillment_us",
+        "net_proceeds_prices",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB49200061",
+      "title": "Console Nintendo Switch 2, Modelo Nacional de Tomada",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB49200061",
+      "id": "MLB5094796875",
+      "sold_quantity": 1700,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-10-17T13:46:23.498Z"
+}
