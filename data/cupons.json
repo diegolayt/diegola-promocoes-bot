@@ -1,1 +1,249 @@
-[{"loja":"mercadolivre","codigo":"MEUVALEMELI","descricao":"30% OFF em produtos selecionados","regra":"Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque","soLista":true,"fim":"2026-11-16T00:00:00-03:00","link":"https://lista.mercadolivre.com.br/_Container_aff-list-28?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"VALEAPENA","descricao":"30% OFF em produtos selecionados","regra":"Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque","soLista":true,"fim":"2026-11-16T00:00:00-03:00","link":"https://lista.mercadolivre.com.br/_Container_aff-list-29?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"SAINDOBARRATO","descricao":"30% OFF em produtos selecionados","regra":"Sem valor mínimo · desconto máximo de R$ 500 · até 30/11 ou enquanto durar o estoque","soLista":true,"fim":"2026-12-01T00:00:00-03:00","link":"https://lista.mercadolivre.com.br/_Container_aff-list-11?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"OPAECONOMIZEI","descricao":"30% OFF em produtos selecionados","regra":"Sem valor mínimo · desconto máximo de R$ 500 · até 30/11 ou enquanto durar o estoque","soLista":true,"fim":"2026-12-01T00:00:00-03:00","link":"https://lista.mercadolivre.com.br/_Container_aff-list-12?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"DESCONTOSUPREMO","descricao":"25% OFF em produtos selecionados","regra":"Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque","soLista":true,"fim":"2026-11-16T00:00:00-03:00","link":"https://lista.mercadolivre.com.br/_Container_aff-list-30?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"VAIBARATO","descricao":"22% OFF em produtos selecionados","regra":"Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque","soLista":true,"fim":"2026-11-16T00:00:00-03:00","link":"https://lista.mercadolivre.com.br/_Container_aff-list-31?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"MODANOMELI","descricao":"15% OFF em Moda","regra":"Compra mínima de R$ 79 · desconto máximo de R$ 50 · até 09/10, em produtos elegíveis","fontes":["calçado"],"precoMinimo":79,"fim":"2026-10-10T00:00:00-03:00","link":"https://lista.mercadolivre.com.br/_Container_fashion-l30-mulheres-e-kids?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"PROMONOML","descricao":"10% OFF em Casa e Decoração","regra":"Compra mínima de R$ 79 · desconto máximo de R$ 50 · até 09/10, em até 90% da categoria","fontes":["cozinha","móveis","colchão","iluminação","natal","segurança"],"precoMinimo":79,"fim":"2026-10-10T00:00:00-03:00","link":"https://www.mercadolivre.com.br/?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"COMPRASML","descricao":"10% OFF em Indústria e Comércio","regra":"Compra mínima de R$ 79 · desconto máximo de R$ 50 · até 09/10, em até 90% da categoria","soLista":true,"fim":"2026-10-10T00:00:00-03:00","link":"https://www.mercadolivre.com.br/?matt_word=badi2572923&matt_tool=94282801"},{"loja":"mercadolivre","codigo":"OFERTASML","descricao":"10% OFF em Acessórios para Veículos","regra":"Compra mínima de R$ 99 · desconto máximo de R$ 50 · enquanto durar o estoque","soLista":true,"fim":"2026-10-10T00:00:00-03:00","link":"https://www.mercadolivre.com.br/?matt_word=badi2572923&matt_tool=94282801"},{"loja":"shopee","descricao":"Cupons do 10.10 da Shopee","regra":"Página oficial de cupons da campanha: resgate no app antes de fechar a compra","soLista":true,"fim":"2026-10-11T00:00:00-03:00","link":"https://s.shopee.com.br/2qV97vZWzI"},{"loja":"shopee","descricao":"Super Ofertas com estoque no Full","regra":"Seleção oficial da Shopee com entrega rápida; o preço com cupom aparece na página do produto","soLista":true,"fim":"2026-10-14T00:00:00-03:00","link":"https://s.shopee.com.br/2VsIjJfCPY"},{"loja":"amazon","descricao":"Mega Oferta Amazon Prime","regra":"Página oficial da campanha, com ofertas e cupons; o cupom aparece na página de cada produto","soLista":true,"fim":"2026-10-12T00:00:00-03:00","link":"https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"}]
+[
+ {
+  "loja": "mercadolivre",
+  "codigo": "MEUVALEMELI",
+  "descricao": "30% OFF em produtos selecionados",
+  "regra": "Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque",
+  "soLista": true,
+  "fim": "2026-11-16T00:00:00-03:00",
+  "link": "https://lista.mercadolivre.com.br/_Container_aff-list-28?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "VALEAPENA",
+  "descricao": "30% OFF em produtos selecionados",
+  "regra": "Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque",
+  "soLista": true,
+  "fim": "2026-11-16T00:00:00-03:00",
+  "link": "https://lista.mercadolivre.com.br/_Container_aff-list-29?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "SAINDOBARRATO",
+  "descricao": "30% OFF em produtos selecionados",
+  "regra": "Sem valor mínimo · desconto máximo de R$ 500 · até 30/11 ou enquanto durar o estoque",
+  "soLista": true,
+  "fim": "2026-12-01T00:00:00-03:00",
+  "link": "https://lista.mercadolivre.com.br/_Container_aff-list-11?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "OPAECONOMIZEI",
+  "descricao": "30% OFF em produtos selecionados",
+  "regra": "Sem valor mínimo · desconto máximo de R$ 500 · até 30/11 ou enquanto durar o estoque",
+  "soLista": true,
+  "fim": "2026-12-01T00:00:00-03:00",
+  "link": "https://lista.mercadolivre.com.br/_Container_aff-list-12?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "DESCONTOSUPREMO",
+  "descricao": "25% OFF em produtos selecionados",
+  "regra": "Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque",
+  "soLista": true,
+  "fim": "2026-11-16T00:00:00-03:00",
+  "link": "https://lista.mercadolivre.com.br/_Container_aff-list-30?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "VAIBARATO",
+  "descricao": "22% OFF em produtos selecionados",
+  "regra": "Sem valor mínimo · desconto máximo de R$ 500 · até 15/11 ou enquanto durar o estoque",
+  "soLista": true,
+  "fim": "2026-11-16T00:00:00-03:00",
+  "link": "https://lista.mercadolivre.com.br/_Container_aff-list-31?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "MODANOMELI",
+  "descricao": "15% OFF em Moda",
+  "regra": "Compra mínima de R$ 79 · desconto máximo de R$ 50 · até 09/10, em produtos elegíveis",
+  "fontes": [
+   "calçado"
+  ],
+  "precoMinimo": 79,
+  "fim": "2026-10-10T00:00:00-03:00",
+  "link": "https://lista.mercadolivre.com.br/_Container_fashion-l30-mulheres-e-kids?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "PROMONOML",
+  "descricao": "10% OFF em Casa e Decoração",
+  "regra": "Compra mínima de R$ 79 · desconto máximo de R$ 50 · até 09/10, em até 90% da categoria",
+  "fontes": [
+   "cozinha",
+   "móveis",
+   "colchão",
+   "iluminação",
+   "natal",
+   "segurança"
+  ],
+  "precoMinimo": 79,
+  "fim": "2026-10-10T00:00:00-03:00",
+  "link": "https://www.mercadolivre.com.br/?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "COMPRASML",
+  "descricao": "10% OFF em Indústria e Comércio",
+  "regra": "Compra mínima de R$ 79 · desconto máximo de R$ 50 · até 09/10, em até 90% da categoria",
+  "soLista": true,
+  "fim": "2026-10-10T00:00:00-03:00",
+  "link": "https://www.mercadolivre.com.br/?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "mercadolivre",
+  "codigo": "OFERTASML",
+  "descricao": "10% OFF em Acessórios para Veículos",
+  "regra": "Compra mínima de R$ 99 · desconto máximo de R$ 50 · enquanto durar o estoque",
+  "soLista": true,
+  "fim": "2026-10-10T00:00:00-03:00",
+  "link": "https://www.mercadolivre.com.br/?matt_word=badi2572923&matt_tool=94282801"
+ },
+ {
+  "loja": "shopee",
+  "descricao": "Cupons do 10.10 da Shopee",
+  "regra": "Página oficial de cupons da campanha: resgate no app antes de fechar a compra",
+  "soLista": true,
+  "fim": "2026-10-11T00:00:00-03:00",
+  "link": "https://s.shopee.com.br/2qV97vZWzI"
+ },
+ {
+  "loja": "shopee",
+  "descricao": "Super Ofertas com estoque no Full",
+  "regra": "Seleção oficial da Shopee com entrega rápida; o preço com cupom aparece na página do produto",
+  "soLista": true,
+  "fim": "2026-10-14T00:00:00-03:00",
+  "link": "https://s.shopee.com.br/2VsIjJfCPY"
+ },
+ {
+  "loja": "amazon",
+  "descricao": "Mega Oferta Amazon Prime",
+  "regra": "Página oficial da campanha, com ofertas e cupons; o cupom aparece na página de cada produto",
+  "soLista": true,
+  "fim": "2026-10-12T00:00:00-03:00",
+  "link": "https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"
+ },
+ {
+  "loja": "shopee",
+  "codigo": "10NINTENDO",
+  "descricao": "10% OFF em e-cash e jogos Nitendo selecionados",
+  "regra": "Compras acima de R$ 300 · só em produtos selecionados · válido até 18/10 ou enquanto durar",
+  "precoMinimo": 300,
+  "soLista": true,
+  "fim": "2026-10-19T03:00:00Z",
+  "link": "https://s.shopee.com.br/4Vdd4oEHUE",
+  "auto": "shopee-telegram",
+  "postadoEm": "2026-10-16T13:37:10.000Z"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "TD98PDM",
+  "descricao": "R$ 381,98 OFF em Projetores no brasil Projetor ThundeaL 3000",
+  "regra": "Compras acima de R$ 1.364,20 · vale no produto do link · até 31/10",
+  "precoMinimo": 1364.2,
+  "soLista": true,
+  "fim": "2026-11-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3EFf76d",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "AU14PRO",
+  "descricao": "R$ 245,56 OFF em Projetor BYINTEK U14 Pro 4K 1080P",
+  "regra": "Compras acima de R$ 1.091,36 · vale no produto do link · até 30/10",
+  "precoMinimo": 1091.36,
+  "soLista": true,
+  "fim": "2026-10-31T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3Yhs6UV",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "0IGCJQTYN5LJ",
+  "descricao": "R$ 190,62 OFF em K&F Concept 3 em 1 Filtro",
+  "regra": "vale no produto do link · até 30/11",
+  "precoMinimo": 190.62,
+  "soLista": true,
+  "fim": "2026-12-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c4EpG5Pn",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "BRK300",
+  "descricao": "R$ 163,70 OFF em Aspirador de pó robô ABIR K30",
+  "regra": "Compras acima de R$ 1.637,04 · vale no produto do link · até 29/10",
+  "precoMinimo": 1637.04,
+  "soLista": true,
+  "fim": "2026-10-29T03:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c2Qq6W1f",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "MEGA30",
+  "descricao": "R$ 163,70 OFF em Aspirador Robô ABIR X9, Laser Lidar",
+  "regra": "Compras acima de R$ 1.091,36 · vale no produto do link · até 30/10",
+  "precoMinimo": 1091.36,
+  "soLista": true,
+  "fim": "2026-10-31T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c2yFQgXT",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "CRIANCAS",
+  "descricao": "R$ 136,42 OFF em Projetor Mini Smart para Home Theater",
+  "regra": "Compras acima de R$ 491,11 · vale no produto do link · até 30/10",
+  "precoMinimo": 491.11,
+  "soLista": true,
+  "fim": "2026-10-31T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3PRpZ3n",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "SAS150",
+  "descricao": "R$ 81,85 OFF em Aspirador de Pó Portátil Sem Fio",
+  "regra": "Compras acima de R$ 436,54 · vale no produto do link · até 27/10",
+  "precoMinimo": 436.54,
+  "soLista": true,
+  "fim": "2026-10-28T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3sHw4wv",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "WD8008",
+  "descricao": "R$ 49,11 OFF em Robô Lavador de Janelas ABIR WD8",
+  "regra": "Compras acima de R$ 436,54 · vale no produto do link · até 27/10",
+  "precoMinimo": 436.54,
+  "soLista": true,
+  "fim": "2026-10-28T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c4sVcTsD",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "ARZOPA56BR",
+  "descricao": "R$ 45,62 OFF em Monitor Portátil ARZOPA de 16,1 polegadas",
+  "regra": "vale no produto do link · até 31/10",
+  "precoMinimo": 45.63,
+  "soLista": true,
+  "fim": "2026-11-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c415D821",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "VEVSHAO",
+  "descricao": "R$ 43,65 OFF em Vevshao a12 projetor mini portátil led",
+  "regra": "vale no produto do link · até 29/10",
+  "precoMinimo": 43.71,
+  "soLista": true,
+  "fim": "2026-10-29T03:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3QItPUD",
+  "auto": "aliexpress-hot"
+ }
+]
