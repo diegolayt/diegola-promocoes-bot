@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5283742843",
-    "productKey": "d4255e0a63e61dfb",
-    "titleHash": "7595d754ee6983fc",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-13T16:01:01.453Z"
-  },
-  {
     "itemId": "MLB6654934512",
     "productKey": "43b31f7e3b19a97c",
     "titleHash": "ceeb1d44a11c971f",
@@ -4798,5 +4790,13 @@
     "category": "masculino",
     "sourceCategoryId": "MLB23332",
     "reservedAt": "2026-10-17T01:16:23.252Z"
+  },
+  {
+    "itemId": "MLB3695363229",
+    "productKey": "e182a703ecdee38d",
+    "titleHash": "785f6b605b0038f4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-17T01:31:28.817Z"
   }
 ]
