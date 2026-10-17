@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7480407364",
-    "productKey": "79119e9ef6b0ca26",
-    "titleHash": "2b62e2dc003040cf",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-14T02:31:23.277Z"
-  },
-  {
     "itemId": "MLB5677267318",
     "productKey": "490cecdfbaa48fb2",
     "titleHash": "2d4e78b24cd92766",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-17T18:46:28.930Z"
+  },
+  {
+    "itemId": "MLB4345564271",
+    "productKey": "79178e47f5fa7c8d",
+    "titleHash": "68370d91aa4e7d65",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-17T19:01:28.541Z"
   }
 ]
