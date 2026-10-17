@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4290246111",
-    "productKey": "6084a87f1e150942",
-    "titleHash": "071eb2eea928e13d",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-13T17:01:17.395Z"
-  },
-  {
     "itemId": "MLB3399022201",
     "productKey": "f0bb7eab24f9461a",
     "titleHash": "5de2e14bd196608c",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-17T03:31:32.306Z"
+  },
+  {
+    "itemId": "MLB6564848506",
+    "productKey": "e99726c12745d0a4",
+    "titleHash": "8b80f8f23c3c0fbd",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-17T03:46:23.989Z"
   }
 ]
