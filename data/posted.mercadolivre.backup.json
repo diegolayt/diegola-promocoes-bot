@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5378229206",
-    "productKey": "d9ef4a29fdbb1a3a",
-    "titleHash": "c8f8c2711b445e40",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-13T19:46:13.887Z"
-  },
-  {
     "itemId": "MLB5376854469",
     "productKey": "0a78d5595a81cc3e",
     "titleHash": "fc6752f6d5d3a273",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-17T09:46:21.272Z"
+  },
+  {
+    "itemId": "MLB5324825545",
+    "productKey": "e589a0eb951f07fb",
+    "titleHash": "b9d459cb91539b28",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-17T10:01:32.776Z"
   }
 ]
