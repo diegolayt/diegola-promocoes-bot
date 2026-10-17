@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7664832664",
-    "productKey": "ef60b543f7ca8673",
-    "titleHash": "0f1343e7b07c7865",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-13T16:16:14.299Z"
-  },
-  {
     "itemId": "MLB7657977886",
     "productKey": "525cdc14fb44b9f9",
     "titleHash": "48172cb7558886dd",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-17T02:01:34.336Z"
+  },
+  {
+    "itemId": "MLB5384306451",
+    "productKey": "ee87e57884d696a9",
+    "titleHash": "4e4edaed26b653fc",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-17T02:16:23.269Z"
   }
 ]

@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5384306451",
+      "site_id": "MLB",
+      "seller_id": 3660916637,
+      "accepts_mercadopago": true,
+      "price": 60.29,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 179.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 43.913664000000004
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU2FudG9zVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Santos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5512530714",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65977023",
+      "title": "Revlon Uniq One Tratamento Capilar 10 Em 1 Leave In 150ml Frasco Completo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_805631-MLA118861402525_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65977023",
+      "id": "MLB5384306451",
+      "sold_quantity": 800,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-17T02:16:23.272Z"
+}
