@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4181168707",
-    "productKey": "196111ffacbbd89e",
-    "titleHash": "6584cbac695959ac",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-14T04:31:30.189Z"
-  },
-  {
     "itemId": "MLB4469987063",
     "productKey": "f1255b142391a03a",
     "titleHash": "7d49c45a00f35da1",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-17T21:31:32.622Z"
+  },
+  {
+    "itemId": "MLB4176071707",
+    "productKey": "07f1520aa80ab712",
+    "titleHash": "bc8ac8efca670c74",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-17T21:46:24.473Z"
   }
 ]
