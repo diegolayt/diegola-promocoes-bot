@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6234101476",
-    "productKey": "98c2fc5b284eead7",
-    "titleHash": "87e02b4ced3d3145",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-13T21:16:24.713Z"
-  },
-  {
-    "itemId": "MLB3876858111",
-    "productKey": "50811f927d6a844d",
-    "titleHash": "a24ae796cebc9cc5",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-13T21:16:24.714Z"
-  },
-  {
-    "itemId": "MLB7513457270",
-    "productKey": "c7d6651e2eb14a64",
-    "titleHash": "bd3ab346aa1aa75c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-13T21:16:24.714Z"
-  },
-  {
-    "itemId": "MLB7761665108",
-    "productKey": "fe16007c751e527f",
-    "titleHash": "ece32195d0dd0b0a",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-13T21:16:24.714Z"
-  },
-  {
     "itemId": "MLB7229426980",
     "productKey": "b99a995b906409f9",
     "titleHash": "e7e58aebd0fef472",
@@ -4798,5 +4766,37 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-10-17T13:01:32.170Z"
+  },
+  {
+    "itemId": "MLB6167651244",
+    "productKey": "e1fa6b0d5edc06a7",
+    "titleHash": "0a852a4ad606a43b",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-17T13:16:18.869Z"
+  },
+  {
+    "itemId": "MLB4604327726",
+    "productKey": "110c81276c079aea",
+    "titleHash": "b5237db00758c38a",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-17T13:16:18.870Z"
+  },
+  {
+    "itemId": "MLB5239710571",
+    "productKey": "047b8841586368ce",
+    "titleHash": "d0d73644404827f4",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-17T13:16:18.870Z"
+  },
+  {
+    "itemId": "MLB7584947136",
+    "productKey": "28829ffedd0074fc",
+    "titleHash": "4aebfb87fb18a5dc",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-17T13:16:18.870Z"
   }
 ]
