@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5525263450",
-    "productKey": "1d8166e9351c06df",
-    "titleHash": "2d20bb6dda958724",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-14T05:31:25.046Z"
-  },
-  {
     "itemId": "MLB3690378660",
     "productKey": "f50d9493dc09f208",
     "titleHash": "4a48b2b1ec2a17f0",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-17T23:31:32.837Z"
+  },
+  {
+    "itemId": "MLB5887150882",
+    "productKey": "ca64f9d61aaeaaab",
+    "titleHash": "c760fa318235a1c4",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-17T23:46:22.127Z"
   }
 ]
