@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5130081305",
-    "productKey": "a2a3edc1809c6c6b",
-    "titleHash": "b14b8b4878c17f55",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-13T22:46:23.118Z"
-  },
-  {
-    "itemId": "MLB5380860757",
-    "productKey": "3ae67792fdb583fa",
-    "titleHash": "25054d9ac727dd22",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-13T22:46:23.118Z"
-  },
-  {
-    "itemId": "MLB5106493651",
-    "productKey": "851494f04904610e",
-    "titleHash": "3f3055db5e5f2d44",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-13T23:01:33.857Z"
-  },
-  {
     "itemId": "MLB6666918416",
     "productKey": "9f78f29633b289d2",
     "titleHash": "8068712b03430b55",
@@ -4798,5 +4774,29 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-17T15:01:27.210Z"
+  },
+  {
+    "itemId": "MLB6926098514",
+    "productKey": "f1eff9eced4a288f",
+    "titleHash": "cc08d37274c23394",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-17T15:16:26.621Z"
+  },
+  {
+    "itemId": "MLB4056119063",
+    "productKey": "58408d4b8d164d44",
+    "titleHash": "70b737e1b7d26e39",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-17T15:16:26.621Z"
+  },
+  {
+    "itemId": "MLB5408698623",
+    "productKey": "94044ebe0a8baedc",
+    "titleHash": "192950a3187eb071",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-17T15:16:26.621Z"
   }
 ]
