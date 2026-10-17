@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5456928122",
-    "productKey": "7fdc50d60ebffd96",
-    "titleHash": "f971c499c5d94e8b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-14T01:16:24.797Z"
-  },
-  {
-    "itemId": "MLB7773413658",
-    "productKey": "8a12e9f39235f525",
-    "titleHash": "d987a052a3594718",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-14T01:16:24.797Z"
-  },
-  {
     "itemId": "MLB5836698228",
     "productKey": "07f1520aa80ab712",
     "titleHash": "bc8ac8efca670c74",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-17T17:16:25.842Z"
+  },
+  {
+    "itemId": "MLB4645102377",
+    "productKey": "e1794297dc2cb2f2",
+    "titleHash": "0476e78d75cd872f",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-17T17:31:28.796Z"
+  },
+  {
+    "itemId": "MLB5385629623",
+    "productKey": "da6e47d6f5b6a37a",
+    "titleHash": "da2698cd8324fb9f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-17T17:31:28.796Z"
   }
 ]
