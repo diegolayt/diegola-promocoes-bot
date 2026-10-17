@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7243240382",
-    "productKey": "778552fa92898be8",
-    "titleHash": "be2e33eea945a4a3",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-13T20:46:25.349Z"
-  },
-  {
-    "itemId": "MLB5329092593",
-    "productKey": "b46a61b0caa2d1c3",
-    "titleHash": "f358d0344c759159",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-13T21:01:31.430Z"
-  },
-  {
     "itemId": "MLB6234101476",
     "productKey": "98c2fc5b284eead7",
     "titleHash": "87e02b4ced3d3145",
@@ -4798,5 +4782,21 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-10-17T12:31:31.371Z"
+  },
+  {
+    "itemId": "MLB6429047490",
+    "productKey": "d9ef4a29fdbb1a3a",
+    "titleHash": "c8f8c2711b445e40",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-17T13:01:32.170Z"
+  },
+  {
+    "itemId": "MLB7480397854",
+    "productKey": "a98d9ad149b55f1d",
+    "titleHash": "03bf29bdde2827a8",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-17T13:01:32.170Z"
   }
 ]
