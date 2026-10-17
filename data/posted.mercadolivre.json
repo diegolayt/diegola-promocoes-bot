@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4510325461",
-    "productKey": "f55481226776a3de",
-    "titleHash": "aef1dd15b5a70088",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-13T16:16:14.299Z"
-  },
-  {
-    "itemId": "MLB5384284337",
-    "productKey": "f2cc121a987258d9",
-    "titleHash": "6d8e200943d2f5c5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-13T16:16:14.299Z"
-  },
-  {
-    "itemId": "MLB6166950734",
-    "productKey": "c0b3029c49551398",
-    "titleHash": "0dea28415ed27e40",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-13T16:16:14.299Z"
-  },
-  {
     "itemId": "MLB7664832664",
     "productKey": "ef60b543f7ca8673",
     "titleHash": "0f1343e7b07c7865",
@@ -4798,5 +4774,29 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-17T01:46:25.906Z"
+  },
+  {
+    "itemId": "MLB4645451007",
+    "productKey": "439eedc782437843",
+    "titleHash": "c770bbd6140c471d",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-17T02:01:34.336Z"
+  },
+  {
+    "itemId": "MLB7377413084",
+    "productKey": "feb8ee0e5e78d68c",
+    "titleHash": "d21682eb23e8c1fd",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-17T02:01:34.336Z"
+  },
+  {
+    "itemId": "MLB4214380631",
+    "productKey": "599342f11b3c3501",
+    "titleHash": "b8c8c51b8b202d3f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-17T02:01:34.336Z"
   }
 ]
