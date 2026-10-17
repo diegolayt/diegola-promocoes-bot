@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4386377708",
-    "productKey": "ad948e20cf30b8c9",
-    "titleHash": "404b54cbec7430d4",
-    "category": "colchão",
-    "sourceCategoryId": "MLB438928",
-    "reservedAt": "2026-10-14T05:01:29.701Z"
-  },
-  {
     "itemId": "MLB5069140505",
     "productKey": "093b9eee2f11757f",
     "titleHash": "20ca04f8adaf4372",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-10-17T22:31:29.700Z"
+  },
+  {
+    "itemId": "MLB7764278210",
+    "productKey": "da452a29d07592e5",
+    "titleHash": "c09bfcf6c8bdf349",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-17T22:46:24.595Z"
   }
 ]
