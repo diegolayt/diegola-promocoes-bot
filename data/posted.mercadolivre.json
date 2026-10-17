@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5893156714",
-    "productKey": "57b2072c025c23d7",
-    "titleHash": "bdcb0168742683bf",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-14T01:46:22.243Z"
-  },
-  {
-    "itemId": "MLB6605415878",
-    "productKey": "7c1203a2803ba98c",
-    "titleHash": "c471681ba2f9bd71",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-14T01:46:22.243Z"
-  },
-  {
     "itemId": "MLB7476653636",
     "productKey": "bc04daa8ab567d61",
     "titleHash": "f8bb3ea79829b117",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-17T17:46:27.357Z"
+  },
+  {
+    "itemId": "MLB5017435998",
+    "productKey": "130db9fd8b248230",
+    "titleHash": "8f472aee6ac699cb",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-17T18:01:32.756Z"
+  },
+  {
+    "itemId": "MLB5317425883",
+    "productKey": "df46f21258a3c7a1",
+    "titleHash": "1cbc1384378886f7",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-17T18:01:32.756Z"
   }
 ]
