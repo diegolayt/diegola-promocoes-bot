@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5957141822",
-    "productKey": "dab439480dd9b128",
-    "titleHash": "d54de27ef0c2bc22",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-14T02:16:25.602Z"
-  },
-  {
-    "itemId": "MLB5312665021",
-    "productKey": "6293ebc644672953",
-    "titleHash": "bf9b46b6bc5158e3",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-14T02:16:25.602Z"
-  },
-  {
-    "itemId": "MLB6534791040",
-    "productKey": "916043731c640a9c",
-    "titleHash": "c7ea6eb57b5776c6",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-14T02:31:23.277Z"
-  },
-  {
     "itemId": "MLB7480407364",
     "productKey": "79119e9ef6b0ca26",
     "titleHash": "2b62e2dc003040cf",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-17T18:31:35.316Z"
+  },
+  {
+    "itemId": "MLB6605415878",
+    "productKey": "7c1203a2803ba98c",
+    "titleHash": "c471681ba2f9bd71",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-10-17T18:46:28.930Z"
+  },
+  {
+    "itemId": "MLB4090320711",
+    "productKey": "3ae67792fdb583fa",
+    "titleHash": "25054d9ac727dd22",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-17T18:46:28.930Z"
+  },
+  {
+    "itemId": "MLB7833151412",
+    "productKey": "bc04daa8ab567d61",
+    "titleHash": "f8bb3ea79829b117",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-17T18:46:28.930Z"
   }
 ]
