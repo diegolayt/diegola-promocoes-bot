@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4361640499",
-    "productKey": "28829ffedd0074fc",
-    "titleHash": "4aebfb87fb18a5dc",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-13T20:31:24.700Z"
-  },
-  {
     "itemId": "MLB5094796875",
     "productKey": "3472274b89b121ef",
     "titleHash": "e4b1ad14a95f048b",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-17T11:31:31.149Z"
+  },
+  {
+    "itemId": "MLB3962827161",
+    "productKey": "a10e4951f82890f8",
+    "titleHash": "8def19382390978f",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-17T12:01:32.924Z"
   }
 ]
