@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5934587642",
-    "productKey": "4c9a2bafeaf753b6",
-    "titleHash": "17682e2f317c0d59",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-13T23:31:27.283Z"
-  },
-  {
     "itemId": "MLB4671001440",
     "productKey": "de330e271b690a16",
     "titleHash": "ee59843d9f1c91fc",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-17T16:01:37.576Z"
+  },
+  {
+    "itemId": "MLB6848768728",
+    "productKey": "9f78f29633b289d2",
+    "titleHash": "8068712b03430b55",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-17T16:16:22.104Z"
   }
 ]
