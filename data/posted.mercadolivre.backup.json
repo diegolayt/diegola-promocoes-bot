@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7729259904",
-    "productKey": "eff4ebbdec2c8425",
-    "titleHash": "ed957b2ce03ff7f5",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-14T04:46:22.991Z"
-  },
-  {
-    "itemId": "MLB7724332862",
-    "productKey": "578087a6350e382a",
-    "titleHash": "4e478014ed8af7a9",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-14T05:01:29.701Z"
-  },
-  {
     "itemId": "MLB4386377708",
     "productKey": "ad948e20cf30b8c9",
     "titleHash": "404b54cbec7430d4",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-17T22:01:33.520Z"
+  },
+  {
+    "itemId": "MLB2600380142",
+    "productKey": "dab439480dd9b128",
+    "titleHash": "d54de27ef0c2bc22",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-17T22:31:29.700Z"
+  },
+  {
+    "itemId": "MLB5376854469",
+    "productKey": "0a78d5595a81cc3e",
+    "titleHash": "fc6752f6d5d3a273",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-17T22:31:29.700Z"
   }
 ]
