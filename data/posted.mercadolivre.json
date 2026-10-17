@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7377413084",
-    "productKey": "feb8ee0e5e78d68c",
-    "titleHash": "d21682eb23e8c1fd",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-13T15:45:46.902Z"
-  },
-  {
     "itemId": "MLB5079124123",
     "productKey": "779f5305bad544eb",
     "titleHash": "84a8ab1cca29acd4",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-16T23:46:26.291Z"
+  },
+  {
+    "itemId": "MLB2751486961",
+    "productKey": "0da42abc4e07efc8",
+    "titleHash": "583334eed73b7bc4",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-17T00:01:30.255Z"
   }
 ]
