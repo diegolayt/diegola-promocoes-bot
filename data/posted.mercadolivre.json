@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4604473486",
-    "productKey": "ce55be35b857915c",
-    "titleHash": "cb79e735f0eb4096",
-    "category": "notebook",
-    "sourceCategoryId": "MLB430687",
-    "reservedAt": "2026-10-13T18:16:51.498Z"
-  },
-  {
-    "itemId": "MLB3481515593",
-    "productKey": "f7f7d61f6c30c3c5",
-    "titleHash": "bd2c5073c62b4ca3",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-13T18:31:24.715Z"
-  },
-  {
     "itemId": "MLB4199887442",
     "productKey": "3d704c76f6046ebf",
     "titleHash": "af51320b836920f2",
@@ -4798,5 +4782,21 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-17T07:46:26.302Z"
+  },
+  {
+    "itemId": "MLB4264223185",
+    "productKey": "ec4b519641a7ee71",
+    "titleHash": "06afb66b058ef953",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-17T08:01:29.422Z"
+  },
+  {
+    "itemId": "MLB7742862988",
+    "productKey": "ab7a06687d5141b6",
+    "titleHash": "90a8b50e660fc297",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-17T08:01:29.422Z"
   }
 ]
