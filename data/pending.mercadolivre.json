@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3481515593",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 62.99,
+      "category_id": "MLB1265",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "good_quality_thumbnail",
+        "user_product_unify",
+        "catalog_boost",
+        "first_party",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4476,
+      "original_price": 98.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1135425605",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27731058",
+      "title": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 200g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_728026-MLA117488225821_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27731058",
+      "id": "MLB3481515593",
+      "sold_quantity": 1400,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-17T08:46:25.272Z"
+}
