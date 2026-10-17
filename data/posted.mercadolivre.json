@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7658629246",
-    "productKey": "142385f66dcdd104",
-    "titleHash": "4d563e7f677f169d",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-14T05:16:35.999Z"
-  },
-  {
     "itemId": "MLB3251982185",
     "productKey": "6e6b0a0afa3e4adb",
     "titleHash": "ba28ef2dcd7fcc21",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-17T23:01:30.288Z"
+  },
+  {
+    "itemId": "MLB4020354625",
+    "productKey": "f4e61667d8f9e19c",
+    "titleHash": "871ef94827f4ca78",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-17T23:16:24.709Z"
   }
 ]
