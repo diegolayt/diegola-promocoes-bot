@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4411338208",
-    "productKey": "e38f5a07bc73fbd7",
-    "titleHash": "17dc2126afaa1a23",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-13T17:01:17.396Z"
-  },
-  {
     "itemId": "MLB7266611472",
     "productKey": "b567dc83f55f3e77",
     "titleHash": "bc3b09f1927a398e",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-17T04:16:26.612Z"
+  },
+  {
+    "itemId": "MLB7684615904",
+    "productKey": "4a7f02d9f32165ef",
+    "titleHash": "a12ff9e762186519",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-17T04:31:27.451Z"
   }
 ]
