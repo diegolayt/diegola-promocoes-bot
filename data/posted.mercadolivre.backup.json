@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6805401578",
-    "productKey": "5030a2650c1c44a7",
-    "titleHash": "4901619f0d6ed5e9",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-13T20:46:25.349Z"
-  },
-  {
-    "itemId": "MLB5656974534",
-    "productKey": "0ab7ac472ebadef7",
-    "titleHash": "bb1dc58e46127577",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-13T20:46:25.349Z"
-  },
-  {
     "itemId": "MLB7243240382",
     "productKey": "778552fa92898be8",
     "titleHash": "be2e33eea945a4a3",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-17T12:16:28.320Z"
+  },
+  {
+    "itemId": "MLB4279422349",
+    "productKey": "e8b365816ac55e07",
+    "titleHash": "a903844b96a9cadf",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-17T12:31:31.371Z"
+  },
+  {
+    "itemId": "MLB4369306967",
+    "productKey": "bae1653716216553",
+    "titleHash": "53a63b533fde190b",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-17T12:31:31.371Z"
   }
 ]
