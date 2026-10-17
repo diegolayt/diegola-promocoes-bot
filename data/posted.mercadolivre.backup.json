@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6943752224",
-    "productKey": "127b8887916baeb4",
-    "titleHash": "fa8d671112a0eeee",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-13T16:46:02.577Z"
-  },
-  {
     "itemId": "MLB4392315273",
     "productKey": "e99726c12745d0a4",
     "titleHash": "8b80f8f23c3c0fbd",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-17T02:46:24.109Z"
+  },
+  {
+    "itemId": "MLB5407092703",
+    "productKey": "f2cc121a987258d9",
+    "titleHash": "6d8e200943d2f5c5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-17T03:01:31.422Z"
   }
 ]
