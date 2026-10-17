@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5456928122",
+      "site_id": "MLB",
+      "seller_id": 1354124140,
+      "accepts_mercadopago": true,
+      "price": 92.34,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "user_product_unify",
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 479204,
+      "original_price": 199.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Bernardo do Campo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3260554794",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB6087971",
+      "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB6087971",
+      "id": "MLB5456928122",
+      "sold_quantity": 1800,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-17T18:31:35.319Z"
+}

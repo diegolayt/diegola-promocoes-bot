@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6943361042",
-    "productKey": "25d77da721ba1aad",
-    "titleHash": "58d471363e8a624e",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-14T02:01:31.509Z"
-  },
-  {
     "itemId": "MLB5957141822",
     "productKey": "dab439480dd9b128",
     "titleHash": "d54de27ef0c2bc22",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-17T18:16:26.146Z"
+  },
+  {
+    "itemId": "MLB5456928122",
+    "productKey": "7fdc50d60ebffd96",
+    "titleHash": "f971c499c5d94e8b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-17T18:31:35.316Z"
   }
 ]
