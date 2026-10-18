@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5821432728",
+      "site_id": "MLB",
+      "seller_id": 1463266032,
+      "accepts_mercadopago": true,
+      "price": 154.7,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_limited_marketplace_visibility",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 260286,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTG40Y2h2",
+          "name": "Vila Parque Jabaquara"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3503045664",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB42149268",
+      "title": "Deo Parfum Natura Essencial Sentir Masculino 100 mL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_912400-MLA93839509448_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB42149268",
+      "id": "MLB5821432728",
+      "sold_quantity": 900,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-18T06:31:30.361Z"
+}

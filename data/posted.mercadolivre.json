@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6160701910",
-    "productKey": "3e2da9e46fe2ebe9",
-    "titleHash": "6d028c2aeaa8addc",
-    "category": "esporte",
-    "sourceCategoryId": null,
-    "reservedAt": "2026-10-14T11:00:47.426Z"
-  },
-  {
     "itemId": "MLB3838932193",
     "productKey": "bb97bec5430921e3",
     "titleHash": "50bc1e37d298bba9",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-18T06:16:25.915Z"
+  },
+  {
+    "itemId": "MLB5821432728",
+    "productKey": "56e953d72225b9db",
+    "titleHash": "a52b2817a8ca9972",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-18T06:31:30.360Z"
   }
 ]
