@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5980496924",
-    "productKey": "5e2b747dccadc7ed",
-    "titleHash": "b11c7c849e9f236c",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-14T16:46:29.776Z"
-  },
-  {
     "itemId": "MLB5281065549",
     "productKey": "7860af033b3fd150",
     "titleHash": "6ca13a59e47a1cb7",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-18T15:46:26.658Z"
+  },
+  {
+    "itemId": "MLB4737509497",
+    "productKey": "9614c6fc06399731",
+    "titleHash": "84c3d0989b55ca0f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-18T16:01:29.992Z"
   }
 ]
