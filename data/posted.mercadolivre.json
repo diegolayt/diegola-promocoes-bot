@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5378454342",
-    "productKey": "d9f9ebef6ca08a2f",
-    "titleHash": "ffe4bcc70178fb4b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-14T09:16:23.328Z"
-  },
-  {
-    "itemId": "MLB4028626831",
-    "productKey": "5a76a4eddf9a8c24",
-    "titleHash": "80b12ed4dcc25fa6",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-14T09:16:23.328Z"
-  },
-  {
-    "itemId": "MLB5228450663",
-    "productKey": "cabbb447af73cacd",
-    "titleHash": "13bc6b92a0023758",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-14T09:16:23.328Z"
-  },
-  {
     "itemId": "MLB4268042659",
     "productKey": "cddbf545af237f6f",
     "titleHash": "3bbe4ed40543e0e7",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-18T04:46:24.975Z"
+  },
+  {
+    "itemId": "MLB5461309698",
+    "productKey": "c500286efe3eb38e",
+    "titleHash": "62725f63d38ae48e",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-18T05:01:32.955Z"
+  },
+  {
+    "itemId": "MLB4324368929",
+    "productKey": "1bff0ff397ddef2c",
+    "titleHash": "31d3d3c068113c56",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-18T05:01:32.955Z"
+  },
+  {
+    "itemId": "MLB3251982185",
+    "productKey": "6e6b0a0afa3e4adb",
+    "titleHash": "ba28ef2dcd7fcc21",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-18T05:01:32.955Z"
   }
 ]
