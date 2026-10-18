@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5892892042",
-    "productKey": "7e5eeb5fc2da9a55",
-    "titleHash": "6ab4b45d11833727",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-15T01:16:25.245Z"
-  },
-  {
-    "itemId": "MLB4677199953",
-    "productKey": "5707418a30805cbf",
-    "titleHash": "4e21a569e001ae6e",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-15T01:16:25.246Z"
-  },
-  {
     "itemId": "MLB3473394047",
     "productKey": "762275457dd03b6f",
     "titleHash": "2a5879481138b5ec",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-18T22:01:29.747Z"
+  },
+  {
+    "itemId": "MLB1813858157",
+    "productKey": "cd49aae79bb3a2e2",
+    "titleHash": "acd7395731aedb0b",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-18T22:16:25.888Z"
+  },
+  {
+    "itemId": "MLB5177123728",
+    "productKey": "a0577f276a61d486",
+    "titleHash": "a0e7068095171d6a",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-18T22:16:25.888Z"
   }
 ]
