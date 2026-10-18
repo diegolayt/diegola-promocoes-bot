@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4962528607",
-    "productKey": "1fa92a7b6e9eda98",
-    "titleHash": "5048c16cc77af7a6",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-14T09:16:23.328Z"
-  },
-  {
     "itemId": "MLB5378454342",
     "productKey": "d9f9ebef6ca08a2f",
     "titleHash": "ffe4bcc70178fb4b",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-18T04:31:29.248Z"
+  },
+  {
+    "itemId": "MLB6224367728",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-18T04:46:24.975Z"
   }
 ]
