@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6612388050",
-    "productKey": "d91a46db3bbd17c5",
-    "titleHash": "83f5c4bda28b8b90",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-14T10:01:23.412Z"
-  },
-  {
-    "itemId": "MLB5821432728",
-    "productKey": "56e953d72225b9db",
-    "titleHash": "a52b2817a8ca9972",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-14T10:01:23.412Z"
-  },
-  {
-    "itemId": "MLB3395169401",
-    "productKey": "67c8124f8010d4d0",
-    "titleHash": "3acad1ab805f0289",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-14T10:01:23.412Z"
-  },
-  {
     "itemId": "MLB4239416987",
     "productKey": "b736acefd95507c1",
     "titleHash": "d8004e380c25536d",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-18T05:46:28.352Z"
+  },
+  {
+    "itemId": "MLB3371578831",
+    "productKey": "10b192510125e400",
+    "titleHash": "199e80e775bd5fd7",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-18T06:01:40.405Z"
+  },
+  {
+    "itemId": "MLB6194539818",
+    "productKey": "1d39d0d75d17f836",
+    "titleHash": "fe715e49e4132e41",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-18T06:01:40.405Z"
+  },
+  {
+    "itemId": "MLB7183973778",
+    "productKey": "12075010278a8522",
+    "titleHash": "e82cc8ca27f22e47",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-18T06:01:40.405Z"
   }
 ]
