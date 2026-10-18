@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3371578831",
-    "productKey": "10b192510125e400",
-    "titleHash": "199e80e775bd5fd7",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-14T09:46:29.676Z"
-  },
-  {
-    "itemId": "MLB5662563868",
-    "productKey": "357220776c6304b0",
-    "titleHash": "7f57a565568fd5e7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-14T09:46:29.676Z"
-  },
-  {
     "itemId": "MLB7183973778",
     "productKey": "12075010278a8522",
     "titleHash": "e82cc8ca27f22e47",
@@ -4798,5 +4782,21 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-10-18T05:16:22.680Z"
+  },
+  {
+    "itemId": "MLB5378454342",
+    "productKey": "d9f9ebef6ca08a2f",
+    "titleHash": "ffe4bcc70178fb4b",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-18T05:31:28.958Z"
+  },
+  {
+    "itemId": "MLB4028626831",
+    "productKey": "5a76a4eddf9a8c24",
+    "titleHash": "80b12ed4dcc25fa6",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-18T05:31:28.958Z"
   }
 ]
