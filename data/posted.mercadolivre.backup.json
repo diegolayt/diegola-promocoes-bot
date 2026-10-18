@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5893838632",
-    "productKey": "b124c07810832875",
-    "titleHash": "193e39a55d48c15a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-14T06:01:32.078Z"
-  },
-  {
-    "itemId": "MLB4796535825",
-    "productKey": "85d041b839360d1e",
-    "titleHash": "89b2d3d9c594e645",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-14T06:01:32.078Z"
-  },
-  {
     "itemId": "MLB7438919296",
     "productKey": "9d501d04b619787b",
     "titleHash": "60b43647216b307c",
@@ -4798,5 +4782,21 @@
     "category": "colchão",
     "sourceCategoryId": "MLB438928",
     "reservedAt": "2026-10-18T01:01:28.969Z"
+  },
+  {
+    "itemId": "MLB4302185393",
+    "productKey": "b912948cf9b5e753",
+    "titleHash": "f913a4edc4a02db1",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-18T01:31:25.976Z"
+  },
+  {
+    "itemId": "MLB5983653190",
+    "productKey": "093b9eee2f11757f",
+    "titleHash": "20ca04f8adaf4372",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-18T01:31:25.976Z"
   }
 ]

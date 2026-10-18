@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4302185393",
+      "site_id": "MLB",
+      "seller_id": 276318005,
+      "accepts_mercadopago": true,
+      "price": 309,
+      "category_id": "MLB188785",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4045,
+      "original_price": 489.18,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 27.22
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTE2NDE",
+          "name": "Santo André"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTmpoNjBw",
+          "name": "Santa Teresinha"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3560504264",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19802405",
+      "title": "2Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_707426-MLU72340464209_102023-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19802405",
+      "id": "MLB4302185393",
+      "sold_quantity": 1200,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB5983653190",
+      "site_id": "MLB",
+      "seller_id": 3018844695,
+      "accepts_mercadopago": true,
+      "price": 75,
+      "category_id": "MLB277387",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 15 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1P0zE4Mjc",
+          "name": "Moóca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 15,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "15 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3634047805",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB16088308",
+      "title": "Gillette Mach3 Sensitive Carga para Aparelho de Barbear com Aloe 8 Unidades",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_730130-MLA110378234867_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB16088308",
+      "id": "MLB5983653190",
+      "sold_quantity": 1400,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-18T01:31:25.979Z"
+}
