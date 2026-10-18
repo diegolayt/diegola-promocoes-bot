@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3771505959",
-    "productKey": "3e24012756b6950c",
-    "titleHash": "fd06cf3b916fc566",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-14T19:16:25.146Z"
-  },
-  {
-    "itemId": "MLB5776728534",
-    "productKey": "fb940bc8a256ecd8",
-    "titleHash": "2e209790e65e495f",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-14T19:16:25.146Z"
-  },
-  {
     "itemId": "MLB5086207427",
     "productKey": "1984953db221eb12",
     "titleHash": "0fc65dd07a9749c7",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-18T18:01:33.753Z"
+  },
+  {
+    "itemId": "MLB3398173761",
+    "productKey": "3ad3274eb28b3f64",
+    "titleHash": "a87908bc89d55121",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-18T18:16:26.012Z"
+  },
+  {
+    "itemId": "MLB6847613118",
+    "productKey": "6a0f874da4937eb3",
+    "titleHash": "994272fd0fa8ee25",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-18T18:16:26.013Z"
   }
 ]
