@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5441434772",
-    "productKey": "f5c7b29042c41105",
-    "titleHash": "5fe760bf49b3d7a7",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-14T15:46:23.909Z"
-  },
-  {
     "itemId": "MLB7320465078",
     "productKey": "d90185c5813ba0bb",
     "titleHash": "26e89182c842e1bc",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-18T14:46:22.791Z"
+  },
+  {
+    "itemId": "MLB3091257861",
+    "productKey": "c56d3960198fc1d0",
+    "titleHash": "4a6681e89c62e2e6",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-18T15:01:28.863Z"
   }
 ]
