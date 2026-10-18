@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB1813858157",
-    "productKey": "cd49aae79bb3a2e2",
-    "titleHash": "acd7395731aedb0b",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-14T22:16:23.993Z"
-  },
-  {
-    "itemId": "MLB5177123728",
-    "productKey": "a0577f276a61d486",
-    "titleHash": "a0e7068095171d6a",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-14T22:31:32.302Z"
-  },
-  {
-    "itemId": "MLB7626469070",
-    "productKey": "4e76f6a7a0601678",
-    "titleHash": "d7af21b015eb8656",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-14T22:46:27.364Z"
-  },
-  {
     "itemId": "MLB5284590343",
     "productKey": "8001d68ba72e9a64",
     "titleHash": "567445470a0ab6a0",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-18T21:16:23.850Z"
+  },
+  {
+    "itemId": "MLB3577839307",
+    "productKey": "e1f31ebb49ae051b",
+    "titleHash": "da52ddf8d551059c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-18T21:31:29.741Z"
+  },
+  {
+    "itemId": "MLB6670733424",
+    "productKey": "d39f44041eb93281",
+    "titleHash": "edd438d5a97d7a2a",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-18T21:31:29.742Z"
+  },
+  {
+    "itemId": "MLB5295759634",
+    "productKey": "06babd581101f23b",
+    "titleHash": "49b321f683ef6a94",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-18T21:31:29.742Z"
   }
 ]
