@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7635087138",
-    "productKey": "7c972cb1c1f2297f",
-    "titleHash": "a264f7d00f58e910",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-14T16:16:27.866Z"
-  },
-  {
-    "itemId": "MLB4988957162",
-    "productKey": "4686bb6a7ae35103",
-    "titleHash": "bc4eac3d45f0fc46",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-14T16:31:32.451Z"
-  },
-  {
-    "itemId": "MLB7805324102",
-    "productKey": "9614c6fc06399731",
-    "titleHash": "84c3d0989b55ca0f",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-14T16:31:32.451Z"
-  },
-  {
     "itemId": "MLB7760007454",
     "productKey": "6895bea8f3ef61ff",
     "titleHash": "8a73e464d04fb954",
@@ -4798,5 +4774,29 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-18T15:16:26.673Z"
+  },
+  {
+    "itemId": "MLB4361263765",
+    "productKey": "238090adb5a1bf75",
+    "titleHash": "246588000d56eb53",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-18T15:31:28.303Z"
+  },
+  {
+    "itemId": "MLB3979719457",
+    "productKey": "6c0323ca8b28669b",
+    "titleHash": "53bd0ca4aa5bcfef",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-18T15:31:28.303Z"
+  },
+  {
+    "itemId": "MLB5295401309",
+    "productKey": "d90185c5813ba0bb",
+    "titleHash": "26e89182c842e1bc",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-18T15:31:28.303Z"
   }
 ]
