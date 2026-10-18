@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5274918465",
-    "productKey": "2bee8087e74a7b84",
-    "titleHash": "ca4023b18b64a686",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-14T07:31:29.001Z"
-  },
-  {
-    "itemId": "MLB7606575730",
-    "productKey": "7ae62e631b538a5f",
-    "titleHash": "72426c512b75ce79",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-14T07:46:26.387Z"
-  },
-  {
-    "itemId": "MLB6833348182",
-    "productKey": "aef85a21267f2840",
-    "titleHash": "db3874582a9c1c38",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-14T08:01:38.603Z"
-  },
-  {
-    "itemId": "MLB4324368929",
-    "productKey": "1bff0ff397ddef2c",
-    "titleHash": "31d3d3c068113c56",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-14T08:16:24.295Z"
-  },
-  {
     "itemId": "MLB7753962586",
     "productKey": "1e5c108fd46efb01",
     "titleHash": "3325efde1b1c620d",
@@ -4798,5 +4766,37 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-18T02:31:19.654Z"
+  },
+  {
+    "itemId": "MLB6194983256",
+    "productKey": "fd83f25c3b8fcc66",
+    "titleHash": "7d923047dcc35c56",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-18T02:46:24.973Z"
+  },
+  {
+    "itemId": "MLB7574452184",
+    "productKey": "f957ab0d39b2d366",
+    "titleHash": "b1c4d572f20022fd",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-18T02:46:24.973Z"
+  },
+  {
+    "itemId": "MLB7829324894",
+    "productKey": "05b84b93849ca0c3",
+    "titleHash": "9b681a3c850bee09",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-18T02:46:24.973Z"
+  },
+  {
+    "itemId": "MLB5250712463",
+    "productKey": "3b13b451c92df475",
+    "titleHash": "5933a654bc57192d",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-18T02:46:24.973Z"
   }
 ]
