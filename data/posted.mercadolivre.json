@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3834470787",
-    "productKey": "6187b33bbd506a19",
-    "titleHash": "50514a501fdcd1b8",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-14T09:01:34.133Z"
-  },
-  {
     "itemId": "MLB5279468893",
     "productKey": "b216eb4ee71d5859",
     "titleHash": "5633cee274d6abaf",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-18T03:46:28.315Z"
+  },
+  {
+    "itemId": "MLB4469987063",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-18T04:16:23.508Z"
   }
 ]
