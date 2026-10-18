@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5384413033",
-    "productKey": "bc05e3f7f280662b",
-    "titleHash": "b5aa74d84ac5676f",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-14T15:31:26.898Z"
-  },
-  {
     "itemId": "MLB6465314542",
     "productKey": "1892336b3d8bd447",
     "titleHash": "fdf156853bd08536",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-18T13:01:35.821Z"
+  },
+  {
+    "itemId": "MLB7244517956",
+    "productKey": "8b67768aeac7e9b2",
+    "titleHash": "ba46e87672d491d0",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-18T14:01:32.040Z"
   }
 ]
