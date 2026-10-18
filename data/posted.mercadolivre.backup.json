@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7701800018",
-    "productKey": "8391a7ae62302cad",
-    "titleHash": "1f20a51ee45cd080",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-14T05:46:20.394Z"
-  },
-  {
     "itemId": "MLB5217693736",
     "productKey": "bd3aa3aa17d44d1a",
     "titleHash": "bb0ac3e977c30917",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-18T00:16:30.618Z"
+  },
+  {
+    "itemId": "MLB7764924996",
+    "productKey": "c421c7dbedfa4af5",
+    "titleHash": "d1f3d0e27d1791c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-18T00:31:27.365Z"
   }
 ]
