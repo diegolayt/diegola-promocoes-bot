@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5284590343",
-    "productKey": "8001d68ba72e9a64",
-    "titleHash": "567445470a0ab6a0",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-14T22:46:27.364Z"
-  },
-  {
-    "itemId": "MLB4372865191",
-    "productKey": "991815a1915c7fac",
-    "titleHash": "3542b47735241eef",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-14T22:46:27.364Z"
-  },
-  {
-    "itemId": "MLB7239615054",
-    "productKey": "6bd9217b8cf68d26",
-    "titleHash": "3dd9b1eaa871dd48",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-15T00:01:29.341Z"
-  },
-  {
     "itemId": "MLB4311848782",
     "productKey": "c6ffc2bdedffd41c",
     "titleHash": "90bb9eb966478224",
@@ -4798,5 +4774,29 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-18T21:31:29.742Z"
+  },
+  {
+    "itemId": "MLB6460314176",
+    "productKey": "b77299d1c70b0260",
+    "titleHash": "0a2f356ebff38ecb",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-18T21:46:24.450Z"
+  },
+  {
+    "itemId": "MLB5253468221",
+    "productKey": "890e2a103f8d9a7c",
+    "titleHash": "f2f146b69d03f097",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-18T21:46:24.450Z"
+  },
+  {
+    "itemId": "MLB7705751624",
+    "productKey": "1c1a1b874a30de47",
+    "titleHash": "5cc0254ef98a4654",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-18T21:46:24.450Z"
   }
 ]
