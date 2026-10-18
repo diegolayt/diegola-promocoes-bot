@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5295759634",
-    "productKey": "06babd581101f23b",
-    "titleHash": "49b321f683ef6a94",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-14T22:01:21.880Z"
-  },
-  {
     "itemId": "MLB5172320425",
     "productKey": "890e2a103f8d9a7c",
     "titleHash": "f2f146b69d03f097",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-18T19:31:28.399Z"
+  },
+  {
+    "itemId": "MLB7834073214",
+    "productKey": "4686bb6a7ae35103",
+    "titleHash": "bc4eac3d45f0fc46",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-18T19:46:25.621Z"
   }
 ]
