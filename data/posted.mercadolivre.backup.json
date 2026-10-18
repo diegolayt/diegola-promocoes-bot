@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5830827912",
-    "productKey": "1249a8fb3d88e9ff",
-    "titleHash": "360d83604027a19c",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-15T01:31:28.497Z"
-  },
-  {
-    "itemId": "MLB5094439754",
-    "productKey": "9902a2031facc93d",
-    "titleHash": "3532c31d92333d51",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-15T01:46:23.428Z"
-  },
-  {
     "itemId": "MLB7811645020",
     "productKey": "812634e89d0a39b7",
     "titleHash": "c61cb7f19b5587d6",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-18T22:31:36.315Z"
+  },
+  {
+    "itemId": "MLB4311848782",
+    "productKey": "c6ffc2bdedffd41c",
+    "titleHash": "7660bd2cc9a981c5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-18T23:16:25.123Z"
+  },
+  {
+    "itemId": "MLB4568569781",
+    "productKey": "31d21cd7b3243873",
+    "titleHash": "2d6545f358c0aa7b",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-18T23:16:25.123Z"
   }
 ]
