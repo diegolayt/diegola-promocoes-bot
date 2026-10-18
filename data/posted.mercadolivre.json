@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5461309698",
-    "productKey": "c500286efe3eb38e",
-    "titleHash": "62725f63d38ae48e",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-14T08:46:22.278Z"
-  },
-  {
-    "itemId": "MLB6099870676",
-    "productKey": "488e0777c37e7386",
-    "titleHash": "84cf3d3be75f2628",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-14T09:01:34.132Z"
-  },
-  {
     "itemId": "MLB5365758725",
     "productKey": "42b3d57c38a3059e",
     "titleHash": "ec8ae247e926de2b",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-18T03:16:25.347Z"
+  },
+  {
+    "itemId": "MLB3838209499",
+    "productKey": "b9ee45f2c4136d0e",
+    "titleHash": "ae8d97b0516bc2b5",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-18T03:31:29.439Z"
+  },
+  {
+    "itemId": "MLB5408988443",
+    "productKey": "c394ad5c5c8abff2",
+    "titleHash": "de87e86126411ee5",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-18T03:31:29.439Z"
   }
 ]
