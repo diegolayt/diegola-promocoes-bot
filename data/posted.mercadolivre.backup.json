@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7753962586",
-    "productKey": "1e5c108fd46efb01",
-    "titleHash": "3325efde1b1c620d",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-14T08:16:24.295Z"
-  },
-  {
     "itemId": "MLB6732057674",
     "productKey": "ef732e4f03e0d21d",
     "titleHash": "d98a4fda2313e216",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-18T02:46:24.973Z"
+  },
+  {
+    "itemId": "MLB5123290574",
+    "productKey": "8c76b04b8266652e",
+    "titleHash": "f095017ffecc087e",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-18T03:01:28.521Z"
   }
 ]
