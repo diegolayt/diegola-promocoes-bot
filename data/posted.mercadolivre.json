@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7320465078",
-    "productKey": "d90185c5813ba0bb",
-    "titleHash": "26e89182c842e1bc",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-14T15:46:23.909Z"
-  },
-  {
-    "itemId": "MLB3725747499",
-    "productKey": "dbad8859d64bf59b",
-    "titleHash": "614e347075a236f3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-14T16:01:32.575Z"
-  },
-  {
-    "itemId": "MLB5283191755",
-    "productKey": "918fbf2ebb652b40",
-    "titleHash": "7701f29f168b2524",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-14T16:16:27.866Z"
-  },
-  {
     "itemId": "MLB7635087138",
     "productKey": "7c972cb1c1f2297f",
     "titleHash": "a264f7d00f58e910",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-18T15:01:28.863Z"
+  },
+  {
+    "itemId": "MLB5441434772",
+    "productKey": "f5c7b29042c41105",
+    "titleHash": "5fe760bf49b3d7a7",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-18T15:16:26.673Z"
+  },
+  {
+    "itemId": "MLB7658098506",
+    "productKey": "4ff7a299c45ac56a",
+    "titleHash": "2a6e08582af5bd66",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-18T15:16:26.673Z"
+  },
+  {
+    "itemId": "MLB7820384720",
+    "productKey": "bc05e3f7f280662b",
+    "titleHash": "b5aa74d84ac5676f",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-18T15:16:26.673Z"
   }
 ]
