@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5525263450",
+      "site_id": "MLB",
+      "seller_id": 194486514,
+      "accepts_mercadopago": true,
+      "price": 78.9,
+      "category_id": "MLB425076",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_channel",
+        "has_published_clips",
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5296,
+      "original_price": 135.05,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Laranjal Paulista"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2703067295",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43200233",
+      "title": "Bicicleta de Equilíbrio Brinq Kids Brinquei Vermelho para Crianças 12m+",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_825638-MLA97504721848_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43200233",
+      "id": "MLB5525263450",
+      "sold_quantity": 500,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4367472233",
+      "site_id": "MLB",
+      "seller_id": 1917068106,
+      "accepts_mercadopago": true,
+      "price": 1085.87,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 84762,
+      "original_price": 1499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDM3bTN5",
+          "name": "Cidade Moncoes"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3675857681",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63036814",
+      "title": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63036814",
+      "id": "MLB4367472233",
+      "sold_quantity": 900,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    },
+    {
+      "item_id": "MLB7702229034",
+      "site_id": "MLB",
+      "seller_id": 2532606608,
+      "accepts_mercadopago": true,
+      "price": 2140,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "São José do Rio Preto"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5269800447",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB55467027",
+      "title": "Galaxy Tab S10 Lite Cinza 128gb Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_840023-MLA115978083965_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB55467027",
+      "id": "MLB7702229034",
+      "sold_quantity": 1600,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-18T02:16:23.061Z"
+}
