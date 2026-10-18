@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7531233584",
-    "productKey": "f0c5518ea0cabfba",
-    "titleHash": "b801230ddad01ff0",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-14T12:01:31.871Z"
-  },
-  {
     "itemId": "MLB4367472775",
     "productKey": "fa34295fd787e18c",
     "titleHash": "190b71ddac76b50c",
@@ -4798,5 +4790,13 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-10-18T09:01:14.932Z"
+  },
+  {
+    "itemId": "MLB5414263715",
+    "productKey": "794094e123a2d365",
+    "titleHash": "68fbd7ea594a31fc",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-18T09:16:29.009Z"
   }
 ]
