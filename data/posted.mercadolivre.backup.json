@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3838932193",
-    "productKey": "bb97bec5430921e3",
-    "titleHash": "50bc1e37d298bba9",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-14T11:16:23.863Z"
-  },
-  {
     "itemId": "MLB4880098746",
     "productKey": "de6e98305f10eded",
     "titleHash": "6b876ba63791aef1",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-18T06:31:30.360Z"
+  },
+  {
+    "itemId": "MLB3715400841",
+    "productKey": "1bef57881ed6b740",
+    "titleHash": "49debd1b524845f5",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-18T06:46:23.822Z"
   }
 ]
