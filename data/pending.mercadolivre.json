@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7718421436",
+      "site_id": "MLB",
+      "seller_id": 3614554193,
+      "accepts_mercadopago": true,
+      "price": 54.9,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTMzNjI",
+          "name": "São Bernardo do Campo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkFTUzQ1NjQ",
+          "name": "Assunção"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5297225069",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18725308",
+      "title": "Creatina Soldiers Nutrition em pó Sem sabor x 500g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_858065-MLA112585347120_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18725308",
+      "id": "MLB7718421436",
+      "sold_quantity": 1900,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-18T03:16:25.349Z"
+}
