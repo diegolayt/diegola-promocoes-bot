@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5350127318",
-    "productKey": "ec3b73f24f9af257",
-    "titleHash": "802e07e18ad37e9b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-14T18:31:29.279Z"
-  },
-  {
-    "itemId": "MLB5245640533",
-    "productKey": "820a7bf3129a48cf",
-    "titleHash": "82c17092d0642575",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-14T18:31:29.279Z"
-  },
-  {
-    "itemId": "MLB6847613118",
-    "productKey": "6a0f874da4937eb3",
-    "titleHash": "994272fd0fa8ee25",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-14T18:46:34.796Z"
-  },
-  {
     "itemId": "MLB5957865496",
     "productKey": "6cb8a3bad69a7f8b",
     "titleHash": "5f5b66ae18a9ad3b",
@@ -4798,5 +4774,29 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-10-18T17:31:25.088Z"
+  },
+  {
+    "itemId": "MLB4173586375",
+    "productKey": "c7ebf54e4fcc2fe3",
+    "titleHash": "5a9f86ddd7a1801f",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-18T17:46:22.917Z"
+  },
+  {
+    "itemId": "MLB6976567444",
+    "productKey": "10d83ae90f0fb762",
+    "titleHash": "5467f88d296880b9",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-18T17:46:22.917Z"
+  },
+  {
+    "itemId": "MLB5249470421",
+    "productKey": "7ff4850888a120db",
+    "titleHash": "9c4f307b8d6d26f0",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-18T17:46:22.917Z"
   }
 ]
