@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5599415982",
-    "productKey": "1010a845202376db",
-    "titleHash": "ae3d9f5c10f2e3eb",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-14T13:01:30.577Z"
-  },
-  {
-    "itemId": "MLB4294919382",
-    "productKey": "80448f997104bd0e",
-    "titleHash": "d7f5612ca1df1d4a",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-14T13:16:26.700Z"
-  },
-  {
-    "itemId": "MLB5842112358",
-    "productKey": "338c9537ace4e54f",
-    "titleHash": "446e3b9a83ed6784",
-    "category": "calçado",
-    "sourceCategoryId": "MLB23262",
-    "reservedAt": "2026-10-14T13:31:28.422Z"
-  },
-  {
     "itemId": "MLB6825755108",
     "productKey": "19ec831940837ddc",
     "titleHash": "dfbead09ac119be3",
@@ -4798,5 +4774,29 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-18T11:31:28.694Z"
+  },
+  {
+    "itemId": "MLB4367472775",
+    "productKey": "fa34295fd787e18c",
+    "titleHash": "190b71ddac76b50c",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-18T11:46:26.190Z"
+  },
+  {
+    "itemId": "MLB4564236093",
+    "productKey": "41888fb320739b37",
+    "titleHash": "3fc1ad64a62d5f86",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-18T11:46:26.190Z"
+  },
+  {
+    "itemId": "MLB7829236100",
+    "productKey": "e36a6435f85d422e",
+    "titleHash": "b23daca646894c44",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-18T11:46:26.190Z"
   }
 ]
