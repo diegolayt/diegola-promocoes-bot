@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-14T12:01:31.871Z"
-  },
-  {
     "itemId": "MLB4564236093",
     "productKey": "41888fb320739b37",
     "titleHash": "3fc1ad64a62d5f86",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-18T08:01:27.911Z"
+  },
+  {
+    "itemId": "MLB6889668614",
+    "productKey": "61936a573d33a226",
+    "titleHash": "4aba07aa2efc9eb5",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-18T08:46:30.656Z"
   }
 ]
