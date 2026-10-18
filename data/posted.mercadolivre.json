@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6465314542",
-    "productKey": "1892336b3d8bd447",
-    "titleHash": "fdf156853bd08536",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-14T15:31:26.898Z"
-  },
-  {
     "itemId": "MLB3995338569",
     "productKey": "d88fc5b406c04f25",
     "titleHash": "34a2921d017b2b95",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-18T14:01:32.040Z"
+  },
+  {
+    "itemId": "MLB5097723592",
+    "productKey": "0314016684b00af3",
+    "titleHash": "f150802ac716f3c0",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-18T14:31:25.674Z"
   }
 ]
