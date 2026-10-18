@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4268042659",
-    "productKey": "cddbf545af237f6f",
-    "titleHash": "3bbe4ed40543e0e7",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-14T09:31:28.328Z"
-  },
-  {
-    "itemId": "MLB6194501592",
-    "productKey": "743b29089cd31a1b",
-    "titleHash": "fe715e49e4132e41",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-14T09:31:28.329Z"
-  },
-  {
     "itemId": "MLB3371578831",
     "productKey": "10b192510125e400",
     "titleHash": "199e80e775bd5fd7",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-18T05:01:32.955Z"
+  },
+  {
+    "itemId": "MLB4025119893",
+    "productKey": "6187b33bbd506a19",
+    "titleHash": "50514a501fdcd1b8",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-18T05:16:22.680Z"
+  },
+  {
+    "itemId": "MLB5279468893",
+    "productKey": "b216eb4ee71d5859",
+    "titleHash": "5633cee274d6abaf",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-18T05:16:22.680Z"
   }
 ]
