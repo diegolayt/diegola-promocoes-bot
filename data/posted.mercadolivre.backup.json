@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5249470421",
-    "productKey": "7ff4850888a120db",
-    "titleHash": "9c4f307b8d6d26f0",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-14T17:46:26.600Z"
-  },
-  {
     "itemId": "MLB6976567444",
     "productKey": "10d83ae90f0fb762",
     "titleHash": "5467f88d296880b9",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-10-18T16:31:26.399Z"
+  },
+  {
+    "itemId": "MLB7640231678",
+    "productKey": "98aa92e5a98722ca",
+    "titleHash": "b6dfdbb0bf292d78",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-18T16:46:24.974Z"
   }
 ]
