@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5217693736",
-    "productKey": "bd3aa3aa17d44d1a",
-    "titleHash": "bb0ac3e977c30917",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-14T05:46:20.394Z"
-  },
-  {
-    "itemId": "MLB4573612827",
-    "productKey": "82b49af509dbfda1",
-    "titleHash": "16c4a8443cfb86b5",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-14T05:46:20.394Z"
-  },
-  {
-    "itemId": "MLB5651894106",
-    "productKey": "bbbcab83b53caf8d",
-    "titleHash": "4d125c614256b48a",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-14T06:01:32.078Z"
-  },
-  {
     "itemId": "MLB5893838632",
     "productKey": "b124c07810832875",
     "titleHash": "193e39a55d48c15a",
@@ -4798,5 +4774,29 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-18T00:31:27.365Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-18T01:01:28.968Z"
+  },
+  {
+    "itemId": "MLB4718918529",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-18T01:01:28.969Z"
+  },
+  {
+    "itemId": "MLB4386377708",
+    "productKey": "ad948e20cf30b8c9",
+    "titleHash": "404b54cbec7430d4",
+    "category": "colchão",
+    "sourceCategoryId": "MLB438928",
+    "reservedAt": "2026-10-18T01:01:28.969Z"
   }
 ]
