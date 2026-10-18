@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4857152173",
-    "productKey": "e1f31ebb49ae051b",
-    "titleHash": "da52ddf8d551059c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-14T22:01:21.880Z"
-  },
-  {
     "itemId": "MLB5295759634",
     "productKey": "06babd581101f23b",
     "titleHash": "49b321f683ef6a94",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-18T19:16:24.297Z"
+  },
+  {
+    "itemId": "MLB5417954405",
+    "productKey": "7b530b4b1ca8b409",
+    "titleHash": "16098ab31f1e5d10",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-18T19:31:28.399Z"
   }
 ]
