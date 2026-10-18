@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4880098746",
-    "productKey": "de6e98305f10eded",
-    "titleHash": "6b876ba63791aef1",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-14T11:31:35.721Z"
-  },
-  {
     "itemId": "MLB7439917998",
     "productKey": "a7188d7e617deefb",
     "titleHash": "a84daf9417637e62",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-18T06:46:23.822Z"
+  },
+  {
+    "itemId": "MLB6833348182",
+    "productKey": "aef85a21267f2840",
+    "titleHash": "db3874582a9c1c38",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-18T07:46:22.959Z"
   }
 ]
