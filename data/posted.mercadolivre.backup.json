@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7160567726",
-    "productKey": "2b8d916b04c09f90",
-    "titleHash": "e6a0bbceb4a1566b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-14T06:46:21.656Z"
-  },
-  {
-    "itemId": "MLB7646052474",
-    "productKey": "eb06b71550ec0423",
-    "titleHash": "a1cefc98726517c3",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-14T06:46:21.656Z"
-  },
-  {
-    "itemId": "MLB3838209499",
-    "productKey": "b9ee45f2c4136d0e",
-    "titleHash": "ae8d97b0516bc2b5",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-14T07:01:27.553Z"
-  },
-  {
-    "itemId": "MLB7285018424",
-    "productKey": "c394ad5c5c8abff2",
-    "titleHash": "de87e86126411ee5",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-14T07:16:23.491Z"
-  },
-  {
     "itemId": "MLB5274918465",
     "productKey": "2bee8087e74a7b84",
     "titleHash": "ca4023b18b64a686",
@@ -4798,5 +4766,37 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-18T02:16:23.059Z"
+  },
+  {
+    "itemId": "MLB4671001440",
+    "productKey": "de330e271b690a16",
+    "titleHash": "ee59843d9f1c91fc",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-18T02:31:19.653Z"
+  },
+  {
+    "itemId": "MLB4796525103",
+    "productKey": "85d041b839360d1e",
+    "titleHash": "89b2d3d9c594e645",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-18T02:31:19.653Z"
+  },
+  {
+    "itemId": "MLB7614069762",
+    "productKey": "b124c07810832875",
+    "titleHash": "193e39a55d48c15a",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-18T02:31:19.654Z"
+  },
+  {
+    "itemId": "MLB7438919296",
+    "productKey": "9d501d04b619787b",
+    "titleHash": "60b43647216b307c",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-18T02:31:19.654Z"
   }
 ]
