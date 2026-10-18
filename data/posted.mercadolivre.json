@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6976567444",
-    "productKey": "10d83ae90f0fb762",
-    "titleHash": "5467f88d296880b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-14T18:16:23.956Z"
-  },
-  {
-    "itemId": "MLB3398173761",
-    "productKey": "3ad3274eb28b3f64",
-    "titleHash": "a87908bc89d55121",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-14T18:31:29.278Z"
-  },
-  {
     "itemId": "MLB3085731370",
     "productKey": "d28d7ff4dc319861",
     "titleHash": "c7d4fc32964b4cb7",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-18T16:46:24.974Z"
+  },
+  {
+    "itemId": "MLB4115638623",
+    "productKey": "9681761c11f42242",
+    "titleHash": "c506f453654b8575",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-18T17:16:24.022Z"
+  },
+  {
+    "itemId": "MLB3939720011",
+    "productKey": "aea2de8a7c5c3d52",
+    "titleHash": "fd8a49ba38884f61",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-18T17:16:24.023Z"
   }
 ]
