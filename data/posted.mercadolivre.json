@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3085731370",
-    "productKey": "d28d7ff4dc319861",
-    "titleHash": "c7d4fc32964b4cb7",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-14T18:31:29.279Z"
-  },
-  {
     "itemId": "MLB5350127318",
     "productKey": "ec3b73f24f9af257",
     "titleHash": "802e07e18ad37e9b",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-18T17:16:24.023Z"
+  },
+  {
+    "itemId": "MLB7398437480",
+    "productKey": "55fe5d1edbec07e4",
+    "titleHash": "104e502a7c2949d3",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-18T17:31:25.088Z"
   }
 ]
