@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1630337787",
-    "productKey": "d22fa65cdb3c5323",
-    "titleHash": "61315aeef9dd29e4",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-15T13:46:25.430Z"
-  },
-  {
     "itemId": "MLB6922074926",
     "productKey": "bed9824c15628b27",
     "titleHash": "087ef1e47e318558",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-19T15:01:37.377Z"
+  },
+  {
+    "itemId": "MLB6149243620",
+    "productKey": "bcbbe4f76ea2dd1b",
+    "titleHash": "bc757d227537bb1b",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-19T15:16:27.549Z"
   }
 ]
