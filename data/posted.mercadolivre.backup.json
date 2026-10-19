@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7503053068",
-    "productKey": "849a2124d0a8f984",
-    "titleHash": "caed37ae9f327be6",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-15T23:01:30.908Z"
-  },
-  {
-    "itemId": "MLB6984694256",
-    "productKey": "9aaaf7db99c08c54",
-    "titleHash": "a41ee2faa78cd597",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-15T23:01:30.909Z"
-  },
-  {
     "itemId": "MLB7770878416",
     "productKey": "5e63e5ce2fe5389f",
     "titleHash": "e6e45a893d28ec80",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-19T23:31:34.670Z"
+  },
+  {
+    "itemId": "MLB6233880886",
+    "productKey": "3ca6817919fcd030",
+    "titleHash": "cd5b71801dc81bee",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-19T23:46:28.751Z"
+  },
+  {
+    "itemId": "MLB6819437892",
+    "productKey": "398190200de201c1",
+    "titleHash": "2f5a00c8a92decec",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-19T23:46:28.751Z"
   }
 ]
