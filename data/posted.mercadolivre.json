@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5348096159",
-    "productKey": "03008c6577cd30c3",
-    "titleHash": "1fc506b4f9497957",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-15T12:16:26.297Z"
-  },
-  {
     "itemId": "MLB2748787238",
     "productKey": "29a167728a58669c",
     "titleHash": "a40852fe2e7ef3d0",
@@ -4798,5 +4790,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-19T13:16:26.282Z"
+  },
+  {
+    "itemId": "MLB5315131669",
+    "productKey": "0e6e44766b5d5a20",
+    "titleHash": "4c3204a9c9aec40b",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-19T13:31:28.938Z"
   }
 ]
