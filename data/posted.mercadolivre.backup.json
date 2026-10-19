@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6251191294",
-    "productKey": "7720820a953562b0",
-    "titleHash": "f63dfdf04a782b09",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-15T12:01:30.845Z"
-  },
-  {
     "itemId": "MLB5348096159",
     "productKey": "03008c6577cd30c3",
     "titleHash": "1fc506b4f9497957",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-19T12:31:28.344Z"
+  },
+  {
+    "itemId": "MLB7075800916",
+    "productKey": "0d89405e65a8c65e",
+    "titleHash": "d8d5e40afde92978",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-19T13:16:26.282Z"
   }
 ]
