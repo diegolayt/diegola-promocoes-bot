@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7029983022",
-    "productKey": "195addb9e0cb3945",
-    "titleHash": "0cb54f54b1ae9faf",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-15T07:31:28.622Z"
-  },
-  {
-    "itemId": "MLB4980072131",
-    "productKey": "1f336dc2d7fd96fc",
-    "titleHash": "ab3cc4ecec2850f5",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-15T07:31:28.623Z"
-  },
-  {
-    "itemId": "MLB3797364569",
-    "productKey": "96983e4185e3eef7",
-    "titleHash": "f469ce3c49a26e01",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-15T08:01:29.889Z"
-  },
-  {
     "itemId": "MLB6802905778",
     "productKey": "5b2763cb9e9d95a2",
     "titleHash": "4aefd666fba0af2c",
@@ -4798,5 +4774,29 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-19T06:01:33.365Z"
+  },
+  {
+    "itemId": "MLB7187016886",
+    "productKey": "3235a086bca26017",
+    "titleHash": "7a1c23c1bdf33031",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-19T06:16:24.958Z"
+  },
+  {
+    "itemId": "MLB5739859240",
+    "productKey": "8906c9c9254a9621",
+    "titleHash": "e774f2697c40f7fa",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-19T06:16:24.958Z"
+  },
+  {
+    "itemId": "MLB4032940207",
+    "productKey": "e45e7ce2520ec55f",
+    "titleHash": "58d4fc2df4ea9377",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-19T06:16:24.958Z"
   }
 ]
