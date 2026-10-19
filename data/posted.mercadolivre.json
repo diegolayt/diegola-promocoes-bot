@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6922074926",
-    "productKey": "bed9824c15628b27",
-    "titleHash": "087ef1e47e318558",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-15T13:46:25.430Z"
-  },
-  {
     "itemId": "MLB4110302959",
     "productKey": "8fce402e1353f895",
     "titleHash": "7297af2639549305",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-19T15:16:27.549Z"
+  },
+  {
+    "itemId": "MLB6167412392",
+    "productKey": "640f8d3c0cbc4c83",
+    "titleHash": "d30118097bc8aca5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-19T15:31:30.638Z"
   }
 ]
