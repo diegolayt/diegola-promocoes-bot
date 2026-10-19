@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3963565037",
-    "productKey": "90b6a387b0af9d73",
-    "titleHash": "7dca2d6e77e75dd7",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-15T21:01:32.976Z"
-  },
-  {
-    "itemId": "MLB4267312145",
-    "productKey": "78c76163d845c431",
-    "titleHash": "f4a2d665975991c4",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-15T21:16:26.300Z"
-  },
-  {
-    "itemId": "MLB6666191918",
-    "productKey": "234eb23fabd5e309",
-    "titleHash": "97ece075e5b54bac",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-15T21:31:33.814Z"
-  },
-  {
-    "itemId": "MLB7764828280",
-    "productKey": "083d62b0b552980d",
-    "titleHash": "d4b99d31a8632747",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-15T21:31:33.814Z"
-  },
-  {
     "itemId": "MLB5329836232",
     "productKey": "549b84a996815459",
     "titleHash": "679082335d743b62",
@@ -4798,5 +4766,37 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-19T22:16:38.685Z"
+  },
+  {
+    "itemId": "MLB3845254515",
+    "productKey": "c51898934732d05c",
+    "titleHash": "2f77857bd51fad93",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-19T22:31:17.690Z"
+  },
+  {
+    "itemId": "MLB6279576404",
+    "productKey": "4e3f4c35024a7d4c",
+    "titleHash": "c05ea3c2f80d0174",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-19T22:31:17.690Z"
+  },
+  {
+    "itemId": "MLB6188459118",
+    "productKey": "7c1acb43a5d485b1",
+    "titleHash": "0f2c660eb4e7faff",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-19T22:31:17.690Z"
+  },
+  {
+    "itemId": "MLB4580495973",
+    "productKey": "cd5b6c560fda0bb5",
+    "titleHash": "e52eedd7b3d3917f",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-10-19T22:31:17.690Z"
   }
 ]
