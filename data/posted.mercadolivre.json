@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3340533709",
-    "productKey": "99ffce333c6f5953",
-    "titleHash": "10199bd0de5afba6",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-15T19:31:28.181Z"
-  },
-  {
     "itemId": "MLB4483842387",
     "productKey": "6ae9b8d7d9d10774",
     "titleHash": "9294edea4271c7e2",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-19T20:46:24.220Z"
+  },
+  {
+    "itemId": "MLB5052087506",
+    "productKey": "536062fd315b63f7",
+    "titleHash": "563a02a9817e7c16",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-19T21:01:31.499Z"
   }
 ]
