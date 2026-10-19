@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5333549261",
+      "site_id": "MLB",
+      "seller_id": 719428092,
+      "accepts_mercadopago": true,
+      "price": 2515,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5356249261",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB66896529",
+      "title": "Celular Xiaomi Poco X8 Pro 8gb Ram 256gb Rom Dual Sim 6.59 Amoled Dimensity 8500 Ultra Green",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_619994-MLA108307143102_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB66896529",
+      "id": "MLB5333549261",
+      "sold_quantity": 1000,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB4931541395",
+      "site_id": "MLB",
+      "seller_id": 2505230661,
+      "accepts_mercadopago": true,
+      "price": 62.9,
+      "category_id": "MLB70632",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 43.913664000000004
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJVGQ5MWM5",
+          "name": "Vitória da Conquista"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTkExQzZC",
+          "name": "Candeias"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4406868884",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23535579",
+      "title": "Corretivo de alta cobertura Natura Una Extrema",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_737709-MLU74482834658_022024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23535579",
+      "id": "MLB4931541395",
+      "sold_quantity": 900,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-19T19:31:32.105Z"
+}

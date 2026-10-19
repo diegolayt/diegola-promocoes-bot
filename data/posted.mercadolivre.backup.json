@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5222303923",
-    "productKey": "1a5dfaf3ef4dac5e",
-    "titleHash": "c58f62d50bd6d030",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-15T17:46:32.188Z"
-  },
-  {
-    "itemId": "MLB5766314924",
-    "productKey": "0368fc6ed7886a6f",
-    "titleHash": "449fd89d25206ff4",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-15T18:01:32.759Z"
-  },
-  {
     "itemId": "MLB4139379039",
     "productKey": "530adb1e22063ecb",
     "titleHash": "3d1d71a4e21325bc",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-19T19:16:31.232Z"
+  },
+  {
+    "itemId": "MLB5333549261",
+    "productKey": "97ae2ef6f831804d",
+    "titleHash": "1da2ceac8c4459f9",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-19T19:31:32.102Z"
+  },
+  {
+    "itemId": "MLB4931541395",
+    "productKey": "54d8ded816bc0b69",
+    "titleHash": "bc329b0a74bc1a74",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-19T19:31:32.103Z"
   }
 ]
