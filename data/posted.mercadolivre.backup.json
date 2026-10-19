@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4836902343",
-    "productKey": "66c7b386fec7fb85",
-    "titleHash": "07d3743c349b4b43",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-15T10:31:32.884Z"
-  },
-  {
-    "itemId": "MLB7021496446",
-    "productKey": "06651e2562cbb16b",
-    "titleHash": "827ce4bd52859f56",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-15T10:46:25.589Z"
-  },
-  {
     "itemId": "MLB5288966679",
     "productKey": "bfd6728ad1b171f9",
     "titleHash": "181b50122314a076",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-19T09:31:33.053Z"
+  },
+  {
+    "itemId": "MLB3783973037",
+    "productKey": "79904641cb78c39e",
+    "titleHash": "c6c910964afbee15",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-19T09:46:22.741Z"
+  },
+  {
+    "itemId": "MLB7827063190",
+    "productKey": "8b22be28b8f4d3bd",
+    "titleHash": "7866188a6d14a530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-19T09:46:22.741Z"
   }
 ]
