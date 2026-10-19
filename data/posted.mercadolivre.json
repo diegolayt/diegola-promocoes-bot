@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5002942623",
-    "productKey": "bc83df21726f1846",
-    "titleHash": "89aefc55a86b317a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-15T04:16:24.461Z"
-  },
-  {
     "itemId": "MLB4811259715",
     "productKey": "7abc3c7eceaff66c",
     "titleHash": "0770fcd7bab16021",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-19T02:31:31.496Z"
+  },
+  {
+    "itemId": "MLB4958284047",
+    "productKey": "1709bfa6336e67ee",
+    "titleHash": "6399c32607f735b0",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-19T02:46:27.775Z"
   }
 ]
