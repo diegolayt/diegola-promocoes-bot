@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5451861382",
-    "productKey": "587d20e08660bde7",
-    "titleHash": "990a1ea0e342ba85",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-15T13:16:23.657Z"
-  },
-  {
-    "itemId": "MLB5310520005",
-    "productKey": "45a7144daaa80c5a",
-    "titleHash": "8b43e2f0b059a1b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-15T13:16:23.657Z"
-  },
-  {
-    "itemId": "MLB4508032431",
-    "productKey": "3a80315e87a71f5f",
-    "titleHash": "d67494a9c8764546",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-15T13:31:31.679Z"
-  },
-  {
     "itemId": "MLB1630337787",
     "productKey": "d22fa65cdb3c5323",
     "titleHash": "61315aeef9dd29e4",
@@ -4798,5 +4774,29 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-19T14:46:29.031Z"
+  },
+  {
+    "itemId": "MLB7690840340",
+    "productKey": "7720820a953562b0",
+    "titleHash": "f63dfdf04a782b09",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-19T15:01:37.377Z"
+  },
+  {
+    "itemId": "MLB6031639350",
+    "productKey": "afbff89ee85c38b5",
+    "titleHash": "bae5a48604e386ea",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-19T15:01:37.377Z"
+  },
+  {
+    "itemId": "MLB2748787238",
+    "productKey": "29a167728a58669c",
+    "titleHash": "a40852fe2e7ef3d0",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-19T15:01:37.377Z"
   }
 ]
