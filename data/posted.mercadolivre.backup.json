@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5295016289",
-    "productKey": "1f2208dd21863a0e",
-    "titleHash": "8dd77967e28e1211",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-15T22:01:35.191Z"
-  },
-  {
     "itemId": "MLB7626257738",
     "productKey": "04c56c962164b38f",
     "titleHash": "141edb12252b5fbc",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-10-19T22:46:27.511Z"
+  },
+  {
+    "itemId": "MLB5413776368",
+    "productKey": "43ab81ed3d64cbfc",
+    "titleHash": "847b82f5eeb65c22",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-19T23:01:34.834Z"
   }
 ]
