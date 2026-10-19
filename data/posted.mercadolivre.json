@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4935535334",
-    "productKey": "e9455fbd3cb133ae",
-    "titleHash": "947cef40e57cf05a",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-15T15:31:28.021Z"
-  },
-  {
-    "itemId": "MLB5311226591",
-    "productKey": "79683824906954d4",
-    "titleHash": "b0c385b4d7e84a69",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-15T15:46:28.292Z"
-  },
-  {
     "itemId": "MLB7640283008",
     "productKey": "7f07ce0b4993cace",
     "titleHash": "bdfe8c72bf6ec63a",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-19T16:46:36.133Z"
+  },
+  {
+    "itemId": "MLB5204974907",
+    "productKey": "7cea41114e64d915",
+    "titleHash": "71c36229283c5f66",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-19T17:01:34.129Z"
+  },
+  {
+    "itemId": "MLB4811679961",
+    "productKey": "d6bd91ef4ba8fc6d",
+    "titleHash": "3610ef804ca50ebb",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-19T17:01:34.129Z"
   }
 ]
