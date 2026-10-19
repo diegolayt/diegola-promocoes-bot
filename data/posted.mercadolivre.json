@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3171370808",
-    "productKey": "0f4e16548e902113",
-    "titleHash": "392c33d8863a7295",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-15T08:46:22.929Z"
-  },
-  {
-    "itemId": "MLB3556275459",
-    "productKey": "f8860107ce3c1512",
-    "titleHash": "62799891c9cef2b5",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-15T08:46:22.930Z"
-  },
-  {
     "itemId": "MLB5360584539",
     "productKey": "4755b979c3c045a4",
     "titleHash": "f202ae7974835d43",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-19T07:01:31.175Z"
+  },
+  {
+    "itemId": "MLB3417755047",
+    "productKey": "268fde5a5ed21950",
+    "titleHash": "5806263d0b543f99",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-19T07:16:24.983Z"
+  },
+  {
+    "itemId": "MLB6802905778",
+    "productKey": "5b2763cb9e9d95a2",
+    "titleHash": "4aefd666fba0af2c",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-19T07:16:24.983Z"
   }
 ]
