@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4086840733",
+      "site_id": "MLB",
+      "seller_id": 234000251,
+      "accepts_mercadopago": true,
+      "price": 519,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 942,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 9.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3094548845",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17003267",
+      "title": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_998097-MLA115435101684_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17003267",
+      "id": "MLB4086840733",
+      "sold_quantity": 1100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-19T14:16:29.644Z"
+}
