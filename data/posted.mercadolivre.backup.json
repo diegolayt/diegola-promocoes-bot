@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6611494338",
-    "productKey": "22c1ab81d170e902",
-    "titleHash": "59b69a48e3f7ae93",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-15T04:16:24.461Z"
-  },
-  {
     "itemId": "MLB5002942623",
     "productKey": "bc83df21726f1846",
     "titleHash": "89aefc55a86b317a",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-19T02:16:28.670Z"
+  },
+  {
+    "itemId": "MLB6149410898",
+    "productKey": "132b0615b1b8f5b3",
+    "titleHash": "1366291730a2460a",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-19T02:31:31.496Z"
   }
 ]
