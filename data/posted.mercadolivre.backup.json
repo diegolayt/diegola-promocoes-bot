@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4747976917",
-    "productKey": "1c0c2cfead503f62",
-    "titleHash": "4092e4d6763c3705",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-15T12:46:33.062Z"
-  },
-  {
     "itemId": "MLB7693128360",
     "productKey": "fee0803db3fdd4f9",
     "titleHash": "036294730bf79c55",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-19T14:16:29.643Z"
+  },
+  {
+    "itemId": "MLB6136459450",
+    "productKey": "01b83afad55f31c1",
+    "titleHash": "84ad45755322ea1e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-19T14:31:30.730Z"
   }
 ]
