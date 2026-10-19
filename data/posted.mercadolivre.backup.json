@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6802905778",
-    "productKey": "5b2763cb9e9d95a2",
-    "titleHash": "4aefd666fba0af2c",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-15T08:01:29.890Z"
-  },
-  {
     "itemId": "MLB3417755047",
     "productKey": "268fde5a5ed21950",
     "titleHash": "5806263d0b543f99",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-19T06:16:24.958Z"
+  },
+  {
+    "itemId": "MLB7578902582",
+    "productKey": "d4f1c2d7935fb51a",
+    "titleHash": "c43f9a10d7dcc8fa",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-19T06:31:31.330Z"
   }
 ]
