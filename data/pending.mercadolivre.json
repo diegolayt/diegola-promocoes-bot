@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4083441037",
+      "site_id": "MLB",
+      "seller_id": 1842726557,
+      "accepts_mercadopago": true,
+      "price": 215,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3562,
+      "original_price": 659,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQsFHVTg4NzY",
+          "name": "Água Branca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3212835857",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46202402",
+      "title": "Smartwatch HUAWEI Band 10 Caixa de Polímeros Duráveis Análise do Sono em Nível Profissional Assistente de Bem-estar Emocional Relógio Smartwatch Compatível com Android e iOS Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_772291-MLA100008466405_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46202402",
+      "id": "MLB4083441037",
+      "sold_quantity": 1900,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB4391994143",
+      "site_id": "MLB",
+      "seller_id": 185638169,
+      "accepts_mercadopago": true,
+      "price": 388,
+      "category_id": "MLB72503",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 874,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 62.04
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBPUkJFODUy",
+          "name": "Portal de Jacaraípe"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3670342942",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26208174",
+      "title": "Climatizador Ar Frio Portátil Evaporativo 16 Litros Umidificador Ventisol Clin 16",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_791654-MLA119033069579_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26208174",
+      "id": "MLB4391994143",
+      "sold_quantity": 1500,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-19T08:01:33.996Z"
+}
