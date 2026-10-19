@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4234612519",
-    "productKey": "8966f7090ac1116d",
-    "titleHash": "0257198e68c33f08",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-15T09:46:25.822Z"
-  },
-  {
-    "itemId": "MLB7511726468",
-    "productKey": "70d0d929e25bfba8",
-    "titleHash": "d2bf0fa599588fcb",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-15T09:46:25.822Z"
-  },
-  {
-    "itemId": "MLB3746185363",
-    "productKey": "ed3df50a2cbf5f8f",
-    "titleHash": "b659e2c201fc5062",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-15T10:01:30.973Z"
-  },
-  {
     "itemId": "MLB5400923188",
     "productKey": "8b22be28b8f4d3bd",
     "titleHash": "7866188a6d14a530",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-19T08:16:27.749Z"
+  },
+  {
+    "itemId": "MLB5424041486",
+    "productKey": "a69c89af46f539e7",
+    "titleHash": "47a732733919029b",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-19T08:31:33.737Z"
+  },
+  {
+    "itemId": "MLB5062891033",
+    "productKey": "cc7b6f9694e26e07",
+    "titleHash": "28260572dc6461e9",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-19T08:31:33.737Z"
+  },
+  {
+    "itemId": "MLB7723215840",
+    "productKey": "cd6908a1373b2654",
+    "titleHash": "08f953c8f96c4c54",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-19T08:31:33.737Z"
   }
 ]
