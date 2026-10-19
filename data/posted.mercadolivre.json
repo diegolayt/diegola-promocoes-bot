@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5384455335",
-    "productKey": "61acc6206dd6d6c7",
-    "titleHash": "3efdbe58a4eae5ea",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-15T03:16:21.916Z"
-  },
-  {
-    "itemId": "MLB4958284047",
-    "productKey": "1709bfa6336e67ee",
-    "titleHash": "6399c32607f735b0",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-15T03:31:25.805Z"
-  },
-  {
     "itemId": "MLB7723793010",
     "productKey": "d39b1ecff1553030",
     "titleHash": "589e36cf1c58b931",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-19T01:01:34.703Z"
+  },
+  {
+    "itemId": "MLB7144319244",
+    "productKey": "3b6eb982e74b6702",
+    "titleHash": "889a963d1c9bef64",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-19T01:16:30.961Z"
+  },
+  {
+    "itemId": "MLB7496635486",
+    "productKey": "8ae7405dd918a2cd",
+    "titleHash": "8e1453fbe72a1d3d",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-19T01:16:30.961Z"
   }
 ]
