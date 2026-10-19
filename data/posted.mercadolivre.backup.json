@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7640283008",
-    "productKey": "7f07ce0b4993cace",
-    "titleHash": "bdfe8c72bf6ec63a",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-15T16:01:29.051Z"
-  },
-  {
-    "itemId": "MLB7803014684",
-    "productKey": "ceaea8496330561a",
-    "titleHash": "dab03d2d1a5cb4d4",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-15T16:01:29.051Z"
-  },
-  {
-    "itemId": "MLB6949268730",
-    "productKey": "6e158df3dcbb96cd",
-    "titleHash": "639b847efcd22948",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-15T16:16:26.486Z"
-  },
-  {
     "itemId": "MLB5205579974",
     "productKey": "a8251bc98e70126a",
     "titleHash": "3d01cd9c39438f12",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-19T17:01:34.129Z"
+  },
+  {
+    "itemId": "MLB7238039802",
+    "productKey": "cc28a8a0479860e3",
+    "titleHash": "8835b2ef394c928f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-19T17:16:28.282Z"
+  },
+  {
+    "itemId": "MLB6746275550",
+    "productKey": "0129e0ad07cd5b49",
+    "titleHash": "254070ed90aabce5",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-19T17:16:28.282Z"
+  },
+  {
+    "itemId": "MLB4537371835",
+    "productKey": "cb0374b29bdf7cf4",
+    "titleHash": "6765def2c424013a",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-19T17:16:28.282Z"
   }
 ]
