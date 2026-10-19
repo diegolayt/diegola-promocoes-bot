@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4483842387",
-    "productKey": "6ae9b8d7d9d10774",
-    "titleHash": "9294edea4271c7e2",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-15T19:31:28.181Z"
-  },
-  {
-    "itemId": "MLB4415031943",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-15T19:46:27.154Z"
-  },
-  {
-    "itemId": "MLB3845254515",
-    "productKey": "c51898934732d05c",
-    "titleHash": "2f77857bd51fad93",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-15T19:46:27.154Z"
-  },
-  {
     "itemId": "MLB7457438836",
     "productKey": "45808aef9e36af2b",
     "titleHash": "0fed13623550fa42",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-19T21:01:31.499Z"
+  },
+  {
+    "itemId": "MLB5219998762",
+    "productKey": "ab0f5abeb7d01b34",
+    "titleHash": "3dd9c056269296af",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-19T21:16:28.926Z"
+  },
+  {
+    "itemId": "MLB4091456221",
+    "productKey": "40f3ce023dcaf098",
+    "titleHash": "43b0e8b2f3e2ee28",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-19T21:16:28.926Z"
+  },
+  {
+    "itemId": "MLB4256696421",
+    "productKey": "e6ad6b20e76f3aca",
+    "titleHash": "63fbb386c85e9033",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-19T21:16:28.926Z"
   }
 ]
