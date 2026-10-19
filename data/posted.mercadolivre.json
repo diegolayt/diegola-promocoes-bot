@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4139379039",
-    "productKey": "530adb1e22063ecb",
-    "titleHash": "3d1d71a4e21325bc",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-15T18:01:32.759Z"
-  },
-  {
-    "itemId": "MLB5361384028",
-    "productKey": "39b3b032945eb7a1",
-    "titleHash": "ad51142e02d9d328",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-15T18:16:22.886Z"
-  },
-  {
     "itemId": "MLB4256696421",
     "productKey": "e6ad6b20e76f3aca",
     "titleHash": "63fbb386c85e9033",
@@ -4798,5 +4782,21 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-19T19:31:32.103Z"
+  },
+  {
+    "itemId": "MLB5151947605",
+    "productKey": "c46d283d33986d75",
+    "titleHash": "87531ed1d9562ed5",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-19T19:46:22.485Z"
+  },
+  {
+    "itemId": "MLB4320329461",
+    "productKey": "ec1a0f6646947a52",
+    "titleHash": "8194a721d6cd8807",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-19T19:46:22.485Z"
   }
 ]
