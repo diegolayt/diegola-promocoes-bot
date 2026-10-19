@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4371605519",
-    "productKey": "2a86db727b2c5887",
-    "titleHash": "a6e7bc74d0fd88c8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-15T14:46:22.901Z"
-  },
-  {
     "itemId": "MLB5681133066",
     "productKey": "7335295731f87564",
     "titleHash": "8f2edb66e9dc7cb0",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-10-19T16:01:31.401Z"
+  },
+  {
+    "itemId": "MLB1630337787",
+    "productKey": "d22fa65cdb3c5323",
+    "titleHash": "61315aeef9dd29e4",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-19T16:16:26.053Z"
   }
 ]
