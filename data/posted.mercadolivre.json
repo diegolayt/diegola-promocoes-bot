@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5447220018",
-    "productKey": "9f620b521d231202",
-    "titleHash": "8ebbebef839099e6",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-15T07:16:26.110Z"
-  },
-  {
     "itemId": "MLB7029983022",
     "productKey": "195addb9e0cb3945",
     "titleHash": "0cb54f54b1ae9faf",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-19T05:46:26.285Z"
+  },
+  {
+    "itemId": "MLB3269837602",
+    "productKey": "eb39781cba8c5ba7",
+    "titleHash": "426a6f9f42d285c9",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-19T06:01:33.365Z"
   }
 ]
