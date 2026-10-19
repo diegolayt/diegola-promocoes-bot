@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5347312473",
-    "productKey": "1317d74e4994bd84",
-    "titleHash": "9c2438faaf66bd09",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-15T04:01:34.421Z"
-  },
-  {
     "itemId": "MLB6611494338",
     "productKey": "22c1ab81d170e902",
     "titleHash": "59b69a48e3f7ae93",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-19T02:01:39.556Z"
+  },
+  {
+    "itemId": "MLB5410636044",
+    "productKey": "268fe1dcba87ee28",
+    "titleHash": "0b023d35ca0abbf6",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-19T02:16:28.670Z"
   }
 ]
