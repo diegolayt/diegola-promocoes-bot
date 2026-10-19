@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4811259715",
-    "productKey": "7abc3c7eceaff66c",
-    "titleHash": "0770fcd7bab16021",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-15T04:16:24.461Z"
-  },
-  {
     "itemId": "MLB4571210341",
     "productKey": "163a58eb61a4412f",
     "titleHash": "bbadc9cd22e0fc10",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-19T02:46:27.775Z"
+  },
+  {
+    "itemId": "MLB7651440108",
+    "productKey": "61acc6206dd6d6c7",
+    "titleHash": "3efdbe58a4eae5ea",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-19T03:01:32.391Z"
   }
 ]
