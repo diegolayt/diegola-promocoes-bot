@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4256696421",
-    "productKey": "e6ad6b20e76f3aca",
-    "titleHash": "63fbb386c85e9033",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-15T18:16:22.887Z"
-  },
-  {
-    "itemId": "MLB5219998762",
-    "productKey": "ab0f5abeb7d01b34",
-    "titleHash": "3dd9c056269296af",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-15T18:31:28.546Z"
-  },
-  {
-    "itemId": "MLB7811586388",
-    "productKey": "536062fd315b63f7",
-    "titleHash": "563a02a9817e7c16",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-15T18:31:28.546Z"
-  },
-  {
-    "itemId": "MLB4513056610",
-    "productKey": "a6c9a899dbe6cf71",
-    "titleHash": "6733c606fc453816",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-15T18:46:24.791Z"
-  },
-  {
     "itemId": "MLB7735898720",
     "productKey": "40f3ce023dcaf098",
     "titleHash": "43b0e8b2f3e2ee28",
@@ -4798,5 +4766,37 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-19T19:46:22.485Z"
+  },
+  {
+    "itemId": "MLB7071683146",
+    "productKey": "effe01c14b60bca6",
+    "titleHash": "49622d31b2a212fe",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-19T20:16:25.286Z"
+  },
+  {
+    "itemId": "MLB7149675174",
+    "productKey": "f88cd67de76efd80",
+    "titleHash": "14deb3731385e2e7",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-19T20:16:25.286Z"
+  },
+  {
+    "itemId": "MLB5770130082",
+    "productKey": "e6db9c07805af9aa",
+    "titleHash": "89577e9cd55fb731",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-19T20:16:25.286Z"
+  },
+  {
+    "itemId": "MLB4510716635",
+    "productKey": "96bfc114c48aa30f",
+    "titleHash": "9a0370adc8c05f42",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-19T20:16:25.286Z"
   }
 ]
