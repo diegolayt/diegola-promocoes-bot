@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3834613632",
+      "site_id": "MLB",
+      "seller_id": 141847129,
+      "accepts_mercadopago": true,
+      "price": 65.48,
+      "category_id": "MLB122102",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 74626,
+      "original_price": 100,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUmliZWlyw6NvIFByZXRvVFV4Q1VGTkJUM",
+          "name": "Ribeirão Preto"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUGFycXVlIEluZHVzdHJpYWwgTGFnb2lua",
+          "name": "Parque Industrial Lagoinha"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU1975874486",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19548535",
+      "title": "Super Whey Protein Refil 900g Max Titanium Sabor Morango",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_813467-MLA112393792119_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19548535",
+      "id": "MLB3834613632",
+      "sold_quantity": 900,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-19T11:46:27.750Z"
+}
