@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7626257738",
-    "productKey": "04c56c962164b38f",
-    "titleHash": "141edb12252b5fbc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-15T22:16:22.264Z"
-  },
-  {
-    "itemId": "MLB5400417383",
-    "productKey": "9cb47f553c7cb85e",
-    "titleHash": "62c54a9500e1296b",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-15T22:31:25.288Z"
-  },
-  {
-    "itemId": "MLB5387313391",
-    "productKey": "24537fafde73d315",
-    "titleHash": "7d384b5d8ba79ed8",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-15T22:31:25.289Z"
-  },
-  {
     "itemId": "MLB7770409132",
     "productKey": "fdc728f28239c079",
     "titleHash": "866d48520fac2cd5",
@@ -4798,5 +4774,29 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-19T23:01:34.834Z"
+  },
+  {
+    "itemId": "MLB3897807155",
+    "productKey": "faec2e4d8d4b7bcc",
+    "titleHash": "81b88b0bc1856a15",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-19T23:16:28.554Z"
+  },
+  {
+    "itemId": "MLB4918720209",
+    "productKey": "3ad28d3ab7cdc3e1",
+    "titleHash": "0dce5e6573583672",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-19T23:16:28.554Z"
+  },
+  {
+    "itemId": "MLB5305949711",
+    "productKey": "2747814ce2da6c46",
+    "titleHash": "07a27ab6469c0759",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-19T23:16:28.554Z"
   }
 ]
