@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7490908784",
+      "site_id": "MLB",
+      "seller_id": 1014958049,
+      "accepts_mercadopago": true,
+      "price": 197.47,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4136,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 12.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1VCRWE4YTU2",
+          "name": "Uberlândia"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQkRJUzlDQURF",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1971700861",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25554105",
+      "title": "Ventilador Mallory Coluna Éolo 40cm Cor Da Estrutura Preto Cor Das Pás grafite Diâmetro 40 Cm 6 pás",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_738001-MLU77320034749_062024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25554105",
+      "id": "MLB7490908784",
+      "sold_quantity": 100,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-19T20:46:24.222Z"
+}
