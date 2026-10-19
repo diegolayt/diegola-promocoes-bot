@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4047390953",
-    "productKey": "f38a3304dccc5642",
-    "titleHash": "bb7882e2da4716bd",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-15T09:16:20.329Z"
-  },
-  {
     "itemId": "MLB6906628416",
     "productKey": "afdc8b9a0fdca6b9",
     "titleHash": "e6c7a1e4ae50579a",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-19T07:31:26.411Z"
+  },
+  {
+    "itemId": "MLB7703233082",
+    "productKey": "4755b979c3c045a4",
+    "titleHash": "f202ae7974835d43",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-19T07:46:23.082Z"
   }
 ]
