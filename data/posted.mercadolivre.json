@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2748787238",
-    "productKey": "29a167728a58669c",
-    "titleHash": "a40852fe2e7ef3d0",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-15T12:16:26.298Z"
-  },
-  {
     "itemId": "MLB6031639350",
     "productKey": "afbff89ee85c38b5",
     "titleHash": "bae5a48604e386ea",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-19T13:31:28.938Z"
+  },
+  {
+    "itemId": "MLB4607832095",
+    "productKey": "abdd2f1282b8b459",
+    "titleHash": "0a380cdcd01571d6",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-19T13:46:28.779Z"
   }
 ]
