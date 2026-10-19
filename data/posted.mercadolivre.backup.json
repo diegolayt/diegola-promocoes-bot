@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6992339618",
-    "productKey": "bbc689030a50ec02",
-    "titleHash": "fcc9074de14ea86a",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-15T07:16:26.110Z"
-  },
-  {
     "itemId": "MLB5447220018",
     "productKey": "9f620b521d231202",
     "titleHash": "8ebbebef839099e6",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-19T05:31:30.790Z"
+  },
+  {
+    "itemId": "MLB4755857128",
+    "productKey": "79d5c8260fac4419",
+    "titleHash": "8d80c6d8b8751a60",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-19T05:46:26.285Z"
   }
 ]
