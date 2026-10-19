@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4279453765",
+      "site_id": "MLB",
+      "seller_id": 50077831,
+      "accepts_mercadopago": true,
+      "price": 501.49,
+      "category_id": "MLB63312",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 365 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 1156.23,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NIQTEyNmVk",
+          "name": "Chapecó"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTzdCNUE",
+          "name": "São Cristovão"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 365,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "365 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3528462208",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB40656539",
+      "title": "Starlink Mini Kit Antena Satélite com Roteador Wi-Fi",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_799612-MLA95359719699_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB40656539",
+      "id": "MLB4279453765",
+      "sold_quantity": 2000,
+      "rotationCategory": "redes",
+      "sourceCategoryId": "MLB1700",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6695260200",
+      "site_id": "MLB",
+      "seller_id": 518092731,
+      "accepts_mercadopago": true,
+      "price": 74.8,
+      "category_id": "MLB264874",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "catalog_boost",
+        "kit_component",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4017,
+      "original_price": 88,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Itapevi"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3915762267",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB68915199",
+      "title": "Principia Kit Hidratação E Proteção Facial Ch-o1 + Ps-01 Todo Tipo De Pele Dia/noite",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_628874-MLA111086008543_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB68915199",
+      "id": "MLB6695260200",
+      "sold_quantity": 1200,
+      "rotationCategory": "pele",
+      "sourceCategoryId": "MLB199407",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-19T09:31:33.055Z"
+}

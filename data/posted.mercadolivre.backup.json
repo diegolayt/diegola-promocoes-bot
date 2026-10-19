@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4108132843",
-    "productKey": "b8b821ebbc3d00cc",
-    "titleHash": "015f139068ee71d9",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-15T10:31:32.884Z"
-  },
-  {
-    "itemId": "MLB4644267817",
-    "productKey": "f404f4d48a375164",
-    "titleHash": "4ecc5e6577f6dfe7",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-15T10:31:32.884Z"
-  },
-  {
     "itemId": "MLB4836902343",
     "productKey": "66c7b386fec7fb85",
     "titleHash": "07d3743c349b4b43",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-19T09:16:27.167Z"
+  },
+  {
+    "itemId": "MLB4279453765",
+    "productKey": "8be3319e521559cd",
+    "titleHash": "23cf86b709b0138e",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-19T09:31:33.053Z"
+  },
+  {
+    "itemId": "MLB6695260200",
+    "productKey": "ee8fd5861a3c2696",
+    "titleHash": "f8bfd64d734b86ee",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-19T09:31:33.053Z"
   }
 ]
