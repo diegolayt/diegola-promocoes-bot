@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5360584539",
-    "productKey": "4755b979c3c045a4",
-    "titleHash": "f202ae7974835d43",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-15T08:46:22.930Z"
-  },
-  {
     "itemId": "MLB4047390953",
     "productKey": "f38a3304dccc5642",
     "titleHash": "bb7882e2da4716bd",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-19T07:16:24.983Z"
+  },
+  {
+    "itemId": "MLB3797364569",
+    "productKey": "96983e4185e3eef7",
+    "titleHash": "f469ce3c49a26e01",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-19T07:31:26.411Z"
   }
 ]
