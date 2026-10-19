@@ -1,0 +1,158 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6600701296",
+      "site_id": "MLB",
+      "seller_id": 571954063,
+      "accepts_mercadopago": true,
+      "price": 104.9,
+      "category_id": "MLB244658",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "fvf_discount_item",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 143504,
+      "original_price": 188.1,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3563987587",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63904966",
+      "title": "Kit 10 Potes Vidro Hermetico Vai Ao Forno Microondas 640ml Marmita Hermético Freezer Fitness Rishon",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_895409-MLA117834564002_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63904966",
+      "id": "MLB6600701296",
+      "sold_quantity": 2000,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3171370808",
+      "site_id": "MLB",
+      "seller_id": 310666279,
+      "accepts_mercadopago": true,
+      "price": 71.88,
+      "category_id": "MLB122102",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "channel_fixed",
+        "has_published_clips",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1577,
+      "original_price": 125.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYVmlsYSBQcm9ncmVzc29UVmhZU25WdVpHb",
+          "name": "Vila Progresso"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1971178854",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB21140487",
+      "title": "Prohibido Pré Treino 360g - Sabor: Cotton Candy - A Combinação Perfeita De 8 Ingredientes Que Proporcionam Energia Do Início Ao Fim Do Seu Treino",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_621004-MLA115733343677_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB21140487",
+      "id": "MLB3171370808",
+      "sold_quantity": 300,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-19T08:16:27.751Z"
+}

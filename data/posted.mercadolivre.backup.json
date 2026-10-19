@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5199863551",
-    "productKey": "8be3319e521559cd",
-    "titleHash": "23cf86b709b0138e",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-15T09:16:20.329Z"
-  },
-  {
-    "itemId": "MLB6695260200",
-    "productKey": "ee8fd5861a3c2696",
-    "titleHash": "f8bfd64d734b86ee",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-15T09:31:30.994Z"
-  },
-  {
     "itemId": "MLB4234612519",
     "productKey": "8966f7090ac1116d",
     "titleHash": "0257198e68c33f08",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-19T08:01:33.994Z"
+  },
+  {
+    "itemId": "MLB6600701296",
+    "productKey": "fce93ca31cf80312",
+    "titleHash": "5b667c93b09dd618",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-19T08:16:27.749Z"
+  },
+  {
+    "itemId": "MLB3171370808",
+    "productKey": "0f4e16548e902113",
+    "titleHash": "392c33d8863a7295",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-19T08:16:27.749Z"
   }
 ]
