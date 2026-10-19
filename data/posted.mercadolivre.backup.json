@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3917376669",
-    "productKey": "bb0210ae17eea6d0",
-    "titleHash": "323bf31f9fa959bb",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-15T16:31:33.054Z"
-  },
-  {
-    "itemId": "MLB4403114155",
-    "productKey": "c46d283d33986d75",
-    "titleHash": "87531ed1d9562ed5",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-15T16:46:27.058Z"
-  },
-  {
     "itemId": "MLB7812754282",
     "productKey": "a1085792541f2e70",
     "titleHash": "d8faca7aab92efc8",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-19T17:31:30.011Z"
+  },
+  {
+    "itemId": "MLB5274910975",
+    "productKey": "d4b61b68ddb2f8d0",
+    "titleHash": "1d327597d8aaca1c",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-19T18:01:38.749Z"
+  },
+  {
+    "itemId": "MLB5238469569",
+    "productKey": "cf31f194e5125ea5",
+    "titleHash": "53f465883ca4f30e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-19T18:01:38.749Z"
   }
 ]
