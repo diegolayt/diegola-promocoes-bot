@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB2720108621",
-    "productKey": "bc671c6efd514d42",
-    "titleHash": "c7204587a86680fc",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-16T00:16:26.282Z"
-  },
-  {
-    "itemId": "MLB4080089661",
-    "productKey": "2e3f4ccf8d0a47fe",
-    "titleHash": "90b2562924cee160",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-16T00:31:30.495Z"
-  },
-  {
     "itemId": "MLB5173083245",
     "productKey": "55fae1bf40b618cf",
     "titleHash": "2c0a170468ff47ea",
@@ -4798,5 +4782,21 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-10-20T01:01:34.691Z"
+  },
+  {
+    "itemId": "MLB7845631806",
+    "productKey": "04c56c962164b38f",
+    "titleHash": "141edb12252b5fbc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-20T01:16:28.573Z"
+  },
+  {
+    "itemId": "MLB4862019629",
+    "productKey": "c2a977cf56ca2408",
+    "titleHash": "c6746d1c5883f26a",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-20T01:16:28.573Z"
   }
 ]
