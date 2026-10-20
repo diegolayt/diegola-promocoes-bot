@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3964141405",
-    "productKey": "b849aecceecc26bb",
-    "titleHash": "75843a77cef6ba61",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-15T23:31:23.969Z"
-  },
-  {
-    "itemId": "MLB4735701897",
-    "productKey": "125a02479dbb4f92",
-    "titleHash": "343c08618531971b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-15T23:31:23.969Z"
-  },
-  {
     "itemId": "MLB5472112506",
     "productKey": "56904ab5dc84f89a",
     "titleHash": "1db72bf5ac1dec28",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-20T00:16:27.916Z"
+  },
+  {
+    "itemId": "MLB6740889694",
+    "productKey": "4e8dd9fe40e8f539",
+    "titleHash": "6859c19609c4f4eb",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-20T00:31:31.177Z"
+  },
+  {
+    "itemId": "MLB7847935886",
+    "productKey": "234eb23fabd5e309",
+    "titleHash": "97ece075e5b54bac",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-20T00:31:31.178Z"
   }
 ]
