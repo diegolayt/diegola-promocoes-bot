@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6246809052",
-    "productKey": "27482fda8b372737",
-    "titleHash": "2a9d9052071de1ee",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-16T22:01:34.063Z"
-  },
-  {
-    "itemId": "MLB4647847848",
-    "productKey": "5214251f2a0e2de8",
-    "titleHash": "59ba011eeb15abff",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-16T22:16:33.034Z"
-  },
-  {
-    "itemId": "MLB5138133623",
-    "productKey": "c5543c055f84df02",
-    "titleHash": "83b9bfbc76707c67",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-16T22:31:36.138Z"
-  },
-  {
     "itemId": "MLB3142759148",
     "productKey": "61c4fd9ccef67094",
     "titleHash": "27390b548441be76",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-20T19:01:43.428Z"
+  },
+  {
+    "itemId": "MLB6972021044",
+    "productKey": "5a24c3485e043a19",
+    "titleHash": "ca2038c29bdfa6f9",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-10-20T19:16:26.712Z"
+  },
+  {
+    "itemId": "MLB3510923883",
+    "productKey": "3281542ebae1f6e6",
+    "titleHash": "971df868445cdbf2",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-20T19:16:26.712Z"
+  },
+  {
+    "itemId": "MLB7589529770",
+    "productKey": "b5ad29d95fd238f3",
+    "titleHash": "ea85bf34ab65059e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-20T19:16:26.712Z"
   }
 ]
