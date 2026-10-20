@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3142759148",
-    "productKey": "61c4fd9ccef67094",
-    "titleHash": "27390b548441be76",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-16T22:31:36.138Z"
-  },
-  {
-    "itemId": "MLB4449888791",
-    "productKey": "735f5df2782173d2",
-    "titleHash": "1df3875054cdeb21",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-16T22:46:28.853Z"
-  },
-  {
     "itemId": "MLB4592569844",
     "productKey": "8e754a84d4cb7d6c",
     "titleHash": "739fe962804bde10",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-20T19:16:26.712Z"
+  },
+  {
+    "itemId": "MLB5979493700",
+    "productKey": "ef4a8ade7356b7de",
+    "titleHash": "884030f96bc8b69d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-20T19:31:31.526Z"
+  },
+  {
+    "itemId": "MLB7834073238",
+    "productKey": "6325cecbb66a769a",
+    "titleHash": "7ff317b46af6b060",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-20T19:31:31.526Z"
   }
 ]
