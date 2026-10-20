@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4080129257",
-    "productKey": "af820b348134d83b",
-    "titleHash": "d493cf2c7041c857",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-16T13:16:30.185Z"
-  },
-  {
     "itemId": "MLB7735395798",
     "productKey": "423754fcafb59c0b",
     "titleHash": "2e54e63e8ac79d09",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-20T11:16:32.529Z"
+  },
+  {
+    "itemId": "MLB5305023129",
+    "productKey": "93bb47f82e87cb49",
+    "titleHash": "12b42c32cc8ca236",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-20T11:31:32.599Z"
   }
 ]
