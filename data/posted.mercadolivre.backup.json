@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4911390149",
-    "productKey": "8ac6a3da887d8dd2",
-    "titleHash": "fa56b3e7365d1074",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-16T09:16:24.224Z"
-  },
-  {
     "itemId": "MLB4789637491",
     "productKey": "30428afb79b31575",
     "titleHash": "64c4bc9f4147c80a",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-20T07:46:24.466Z"
+  },
+  {
+    "itemId": "MLB2760522602",
+    "productKey": "b657492b7e761bf0",
+    "titleHash": "28f7e1efba05bb5f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-20T08:01:34.295Z"
   }
 ]
