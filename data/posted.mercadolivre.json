@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4904094632",
-    "productKey": "9ee46f646c4f61c2",
-    "titleHash": "f8b77aa9bf7772c8",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-16T05:16:26.401Z"
-  },
-  {
-    "itemId": "MLB7597828630",
-    "productKey": "05fecf4ea78a1c4f",
-    "titleHash": "3eed32b99fc6ecc2",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-16T05:16:26.401Z"
-  },
-  {
     "itemId": "MLB5256219731",
     "productKey": "de4eec9097d88bdb",
     "titleHash": "a7e96d3a24f5bc62",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-20T04:31:29.278Z"
+  },
+  {
+    "itemId": "MLB2793858589",
+    "productKey": "f9c9f95b02069373",
+    "titleHash": "b31fa1afffc4e593",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-20T04:46:23.433Z"
+  },
+  {
+    "itemId": "MLB4898621085",
+    "productKey": "9aaaf7db99c08c54",
+    "titleHash": "a41ee2faa78cd597",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-20T04:46:23.433Z"
   }
 ]
