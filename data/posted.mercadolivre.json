@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5453768702",
-    "productKey": "1e72b10c2d56b5c5",
-    "titleHash": "61eecff36e47aa73",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-16T15:16:07.123Z"
-  },
-  {
     "itemId": "MLB5408541396",
     "productKey": "07d55cd5bc2fcbd6",
     "titleHash": "1ce6265d54d5cadb",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-10-20T13:16:29.613Z"
+  },
+  {
+    "itemId": "MLB7735395798",
+    "productKey": "423754fcafb59c0b",
+    "titleHash": "2e54e63e8ac79d09",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-20T13:31:29.336Z"
   }
 ]
