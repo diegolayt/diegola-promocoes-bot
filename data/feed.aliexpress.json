@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005009400899124",
+  "loja": "aliexpress",
+  "titulo": "Placa-mãe MACHINIST B450 AM4 AMD Suporta CPUs Ryzen 5500 5600 5600G, Memória DDR4, Desktop PC Dual-channel M-ATX M.2 NVME",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S9eecfc8d00954e6591e0cf0d556e9817W.jpg",
+  "preco": 412.99,
+  "precoDe": 581.68,
+  "link": "https://s.click.aliexpress.com/e/_c3Q5MQGv",
+  "vendidos": 71,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_placa_mae",
+  "publicadoEm": "2026-10-20T20:15:55.196Z"
+ },
+ {
+  "id": "aliexpress-1005012564982878",
+  "loja": "aliexpress",
+  "titulo": "Placa-Mãe MACHINIST X99 F-X9D LGA2011-3 Kits Opcionais CPU E5 2680 V4 + RAM DDR4 32GB Chip C612 Suporte Quatro Canais ARGB TPM2.0",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/See278ff18ba447d3b90521b48478f605U.jpg",
+  "preco": 578.75,
+  "precoDe": 826.79,
+  "link": "https://s.click.aliexpress.com/e/_c4krvf89",
+  "vendidos": 20,
+  "nota": 4.5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-20T20:15:46.563Z"
+ },
+ {
+  "id": "aliexpress-1005009508832766",
+  "loja": "aliexpress",
+  "titulo": "Placa-Mãe MACHINIST MR9A PRO X99 TPM 2.0 LGA2011-3 com CPU Xeon E5 2690 V3 e RAM DDR4 16GB (2*8GB) 2666MHz - Kit Opcional",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2169da544bef4b30aa7c6cc042828400I.jpg",
+  "preco": 425.99,
+  "precoDe": 852.04,
+  "link": "https://s.click.aliexpress.com/e/_c41Ub8TB",
+  "vendidos": 162,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-20T20:15:38.549Z"
+ },
+ {
+  "id": "aliexpress-1005010543618319",
+  "loja": "aliexpress",
+  "titulo": "Placa gráfica Veineda RX 580 8GB 2048SP Placa De Vídeo PC Gaming GDDR5 256Bit PCI Express 3.0 × 16 Radeon GPU rx580 8g",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5f16fb217c934855b544b02a750ff5d36.jpg",
+  "preco": 746.99,
+  "precoDe": 957.68,
+  "link": "https://s.click.aliexpress.com/e/_c4cVCmKV",
+  "vendidos": 317,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video",
+  "publicadoEm": "2026-10-20T20:15:29.185Z"
+ },
+ {
   "id": "aliexpress-1005009953999935",
   "loja": "aliexpress",
   "titulo": "QIYIDA X99 Conjunto de placa-mãe LGA2011-3 Xeon E5 2680 V4 DDR4 16GB (2x8gb) PC4 SATA PCI16x3.0 NVME M.2 Computador para jogos",
@@ -11302,34 +11358,6 @@
   "publicadoEm": "2026-10-18T17:30:35.681Z"
  },
  {
-  "id": "aliexpress-1005009400899124",
-  "loja": "aliexpress",
-  "titulo": "Placa-mãe MACHINIST B450 AM4 AMD Suporta CPUs Ryzen 5500 5600 5600G, Memória DDR4, Desktop PC Dual-channel M-ATX M.2 NVME",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S9eecfc8d00954e6591e0cf0d556e9817W.jpg",
-  "preco": 417.53,
-  "precoDe": 588.05,
-  "link": "https://s.click.aliexpress.com/e/_c4asNmkh",
-  "vendidos": 69,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_placa_mae",
-  "publicadoEm": "2026-10-18T17:30:28.538Z"
- },
- {
-  "id": "aliexpress-1005009508832766",
-  "loja": "aliexpress",
-  "titulo": "Placa-Mãe MACHINIST MR9A PRO X99 TPM 2.0 LGA2011-3 com CPU Xeon E5 2690 V3 e RAM DDR4 16GB (2*8GB) 2666MHz - Kit Opcional",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2169da544bef4b30aa7c6cc042828400I.jpg",
-  "preco": 429.92,
-  "precoDe": 859.84,
-  "link": "https://s.click.aliexpress.com/e/_c43UjBcz",
-  "vendidos": 160,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-10-18T17:15:50.912Z"
- },
- {
   "id": "aliexpress-1005005122164510",
   "loja": "aliexpress",
   "titulo": "Placa de Vídeo Veineda RX5500XT 8GB GDDR6 RX 5500XT 8G Placas de Vídeo PCI Express 4.0 X Desktop RX5500 8gb 128BiT",
@@ -11342,20 +11370,6 @@
   "categoria": "Informática",
   "fonte": "ali_placa_video_rtx",
   "publicadoEm": "2026-10-18T17:15:34.123Z"
- },
- {
-  "id": "aliexpress-1005010543618319",
-  "loja": "aliexpress",
-  "titulo": "Placa gráfica Veineda RX 580 8GB 2048SP Placa De Vídeo PC Gaming GDDR5 256Bit PCI Express 3.0 × 16 Radeon GPU rx580 8g",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5f16fb217c934855b544b02a750ff5d36.jpg",
-  "preco": 753.84,
-  "precoDe": 966.46,
-  "link": "https://s.click.aliexpress.com/e/_c3zJIujR",
-  "vendidos": 317,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_placa_video",
-  "publicadoEm": "2026-10-18T17:15:26.001Z"
  },
  {
   "id": "aliexpress-1005008637113849",
