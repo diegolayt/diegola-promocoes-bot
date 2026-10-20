@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3953336287",
-    "productKey": "8087d5827caf1d7c",
-    "titleHash": "894a48f069e4d329",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-16T12:01:31.225Z"
-  },
-  {
-    "itemId": "MLB3679704360",
-    "productKey": "c9df3c56099bd37b",
-    "titleHash": "34f9448e848ee070",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-16T12:16:32.771Z"
-  },
-  {
     "itemId": "MLB5222302551",
     "productKey": "b7be33d4bb65f733",
     "titleHash": "fc411d5e084f24e1",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-20T09:31:31.572Z"
+  },
+  {
+    "itemId": "MLB3682277189",
+    "productKey": "02983e6cebf8fe5d",
+    "titleHash": "29879c6e3f2ebbc5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-20T10:16:29.244Z"
+  },
+  {
+    "itemId": "MLB7764156062",
+    "productKey": "690d29606093b12a",
+    "titleHash": "eff4b6f329165dbf",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-20T10:16:29.244Z"
   }
 ]
