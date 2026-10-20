@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6943752224",
-    "productKey": "127b8887916baeb4",
-    "titleHash": "fa8d671112a0eeee",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-17T03:31:32.306Z"
-  },
-  {
-    "itemId": "MLB7657977886",
-    "productKey": "525cdc14fb44b9f9",
-    "titleHash": "48172cb7558886dd",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-17T03:31:32.306Z"
-  },
-  {
-    "itemId": "MLB6564848506",
-    "productKey": "e99726c12745d0a4",
-    "titleHash": "8b80f8f23c3c0fbd",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-17T03:46:23.989Z"
-  },
-  {
     "itemId": "MLB5733297138",
     "productKey": "c52b9f7e056f0fce",
     "titleHash": "d5f98a18efd59247",
@@ -4798,5 +4774,29 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-20T22:31:23.181Z"
+  },
+  {
+    "itemId": "MLB7377413084",
+    "productKey": "feb8ee0e5e78d68c",
+    "titleHash": "d21682eb23e8c1fd",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-20T22:46:31.639Z"
+  },
+  {
+    "itemId": "MLB5738738172",
+    "productKey": "9eb5fc3ffddd6db0",
+    "titleHash": "945f28db261b2b05",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-20T22:46:31.639Z"
+  },
+  {
+    "itemId": "MLB3999552063",
+    "productKey": "ee87e57884d696a9",
+    "titleHash": "4e4edaed26b653fc",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-20T22:46:31.639Z"
   }
 ]
