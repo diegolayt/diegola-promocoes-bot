@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4559000033",
-    "productKey": "5b46392a746a1583",
-    "titleHash": "bc9fa749b71a0b00",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-16T23:46:26.291Z"
-  },
-  {
-    "itemId": "MLB2751486961",
-    "productKey": "0da42abc4e07efc8",
-    "titleHash": "583334eed73b7bc4",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-17T00:01:30.255Z"
-  },
-  {
     "itemId": "MLB7820712038",
     "productKey": "57b947f0db7ebca2",
     "titleHash": "2984fb83e939dddc",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-20T19:46:26.041Z"
+  },
+  {
+    "itemId": "MLB6962939434",
+    "productKey": "c226456043f016a9",
+    "titleHash": "8cec1742dfa829f9",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-20T20:16:26.287Z"
+  },
+  {
+    "itemId": "MLB7847210158",
+    "productKey": "230f44c477955a2b",
+    "titleHash": "f00637d35c135f0b",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-20T20:16:26.287Z"
   }
 ]
