@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4908125647",
-    "productKey": "8013197dccf6a87a",
-    "titleHash": "02f2375ca6b93242",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-16T02:16:31.462Z"
-  },
-  {
-    "itemId": "MLB5100331525",
-    "productKey": "3f3b1148afa866b2",
-    "titleHash": "5f3c6ee8eb084863",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-16T02:16:31.462Z"
-  },
-  {
     "itemId": "MLB5115685447",
     "productKey": "496a44c0154a0bf4",
     "titleHash": "b0961859353c7014",
@@ -4798,5 +4782,21 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-20T02:01:33.755Z"
+  },
+  {
+    "itemId": "MLB7117184492",
+    "productKey": "7372f11b6723cc4e",
+    "titleHash": "fb74347e4aa7dcb6",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-20T02:16:28.770Z"
+  },
+  {
+    "itemId": "MLB3998137391",
+    "productKey": "56904ab5dc84f89a",
+    "titleHash": "1db72bf5ac1dec28",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-20T02:16:28.770Z"
   }
 ]
