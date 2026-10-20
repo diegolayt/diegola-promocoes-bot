@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5249234637",
-    "productKey": "3281542ebae1f6e6",
-    "titleHash": "971df868445cdbf2",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-16T19:16:25.046Z"
-  },
-  {
-    "itemId": "MLB7751552448",
-    "productKey": "c65287d4bd4790c6",
-    "titleHash": "701fe7632c6e3d92",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-16T19:31:27.374Z"
-  },
-  {
     "itemId": "MLB4286608357",
     "productKey": "0bcf0514bbf146bf",
     "titleHash": "4bdf6074887c635e",
@@ -4798,5 +4782,21 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-20T17:46:09.193Z"
+  },
+  {
+    "itemId": "MLB4067339459",
+    "productKey": "8c6368c4182d052e",
+    "titleHash": "61a703f2b686e4a3",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-20T18:01:36.590Z"
+  },
+  {
+    "itemId": "MLB6589832106",
+    "productKey": "2c2b688ed1849d8f",
+    "titleHash": "41b3bbae93bde1d9",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-20T18:01:36.591Z"
   }
 ]
