@@ -1,0 +1,243 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5506642044",
+      "site_id": "MLB",
+      "seller_id": 584911659,
+      "accepts_mercadopago": true,
+      "price": 999.9,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 60226,
+      "original_price": 1549.4,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUnQ5bXdm",
+          "name": "Parque São Miguel"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3188477843",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47137238",
+      "title": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47137238",
+      "id": "MLB5506642044",
+      "sold_quantity": 100,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB4647606299",
+      "site_id": "MLB",
+      "seller_id": 1712013823,
+      "accepts_mercadopago": true,
+      "price": 188,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "catalog_boost",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 299.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJhcmFzVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Araras"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3933344554",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB69001679",
+      "title": "Jogo De Panelas 10 Peças Antiaderente Frigideira Tampa Vidro Marfim",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_759563-MLA110194384086_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB69001679",
+      "id": "MLB4647606299",
+      "sold_quantity": 700,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7773409152",
+      "site_id": "MLB",
+      "seller_id": 3430354847,
+      "accepts_mercadopago": true,
+      "price": 78.19,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 91.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 43.687296
+      },
+      "seller_address": {
+        "city": {
+          "id": "Q290aWFUVXhDVUZOQlQwODVOMkU0",
+          "name": "Cotia"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "UGFycXVlIEluZHVzdHJpYWwgU2FuIEpvc8OpUTI5",
+          "name": "Parque Industrial San José"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5204906046",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB37237267",
+      "title": "Relógio Masculino Digital Analógico SKMEI 1146 Prata Resistente à Água 30M Com Pulseira de Aço Inoxidável, Dual Time, Cronômetro, Alarme, Luz LED, Data e Dia da Semana, Esportivo Casual, Moda Urbana",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_852477-MLA118957673271_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB37237267",
+      "id": "MLB7773409152",
+      "sold_quantity": 100,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-20T15:31:29.457Z"
+}
