@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4293579529",
-    "productKey": "cdfb876d1a77e04b",
-    "titleHash": "bef1753a1a6057f5",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-16T01:01:32.657Z"
-  },
-  {
-    "itemId": "MLB7729869888",
-    "productKey": "8b7f2439bd97f1ef",
-    "titleHash": "8c3f6e95739241e2",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-16T01:16:26.161Z"
-  },
-  {
     "itemId": "MLB5929935352",
     "productKey": "9c762775786a2c63",
     "titleHash": "c81cf6d9502de1c2",
@@ -4798,5 +4782,21 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-20T01:31:28.472Z"
+  },
+  {
+    "itemId": "MLB4924351987",
+    "productKey": "a8251bc98e70126a",
+    "titleHash": "3d01cd9c39438f12",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-20T01:46:24.085Z"
+  },
+  {
+    "itemId": "MLB5308390790",
+    "productKey": "849a2124d0a8f984",
+    "titleHash": "caed37ae9f327be6",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-20T01:46:24.085Z"
   }
 ]
