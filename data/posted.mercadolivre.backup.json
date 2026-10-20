@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6073617980",
-    "productKey": "db1a4254f93598b2",
-    "titleHash": "9cad0ec9b02cf947",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-17T02:31:28.604Z"
-  },
-  {
-    "itemId": "MLB5459718962",
-    "productKey": "a03a2d8869594efc",
-    "titleHash": "2e478d1b8ded1eb9",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-17T02:46:24.109Z"
-  },
-  {
-    "itemId": "MLB4510325461",
-    "productKey": "f55481226776a3de",
-    "titleHash": "aef1dd15b5a70088",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-17T02:46:24.109Z"
-  },
-  {
-    "itemId": "MLB5407092703",
-    "productKey": "f2cc121a987258d9",
-    "titleHash": "6d8e200943d2f5c5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-17T03:01:31.422Z"
-  },
-  {
     "itemId": "MLB6943752224",
     "productKey": "127b8887916baeb4",
     "titleHash": "fa8d671112a0eeee",
@@ -4798,5 +4766,37 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-20T22:16:26.399Z"
+  },
+  {
+    "itemId": "MLB4645451007",
+    "productKey": "439eedc782437843",
+    "titleHash": "c770bbd6140c471d",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-20T22:31:23.181Z"
+  },
+  {
+    "itemId": "MLB3411972271",
+    "productKey": "61c4fd9ccef67094",
+    "titleHash": "27390b548441be76",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-20T22:31:23.181Z"
+  },
+  {
+    "itemId": "MLB4214380631",
+    "productKey": "599342f11b3c3501",
+    "titleHash": "b8c8c51b8b202d3f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-20T22:31:23.181Z"
+  },
+  {
+    "itemId": "MLB5366185935",
+    "productKey": "37500b1a9625ab89",
+    "titleHash": "cd82b27d3ae85212",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-20T22:31:23.181Z"
   }
 ]
