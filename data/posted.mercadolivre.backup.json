@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4726600695",
-    "productKey": "f28c430b2349dd9d",
-    "titleHash": "cbc14ed247b8b10d",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-17T02:31:28.604Z"
-  },
-  {
     "itemId": "MLB6073617980",
     "productKey": "db1a4254f93598b2",
     "titleHash": "9cad0ec9b02cf947",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-20T22:01:33.826Z"
+  },
+  {
+    "itemId": "MLB4870833099",
+    "productKey": "c65287d4bd4790c6",
+    "titleHash": "701fe7632c6e3d92",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-20T22:16:26.399Z"
   }
 ]
