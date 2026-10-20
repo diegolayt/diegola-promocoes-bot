@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4286608357",
-    "productKey": "0bcf0514bbf146bf",
-    "titleHash": "4bdf6074887c635e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-16T19:46:24.199Z"
-  },
-  {
-    "itemId": "MLB5134573859",
-    "productKey": "ca96a7cdc65dd068",
-    "titleHash": "90d10515f2959749",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-16T19:46:24.199Z"
-  },
-  {
-    "itemId": "MLB7822235332",
-    "productKey": "c23c4ae08853851f",
-    "titleHash": "0476f12bca4b0188",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-16T20:31:33.174Z"
-  },
-  {
     "itemId": "MLB5112879985",
     "productKey": "50274da5b327a827",
     "titleHash": "22b4a28cffd81415",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-20T18:01:36.591Z"
+  },
+  {
+    "itemId": "MLB5886831522",
+    "productKey": "62f91e78f631ddab",
+    "titleHash": "8268204c51c89120",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-20T18:16:28.467Z"
+  },
+  {
+    "itemId": "MLB4375214645",
+    "productKey": "3179b5e87be68037",
+    "titleHash": "71ce42c5232a3d23",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-20T18:16:28.467Z"
+  },
+  {
+    "itemId": "MLB5972837798",
+    "productKey": "c45a40bf0889759e",
+    "titleHash": "7fb3749c5110ec68",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-20T18:16:28.467Z"
   }
 ]
