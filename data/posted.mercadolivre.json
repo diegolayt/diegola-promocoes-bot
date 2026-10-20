@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5321265629",
-    "productKey": "7ee93f70ba994b37",
-    "titleHash": "cbc89261a0bdc7f7",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-16T15:31:02.822Z"
-  },
-  {
     "itemId": "MLB4660482345",
     "productKey": "da8b0f32abc30663",
     "titleHash": "f0e541059e0ba400",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-20T14:01:34.338Z"
+  },
+  {
+    "itemId": "MLB4195198970",
+    "productKey": "19e579017e9bbafd",
+    "titleHash": "9bead5eecb241d6b",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-20T14:16:25.903Z"
   }
 ]
