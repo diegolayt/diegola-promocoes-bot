@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4320328839",
-    "productKey": "82877247ca948082",
-    "titleHash": "f68a2c332d7a28a9",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-16T15:46:28.088Z"
-  },
-  {
-    "itemId": "MLB6161925990",
-    "productKey": "077fe19f4736884c",
-    "titleHash": "d7b2cb595cb95e9a",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-16T16:01:32.656Z"
-  },
-  {
-    "itemId": "MLB7773409152",
-    "productKey": "d9a1640cf1b8c6e3",
-    "titleHash": "1fa95cf3ec92b68b",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-16T16:01:32.656Z"
-  },
-  {
-    "itemId": "MLB5155961497",
-    "productKey": "7c9578861b497574",
-    "titleHash": "89745bc8bec934d2",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-16T16:16:23.258Z"
-  },
-  {
     "itemId": "MLB5188416401",
     "productKey": "8754fc435a818a02",
     "titleHash": "8d2d9b3a9df7dc0c",
@@ -4798,5 +4766,37 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-20T15:01:32.266Z"
+  },
+  {
+    "itemId": "MLB6144331194",
+    "productKey": "104c62f84f8d85e8",
+    "titleHash": "2f2b1411898660ab",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-20T15:16:28.530Z"
+  },
+  {
+    "itemId": "MLB3616725881",
+    "productKey": "a254b7693fa296e6",
+    "titleHash": "25809cdf903aa3e6",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-20T15:16:28.530Z"
+  },
+  {
+    "itemId": "MLB6896033620",
+    "productKey": "125a02479dbb4f92",
+    "titleHash": "343c08618531971b",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-20T15:16:28.530Z"
+  },
+  {
+    "itemId": "MLB5359732657",
+    "productKey": "7ee93f70ba994b37",
+    "titleHash": "cbc89261a0bdc7f7",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-20T15:16:28.530Z"
   }
 ]
