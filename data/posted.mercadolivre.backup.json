@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4201839131",
-    "productKey": "a56325cf90bab0f5",
-    "titleHash": "dc5cb19db2f1630b",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-17T05:01:28.339Z"
-  },
-  {
-    "itemId": "MLB5271746817",
-    "productKey": "d4255e0a63e61dfb",
-    "titleHash": "7595d754ee6983fc",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-17T05:46:22.816Z"
-  },
-  {
     "itemId": "MLB5313190337",
     "productKey": "43b31f7e3b19a97c",
     "titleHash": "af434efe411da54e",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-20T23:01:34.802Z"
+  },
+  {
+    "itemId": "MLB5348051331",
+    "productKey": "c0b3029c49551398",
+    "titleHash": "0dea28415ed27e40",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-20T23:16:28.285Z"
+  },
+  {
+    "itemId": "MLB4559000033",
+    "productKey": "5b46392a746a1583",
+    "titleHash": "bc9fa749b71a0b00",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-20T23:16:28.285Z"
   }
 ]
