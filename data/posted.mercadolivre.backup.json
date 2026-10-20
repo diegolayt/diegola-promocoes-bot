@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2654504800",
-    "productKey": "02983e6cebf8fe5d",
-    "titleHash": "29879c6e3f2ebbc5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-16T10:46:25.677Z"
-  },
-  {
     "itemId": "MLB3579786447",
     "productKey": "44a3bea7e54cce74",
     "titleHash": "ad265b3e1f03412c",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-20T08:46:24.953Z"
+  },
+  {
+    "itemId": "MLB4150270587",
+    "productKey": "30428afb79b31575",
+    "titleHash": "64c4bc9f4147c80a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-20T09:01:39.711Z"
   }
 ]
