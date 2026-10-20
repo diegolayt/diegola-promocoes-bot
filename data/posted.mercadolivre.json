@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5112879985",
-    "productKey": "50274da5b327a827",
-    "titleHash": "22b4a28cffd81415",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-16T20:31:33.174Z"
-  },
-  {
-    "itemId": "MLB5327551864",
-    "productKey": "9180f7359eb828c8",
-    "titleHash": "334a61232386e846",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-16T20:46:22.990Z"
-  },
-  {
-    "itemId": "MLB7709046940",
-    "productKey": "ae11f27802361e7f",
-    "titleHash": "fd53318c6e50c543",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-16T21:31:28.321Z"
-  },
-  {
     "itemId": "MLB5330484555",
     "productKey": "4e7f7b1baa55e158",
     "titleHash": "d95af3217f0f612d",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-20T18:16:28.467Z"
+  },
+  {
+    "itemId": "MLB4142836978",
+    "productKey": "f764b26a37859a9e",
+    "titleHash": "8b8c5f4cc7076bed",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-20T18:31:27.877Z"
+  },
+  {
+    "itemId": "MLB5354877447",
+    "productKey": "5bbd37355bdaaca3",
+    "titleHash": "c3390cb321d1deb2",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-20T18:31:27.877Z"
+  },
+  {
+    "itemId": "MLB7772394616",
+    "productKey": "3e89fb212f1b587a",
+    "titleHash": "a70af37fa192c514",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-20T18:31:27.877Z"
   }
 ]
