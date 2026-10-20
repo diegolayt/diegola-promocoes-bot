@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4105433309",
-    "productKey": "de77083a4e6c4dab",
-    "titleHash": "adf49853a15a232f",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-16T03:31:31.524Z"
-  },
-  {
-    "itemId": "MLB5288855273",
-    "productKey": "e3a32e5e9491b448",
-    "titleHash": "1d773991864c4e55",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-16T03:31:31.524Z"
-  },
-  {
     "itemId": "MLB4725060997",
     "productKey": "022696a42b63138a",
     "titleHash": "75012a333820cee2",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-20T03:16:29.606Z"
+  },
+  {
+    "itemId": "MLB2735052332",
+    "productKey": "bc671c6efd514d42",
+    "titleHash": "c7204587a86680fc",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-20T03:31:31.007Z"
+  },
+  {
+    "itemId": "MLB5424959233",
+    "productKey": "8b7f2439bd97f1ef",
+    "titleHash": "8c3f6e95739241e2",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-20T03:31:31.008Z"
   }
 ]
