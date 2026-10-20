@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4247892213",
+      "site_id": "MLB",
+      "seller_id": 518092731,
+      "accepts_mercadopago": true,
+      "price": 105.84,
+      "category_id": "MLB264880",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "catalog_boost",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4017,
+      "original_price": 147,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "fbm_in_process",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Itapevi"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3467284370",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB59774342",
+      "title": "Principia Kit Limpeza E Hidratação Ch-01 + Ol-01 + Gl-02 Todo Tipo De Pele Dia/noite",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_609209-MLA94364515810_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB59774342",
+      "id": "MLB4247892213",
+      "sold_quantity": 1300,
+      "rotationCategory": "pele",
+      "sourceCategoryId": "MLB199407",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5150684561",
+      "site_id": "MLB",
+      "seller_id": 3575886938,
+      "accepts_mercadopago": true,
+      "price": 227.77,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 289.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRmVycmF6IGRlIFZhc2NvbmNlbG9zVFV4Q",
+          "name": "Ferraz de Vasconcelos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUGFycXVlIFPDo28gRnJhbmNpc2NvVFZoW",
+          "name": "Parque São Francisco"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5005273006",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67333761",
+      "title": "Projetor Hy320 Mini Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth Alto Falante Com Controle Remoto Bivolt Portátil Kateluo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_656772-MLA116865483177_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67333761",
+      "id": "MLB5150684561",
+      "sold_quantity": 400,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    }
+  ],
+  "reservedAt": "2026-10-20T17:01:38.105Z"
+}
