@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6182336356",
-    "productKey": "e772e6fb3830f752",
-    "titleHash": "796851ab66948329",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-16T17:46:24.149Z"
-  },
-  {
-    "itemId": "MLB7651759968",
-    "productKey": "e31c83ceab48f83b",
-    "titleHash": "880309c3e7db71f2",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-16T18:01:32.707Z"
-  },
-  {
     "itemId": "MLB5930202958",
     "productKey": "fded24791054bb1d",
     "titleHash": "bba7ae42ffd6ef51",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-20T16:16:26.534Z"
+  },
+  {
+    "itemId": "MLB5746940456",
+    "productKey": "15cbe337a1821ebb",
+    "titleHash": "eb4f571b369048dd",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-20T16:31:35.012Z"
+  },
+  {
+    "itemId": "MLB4190456415",
+    "productKey": "6a0f3de508245dc1",
+    "titleHash": "ae7ee8f191bd670b",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-20T16:31:35.013Z"
   }
 ]
