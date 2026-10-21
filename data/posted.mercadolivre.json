@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7633876088",
-    "productKey": "e7466642d6b5d025",
-    "titleHash": "325029870601ba85",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-18T01:01:28.968Z"
-  },
-  {
     "itemId": "MLB4718918529",
     "productKey": "eff4ebbdec2c8425",
     "titleHash": "ed957b2ce03ff7f5",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-21T19:01:34.655Z"
+  },
+  {
+    "itemId": "MLB5376854469",
+    "productKey": "0a78d5595a81cc3e",
+    "titleHash": "fc6752f6d5d3a273",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-21T19:16:27.294Z"
   }
 ]
