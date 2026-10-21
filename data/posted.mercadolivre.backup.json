@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7390921114",
-    "productKey": "6c831738d13143fe",
-    "titleHash": "da1d90777d90d970",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-17T15:01:27.210Z"
-  },
-  {
-    "itemId": "MLB6926098514",
-    "productKey": "f1eff9eced4a288f",
-    "titleHash": "cc08d37274c23394",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-17T15:16:26.621Z"
-  },
-  {
-    "itemId": "MLB4056119063",
-    "productKey": "58408d4b8d164d44",
-    "titleHash": "70b737e1b7d26e39",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-17T15:16:26.621Z"
-  },
-  {
     "itemId": "MLB5408698623",
     "productKey": "94044ebe0a8baedc",
     "titleHash": "192950a3187eb071",
@@ -4798,5 +4774,29 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-21T07:46:30.604Z"
+  },
+  {
+    "itemId": "MLB7457683358",
+    "productKey": "a256261d4df6f661",
+    "titleHash": "9df7cd8fcf29ae55",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-21T08:01:29.717Z"
+  },
+  {
+    "itemId": "MLB3876858111",
+    "productKey": "50811f927d6a844d",
+    "titleHash": "a24ae796cebc9cc5",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-21T08:01:29.717Z"
+  },
+  {
+    "itemId": "MLB5239047881",
+    "productKey": "b99a995b906409f9",
+    "titleHash": "e7e58aebd0fef472",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-21T08:01:29.717Z"
   }
 ]

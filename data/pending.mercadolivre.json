@@ -1,0 +1,247 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7457683358",
+      "site_id": "MLB",
+      "seller_id": 2702392140,
+      "accepts_mercadopago": true,
+      "price": 254.15,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 2 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJFTDg3NjE",
+          "name": "Bela Vista"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 2,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "2 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4599528098",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB64369743",
+      "title": "Smartwatch Bettdow Fb055 1.85\" Esportivo Ia Gps 3atm Música Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_916712-MLA104456426030_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB64369743",
+      "id": "MLB7457683358",
+      "sold_quantity": 1100,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB3876858111",
+      "site_id": "MLB",
+      "seller_id": 1932878227,
+      "accepts_mercadopago": true,
+      "price": 78.11,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "kit_component",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 54823,
+      "original_price": 99.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYVmFyZ2VtIEdyYW5kZSBkbyBTdWxUVXhDV",
+          "name": "Vargem Grande do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2285989124",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB12406685",
+      "title": "Anabolic Mass 28500 3kg Profit Labs Sabor Chocolate",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_616506-MLA110075703952_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB12406685",
+      "id": "MLB3876858111",
+      "sold_quantity": 1100,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5239047881",
+      "site_id": "MLB",
+      "seller_id": 253439304,
+      "accepts_mercadopago": true,
+      "price": 311,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTnptY2do",
+          "name": "Santa Efigênia"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5210602250",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19035706",
+      "title": "Ssd 240gb Sa400s37/240g Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_893707-MLA84846929763_052025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19035706",
+      "id": "MLB5239047881",
+      "sold_quantity": 1600,
+      "rotationCategory": "armazenamento",
+      "sourceCategoryId": "MLB430598",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-10-21T08:01:29.719Z"
+}
