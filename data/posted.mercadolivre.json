@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4090320711",
-    "productKey": "3ae67792fdb583fa",
-    "titleHash": "25054d9ac727dd22",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-17T18:46:28.930Z"
-  },
-  {
-    "itemId": "MLB7833151412",
-    "productKey": "bc04daa8ab567d61",
-    "titleHash": "f8bb3ea79829b117",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-17T18:46:28.930Z"
-  },
-  {
-    "itemId": "MLB4345564271",
-    "productKey": "79178e47f5fa7c8d",
-    "titleHash": "68370d91aa4e7d65",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-17T19:01:28.541Z"
-  },
-  {
     "itemId": "MLB5138384241",
     "productKey": "25d77da721ba1aad",
     "titleHash": "58d471363e8a624e",
@@ -4798,5 +4774,29 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-21T13:31:30.663Z"
+  },
+  {
+    "itemId": "MLB7621319132",
+    "productKey": "5c15702ed6d4f3bb",
+    "titleHash": "eab2d9165b0159cb",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-21T13:46:29.266Z"
+  },
+  {
+    "itemId": "MLB4645102377",
+    "productKey": "e1794297dc2cb2f2",
+    "titleHash": "0476e78d75cd872f",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-21T13:46:29.266Z"
+  },
+  {
+    "itemId": "MLB4094474629",
+    "productKey": "65e1d528b27f6299",
+    "titleHash": "965c2a083e3288c7",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-21T13:46:29.266Z"
   }
 ]
