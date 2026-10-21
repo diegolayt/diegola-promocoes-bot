@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7701800018",
-    "productKey": "8391a7ae62302cad",
-    "titleHash": "1f20a51ee45cd080",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-18T01:46:28.590Z"
-  },
-  {
     "itemId": "MLB5312507612",
     "productKey": "578087a6350e382a",
     "titleHash": "4e478014ed8af7a9",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-21T19:46:28.278Z"
+  },
+  {
+    "itemId": "MLB2745268073",
+    "productKey": "dc20aba18ca9661f",
+    "titleHash": "5268a2c26c99ce4b",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-21T20:01:34.345Z"
   }
 ]
