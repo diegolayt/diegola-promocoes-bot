@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5123290574",
-    "productKey": "8c76b04b8266652e",
-    "titleHash": "f095017ffecc087e",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-18T03:01:28.521Z"
-  },
-  {
-    "itemId": "MLB7718421436",
-    "productKey": "009aed6832420cbb",
-    "titleHash": "bdbe05f0ccc41716",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-18T03:16:25.347Z"
-  },
-  {
-    "itemId": "MLB3838209499",
-    "productKey": "b9ee45f2c4136d0e",
-    "titleHash": "ae8d97b0516bc2b5",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-18T03:31:29.439Z"
-  },
-  {
-    "itemId": "MLB5408988443",
-    "productKey": "c394ad5c5c8abff2",
-    "titleHash": "de87e86126411ee5",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-18T03:31:29.439Z"
-  },
-  {
     "itemId": "MLB7160567726",
     "productKey": "2b8d916b04c09f90",
     "titleHash": "e6a0bbceb4a1566b",
@@ -4798,5 +4766,37 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-21T22:31:33.112Z"
+  },
+  {
+    "itemId": "MLB5643054880",
+    "productKey": "214fc030cd4ff663",
+    "titleHash": "8f91897b121eb9ff",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-21T22:46:25.997Z"
+  },
+  {
+    "itemId": "MLB7701800018",
+    "productKey": "8391a7ae62302cad",
+    "titleHash": "1f20a51ee45cd080",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-21T22:46:25.997Z"
+  },
+  {
+    "itemId": "MLB5146610670",
+    "productKey": "b124c07810832875",
+    "titleHash": "193e39a55d48c15a",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-21T22:46:25.997Z"
+  },
+  {
+    "itemId": "MLB6107445714",
+    "productKey": "85d041b839360d1e",
+    "titleHash": "89b2d3d9c594e645",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-21T22:46:25.997Z"
   }
 ]
