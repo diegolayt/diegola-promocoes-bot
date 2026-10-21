@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4937103255",
-    "productKey": "43c350cfb5bcfa4f",
-    "titleHash": "3449650e195a39c3",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-17T13:46:23.495Z"
-  },
-  {
     "itemId": "MLB5094796875",
     "productKey": "3472274b89b121ef",
     "titleHash": "e4b1ad14a95f048b",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-21T06:16:26.878Z"
+  },
+  {
+    "itemId": "MLB6167651244",
+    "productKey": "e1fa6b0d5edc06a7",
+    "titleHash": "0a852a4ad606a43b",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-21T06:31:29.262Z"
   }
 ]
