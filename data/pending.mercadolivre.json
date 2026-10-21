@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4690079673",
+      "site_id": "MLB",
+      "seller_id": 3166285356,
+      "accepts_mercadopago": true,
+      "price": 115,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 229,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYR3VhcnVqw6FUVXhDVUZOQlQwODVOMkU0",
+          "name": "Guarujá"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3920006080",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB69794678",
+      "title": "Relogio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc Modo Esporte Fitness inteligente Prateado Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_685710-MLA112819581045_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB69794678",
+      "id": "MLB4690079673",
+      "sold_quantity": 1000,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB7574009126",
+      "site_id": "MLB",
+      "seller_id": 14933621,
+      "accepts_mercadopago": true,
+      "price": 395,
+      "category_id": "MLB6777",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5532,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU4141533251",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65084012",
+      "title": "Fonte Cooler Master Mwe 750 V3 750w Atx 3.1 Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_663942-MLA116503586141_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65084012",
+      "id": "MLB7574009126",
+      "sold_quantity": 1100,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-21T01:31:27.776Z"
+}
