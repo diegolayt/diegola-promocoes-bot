@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4367472233",
-    "productKey": "586170da6abacc2c",
-    "titleHash": "9db3ad497b1f6ba2",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-18T02:16:23.059Z"
-  },
-  {
     "itemId": "MLB7702229034",
     "productKey": "bbbcab83b53caf8d",
     "titleHash": "4d125c614256b48a",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-21T21:01:30.541Z"
+  },
+  {
+    "itemId": "MLB7619922218",
+    "productKey": "a04a75b9fb4e31ed",
+    "titleHash": "f6dd9b7437ccaa6c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-21T21:16:26.631Z"
   }
 ]
