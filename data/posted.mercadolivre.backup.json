@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7438919296",
-    "productKey": "9d501d04b619787b",
-    "titleHash": "60b43647216b307c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-18T02:31:19.654Z"
-  },
-  {
-    "itemId": "MLB6194983256",
-    "productKey": "fd83f25c3b8fcc66",
-    "titleHash": "7d923047dcc35c56",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-18T02:46:24.973Z"
-  },
-  {
     "itemId": "MLB7574452184",
     "productKey": "f957ab0d39b2d366",
     "titleHash": "b1c4d572f20022fd",
@@ -4798,5 +4782,21 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-21T21:46:27.913Z"
+  },
+  {
+    "itemId": "MLB6258717666",
+    "productKey": "b912948cf9b5e753",
+    "titleHash": "f913a4edc4a02db1",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-21T22:01:37.512Z"
+  },
+  {
+    "itemId": "MLB2670052459",
+    "productKey": "093b9eee2f11757f",
+    "titleHash": "20ca04f8adaf4372",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-21T22:01:37.512Z"
   }
 ]
