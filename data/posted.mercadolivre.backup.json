@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4959861957",
-    "productKey": "a6e34eb67a907296",
-    "titleHash": "301d15a17b8ba749",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-17T23:01:30.288Z"
-  },
-  {
-    "itemId": "MLB4020354625",
-    "productKey": "f4e61667d8f9e19c",
-    "titleHash": "871ef94827f4ca78",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-17T23:16:24.709Z"
-  },
-  {
     "itemId": "MLB5413348601",
     "productKey": "2178ba4369796815",
     "titleHash": "eed3a9215068bf92",
@@ -4798,5 +4782,21 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-21T17:31:29.546Z"
+  },
+  {
+    "itemId": "MLB6234101476",
+    "productKey": "98c2fc5b284eead7",
+    "titleHash": "87e02b4ced3d3145",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-21T17:46:28.413Z"
+  },
+  {
+    "itemId": "MLB4612346505",
+    "productKey": "2de2a2ad26618bb6",
+    "titleHash": "0c4c55cfc2d6f829",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-21T17:46:28.414Z"
   }
 ]
