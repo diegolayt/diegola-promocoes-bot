@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5049356861",
+      "site_id": "MLB",
+      "seller_id": 427698524,
+      "accepts_mercadopago": true,
+      "price": 71.9,
+      "category_id": "MLB189949",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 210984,
+      "original_price": 119.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNPTnk2NzQ1",
+          "name": "Conjunto Habitacional Jova Rural"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4684792625",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77168779",
+      "title": "Cascata LED para Natal, 10 Metros com 400 Luzes Branco Frio",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_892134-MLA117745808105_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77168779",
+      "id": "MLB5049356861",
+      "sold_quantity": 1100,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5893156714",
+      "site_id": "MLB",
+      "seller_id": 1212138371,
+      "accepts_mercadopago": true,
+      "price": 379,
+      "category_id": "MLB180387",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 584.87,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1P0zE4Mjc",
+          "name": "Moóca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3538203236",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54456585",
+      "title": "Purificador De Água Slimpure Branco Midea Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_978974-MLA99444151360_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54456585",
+      "id": "MLB5893156714",
+      "sold_quantity": 400,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-21T16:01:33.675Z"
+}

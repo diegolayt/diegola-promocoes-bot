@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7030301236",
-    "productKey": "2c91e939a7b3a3a7",
-    "titleHash": "bbfa3287b1760a8f",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-17T20:46:25.799Z"
-  },
-  {
-    "itemId": "MLB4820462185",
-    "productKey": "b46a61b0caa2d1c3",
-    "titleHash": "f358d0344c759159",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-17T20:46:25.799Z"
-  },
-  {
     "itemId": "MLB4540296511",
     "productKey": "561f43f75c5fd9a2",
     "titleHash": "b4d8df6ce6f87334",
@@ -4798,5 +4782,21 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-21T15:46:36.495Z"
+  },
+  {
+    "itemId": "MLB5049356861",
+    "productKey": "b0c3a1d30ec3594d",
+    "titleHash": "a4888d1eeb13cd9e",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-21T16:01:33.673Z"
+  },
+  {
+    "itemId": "MLB5893156714",
+    "productKey": "57b2072c025c23d7",
+    "titleHash": "bdcb0168742683bf",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-21T16:01:33.673Z"
   }
 ]
