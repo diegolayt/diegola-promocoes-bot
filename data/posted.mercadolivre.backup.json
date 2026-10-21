@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4264223185",
-    "productKey": "ec4b519641a7ee71",
-    "titleHash": "06afb66b058ef953",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-17T08:01:29.422Z"
-  },
-  {
     "itemId": "MLB7742862988",
     "productKey": "ab7a06687d5141b6",
     "titleHash": "90a8b50e660fc297",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-21T00:46:30.894Z"
+  },
+  {
+    "itemId": "MLB4053374163",
+    "productKey": "04168d7af042a735",
+    "titleHash": "cd6447da33f541b3",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-21T01:01:32.754Z"
   }
 ]
