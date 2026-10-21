@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4718918529",
-    "productKey": "eff4ebbdec2c8425",
-    "titleHash": "ed957b2ce03ff7f5",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-18T01:01:28.969Z"
-  },
-  {
-    "itemId": "MLB4386377708",
-    "productKey": "ad948e20cf30b8c9",
-    "titleHash": "404b54cbec7430d4",
-    "category": "colchão",
-    "sourceCategoryId": "MLB438928",
-    "reservedAt": "2026-10-18T01:01:28.969Z"
-  },
-  {
     "itemId": "MLB4302185393",
     "productKey": "b912948cf9b5e753",
     "titleHash": "f913a4edc4a02db1",
@@ -4798,5 +4782,21 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-10-21T19:16:27.294Z"
+  },
+  {
+    "itemId": "MLB7597764124",
+    "productKey": "d042f8f81af2c69f",
+    "titleHash": "f8fc4194f2663a29",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-21T19:31:32.501Z"
+  },
+  {
+    "itemId": "MLB5040226423",
+    "productKey": "0a9ab3d2be2ebe8b",
+    "titleHash": "b37656ffe37607bc",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-21T19:31:32.501Z"
   }
 ]
