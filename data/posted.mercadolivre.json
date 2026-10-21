@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7797678576",
-    "productKey": "5c15702ed6d4f3bb",
-    "titleHash": "eab2d9165b0159cb",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-17T17:16:25.842Z"
-  },
-  {
     "itemId": "MLB4094474629",
     "productKey": "65e1d528b27f6299",
     "titleHash": "965c2a083e3288c7",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-21T12:16:29.840Z"
+  },
+  {
+    "itemId": "MLB5408580524",
+    "productKey": "b5841668af3df70a",
+    "titleHash": "26a8aa4b820e295a",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-21T12:31:30.188Z"
   }
 ]
