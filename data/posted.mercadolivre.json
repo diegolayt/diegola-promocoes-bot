@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5332948385",
-    "productKey": "0c50fbe1ab1492a5",
-    "titleHash": "08c42f6b7de828d4",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-17T20:46:25.799Z"
-  },
-  {
     "itemId": "MLB7030301236",
     "productKey": "2c91e939a7b3a3a7",
     "titleHash": "bbfa3287b1760a8f",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-10-21T15:31:33.523Z"
+  },
+  {
+    "itemId": "MLB7716936568",
+    "productKey": "e8b365816ac55e07",
+    "titleHash": "a903844b96a9cadf",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-21T15:46:36.495Z"
   }
 ]
