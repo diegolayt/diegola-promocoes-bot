@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5305949705",
+      "site_id": "MLB",
+      "seller_id": 241967699,
+      "accepts_mercadopago": true,
+      "price": 375.9,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FyYXBpY3XDrWJhVFV4Q1VGTkJUMDg1T",
+          "name": "Carapicuíba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2lkYWRlIEFyaXN0b24gRXN0ZWxhIEF6Z",
+          "name": "Cidade Ariston Estela Azevedo"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5296306999",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB44252075",
+      "title": "Tablet Infantil Kids 7 Android 13 Capa Antiqueda 6gb+128gb Cor Tablet Infantil Kids Android 13.0 Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_997565-MLA99986452785_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB44252075",
+      "id": "MLB5305949705",
+      "sold_quantity": 500,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-21T04:16:24.715Z"
+}
