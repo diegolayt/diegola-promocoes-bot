@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6922339234",
-    "productKey": "f46488f5ce61c7a7",
-    "titleHash": "5ac572bbf7b65602",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-17T09:31:22.870Z"
-  },
-  {
     "itemId": "MLB4803658086",
     "productKey": "10e676d7f3f50b79",
     "titleHash": "67503e7478865213",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-21T02:31:32.789Z"
+  },
+  {
+    "itemId": "MLB6112190914",
+    "productKey": "eafa4fac22bc28d4",
+    "titleHash": "ba618477890cc7be",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-21T02:46:30.703Z"
   }
 ]
