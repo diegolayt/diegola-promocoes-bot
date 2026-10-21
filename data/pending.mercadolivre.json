@@ -1,0 +1,236 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3561154573",
+      "site_id": "MLB",
+      "seller_id": 239727300,
+      "accepts_mercadopago": true,
+      "price": 227.49,
+      "category_id": "MLB437747",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5383,
+      "original_price": 269,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTG16MHFt",
+          "name": "Vila Carlos de Campos"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU605025161",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45975876",
+      "title": "Bicicleta Infantil Aro 12 Menina Nathor Flower Rodinha Cesta 2 a 5 Anos",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_641740-MLA117324581438_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45975876",
+      "id": "MLB3561154573",
+      "sold_quantity": 1700,
+      "rotationCategory": "ciclismo",
+      "sourceCategoryId": "MLB1292",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB7846288334",
+      "site_id": "MLB",
+      "seller_id": 3497916083,
+      "accepts_mercadopago": true,
+      "price": 479.5,
+      "category_id": "MLB180387",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU29yb2NhYmFUVXhDVUZOQlQwODVOMkU0",
+          "name": "Sorocaba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIFRvcGF6aW9UVmhZVTI5eWIyT",
+          "name": "Jardim Topazio"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5563120215",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23463576",
+      "title": "Purificador de Água Consul Branco/Prata CPB34ASVNA",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_946189-MLA115405170646_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23463576",
+      "id": "MLB7846288334",
+      "sold_quantity": 500,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB6673668366",
+      "site_id": "MLB",
+      "seller_id": 1256035266,
+      "accepts_mercadopago": true,
+      "price": 155,
+      "category_id": "MLB277555",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRHJhY2VuYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3930634124",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24348255",
+      "title": "Apple AirTag Rastreador Localizador APENAS UMA UNIDADE",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603595-MLA99450394422_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24348255",
+      "id": "MLB6673668366",
+      "sold_quantity": 200,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-21T19:01:34.657Z"
+}
