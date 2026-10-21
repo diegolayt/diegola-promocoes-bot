@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7773413658",
-    "productKey": "8a12e9f39235f525",
-    "titleHash": "d987a052a3594718",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-17T21:16:07.772Z"
-  },
-  {
-    "itemId": "MLB4239462089",
-    "productKey": "7c16ecc85931f27a",
-    "titleHash": "85ee5166025b545e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-17T21:31:32.622Z"
-  },
-  {
     "itemId": "MLB5325831505",
     "productKey": "9785e1e4f9269a23",
     "titleHash": "0517c1a09d1c4254",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-21T16:31:32.078Z"
+  },
+  {
+    "itemId": "MLB3525364839",
+    "productKey": "f8b4730edfd7a1c2",
+    "titleHash": "16dd35246dab9fd4",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-21T16:46:29.876Z"
+  },
+  {
+    "itemId": "MLB4540296511",
+    "productKey": "561f43f75c5fd9a2",
+    "titleHash": "b4d8df6ce6f87334",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-21T16:46:29.877Z"
   }
 ]
