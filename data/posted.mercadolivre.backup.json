@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4275712681",
-    "productKey": "85945f71fa5374ee",
-    "titleHash": "28a257571e9f76c5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-17T09:46:21.272Z"
-  },
-  {
     "itemId": "MLB5324825545",
     "productKey": "e589a0eb951f07fb",
     "titleHash": "b9d459cb91539b28",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-21T03:01:37.992Z"
+  },
+  {
+    "itemId": "MLB4803658086",
+    "productKey": "10e676d7f3f50b79",
+    "titleHash": "67503e7478865213",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-21T03:16:25.858Z"
   }
 ]
