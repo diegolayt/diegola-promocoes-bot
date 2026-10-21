@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5391607571",
-    "productKey": "392dfea6c16fe498",
-    "titleHash": "28777b6d8f1e2193",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-17T17:01:33.676Z"
-  },
-  {
-    "itemId": "MLB6644496628",
-    "productKey": "b8e083ac878b6190",
-    "titleHash": "e90cb09e396f70b2",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-17T17:16:25.842Z"
-  },
-  {
-    "itemId": "MLB7111227742",
-    "productKey": "a9dd8ff2b914849e",
-    "titleHash": "bf0fa0934c37b081",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-17T17:16:25.842Z"
-  },
-  {
     "itemId": "MLB7797678576",
     "productKey": "5c15702ed6d4f3bb",
     "titleHash": "eab2d9165b0159cb",
@@ -4798,5 +4774,29 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-21T11:46:22.474Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-21T12:16:29.840Z"
+  },
+  {
+    "itemId": "MLB7741387658",
+    "productKey": "ab95e285844c979e",
+    "titleHash": "1da1223a6945e333",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-21T12:16:29.840Z"
+  },
+  {
+    "itemId": "MLB7424954296",
+    "productKey": "62d99c408d163785",
+    "titleHash": "bc227dbeea5d7f52",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-21T12:16:29.840Z"
   }
 ]
