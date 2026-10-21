@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4604327726",
-    "productKey": "110c81276c079aea",
-    "titleHash": "b5237db00758c38a",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-17T13:16:18.870Z"
-  },
-  {
-    "itemId": "MLB5239710571",
-    "productKey": "047b8841586368ce",
-    "titleHash": "d0d73644404827f4",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-17T13:16:18.870Z"
-  },
-  {
-    "itemId": "MLB7584947136",
-    "productKey": "28829ffedd0074fc",
-    "titleHash": "4aebfb87fb18a5dc",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-17T13:16:18.870Z"
-  },
-  {
     "itemId": "MLB7358347786",
     "productKey": "dd929be301bd7cf9",
     "titleHash": "6c9ca49d8833bbda",
@@ -4798,5 +4774,29 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-21T05:46:31.455Z"
+  },
+  {
+    "itemId": "MLB4369306967",
+    "productKey": "bae1653716216553",
+    "titleHash": "53a63b533fde190b",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-21T06:01:35.538Z"
+  },
+  {
+    "itemId": "MLB4275712681",
+    "productKey": "85945f71fa5374ee",
+    "titleHash": "28a257571e9f76c5",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-21T06:01:35.538Z"
+  },
+  {
+    "itemId": "MLB5288672767",
+    "productKey": "d88aa48d0a267fbf",
+    "titleHash": "e1b11f56561d2fb3",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-21T06:01:35.538Z"
   }
 ]
