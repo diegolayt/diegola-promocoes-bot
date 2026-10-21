@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7574452184",
-    "productKey": "f957ab0d39b2d366",
-    "titleHash": "b1c4d572f20022fd",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-18T02:46:24.973Z"
-  },
-  {
     "itemId": "MLB7829324894",
     "productKey": "05b84b93849ca0c3",
     "titleHash": "9b681a3c850bee09",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-21T22:01:37.512Z"
+  },
+  {
+    "itemId": "MLB7529392590",
+    "productKey": "fd83f25c3b8fcc66",
+    "titleHash": "7d923047dcc35c56",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-21T22:16:33.053Z"
   }
 ]
