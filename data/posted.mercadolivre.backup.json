@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3525364839",
-    "productKey": "f8b4730edfd7a1c2",
-    "titleHash": "16dd35246dab9fd4",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-17T20:16:23.812Z"
-  },
-  {
-    "itemId": "MLB4796581904",
-    "productKey": "88a6dadf927c6698",
-    "titleHash": "cbbf495579edc022",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-17T20:16:23.812Z"
-  },
-  {
-    "itemId": "MLB4820493913",
-    "productKey": "4da8403653ad3f9a",
-    "titleHash": "3f644395875c5baa",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-17T20:16:23.812Z"
-  },
-  {
     "itemId": "MLB5224565048",
     "productKey": "e6050d267f47cfc8",
     "titleHash": "5b3cb68fe22fad69",
@@ -4798,5 +4774,29 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-21T14:46:29.378Z"
+  },
+  {
+    "itemId": "MLB4763040757",
+    "productKey": "3ae67792fdb583fa",
+    "titleHash": "25054d9ac727dd22",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-21T15:01:33.385Z"
+  },
+  {
+    "itemId": "MLB7513713198",
+    "productKey": "8ba0776646669700",
+    "titleHash": "5212aae874f14b8a",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-21T15:01:33.386Z"
+  },
+  {
+    "itemId": "MLB4090648303",
+    "productKey": "0886c56c5ee7f811",
+    "titleHash": "e0dd1147da38ca5e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-21T15:01:33.386Z"
   }
 ]
