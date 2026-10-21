@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4302185393",
-    "productKey": "b912948cf9b5e753",
-    "titleHash": "f913a4edc4a02db1",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-18T01:31:25.976Z"
-  },
-  {
-    "itemId": "MLB5983653190",
-    "productKey": "093b9eee2f11757f",
-    "titleHash": "20ca04f8adaf4372",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-18T01:31:25.976Z"
-  },
-  {
-    "itemId": "MLB5643054880",
-    "productKey": "214fc030cd4ff663",
-    "titleHash": "8f91897b121eb9ff",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-18T01:46:28.590Z"
-  },
-  {
     "itemId": "MLB7701800018",
     "productKey": "8391a7ae62302cad",
     "titleHash": "1f20a51ee45cd080",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-21T19:31:32.501Z"
+  },
+  {
+    "itemId": "MLB7480407364",
+    "productKey": "79119e9ef6b0ca26",
+    "titleHash": "2b62e2dc003040cf",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-21T19:46:28.277Z"
+  },
+  {
+    "itemId": "MLB7684174012",
+    "productKey": "322af4737407e3c8",
+    "titleHash": "3168a0af6c08f618",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-21T19:46:28.277Z"
+  },
+  {
+    "itemId": "MLB7725235560",
+    "productKey": "b7371e77d704b462",
+    "titleHash": "cc44c47e60e54f0b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-21T19:46:28.278Z"
   }
 ]
