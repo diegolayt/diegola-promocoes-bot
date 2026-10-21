@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5342139513",
-    "productKey": "23c4410a26b6c187",
-    "titleHash": "a4502ea76973e897",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-17T23:31:32.837Z"
-  },
-  {
     "itemId": "MLB5887150882",
     "productKey": "ca64f9d61aaeaaab",
     "titleHash": "c760fa318235a1c4",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-21T18:01:38.005Z"
+  },
+  {
+    "itemId": "MLB5383758300",
+    "productKey": "07f1520aa80ab712",
+    "titleHash": "bc8ac8efca670c74",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-21T18:16:34.903Z"
   }
 ]
