@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7296270886",
+      "site_id": "MLB",
+      "seller_id": 2563306117,
+      "accepts_mercadopago": true,
+      "price": 94.9,
+      "category_id": "MLB31683",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 381426,
+      "original_price": 122.58,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQWd1ZG9zVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Agudos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4523566598",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25741527",
+      "title": "Sanduicheira Elétrica Cadence SAN400 Preta",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_633183-MLA99468751756_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25741527",
+      "id": "MLB7296270886",
+      "sold_quantity": 2000,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB31683",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7634694416",
+      "site_id": "MLB",
+      "seller_id": 389103206,
+      "accepts_mercadopago": true,
+      "price": 2219,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5191966636",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB55467027",
+      "title": "Galaxy Tab S10 Lite Cinza 128gb Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_840023-MLA115978083965_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB55467027",
+      "id": "MLB7634694416",
+      "sold_quantity": 1500,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-21T23:01:36.133Z"
+}
