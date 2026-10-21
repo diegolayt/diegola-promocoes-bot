@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4803658086",
-    "productKey": "10e676d7f3f50b79",
-    "titleHash": "67503e7478865213",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-17T09:31:22.870Z"
-  },
-  {
     "itemId": "MLB4275712681",
     "productKey": "85945f71fa5374ee",
     "titleHash": "28a257571e9f76c5",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-21T02:46:30.703Z"
+  },
+  {
+    "itemId": "MLB5311226591",
+    "productKey": "79683824906954d4",
+    "titleHash": "b0c385b4d7e84a69",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-21T03:01:37.992Z"
   }
 ]
