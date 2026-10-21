@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5224565048",
-    "productKey": "e6050d267f47cfc8",
-    "titleHash": "5b3cb68fe22fad69",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-17T20:16:23.812Z"
-  },
-  {
     "itemId": "MLB1813858183",
     "productKey": "0093a548dee7b78c",
     "titleHash": "acc61814edc438ee",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-21T15:01:33.386Z"
+  },
+  {
+    "itemId": "MLB5385932414",
+    "productKey": "33b92cca0add5d8c",
+    "titleHash": "01d5b0171a4da264",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-21T15:16:28.334Z"
   }
 ]
