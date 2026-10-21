@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4279422349",
-    "productKey": "e8b365816ac55e07",
-    "titleHash": "a903844b96a9cadf",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-17T12:31:31.371Z"
-  },
-  {
     "itemId": "MLB4369306967",
     "productKey": "bae1653716216553",
     "titleHash": "53a63b533fde190b",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-21T04:46:28.054Z"
+  },
+  {
+    "itemId": "MLB7107538204",
+    "productKey": "a791708c9d38d795",
+    "titleHash": "1f77d6cb0301532a",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-21T05:01:32.777Z"
   }
 ]
