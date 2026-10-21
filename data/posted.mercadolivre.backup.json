@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5800037458",
-    "productKey": "b6d1cedb49d30deb",
-    "titleHash": "51bd3c9452ef23f3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-17T16:46:21.410Z"
-  },
-  {
-    "itemId": "MLB4803444412",
-    "productKey": "e5941415ecb97d04",
-    "titleHash": "08653b1901f81be4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-17T17:01:33.676Z"
-  },
-  {
     "itemId": "MLB5391607571",
     "productKey": "392dfea6c16fe498",
     "titleHash": "28777b6d8f1e2193",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-21T11:31:33.075Z"
+  },
+  {
+    "itemId": "MLB5425447788",
+    "productKey": "a05a1f4d4480cd6a",
+    "titleHash": "1c7f0f33f8c61e45",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-21T11:46:22.474Z"
+  },
+  {
+    "itemId": "MLB7707499492",
+    "productKey": "d947d4019fef538b",
+    "titleHash": "0c72f8035670cde0",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-21T11:46:22.474Z"
   }
 ]
