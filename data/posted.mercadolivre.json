@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7614069762",
-    "productKey": "b124c07810832875",
-    "titleHash": "193e39a55d48c15a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-18T02:31:19.654Z"
-  },
-  {
     "itemId": "MLB7438919296",
     "productKey": "9d501d04b619787b",
     "titleHash": "60b43647216b307c",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-21T21:31:29.896Z"
+  },
+  {
+    "itemId": "MLB5312507612",
+    "productKey": "578087a6350e382a",
+    "titleHash": "4e478014ed8af7a9",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-21T21:46:27.913Z"
   }
 ]
