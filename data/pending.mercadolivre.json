@@ -1,0 +1,171 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5525263450",
+      "site_id": "MLB",
+      "seller_id": 194486514,
+      "accepts_mercadopago": true,
+      "price": 78.9,
+      "category_id": "MLB425076",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_channel",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5296,
+      "original_price": 135.05,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Laranjal Paulista"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2703067295",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43200233",
+      "title": "Bicicleta de Equilíbrio Brinq Kids Brinquei Vermelho para Crianças 12m+",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_825638-MLA97504721848_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43200233",
+      "id": "MLB5525263450",
+      "sold_quantity": 300,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5217693736",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 5998.8,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "user_product_unify",
+        "first_party",
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "1p_10x_campaign",
+        "dynamic_standard_price",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2162,
+      "original_price": 8599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2840769257",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB1040287790",
+      "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB1040287790",
+      "id": "MLB5217693736",
+      "sold_quantity": 300,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-21T22:31:33.114Z"
+}
