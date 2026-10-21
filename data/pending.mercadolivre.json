@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5326020049",
+      "site_id": "MLB",
+      "seller_id": 2560404976,
+      "accepts_mercadopago": true,
+      "price": 229.9,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 242,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Votorantim"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5380042846",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62572243",
+      "title": "Dispositivo De Streaming Amazon Fire Tv Stick 4k Select Com Preto De Voz",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_841225-MLA115105837556_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62572243",
+      "id": "MLB5326020049",
+      "sold_quantity": 1400,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-21T09:16:28.706Z"
+}

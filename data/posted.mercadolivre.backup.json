@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7825713642",
-    "productKey": "b5841668af3df70a",
-    "titleHash": "f7137e786cc705c4",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-10-17T16:01:37.576Z"
-  },
-  {
     "itemId": "MLB5701841518",
     "productKey": "e47e31aa7f0f7ddf",
     "titleHash": "753d54b2272a6993",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-21T09:01:34.750Z"
+  },
+  {
+    "itemId": "MLB5326020049",
+    "productKey": "ef60b543f7ca8673",
+    "titleHash": "0f1343e7b07c7865",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-21T09:16:28.703Z"
   }
 ]
