@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4936320789",
-    "productKey": "7df1458663dc1f98",
-    "titleHash": "3a68c17bceca4a73",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-17T09:01:28.248Z"
-  },
-  {
-    "itemId": "MLB6112190914",
-    "productKey": "eafa4fac22bc28d4",
-    "titleHash": "ba618477890cc7be",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-17T09:16:25.879Z"
-  },
-  {
     "itemId": "MLB6922339234",
     "productKey": "f46488f5ce61c7a7",
     "titleHash": "5ac572bbf7b65602",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-21T02:16:26.216Z"
+  },
+  {
+    "itemId": "MLB7702250824",
+    "productKey": "6cb1243c40624794",
+    "titleHash": "86b6e248994c6e5b",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-21T02:31:32.789Z"
+  },
+  {
+    "itemId": "MLB7855971836",
+    "productKey": "f2e2cfbf1fe4b334",
+    "titleHash": "a60547d7fda18e0c",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-21T02:31:32.789Z"
   }
 ]

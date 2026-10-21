@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7702250824",
+      "site_id": "MLB",
+      "seller_id": 518226649,
+      "accepts_mercadopago": true,
+      "price": 752.7,
+      "category_id": "MLB73057",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 61486,
+      "original_price": 1158,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJTGU5YTdl",
+          "name": "Vila Velha"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5269758895",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18363110",
+      "title": "Micro-ondas MI41S Inox Espelhado Painel Integrado 31 litros Electrolux",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_918244-MLA99483224372_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18363110",
+      "id": "MLB7702250824",
+      "sold_quantity": 1000,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB7855971836",
+      "site_id": "MLB",
+      "seller_id": 351162629,
+      "accepts_mercadopago": true,
+      "price": 225.9,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5584423687",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB79854330",
+      "title": "Projetor Portátil Mini HY300 4k Full HD 1080p Smart Tv Android 11.0 Wi-Fi Bluetooth Home Theater Cinema Em Casa TV Imagem Nítida Som Potente Alta Resolução Com Controle Remoto Bivolts Branco Nixzen",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_753311-MLA116710028684_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB79854330",
+      "id": "MLB7855971836",
+      "sold_quantity": 700,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    }
+  ],
+  "reservedAt": "2026-10-21T02:31:32.792Z"
+}
