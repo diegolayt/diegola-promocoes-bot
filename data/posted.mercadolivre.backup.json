@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4369306967",
-    "productKey": "bae1653716216553",
-    "titleHash": "53a63b533fde190b",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-10-17T12:31:31.371Z"
-  },
-  {
-    "itemId": "MLB6429047490",
-    "productKey": "d9ef4a29fdbb1a3a",
-    "titleHash": "c8f8c2711b445e40",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-17T13:01:32.170Z"
-  },
-  {
     "itemId": "MLB7480397854",
     "productKey": "a98d9ad149b55f1d",
     "titleHash": "03bf29bdde2827a8",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-21T05:01:32.777Z"
+  },
+  {
+    "itemId": "MLB5410852112",
+    "productKey": "68616dd501c539e3",
+    "titleHash": "f40968a9ec38373d",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-21T05:16:28.968Z"
+  },
+  {
+    "itemId": "MLB5719459402",
+    "productKey": "a4c4288d142801a8",
+    "titleHash": "14b326418476db53",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-21T05:16:28.969Z"
   }
 ]
