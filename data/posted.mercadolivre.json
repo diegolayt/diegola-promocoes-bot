@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7702229034",
-    "productKey": "bbbcab83b53caf8d",
-    "titleHash": "4d125c614256b48a",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-18T02:16:23.059Z"
-  },
-  {
-    "itemId": "MLB4671001440",
-    "productKey": "de330e271b690a16",
-    "titleHash": "ee59843d9f1c91fc",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-18T02:31:19.653Z"
-  },
-  {
-    "itemId": "MLB4796525103",
-    "productKey": "85d041b839360d1e",
-    "titleHash": "89b2d3d9c594e645",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-18T02:31:19.653Z"
-  },
-  {
     "itemId": "MLB7614069762",
     "productKey": "b124c07810832875",
     "titleHash": "193e39a55d48c15a",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-21T21:16:26.631Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-21T21:31:29.896Z"
+  },
+  {
+    "itemId": "MLB4239462089",
+    "productKey": "7c16ecc85931f27a",
+    "titleHash": "85ee5166025b545e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-21T21:31:29.896Z"
+  },
+  {
+    "itemId": "MLB4718918529",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-21T21:31:29.896Z"
   }
 ]

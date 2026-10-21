@@ -1,0 +1,246 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7633876088",
+      "site_id": "MLB",
+      "seller_id": 3273984737,
+      "accepts_mercadopago": true,
+      "price": 282.61,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 479,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4951732199",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61381053",
+      "title": "Mini projetor portátil Magcubic 8k Hy300pro+ Led 260ansi Android Smart TV Dual Wifi6 Bluetooth 5.4 com HDMI USB e som Hifi",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_853181-MLA106925397890_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61381053",
+      "id": "MLB7633876088",
+      "sold_quantity": 600,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    },
+    {
+      "item_id": "MLB4239462089",
+      "site_id": "MLB",
+      "seller_id": 207322746,
+      "accepts_mercadopago": true,
+      "price": 99.9,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 88602,
+      "original_price": 116.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3475232244",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52363091",
+      "title": "Escova Progressiva 150g - Fashion Gold",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_861957-MLA108178234350_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52363091",
+      "id": "MLB4239462089",
+      "sold_quantity": 1900,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB4718918529",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 230.84,
+      "category_id": "MLB5867",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 5 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "1p_2x_campaign",
+        "dynamic_standard_price",
+        "kvs_primary",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2754,
+      "original_price": 269,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 5,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "5 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4028866856",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67989415",
+      "title": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180 m²",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_755357-MLA109556445022_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67989415",
+      "id": "MLB4718918529",
+      "sold_quantity": 1000,
+      "rotationCategory": "redes",
+      "sourceCategoryId": "MLB1700",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-21T21:31:29.899Z"
+}
