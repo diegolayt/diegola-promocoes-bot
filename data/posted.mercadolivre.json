@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5106493651",
-    "productKey": "851494f04904610e",
-    "titleHash": "3f3055db5e5f2d44",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-17T16:31:23.700Z"
-  },
-  {
     "itemId": "MLB6400344928",
     "productKey": "d6cc0984381470cf",
     "titleHash": "a33e46855fcff71c",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-10-21T09:46:27.571Z"
+  },
+  {
+    "itemId": "MLB4924360629",
+    "productKey": "9f78f29633b289d2",
+    "titleHash": "8068712b03430b55",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-21T10:01:32.967Z"
   }
 ]
