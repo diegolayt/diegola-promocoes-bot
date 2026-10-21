@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4433956534",
+      "site_id": "MLB",
+      "seller_id": 260466799,
+      "accepts_mercadopago": true,
+      "price": 125.73,
+      "category_id": "MLB31683",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "channel_fixed",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1118,
+      "original_price": 217.55,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 10
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BPTjJjY2I5",
+          "name": "Ponta Grossa"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJPTjI4RjA3",
+          "name": "Ronda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1966789321",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB28116329",
+      "title": "Sanduicheira elétrica Britânia Press BGR27I cor preto inox",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_983390-MLA95494941426_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB28116329",
+      "id": "MLB4433956534",
+      "sold_quantity": 1500,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB31683",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-21T14:01:36.908Z"
+}
