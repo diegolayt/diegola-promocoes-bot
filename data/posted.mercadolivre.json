@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5408698623",
-    "productKey": "94044ebe0a8baedc",
-    "titleHash": "192950a3187eb071",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-17T15:16:26.621Z"
-  },
-  {
     "itemId": "MLB4265708013",
     "productKey": "3ca801cb1e1d27d3",
     "titleHash": "9fab40653042a04f",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-21T08:01:29.717Z"
+  },
+  {
+    "itemId": "MLB6131959540",
+    "productKey": "766e4122d158c9d9",
+    "titleHash": "a99bf3c6493007aa",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-21T08:16:28.376Z"
   }
 ]
