@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7685286148",
-    "productKey": "97793b46b1ed0e13",
-    "titleHash": "ba9b4acf5fd20f0e",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-17T07:01:36.519Z"
-  },
-  {
-    "itemId": "MLB5384400769",
-    "productKey": "dea2c4a9da61bcd6",
-    "titleHash": "6c866c86c418343d",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-17T07:01:36.519Z"
-  },
-  {
-    "itemId": "MLB7584470644",
-    "productKey": "9affbdb880b8bc94",
-    "titleHash": "e8ff47795136b334",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-17T07:16:32.495Z"
-  },
-  {
     "itemId": "MLB4046267101",
     "productKey": "94515ec2fc819af0",
     "titleHash": "2602411dd1f9a94a",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-21T00:01:33.730Z"
+  },
+  {
+    "itemId": "MLB5930202958",
+    "productKey": "fded24791054bb1d",
+    "titleHash": "bba7ae42ffd6ef51",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-21T00:16:27.069Z"
+  },
+  {
+    "itemId": "MLB6943752224",
+    "productKey": "127b8887916baeb4",
+    "titleHash": "fa8d671112a0eeee",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-10-21T00:16:27.070Z"
+  },
+  {
+    "itemId": "MLB3399022201",
+    "productKey": "f0bb7eab24f9461a",
+    "titleHash": "5de2e14bd196608c",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-21T00:16:27.070Z"
   }
 ]
