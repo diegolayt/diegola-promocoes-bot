@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4094474629",
-    "productKey": "65e1d528b27f6299",
-    "titleHash": "965c2a083e3288c7",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-17T17:16:25.842Z"
-  },
-  {
-    "itemId": "MLB4645102377",
-    "productKey": "e1794297dc2cb2f2",
-    "titleHash": "0476e78d75cd872f",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-17T17:31:28.796Z"
-  },
-  {
     "itemId": "MLB5385629623",
     "productKey": "da6e47d6f5b6a37a",
     "titleHash": "da2698cd8324fb9f",
@@ -4798,5 +4782,21 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-10-21T12:31:30.188Z"
+  },
+  {
+    "itemId": "MLB4771398286",
+    "productKey": "12bdcfabca3caf4e",
+    "titleHash": "f71509e0a3defcad",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-21T12:46:24.655Z"
+  },
+  {
+    "itemId": "MLB5378229206",
+    "productKey": "d9ef4a29fdbb1a3a",
+    "titleHash": "c8f8c2711b445e40",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-21T12:46:24.656Z"
   }
 ]
