@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7480397854",
-    "productKey": "a98d9ad149b55f1d",
-    "titleHash": "03bf29bdde2827a8",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-17T13:01:32.170Z"
-  },
-  {
     "itemId": "MLB6167651244",
     "productKey": "e1fa6b0d5edc06a7",
     "titleHash": "0a852a4ad606a43b",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-21T05:16:28.969Z"
+  },
+  {
+    "itemId": "MLB7482186968",
+    "productKey": "f46488f5ce61c7a7",
+    "titleHash": "5ac572bbf7b65602",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-21T05:31:34.698Z"
   }
 ]
