@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5701841518",
-    "productKey": "e47e31aa7f0f7ddf",
-    "titleHash": "753d54b2272a6993",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-17T16:01:37.576Z"
-  },
-  {
-    "itemId": "MLB6848768728",
-    "productKey": "9f78f29633b289d2",
-    "titleHash": "8068712b03430b55",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-17T16:16:22.104Z"
-  },
-  {
     "itemId": "MLB5106493651",
     "productKey": "851494f04904610e",
     "titleHash": "3f3055db5e5f2d44",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-21T09:16:28.703Z"
+  },
+  {
+    "itemId": "MLB7459652848",
+    "productKey": "308da311e0fa26e0",
+    "titleHash": "d31d3cd00820bae0",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-21T09:46:27.571Z"
+  },
+  {
+    "itemId": "MLB5239710571",
+    "productKey": "047b8841586368ce",
+    "titleHash": "d0d73644404827f4",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-21T09:46:27.571Z"
   }
 ]
