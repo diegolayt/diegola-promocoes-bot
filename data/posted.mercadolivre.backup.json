@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5320002319",
-    "productKey": "af85f5f6f8e9166c",
-    "titleHash": "de0256cf86475759",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-17T10:16:27.346Z"
-  },
-  {
-    "itemId": "MLB5172725622",
-    "productKey": "7eecd5f765f1c03f",
-    "titleHash": "1f7cacb96af0197b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-17T10:31:28.752Z"
-  },
-  {
     "itemId": "MLB5325949197",
     "productKey": "605baac0da39a5eb",
     "titleHash": "7467a70e581a58cd",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-21T03:31:30.511Z"
+  },
+  {
+    "itemId": "MLB6487355942",
+    "productKey": "1b0c80b38e1cf265",
+    "titleHash": "e1ee4fe398d38bfe",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-21T03:46:26.310Z"
+  },
+  {
+    "itemId": "MLB5210291587",
+    "productKey": "9d751b711b454293",
+    "titleHash": "836381a7863b8ad3",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-21T03:46:26.310Z"
   }
 ]
