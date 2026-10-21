@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5385629623",
-    "productKey": "da6e47d6f5b6a37a",
-    "titleHash": "da2698cd8324fb9f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-17T17:31:28.796Z"
-  },
-  {
-    "itemId": "MLB6660300810",
-    "productKey": "0e235e469f68e106",
-    "titleHash": "2b5877d11ebbe081",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-17T17:46:27.357Z"
-  },
-  {
-    "itemId": "MLB4328622612",
-    "productKey": "029d0c6fc887611c",
-    "titleHash": "a2174520f63568e4",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-17T17:46:27.357Z"
-  },
-  {
     "itemId": "MLB6487194218",
     "productKey": "2de706a58a8b82bb",
     "titleHash": "7de31561f0e34b0a",
@@ -4798,5 +4774,29 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-21T12:46:24.656Z"
+  },
+  {
+    "itemId": "MLB5800037458",
+    "productKey": "b6d1cedb49d30deb",
+    "titleHash": "51bd3c9452ef23f3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-21T13:01:31.243Z"
+  },
+  {
+    "itemId": "MLB5878568480",
+    "productKey": "d024777c1c0be8fe",
+    "titleHash": "50c5c1e2d416e9e7",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-21T13:01:31.243Z"
+  },
+  {
+    "itemId": "MLB7294664762",
+    "productKey": "bf86873401aafdee",
+    "titleHash": "b95467ee86ed620d",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-21T13:01:31.243Z"
   }
 ]
