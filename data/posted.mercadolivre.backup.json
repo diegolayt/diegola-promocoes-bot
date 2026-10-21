@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6167651244",
-    "productKey": "e1fa6b0d5edc06a7",
-    "titleHash": "0a852a4ad606a43b",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-17T13:16:18.869Z"
-  },
-  {
     "itemId": "MLB4604327726",
     "productKey": "110c81276c079aea",
     "titleHash": "b5237db00758c38a",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-21T05:31:34.698Z"
+  },
+  {
+    "itemId": "MLB3481515593",
+    "productKey": "f7f7d61f6c30c3c5",
+    "titleHash": "bd2c5073c62b4ca3",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-21T05:46:31.455Z"
   }
 ]
