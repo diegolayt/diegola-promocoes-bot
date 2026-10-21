@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4243087779",
-    "productKey": "24d6a63070e9986c",
-    "titleHash": "8619082c61209216",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-17T08:31:28.094Z"
-  },
-  {
     "itemId": "MLB3481515593",
     "productKey": "f7f7d61f6c30c3c5",
     "titleHash": "bd2c5073c62b4ca3",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-21T01:31:27.774Z"
+  },
+  {
+    "itemId": "MLB5574851656",
+    "productKey": "1605bae93a4b4381",
+    "titleHash": "f52975726d30d711",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-21T02:01:35.250Z"
   }
 ]
