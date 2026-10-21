@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB2600380142",
-    "productKey": "dab439480dd9b128",
-    "titleHash": "d54de27ef0c2bc22",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-17T22:31:29.700Z"
-  },
-  {
-    "itemId": "MLB5376854469",
-    "productKey": "0a78d5595a81cc3e",
-    "titleHash": "fc6752f6d5d3a273",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-17T22:31:29.700Z"
-  },
-  {
-    "itemId": "MLB7764278210",
-    "productKey": "da452a29d07592e5",
-    "titleHash": "c09bfcf6c8bdf349",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-17T22:46:24.595Z"
-  },
-  {
     "itemId": "MLB7597764124",
     "productKey": "d042f8f81af2c69f",
     "titleHash": "f8fc4194f2663a29",
@@ -4798,5 +4774,29 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-21T17:01:35.920Z"
+  },
+  {
+    "itemId": "MLB5325831505",
+    "productKey": "9785e1e4f9269a23",
+    "titleHash": "0517c1a09d1c4254",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-21T17:16:29.898Z"
+  },
+  {
+    "itemId": "MLB4062720531",
+    "productKey": "0c50fbe1ab1492a5",
+    "titleHash": "08c42f6b7de828d4",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-21T17:16:29.898Z"
+  },
+  {
+    "itemId": "MLB5329092593",
+    "productKey": "b46a61b0caa2d1c3",
+    "titleHash": "f358d0344c759159",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-21T17:16:29.898Z"
   }
 ]
