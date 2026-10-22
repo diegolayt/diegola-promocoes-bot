@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6539357636",
-    "productKey": "7860af033b3fd150",
-    "titleHash": "6ca13a59e47a1cb7",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-18T16:31:26.399Z"
-  },
-  {
-    "itemId": "MLB7640231678",
-    "productKey": "98aa92e5a98722ca",
-    "titleHash": "b6dfdbb0bf292d78",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-18T16:46:24.974Z"
-  },
-  {
     "itemId": "MLB4115638623",
     "productKey": "9681761c11f42242",
     "titleHash": "c506f453654b8575",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-22T14:46:25.441Z"
+  },
+  {
+    "itemId": "MLB4361263765",
+    "productKey": "238090adb5a1bf75",
+    "titleHash": "246588000d56eb53",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-22T15:01:35.222Z"
+  },
+  {
+    "itemId": "MLB5295401309",
+    "productKey": "d90185c5813ba0bb",
+    "titleHash": "26e89182c842e1bc",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-22T15:01:35.222Z"
   }
 ]
