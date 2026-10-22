@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4367472775",
-    "productKey": "fa34295fd787e18c",
-    "titleHash": "190b71ddac76b50c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-18T11:46:26.190Z"
-  },
-  {
     "itemId": "MLB4564236093",
     "productKey": "41888fb320739b37",
     "titleHash": "3fc1ad64a62d5f86",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-22T07:01:41.646Z"
+  },
+  {
+    "itemId": "MLB7531233584",
+    "productKey": "f0c5518ea0cabfba",
+    "titleHash": "b801230ddad01ff0",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-22T07:31:28.866Z"
   }
 ]
