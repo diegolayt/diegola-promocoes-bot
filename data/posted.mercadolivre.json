@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4361263765",
-    "productKey": "238090adb5a1bf75",
-    "titleHash": "246588000d56eb53",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-18T15:31:28.303Z"
-  },
-  {
-    "itemId": "MLB3979719457",
-    "productKey": "6c0323ca8b28669b",
-    "titleHash": "53bd0ca4aa5bcfef",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-18T15:31:28.303Z"
-  },
-  {
     "itemId": "MLB5295401309",
     "productKey": "d90185c5813ba0bb",
     "titleHash": "26e89182c842e1bc",
@@ -4798,5 +4782,21 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-22T14:01:44.793Z"
+  },
+  {
+    "itemId": "MLB5097723592",
+    "productKey": "0314016684b00af3",
+    "titleHash": "f150802ac716f3c0",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-22T14:16:26.827Z"
+  },
+  {
+    "itemId": "MLB7071760238",
+    "productKey": "3290caa2bbf60419",
+    "titleHash": "0a784ed1ced73153",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-22T14:16:26.827Z"
   }
 ]
