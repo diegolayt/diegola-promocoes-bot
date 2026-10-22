@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6233971228",
-    "productKey": "a5159ad3bb7f346b",
-    "titleHash": "b3a008af85b3061b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-18T12:01:23.063Z"
-  },
-  {
     "itemId": "MLB5321107151",
     "productKey": "95f66b876321ad8f",
     "titleHash": "bc1ca51adf87d7fd",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-22T08:31:29.444Z"
+  },
+  {
+    "itemId": "MLB5244238225",
+    "productKey": "e36a6435f85d422e",
+    "titleHash": "b23daca646894c44",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-22T08:46:25.998Z"
   }
 ]
