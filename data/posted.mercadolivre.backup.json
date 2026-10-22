@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7021497438",
-    "productKey": "55918accac2564b2",
-    "titleHash": "fa1655aba7b923ac",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-18T05:46:28.352Z"
-  },
-  {
     "itemId": "MLB3371578831",
     "productKey": "10b192510125e400",
     "titleHash": "199e80e775bd5fd7",
@@ -4798,5 +4790,13 @@
     "category": "colchão",
     "sourceCategoryId": "MLB438928",
     "reservedAt": "2026-10-22T01:16:27.446Z"
+  },
+  {
+    "itemId": "MLB3251982185",
+    "productKey": "6e6b0a0afa3e4adb",
+    "titleHash": "ba28ef2dcd7fcc21",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-22T01:31:29.852Z"
   }
 ]

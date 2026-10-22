@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3251982185",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 77,
+      "category_id": "MLB277387",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "supermarket_eligible",
+        "first_party",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "dynamic_standard_price",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 186242,
+      "original_price": 88.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU756851279",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19901402",
+      "title": "Aparelho de barbear Mach3 Sensitive + 9 cargas Gillette",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_706526-MLA110378702869_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19901402",
+      "id": "MLB3251982185",
+      "sold_quantity": 100,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-22T01:31:29.855Z"
+}
