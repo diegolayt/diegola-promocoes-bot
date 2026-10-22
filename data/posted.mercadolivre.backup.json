@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7829236100",
-    "productKey": "e36a6435f85d422e",
-    "titleHash": "b23daca646894c44",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-18T11:46:26.190Z"
-  },
-  {
-    "itemId": "MLB6954342220",
-    "productKey": "01626bf5a4615728",
-    "titleHash": "a64225f5f9af9c7c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-18T12:01:23.062Z"
-  },
-  {
     "itemId": "MLB1941785534",
     "productKey": "1010a845202376db",
     "titleHash": "ae3d9f5c10f2e3eb",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-22T07:46:34.547Z"
+  },
+  {
+    "itemId": "MLB4367472775",
+    "productKey": "fa34295fd787e18c",
+    "titleHash": "190b71ddac76b50c",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-22T08:16:24.252Z"
+  },
+  {
+    "itemId": "MLB4564236093",
+    "productKey": "41888fb320739b37",
+    "titleHash": "3fc1ad64a62d5f86",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-22T08:16:24.252Z"
   }
 ]
