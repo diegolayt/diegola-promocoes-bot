@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7398437480",
-    "productKey": "55fe5d1edbec07e4",
-    "titleHash": "104e502a7c2949d3",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-18T17:31:25.088Z"
-  },
-  {
     "itemId": "MLB4173586375",
     "productKey": "c7ebf54e4fcc2fe3",
     "titleHash": "5a9f86ddd7a1801f",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-22T15:16:25.338Z"
+  },
+  {
+    "itemId": "MLB7736313444",
+    "productKey": "c394ad5c5c8abff2",
+    "titleHash": "de87e86126411ee5",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-22T15:31:32.806Z"
   }
 ]
