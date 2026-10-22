@@ -1,0 +1,224 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4521744289",
+      "site_id": "MLB",
+      "seller_id": 1074371898,
+      "accepts_mercadopago": true,
+      "price": 60.9,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 393782,
+      "original_price": 89.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRGlhZGVtYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Diadema"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ29uY2Vpw6fDo29UVmhZUkdsaFpHVnRZV",
+          "name": "Conceição"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3832550015",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41221309",
+      "title": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia Masculina Kit Presente Original",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_735112-MLA115743494554_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41221309",
+      "id": "MLB4521744289",
+      "sold_quantity": 1800,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7618822944",
+      "site_id": "MLB",
+      "seller_id": 3592255542,
+      "accepts_mercadopago": true,
+      "price": 509.9,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439262,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5005587164",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35506889",
+      "title": "Jogo De Panelas Brinox Cerâmico 5 Pçs Carbon Ceramic Indução Cor Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_877108-MLA96151131073_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35506889",
+      "id": "MLB7618822944",
+      "sold_quantity": 1600,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7846885562",
+      "site_id": "MLB",
+      "seller_id": 318097068,
+      "accepts_mercadopago": true,
+      "price": 7499,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FyYWd1YXRhdHViYVRVeENVRk5CVDA4N",
+          "name": "Caraguatatuba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYU3VtYXLDqVRWaFlRMkZ5WVdkMVlYUmhkS",
+          "name": "Sumaré"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5564192923",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41975964",
+      "title": "Console Playstation 5 Pro 2tb Branco Sony Bivolt Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_727482-MLA99962144409_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41975964",
+      "id": "MLB7846885562",
+      "sold_quantity": 1000,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-10-22T18:31:30.135Z"
+}
