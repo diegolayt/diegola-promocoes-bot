@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6889668614",
-    "productKey": "61936a573d33a226",
-    "titleHash": "4aba07aa2efc9eb5",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-18T08:46:30.656Z"
-  },
-  {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-18T09:01:14.932Z"
-  },
-  {
     "itemId": "MLB5414263715",
     "productKey": "794094e123a2d365",
     "titleHash": "68fbd7ea594a31fc",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-22T03:01:27.354Z"
+  },
+  {
+    "itemId": "MLB4268042659",
+    "productKey": "cddbf545af237f6f",
+    "titleHash": "3bbe4ed40543e0e7",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-22T04:01:33.025Z"
+  },
+  {
+    "itemId": "MLB4422182615",
+    "productKey": "751a5f5793414e23",
+    "titleHash": "ce21fa4a9d4dde20",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-22T04:01:33.025Z"
   }
 ]
