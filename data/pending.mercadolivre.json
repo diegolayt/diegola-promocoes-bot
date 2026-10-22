@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3863878037",
+      "site_id": "MLB",
+      "seller_id": 200524310,
+      "accepts_mercadopago": true,
+      "price": 753.52,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 80562,
+      "original_price": 1299,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQ1MDE",
+          "name": "São Caetano do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBSTzg3MDE",
+          "name": "Prosperidade"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1708322026",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB38947984",
+      "title": "Monitor Gamer LG UltraGear 24”IPS Full HD 180Hz 1ms (GtG) NVIDIA G-SYNC AMD FreeSync HDR10 sRGB 99% HDMI DisplayPort, Preto- 24GS60F",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_817281-MLA107167838581_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB38947984",
+      "id": "MLB3863878037",
+      "sold_quantity": 500,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB5378454342",
+      "site_id": "MLB",
+      "seller_id": 50708392,
+      "accepts_mercadopago": true,
+      "price": 154,
+      "category_id": "MLB3843",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 76064,
+      "original_price": 198.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTGltZWlyYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Limeira"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1098850925",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48929479",
+      "title": "Caixa de Som Bluetooth Caixinha Grande 2 Altos Falantes 10w-hz 5.0 Boombox Com Radio Fm E Entrada Usb Pendrive",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_681719-MLA99467991212_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48929479",
+      "id": "MLB5378454342",
+      "sold_quantity": 700,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-22T02:01:34.579Z"
+}
