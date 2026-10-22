@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4240821859",
-    "productKey": "47ffa83e947c7163",
-    "titleHash": "92d6cdb1fcb3dcaf",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-18T09:31:35.177Z"
-  },
-  {
-    "itemId": "MLB4222763449",
-    "productKey": "03268f9fe00e909e",
-    "titleHash": "6ed609609a19a867",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-18T09:46:30.279Z"
-  },
-  {
     "itemId": "MLB5333639339",
     "productKey": "86966f89baa69334",
     "titleHash": "03d0b2f42a8cc00e",
@@ -4798,5 +4782,21 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-22T04:31:33.009Z"
+  },
+  {
+    "itemId": "MLB4287637614",
+    "productKey": "69af084751970c16",
+    "titleHash": "5d1608fdc1548bcb",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-22T05:01:35.952Z"
+  },
+  {
+    "itemId": "MLB5435257929",
+    "productKey": "78e15032506bdded",
+    "titleHash": "390f920e0311bfb0",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-22T05:01:35.952Z"
   }
 ]
