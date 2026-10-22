@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5378454342",
-    "productKey": "d9f9ebef6ca08a2f",
-    "titleHash": "ffe4bcc70178fb4b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-18T05:31:28.958Z"
-  },
-  {
-    "itemId": "MLB4028626831",
-    "productKey": "5a76a4eddf9a8c24",
-    "titleHash": "80b12ed4dcc25fa6",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-18T05:31:28.958Z"
-  },
-  {
     "itemId": "MLB4268042659",
     "productKey": "cddbf545af237f6f",
     "titleHash": "3bbe4ed40543e0e7",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-22T00:46:26.989Z"
+  },
+  {
+    "itemId": "MLB7812100718",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-22T01:01:29.570Z"
+  },
+  {
+    "itemId": "MLB7631375746",
+    "productKey": "78a556ba509873f4",
+    "titleHash": "2231dac56aa4320f",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-22T01:01:29.570Z"
   }
 ]
