@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5415014391",
-    "productKey": "7e5eeb5fc2da9a55",
-    "titleHash": "6ab4b45d11833727",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-19T00:46:25.935Z"
-  },
-  {
     "itemId": "MLB5084785712",
     "productKey": "dc82d11f8b29eade",
     "titleHash": "3532c31d92333d51",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-22T22:31:30.405Z"
+  },
+  {
+    "itemId": "MLB5139760693",
+    "productKey": "c6ffc2bdedffd41c",
+    "titleHash": "7660bd2cc9a981c5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-22T22:46:31.724Z"
   }
 ]
