@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4564236093",
-    "productKey": "41888fb320739b37",
-    "titleHash": "3fc1ad64a62d5f86",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-18T11:46:26.190Z"
-  },
-  {
     "itemId": "MLB7829236100",
     "productKey": "e36a6435f85d422e",
     "titleHash": "b23daca646894c44",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-22T07:31:28.866Z"
+  },
+  {
+    "itemId": "MLB7606575730",
+    "productKey": "7ae62e631b538a5f",
+    "titleHash": "72426c512b75ce79",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-22T07:46:34.547Z"
   }
 ]
