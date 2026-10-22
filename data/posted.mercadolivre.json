@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7531233584",
-    "productKey": "f0c5518ea0cabfba",
-    "titleHash": "b801230ddad01ff0",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-18T11:31:28.694Z"
-  },
-  {
     "itemId": "MLB4367472775",
     "productKey": "fa34295fd787e18c",
     "titleHash": "190b71ddac76b50c",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-22T06:01:33.151Z"
+  },
+  {
+    "itemId": "MLB6833348182",
+    "productKey": "aef85a21267f2840",
+    "titleHash": "76ae0b41d915f8d3",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-22T07:01:41.646Z"
   }
 ]
