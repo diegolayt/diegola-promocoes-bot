@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3251982185",
-    "productKey": "6e6b0a0afa3e4adb",
-    "titleHash": "ba28ef2dcd7fcc21",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-18T05:01:32.955Z"
-  },
-  {
-    "itemId": "MLB4025119893",
-    "productKey": "6187b33bbd506a19",
-    "titleHash": "50514a501fdcd1b8",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-18T05:16:22.680Z"
-  },
-  {
     "itemId": "MLB5279468893",
     "productKey": "b216eb4ee71d5859",
     "titleHash": "5633cee274d6abaf",
@@ -4798,5 +4782,21 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-21T23:46:28.235Z"
+  },
+  {
+    "itemId": "MLB7160567726",
+    "productKey": "2b8d916b04c09f90",
+    "titleHash": "e6a0bbceb4a1566b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-22T00:01:35.040Z"
+  },
+  {
+    "itemId": "MLB5440730737",
+    "productKey": "b9ee45f2c4136d0e",
+    "titleHash": "ae8d97b0516bc2b5",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-22T00:01:35.040Z"
   }
 ]
