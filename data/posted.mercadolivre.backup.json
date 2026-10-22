@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4115638623",
-    "productKey": "9681761c11f42242",
-    "titleHash": "c506f453654b8575",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-18T17:16:24.022Z"
-  },
-  {
-    "itemId": "MLB3939720011",
-    "productKey": "aea2de8a7c5c3d52",
-    "titleHash": "fd8a49ba38884f61",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-18T17:16:24.023Z"
-  },
-  {
     "itemId": "MLB7398437480",
     "productKey": "55fe5d1edbec07e4",
     "titleHash": "104e502a7c2949d3",
@@ -4798,5 +4782,21 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-22T15:01:35.222Z"
+  },
+  {
+    "itemId": "MLB4046267101",
+    "productKey": "94515ec2fc819af0",
+    "titleHash": "2602411dd1f9a94a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-22T15:16:25.337Z"
+  },
+  {
+    "itemId": "MLB5980496924",
+    "productKey": "5e2b747dccadc7ed",
+    "titleHash": "b11c7c849e9f236c",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-22T15:16:25.338Z"
   }
 ]
