@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6670733424",
-    "productKey": "d39f44041eb93281",
-    "titleHash": "edd438d5a97d7a2a",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-18T21:31:29.742Z"
-  },
-  {
     "itemId": "MLB5295759634",
     "productKey": "06babd581101f23b",
     "titleHash": "49b321f683ef6a94",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-22T18:46:30.741Z"
+  },
+  {
+    "itemId": "MLB5433453689",
+    "productKey": "7b530b4b1ca8b409",
+    "titleHash": "16098ab31f1e5d10",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-22T19:01:30.179Z"
   }
 ]
