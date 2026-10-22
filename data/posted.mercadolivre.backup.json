@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4173586375",
-    "productKey": "c7ebf54e4fcc2fe3",
-    "titleHash": "5a9f86ddd7a1801f",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-18T17:46:22.917Z"
-  },
-  {
-    "itemId": "MLB6976567444",
-    "productKey": "10d83ae90f0fb762",
-    "titleHash": "5467f88d296880b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-18T17:46:22.917Z"
-  },
-  {
     "itemId": "MLB5249470421",
     "productKey": "7ff4850888a120db",
     "titleHash": "9c4f307b8d6d26f0",
@@ -4798,5 +4782,21 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-22T15:31:32.806Z"
+  },
+  {
+    "itemId": "MLB4335198040",
+    "productKey": "c6c6cafc5d31e22d",
+    "titleHash": "a51b760040ec713c",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-22T15:46:23.651Z"
+  },
+  {
+    "itemId": "MLB4473369755",
+    "productKey": "df4075e6f8f85700",
+    "titleHash": "1eb445f93e0337cb",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-22T15:46:23.651Z"
   }
 ]
