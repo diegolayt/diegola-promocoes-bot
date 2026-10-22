@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5305393609",
-    "productKey": "d28d7ff4dc319861",
-    "titleHash": "c7d4fc32964b4cb7",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-18T18:01:33.753Z"
-  },
-  {
     "itemId": "MLB5872798820",
     "productKey": "ec3b73f24f9af257",
     "titleHash": "802e07e18ad37e9b",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-22T16:01:42.767Z"
+  },
+  {
+    "itemId": "MLB6955970560",
+    "productKey": "98aa92e5a98722ca",
+    "titleHash": "b6dfdbb0bf292d78",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-22T16:16:29.694Z"
   }
 ]
