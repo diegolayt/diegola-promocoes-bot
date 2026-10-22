@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5279468893",
-    "productKey": "b216eb4ee71d5859",
-    "titleHash": "5633cee274d6abaf",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-18T05:16:22.680Z"
-  },
-  {
     "itemId": "MLB5378454342",
     "productKey": "d9f9ebef6ca08a2f",
     "titleHash": "ffe4bcc70178fb4b",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-22T00:01:35.040Z"
+  },
+  {
+    "itemId": "MLB4469987063",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-22T00:46:26.989Z"
   }
 ]
