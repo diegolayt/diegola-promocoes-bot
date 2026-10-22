@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3398173761",
-    "productKey": "3ad3274eb28b3f64",
-    "titleHash": "a87908bc89d55121",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-18T18:16:26.012Z"
-  },
-  {
     "itemId": "MLB6847613118",
     "productKey": "6a0f874da4937eb3",
     "titleHash": "994272fd0fa8ee25",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-22T16:31:28.486Z"
+  },
+  {
+    "itemId": "MLB4115638623",
+    "productKey": "9681761c11f42242",
+    "titleHash": "c506f453654b8575",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-22T16:46:28.322Z"
   }
 ]
