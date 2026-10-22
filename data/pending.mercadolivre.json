@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5275657315",
+      "site_id": "MLB",
+      "seller_id": 184291522,
+      "accepts_mercadopago": true,
+      "price": 501.49,
+      "category_id": "MLB1676",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 316622,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5238738135",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62998911",
+      "title": "Impressora Multifuncional HP DeskJet Ink Advantage 2975 Colorida 1 USB 2.0 de alta velocidade Wi-Fi de banda dupla - 100 a 240 VCA - AJ4Y4A#AK4",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_641445-MLA107256158981_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62998911",
+      "id": "MLB5275657315",
+      "sold_quantity": 300,
+      "rotationCategory": "impressão",
+      "sourceCategoryId": "MLB5875",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-10-22T04:31:33.011Z"
+}
