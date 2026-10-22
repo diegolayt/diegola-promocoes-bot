@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5295759634",
-    "productKey": "06babd581101f23b",
-    "titleHash": "49b321f683ef6a94",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-18T21:31:29.742Z"
-  },
-  {
     "itemId": "MLB6460314176",
     "productKey": "b77299d1c70b0260",
     "titleHash": "0a2f356ebff38ecb",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-22T19:01:30.179Z"
+  },
+  {
+    "itemId": "MLB4136557119",
+    "productKey": "3e2da9e46fe2ebe9",
+    "titleHash": "6d028c2aeaa8addc",
+    "category": "esporte",
+    "sourceCategoryId": null,
+    "reservedAt": "2026-10-22T19:16:34.096Z"
   }
 ]
