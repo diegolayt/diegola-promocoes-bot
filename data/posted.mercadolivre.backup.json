@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4549814415",
-    "productKey": "5707418a30805cbf",
-    "titleHash": "4e21a569e001ae6e",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-19T00:46:25.934Z"
-  },
-  {
     "itemId": "MLB5415014391",
     "productKey": "7e5eeb5fc2da9a55",
     "titleHash": "6ab4b45d11833727",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-22T22:16:25.428Z"
+  },
+  {
+    "itemId": "MLB4737632999",
+    "productKey": "9614c6fc06399731",
+    "titleHash": "84c3d0989b55ca0f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-22T22:31:30.405Z"
   }
 ]
