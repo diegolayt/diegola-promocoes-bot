@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4506025355",
-    "productKey": "e35e63157073651e",
-    "titleHash": "5e8971eaf2160afc",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-18T12:31:30.473Z"
-  },
-  {
     "itemId": "MLB5119947871",
     "productKey": "d3512e005bef4d49",
     "titleHash": "3b8d07d05440f04b",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-22T09:31:29.181Z"
+  },
+  {
+    "itemId": "MLB7863405154",
+    "productKey": "d3c8122c66a236de",
+    "titleHash": "71ae82c4e85b0492",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-22T10:31:28.256Z"
   }
 ]
