@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7606575730",
-    "productKey": "7ae62e631b538a5f",
-    "titleHash": "72426c512b75ce79",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-18T10:46:27.757Z"
-  },
-  {
     "itemId": "MLB4136557119",
     "productKey": "3e2da9e46fe2ebe9",
     "titleHash": "6d028c2aeaa8addc",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-22T05:31:29.671Z"
+  },
+  {
+    "itemId": "MLB5283205351",
+    "productKey": "794094e123a2d365",
+    "titleHash": "68fbd7ea594a31fc",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-22T05:46:26.881Z"
   }
 ]

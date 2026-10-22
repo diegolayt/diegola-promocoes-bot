@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5283205351",
+      "site_id": "MLB",
+      "seller_id": 3003299289,
+      "accepts_mercadopago": true,
+      "price": 367.39,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_channel",
+        "cbt_fulfillment_us",
+        "net_proceeds_prices",
+        "kvs_primary",
+        "cbt_item",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 489.85,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77515508",
+      "title": "Padrão físico do Ea Sports Fc 27 Nintendo Switch 1",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_998166-MLA116316327497_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77515508",
+      "id": "MLB5283205351",
+      "sold_quantity": 100,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-22T05:46:26.883Z"
+}
