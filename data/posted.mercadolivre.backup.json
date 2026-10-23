@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5814374120",
-    "productKey": "2e453f95c6f33ca8",
-    "titleHash": "14a43f99ec759431",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-19T16:01:31.401Z"
-  },
-  {
-    "itemId": "MLB5451861382",
-    "productKey": "587d20e08660bde7",
-    "titleHash": "990a1ea0e342ba85",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-19T16:01:31.401Z"
-  },
-  {
-    "itemId": "MLB1630337787",
-    "productKey": "d22fa65cdb3c5323",
-    "titleHash": "61315aeef9dd29e4",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-19T16:16:26.053Z"
-  },
-  {
     "itemId": "MLB6031519290",
     "productKey": "2532e31a0aaf52da",
     "titleHash": "4acde22d1ceae8f4",
@@ -4798,5 +4774,29 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-23T14:31:36.398Z"
+  },
+  {
+    "itemId": "MLB4571774956",
+    "productKey": "2fe42a867bd7bb87",
+    "titleHash": "3d354dd6afa71c15",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-23T14:46:30.709Z"
+  },
+  {
+    "itemId": "MLB3665915905",
+    "productKey": "2b5b72c2be62bc4b",
+    "titleHash": "984edfae42a6bc46",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-23T14:46:30.709Z"
+  },
+  {
+    "itemId": "MLB4079863189",
+    "productKey": "0c719e2b6f08c62f",
+    "titleHash": "b98e10c788d858aa",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-23T14:46:30.709Z"
   }
 ]
