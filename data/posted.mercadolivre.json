@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6073502876",
-    "productKey": "9badbfbd76dd1c0a",
-    "titleHash": "1ccdd80b94cd74ff",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-19T16:46:36.133Z"
-  },
-  {
     "itemId": "MLB5204974907",
     "productKey": "7cea41114e64d915",
     "titleHash": "71c36229283c5f66",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-23T15:31:32.422Z"
+  },
+  {
+    "itemId": "MLB6362121356",
+    "productKey": "2e453f95c6f33ca8",
+    "titleHash": "14a43f99ec759431",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-23T15:46:29.323Z"
   }
 ]
