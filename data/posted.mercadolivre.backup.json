@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB2748787238",
-    "productKey": "29a167728a58669c",
-    "titleHash": "a40852fe2e7ef3d0",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-19T15:01:37.377Z"
-  },
-  {
-    "itemId": "MLB6149243620",
-    "productKey": "bcbbe4f76ea2dd1b",
-    "titleHash": "bc757d227537bb1b",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T15:16:27.549Z"
-  },
-  {
-    "itemId": "MLB6167412392",
-    "productKey": "640f8d3c0cbc4c83",
-    "titleHash": "d30118097bc8aca5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-19T15:31:30.638Z"
-  },
-  {
-    "itemId": "MLB4079863189",
-    "productKey": "0c719e2b6f08c62f",
-    "titleHash": "b98e10c788d858aa",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-19T15:47:09.027Z"
-  },
-  {
     "itemId": "MLB5687621228",
     "productKey": "c56d82e397f7eda7",
     "titleHash": "e3119767a5bc6fc2",
@@ -4798,5 +4766,37 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-23T14:01:44.150Z"
+  },
+  {
+    "itemId": "MLB4567825884",
+    "productKey": "d4312e0d6c2931f5",
+    "titleHash": "897b790bb2a290b2",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-23T14:16:32.678Z"
+  },
+  {
+    "itemId": "MLB3171370808",
+    "productKey": "0f4e16548e902113",
+    "titleHash": "392c33d8863a7295",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-23T14:16:32.679Z"
+  },
+  {
+    "itemId": "MLB7690840340",
+    "productKey": "7720820a953562b0",
+    "titleHash": "f63dfdf04a782b09",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-23T14:16:32.679Z"
+  },
+  {
+    "itemId": "MLB6136459450",
+    "productKey": "01b83afad55f31c1",
+    "titleHash": "84ad45755322ea1e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-23T14:16:32.679Z"
   }
 ]
