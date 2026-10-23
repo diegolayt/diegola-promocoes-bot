@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5412156175",
-    "productKey": "3a80315e87a71f5f",
-    "titleHash": "d67494a9c8764546",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-19T16:31:19.796Z"
-  },
-  {
-    "itemId": "MLB5288116559",
-    "productKey": "dd59d5b8ac2a5734",
-    "titleHash": "e42d2354a34bd978",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-19T16:31:19.796Z"
-  },
-  {
     "itemId": "MLB4803444408",
     "productKey": "9c3a87a69ce5d47d",
     "titleHash": "e9fd587ca95039fb",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-23T15:01:46.215Z"
+  },
+  {
+    "itemId": "MLB3269837602",
+    "productKey": "eb39781cba8c5ba7",
+    "titleHash": "9e968352a8f3a15c",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-23T15:16:26.687Z"
+  },
+  {
+    "itemId": "MLB5448102837",
+    "productKey": "566cd97ce7c0cedd",
+    "titleHash": "4b6513dfe9fb0f5e",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-23T15:16:26.687Z"
   }
 ]
