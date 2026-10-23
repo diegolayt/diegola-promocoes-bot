@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5325044543",
-    "productKey": "45808aef9e36af2b",
-    "titleHash": "0fed13623550fa42",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-19T22:46:27.510Z"
-  },
-  {
-    "itemId": "MLB5372078478",
-    "productKey": "12c33843ea3ba516",
-    "titleHash": "f5092e1b3b45ec90",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-19T22:46:27.511Z"
-  },
-  {
     "itemId": "MLB5426113967",
     "productKey": "29c9a91aa6cd5a22",
     "titleHash": "07d5de92993aff14",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-23T21:01:27.863Z"
+  },
+  {
+    "itemId": "MLB4935535334",
+    "productKey": "e9455fbd3cb133ae",
+    "titleHash": "947cef40e57cf05a",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-23T21:16:28.126Z"
+  },
+  {
+    "itemId": "MLB5168303995",
+    "productKey": "7903f35556480818",
+    "titleHash": "f360d04381e8e03e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-23T21:16:28.126Z"
   }
 ]
