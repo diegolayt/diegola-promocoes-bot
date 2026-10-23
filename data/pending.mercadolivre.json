@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5768825826",
+      "site_id": "MLB",
+      "seller_id": 257919653,
+      "accepts_mercadopago": true,
+      "price": 294.4,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 724,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJVGEzZGJj",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjg0MTUx",
+          "name": "Jardim Camburi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3470754554",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46101113",
+      "title": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6L 8 receitas pré-sugeridas timer 60 minutos desligamento automático cesto removivel dupla camada antiaderente - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_719301-MLA99996659519_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46101113",
+      "id": "MLB5768825826",
+      "sold_quantity": 1200,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5094439754",
+      "site_id": "MLB",
+      "seller_id": 1063424391,
+      "accepts_mercadopago": true,
+      "price": 199.9,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2160,
+      "original_price": 344.06,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk7aQzB3MjVl",
+          "name": "Núcleo do Engordador"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1790594641",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41312782",
+      "title": "Furadeira De Impacto 13mm 750w Profissional Com Kit Brocas Buchas E Bits 300 Peças The Black Tools",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_688628-MLA99945698855_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41312782",
+      "id": "MLB5094439754",
+      "sold_quantity": 1200,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5295759634",
+      "site_id": "MLB",
+      "seller_id": 1158756553,
+      "accepts_mercadopago": true,
+      "price": 1199,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2962,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 19.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTENBUDI1",
+          "name": "Vila São Francisco (Zona Sul)"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3017084897",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46196451",
+      "title": "Monitor Gamer Samsung Odyssey G5, 32 ,qhd, 165hz,1ms,hdmi,dp Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_987462-MLA99509630578_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46196451",
+      "id": "MLB5295759634",
+      "sold_quantity": 1200,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB6585192056",
+      "site_id": "MLB",
+      "seller_id": 2240821492,
+      "accepts_mercadopago": true,
+      "price": 4599,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1P0zE4Mjc",
+          "name": "Moóca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3893199148",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47734014",
+      "title": "Apple iPad Wi-Fi A6 256 GB Azul 11 polegadas",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_893000-MLA99508950102_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47734014",
+      "id": "MLB6585192056",
+      "sold_quantity": 900,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-23T00:46:32.360Z"
+}
