@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4089347501",
-    "productKey": "f404f4d48a375164",
-    "titleHash": "4ecc5e6577f6dfe7",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-19T10:16:27.991Z"
-  },
-  {
-    "itemId": "MLB7804106250",
-    "productKey": "2c05ad29d963968c",
-    "titleHash": "26447a25bca334e9",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-19T10:16:27.991Z"
-  },
-  {
-    "itemId": "MLB5236965580",
-    "productKey": "ed3df50a2cbf5f8f",
-    "titleHash": "b659e2c201fc5062",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-19T10:16:27.991Z"
-  },
-  {
     "itemId": "MLB7791408660",
     "productKey": "bfd6728ad1b171f9",
     "titleHash": "181b50122314a076",
@@ -4798,5 +4774,29 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-23T11:31:34.812Z"
+  },
+  {
+    "itemId": "MLB6695260200",
+    "productKey": "ee8fd5861a3c2696",
+    "titleHash": "f8bfd64d734b86ee",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-23T11:46:30.771Z"
+  },
+  {
+    "itemId": "MLB4880764075",
+    "productKey": "cd6908a1373b2654",
+    "titleHash": "08f953c8f96c4c54",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-23T11:46:30.771Z"
+  },
+  {
+    "itemId": "MLB7861172134",
+    "productKey": "8be3319e521559cd",
+    "titleHash": "23cf86b709b0138e",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-23T11:46:30.771Z"
   }
 ]
