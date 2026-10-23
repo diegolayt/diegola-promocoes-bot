@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6764557012",
-    "productKey": "2fbf4e278f428da4",
-    "titleHash": "60e6c7fff123c448",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-19T05:16:21.294Z"
-  },
-  {
-    "itemId": "MLB4104379865",
-    "productKey": "bcc383aebf7b4b19",
-    "titleHash": "7497e9df0d7cbdd8",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T05:31:30.789Z"
-  },
-  {
-    "itemId": "MLB2741816846",
-    "productKey": "8dc3f44528f03a95",
-    "titleHash": "6ad6eb236525cbe1",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-19T05:31:30.790Z"
-  },
-  {
     "itemId": "MLB4755857128",
     "productKey": "79d5c8260fac4419",
     "titleHash": "8d80c6d8b8751a60",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-23T06:46:19.202Z"
+  },
+  {
+    "itemId": "MLB4571210341",
+    "productKey": "163a58eb61a4412f",
+    "titleHash": "bbadc9cd22e0fc10",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-23T07:01:32.901Z"
+  },
+  {
+    "itemId": "MLB4222763449",
+    "productKey": "03268f9fe00e909e",
+    "titleHash": "6ed609609a19a867",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-23T07:01:32.901Z"
+  },
+  {
+    "itemId": "MLB5849862690",
+    "productKey": "e93db4dd324e5388",
+    "titleHash": "f77e10024cba7000",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-23T07:01:32.901Z"
   }
 ]
