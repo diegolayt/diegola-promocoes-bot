@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7703232310",
-    "productKey": "f0ce6c3f19f94762",
-    "titleHash": "2e4937b263ba3a23",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-19T04:31:28.465Z"
-  },
-  {
     "itemId": "MLB5406339018",
     "productKey": "5b5dbe709902e2fc",
     "titleHash": "5310defd20b8b0a1",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-23T04:16:31.464Z"
+  },
+  {
+    "itemId": "MLB4835180937",
+    "productKey": "abf8d06c6cfb1b90",
+    "titleHash": "96e7f5a9a79b44c8",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-23T04:31:30.089Z"
   }
 ]
