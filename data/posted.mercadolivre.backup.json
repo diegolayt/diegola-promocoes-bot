@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6611494338",
-    "productKey": "22c1ab81d170e902",
-    "titleHash": "59b69a48e3f7ae93",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-19T03:31:30.263Z"
-  },
-  {
-    "itemId": "MLB2634448552",
-    "productKey": "8af7df7f67736088",
-    "titleHash": "424920e3dd208530",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-19T03:31:30.263Z"
-  },
-  {
     "itemId": "MLB5401675507",
     "productKey": "1317d74e4994bd84",
     "titleHash": "9c2438faaf66bd09",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-23T01:01:33.139Z"
+  },
+  {
+    "itemId": "MLB7496635486",
+    "productKey": "8ae7405dd918a2cd",
+    "titleHash": "8e1453fbe72a1d3d",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-23T01:16:24.491Z"
+  },
+  {
+    "itemId": "MLB7751651742",
+    "productKey": "a086c918d8e9500d",
+    "titleHash": "1c3a6dcf9a109e1b",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-23T01:16:24.491Z"
   }
 ]
