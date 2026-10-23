@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4918720209",
-    "productKey": "3ad28d3ab7cdc3e1",
-    "titleHash": "0dce5e6573583672",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-19T23:16:28.554Z"
-  },
-  {
     "itemId": "MLB5305949711",
     "productKey": "2747814ce2da6c46",
     "titleHash": "07a27ab6469c0759",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-23T22:01:35.630Z"
+  },
+  {
+    "itemId": "MLB5413776368",
+    "productKey": "43ab81ed3d64cbfc",
+    "titleHash": "847b82f5eeb65c22",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-23T22:16:25.286Z"
   }
 ]
