@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7834333016",
-    "productKey": "fee0803db3fdd4f9",
-    "titleHash": "036294730bf79c55",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-19T19:01:29.443Z"
-  },
-  {
-    "itemId": "MLB4812800951",
-    "productKey": "c35a669e46b7da0b",
-    "titleHash": "8e19706523f27ea7",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-19T19:01:29.443Z"
-  },
-  {
     "itemId": "MLB7844876326",
     "productKey": "ceaea8496330561a",
     "titleHash": "dab03d2d1a5cb4d4",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-23T17:31:30.035Z"
+  },
+  {
+    "itemId": "MLB2749142843",
+    "productKey": "c61bb77a90f70d42",
+    "titleHash": "e318b8d137692aca",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-23T17:46:32.981Z"
+  },
+  {
+    "itemId": "MLB5401136799",
+    "productKey": "0f0fdb96cb6446aa",
+    "titleHash": "1670416b92bd28cb",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-23T17:46:32.982Z"
   }
 ]
