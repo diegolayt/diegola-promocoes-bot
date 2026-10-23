@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5219998762",
-    "productKey": "ab0f5abeb7d01b34",
-    "titleHash": "3dd9c056269296af",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-19T21:16:28.926Z"
-  },
-  {
     "itemId": "MLB4091456221",
     "productKey": "40f3ce023dcaf098",
     "titleHash": "43b0e8b2f3e2ee28",
@@ -4798,5 +4790,13 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-23T19:16:29.567Z"
+  },
+  {
+    "itemId": "MLB4320329461",
+    "productKey": "ec1a0f6646947a52",
+    "titleHash": "8194a721d6cd8807",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-23T19:31:31.269Z"
   }
 ]
