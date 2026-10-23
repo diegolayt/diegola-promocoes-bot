@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4974891277",
-    "productKey": "a1d280e4c3ee7ae6",
-    "titleHash": "94ccd298a23fb896",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-19T04:31:28.465Z"
-  },
-  {
     "itemId": "MLB5419730645",
     "productKey": "39f234c0411da2b5",
     "titleHash": "d72a8cee8599555e",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-23T04:46:24.346Z"
+  },
+  {
+    "itemId": "MLB5298166742",
+    "productKey": "d39b1ecff1553030",
+    "titleHash": "589e36cf1c58b931",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-23T05:46:25.585Z"
   }
 ]
