@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5130081305",
-    "productKey": "a2a3edc1809c6c6b",
-    "titleHash": "b14b8b4878c17f55",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-19T03:46:17.250Z"
-  },
-  {
     "itemId": "MLB7771525960",
     "productKey": "bc83df21726f1846",
     "titleHash": "89aefc55a86b317a",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-23T02:01:30.163Z"
+  },
+  {
+    "itemId": "MLB4811259715",
+    "productKey": "7abc3c7eceaff66c",
+    "titleHash": "0770fcd7bab16021",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-23T03:01:35.548Z"
   }
 ]
