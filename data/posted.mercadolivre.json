@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7149675174",
-    "productKey": "f88cd67de76efd80",
-    "titleHash": "14deb3731385e2e7",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-19T20:16:25.286Z"
-  },
-  {
     "itemId": "MLB5770130082",
     "productKey": "e6db9c07805af9aa",
     "titleHash": "89577e9cd55fb731",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-23T18:31:31.303Z"
+  },
+  {
+    "itemId": "MLB3917376669",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-23T18:46:28.237Z"
   }
 ]
