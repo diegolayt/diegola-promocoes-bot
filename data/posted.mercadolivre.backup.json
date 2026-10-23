@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6031519290",
-    "productKey": "2532e31a0aaf52da",
-    "titleHash": "4acde22d1ceae8f4",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-19T16:31:19.796Z"
-  },
-  {
-    "itemId": "MLB4516658475",
-    "productKey": "bed9824c15628b27",
-    "titleHash": "087ef1e47e318558",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-19T16:31:19.796Z"
-  },
-  {
     "itemId": "MLB5412156175",
     "productKey": "3a80315e87a71f5f",
     "titleHash": "d67494a9c8764546",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-23T14:46:30.709Z"
+  },
+  {
+    "itemId": "MLB5575158922",
+    "productKey": "470a6f69c29f9087",
+    "titleHash": "128e67c8b561c343",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-23T15:01:46.214Z"
+  },
+  {
+    "itemId": "MLB3556275459",
+    "productKey": "f8860107ce3c1512",
+    "titleHash": "62799891c9cef2b5",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-23T15:01:46.215Z"
   }
 ]
