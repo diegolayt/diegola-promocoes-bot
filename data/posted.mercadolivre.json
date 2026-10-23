@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7844876326",
-    "productKey": "ceaea8496330561a",
-    "titleHash": "dab03d2d1a5cb4d4",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-19T19:01:29.443Z"
-  },
-  {
-    "itemId": "MLB4035471677",
-    "productKey": "c6d850128e0d4647",
-    "titleHash": "0d363bda659ba892",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-19T19:16:31.231Z"
-  },
-  {
-    "itemId": "MLB7686159772",
-    "productKey": "45a7144daaa80c5a",
-    "titleHash": "8b43e2f0b059a1b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-19T19:16:31.232Z"
-  },
-  {
     "itemId": "MLB7812754282",
     "productKey": "a1085792541f2e70",
     "titleHash": "d8faca7aab92efc8",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-23T17:46:32.982Z"
+  },
+  {
+    "itemId": "MLB4258372955",
+    "productKey": "bac4b976444016af",
+    "titleHash": "5ee95c201463689d",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-10-23T18:01:43.118Z"
+  },
+  {
+    "itemId": "MLB5348096159",
+    "productKey": "03008c6577cd30c3",
+    "titleHash": "1fc506b4f9497957",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-23T18:01:43.118Z"
+  },
+  {
+    "itemId": "MLB4571808527",
+    "productKey": "c2c20abe683b2104",
+    "titleHash": "bbecf78f74751795",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-23T18:01:43.118Z"
   }
 ]
