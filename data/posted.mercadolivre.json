@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7791408660",
-    "productKey": "bfd6728ad1b171f9",
-    "titleHash": "181b50122314a076",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-19T10:16:27.991Z"
-  },
-  {
-    "itemId": "MLB4836902343",
-    "productKey": "66c7b386fec7fb85",
-    "titleHash": "07d3743c349b4b43",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-19T10:31:30.308Z"
-  },
-  {
-    "itemId": "MLB5957865496",
-    "productKey": "6cb8a3bad69a7f8b",
-    "titleHash": "5f5b66ae18a9ad3b",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-19T10:46:27.830Z"
-  },
-  {
     "itemId": "MLB7719076464",
     "productKey": "05eaa0848b465a93",
     "titleHash": "b681da8bcb61bb84",
@@ -4798,5 +4774,29 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-23T11:46:30.771Z"
+  },
+  {
+    "itemId": "MLB3865337689",
+    "productKey": "8966f7090ac1116d",
+    "titleHash": "0257198e68c33f08",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-23T12:01:39.193Z"
+  },
+  {
+    "itemId": "MLB3509736487",
+    "productKey": "8c0d33a795b15f6e",
+    "titleHash": "d094143229ed8d2c",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-23T12:01:39.193Z"
+  },
+  {
+    "itemId": "MLB5812393646",
+    "productKey": "d76bba99e09b3844",
+    "titleHash": "321d8c2ae24df17a",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-23T12:01:39.193Z"
   }
 ]
