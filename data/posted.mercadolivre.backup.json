@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3556275459",
-    "productKey": "f8860107ce3c1512",
-    "titleHash": "62799891c9cef2b5",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-19T09:01:30.661Z"
-  },
-  {
-    "itemId": "MLB6062580776",
-    "productKey": "8966f7090ac1116d",
-    "titleHash": "0257198e68c33f08",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-19T09:16:27.167Z"
-  },
-  {
     "itemId": "MLB4279453765",
     "productKey": "8be3319e521559cd",
     "titleHash": "23cf86b709b0138e",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-23T10:31:29.999Z"
+  },
+  {
+    "itemId": "MLB7640376592",
+    "productKey": "19f894e9b99512b0",
+    "titleHash": "8cfef630b18b2465",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-23T10:46:29.598Z"
+  },
+  {
+    "itemId": "MLB3962827161",
+    "productKey": "a10e4951f82890f8",
+    "titleHash": "8def19382390978f",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-23T10:46:29.598Z"
   }
 ]
