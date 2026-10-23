@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3834613632",
-    "productKey": "ee0dbc224e78ee1d",
-    "titleHash": "1a8ebcf3c93afa37",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-19T11:46:27.747Z"
-  },
-  {
-    "itemId": "MLB5575158922",
-    "productKey": "470a6f69c29f9087",
-    "titleHash": "128e67c8b561c343",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T12:01:35.680Z"
-  },
-  {
     "itemId": "MLB6906628416",
     "productKey": "afdc8b9a0fdca6b9",
     "titleHash": "e6c7a1e4ae50579a",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-23T12:16:27.102Z"
+  },
+  {
+    "itemId": "MLB3783973037",
+    "productKey": "79904641cb78c39e",
+    "titleHash": "c6c910964afbee15",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-23T12:31:32.771Z"
+  },
+  {
+    "itemId": "MLB6656456936",
+    "productKey": "ed3df50a2cbf5f8f",
+    "titleHash": "b659e2c201fc5062",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-23T12:31:32.771Z"
   }
 ]
