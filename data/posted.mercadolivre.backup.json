@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7075800916",
-    "productKey": "0d89405e65a8c65e",
-    "titleHash": "d8d5e40afde92978",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-19T13:16:26.282Z"
-  },
-  {
-    "itemId": "MLB5315131669",
-    "productKey": "0e6e44766b5d5a20",
-    "titleHash": "4c3204a9c9aec40b",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-19T13:31:28.938Z"
-  },
-  {
     "itemId": "MLB4607832095",
     "productKey": "abdd2f1282b8b459",
     "titleHash": "0a380cdcd01571d6",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-23T12:46:25.527Z"
+  },
+  {
+    "itemId": "MLB6611494338",
+    "productKey": "22c1ab81d170e902",
+    "titleHash": "59b69a48e3f7ae93",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-23T13:01:34.450Z"
+  },
+  {
+    "itemId": "MLB5316088743",
+    "productKey": "429e344a68635eec",
+    "titleHash": "0d6a97bbb0f3ef1c",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-23T13:01:34.450Z"
   }
 ]
