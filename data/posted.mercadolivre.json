@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4705282611",
-    "productKey": "d15ef148c8e1c044",
-    "titleHash": "e3e66864a5b76639",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-19T22:46:27.511Z"
-  },
-  {
     "itemId": "MLB5413776368",
     "productKey": "43ab81ed3d64cbfc",
     "titleHash": "847b82f5eeb65c22",
@@ -4798,5 +4790,13 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-10-23T21:31:32.169Z"
+  },
+  {
+    "itemId": "MLB6949268730",
+    "productKey": "6e158df3dcbb96cd",
+    "titleHash": "639b847efcd22948",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-23T21:46:30.470Z"
   }
 ]
