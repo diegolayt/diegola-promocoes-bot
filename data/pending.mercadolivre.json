@@ -1,0 +1,333 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5002942623",
+      "site_id": "MLB",
+      "seller_id": 257919653,
+      "accepts_mercadopago": true,
+      "price": 373.65,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 795,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJVGEzZGJj",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjg0MTUx",
+          "name": "Jardim Camburi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4590240997",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63708330",
+      "title": "Monitor LG LED 20\" - HD+, 75Hz, 2ms, HDMI/VGA, Modo Leitura, Flicker Safe, Black Stabilizer, Dynamic Action Sync, Preto- 20U401A",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_699928-MLA105314087580_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63708330",
+      "id": "MLB5002942623",
+      "sold_quantity": 1100,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB3911197949",
+      "site_id": "MLB",
+      "seller_id": 745473269,
+      "accepts_mercadopago": true,
+      "price": 149.9,
+      "category_id": "MLB117806",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "has_published_clips",
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 191282,
+      "original_price": 195,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUmZ0MW4z",
+          "name": "Jardim Cumbica"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2813848494",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41967371",
+      "title": "Árvore De Natal Premium Pinheiro Cheia Luxo 180cm 750 Galhos Cor Verde",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_604620-MLA115410600760_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41967371",
+      "id": "MLB3911197949",
+      "sold_quantity": 300,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB4434428164",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 111.77,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "kit_component",
+        "extended_warranty_eligible",
+        "first_party",
+        "dynamic_standard_price",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "1p_2x_campaign",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4635,
+      "original_price": 119.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2263954748",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23743709",
+      "title": "Mouse sem fio Logitech Pebble 2 M350s - Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_965045-MLA99481399148_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23743709",
+      "id": "MLB4434428164",
+      "sold_quantity": 1000,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7657468874",
+      "site_id": "MLB",
+      "seller_id": 3576879716,
+      "accepts_mercadopago": true,
+      "price": 287.9,
+      "category_id": "MLB3843",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYVmlsYSBGb3Jtb3NhVFZoWVVISmxjMmxrW",
+          "name": "Vila Formosa"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5194795901",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67497923",
+      "title": "Caixa Som Jbl Go 5 Bluetooth Portátil Prova Dágua Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_950447-MLA118749299849_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67497923",
+      "id": "MLB7657468874",
+      "sold_quantity": 1800,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-23T06:46:19.203Z"
+}
