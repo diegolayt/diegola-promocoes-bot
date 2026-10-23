@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2749142843",
-    "productKey": "c61bb77a90f70d42",
-    "titleHash": "e318b8d137692aca",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-19T18:16:27.138Z"
-  },
-  {
     "itemId": "MLB5401136799",
     "productKey": "0f0fdb96cb6446aa",
     "titleHash": "1670416b92bd28cb",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-23T16:46:27.164Z"
+  },
+  {
+    "itemId": "MLB7044000776",
+    "productKey": "0129e0ad07cd5b49",
+    "titleHash": "254070ed90aabce5",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-23T17:01:37.827Z"
   }
 ]
