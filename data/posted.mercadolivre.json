@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4803444408",
-    "productKey": "9c3a87a69ce5d47d",
-    "titleHash": "e9fd587ca95039fb",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-19T16:46:36.133Z"
-  },
-  {
     "itemId": "MLB6073502876",
     "productKey": "9badbfbd76dd1c0a",
     "titleHash": "1ccdd80b94cd74ff",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-23T15:16:26.687Z"
+  },
+  {
+    "itemId": "MLB7338966308",
+    "productKey": "e45e7ce2520ec55f",
+    "titleHash": "58d4fc2df4ea9377",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-23T15:31:32.422Z"
   }
 ]
