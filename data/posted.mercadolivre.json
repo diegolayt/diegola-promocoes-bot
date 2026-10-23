@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5426113967",
-    "productKey": "29c9a91aa6cd5a22",
-    "titleHash": "07d5de92993aff14",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-19T22:46:27.511Z"
-  },
-  {
     "itemId": "MLB4705282611",
     "productKey": "d15ef148c8e1c044",
     "titleHash": "e3e66864a5b76639",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-23T21:16:28.126Z"
+  },
+  {
+    "itemId": "MLB4196892855",
+    "productKey": "7c1acb43a5d485b1",
+    "titleHash": "0f2c660eb4e7faff",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-23T21:31:32.169Z"
   }
 ]
