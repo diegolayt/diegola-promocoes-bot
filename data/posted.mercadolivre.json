@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4537371835",
-    "productKey": "cb0374b29bdf7cf4",
-    "titleHash": "6765def2c424013a",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-19T17:16:28.282Z"
-  },
-  {
-    "itemId": "MLB5681133066",
-    "productKey": "7335295731f87564",
-    "titleHash": "8f2edb66e9dc7cb0",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-19T17:31:30.011Z"
-  },
-  {
     "itemId": "MLB5274910975",
     "productKey": "d4b61b68ddb2f8d0",
     "titleHash": "1d327597d8aaca1c",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-23T16:01:37.577Z"
+  },
+  {
+    "itemId": "MLB5451861382",
+    "productKey": "587d20e08660bde7",
+    "titleHash": "990a1ea0e342ba85",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-23T16:16:26.896Z"
+  },
+  {
+    "itemId": "MLB7610966518",
+    "productKey": "abdd2f1282b8b459",
+    "titleHash": "0a380cdcd01571d6",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-23T16:16:26.897Z"
   }
 ]
