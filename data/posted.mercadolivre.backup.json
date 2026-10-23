@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6819437892",
-    "productKey": "398190200de201c1",
-    "titleHash": "2f5a00c8a92decec",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-19T23:46:28.751Z"
-  },
-  {
     "itemId": "MLB7810690516",
     "productKey": "90b6a387b0af9d73",
     "titleHash": "7dca2d6e77e75dd7",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-23T23:01:36.323Z"
+  },
+  {
+    "itemId": "MLB7413456100",
+    "productKey": "f59ad2d75ea00ed2",
+    "titleHash": "2eeeca2ccff60b6f",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-23T23:16:22.009Z"
   }
 ]
