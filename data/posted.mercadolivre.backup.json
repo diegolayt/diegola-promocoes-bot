@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2820196075",
-    "productKey": "9be23f720e3d6d4f",
-    "titleHash": "b4d7c6e7b7ef601d",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-19T02:01:39.556Z"
-  },
-  {
     "itemId": "MLB5410636044",
     "productKey": "268fe1dcba87ee28",
     "titleHash": "0b023d35ca0abbf6",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-23T00:16:26.454Z"
+  },
+  {
+    "itemId": "MLB3473394047",
+    "productKey": "762275457dd03b6f",
+    "titleHash": "2a5879481138b5ec",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-23T00:31:33.567Z"
   }
 ]
