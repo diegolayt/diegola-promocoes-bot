@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7719076464",
-    "productKey": "05eaa0848b465a93",
-    "titleHash": "b681da8bcb61bb84",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-19T11:16:23.666Z"
-  },
-  {
     "itemId": "MLB3834613632",
     "productKey": "ee0dbc224e78ee1d",
     "titleHash": "1a8ebcf3c93afa37",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-23T12:01:39.193Z"
+  },
+  {
+    "itemId": "MLB7863311312",
+    "productKey": "a6ddc6408e6a83c4",
+    "titleHash": "f244f09f7432116d",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-23T12:16:27.102Z"
   }
 ]
