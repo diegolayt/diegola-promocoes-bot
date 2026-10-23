@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5406339018",
-    "productKey": "5b5dbe709902e2fc",
-    "titleHash": "5310defd20b8b0a1",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-19T04:31:28.465Z"
-  },
-  {
     "itemId": "MLB4974891277",
     "productKey": "a1d280e4c3ee7ae6",
     "titleHash": "94ccd298a23fb896",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-23T04:31:30.089Z"
+  },
+  {
+    "itemId": "MLB7736600904",
+    "productKey": "f0ce6c3f19f94762",
+    "titleHash": "2e4937b263ba3a23",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-23T04:46:24.346Z"
   }
 ]
