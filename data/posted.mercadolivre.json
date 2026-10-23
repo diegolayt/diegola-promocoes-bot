@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5348096159",
-    "productKey": "03008c6577cd30c3",
-    "titleHash": "1fc506b4f9497957",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T18:16:27.137Z"
-  },
-  {
-    "itemId": "MLB4357151563",
-    "productKey": "c2c20abe683b2104",
-    "titleHash": "bbecf78f74751795",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-19T18:16:27.138Z"
-  },
-  {
     "itemId": "MLB2749142843",
     "productKey": "c61bb77a90f70d42",
     "titleHash": "e318b8d137692aca",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-23T16:31:37.770Z"
+  },
+  {
+    "itemId": "MLB7348198478",
+    "productKey": "9605bcb8c9171373",
+    "titleHash": "197684dd4f02c4f0",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-23T16:46:27.164Z"
+  },
+  {
+    "itemId": "MLB5383007250",
+    "productKey": "cb0374b29bdf7cf4",
+    "titleHash": "6765def2c424013a",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-23T16:46:27.164Z"
   }
 ]
