@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5413776368",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-19T23:01:34.834Z"
-  },
-  {
-    "itemId": "MLB3897807155",
-    "productKey": "faec2e4d8d4b7bcc",
-    "titleHash": "81b88b0bc1856a15",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-19T23:16:28.554Z"
-  },
-  {
     "itemId": "MLB4918720209",
     "productKey": "3ad28d3ab7cdc3e1",
     "titleHash": "0dce5e6573583672",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-23T21:46:30.470Z"
+  },
+  {
+    "itemId": "MLB3845254515",
+    "productKey": "c51898934732d05c",
+    "titleHash": "2f77857bd51fad93",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-23T22:01:35.630Z"
+  },
+  {
+    "itemId": "MLB7868759202",
+    "productKey": "4e3f4c35024a7d4c",
+    "titleHash": "c05ea3c2f80d0174",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-23T22:01:35.630Z"
   }
 ]
