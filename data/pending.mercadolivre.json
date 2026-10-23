@@ -1,0 +1,155 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6989157852",
+      "site_id": "MLB",
+      "seller_id": 662536798,
+      "accepts_mercadopago": true,
+      "price": 149,
+      "category_id": "MLB456055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 249.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JPTWE0ZWU5",
+          "name": "Bom Jesus do Norte"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU4114992813",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53669789",
+      "title": "Moedor de Café Elétrico Oster OMDR110 150W",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_696692-MLA99960905053_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53669789",
+      "id": "MLB6989157852",
+      "sold_quantity": 400,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6073502876",
+      "site_id": "MLB",
+      "seller_id": 2980925626,
+      "accepts_mercadopago": true,
+      "price": 1156.41,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "cbt_fulfillment_us",
+        "cbt_item",
+        "standard_price_by_channel",
+        "kvs_primary",
+        "net_proceeds_prices",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52862035",
+      "title": "Tablet Xiaomi Redmi Pad 2 128gb 4 Ram Wi-fi Green Verde Verde",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_908499-MLA105887605914_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52862035",
+      "id": "MLB6073502876",
+      "sold_quantity": 1600,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-23T16:31:37.773Z"
+}

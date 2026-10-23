@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5274910975",
-    "productKey": "d4b61b68ddb2f8d0",
-    "titleHash": "1d327597d8aaca1c",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-19T18:01:38.749Z"
-  },
-  {
-    "itemId": "MLB5238469569",
-    "productKey": "cf31f194e5125ea5",
-    "titleHash": "53f465883ca4f30e",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-19T18:01:38.749Z"
-  },
-  {
     "itemId": "MLB5348096159",
     "productKey": "03008c6577cd30c3",
     "titleHash": "1fc506b4f9497957",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-23T16:16:26.897Z"
+  },
+  {
+    "itemId": "MLB6989157852",
+    "productKey": "3b6eb982e74b6702",
+    "titleHash": "889a963d1c9bef64",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-23T16:31:37.770Z"
+  },
+  {
+    "itemId": "MLB6073502876",
+    "productKey": "9badbfbd76dd1c0a",
+    "titleHash": "1ccdd80b94cd74ff",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-23T16:31:37.770Z"
   }
 ]
