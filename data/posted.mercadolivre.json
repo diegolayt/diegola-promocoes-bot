@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4091456221",
-    "productKey": "40f3ce023dcaf098",
-    "titleHash": "43b0e8b2f3e2ee28",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-19T21:16:28.926Z"
-  },
-  {
-    "itemId": "MLB4256696421",
-    "productKey": "e6ad6b20e76f3aca",
-    "titleHash": "63fbb386c85e9033",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-19T21:16:28.926Z"
-  },
-  {
     "itemId": "MLB5681973296",
     "productKey": "e9455fbd3cb133ae",
     "titleHash": "947cef40e57cf05a",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-23T19:31:31.269Z"
+  },
+  {
+    "itemId": "MLB5681601188",
+    "productKey": "33e58474e547384e",
+    "titleHash": "fb74ca65aa81c14b",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-23T19:46:34.132Z"
+  },
+  {
+    "itemId": "MLB4064068462",
+    "productKey": "96bfc114c48aa30f",
+    "titleHash": "9a0370adc8c05f42",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-23T19:46:34.132Z"
   }
 ]

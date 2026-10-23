@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5681601188",
+      "site_id": "MLB",
+      "seller_id": 2510796023,
+      "accepts_mercadopago": true,
+      "price": 597.9,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "kit_component",
+        "has_published_clips",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 585,
+      "original_price": 1049,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JBTDc5NDIyMQ",
+          "name": "Balneário Piçarras"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3414291498",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35961182",
+      "title": "Cafeteira Espresso Double Digital Oster Cor Aço escovado e Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_651674-MLA99991798659_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35961182",
+      "id": "MLB5681601188",
+      "sold_quantity": 200,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4064068462",
+      "site_id": "MLB",
+      "seller_id": 632190186,
+      "accepts_mercadopago": true,
+      "price": 244.9,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXRpYmFpYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Atibaia"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYVmlsYSBUaGFpc1RWaFlRWFJwWW1GcFlWU",
+          "name": "Vila Thais"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU2375107566",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19457579",
+      "title": "Mouse Sem Fio Logitech Signature M650 - Rose",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_772890-MLA99508508272_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19457579",
+      "id": "MLB4064068462",
+      "sold_quantity": 300,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-23T19:46:34.133Z"
+}
