@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3783973037",
-    "productKey": "79904641cb78c39e",
-    "titleHash": "c6c910964afbee15",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-19T09:46:22.741Z"
-  },
-  {
-    "itemId": "MLB7827063190",
-    "productKey": "8b22be28b8f4d3bd",
-    "titleHash": "7866188a6d14a530",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-19T09:46:22.741Z"
-  },
-  {
-    "itemId": "MLB7757645042",
-    "productKey": "429e344a68635eec",
-    "titleHash": "0d6a97bbb0f3ef1c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-19T10:01:33.630Z"
-  },
-  {
-    "itemId": "MLB4108132843",
-    "productKey": "b8b821ebbc3d00cc",
-    "titleHash": "015f139068ee71d9",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-19T10:01:33.630Z"
-  },
-  {
     "itemId": "MLB4089347501",
     "productKey": "f404f4d48a375164",
     "titleHash": "4ecc5e6577f6dfe7",
@@ -4798,5 +4766,37 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-23T11:16:26.101Z"
+  },
+  {
+    "itemId": "MLB4047390953",
+    "productKey": "f38a3304dccc5642",
+    "titleHash": "bb7882e2da4716bd",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-23T11:31:34.812Z"
+  },
+  {
+    "itemId": "MLB5424041486",
+    "productKey": "a69c89af46f539e7",
+    "titleHash": "47a732733919029b",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-23T11:31:34.812Z"
+  },
+  {
+    "itemId": "MLB4391994143",
+    "productKey": "f2921cc7fb9fa9b5",
+    "titleHash": "dd922ec0efd9151c",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-23T11:31:34.812Z"
+  },
+  {
+    "itemId": "MLB5376165413",
+    "productKey": "7a53461dd73ba0e6",
+    "titleHash": "3da6186ec2d43ed9",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-23T11:31:34.812Z"
   }
 ]
