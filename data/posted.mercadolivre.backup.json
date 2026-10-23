@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5770130082",
-    "productKey": "e6db9c07805af9aa",
-    "titleHash": "89577e9cd55fb731",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-19T20:16:25.286Z"
-  },
-  {
-    "itemId": "MLB4510716635",
-    "productKey": "96bfc114c48aa30f",
-    "titleHash": "9a0370adc8c05f42",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-19T20:16:25.286Z"
-  },
-  {
     "itemId": "MLB4371605519",
     "productKey": "2a86db727b2c5887",
     "titleHash": "a6e7bc74d0fd88c8",
@@ -4798,5 +4782,21 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-23T18:46:28.237Z"
+  },
+  {
+    "itemId": "MLB4035471677",
+    "productKey": "c6d850128e0d4647",
+    "titleHash": "0d363bda659ba892",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-23T19:01:34.609Z"
+  },
+  {
+    "itemId": "MLB5173698241",
+    "productKey": "45a7144daaa80c5a",
+    "titleHash": "8b43e2f0b059a1b9",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-23T19:01:34.609Z"
   }
 ]
