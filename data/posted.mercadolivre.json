@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6136459450",
-    "productKey": "01b83afad55f31c1",
-    "titleHash": "84ad45755322ea1e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-19T14:31:30.730Z"
-  },
-  {
-    "itemId": "MLB5810636432",
-    "productKey": "ef37a237b4aea772",
-    "titleHash": "0826b70c987fa868",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-19T14:46:29.031Z"
-  },
-  {
-    "itemId": "MLB6954461002",
-    "productKey": "d4312e0d6c2931f5",
-    "titleHash": "897b790bb2a290b2",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-19T14:46:29.031Z"
-  },
-  {
     "itemId": "MLB7690840340",
     "productKey": "7720820a953562b0",
     "titleHash": "f63dfdf04a782b09",
@@ -4798,5 +4774,29 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-23T13:16:11.387Z"
+  },
+  {
+    "itemId": "MLB6802905778",
+    "productKey": "5b2763cb9e9d95a2",
+    "titleHash": "4aefd666fba0af2c",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-23T13:31:30.240Z"
+  },
+  {
+    "itemId": "MLB5890572826",
+    "productKey": "ff6193f654d13314",
+    "titleHash": "f6def21b00f505f6",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-23T13:31:30.240Z"
+  },
+  {
+    "itemId": "MLB5139680871",
+    "productKey": "383eafc260a9c2c7",
+    "titleHash": "1d6b824c6b48131e",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-23T13:31:30.240Z"
   }
 ]
