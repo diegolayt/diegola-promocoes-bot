@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5926315642",
-    "productKey": "de6e98305f10eded",
-    "titleHash": "6b876ba63791aef1",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T18:46:32.624Z"
-  },
-  {
-    "itemId": "MLB3917376669",
-    "productKey": "bb0210ae17eea6d0",
-    "titleHash": "323bf31f9fa959bb",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-19T19:01:29.443Z"
-  },
-  {
     "itemId": "MLB7834333016",
     "productKey": "fee0803db3fdd4f9",
     "titleHash": "036294730bf79c55",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-23T17:16:25.632Z"
+  },
+  {
+    "itemId": "MLB7568398342",
+    "productKey": "56a230716db5d97e",
+    "titleHash": "32e3b2ff4d00f4ad",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-23T17:31:30.034Z"
+  },
+  {
+    "itemId": "MLB5238469569",
+    "productKey": "cf31f194e5125ea5",
+    "titleHash": "53f465883ca4f30e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-23T17:31:30.035Z"
   }
 ]
