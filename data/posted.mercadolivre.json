@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3911197949",
-    "productKey": "ccfd848ba197e99f",
-    "titleHash": "e3b473ea66b4e84a",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-19T04:01:23.217Z"
-  },
-  {
     "itemId": "MLB4571210341",
     "productKey": "163a58eb61a4412f",
     "titleHash": "bbadc9cd22e0fc10",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-23T03:16:26.561Z"
+  },
+  {
+    "itemId": "MLB4316677885",
+    "productKey": "2f742d6104f56e3f",
+    "titleHash": "72f46bd8beed252c",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-23T03:46:26.487Z"
   }
 ]
