@@ -1,0 +1,234 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7187016886",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 259,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "first_party",
+        "has_published_clips",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 434.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4035660626",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB28572551",
+      "title": "Smart Tv Stick Full Hd Intelbras Preto Padrão",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_978515-MLA99506607420_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB28572551",
+      "id": "MLB7187016886",
+      "sold_quantity": 1300,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5441848363",
+      "site_id": "MLB",
+      "seller_id": 302902874,
+      "accepts_mercadopago": true,
+      "price": 233.66,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBTTdjMzUy",
+          "name": "Campo do Meio"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5650473212",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23772724",
+      "title": "Câmera Inteligente Full HD iM5 SC com MicroSD 32GB Branca Intelbras",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_967014-MLA99501171286_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23772724",
+      "id": "MLB5441848363",
+      "sold_quantity": 1600,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7059031588",
+      "site_id": "MLB",
+      "seller_id": 313990739,
+      "accepts_mercadopago": true,
+      "price": 119,
+      "category_id": "MLB199186",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "supermarket_eligible",
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTGg3cHAx",
+          "name": "Vila Bancária Munhoz"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4170596549",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB42327159",
+      "title": "Philips Original Lâmina QP220/51 Substituível OneBlade Pack com 2 Unidades | Todos os aparelhos OneBlade | Tecnologia OneBlade",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_901873-MLA99929770591_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB42327159",
+      "id": "MLB7059031588",
+      "sold_quantity": 900,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-23T09:16:30.852Z"
+}

@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3417755047",
-    "productKey": "268fde5a5ed21950",
-    "titleHash": "5806263d0b543f99",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-19T07:16:24.983Z"
-  },
-  {
-    "itemId": "MLB6802905778",
-    "productKey": "5b2763cb9e9d95a2",
-    "titleHash": "4aefd666fba0af2c",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-19T07:16:24.983Z"
-  },
-  {
-    "itemId": "MLB3797364569",
-    "productKey": "96983e4185e3eef7",
-    "titleHash": "f469ce3c49a26e01",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-19T07:31:26.411Z"
-  },
-  {
     "itemId": "MLB7703233082",
     "productKey": "4755b979c3c045a4",
     "titleHash": "f202ae7974835d43",
@@ -4798,5 +4774,29 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-23T08:31:35.388Z"
+  },
+  {
+    "itemId": "MLB7187016886",
+    "productKey": "3235a086bca26017",
+    "titleHash": "7a1c23c1bdf33031",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-23T09:16:30.849Z"
+  },
+  {
+    "itemId": "MLB5441848363",
+    "productKey": "d4f1c2d7935fb51a",
+    "titleHash": "c43f9a10d7dcc8fa",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-23T09:16:30.849Z"
+  },
+  {
+    "itemId": "MLB7059031588",
+    "productKey": "da58292d29d880a5",
+    "titleHash": "424447b14f32b968",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-23T09:16:30.849Z"
   }
 ]
