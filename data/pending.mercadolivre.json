@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4530343781",
+      "site_id": "MLB",
+      "seller_id": 2001303081,
+      "accepts_mercadopago": true,
+      "price": 63.16,
+      "category_id": "MLB271178",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 279522,
+      "original_price": 179.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Barueri"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3764477913",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77186530",
+      "title": "Maleta 48 Carrinhos + Tapete Pista 40x60 Estacionamento Brinquedo Infantil Presente Criança - Super Brasileirinho",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_634024-MLA116065268517_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77186530",
+      "id": "MLB4530343781",
+      "sold_quantity": 100,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5130081305",
+      "site_id": "MLB",
+      "seller_id": 1481197764,
+      "accepts_mercadopago": true,
+      "price": 420,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4075435504",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65387980",
+      "title": "Drone Gt8 Profissional 4k Tela No Controle 2 Baterias bag preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_735234-MLA106763856893_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65387980",
+      "id": "MLB5130081305",
+      "sold_quantity": 1400,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-10-23T06:31:31.770Z"
+}
