@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5401136799",
-    "productKey": "0f0fdb96cb6446aa",
-    "titleHash": "1670416b92bd28cb",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-19T18:16:27.138Z"
-  },
-  {
-    "itemId": "MLB4747976917",
-    "productKey": "1c0c2cfead503f62",
-    "titleHash": "4092e4d6763c3705",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-19T18:31:33.771Z"
-  },
-  {
     "itemId": "MLB5926315642",
     "productKey": "de6e98305f10eded",
     "titleHash": "6b876ba63791aef1",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-23T17:01:37.827Z"
+  },
+  {
+    "itemId": "MLB5681133066",
+    "productKey": "7335295731f87564",
+    "titleHash": "8f2edb66e9dc7cb0",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-23T17:16:25.631Z"
+  },
+  {
+    "itemId": "MLB5274910975",
+    "productKey": "d4b61b68ddb2f8d0",
+    "titleHash": "1d327597d8aaca1c",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-23T17:16:25.632Z"
   }
 ]
