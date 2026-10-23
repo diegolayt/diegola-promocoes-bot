@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7723215840",
-    "productKey": "cd6908a1373b2654",
-    "titleHash": "08f953c8f96c4c54",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-19T08:31:33.737Z"
-  },
-  {
-    "itemId": "MLB4047390953",
-    "productKey": "f38a3304dccc5642",
-    "titleHash": "bb7882e2da4716bd",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T08:46:27.923Z"
-  },
-  {
     "itemId": "MLB3556275459",
     "productKey": "f8860107ce3c1512",
     "titleHash": "62799891c9cef2b5",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-23T10:16:27.135Z"
+  },
+  {
+    "itemId": "MLB3797364569",
+    "productKey": "96983e4185e3eef7",
+    "titleHash": "f469ce3c49a26e01",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-23T10:31:29.999Z"
+  },
+  {
+    "itemId": "MLB5188342085",
+    "productKey": "4755b979c3c045a4",
+    "titleHash": "f202ae7974835d43",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-23T10:31:29.999Z"
   }
 ]
