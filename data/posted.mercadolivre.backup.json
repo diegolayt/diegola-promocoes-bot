@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5681973296",
-    "productKey": "e9455fbd3cb133ae",
-    "titleHash": "947cef40e57cf05a",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T21:31:29.904Z"
-  },
-  {
-    "itemId": "MLB5361384028",
-    "productKey": "39b3b032945eb7a1",
-    "titleHash": "ad51142e02d9d328",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-19T21:31:29.905Z"
-  },
-  {
-    "itemId": "MLB4568204161",
-    "productKey": "40ab138cce1c2270",
-    "titleHash": "927cd1b3a79366b2",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-19T21:46:31.248Z"
-  },
-  {
-    "itemId": "MLB7846715164",
-    "productKey": "a6c9a899dbe6cf71",
-    "titleHash": "6733c606fc453816",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-19T21:46:31.248Z"
-  },
-  {
     "itemId": "MLB3340533709",
     "productKey": "99ffce333c6f5953",
     "titleHash": "10199bd0de5afba6",
@@ -4798,5 +4766,37 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-23T19:46:34.132Z"
+  },
+  {
+    "itemId": "MLB7149675174",
+    "productKey": "f88cd67de76efd80",
+    "titleHash": "2eacb6dcfbb6bb82",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-23T20:16:27.208Z"
+  },
+  {
+    "itemId": "MLB6511064980",
+    "productKey": "e60e8b3a8b9faa13",
+    "titleHash": "869d36e890ccdc6b",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-23T20:16:27.208Z"
+  },
+  {
+    "itemId": "MLB7490908784",
+    "productKey": "81b443a4a9774fa4",
+    "titleHash": "13ecb3f9b4137d65",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-23T20:16:27.208Z"
+  },
+  {
+    "itemId": "MLB7796532730",
+    "productKey": "e6db9c07805af9aa",
+    "titleHash": "89577e9cd55fb731",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-23T20:16:27.208Z"
   }
 ]
