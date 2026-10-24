@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4247892213",
-    "productKey": "d84c458734ce60a1",
-    "titleHash": "ac334aa5f2b5a4d6",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-20T17:01:38.102Z"
-  },
-  {
-    "itemId": "MLB5150684561",
-    "productKey": "b216c04d769cb55e",
-    "titleHash": "7e8ecf727227ad97",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-20T17:01:38.102Z"
-  },
-  {
     "itemId": "MLB4411577880",
     "productKey": "1695451136b60c3d",
     "titleHash": "7bf56a01b25ad75c",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-24T21:46:34.936Z"
+  },
+  {
+    "itemId": "MLB6161925990",
+    "productKey": "077fe19f4736884c",
+    "titleHash": "d7b2cb595cb95e9a",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-24T22:01:38.170Z"
+  },
+  {
+    "itemId": "MLB7501004712",
+    "productKey": "8754fc435a818a02",
+    "titleHash": "8d2d9b3a9df7dc0c",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-24T22:01:38.170Z"
   }
 ]
