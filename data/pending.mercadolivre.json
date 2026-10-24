@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5432724949",
+      "site_id": "MLB",
+      "seller_id": 260466799,
+      "accepts_mercadopago": true,
+      "price": 2793,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1118,
+      "original_price": 4369.91,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [
+          "lost_me2_by_dimensions"
+        ],
+        "cost": 29.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BPTjJjY2I5",
+          "name": "Ponta Grossa"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJPTjI4RjA3",
+          "name": "Ronda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5343553986",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB76002662",
+      "title": "Samsung Smart TV 55\" Mini LED 4K M75H 26/2027",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_615876-MLA116061870194_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB76002662",
+      "id": "MLB5432724949",
+      "sold_quantity": 1600,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    },
+    {
+      "item_id": "MLB7015203686",
+      "site_id": "MLB",
+      "seller_id": 2178973590,
+      "accepts_mercadopago": true,
+      "price": 1145,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHU2Ymp4",
+          "name": "Vila São João"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4147514322",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54102936",
+      "title": "Xiaomi Redmi 15 12gb Ram 128gb Dual Sim 50mp Fm Impressão digital Dimm cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652088-MLA99478650034_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54102936",
+      "id": "MLB7015203686",
+      "sold_quantity": 500,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-24T08:01:30.765Z"
+}
