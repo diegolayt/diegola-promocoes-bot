@@ -1,0 +1,230 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7651759968",
+      "site_id": "MLB",
+      "seller_id": 3190997299,
+      "accepts_mercadopago": true,
+      "price": 349,
+      "category_id": "MLB73052",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0xBR2FmZjZl",
+          "name": "Lagoa da Prata"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5184234603",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26121563",
+      "title": "Bebedouro de mesa Cadence gela água refrigerado elétrico galão aguô BEB110 branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_924326-MLA99849819331_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26121563",
+      "id": "MLB7651759968",
+      "sold_quantity": 700,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB4411577880",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 132,
+      "category_id": "MLB264715",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "dynamic_standard_price",
+        "kvs_primary",
+        "first_party",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 161.04,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU600427150",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24029192",
+      "title": "Escova Modeladora Rotativa Britânia Ber20pd 3 Temperaturas Cor Preto e Dourado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_754304-MLA97855841301_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24029192",
+      "id": "MLB4411577880",
+      "sold_quantity": 1100,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB6976431730",
+      "site_id": "MLB",
+      "seller_id": 3003621868,
+      "accepts_mercadopago": true,
+      "price": 215.61,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_channel",
+        "cbt_item",
+        "kvs_primary",
+        "net_proceeds_prices",
+        "cbt_fulfillment_us",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18593745",
+      "title": "Fire Tv Stick Hd Com Comandos Por Voz Amazon Preto De Voz",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_981006-MLA108910089018_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18593745",
+      "id": "MLB6976431730",
+      "sold_quantity": 800,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-24T23:16:30.295Z"
+}

@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4067339459",
-    "productKey": "8c6368c4182d052e",
-    "titleHash": "61a703f2b686e4a3",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-20T18:01:36.590Z"
-  },
-  {
-    "itemId": "MLB6589832106",
-    "productKey": "2c2b688ed1849d8f",
-    "titleHash": "41b3bbae93bde1d9",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-20T18:01:36.591Z"
-  },
-  {
-    "itemId": "MLB5886831522",
-    "productKey": "62f91e78f631ddab",
-    "titleHash": "8268204c51c89120",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-20T18:16:28.467Z"
-  },
-  {
     "itemId": "MLB4375214645",
     "productKey": "3179b5e87be68037",
     "titleHash": "71ce42c5232a3d23",
@@ -4798,5 +4774,29 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-24T23:01:32.527Z"
+  },
+  {
+    "itemId": "MLB7651759968",
+    "productKey": "e31c83ceab48f83b",
+    "titleHash": "880309c3e7db71f2",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-24T23:16:30.293Z"
+  },
+  {
+    "itemId": "MLB4411577880",
+    "productKey": "1695451136b60c3d",
+    "titleHash": "7bf56a01b25ad75c",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-24T23:16:30.293Z"
+  },
+  {
+    "itemId": "MLB6976431730",
+    "productKey": "3ec767c81d06051b",
+    "titleHash": "70a866555fd96fb6",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-24T23:16:30.293Z"
   }
 ]
