@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5958020162",
-    "productKey": "2621d654c3ad014a",
-    "titleHash": "e4461bf3d926e13c",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-20T15:01:32.266Z"
-  },
-  {
     "itemId": "MLB6144331194",
     "productKey": "104c62f84f8d85e8",
     "titleHash": "2f2b1411898660ab",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-24T18:31:32.711Z"
+  },
+  {
+    "itemId": "MLB5958007106",
+    "productKey": "9d589fd67793b096",
+    "titleHash": "500a0545e991dccb",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-24T18:46:32.850Z"
   }
 ]
