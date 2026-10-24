@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3682277189",
-    "productKey": "02983e6cebf8fe5d",
-    "titleHash": "29879c6e3f2ebbc5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-20T10:16:29.244Z"
-  },
-  {
-    "itemId": "MLB7764156062",
-    "productKey": "690d29606093b12a",
-    "titleHash": "eff4b6f329165dbf",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-20T10:16:29.244Z"
-  },
-  {
     "itemId": "MLB5387146287",
     "productKey": "ed23dda80ccddb8e",
     "titleHash": "2833a17e649ec0a3",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-24T12:46:29.606Z"
+  },
+  {
+    "itemId": "MLB3919470687",
+    "productKey": "bc0bb9a0c3fb15a1",
+    "titleHash": "0e851e97989db4c8",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-24T13:01:35.748Z"
+  },
+  {
+    "itemId": "MLB4025051609",
+    "productKey": "e3a32e5e9491b448",
+    "titleHash": "1d773991864c4e55",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-24T13:01:35.748Z"
   }
 ]
