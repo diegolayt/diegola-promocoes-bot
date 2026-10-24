@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4362197680",
-    "productKey": "d28f3f119522eab2",
-    "titleHash": "54e743c0f46d20a1",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-20T04:16:31.577Z"
-  },
-  {
     "itemId": "MLB7124261450",
     "productKey": "9c762775786a2c63",
     "titleHash": "c81cf6d9502de1c2",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-24T05:16:26.029Z"
+  },
+  {
+    "itemId": "MLB7714960140",
+    "productKey": "1f91de7a37a96e5d",
+    "titleHash": "ac3fc85e756a9bdb",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-24T05:31:33.551Z"
   }
 ]
