@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5173083245",
-    "productKey": "55fae1bf40b618cf",
-    "titleHash": "2c0a170468ff47ea",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-20T03:16:29.606Z"
-  },
-  {
-    "itemId": "MLB7627089138",
-    "productKey": "1e7e25994a8ef537",
-    "titleHash": "34632f9e338c6b73",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-20T03:16:29.606Z"
-  },
-  {
     "itemId": "MLB2735052332",
     "productKey": "bc671c6efd514d42",
     "titleHash": "c7204587a86680fc",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-24T03:31:29.832Z"
+  },
+  {
+    "itemId": "MLB5329836232",
+    "productKey": "549b84a996815459",
+    "titleHash": "86feca71767baaa7",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-10-24T03:46:33.771Z"
+  },
+  {
+    "itemId": "MLB6850803344",
+    "productKey": "f8cf76785f593d2e",
+    "titleHash": "5f0f17d958c96794",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-24T03:46:33.771Z"
   }
 ]
