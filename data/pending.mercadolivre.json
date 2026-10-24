@@ -1,0 +1,243 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5746940456",
+      "site_id": "MLB",
+      "seller_id": 139073536,
+      "accepts_mercadopago": true,
+      "price": 1692,
+      "category_id": "MLB1649",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "channel_fixed",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 173088,
+      "original_price": 4164.47,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTU4MDI",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBQzI3MzU4Nw",
+          "name": "Paciência"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3368405215",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53190875",
+      "title": "Pc Gamer Completo Intel I5, 16gb Ram, Ssd 240gb, Video 1gb 240 Gb 16 Gb Hd Graphics 2500 1gb",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_630584-MLA99993575737_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53190875",
+      "id": "MLB5746940456",
+      "sold_quantity": 500,
+      "rotationCategory": "computador",
+      "sourceCategoryId": "MLB430637",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB4667951919",
+      "site_id": "MLB",
+      "seller_id": 80278818,
+      "accepts_mercadopago": true,
+      "price": 166.68,
+      "category_id": "MLB44085",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4181,
+      "original_price": 323.5,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDIwaWFu",
+          "name": "Cidade Industrial Satélite de São Paulo"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3957198458",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36684802",
+      "title": "Chapa Prancha De Cabelo Taiff Elegance Red Íon Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_847199-MLA110044311509_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36684802",
+      "id": "MLB4667951919",
+      "sold_quantity": 500,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4190456415",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 499,
+      "category_id": "MLB120316",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "first_party",
+        "dynamic_standard_price",
+        "extended_warranty_eligible",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 619,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3258383483",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB50661985",
+      "title": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_958953-MLA99468178484_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB50661985",
+      "id": "MLB4190456415",
+      "sold_quantity": 500,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-10-24T22:46:27.870Z"
+}
