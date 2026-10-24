@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5329836232",
-    "productKey": "549b84a996815459",
-    "titleHash": "86feca71767baaa7",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-20T01:01:34.691Z"
-  },
-  {
-    "itemId": "MLB7845631806",
-    "productKey": "04c56c962164b38f",
-    "titleHash": "141edb12252b5fbc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-20T01:16:28.573Z"
-  },
-  {
     "itemId": "MLB4862019629",
     "productKey": "c2a977cf56ca2408",
     "titleHash": "c6746d1c5883f26a",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-24T00:31:29.107Z"
+  },
+  {
+    "itemId": "MLB3340533709",
+    "productKey": "99ffce333c6f5953",
+    "titleHash": "10199bd0de5afba6",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-24T00:46:30.298Z"
+  },
+  {
+    "itemId": "MLB7640283008",
+    "productKey": "7f07ce0b4993cace",
+    "titleHash": "bdfe8c72bf6ec63a",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-24T00:46:30.298Z"
   }
 ]
