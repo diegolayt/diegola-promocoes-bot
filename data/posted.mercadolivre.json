@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1663761914",
-    "productKey": "de77083a4e6c4dab",
-    "titleHash": "adf49853a15a232f",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-20T03:46:29.081Z"
-  },
-  {
     "itemId": "MLB4513043850",
     "productKey": "e80baf6cfbfdbd42",
     "titleHash": "5e78adefcd40617e",
@@ -4798,5 +4790,13 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-10-24T04:31:32.030Z"
+  },
+  {
+    "itemId": "MLB4849437799",
+    "productKey": "1835b96f8c31b1b3",
+    "titleHash": "fe3ce120921d1f3b",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-24T04:46:30.367Z"
   }
 ]
