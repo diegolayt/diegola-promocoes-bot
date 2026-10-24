@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5812974526",
-    "productKey": "4d1932b6c96ba250",
-    "titleHash": "f662e7acd8eb0942",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-20T06:31:29.644Z"
-  },
-  {
-    "itemId": "MLB7653303324",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-20T07:01:33.890Z"
-  },
-  {
     "itemId": "MLB5387153869",
     "productKey": "daec8d0881c8d7d6",
     "titleHash": "38709b9f79583c28",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-24T08:31:32.635Z"
+  },
+  {
+    "itemId": "MLB5407506805",
+    "productKey": "a840ac5859f19fbe",
+    "titleHash": "92fe84908be8a274",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-24T08:46:27.619Z"
+  },
+  {
+    "itemId": "MLB7691296988",
+    "productKey": "1d3dd666b990c91f",
+    "titleHash": "7964ab0c97cfa7f1",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-24T08:46:27.619Z"
   }
 ]
