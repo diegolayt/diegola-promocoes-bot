@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6297127282",
-    "productKey": "b7be33d4bb65f733",
-    "titleHash": "fc411d5e084f24e1",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-20T12:31:32.661Z"
-  },
-  {
-    "itemId": "MLB3600544593",
-    "productKey": "c52e36fc9898a93c",
-    "titleHash": "0980e9b00d7d2072",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-20T12:46:25.940Z"
-  },
-  {
     "itemId": "MLB4080129257",
     "productKey": "af820b348134d83b",
     "titleHash": "d493cf2c7041c857",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-24T15:16:28.110Z"
+  },
+  {
+    "itemId": "MLB3846575151",
+    "productKey": "2ba242383bfef56e",
+    "titleHash": "340812948cdb6008",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-24T15:31:34.921Z"
+  },
+  {
+    "itemId": "MLB4866958493",
+    "productKey": "6ee34dbf91ba8236",
+    "titleHash": "44f5a0eb4c12ff71",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-24T15:31:34.922Z"
   }
 ]
