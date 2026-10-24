@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3998137391",
+      "site_id": "MLB",
+      "seller_id": 1842067452,
+      "accepts_mercadopago": true,
+      "price": 72.46,
+      "category_id": "MLB6883",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "dynamic_standard_price",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 108062,
+      "original_price": 99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3058384614",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB9397003",
+      "title": "Jogo De Mesa Cara A Cara Com Aplicativo Estrela",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_745904-MLA117202311938_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB9397003",
+      "id": "MLB3998137391",
+      "sold_quantity": 700,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-24T05:01:34.204Z"
+}
