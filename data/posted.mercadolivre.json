@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2793858589",
-    "productKey": "f9c9f95b02069373",
-    "titleHash": "b31fa1afffc4e593",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-20T04:46:23.433Z"
-  },
-  {
     "itemId": "MLB4898621085",
     "productKey": "9aaaf7db99c08c54",
     "titleHash": "a41ee2faa78cd597",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-24T06:00:55.380Z"
+  },
+  {
+    "itemId": "MLB3867167564",
+    "productKey": "de77083a4e6c4dab",
+    "titleHash": "adf49853a15a232f",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-24T06:16:31.116Z"
   }
 ]
