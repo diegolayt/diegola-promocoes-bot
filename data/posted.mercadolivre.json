@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4375214645",
-    "productKey": "3179b5e87be68037",
-    "titleHash": "71ce42c5232a3d23",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-20T18:16:28.467Z"
-  },
-  {
-    "itemId": "MLB5972837798",
-    "productKey": "c45a40bf0889759e",
-    "titleHash": "7fb3749c5110ec68",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-20T18:16:28.467Z"
-  },
-  {
     "itemId": "MLB4142836978",
     "productKey": "f764b26a37859a9e",
     "titleHash": "8b8c5f4cc7076bed",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-24T23:16:30.293Z"
+  },
+  {
+    "itemId": "MLB4937481813",
+    "productKey": "e2489c1451cb6572",
+    "titleHash": "313364498118e4ab",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-24T23:31:29.224Z"
+  },
+  {
+    "itemId": "MLB3782523165",
+    "productKey": "948ee43d2d7626fb",
+    "titleHash": "93e49c3d46e7aa6f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-24T23:31:29.224Z"
   }
 ]
