@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5066977988",
-    "productKey": "ecb7686c6cb58745",
-    "titleHash": "94d92cdc19e55d62",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-20T05:46:28.088Z"
-  },
-  {
     "itemId": "MLB5256219731",
     "productKey": "de4eec9097d88bdb",
     "titleHash": "a7e96d3a24f5bc62",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-24T07:01:37.299Z"
+  },
+  {
+    "itemId": "MLB7108827054",
+    "productKey": "81231682978a91c7",
+    "titleHash": "707a4b1ef80b0c82",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-24T07:16:27.971Z"
   }
 ]
