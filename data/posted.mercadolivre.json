@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3579786447",
-    "productKey": "44a3bea7e54cce74",
-    "titleHash": "ad265b3e1f03412c",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-20T10:46:28.489Z"
-  },
-  {
     "itemId": "MLB6153218964",
     "productKey": "1f028055a5e8fcd7",
     "titleHash": "0b04907b65ed95a5",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-24T13:16:28.202Z"
+  },
+  {
+    "itemId": "MLB2654504800",
+    "productKey": "02983e6cebf8fe5d",
+    "titleHash": "29879c6e3f2ebbc5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-24T13:31:39.597Z"
   }
 ]
