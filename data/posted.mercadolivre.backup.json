@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4483842387",
-    "productKey": "6ae9b8d7d9d10774",
-    "titleHash": "9294edea4271c7e2",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-20T01:31:28.472Z"
-  },
-  {
     "itemId": "MLB3692544709",
     "productKey": "af6fd456573a6c22",
     "titleHash": "1a0f1b9fd4ebb53e",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-24T01:01:31.302Z"
+  },
+  {
+    "itemId": "MLB4862019629",
+    "productKey": "c2a977cf56ca2408",
+    "titleHash": "c6746d1c5883f26a",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-24T01:16:29.937Z"
   }
 ]
