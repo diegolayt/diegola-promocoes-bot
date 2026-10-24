@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4142836978",
-    "productKey": "f764b26a37859a9e",
-    "titleHash": "8b8c5f4cc7076bed",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-20T18:31:27.877Z"
-  },
-  {
     "itemId": "MLB5354877447",
     "productKey": "5bbd37355bdaaca3",
     "titleHash": "c3390cb321d1deb2",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-24T23:31:29.224Z"
+  },
+  {
+    "itemId": "MLB4361640499",
+    "productKey": "28829ffedd0074fc",
+    "titleHash": "4aebfb87fb18a5dc",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-24T23:46:29.179Z"
   }
 ]
