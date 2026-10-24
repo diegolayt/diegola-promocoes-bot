@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4898621085",
-    "productKey": "9aaaf7db99c08c54",
-    "titleHash": "a41ee2faa78cd597",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-20T04:46:23.433Z"
-  },
-  {
-    "itemId": "MLB7827319684",
-    "productKey": "05fecf4ea78a1c4f",
-    "titleHash": "3eed32b99fc6ecc2",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-20T05:01:34.147Z"
-  },
-  {
-    "itemId": "MLB7501055654",
-    "productKey": "496a44c0154a0bf4",
-    "titleHash": "b0961859353c7014",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-20T05:16:25.244Z"
-  },
-  {
     "itemId": "MLB6782202016",
     "productKey": "ba7df21eb0ca2036",
     "titleHash": "e289328335e8aff0",
@@ -4798,5 +4774,29 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-24T06:16:31.116Z"
+  },
+  {
+    "itemId": "MLB5139794597",
+    "productKey": "55fae1bf40b618cf",
+    "titleHash": "2c0a170468ff47ea",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-24T06:31:34.989Z"
+  },
+  {
+    "itemId": "MLB4362197680",
+    "productKey": "d28f3f119522eab2",
+    "titleHash": "54e743c0f46d20a1",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-24T06:31:34.989Z"
+  },
+  {
+    "itemId": "MLB4572603040",
+    "productKey": "022696a42b63138a",
+    "titleHash": "f14dd43a146d9774",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-24T06:31:34.990Z"
   }
 ]
