@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7773409152",
-    "productKey": "d9a1640cf1b8c6e3",
-    "titleHash": "1fa95cf3ec92b68b",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-20T15:31:29.456Z"
-  },
-  {
-    "itemId": "MLB6161925990",
-    "productKey": "077fe19f4736884c",
-    "titleHash": "d7b2cb595cb95e9a",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-20T15:46:25.896Z"
-  },
-  {
-    "itemId": "MLB5774842808",
-    "productKey": "d80ef72818275e46",
-    "titleHash": "d8d496fc92919deb",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-20T15:46:25.897Z"
-  },
-  {
-    "itemId": "MLB7501004712",
-    "productKey": "8754fc435a818a02",
-    "titleHash": "8d2d9b3a9df7dc0c",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-20T16:01:30.317Z"
-  },
-  {
     "itemId": "MLB5155961497",
     "productKey": "7c9578861b497574",
     "titleHash": "89745bc8bec934d2",
@@ -4798,5 +4766,37 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-24T20:31:31.179Z"
+  },
+  {
+    "itemId": "MLB6470162816",
+    "productKey": "62bcab9e6c459851",
+    "titleHash": "503e887254ddf661",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-24T20:46:26.020Z"
+  },
+  {
+    "itemId": "MLB5021389961",
+    "productKey": "23ecfda2f3afa8ab",
+    "titleHash": "67045221e5f6d083",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-24T20:46:26.020Z"
+  },
+  {
+    "itemId": "MLB7574356920",
+    "productKey": "07d55cd5bc2fcbd6",
+    "titleHash": "1ce6265d54d5cadb",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-24T20:46:26.020Z"
+  },
+  {
+    "itemId": "MLB5434547819",
+    "productKey": "a9cae0a28560e7a3",
+    "titleHash": "d81a2f310b80cd21",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-24T20:46:26.020Z"
   }
 ]
