@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6823283528",
-    "productKey": "e2489c1451cb6572",
-    "titleHash": "313364498118e4ab",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-20T17:46:09.193Z"
-  },
-  {
-    "itemId": "MLB3782523165",
-    "productKey": "948ee43d2d7626fb",
-    "titleHash": "93e49c3d46e7aa6f",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-20T17:46:09.193Z"
-  },
-  {
     "itemId": "MLB4067339459",
     "productKey": "8c6368c4182d052e",
     "titleHash": "61a703f2b686e4a3",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-24T22:46:27.868Z"
+  },
+  {
+    "itemId": "MLB4195198970",
+    "productKey": "19e579017e9bbafd",
+    "titleHash": "9bead5eecb241d6b",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-24T23:01:32.527Z"
+  },
+  {
+    "itemId": "MLB5150684561",
+    "productKey": "b216c04d769cb55e",
+    "titleHash": "7e8ecf727227ad97",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-24T23:01:32.527Z"
   }
 ]
