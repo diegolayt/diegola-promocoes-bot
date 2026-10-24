@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6782202016",
-    "productKey": "ba7df21eb0ca2036",
-    "titleHash": "e289328335e8aff0",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-20T05:16:25.244Z"
-  },
-  {
     "itemId": "MLB7608232924",
     "productKey": "4ec722ec04218905",
     "titleHash": "79b4b1f7c1ee6580",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-24T06:31:34.990Z"
+  },
+  {
+    "itemId": "MLB4513043850",
+    "productKey": "e80baf6cfbfdbd42",
+    "titleHash": "5e78adefcd40617e",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-24T06:46:33.048Z"
   }
 ]
