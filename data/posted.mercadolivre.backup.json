@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5387153869",
-    "productKey": "daec8d0881c8d7d6",
-    "titleHash": "38709b9f79583c28",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-20T07:01:33.890Z"
-  },
-  {
     "itemId": "MLB7822235288",
     "productKey": "f43c4b67e4b561d2",
     "titleHash": "ef27e31e530b0098",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-24T08:46:27.619Z"
+  },
+  {
+    "itemId": "MLB2735052332",
+    "productKey": "bc671c6efd514d42",
+    "titleHash": "c7204587a86680fc",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-24T09:01:38.256Z"
   }
 ]
