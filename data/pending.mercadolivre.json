@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3589312413",
+      "site_id": "MLB",
+      "seller_id": 225099676,
+      "accepts_mercadopago": true,
+      "price": 145,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 869,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 12.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1470975104",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18623660",
+      "title": "Ventilador de Mesa Mondial Super Power 40cm 6 Pás VSP-40-B 127V Preto/Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_843498-MLA113779468044_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18623660",
+      "id": "MLB3589312413",
+      "sold_quantity": 1900,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-24T12:46:29.608Z"
+}
