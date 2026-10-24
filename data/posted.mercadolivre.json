@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4661123677",
-    "productKey": "0b028e4f27c78df2",
-    "titleHash": "ddce1d36b82207f4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-20T08:46:24.953Z"
-  },
-  {
-    "itemId": "MLB5957878356",
-    "productKey": "3010afca6b30cd5a",
-    "titleHash": "a43ec0a86ecc55c0",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-20T08:46:24.953Z"
-  },
-  {
-    "itemId": "MLB4150270587",
-    "productKey": "30428afb79b31575",
-    "titleHash": "64c4bc9f4147c80a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-20T09:01:39.711Z"
-  },
-  {
     "itemId": "MLB3434537257",
     "productKey": "9b55661115fd896b",
     "titleHash": "17be594d6c56196b",
@@ -4798,5 +4774,29 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-24T11:16:30.303Z"
+  },
+  {
+    "itemId": "MLB5952825902",
+    "productKey": "c451c7876e54b375",
+    "titleHash": "4945a548e1858678",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-24T11:31:32.540Z"
+  },
+  {
+    "itemId": "MLB7485354642",
+    "productKey": "b70bcf8b75607f51",
+    "titleHash": "c01ccd1bd728f32c",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-24T11:31:32.540Z"
+  },
+  {
+    "itemId": "MLB5419931199",
+    "productKey": "7996d894587d17ae",
+    "titleHash": "7ec3def6ccf605d1",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-24T11:31:32.540Z"
   }
 ]
