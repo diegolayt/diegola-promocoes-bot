@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5952825902",
-    "productKey": "c451c7876e54b375",
-    "titleHash": "4945a548e1858678",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-20T08:16:27.709Z"
-  },
-  {
     "itemId": "MLB7773655998",
     "productKey": "7996d894587d17ae",
     "titleHash": "7ec3def6ccf605d1",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-24T10:16:29.378Z"
+  },
+  {
+    "itemId": "MLB5419188903",
+    "productKey": "d7c13b5792513c9a",
+    "titleHash": "76baa199fb0390bb",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-24T10:31:32.789Z"
   }
 ]
