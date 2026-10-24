@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6985336822",
-    "productKey": "b5ddbc5fc16e2eb7",
-    "titleHash": "1a469a09813e0b46",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-20T14:01:34.338Z"
-  },
-  {
     "itemId": "MLB4195198970",
     "productKey": "19e579017e9bbafd",
     "titleHash": "9bead5eecb241d6b",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-24T17:31:32.852Z"
+  },
+  {
+    "itemId": "MLB7612044056",
+    "productKey": "1551bf9f32c05b23",
+    "titleHash": "41a02a3933f5017f",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-24T17:46:29.683Z"
   }
 ]
