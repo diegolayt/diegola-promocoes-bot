@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5308390790",
-    "productKey": "849a2124d0a8f984",
-    "titleHash": "caed37ae9f327be6",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-20T01:46:24.085Z"
-  },
-  {
     "itemId": "MLB7770878416",
     "productKey": "5e63e5ce2fe5389f",
     "titleHash": "e6e45a893d28ec80",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-24T01:31:29.082Z"
+  },
+  {
+    "itemId": "MLB2744766460",
+    "productKey": "a8251bc98e70126a",
+    "titleHash": "3d01cd9c39438f12",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-24T01:46:33.073Z"
   }
 ]

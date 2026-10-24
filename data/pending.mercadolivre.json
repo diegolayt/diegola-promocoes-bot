@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "item_id": "MLB2744766460",
+      "site_id": "MLB",
+      "seller_id": 629557067,
+      "accepts_mercadopago": true,
+      "price": 41.64,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "kvs_primary",
+        "good_quality_picture",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 50777,
+      "original_price": 56.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBHb27Dp2Fsb1RVeENVRkpKVDA4e",
+          "name": "Itaboraí"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TVhYQm9hw6d1VFZoWVU4T2pieUJIYjI3RHAyR",
+          "name": "Boaçu"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1739607502",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19305160",
+      "title": "Libro O diário de uma princesa desastrada, Um Romance, de Lacerda, Maidy. Editorial Outro Planeta., tapa mole, en português (2022)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_960774-MLU50455305870_062022-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19305160",
+      "id": "MLB2744766460",
+      "sold_quantity": 1300,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-24T01:46:33.076Z"
+}
