@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7656166424",
-    "productKey": "bf7e00fa51c47b92",
-    "titleHash": "2b36c4d2d2387bd1",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-20T16:46:26.735Z"
-  },
-  {
     "itemId": "MLB4247892213",
     "productKey": "d84c458734ce60a1",
     "titleHash": "ac334aa5f2b5a4d6",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-24T21:31:33.740Z"
+  },
+  {
+    "itemId": "MLB7859678046",
+    "productKey": "dde57558599f0c7e",
+    "titleHash": "6826a8a21ad891be",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-24T21:46:34.936Z"
   }
 ]
