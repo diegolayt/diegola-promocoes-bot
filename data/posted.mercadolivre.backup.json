@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7822235288",
-    "productKey": "f43c4b67e4b561d2",
-    "titleHash": "ef27e31e530b0098",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-20T07:16:28.090Z"
-  },
-  {
     "itemId": "MLB2797899761",
     "productKey": "03dfd4875d41e853",
     "titleHash": "f28bce46c3dbbabc",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-24T09:01:38.256Z"
+  },
+  {
+    "itemId": "MLB7169975124",
+    "productKey": "f877e3301b1da164",
+    "titleHash": "192055e7b73e58c4",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-24T09:16:27.554Z"
   }
 ]
