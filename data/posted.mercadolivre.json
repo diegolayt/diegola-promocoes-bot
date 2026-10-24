@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2735052332",
-    "productKey": "bc671c6efd514d42",
-    "titleHash": "c7204587a86680fc",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-20T03:31:31.007Z"
-  },
-  {
     "itemId": "MLB5424959233",
     "productKey": "8b7f2439bd97f1ef",
     "titleHash": "8c3f6e95739241e2",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-24T03:46:33.771Z"
+  },
+  {
+    "itemId": "MLB6229139214",
+    "productKey": "af6fd456573a6c22",
+    "titleHash": "1a0f1b9fd4ebb53e",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-24T04:01:37.949Z"
   }
 ]
