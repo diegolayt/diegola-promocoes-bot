@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6144331194",
-    "productKey": "104c62f84f8d85e8",
-    "titleHash": "2f2b1411898660ab",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-20T15:16:28.530Z"
-  },
-  {
-    "itemId": "MLB3616725881",
-    "productKey": "a254b7693fa296e6",
-    "titleHash": "25809cdf903aa3e6",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-20T15:16:28.530Z"
-  },
-  {
     "itemId": "MLB6896033620",
     "productKey": "125a02479dbb4f92",
     "titleHash": "343c08618531971b",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-24T18:46:32.850Z"
+  },
+  {
+    "itemId": "MLB3600544593",
+    "productKey": "c52e36fc9898a93c",
+    "titleHash": "0980e9b00d7d2072",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-24T19:16:34.746Z"
+  },
+  {
+    "itemId": "MLB5439740605",
+    "productKey": "8b7f2439bd97f1ef",
+    "titleHash": "8c3f6e95739241e2",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-24T19:16:34.746Z"
   }
 ]
