@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7773655998",
-    "productKey": "7996d894587d17ae",
-    "titleHash": "7ec3def6ccf605d1",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-20T08:16:27.709Z"
-  },
-  {
-    "itemId": "MLB4904094632",
-    "productKey": "9ee46f646c4f61c2",
-    "titleHash": "f8b77aa9bf7772c8",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-20T08:31:33.907Z"
-  },
-  {
     "itemId": "MLB4661123677",
     "productKey": "0b028e4f27c78df2",
     "titleHash": "ddce1d36b82207f4",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-24T10:31:32.789Z"
+  },
+  {
+    "itemId": "MLB5249072837",
+    "productKey": "b7cc3760e8097a93",
+    "titleHash": "24e99cad35007dd1",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-24T11:16:30.303Z"
+  },
+  {
+    "itemId": "MLB2760522602",
+    "productKey": "b657492b7e761bf0",
+    "titleHash": "28f7e1efba05bb5f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-24T11:16:30.303Z"
   }
 ]

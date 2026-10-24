@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5249072837",
+      "site_id": "MLB",
+      "seller_id": 3592255542,
+      "accepts_mercadopago": true,
+      "price": 2944.05,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439262,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5192301731",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48238418",
+      "title": "Samsung Galaxy Tab S10 Fe Prateado Prateado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_676248-MLA95224543178_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48238418",
+      "id": "MLB5249072837",
+      "sold_quantity": 1300,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB2760522602",
+      "site_id": "MLB",
+      "seller_id": 43316870,
+      "accepts_mercadopago": true,
+      "price": 38.89,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "good_quality_picture",
+        "kvs_primary",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 395808,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBQZWRybyBkYSBBbGRlaWFUVXhDV",
+          "name": "São Pedro da Aldeia"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TVhYQmFsbmXDoXJpbyBEYXMgQ29uY2hhc1RWa",
+          "name": "Balneário Das Conchas"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1109252304",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19438138",
+      "title": "Cartas de um diabo a seu aprendiz - Lewis, C.S. - Thomas Nelson Brasil - Capa Dura",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_753389-MLA113421179343_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19438138",
+      "id": "MLB2760522602",
+      "sold_quantity": 300,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-24T11:16:30.305Z"
+}
