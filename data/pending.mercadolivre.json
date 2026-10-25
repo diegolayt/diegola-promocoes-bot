@@ -1,0 +1,222 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4167645203",
+      "site_id": "MLB",
+      "seller_id": 1883255781,
+      "accepts_mercadopago": true,
+      "price": 274,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQWYwMTRm",
+          "name": "Itapema"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3367991211",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19462412",
+      "title": "Máscara de Reconstrução Profunda para Cabelos Danificados, Força e Elasticidade Résistance Thérapiste Kérastase 200ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_753132-MLA99450295832_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19462412",
+      "id": "MLB4167645203",
+      "sold_quantity": 1500,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7805806864",
+      "site_id": "MLB",
+      "seller_id": 3759704757,
+      "accepts_mercadopago": true,
+      "price": 120,
+      "category_id": "MLB44085",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTGpudnRt",
+          "name": "Vila Maria Alta"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5517770434",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB6360396",
+      "title": "Prancha Cerâmica Profissional Classic 180° Taiff Bivolt Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_773132-MLA96072907583_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB6360396",
+      "id": "MLB7805806864",
+      "sold_quantity": 700,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5364239401",
+      "site_id": "MLB",
+      "seller_id": 3644891897,
+      "accepts_mercadopago": true,
+      "price": 1899,
+      "category_id": "MLB7072",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "custom",
+        "logistic_type": "custom",
+        "tags": [],
+        "cost": 49.99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTjMwYjc4",
+          "name": "Santo Amaro"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5367174466",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65601198",
+      "title": "Freezer Horizontal Consul 2 Portas 528 Litros Branco - CHB53MB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603933-MLA106592499212_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65601198",
+      "id": "MLB5364239401",
+      "sold_quantity": 200,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-10-25T11:31:32.133Z"
+}
