@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7816881744",
-    "productKey": "6c831738d13143fe",
-    "titleHash": "da1d90777d90d970",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-21T11:31:33.075Z"
-  },
-  {
-    "itemId": "MLB5425447788",
-    "productKey": "a05a1f4d4480cd6a",
-    "titleHash": "1c7f0f33f8c61e45",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-21T11:46:22.474Z"
-  },
-  {
     "itemId": "MLB7707499492",
     "productKey": "d947d4019fef538b",
     "titleHash": "0c72f8035670cde0",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-25T21:01:35.024Z"
+  },
+  {
+    "itemId": "MLB7736493970",
+    "productKey": "4e0745be82026c1f",
+    "titleHash": "95ec9b254759a637",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-25T21:31:32.606Z"
+  },
+  {
+    "itemId": "MLB4604327726",
+    "productKey": "110c81276c079aea",
+    "titleHash": "b5237db00758c38a",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-25T21:31:32.606Z"
   }
 ]
