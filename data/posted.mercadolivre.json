@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5320002319",
-    "productKey": "af85f5f6f8e9166c",
-    "titleHash": "de0256cf86475759",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-21T10:16:26.507Z"
-  },
-  {
     "itemId": "MLB4267312145",
     "productKey": "78c76163d845c431",
     "titleHash": "f4a2d665975991c4",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-25T20:31:32.940Z"
+  },
+  {
+    "itemId": "MLB3877977049",
+    "productKey": "766e4122d158c9d9",
+    "titleHash": "a99bf3c6493007aa",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-25T20:46:31.442Z"
   }
 ]
