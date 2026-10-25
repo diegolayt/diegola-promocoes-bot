@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5431836929",
+      "site_id": "MLB",
+      "seller_id": 1824389009,
+      "accepts_mercadopago": true,
+      "price": 309.21,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "content_editable",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BFTGU0Y2I2",
+          "name": "Pelotas"
+        },
+        "state": {
+          "id": "TUxCUFJJT0xkYzM0",
+          "name": "Rio Grande do Sul"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjhBMTU1",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5624815132",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB30068620",
+      "title": "Amazon Fire Tv Stick 4k Select Wi-fi 6 Alexa 8gb Controle Por Voz Preto De Voz",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_823689-MLA118238221702_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB30068620",
+      "id": "MLB5431836929",
+      "sold_quantity": 200,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-25T03:00:50.676Z"
+}
