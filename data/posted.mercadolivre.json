@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5930202958",
-    "productKey": "fded24791054bb1d",
-    "titleHash": "bba7ae42ffd6ef51",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-21T00:16:27.069Z"
-  },
-  {
     "itemId": "MLB6943752224",
     "productKey": "127b8887916baeb4",
     "titleHash": "fa8d671112a0eeee",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-25T06:01:39.334Z"
+  },
+  {
+    "itemId": "MLB6670733424",
+    "productKey": "d39f44041eb93281",
+    "titleHash": "f045d1797b5d99de",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-25T06:16:28.624Z"
   }
 ]
