@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5400098189",
-    "productKey": "d8cdb8921362f102",
-    "titleHash": "1b7a10c533ed1347",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-20T21:16:27.972Z"
-  },
-  {
     "itemId": "MLB7351554836",
     "productKey": "bd5a57a6887059e5",
     "titleHash": "2f41e2e081190be2",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-25T02:31:29.349Z"
+  },
+  {
+    "itemId": "MLB6233290742",
+    "productKey": "3f3b1148afa866b2",
+    "titleHash": "5f3c6ee8eb084863",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-25T02:46:29.172Z"
   }
 ]
