@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7480397854",
-    "productKey": "a98d9ad149b55f1d",
-    "titleHash": "03bf29bdde2827a8",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-21T07:01:33.304Z"
-  },
-  {
-    "itemId": "MLB5131539393",
-    "productKey": "3472274b89b121ef",
-    "titleHash": "e4b1ad14a95f048b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-21T07:01:33.304Z"
-  },
-  {
     "itemId": "MLB5311409709",
     "productKey": "5fe4d75d19c4b6ae",
     "titleHash": "208803b964ddf440",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-25T16:31:32.514Z"
+  },
+  {
+    "itemId": "MLB6210751482",
+    "productKey": "f0aa6c4ebb950930",
+    "titleHash": "53db776e88590465",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-25T16:46:30.284Z"
+  },
+  {
+    "itemId": "MLB5316596061",
+    "productKey": "fe3916e4145f9c4c",
+    "titleHash": "446d0c834ed457eb",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-25T16:46:30.284Z"
   }
 ]
