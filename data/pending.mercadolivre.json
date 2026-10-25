@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "item_id": "MLB1773187667",
+      "site_id": "MLB",
+      "seller_id": 533180837,
+      "accepts_mercadopago": true,
+      "price": 129,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "brand_verified",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2114,
+      "original_price": 299.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRW1idSBkYXMgQXJ0ZXNUVXhDVUZOQlQwO",
+          "name": "Embu das Artes"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIFZpc3RhIEFsZWdyZVRWaFlSV",
+          "name": "Jardim Vista Alegre"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1710706737",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB15316446",
+      "title": "Cafeteira Filtro Arno Preferita Cfpf Inox 750ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_704716-MLA100008443673_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB15316446",
+      "id": "MLB1773187667",
+      "sold_quantity": 100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-25T16:16:34.688Z"
+}
