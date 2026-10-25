@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4275712681",
-    "productKey": "85945f71fa5374ee",
-    "titleHash": "28a257571e9f76c5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-21T06:01:35.538Z"
-  },
-  {
     "itemId": "MLB5288672767",
     "productKey": "d88aa48d0a267fbf",
     "titleHash": "e1b11f56561d2fb3",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-25T14:31:30.763Z"
+  },
+  {
+    "itemId": "MLB7779094920",
+    "productKey": "4d99ade24a114ecb",
+    "titleHash": "a60d5254dc087834",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-25T15:16:29.774Z"
   }
 ]
