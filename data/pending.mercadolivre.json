@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6935838878",
+      "site_id": "MLB",
+      "seller_id": 308829496,
+      "accepts_mercadopago": true,
+      "price": 600,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUnVnMG9p",
+          "name": "Jardim Leonor Mendes de Barros"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4067609729",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23161790",
+      "title": "Arno Genio S Basic DGS5 Gris",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_894567-MLA99958091989_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23161790",
+      "id": "MLB6935838878",
+      "sold_quantity": 1000,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7818664570",
+      "site_id": "MLB",
+      "seller_id": 1929956123,
+      "accepts_mercadopago": true,
+      "price": 998,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 60 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTjMxMzZk",
+          "name": "Contagem"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZBTDM0MTg5",
+          "name": "Vale das Amendoeiras"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 60,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "60 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5547315992",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77138780",
+      "title": "Celular- Hotwav A17 Pro Max 4gb+12gb Ram 256gb Android 15 Laranja",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_932411-MLA116041274381_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77138780",
+      "id": "MLB7818664570",
+      "sold_quantity": 200,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-25T22:31:32.495Z"
+}
