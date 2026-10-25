@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4645451007",
-    "productKey": "439eedc782437843",
-    "titleHash": "c770bbd6140c471d",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-20T22:31:23.181Z"
-  },
-  {
-    "itemId": "MLB3411972271",
-    "productKey": "61c4fd9ccef67094",
-    "titleHash": "27390b548441be76",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-20T22:31:23.181Z"
-  },
-  {
     "itemId": "MLB4214380631",
     "productKey": "599342f11b3c3501",
     "titleHash": "b8c8c51b8b202d3f",
@@ -4798,5 +4782,21 @@
     "category": "masculino",
     "sourceCategoryId": "MLB23332",
     "reservedAt": "2026-10-25T03:46:31.001Z"
+  },
+  {
+    "itemId": "MLB6477127322",
+    "productKey": "4c39c54175dbde91",
+    "titleHash": "3b8d07d05440f04b",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-25T04:01:42.703Z"
+  },
+  {
+    "itemId": "MLB7877248450",
+    "productKey": "41eb4e3bc97aa8bc",
+    "titleHash": "77a05223dc5a6f21",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-25T04:01:42.703Z"
   }
 ]
