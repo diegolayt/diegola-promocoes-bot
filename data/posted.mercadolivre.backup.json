@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7707499492",
-    "productKey": "d947d4019fef538b",
-    "titleHash": "0c72f8035670cde0",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-21T11:46:22.474Z"
-  },
-  {
     "itemId": "MLB5701841518",
     "productKey": "e47e31aa7f0f7ddf",
     "titleHash": "753d54b2272a6993",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-25T21:31:32.606Z"
+  },
+  {
+    "itemId": "MLB7711748652",
+    "productKey": "047b8841586368ce",
+    "titleHash": "d0d73644404827f4",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-25T21:46:29.511Z"
   }
 ]
