@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5367738795",
-    "productKey": "f2cc121a987258d9",
-    "titleHash": "6d8e200943d2f5c5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-20T23:31:30.017Z"
-  },
-  {
-    "itemId": "MLB7237421774",
-    "productKey": "e38f5a07bc73fbd7",
-    "titleHash": "17dc2126afaa1a23",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-21T00:01:33.730Z"
-  },
-  {
     "itemId": "MLB5538296886",
     "productKey": "e99726c12745d0a4",
     "titleHash": "8b80f8f23c3c0fbd",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-25T05:31:38.172Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-25T05:46:26.454Z"
+  },
+  {
+    "itemId": "MLB7657977886",
+    "productKey": "525cdc14fb44b9f9",
+    "titleHash": "48172cb7558886dd",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-25T05:46:26.454Z"
   }
 ]
