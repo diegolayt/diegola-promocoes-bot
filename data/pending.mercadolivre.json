@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5979493700",
+      "site_id": "MLB",
+      "seller_id": 743518733,
+      "accepts_mercadopago": true,
+      "price": 1085.78,
+      "category_id": "MLB1649",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 74542,
+      "original_price": 1365.56,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU2360108225",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB42364363",
+      "title": "Computador Completo Flash, Intel Core i5 3470, RAM 8GB, SSD 256GB, Bivolt, Preto, Monitor 20\" LED HDMI, Windows 10 Pro - BluePC DOE-0140FL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_719762-MLA110751089165_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB42364363",
+      "id": "MLB5979493700",
+      "sold_quantity": 1800,
+      "rotationCategory": "computador",
+      "sourceCategoryId": "MLB430637",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB7881562772",
+      "site_id": "MLB",
+      "seller_id": 3220953930,
+      "accepts_mercadopago": true,
+      "price": 4499.07,
+      "category_id": "MLB1652",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU2VydMOjb3ppbmhvVFV4Q1VGTkJUMDg1T",
+          "name": "Sertãozinho"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5640836337",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB70040749",
+      "title": "Notebook Dell Dc15-i51334u-a50 15.6 Fhd I5 8gb 512gb Win 11",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_602930-MLA111944189869_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB70040749",
+      "id": "MLB7881562772",
+      "sold_quantity": 1200,
+      "rotationCategory": "notebook",
+      "sourceCategoryId": "MLB430687",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB4749793963",
+      "site_id": "MLB",
+      "seller_id": 1064159966,
+      "accepts_mercadopago": true,
+      "price": 272.9,
+      "category_id": "MLB1696",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJVGEzZGJj",
+          "name": "Vitória"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjg0MTUx",
+          "name": "Jardim Camburi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4056147485",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41552994",
+      "title": "Gabinete Gamer Hayom Aquário Com 4 Cooler Fan Led Rgb",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_986619-MLA110163968730_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41552994",
+      "id": "MLB4749793963",
+      "sold_quantity": 200,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-10-25T01:31:32.705Z"
+}

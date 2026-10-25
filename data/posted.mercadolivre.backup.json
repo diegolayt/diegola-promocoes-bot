@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6676755756",
-    "productKey": "9132e4c8f8f9ea53",
-    "titleHash": "798e6332f7c74764",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-20T19:46:26.041Z"
-  },
-  {
-    "itemId": "MLB7805806864",
-    "productKey": "e5a83b7016817575",
-    "titleHash": "959cf01c83f2589c",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-20T19:46:26.041Z"
-  },
-  {
-    "itemId": "MLB6962939434",
-    "productKey": "c226456043f016a9",
-    "titleHash": "8cec1742dfa829f9",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-20T20:16:26.287Z"
-  },
-  {
     "itemId": "MLB7847210158",
     "productKey": "230f44c477955a2b",
     "titleHash": "f00637d35c135f0b",
@@ -4798,5 +4774,29 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-25T01:16:26.792Z"
+  },
+  {
+    "itemId": "MLB5979493700",
+    "productKey": "ef4a8ade7356b7de",
+    "titleHash": "884030f96bc8b69d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-25T01:31:32.703Z"
+  },
+  {
+    "itemId": "MLB7881562772",
+    "productKey": "5a24c3485e043a19",
+    "titleHash": "ca2038c29bdfa6f9",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-10-25T01:31:32.703Z"
+  },
+  {
+    "itemId": "MLB4749793963",
+    "productKey": "b5ad29d95fd238f3",
+    "titleHash": "ea85bf34ab65059e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-25T01:31:32.703Z"
   }
 ]
