@@ -1,0 +1,233 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6805401578",
+      "site_id": "MLB",
+      "seller_id": 3118421917,
+      "accepts_mercadopago": true,
+      "price": 58.9,
+      "category_id": "MLB439097",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5535,
+      "original_price": 259.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1P0zE4Mjc",
+          "name": "Moóca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3975334585",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43514990",
+      "title": "Lixeira Inteligente Automática Redonda Recarregável USB‐C Sensor para Cozinha Banheiro Escritório",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_890665-MLA116158791678_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43514990",
+      "id": "MLB6805401578",
+      "sold_quantity": 1500,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3876858111",
+      "site_id": "MLB",
+      "seller_id": 1932878227,
+      "accepts_mercadopago": true,
+      "price": 78.11,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "good_quality_thumbnail",
+        "kit_component",
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 54823,
+      "original_price": 99.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYVmFyZ2VtIEdyYW5kZSBkbyBTdWxUVXhDV",
+          "name": "Vargem Grande do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2285989124",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB12406685",
+      "title": "Anabolic Mass 28500 3kg Profit Labs Sabor Chocolate",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_616506-MLA110075703952_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB12406685",
+      "id": "MLB3876858111",
+      "sold_quantity": 1000,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5454237659",
+      "site_id": "MLB",
+      "seller_id": 300051042,
+      "accepts_mercadopago": true,
+      "price": 253,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0FMRmVhODM",
+          "name": "Alfenas"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5631067127",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19035706",
+      "title": "Ssd Kingston 240gb Sa400s37/240g Preto sata",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_893707-MLA84846929763_052025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19035706",
+      "id": "MLB5454237659",
+      "sold_quantity": 1600,
+      "rotationCategory": "armazenamento",
+      "sourceCategoryId": "MLB430598",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-10-25T20:31:32.944Z"
+}

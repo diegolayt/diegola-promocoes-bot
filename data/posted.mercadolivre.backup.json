@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5239710571",
-    "productKey": "047b8841586368ce",
-    "titleHash": "d0d73644404827f4",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-21T09:46:27.571Z"
-  },
-  {
-    "itemId": "MLB4924360629",
-    "productKey": "9f78f29633b289d2",
-    "titleHash": "8068712b03430b55",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-21T10:01:32.967Z"
-  },
-  {
-    "itemId": "MLB3695363229",
-    "productKey": "e182a703ecdee38d",
-    "titleHash": "785f6b605b0038f4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-21T10:16:26.507Z"
-  },
-  {
     "itemId": "MLB5320002319",
     "productKey": "af85f5f6f8e9166c",
     "titleHash": "de0256cf86475759",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-25T20:16:28.354Z"
+  },
+  {
+    "itemId": "MLB6805401578",
+    "productKey": "5030a2650c1c44a7",
+    "titleHash": "4901619f0d6ed5e9",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-25T20:31:32.940Z"
+  },
+  {
+    "itemId": "MLB3876858111",
+    "productKey": "50811f927d6a844d",
+    "titleHash": "a24ae796cebc9cc5",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-25T20:31:32.940Z"
+  },
+  {
+    "itemId": "MLB5454237659",
+    "productKey": "b99a995b906409f9",
+    "titleHash": "7eece60ff3ecbbb7",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-25T20:31:32.940Z"
   }
 ]
