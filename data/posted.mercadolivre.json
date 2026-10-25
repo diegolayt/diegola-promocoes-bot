@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5378229206",
-    "productKey": "d9ef4a29fdbb1a3a",
-    "titleHash": "c8f8c2711b445e40",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-21T12:46:24.656Z"
-  },
-  {
     "itemId": "MLB5800037458",
     "productKey": "b6d1cedb49d30deb",
     "titleHash": "51bd3c9452ef23f3",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-25T22:46:27.867Z"
+  },
+  {
+    "itemId": "MLB5455931003",
+    "productKey": "9b9a7eeb47a643f9",
+    "titleHash": "3afcd513ed4312ba",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-25T23:01:39.823Z"
   }
 ]
