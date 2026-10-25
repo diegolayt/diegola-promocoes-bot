@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4390467481",
-    "productKey": "8a5cc19f5fa3af1f",
-    "titleHash": "3ec3ade5cbdb1caa",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-21T04:01:34.795Z"
-  },
-  {
-    "itemId": "MLB5305949705",
-    "productKey": "50fa74af2ebd33e3",
-    "titleHash": "4083df41fefb4f51",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-21T04:16:24.713Z"
-  },
-  {
     "itemId": "MLB5039804027",
     "productKey": "67b41de77f6e8bb3",
     "titleHash": "25cf7e816ba7fd15",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-25T11:31:32.131Z"
+  },
+  {
+    "itemId": "MLB7845639456",
+    "productKey": "43b31f7e3b19a97c",
+    "titleHash": "64005a5731e35fc7",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-25T11:46:27.902Z"
+  },
+  {
+    "itemId": "MLB6112190914",
+    "productKey": "eafa4fac22bc28d4",
+    "titleHash": "ba618477890cc7be",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-25T11:46:27.902Z"
   }
 ]
