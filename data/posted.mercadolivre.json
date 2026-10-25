@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6972021044",
-    "productKey": "5a24c3485e043a19",
-    "titleHash": "ca2038c29bdfa6f9",
-    "category": "notebook",
-    "sourceCategoryId": "MLB430687",
-    "reservedAt": "2026-10-20T19:16:26.712Z"
-  },
-  {
     "itemId": "MLB3510923883",
     "productKey": "3281542ebae1f6e6",
     "titleHash": "971df868445cdbf2",
@@ -4798,5 +4790,13 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-10-25T00:16:38.717Z"
+  },
+  {
+    "itemId": "MLB5232182936",
+    "productKey": "34deacf4f5156c88",
+    "titleHash": "4becc55da500e5d4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-25T00:31:33.658Z"
   }
 ]
