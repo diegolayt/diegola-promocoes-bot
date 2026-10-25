@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2787245412",
-    "productKey": "50274da5b327a827",
-    "titleHash": "22b4a28cffd81415",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-20T19:46:26.041Z"
-  },
-  {
     "itemId": "MLB7829448762",
     "productKey": "9180f7359eb828c8",
     "titleHash": "334a61232386e846",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-25T00:46:22.579Z"
+  },
+  {
+    "itemId": "MLB5139668429",
+    "productKey": "f241e77b5c1de994",
+    "titleHash": "01c710c507d2dd58",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-25T01:01:42.765Z"
   }
 ]
