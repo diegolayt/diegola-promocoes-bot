@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5039804027",
-    "productKey": "67b41de77f6e8bb3",
-    "titleHash": "25cf7e816ba7fd15",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-21T04:31:29.761Z"
-  },
-  {
     "itemId": "MLB7421926236",
     "productKey": "ab931fd77b9d4f68",
     "titleHash": "7d0bcf0139afadac",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-25T11:46:27.902Z"
+  },
+  {
+    "itemId": "MLB5330484555",
+    "productKey": "4e7f7b1baa55e158",
+    "titleHash": "d95af3217f0f612d",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-25T12:16:28.695Z"
   }
 ]
