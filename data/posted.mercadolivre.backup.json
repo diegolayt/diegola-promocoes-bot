@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5215384441",
-    "productKey": "43b31f7e3b19a97c",
-    "titleHash": "64005a5731e35fc7",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-21T02:16:26.216Z"
-  },
-  {
-    "itemId": "MLB7702250824",
-    "productKey": "6cb1243c40624794",
-    "titleHash": "86b6e248994c6e5b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-21T02:31:32.789Z"
-  },
-  {
     "itemId": "MLB7855971836",
     "productKey": "f2e2cfbf1fe4b334",
     "titleHash": "a60547d7fda18e0c",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-25T10:16:29.759Z"
+  },
+  {
+    "itemId": "MLB7742862988",
+    "productKey": "ab7a06687d5141b6",
+    "titleHash": "90a8b50e660fc297",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-25T10:31:34.035Z"
+  },
+  {
+    "itemId": "MLB4379742795",
+    "productKey": "0bcf0514bbf146bf",
+    "titleHash": "4bdf6074887c635e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-25T10:31:34.036Z"
   }
 ]
