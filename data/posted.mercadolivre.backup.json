@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6167651244",
-    "productKey": "e1fa6b0d5edc06a7",
-    "titleHash": "0a852a4ad606a43b",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-21T06:31:29.262Z"
-  },
-  {
     "itemId": "MLB7358347786",
     "productKey": "dd929be301bd7cf9",
     "titleHash": "6c9ca49d8833bbda",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-25T15:46:31.333Z"
+  },
+  {
+    "itemId": "MLB5309422407",
+    "productKey": "aaf36aa09306ceb0",
+    "titleHash": "9b601eef34b56ff5",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-25T16:01:35.219Z"
   }
 ]
