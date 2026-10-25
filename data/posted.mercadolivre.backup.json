@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6805401578",
-    "productKey": "5030a2650c1c44a7",
-    "titleHash": "4901619f0d6ed5e9",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-21T07:46:30.604Z"
-  },
-  {
-    "itemId": "MLB4372865191",
-    "productKey": "991815a1915c7fac",
-    "titleHash": "3542b47735241eef",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-21T07:46:30.604Z"
-  },
-  {
     "itemId": "MLB7457683358",
     "productKey": "a256261d4df6f661",
     "titleHash": "9df7cd8fcf29ae55",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-25T17:46:29.732Z"
+  },
+  {
+    "itemId": "MLB5410852112",
+    "productKey": "68616dd501c539e3",
+    "titleHash": "f40968a9ec38373d",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-25T18:01:38.669Z"
+  },
+  {
+    "itemId": "MLB5438458377",
+    "productKey": "8b660ee99efe635b",
+    "titleHash": "94a291c2b2efa3dd",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-25T18:01:38.669Z"
   }
 ]
