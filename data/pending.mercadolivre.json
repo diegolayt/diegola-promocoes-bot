@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4924360629",
+      "site_id": "MLB",
+      "seller_id": 676651874,
+      "accepts_mercadopago": true,
+      "price": 53.47,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "kit_component",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 393130,
+      "original_price": 78.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBREIyMzNG",
+          "name": "Padre Eustáquio"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4369108705",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB68470545",
+      "title": "O diário de uma princesa desastrada 4 - Lacerda, Maidy - Editora Planeta - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_813121-MLA110797564301_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB68470545",
+      "id": "MLB4924360629",
+      "sold_quantity": 100,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-25T22:01:37.370Z"
+}
