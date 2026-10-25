@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4264223185",
-    "productKey": "ec4b519641a7ee71",
-    "titleHash": "06afb66b058ef953",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-21T01:16:29.483Z"
-  },
-  {
     "itemId": "MLB4379742795",
     "productKey": "0bcf0514bbf146bf",
     "titleHash": "4bdf6074887c635e",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-25T08:31:35.639Z"
+  },
+  {
+    "itemId": "MLB5221599841",
+    "productKey": "e99726c12745d0a4",
+    "titleHash": "8b80f8f23c3c0fbd",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-25T09:01:45.163Z"
   }
 ]
