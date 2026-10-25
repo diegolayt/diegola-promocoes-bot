@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6252875346",
+      "site_id": "MLB",
+      "seller_id": 261591291,
+      "accepts_mercadopago": true,
+      "price": 56.4,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 187162,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRnJhbmNhVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Franca"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRXNwbGFuYWRhIFByaW1vIE1lbmVnaGV0d",
+          "name": "Esplanada Primo Meneghetti"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3786484999",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB21649364",
+      "title": "2 Potes Vitamina B12 Metilcobalamina - 60 Cápsulas Nutrify",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_661238-MLA100080909657_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB21649364",
+      "id": "MLB6252875346",
+      "sold_quantity": 100,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7123309368",
+      "site_id": "MLB",
+      "seller_id": 277842919,
+      "accepts_mercadopago": true,
+      "price": 789.9,
+      "category_id": "MLB76475",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "not_specified",
+        "logistic_type": "not_specified",
+        "tags": [],
+        "cost": 49.99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU29yb2NhYmFUVXhDVUZOQlQwODVOMkU0",
+          "name": "Sorocaba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRWRlblRWaFlVMjl5YjJOaFltRlVWWGhEV",
+          "name": "Eden"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4261666742",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB11759111",
+      "title": "Frigobar Philco 68 Litros Compacto Econômico Compressor Porta Reversível PFG85B",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_601676-MLA108909239378_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB11759111",
+      "id": "MLB7123309368",
+      "sold_quantity": 100,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-10-25T17:16:28.963Z"
+}

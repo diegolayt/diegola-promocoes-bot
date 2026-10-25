@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5656974534",
-    "productKey": "0ab7ac472ebadef7",
-    "titleHash": "bb1dc58e46127577",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-21T07:16:24.640Z"
-  },
-  {
-    "itemId": "MLB4350912918",
-    "productKey": "459bbea6fe06d062",
-    "titleHash": "bac41a6e174e5dfd",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-21T07:16:24.641Z"
-  },
-  {
     "itemId": "MLB7243240382",
     "productKey": "778552fa92898be8",
     "titleHash": "be2e33eea945a4a3",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-25T17:01:44.562Z"
+  },
+  {
+    "itemId": "MLB6252875346",
+    "productKey": "0b5836e85364a77d",
+    "titleHash": "64a615a11688ddb6",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-25T17:16:28.962Z"
+  },
+  {
+    "itemId": "MLB7123309368",
+    "productKey": "3d704c76f6046ebf",
+    "titleHash": "af51320b836920f2",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-25T17:16:28.962Z"
   }
 ]
