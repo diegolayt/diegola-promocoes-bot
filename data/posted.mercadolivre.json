@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5574851656",
-    "productKey": "1605bae93a4b4381",
-    "titleHash": "f52975726d30d711",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-21T02:01:35.250Z"
-  },
-  {
     "itemId": "MLB4592569844",
     "productKey": "8e754a84d4cb7d6c",
     "titleHash": "739fe962804bde10",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-25T09:46:30.427Z"
+  },
+  {
+    "itemId": "MLB4214670787",
+    "productKey": "dea2c4a9da61bcd6",
+    "titleHash": "6c866c86c418343d",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-25T10:01:33.326Z"
   }
 ]
