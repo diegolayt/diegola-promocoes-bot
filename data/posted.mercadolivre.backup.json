@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7852559530",
-    "productKey": "dea2c4a9da61bcd6",
-    "titleHash": "6c866c86c418343d",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-21T00:46:30.894Z"
-  },
-  {
     "itemId": "MLB5401186367",
     "productKey": "97793b46b1ed0e13",
     "titleHash": "ba9b4acf5fd20f0e",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-25T07:31:36.615Z"
+  },
+  {
+    "itemId": "MLB5387146287",
+    "productKey": "ed23dda80ccddb8e",
+    "titleHash": "2833a17e649ec0a3",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-25T08:16:30.188Z"
   }
 ]
