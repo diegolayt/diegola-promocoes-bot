@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5401186367",
-    "productKey": "97793b46b1ed0e13",
-    "titleHash": "ba9b4acf5fd20f0e",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-21T00:46:30.894Z"
-  },
-  {
-    "itemId": "MLB4053374163",
-    "productKey": "04168d7af042a735",
-    "titleHash": "cd6447da33f541b3",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-21T01:01:32.754Z"
-  },
-  {
     "itemId": "MLB4264223185",
     "productKey": "ec4b519641a7ee71",
     "titleHash": "06afb66b058ef953",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-25T08:16:30.188Z"
+  },
+  {
+    "itemId": "MLB4167180457",
+    "productKey": "f2cc121a987258d9",
+    "titleHash": "6d8e200943d2f5c5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-25T08:31:35.638Z"
+  },
+  {
+    "itemId": "MLB4559000033",
+    "productKey": "5b46392a746a1583",
+    "titleHash": "bc9fa749b71a0b00",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-25T08:31:35.639Z"
   }
 ]
