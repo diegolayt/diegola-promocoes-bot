@@ -1,0 +1,211 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7656166424",
+      "site_id": "MLB",
+      "seller_id": 3270994912,
+      "accepts_mercadopago": true,
+      "price": 416.7,
+      "category_id": "MLB5412",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 399948,
+      "original_price": 650,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU2FudGFuYSBkZSBQYXJuYcOtYmFUVXhDV",
+          "name": "Santana de Parnaíba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5191982511",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65038397",
+      "title": "Secador de Cabelos Philco Motor BLDC 6 acessórios Fast Dry 1450W PSD16A 127v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_647757-MLA105488325118_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65038397",
+      "id": "MLB7656166424",
+      "sold_quantity": 100,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5504176212",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 449.9,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5551,
+      "original_price": 574.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3303635246",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35339892",
+      "title": "Tanquinho de Lavar Roupa 10Kg Britânia Semiautomático BLR03",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_913825-MLA96099041275_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35339892",
+      "id": "MLB5504176212",
+      "sold_quantity": 100,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB5112879985",
+      "site_id": "MLB",
+      "seller_id": 3592255542,
+      "accepts_mercadopago": true,
+      "price": 503.67,
+      "category_id": "MLB73057",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439262,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 19.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4850657605",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19104021",
+      "title": "Micro-ondas MO-01-21-W 1200W Mondial",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_971379-MLA99957853113_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19104021",
+      "id": "MLB5112879985",
+      "sold_quantity": 1700,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-10-25T01:46:33.441Z"
+}
