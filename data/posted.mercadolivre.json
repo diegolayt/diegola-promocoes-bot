@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4732213755",
-    "productKey": "70d0d929e25bfba8",
-    "titleHash": "d2bf0fa599588fcb",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-21T06:16:26.878Z"
-  },
-  {
     "itemId": "MLB6167651244",
     "productKey": "e1fa6b0d5edc06a7",
     "titleHash": "0a852a4ad606a43b",
@@ -4798,5 +4790,13 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-10-25T15:31:29.290Z"
+  },
+  {
+    "itemId": "MLB7735185054",
+    "productKey": "13b41427d506aab9",
+    "titleHash": "b820318c501ab566",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-25T15:46:31.333Z"
   }
 ]
