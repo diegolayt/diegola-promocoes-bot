@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5354877447",
-    "productKey": "5bbd37355bdaaca3",
-    "titleHash": "c3390cb321d1deb2",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-20T18:31:27.877Z"
-  },
-  {
-    "itemId": "MLB7772394616",
-    "productKey": "3e89fb212f1b587a",
-    "titleHash": "a70af37fa192c514",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-20T18:31:27.877Z"
-  },
-  {
-    "itemId": "MLB4532977440",
-    "productKey": "78f2b6de4ac95865",
-    "titleHash": "41b27e352f9a3069",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-20T18:46:26.114Z"
-  },
-  {
     "itemId": "MLB7779016744",
     "productKey": "329979dba837faee",
     "titleHash": "fc34165272bbea83",
@@ -4798,5 +4774,29 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-24T23:46:29.179Z"
+  },
+  {
+    "itemId": "MLB6182336356",
+    "productKey": "e772e6fb3830f752",
+    "titleHash": "796851ab66948329",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-10-25T00:01:40.551Z"
+  },
+  {
+    "itemId": "MLB5720245564",
+    "productKey": "2c2b688ed1849d8f",
+    "titleHash": "41b3bbae93bde1d9",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-25T00:01:40.552Z"
+  },
+  {
+    "itemId": "MLB4067339459",
+    "productKey": "8c6368c4182d052e",
+    "titleHash": "076b7b730e1e7886",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-25T00:01:40.552Z"
   }
 ]
