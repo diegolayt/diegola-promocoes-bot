@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5393790417",
+      "site_id": "MLB",
+      "seller_id": 3611628051,
+      "accepts_mercadopago": true,
+      "price": 82.74,
+      "category_id": "MLB1267",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 142,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 14.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5534215694",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27731058",
+      "title": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 200g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_728026-MLA117488225821_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27731058",
+      "id": "MLB5393790417",
+      "sold_quantity": 1200,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-25T14:31:30.766Z"
+}
