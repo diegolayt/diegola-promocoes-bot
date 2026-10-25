@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3876858111",
-    "productKey": "50811f927d6a844d",
-    "titleHash": "a24ae796cebc9cc5",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-21T08:01:29.717Z"
-  },
-  {
     "itemId": "MLB5239047881",
     "productKey": "b99a995b906409f9",
     "titleHash": "e7e58aebd0fef472",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-25T18:16:30.593Z"
+  },
+  {
+    "itemId": "MLB4803658086",
+    "productKey": "10e676d7f3f50b79",
+    "titleHash": "67503e7478865213",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-25T18:31:31.367Z"
   }
 ]
