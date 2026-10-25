@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4690079673",
-    "productKey": "ab7a06687d5141b6",
-    "titleHash": "90a8b50e660fc297",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-21T01:31:27.774Z"
-  },
-  {
-    "itemId": "MLB7574009126",
-    "productKey": "a56325cf90bab0f5",
-    "titleHash": "dc5cb19db2f1630b",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-21T01:31:27.774Z"
-  },
-  {
     "itemId": "MLB5574851656",
     "productKey": "1605bae93a4b4381",
     "titleHash": "f52975726d30d711",
@@ -4798,5 +4782,21 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-10-25T09:31:31.301Z"
+  },
+  {
+    "itemId": "MLB5930202958",
+    "productKey": "fded24791054bb1d",
+    "titleHash": "bba7ae42ffd6ef51",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-25T09:46:30.427Z"
+  },
+  {
+    "itemId": "MLB7853832338",
+    "productKey": "97793b46b1ed0e13",
+    "titleHash": "ba9b4acf5fd20f0e",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-25T09:46:30.427Z"
   }
 ]
