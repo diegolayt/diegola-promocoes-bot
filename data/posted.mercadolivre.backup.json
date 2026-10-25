@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7854138028",
-    "productKey": "f28c430b2349dd9d",
-    "titleHash": "cbc14ed247b8b10d",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-20T23:01:34.802Z"
-  },
-  {
-    "itemId": "MLB4432691851",
-    "productKey": "db1a4254f93598b2",
-    "titleHash": "9cad0ec9b02cf947",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-20T23:01:34.802Z"
-  },
-  {
     "itemId": "MLB5348051331",
     "productKey": "c0b3029c49551398",
     "titleHash": "0dea28415ed27e40",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-25T04:46:31.737Z"
+  },
+  {
+    "itemId": "MLB6149330662",
+    "productKey": "132b0615b1b8f5b3",
+    "titleHash": "1366291730a2460a",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-25T05:01:38.741Z"
+  },
+  {
+    "itemId": "MLB5448565419",
+    "productKey": "9eb5fc3ffddd6db0",
+    "titleHash": "945f28db261b2b05",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-25T05:01:38.741Z"
   }
 ]
