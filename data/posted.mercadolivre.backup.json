@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5410852112",
-    "productKey": "68616dd501c539e3",
-    "titleHash": "f40968a9ec38373d",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-21T05:16:28.968Z"
-  },
-  {
-    "itemId": "MLB5719459402",
-    "productKey": "a4c4288d142801a8",
-    "titleHash": "14b326418476db53",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-21T05:16:28.969Z"
-  },
-  {
-    "itemId": "MLB7482186968",
-    "productKey": "f46488f5ce61c7a7",
-    "titleHash": "5ac572bbf7b65602",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-21T05:31:34.698Z"
-  },
-  {
     "itemId": "MLB3481515593",
     "productKey": "f7f7d61f6c30c3c5",
     "titleHash": "bd2c5073c62b4ca3",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-25T13:31:32.216Z"
+  },
+  {
+    "itemId": "MLB5039804027",
+    "productKey": "67b41de77f6e8bb3",
+    "titleHash": "25cf7e816ba7fd15",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-25T13:46:27.411Z"
+  },
+  {
+    "itemId": "MLB5574851656",
+    "productKey": "1605bae93a4b4381",
+    "titleHash": "f52975726d30d711",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-25T13:46:27.411Z"
+  },
+  {
+    "itemId": "MLB5800043516",
+    "productKey": "db0638517b0c4427",
+    "titleHash": "45d361ba93463419",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-25T13:46:27.411Z"
   }
 ]
