@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5239047881",
-    "productKey": "b99a995b906409f9",
-    "titleHash": "e7e58aebd0fef472",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-21T08:01:29.717Z"
-  },
-  {
-    "itemId": "MLB6131959540",
-    "productKey": "766e4122d158c9d9",
-    "titleHash": "a99bf3c6493007aa",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-21T08:16:28.376Z"
-  },
-  {
-    "itemId": "MLB3988846231",
-    "productKey": "58408d4b8d164d44",
-    "titleHash": "70b737e1b7d26e39",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-21T08:31:29.774Z"
-  },
-  {
     "itemId": "MLB6926098514",
     "productKey": "f1eff9eced4a288f",
     "titleHash": "cc08d37274c23394",
@@ -4798,5 +4774,29 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-25T18:31:31.367Z"
+  },
+  {
+    "itemId": "MLB7480397854",
+    "productKey": "a98d9ad149b55f1d",
+    "titleHash": "03bf29bdde2827a8",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-25T19:01:33.870Z"
+  },
+  {
+    "itemId": "MLB6167651244",
+    "productKey": "e1fa6b0d5edc06a7",
+    "titleHash": "097fe77015697a11",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-25T19:01:33.870Z"
+  },
+  {
+    "itemId": "MLB7358347786",
+    "productKey": "dd929be301bd7cf9",
+    "titleHash": "6c9ca49d8833bbda",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-25T19:01:33.870Z"
   }
 ]
