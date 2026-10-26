@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6833348182",
-    "productKey": "aef85a21267f2840",
-    "titleHash": "76ae0b41d915f8d3",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-22T07:01:41.646Z"
-  },
-  {
-    "itemId": "MLB7531233584",
-    "productKey": "f0c5518ea0cabfba",
-    "titleHash": "b801230ddad01ff0",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-22T07:31:28.866Z"
-  },
-  {
-    "itemId": "MLB7606575730",
-    "productKey": "7ae62e631b538a5f",
-    "titleHash": "72426c512b75ce79",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-22T07:46:34.547Z"
-  },
-  {
-    "itemId": "MLB4367472775",
-    "productKey": "fa34295fd787e18c",
-    "titleHash": "190b71ddac76b50c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-22T08:16:24.252Z"
-  },
-  {
     "itemId": "MLB4564236093",
     "productKey": "41888fb320739b37",
     "titleHash": "3fc1ad64a62d5f86",
@@ -4798,5 +4766,37 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-26T17:16:30.770Z"
+  },
+  {
+    "itemId": "MLB4287637614",
+    "productKey": "69af084751970c16",
+    "titleHash": "5d1608fdc1548bcb",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-26T17:31:31.114Z"
+  },
+  {
+    "itemId": "MLB6807319060",
+    "productKey": "da8b0f32abc30663",
+    "titleHash": "f0e541059e0ba400",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-26T17:31:31.115Z"
+  },
+  {
+    "itemId": "MLB6200396352",
+    "productKey": "12075010278a8522",
+    "titleHash": "e82cc8ca27f22e47",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-26T17:31:31.115Z"
+  },
+  {
+    "itemId": "MLB3899903308",
+    "productKey": "bb58267a3120520a",
+    "titleHash": "53248af44066218e",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-26T17:31:31.115Z"
   }
 ]
