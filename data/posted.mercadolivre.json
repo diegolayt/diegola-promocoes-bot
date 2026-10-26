@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7812100718",
-    "productKey": "113d9604631d6b0d",
-    "titleHash": "02055506bdcf30fc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-22T01:01:29.570Z"
-  },
-  {
     "itemId": "MLB7631375746",
     "productKey": "78a556ba509873f4",
     "titleHash": "2231dac56aa4320f",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-26T12:16:33.996Z"
+  },
+  {
+    "itemId": "MLB7876342144",
+    "productKey": "52e8973cc70fcc11",
+    "titleHash": "8d39b7cca9eea60b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-26T12:31:29.417Z"
   }
 ]
