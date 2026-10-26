@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5283205351",
-    "productKey": "794094e123a2d365",
-    "titleHash": "68fbd7ea594a31fc",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-22T05:46:26.881Z"
-  },
-  {
     "itemId": "MLB6166313818",
     "productKey": "f437f44795d481d0",
     "titleHash": "a8dc62326bfbf119",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-26T16:31:36.631Z"
+  },
+  {
+    "itemId": "MLB5877234484",
+    "productKey": "7ff4850888a120db",
+    "titleHash": "9c4f307b8d6d26f0",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-26T17:01:33.607Z"
   }
 ]
