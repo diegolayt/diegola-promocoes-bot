@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4645102377",
-    "productKey": "e1794297dc2cb2f2",
-    "titleHash": "0476e78d75cd872f",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-21T13:46:29.266Z"
-  },
-  {
     "itemId": "MLB4094474629",
     "productKey": "65e1d528b27f6299",
     "titleHash": "965c2a083e3288c7",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-26T01:01:32.356Z"
+  },
+  {
+    "itemId": "MLB7863881698",
+    "productKey": "d6cc0984381470cf",
+    "titleHash": "a33e46855fcff71c",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-26T01:16:24.378Z"
   }
 ]
