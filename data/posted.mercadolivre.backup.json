@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7855412966",
-    "productKey": "d6cc0984381470cf",
-    "titleHash": "a33e46855fcff71c",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-21T13:16:29.079Z"
-  },
-  {
     "itemId": "MLB4803444412",
     "productKey": "e5941415ecb97d04",
     "titleHash": "08653b1901f81be4",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-26T00:01:41.019Z"
+  },
+  {
+    "itemId": "MLB7710934832",
+    "productKey": "35ee8e3194420329",
+    "titleHash": "78a13177cc204ee6",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-26T00:16:35.178Z"
   }
 ]
