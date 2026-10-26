@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6534791040",
-    "productKey": "916043731c640a9c",
-    "titleHash": "c7ea6eb57b5776c6",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-21T15:31:33.523Z"
-  },
-  {
     "itemId": "MLB7716936568",
     "productKey": "e8b365816ac55e07",
     "titleHash": "a903844b96a9cadf",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-26T02:01:32.269Z"
+  },
+  {
+    "itemId": "MLB4094474629",
+    "productKey": "65e1d528b27f6299",
+    "titleHash": "965c2a083e3288c7",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-26T02:16:25.971Z"
   }
 ]
