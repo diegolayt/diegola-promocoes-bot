@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5440730737",
-    "productKey": "b9ee45f2c4136d0e",
-    "titleHash": "ae8d97b0516bc2b5",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-22T00:01:35.040Z"
-  },
-  {
-    "itemId": "MLB4469987063",
-    "productKey": "f1255b142391a03a",
-    "titleHash": "7d49c45a00f35da1",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-22T00:46:26.989Z"
-  },
-  {
     "itemId": "MLB7812100718",
     "productKey": "113d9604631d6b0d",
     "titleHash": "02055506bdcf30fc",
@@ -4798,5 +4782,21 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-26T12:01:41.389Z"
+  },
+  {
+    "itemId": "MLB5215110257",
+    "productKey": "8c76b04b8266652e",
+    "titleHash": "f095017ffecc087e",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-26T12:16:33.996Z"
+  },
+  {
+    "itemId": "MLB5250712463",
+    "productKey": "3b13b451c92df475",
+    "titleHash": "5933a654bc57192d",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-26T12:16:33.996Z"
   }
 ]
