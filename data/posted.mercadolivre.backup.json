@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7619922218",
-    "productKey": "a04a75b9fb4e31ed",
-    "titleHash": "f6dd9b7437ccaa6c",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-21T21:16:26.631Z"
-  },
-  {
-    "itemId": "MLB7633876088",
-    "productKey": "e7466642d6b5d025",
-    "titleHash": "325029870601ba85",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-21T21:31:29.896Z"
-  },
-  {
-    "itemId": "MLB4239462089",
-    "productKey": "7c16ecc85931f27a",
-    "titleHash": "85ee5166025b545e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-21T21:31:29.896Z"
-  },
-  {
     "itemId": "MLB4718918529",
     "productKey": "eff4ebbdec2c8425",
     "titleHash": "ed957b2ce03ff7f5",
@@ -4798,5 +4774,29 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-10-26T07:46:32.364Z"
+  },
+  {
+    "itemId": "MLB7480407364",
+    "productKey": "79119e9ef6b0ca26",
+    "titleHash": "2b62e2dc003040cf",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-26T08:01:35.451Z"
+  },
+  {
+    "itemId": "MLB7724214528",
+    "productKey": "b7371e77d704b462",
+    "titleHash": "cc44c47e60e54f0b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-26T08:01:35.451Z"
+  },
+  {
+    "itemId": "MLB5440027897",
+    "productKey": "da452a29d07592e5",
+    "titleHash": "c09bfcf6c8bdf349",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-26T08:01:35.451Z"
   }
 ]
