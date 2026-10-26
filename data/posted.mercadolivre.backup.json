@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6107445714",
-    "productKey": "85d041b839360d1e",
-    "titleHash": "89b2d3d9c594e645",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-21T22:46:25.997Z"
-  },
-  {
     "itemId": "MLB7296270886",
     "productKey": "66aad9dacbb2cc0c",
     "titleHash": "9d1eae52c8bb9416",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-26T10:01:39.589Z"
+  },
+  {
+    "itemId": "MLB5312507612",
+    "productKey": "578087a6350e382a",
+    "titleHash": "4e478014ed8af7a9",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-26T10:16:35.609Z"
   }
 ]
