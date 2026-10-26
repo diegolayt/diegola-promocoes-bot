@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5738864798",
-    "productKey": "370515b0cd5566d8",
-    "titleHash": "927fb27c567441ab",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-22T10:46:27.409Z"
-  },
-  {
-    "itemId": "MLB6954342220",
-    "productKey": "01626bf5a4615728",
-    "titleHash": "a64225f5f9af9c7c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-22T11:31:29.815Z"
-  },
-  {
-    "itemId": "MLB6233971228",
-    "productKey": "a5159ad3bb7f346b",
-    "titleHash": "b3a008af85b3061b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-22T11:31:29.816Z"
-  },
-  {
-    "itemId": "MLB4327418307",
-    "productKey": "4b5d7211d804f914",
-    "titleHash": "e85ef4a734ec8242",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-22T11:46:26.655Z"
-  },
-  {
     "itemId": "MLB5171642043",
     "productKey": "0148ce1e4ac0e87b",
     "titleHash": "f85124cedc6e4bf0",
@@ -4798,5 +4766,37 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-26T19:01:37.197Z"
+  },
+  {
+    "itemId": "MLB4481471232",
+    "productKey": "d3c8122c66a236de",
+    "titleHash": "71ae82c4e85b0492",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-26T19:46:32.704Z"
+  },
+  {
+    "itemId": "MLB7606575730",
+    "productKey": "7ae62e631b538a5f",
+    "titleHash": "72426c512b75ce79",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-26T19:46:32.704Z"
+  },
+  {
+    "itemId": "MLB4557926953",
+    "productKey": "ef732e4f03e0d21d",
+    "titleHash": "d98a4fda2313e216",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-26T19:46:32.704Z"
+  },
+  {
+    "itemId": "MLB7531233584",
+    "productKey": "f0c5518ea0cabfba",
+    "titleHash": "b801230ddad01ff0",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-26T19:46:32.704Z"
   }
 ]
