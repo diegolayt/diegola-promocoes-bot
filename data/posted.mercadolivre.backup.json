@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6258717666",
-    "productKey": "b912948cf9b5e753",
-    "titleHash": "f913a4edc4a02db1",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-21T22:01:37.512Z"
-  },
-  {
     "itemId": "MLB2670052459",
     "productKey": "093b9eee2f11757f",
     "titleHash": "20ca04f8adaf4372",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-26T08:31:34.985Z"
+  },
+  {
+    "itemId": "MLB5322153905",
+    "productKey": "7553a221ebd439ad",
+    "titleHash": "bbf4157e2e7d1e0f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-26T08:46:39.014Z"
   }
 ]
