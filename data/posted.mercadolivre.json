@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5171642043",
-    "productKey": "0148ce1e4ac0e87b",
-    "titleHash": "f85124cedc6e4bf0",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-22T12:01:37.869Z"
-  },
-  {
     "itemId": "MLB5414441612",
     "productKey": "e35e63157073651e",
     "titleHash": "5e8971eaf2160afc",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-26T19:46:32.704Z"
+  },
+  {
+    "itemId": "MLB6954342220",
+    "productKey": "01626bf5a4615728",
+    "titleHash": "a64225f5f9af9c7c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-26T20:46:30.550Z"
   }
 ]
