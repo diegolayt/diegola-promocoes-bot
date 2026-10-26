@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7776788788",
+      "site_id": "MLB",
+      "seller_id": 752143036,
+      "accepts_mercadopago": true,
+      "price": 107,
+      "category_id": "MLB29888",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BPUjgwZTJl",
+          "name": "Porto Alegre"
+        },
+        "state": {
+          "id": "TUxCUFJJT0xkYzM0",
+          "name": "Rio Grande do Sul"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJPTUUzQkY2",
+          "name": "Bom Jesus"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5442629554",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27864422",
+      "title": "Gloss Labial Kiko Milano 3D Hydra Cor 01 Transparente",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_702679-MLU75333762686_032024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27864422",
+      "id": "MLB7776788788",
+      "sold_quantity": 1500,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-26T07:46:32.366Z"
+}
