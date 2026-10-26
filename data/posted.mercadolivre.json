@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4454189603",
-    "productKey": "12075010278a8522",
-    "titleHash": "e82cc8ca27f22e47",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-22T05:16:24.492Z"
-  },
-  {
     "itemId": "MLB6889668614",
     "productKey": "61936a573d33a226",
     "titleHash": "4aba07aa2efc9eb5",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-26T16:01:43.490Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-26T16:16:31.565Z"
   }
 ]
