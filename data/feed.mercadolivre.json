@@ -1,5 +1,61 @@
 [
  {
+  "id": "mercadolivre-MLB5337409109",
+  "loja": "mercadolivre",
+  "titulo": "Aquecedor Philco PAQ2100A - 1500W",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_749887-MLA108820481001_032026-F.jpg",
+  "preco": 144,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB66714387?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": false,
+  "nota": null,
+  "fonte": "climatização",
+  "publicadoEm": "2026-10-26T15:16:45.834Z"
+ },
+ {
+  "id": "mercadolivre-MLB4381407875",
+  "loja": "mercadolivre",
+  "titulo": "Deo Parfum Natura Essencial Sentir Masculino 100 mL",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_912400-MLA93839509448_102025-F.jpg",
+  "preco": 157,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB42149268?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": false,
+  "nota": null,
+  "fonte": "perfume",
+  "publicadoEm": "2026-10-26T15:16:41.989Z"
+ },
+ {
+  "id": "mercadolivre-MLB7160567726",
+  "loja": "mercadolivre",
+  "titulo": "Proteína Darkness Carnibol Beef em pó sabor Chocolate x 1.8kg",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_775815-MLA99993472513_112025-F.jpg",
+  "preco": 279,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB18722625?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "suplemento",
+  "publicadoEm": "2026-10-26T15:16:38.144Z"
+ },
+ {
+  "id": "mercadolivre-MLB4328622612",
+  "loja": "mercadolivre",
+  "titulo": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_842482-MLA97781301544_112025-F.jpg",
+  "preco": 87.69,
+  "precoDe": 119,
+  "link": "https://www.mercadolivre.com.br/p/MLB23191928?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "cozinha",
+  "publicadoEm": "2026-10-26T15:16:34.288Z"
+ },
+ {
   "id": "mercadolivre-MLB4028626831",
   "loja": "mercadolivre",
   "titulo": "Mouse sem Fio HP 200 Oman Vermelho - com Sensor Óptico de até 1000 DPI, Ambidestro, Conexão Wireless com Receptor Nano de 2.4GHz e até 10 m de Distância (2HU82AA)",
@@ -8498,20 +8554,6 @@
   "publicadoEm": "2026-10-22T00:01:41.876Z"
  },
  {
-  "id": "mercadolivre-MLB7160567726",
-  "loja": "mercadolivre",
-  "titulo": "Proteína Darkness Carnibol Beef em pó sabor Chocolate x 1.8kg",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_775815-MLA99993472513_112025-F.jpg",
-  "preco": 294,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB18722625?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "suplemento",
-  "publicadoEm": "2026-10-22T00:01:38.003Z"
- },
- {
   "id": "mercadolivre-MLB7438919296",
   "loja": "mercadolivre",
   "titulo": "Mouse Gamer M711 Cobra Chroma Redragon Com fio Para Jogos 12.400 DPI Com Led RGB Preto",
@@ -13720,20 +13762,6 @@
   "publicadoEm": "2026-10-17T17:46:38.097Z"
  },
  {
-  "id": "mercadolivre-MLB4328622612",
-  "loja": "mercadolivre",
-  "titulo": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_842482-MLA97781301544_112025-F.jpg",
-  "preco": 87.69,
-  "precoDe": 119,
-  "link": "https://www.mercadolivre.com.br/p/MLB23191928?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "cozinha",
-  "publicadoEm": "2026-10-17T17:46:34.209Z"
- },
- {
   "id": "mercadolivre-MLB5385629623",
   "loja": "mercadolivre",
   "titulo": "Relógio Smartwatch Redmi Watch 5 Active Lite Xiaomi Preto Prateado",
@@ -16770,33 +16798,5 @@
   "nota": null,
   "fonte": "cabelo",
   "publicadoEm": "2026-10-14T13:46:27.563Z"
- },
- {
-  "id": "mercadolivre-MLB5842112358",
-  "loja": "mercadolivre",
-  "titulo": "Chinelo Feminino Slim Havaianas",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
-  "preco": 250,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB45474714?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": false,
-  "nota": null,
-  "fonte": "calçado",
-  "publicadoEm": "2026-10-14T13:31:31.330Z"
- },
- {
-  "id": "mercadolivre-MLB4294919382",
-  "loja": "mercadolivre",
-  "titulo": "Memória RAM Kingston 8GB Ddr3 Pc3 12800 KVR16N11/8 PC",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_811331-MLA104781725270_012026-F.jpg",
-  "preco": 165,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB18914706?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": false,
-  "nota": null,
-  "fonte": "componente",
-  "publicadoEm": "2026-10-14T13:16:29.500Z"
  }
 ]
