@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7621319132",
-    "productKey": "5c15702ed6d4f3bb",
-    "titleHash": "eab2d9165b0159cb",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-21T13:46:29.266Z"
-  },
-  {
     "itemId": "MLB4645102377",
     "productKey": "e1794297dc2cb2f2",
     "titleHash": "0476e78d75cd872f",
@@ -4798,5 +4790,13 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-10-26T00:46:30.908Z"
+  },
+  {
+    "itemId": "MLB7741387658",
+    "productKey": "ab95e285844c979e",
+    "titleHash": "1da1223a6945e333",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-26T01:01:32.356Z"
   }
 ]
