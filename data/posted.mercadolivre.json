@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5040226423",
-    "productKey": "0a9ab3d2be2ebe8b",
-    "titleHash": "b37656ffe37607bc",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-21T19:31:32.501Z"
-  },
-  {
     "itemId": "MLB7480407364",
     "productKey": "79119e9ef6b0ca26",
     "titleHash": "2b62e2dc003040cf",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-26T06:01:23.555Z"
+  },
+  {
+    "itemId": "MLB7175989960",
+    "productKey": "40b606a89377cc41",
+    "titleHash": "5950e2a94b73f85c",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-26T06:16:32.668Z"
   }
 ]
