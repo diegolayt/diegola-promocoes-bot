@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7846288334",
-    "productKey": "9df63c5c74f0032b",
-    "titleHash": "92bd599ba4cf03b1",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-21T19:01:34.655Z"
-  },
-  {
-    "itemId": "MLB6673668366",
-    "productKey": "da452a29d07592e5",
-    "titleHash": "c09bfcf6c8bdf349",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-21T19:01:34.655Z"
-  },
-  {
-    "itemId": "MLB5376854469",
-    "productKey": "0a78d5595a81cc3e",
-    "titleHash": "fc6752f6d5d3a273",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-21T19:16:27.294Z"
-  },
-  {
     "itemId": "MLB7597764124",
     "productKey": "d042f8f81af2c69f",
     "titleHash": "f8fc4194f2663a29",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-26T05:31:32.322Z"
+  },
+  {
+    "itemId": "MLB7702609944",
+    "productKey": "9785e1e4f9269a23",
+    "titleHash": "0517c1a09d1c4254",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-26T05:46:30.015Z"
+  },
+  {
+    "itemId": "MLB7442035444",
+    "productKey": "3be14b68b582a18a",
+    "titleHash": "ae6d7d88b1e61213",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-26T05:46:30.015Z"
+  },
+  {
+    "itemId": "MLB5514070462",
+    "productKey": "36e80a73bbf5e988",
+    "titleHash": "7166f05bf6ba8c1d",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-26T05:46:30.015Z"
   }
 ]
