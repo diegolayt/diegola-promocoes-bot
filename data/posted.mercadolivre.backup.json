@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7597764124",
-    "productKey": "d042f8f81af2c69f",
-    "titleHash": "f8fc4194f2663a29",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-21T19:31:32.501Z"
-  },
-  {
     "itemId": "MLB5040226423",
     "productKey": "0a9ab3d2be2ebe8b",
     "titleHash": "b37656ffe37607bc",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-26T05:46:30.015Z"
+  },
+  {
+    "itemId": "MLB7811585178",
+    "productKey": "0e235e469f68e106",
+    "titleHash": "2b5877d11ebbe081",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-26T06:01:23.555Z"
   }
 ]

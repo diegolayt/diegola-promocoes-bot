@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7811585178",
+      "site_id": "MLB",
+      "seller_id": 3548519103,
+      "accepts_mercadopago": true,
+      "price": 152,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjAyOTJ2",
+          "name": "Jardim São Savério"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5485690351",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67998627",
+      "title": "100% Whey Concentrado 900g Growth Supplements Morango",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_628440-MLA109560353108_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67998627",
+      "id": "MLB7811585178",
+      "sold_quantity": 200,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-26T06:01:23.558Z"
+}
