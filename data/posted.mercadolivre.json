@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5312507612",
-    "productKey": "578087a6350e382a",
-    "titleHash": "4e478014ed8af7a9",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-21T21:46:27.913Z"
-  },
-  {
     "itemId": "MLB6258717666",
     "productKey": "b912948cf9b5e753",
     "titleHash": "f913a4edc4a02db1",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-26T08:16:30.486Z"
+  },
+  {
+    "itemId": "MLB7877742236",
+    "productKey": "dc20aba18ca9661f",
+    "titleHash": "5268a2c26c99ce4b",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-26T08:31:34.985Z"
   }
 ]
