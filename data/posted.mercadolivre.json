@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5041336353",
-    "productKey": "0093a548dee7b78c",
-    "titleHash": "acc61814edc438ee",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-21T17:01:35.919Z"
-  },
-  {
     "itemId": "MLB5134573859",
     "productKey": "ca96a7cdc65dd068",
     "titleHash": "90d10515f2959749",
@@ -4798,5 +4790,13 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-10-26T03:46:27.401Z"
+  },
+  {
+    "itemId": "MLB3579786447",
+    "productKey": "44a3bea7e54cce74",
+    "titleHash": "ad265b3e1f03412c",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-26T04:01:34.898Z"
   }
 ]
