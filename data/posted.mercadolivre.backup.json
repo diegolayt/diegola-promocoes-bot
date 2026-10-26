@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5255879423",
-    "productKey": "392dfea6c16fe498",
-    "titleHash": "28777b6d8f1e2193",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-21T13:16:29.079Z"
-  },
-  {
-    "itemId": "MLB5934587642",
-    "productKey": "4c9a2bafeaf753b6",
-    "titleHash": "17682e2f317c0d59",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-21T13:16:29.079Z"
-  },
-  {
     "itemId": "MLB7855412966",
     "productKey": "d6cc0984381470cf",
     "titleHash": "a33e46855fcff71c",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-25T23:31:27.748Z"
+  },
+  {
+    "itemId": "MLB7111546408",
+    "productKey": "f46488f5ce61c7a7",
+    "titleHash": "5ac572bbf7b65602",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-26T00:01:41.019Z"
+  },
+  {
+    "itemId": "MLB4168337697",
+    "productKey": "a05a1f4d4480cd6a",
+    "titleHash": "1c7f0f33f8c61e45",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-26T00:01:41.019Z"
   }
 ]
