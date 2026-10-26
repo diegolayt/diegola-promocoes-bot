@@ -125,6 +125,18 @@
   "link": "https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"
  },
  {
+  "loja": "shopee",
+  "codigo": "S3GUND410",
+  "descricao": "R$10 OFF",
+  "regra": "Compras acima de R$ 59 · válido até 26/10 ou enquanto durar",
+  "precoMinimo": 59,
+  "soLista": false,
+  "fim": "2026-10-27T03:00:00Z",
+  "link": null,
+  "auto": "shopee-telegram",
+  "postadoEm": "2026-10-26T15:04:53.000Z"
+ },
+ {
   "loja": "aliexpress",
   "codigo": "TD98PDM",
   "descricao": "R$ 384,17 OFF em Projetores no brasil Projetor ThundeaL 3000",
