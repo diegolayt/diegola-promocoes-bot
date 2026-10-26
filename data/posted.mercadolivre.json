@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7111227742",
-    "productKey": "a9dd8ff2b914849e",
-    "titleHash": "bf0fa0934c37b081",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-21T13:31:30.663Z"
-  },
-  {
     "itemId": "MLB7621319132",
     "productKey": "5c15702ed6d4f3bb",
     "titleHash": "eab2d9165b0159cb",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-26T00:31:32.145Z"
+  },
+  {
+    "itemId": "MLB5408580524",
+    "productKey": "b5841668af3df70a",
+    "titleHash": "26a8aa4b820e295a",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-26T00:46:30.908Z"
   }
 ]
