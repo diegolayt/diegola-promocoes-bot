@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4803444412",
-    "productKey": "e5941415ecb97d04",
-    "titleHash": "08653b1901f81be4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-21T13:31:30.663Z"
-  },
-  {
-    "itemId": "MLB6644496628",
-    "productKey": "b8e083ac878b6190",
-    "titleHash": "e90cb09e396f70b2",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-21T13:31:30.663Z"
-  },
-  {
     "itemId": "MLB7111227742",
     "productKey": "a9dd8ff2b914849e",
     "titleHash": "bf0fa0934c37b081",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-26T00:16:35.178Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-26T00:31:32.144Z"
+  },
+  {
+    "itemId": "MLB5378229206",
+    "productKey": "d9ef4a29fdbb1a3a",
+    "titleHash": "c8f8c2711b445e40",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-26T00:31:32.145Z"
   }
 ]
