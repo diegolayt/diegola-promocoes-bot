@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7766105760",
-    "productKey": "090f9f25713d0f10",
-    "titleHash": "80d4529d802411df",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-22T14:46:25.441Z"
-  },
-  {
-    "itemId": "MLB5325142805",
-    "productKey": "bc05e3f7f280662b",
-    "titleHash": "b5aa74d84ac5676f",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-22T14:46:25.441Z"
-  },
-  {
     "itemId": "MLB4361263765",
     "productKey": "238090adb5a1bf75",
     "titleHash": "246588000d56eb53",
@@ -4798,5 +4782,21 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-10-26T23:31:32.846Z"
+  },
+  {
+    "itemId": "MLB5287861371",
+    "productKey": "c56d3960198fc1d0",
+    "titleHash": "4a6681e89c62e2e6",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-26T23:46:26.053Z"
+  },
+  {
+    "itemId": "MLB4856877715",
+    "productKey": "e192924e8dfd60cb",
+    "titleHash": "f8a0196898f2d977",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-26T23:46:26.053Z"
   }
 ]
