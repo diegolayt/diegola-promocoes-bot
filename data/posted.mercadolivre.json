@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6166313818",
-    "productKey": "f437f44795d481d0",
-    "titleHash": "a8dc62326bfbf119",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-22T06:01:33.151Z"
-  },
-  {
     "itemId": "MLB6833348182",
     "productKey": "aef85a21267f2840",
     "titleHash": "76ae0b41d915f8d3",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-26T17:01:33.607Z"
+  },
+  {
+    "itemId": "MLB5446804455",
+    "productKey": "88b04575a2628994",
+    "titleHash": "9342b0d5015d0472",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-26T17:16:30.770Z"
   }
 ]
