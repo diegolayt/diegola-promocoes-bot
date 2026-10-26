@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5643054880",
-    "productKey": "214fc030cd4ff663",
-    "titleHash": "8f91897b121eb9ff",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-21T22:46:25.997Z"
-  },
-  {
-    "itemId": "MLB7701800018",
-    "productKey": "8391a7ae62302cad",
-    "titleHash": "1f20a51ee45cd080",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-21T22:46:25.997Z"
-  },
-  {
-    "itemId": "MLB5146610670",
-    "productKey": "b124c07810832875",
-    "titleHash": "193e39a55d48c15a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-21T22:46:25.997Z"
-  },
-  {
     "itemId": "MLB6107445714",
     "productKey": "85d041b839360d1e",
     "titleHash": "89b2d3d9c594e645",
@@ -4798,5 +4774,29 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-26T09:31:37.537Z"
+  },
+  {
+    "itemId": "MLB7822235294",
+    "productKey": "f0fc6997fc2876fc",
+    "titleHash": "de7e41f495b50d62",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-26T10:01:39.588Z"
+  },
+  {
+    "itemId": "MLB6258717666",
+    "productKey": "b912948cf9b5e753",
+    "titleHash": "4f9c8fc996431b26",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-26T10:01:39.589Z"
+  },
+  {
+    "itemId": "MLB4718918529",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-26T10:01:39.589Z"
   }
 ]

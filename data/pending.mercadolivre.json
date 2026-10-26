@@ -1,0 +1,247 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7822235294",
+      "site_id": "MLB",
+      "seller_id": 3621470319,
+      "accepts_mercadopago": true,
+      "price": 253.56,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 439,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDFoa2Qy",
+          "name": "Cidade Mãe Do Ceu"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5002112836",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62040539",
+      "title": "Projetor Magcubic HY300PRO Smart Mini LED Android 14 8K Wi-Fi 6 e Bluetooth 5.4 para Cinema em Casa Allwinner H726",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_763451-MLA113005422880_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62040539",
+      "id": "MLB7822235294",
+      "sold_quantity": 700,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    },
+    {
+      "item_id": "MLB6258717666",
+      "site_id": "MLB",
+      "seller_id": 108891093,
+      "accepts_mercadopago": true,
+      "price": 348.23,
+      "category_id": "MLB188785",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 202346,
+      "original_price": 499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTTgyN0Ux",
+          "name": "Campo de Santana"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3412468174",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19802405",
+      "title": "Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_725699-MLA118439485240_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19802405",
+      "id": "MLB6258717666",
+      "sold_quantity": 1200,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB4718918529",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 230.84,
+      "category_id": "MLB5867",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 5 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "first_party",
+        "1p_2x_campaign",
+        "kvs_primary",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2754,
+      "original_price": 269,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 5,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "5 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4028866856",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67989415",
+      "title": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180 m²",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_755357-MLA109556445022_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67989415",
+      "id": "MLB4718918529",
+      "sold_quantity": 1100,
+      "rotationCategory": "redes",
+      "sourceCategoryId": "MLB1700",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-26T10:01:39.591Z"
+}
