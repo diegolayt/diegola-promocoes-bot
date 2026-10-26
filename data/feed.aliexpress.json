@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005010405848165",
+  "loja": "aliexpress",
+  "titulo": "Processador amd usado ryzen 5 7500f r5 7500f 3.7ghz cpu 6 núcleos 12 threads 5nm l3 = 32m 100-000000597 soquete am5",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S36d3161db7c4487db9bd22ab8668eaac2.jpg",
+  "preco": 668.71,
+  "precoDe": 1337.42,
+  "link": "https://s.click.aliexpress.com/e/_c4ezr28B",
+  "vendidos": 163,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_processador",
+  "publicadoEm": "2026-10-26T19:15:51.853Z"
+ },
+ {
+  "id": "aliexpress-1005006488914042",
+  "loja": "aliexpress",
+  "titulo": "MOUGOL-Placa gráfica Radeon RX580 8G, Memória GDDR5, Placa Video Gaming, Computador desktop, AMD, PCIE3.0x16, DVI, DP, Original",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc66802e2c3fc47a8a7a1960becb09a914.jpg",
+  "preco": 800.99,
+  "precoDe": 1144.27,
+  "link": "https://s.click.aliexpress.com/e/_c3PyKkPl",
+  "vendidos": 334,
+  "nota": 4.7,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video",
+  "publicadoEm": "2026-10-26T19:15:43.705Z"
+ },
+ {
+  "id": "aliexpress-1005004754190456",
+  "loja": "aliexpress",
+  "titulo": "CORSAIR Vengeance LPX DDR4 Kit 8GB 16GB 3200MHZ 2400Mhz 2666Mhz DIMM RAM PC4-25600 19200 21300 Desktop Memoria Ram",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S1f89a05c4bb542fc85df3fa64aeca3d7v.jpg",
+  "preco": 299.76,
+  "precoDe": 599.52,
+  "link": "https://s.click.aliexpress.com/e/_c4FMe4sR",
+  "vendidos": 211,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-10-26T19:15:36.160Z"
+ },
+ {
+  "id": "aliexpress-1005006783107881",
+  "loja": "aliexpress",
+  "titulo": "Movespeed 7450 mb/s ssd nvme m.2 2280 4tb 2tb 1tb disco rígido de estado sólido interno m2 pcie 4.0x4 2280 ssd unidade para ps5 computador portátil",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa7cef6b279134dbeb5ef375c06c55a9cM.png",
+  "preco": 1165.57,
+  "precoDe": 2913.92,
+  "link": "https://s.click.aliexpress.com/e/_c3IyR9Nl",
+  "vendidos": 1398,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ssd",
+  "publicadoEm": "2026-10-26T19:15:29.106Z"
+ },
+ {
   "id": "aliexpress-1005007315554113",
   "loja": "aliexpress",
   "titulo": "Placa de Vídeo MOUGOL Original RX580 8G, Memória GDDR5, Placa Gráfica para Jogos, Computador de Mesa, Placa de Vídeo AMD Radeon RX580 8GB GPU",
@@ -11166,34 +11222,6 @@
   "publicadoEm": "2026-10-24T16:30:38.718Z"
  },
  {
-  "id": "aliexpress-1005010405848165",
-  "loja": "aliexpress",
-  "titulo": "Processador amd usado ryzen 5 7500f r5 7500f 3.7ghz cpu 6 núcleos 12 threads 5nm l3 = 32m 100-000000597 soquete am5",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S36d3161db7c4487db9bd22ab8668eaac2.jpg",
-  "preco": 675.99,
-  "precoDe": 1352.23,
-  "link": "https://s.click.aliexpress.com/e/_c4c37ept",
-  "vendidos": 164,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_processador",
-  "publicadoEm": "2026-10-24T16:30:30.914Z"
- },
- {
-  "id": "aliexpress-1005006488914042",
-  "loja": "aliexpress",
-  "titulo": "MOUGOL-Placa gráfica Radeon RX580 8G, Memória GDDR5, Placa Video Gaming, Computador desktop, AMD, PCIE3.0x16, DVI, DP, Original",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc66802e2c3fc47a8a7a1960becb09a914.jpg",
-  "preco": 809.99,
-  "precoDe": 1157.13,
-  "link": "https://s.click.aliexpress.com/e/_c4VpJS7z",
-  "vendidos": 335,
-  "nota": 4.7,
-  "categoria": "Informática",
-  "fonte": "ali_placa_video",
-  "publicadoEm": "2026-10-24T16:15:50.129Z"
- },
- {
   "id": "aliexpress-1005010335736464",
   "loja": "aliexpress",
   "titulo": "Kllisre DDR4 8GB 2666MHz 8G 3200MHz Memória Desktop RAM Dimm Alta Compatível Memória",
@@ -11208,20 +11236,6 @@
   "publicadoEm": "2026-10-24T16:15:42.468Z"
  },
  {
-  "id": "aliexpress-1005006783107881",
-  "loja": "aliexpress",
-  "titulo": "Movespeed 7450 mb/s ssd nvme m.2 2280 4tb 2tb 1tb disco rígido de estado sólido interno m2 pcie 4.0x4 2280 ssd unidade para ps5 computador portátil",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa7cef6b279134dbeb5ef375c06c55a9cM.png",
-  "preco": 1178.69,
-  "precoDe": 2946.73,
-  "link": "https://s.click.aliexpress.com/e/_c45pmBGj",
-  "vendidos": 1401,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ssd",
-  "publicadoEm": "2026-10-24T16:15:35.249Z"
- },
- {
   "id": "aliexpress-1005009478062304",
   "loja": "aliexpress",
   "titulo": "Projetor 4K Ultra HD HORLAT 2026 de 45000 Lumens com Foco TOF, Android 14, WiFi 6, Full HD 1080P para Cinema em Casa e Uso Diurno",
@@ -11234,20 +11248,6 @@
   "categoria": "Áudio e TV",
   "fonte": "ali_projetor",
   "publicadoEm": "2026-10-24T16:15:28.310Z"
- },
- {
-  "id": "aliexpress-1005004754190456",
-  "loja": "aliexpress",
-  "titulo": "CORSAIR Vengeance LPX DDR4 Kit 8GB 16GB 3200MHZ 2400Mhz 2666Mhz DIMM RAM PC4-25600 19200 21300 Desktop Memoria Ram",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S1f89a05c4bb542fc85df3fa64aeca3d7v.jpg",
-  "preco": 302.99,
-  "precoDe": 605.98,
-  "link": "https://s.click.aliexpress.com/e/_c3MfS4Xd",
-  "vendidos": 211,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-10-24T16:00:45.272Z"
  },
  {
   "id": "aliexpress-1005007190045408",
