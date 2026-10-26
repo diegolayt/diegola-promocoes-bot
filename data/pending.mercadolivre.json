@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4434520060",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 499.9,
+      "category_id": "MLB107501",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "first_party",
+        "dynamic_standard_price",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 799.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1968822278",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24264822",
+      "title": "Electrolux Jogo de Panelas em Inox com 5 Peças Design com Fundo Triplo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_984707-MLA108586095125_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24264822",
+      "id": "MLB4434520060",
+      "sold_quantity": 100,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB4894062283",
+      "site_id": "MLB",
+      "seller_id": 57987911,
+      "accepts_mercadopago": true,
+      "price": 661,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBU2NiZTll",
+          "name": "Cascavel"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQk5FVjRERjU2",
+          "name": "Neva"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4325752402",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43961379",
+      "title": "Monitor LG com tela de 24\" de 100Hz e resolução Full HD",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921982-MLA99962503055_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43961379",
+      "id": "MLB4894062283",
+      "sold_quantity": 600,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB5393568901",
+      "site_id": "MLB",
+      "seller_id": 3043876424,
+      "accepts_mercadopago": true,
+      "price": 70.29,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTW9naSBHdWHDp3VUVXhDVUZOQlQwODVOM",
+          "name": "Mogi Guaçu"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIENoYXBhcnJhbFRWaFlUVzluY",
+          "name": "Jardim Chaparral"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5488723591",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17425497",
+      "title": "Relógio Vintage Preto com Pulseira de Borracha F91W-1 Clássico e Elegante Casio",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_912827-MLA116203318993_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17425497",
+      "id": "MLB5393568901",
+      "sold_quantity": 100,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-26T21:16:26.313Z"
+}

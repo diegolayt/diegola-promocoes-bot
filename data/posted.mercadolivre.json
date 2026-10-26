@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7285017814",
-    "productKey": "812634e89d0a39b7",
-    "titleHash": "c61cb7f19b5587d6",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-22T12:31:29.162Z"
-  },
-  {
-    "itemId": "MLB4324797875",
-    "productKey": "0a5cc4226c46bc09",
-    "titleHash": "03b0c5869530dd67",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-22T12:46:27.054Z"
-  },
-  {
-    "itemId": "MLB5107041294",
-    "productKey": "8b67768aeac7e9b2",
-    "titleHash": "ba46e87672d491d0",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-22T14:01:44.793Z"
-  },
-  {
     "itemId": "MLB5097723592",
     "productKey": "0314016684b00af3",
     "titleHash": "f150802ac716f3c0",
@@ -4798,5 +4774,29 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-26T21:01:41.319Z"
+  },
+  {
+    "itemId": "MLB4434520060",
+    "productKey": "8310112227df8250",
+    "titleHash": "9c3ffa07f0b0398b",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-26T21:16:26.309Z"
+  },
+  {
+    "itemId": "MLB4894062283",
+    "productKey": "1a3d9e92a2c1f7d6",
+    "titleHash": "addb225ab9b855c4",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-26T21:16:26.309Z"
+  },
+  {
+    "itemId": "MLB5393568901",
+    "productKey": "bd7ce8c073ce4d78",
+    "titleHash": "9c59f5fda561e680",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-26T21:16:26.309Z"
   }
 ]
