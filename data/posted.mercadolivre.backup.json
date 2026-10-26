@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB2670052459",
-    "productKey": "093b9eee2f11757f",
-    "titleHash": "20ca04f8adaf4372",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-21T22:01:37.512Z"
-  },
-  {
-    "itemId": "MLB7529392590",
-    "productKey": "fd83f25c3b8fcc66",
-    "titleHash": "7d923047dcc35c56",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-21T22:16:33.053Z"
-  },
-  {
     "itemId": "MLB5525263450",
     "productKey": "1d8166e9351c06df",
     "titleHash": "2d20bb6dda958724",
@@ -4798,5 +4782,21 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-26T08:46:39.014Z"
+  },
+  {
+    "itemId": "MLB6965750316",
+    "productKey": "c421c7dbedfa4af5",
+    "titleHash": "d1f3d0e27d1791c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-26T09:01:40.237Z"
+  },
+  {
+    "itemId": "MLB7619922218",
+    "productKey": "a04a75b9fb4e31ed",
+    "titleHash": "f6dd9b7437ccaa6c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-26T09:01:40.237Z"
   }
 ]
