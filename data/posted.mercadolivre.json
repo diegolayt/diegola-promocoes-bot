@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-22T05:01:35.952Z"
-  },
-  {
     "itemId": "MLB5435257929",
     "productKey": "78e15032506bdded",
     "titleHash": "390f920e0311bfb0",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-26T15:16:31.189Z"
+  },
+  {
+    "itemId": "MLB3865628605",
+    "productKey": "b9ee45f2c4136d0e",
+    "titleHash": "ae8d97b0516bc2b5",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-26T15:46:32.799Z"
   }
 ]
