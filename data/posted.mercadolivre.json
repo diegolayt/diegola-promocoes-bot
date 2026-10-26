@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4835188553",
-    "productKey": "beff4cef257732ed",
-    "titleHash": "11fa0ab13597eab7",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-21T16:16:27.729Z"
-  },
-  {
-    "itemId": "MLB5432601449",
-    "productKey": "490cecdfbaa48fb2",
-    "titleHash": "2d4e78b24cd92766",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-21T16:16:27.729Z"
-  },
-  {
-    "itemId": "MLB4820493913",
-    "productKey": "4da8403653ad3f9a",
-    "titleHash": "3f644395875c5baa",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-21T16:16:27.729Z"
-  },
-  {
     "itemId": "MLB4106194351",
     "productKey": "35614e530157f7fe",
     "titleHash": "308ca2a85e1b8a8a",
@@ -4798,5 +4774,29 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-26T03:01:39.428Z"
+  },
+  {
+    "itemId": "MLB5385932414",
+    "productKey": "33b92cca0add5d8c",
+    "titleHash": "01d5b0171a4da264",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-26T03:16:30.506Z"
+  },
+  {
+    "itemId": "MLB5310339963",
+    "productKey": "130db9fd8b248230",
+    "titleHash": "8f472aee6ac699cb",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-26T03:16:30.506Z"
+  },
+  {
+    "itemId": "MLB5415225163",
+    "productKey": "e79cacc5bfe33eec",
+    "titleHash": "248c99ad0a42a4d3",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-26T03:16:30.507Z"
   }
 ]
