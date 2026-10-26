@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5244238225",
-    "productKey": "e36a6435f85d422e",
-    "titleHash": "b23daca646894c44",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-22T08:46:25.998Z"
-  },
-  {
-    "itemId": "MLB2627322441",
-    "productKey": "1010a845202376db",
-    "titleHash": "ae3d9f5c10f2e3eb",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-22T09:01:35.520Z"
-  },
-  {
     "itemId": "MLB5245976068",
     "productKey": "27482fda8b372737",
     "titleHash": "2a9d9052071de1ee",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-26T17:46:29.628Z"
+  },
+  {
+    "itemId": "MLB4564236093",
+    "productKey": "41888fb320739b37",
+    "titleHash": "3fc1ad64a62d5f86",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-26T18:01:38.533Z"
+  },
+  {
+    "itemId": "MLB7886190956",
+    "productKey": "440210c2e74ac2dc",
+    "titleHash": "d59da11f1c5be83f",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-26T18:01:38.533Z"
   }
 ]
