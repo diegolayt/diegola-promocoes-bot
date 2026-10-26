@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5134573859",
-    "productKey": "ca96a7cdc65dd068",
-    "titleHash": "90d10515f2959749",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-21T17:01:35.920Z"
-  },
-  {
     "itemId": "MLB5325831505",
     "productKey": "9785e1e4f9269a23",
     "titleHash": "0517c1a09d1c4254",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-10-26T04:01:34.898Z"
+  },
+  {
+    "itemId": "MLB5049356861",
+    "productKey": "b0c3a1d30ec3594d",
+    "titleHash": "a4888d1eeb13cd9e",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-26T04:16:37.470Z"
   }
 ]
