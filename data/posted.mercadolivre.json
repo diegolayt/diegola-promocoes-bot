@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7631375746",
-    "productKey": "78a556ba509873f4",
-    "titleHash": "2231dac56aa4320f",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-22T01:01:29.570Z"
-  },
-  {
-    "itemId": "MLB4265708013",
-    "productKey": "3ca801cb1e1d27d3",
-    "titleHash": "9fab40653042a04f",
-    "category": "colchão",
-    "sourceCategoryId": "MLB438928",
-    "reservedAt": "2026-10-22T01:16:27.446Z"
-  },
-  {
     "itemId": "MLB3251982185",
     "productKey": "6e6b0a0afa3e4adb",
     "titleHash": "ba28ef2dcd7fcc21",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-26T12:31:29.417Z"
+  },
+  {
+    "itemId": "MLB4469987063",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-26T13:16:33.820Z"
+  },
+  {
+    "itemId": "MLB7812100718",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-26T13:16:33.820Z"
   }
 ]
