@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6563913800",
-    "productKey": "d0747d37c319a421",
-    "titleHash": "5bc53b25ced2901c",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-22T09:31:29.181Z"
-  },
-  {
     "itemId": "MLB7863405154",
     "productKey": "d3c8122c66a236de",
     "titleHash": "71ae82c4e85b0492",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-26T18:16:29.735Z"
+  },
+  {
+    "itemId": "MLB6166313818",
+    "productKey": "f437f44795d481d0",
+    "titleHash": "a8dc62326bfbf119",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-26T18:31:34.710Z"
   }
 ]
