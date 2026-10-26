@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5439370761",
+      "site_id": "MLB",
+      "seller_id": 257072993,
+      "accepts_mercadopago": true,
+      "price": 219.9,
+      "category_id": "MLB180269",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1117,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0RPVTg4MDE3",
+          "name": "Douradina"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5645600426",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45975876",
+      "title": "Bicicleta Infantil Aro 12 Menina Nathor Flower Rodinha Cesta 2 a 5 Anos",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_641740-MLA117324581438_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45975876",
+      "id": "MLB5439370761",
+      "sold_quantity": 1400,
+      "rotationCategory": "ciclismo",
+      "sourceCategoryId": "MLB1292",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-10-26T07:16:25.871Z"
+}

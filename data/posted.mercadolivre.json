@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5440102759",
-    "productKey": "7553a221ebd439ad",
-    "titleHash": "bbf4157e2e7d1e0f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-21T20:46:24.500Z"
-  },
-  {
     "itemId": "MLB6666051606",
     "productKey": "c421c7dbedfa4af5",
     "titleHash": "d1f3d0e27d1791c6",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-26T07:01:33.747Z"
+  },
+  {
+    "itemId": "MLB5439370761",
+    "productKey": "dab439480dd9b128",
+    "titleHash": "d54de27ef0c2bc22",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-26T07:16:25.870Z"
   }
 ]
