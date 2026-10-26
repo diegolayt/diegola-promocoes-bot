@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6234101476",
+      "site_id": "MLB",
+      "seller_id": 1168726042,
+      "accepts_mercadopago": true,
+      "price": 451,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 20,
+      "original_price": 654,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3774465555",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB14815387",
+      "title": "Lavadora Semiautomática Lcs 10kg Branca Colormaq 110v Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_715151-MLA113216371516_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB14815387",
+      "id": "MLB6234101476",
+      "sold_quantity": 700,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB4612346505",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 70.69,
+      "category_id": "MLB1265",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "user_product_unify",
+        "first_party",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4476,
+      "original_price": 98.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1148521967",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB38919855",
+      "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 200g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_686877-MLA114006261577_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB38919855",
+      "id": "MLB4612346505",
+      "sold_quantity": 300,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-26T06:31:29.798Z"
+}

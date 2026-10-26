@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7480407364",
-    "productKey": "79119e9ef6b0ca26",
-    "titleHash": "2b62e2dc003040cf",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-21T19:46:28.277Z"
-  },
-  {
-    "itemId": "MLB7684174012",
-    "productKey": "322af4737407e3c8",
-    "titleHash": "3168a0af6c08f618",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-21T19:46:28.277Z"
-  },
-  {
     "itemId": "MLB7725235560",
     "productKey": "b7371e77d704b462",
     "titleHash": "cc44c47e60e54f0b",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-26T06:16:32.668Z"
+  },
+  {
+    "itemId": "MLB6234101476",
+    "productKey": "98c2fc5b284eead7",
+    "titleHash": "87e02b4ced3d3145",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-26T06:31:29.796Z"
+  },
+  {
+    "itemId": "MLB4612346505",
+    "productKey": "2de2a2ad26618bb6",
+    "titleHash": "0c4c55cfc2d6f829",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-26T06:31:29.796Z"
   }
 ]
