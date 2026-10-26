@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7574452184",
-    "productKey": "f957ab0d39b2d366",
-    "titleHash": "b1c4d572f20022fd",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-21T23:16:26.019Z"
-  },
-  {
-    "itemId": "MLB7438919296",
-    "productKey": "9d501d04b619787b",
-    "titleHash": "60b43647216b307c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-21T23:16:26.019Z"
-  },
-  {
     "itemId": "MLB5250712463",
     "productKey": "3b13b451c92df475",
     "titleHash": "5933a654bc57192d",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-26T11:16:34.278Z"
+  },
+  {
+    "itemId": "MLB7529392590",
+    "productKey": "fd83f25c3b8fcc66",
+    "titleHash": "7d923047dcc35c56",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-26T11:31:32.894Z"
+  },
+  {
+    "itemId": "MLB7491682162",
+    "productKey": "d33df3999587dace",
+    "titleHash": "174d64e8b602bda5",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-26T11:31:32.895Z"
   }
 ]
