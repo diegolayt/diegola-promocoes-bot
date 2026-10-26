@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7716468040",
-    "productKey": "1bef57881ed6b740",
-    "titleHash": "49debd1b524845f5",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-22T03:01:27.354Z"
-  },
-  {
-    "itemId": "MLB4268042659",
-    "productKey": "cddbf545af237f6f",
-    "titleHash": "3bbe4ed40543e0e7",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-22T04:01:33.025Z"
-  },
-  {
-    "itemId": "MLB4422182615",
-    "productKey": "751a5f5793414e23",
-    "titleHash": "ce21fa4a9d4dde20",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-22T04:01:33.025Z"
-  },
-  {
-    "itemId": "MLB5275657315",
-    "productKey": "ef732e4f03e0d21d",
-    "titleHash": "d98a4fda2313e216",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-22T04:31:33.009Z"
-  },
-  {
     "itemId": "MLB4287637614",
     "productKey": "69af084751970c16",
     "titleHash": "5d1608fdc1548bcb",
@@ -4798,5 +4766,37 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-26T15:01:38.492Z"
+  },
+  {
+    "itemId": "MLB4328622612",
+    "productKey": "029d0c6fc887611c",
+    "titleHash": "a2174520f63568e4",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-26T15:16:31.189Z"
+  },
+  {
+    "itemId": "MLB7160567726",
+    "productKey": "2b8d916b04c09f90",
+    "titleHash": "e6a0bbceb4a1566b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-26T15:16:31.189Z"
+  },
+  {
+    "itemId": "MLB4381407875",
+    "productKey": "56e953d72225b9db",
+    "titleHash": "a52b2817a8ca9972",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-26T15:16:31.189Z"
+  },
+  {
+    "itemId": "MLB5337409109",
+    "productKey": "4362b55f1faec0c7",
+    "titleHash": "ea3c545e9ecd20f0",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-26T15:16:31.189Z"
   }
 ]
