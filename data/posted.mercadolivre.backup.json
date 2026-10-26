@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6889668614",
-    "productKey": "61936a573d33a226",
-    "titleHash": "4aba07aa2efc9eb5",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-22T05:31:29.671Z"
-  },
-  {
     "itemId": "MLB5283205351",
     "productKey": "794094e123a2d365",
     "titleHash": "68fbd7ea594a31fc",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-26T16:16:31.565Z"
+  },
+  {
+    "itemId": "MLB4268042659",
+    "productKey": "cddbf545af237f6f",
+    "titleHash": "3bbe4ed40543e0e7",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-26T16:31:36.631Z"
   }
 ]
