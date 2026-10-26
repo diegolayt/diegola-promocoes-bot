@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5383758300",
+      "site_id": "MLB",
+      "seller_id": 267892530,
+      "accepts_mercadopago": true,
+      "price": 2299,
+      "category_id": "MLB73046",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "extended_warranty_eligible",
+        "catalog_boost",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1215,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 39.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDM4RTVG",
+          "name": "Cidade Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3134702193",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB49503931",
+      "title": "Lava-louça Electrolux Inox Com Programa Lava E Seca LS08E Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_606650-MLA99935855021_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB49503931",
+      "id": "MLB5383758300",
+      "sold_quantity": 500,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-26T09:16:28.717Z"
+}
