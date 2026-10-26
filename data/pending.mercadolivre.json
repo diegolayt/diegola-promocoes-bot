@@ -1,0 +1,246 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5293442116",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 509.9,
+      "category_id": "MLB180387",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "1p_7x_campaign",
+        "user_product_unify",
+        "first_party",
+        "dynamic_standard_price",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 639,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2978477628",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23463576",
+      "title": "Purificador de Água Consul Branco/Prata CPB34ASVNA",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_946189-MLA115405170646_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23463576",
+      "id": "MLB5293442116",
+      "sold_quantity": 1000,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5454474899",
+      "site_id": "MLB",
+      "seller_id": 302902874,
+      "accepts_mercadopago": true,
+      "price": 160,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBTTdjMzUy",
+          "name": "Campo do Meio"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5631669353",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB22431156",
+      "title": "Tv Box Proeletronic SmartPro 4k, com Android 10 E 16gb Smart Box PROSB-3000/16GB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_721469-MLA117188608146_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB22431156",
+      "id": "MLB5454474899",
+      "sold_quantity": 1900,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5420155653",
+      "site_id": "MLB",
+      "seller_id": 2705700850,
+      "accepts_mercadopago": true,
+      "price": 4048,
+      "category_id": "MLB268508",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NIQTEyNmVk",
+          "name": "Chapecó"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQkVGQUM1RjBF",
+          "name": "Efapi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5598259488",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB39865327",
+      "title": "Impressora 3d Bambu Lab A1 Combo - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_727903-MLA108910638494_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB39865327",
+      "id": "MLB5420155653",
+      "sold_quantity": 300,
+      "rotationCategory": "impressão",
+      "sourceCategoryId": "MLB5875",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-10-26T07:01:33.750Z"
+}

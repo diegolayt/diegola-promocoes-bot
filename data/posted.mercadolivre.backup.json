@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB2745268073",
-    "productKey": "dc20aba18ca9661f",
-    "titleHash": "5268a2c26c99ce4b",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-21T20:01:34.345Z"
-  },
-  {
-    "itemId": "MLB7846859080",
-    "productKey": "4e2f362469f62985",
-    "titleHash": "8f1c9c86d0a43096",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-21T20:16:34.175Z"
-  },
-  {
-    "itemId": "MLB4349744253",
-    "productKey": "52e8973cc70fcc11",
-    "titleHash": "8d39b7cca9eea60b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-21T20:31:32.382Z"
-  },
-  {
     "itemId": "MLB5440102759",
     "productKey": "7553a221ebd439ad",
     "titleHash": "bbf4157e2e7d1e0f",
@@ -4798,5 +4774,29 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-26T06:46:30.407Z"
+  },
+  {
+    "itemId": "MLB5293442116",
+    "productKey": "9df63c5c74f0032b",
+    "titleHash": "92bd599ba4cf03b1",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-26T07:01:33.747Z"
+  },
+  {
+    "itemId": "MLB5454474899",
+    "productKey": "7262ef56ea36d241",
+    "titleHash": "3d0acc5ed8d2644f",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-26T07:01:33.747Z"
+  },
+  {
+    "itemId": "MLB5420155653",
+    "productKey": "bc04daa8ab567d61",
+    "titleHash": "f8bb3ea79829b117",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-26T07:01:33.747Z"
   }
 ]
