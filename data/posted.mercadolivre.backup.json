@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5097723592",
-    "productKey": "0314016684b00af3",
-    "titleHash": "f150802ac716f3c0",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-22T14:16:26.827Z"
-  },
-  {
     "itemId": "MLB7071760238",
     "productKey": "3290caa2bbf60419",
     "titleHash": "0a784ed1ced73153",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-26T21:16:26.309Z"
+  },
+  {
+    "itemId": "MLB5283067343",
+    "productKey": "e35e63157073651e",
+    "titleHash": "5e8971eaf2160afc",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-26T21:31:39.421Z"
   }
 ]
