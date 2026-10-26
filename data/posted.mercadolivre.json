@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7658098506",
-    "productKey": "4ff7a299c45ac56a",
-    "titleHash": "2a6e08582af5bd66",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-22T14:31:31.324Z"
-  },
-  {
     "itemId": "MLB7439289696",
     "productKey": "e192924e8dfd60cb",
     "titleHash": "f8a0196898f2d977",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-26T22:31:32.789Z"
+  },
+  {
+    "itemId": "MLB4492289463",
+    "productKey": "85c90da92725b1e2",
+    "titleHash": "4cbb797cebb323b7",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-26T23:16:28.926Z"
   }
 ]
