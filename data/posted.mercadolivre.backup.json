@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5250712463",
-    "productKey": "3b13b451c92df475",
-    "titleHash": "5933a654bc57192d",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-21T23:31:28.882Z"
-  },
-  {
-    "itemId": "MLB5215110257",
-    "productKey": "8c76b04b8266652e",
-    "titleHash": "f095017ffecc087e",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-21T23:46:28.235Z"
-  },
-  {
     "itemId": "MLB7160567726",
     "productKey": "2b8d916b04c09f90",
     "titleHash": "e6a0bbceb4a1566b",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-10-26T11:31:32.895Z"
+  },
+  {
+    "itemId": "MLB7574452184",
+    "productKey": "f957ab0d39b2d366",
+    "titleHash": "b1c4d572f20022fd",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-26T11:46:30.688Z"
+  },
+  {
+    "itemId": "MLB7813090564",
+    "productKey": "bbbcab83b53caf8d",
+    "titleHash": "f424bc04999eb95b",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-26T11:46:30.688Z"
   }
 ]
