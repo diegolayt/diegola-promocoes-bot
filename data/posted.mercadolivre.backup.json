@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4335198040",
-    "productKey": "c6c6cafc5d31e22d",
-    "titleHash": "a51b760040ec713c",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-22T15:46:23.651Z"
-  },
-  {
     "itemId": "MLB4473369755",
     "productKey": "df4075e6f8f85700",
     "titleHash": "1eb445f93e0337cb",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-27T01:01:35.078Z"
+  },
+  {
+    "itemId": "MLB5414610831",
+    "productKey": "c394ad5c5c8abff2",
+    "titleHash": "de87e86126411ee5",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-27T01:16:29.181Z"
   }
 ]
