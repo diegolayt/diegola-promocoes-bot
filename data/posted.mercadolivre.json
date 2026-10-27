@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3939720011",
-    "productKey": "aea2de8a7c5c3d52",
-    "titleHash": "fd8a49ba38884f61",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-22T17:01:35.419Z"
-  },
-  {
     "itemId": "MLB6311333646",
     "productKey": "25d77da721ba1aad",
     "titleHash": "58d471363e8a624e",
@@ -4798,5 +4790,13 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-10-27T03:16:28.350Z"
+  },
+  {
+    "itemId": "MLB5681538962",
+    "productKey": "131979a67ce743d6",
+    "titleHash": "120ff11e5757e483",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-27T03:31:36.988Z"
   }
 ]
