@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5739859240",
-    "productKey": "8906c9c9254a9621",
-    "titleHash": "e774f2697c40f7fa",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-23T08:31:35.388Z"
-  },
-  {
     "itemId": "MLB3865889111",
     "productKey": "bcc383aebf7b4b19",
     "titleHash": "7497e9df0d7cbdd8",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-27T19:46:29.606Z"
+  },
+  {
+    "itemId": "MLB4434021128",
+    "productKey": "c5543c055f84df02",
+    "titleHash": "83b9bfbc76707c67",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-27T20:00:55.330Z"
   }
 ]
