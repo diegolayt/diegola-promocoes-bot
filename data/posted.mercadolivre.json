@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4361263765",
-    "productKey": "238090adb5a1bf75",
-    "titleHash": "246588000d56eb53",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-22T15:01:35.222Z"
-  },
-  {
     "itemId": "MLB5295401309",
     "productKey": "d90185c5813ba0bb",
     "titleHash": "26e89182c842e1bc",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-26T23:46:26.053Z"
+  },
+  {
+    "itemId": "MLB4576693657",
+    "productKey": "ebfca99113baae99",
+    "titleHash": "af8ecbf6a7506bdc",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-27T00:16:27.579Z"
   }
 ]
