@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5365122835",
+      "site_id": "MLB",
+      "seller_id": 3744628425,
+      "accepts_mercadopago": true,
+      "price": 72,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [],
+        "cost": 47.526048
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVVISmxjMmxrWlc1MFpTQ1",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5470086176",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB15144095",
+      "title": "Logitech Mouse Sem Fio M170 Preto Cinza USB 2.4GHz Ambidestro Compacto para Notebook PC Computador com Nano Receptor USB Conexão Sem Fio Tecnologia Wireless Com De 1000DPI",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_956180-MLA99964568593_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB15144095",
+      "id": "MLB5365122835",
+      "sold_quantity": 1000,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-27T00:46:31.560Z"
+}
