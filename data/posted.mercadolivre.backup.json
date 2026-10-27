@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6847613118",
-    "productKey": "6a0f874da4937eb3",
-    "titleHash": "994272fd0fa8ee25",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-22T18:01:33.814Z"
-  },
-  {
     "itemId": "MLB7833836710",
     "productKey": "f1bf6bf916c5306e",
     "titleHash": "bbdcb68937be3dc7",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-27T05:16:32.849Z"
+  },
+  {
+    "itemId": "MLB7862612132",
+    "productKey": "aea2de8a7c5c3d52",
+    "titleHash": "fd8a49ba38884f61",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-27T05:31:38.728Z"
   }
 ]
