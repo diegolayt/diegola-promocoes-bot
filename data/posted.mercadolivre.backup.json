@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7736313444",
-    "productKey": "c394ad5c5c8abff2",
-    "titleHash": "de87e86126411ee5",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-22T15:31:32.806Z"
-  },
-  {
     "itemId": "MLB4335198040",
     "productKey": "c6c6cafc5d31e22d",
     "titleHash": "a51b760040ec713c",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-27T00:46:31.558Z"
+  },
+  {
+    "itemId": "MLB5980496924",
+    "productKey": "5e2b747dccadc7ed",
+    "titleHash": "b11c7c849e9f236c",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-27T01:01:35.078Z"
   }
 ]
