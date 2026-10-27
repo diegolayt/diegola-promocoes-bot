@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5298166742",
-    "productKey": "d39b1ecff1553030",
-    "titleHash": "589e36cf1c58b931",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-10-23T05:46:25.585Z"
-  },
-  {
-    "itemId": "MLB4530343781",
-    "productKey": "3a407f63317b8338",
-    "titleHash": "9ad94d4ed4f3c9b9",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-23T06:31:31.767Z"
-  },
-  {
     "itemId": "MLB5130081305",
     "productKey": "a2a3edc1809c6c6b",
     "titleHash": "b14b8b4878c17f55",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-27T15:46:33.931Z"
+  },
+  {
+    "itemId": "MLB4029445671",
+    "productKey": "06babd581101f23b",
+    "titleHash": "49b321f683ef6a94",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-27T16:01:40.859Z"
+  },
+  {
+    "itemId": "MLB6654338660",
+    "productKey": "bd7e186faebad4c2",
+    "titleHash": "4f66bd4101d296ee",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-27T16:01:40.859Z"
   }
 ]
