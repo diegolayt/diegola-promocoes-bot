@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7751651742",
-    "productKey": "a086c918d8e9500d",
-    "titleHash": "1c3a6dcf9a109e1b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-23T01:16:24.491Z"
-  },
-  {
-    "itemId": "MLB2820196075",
-    "productKey": "9be23f720e3d6d4f",
-    "titleHash": "b4d7c6e7b7ef601d",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-23T01:46:28.306Z"
-  },
-  {
     "itemId": "MLB5410636044",
     "productKey": "268fe1dcba87ee28",
     "titleHash": "0b023d35ca0abbf6",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-27T13:01:36.669Z"
+  },
+  {
+    "itemId": "MLB5820611620",
+    "productKey": "81470f458df652f2",
+    "titleHash": "9b560d3758ed6fb2",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-27T13:16:32.151Z"
+  },
+  {
+    "itemId": "MLB5502018546",
+    "productKey": "c9df3c56099bd37b",
+    "titleHash": "34f9448e848ee070",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-27T13:16:32.152Z"
   }
 ]
