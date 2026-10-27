@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3577839307",
-    "productKey": "e1f31ebb49ae051b",
-    "titleHash": "da52ddf8d551059c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-22T21:16:24.649Z"
-  },
-  {
     "itemId": "MLB5957858734",
     "productKey": "032e9611bb4a2b77",
     "titleHash": "f706aff9778048f9",
@@ -4798,5 +4790,13 @@
     "category": "esporte",
     "sourceCategoryId": null,
     "reservedAt": "2026-10-27T07:16:30.220Z"
+  },
+  {
+    "itemId": "MLB5457734771",
+    "productKey": "7b530b4b1ca8b409",
+    "titleHash": "16098ab31f1e5d10",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-27T07:46:33.741Z"
   }
 ]
