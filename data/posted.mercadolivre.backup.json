@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6162191874",
-    "productKey": "0546c9a98b460ab9",
-    "titleHash": "8f0a8a5ee541baba",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-23T07:31:33.317Z"
-  },
-  {
     "itemId": "MLB7769864156",
     "productKey": "e9800a0fc5b597cc",
     "titleHash": "acfec4b582b90d37",
@@ -4798,5 +4790,13 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-10-27T18:31:30.826Z"
+  },
+  {
+    "itemId": "MLB7895526858",
+    "productKey": "a2a3edc1809c6c6b",
+    "titleHash": "b14b8b4878c17f55",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-27T18:46:32.331Z"
   }
 ]
