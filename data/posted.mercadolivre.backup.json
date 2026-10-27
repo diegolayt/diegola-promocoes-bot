@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5139760693",
-    "productKey": "c6ffc2bdedffd41c",
-    "titleHash": "7660bd2cc9a981c5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-22T22:46:31.724Z"
-  },
-  {
-    "itemId": "MLB4173586375",
-    "productKey": "c7ebf54e4fcc2fe3",
-    "titleHash": "5a9f86ddd7a1801f",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-22T23:46:27.303Z"
-  },
-  {
-    "itemId": "MLB6539025322",
-    "productKey": "67959f7697e2dbde",
-    "titleHash": "69c47bee8d5cd059",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-23T00:01:37.757Z"
-  },
-  {
     "itemId": "MLB4472130599",
     "productKey": "1d07b11a945328b6",
     "titleHash": "ff18fddfa72ad4c4",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-27T10:16:28.307Z"
+  },
+  {
+    "itemId": "MLB4737509497",
+    "productKey": "9614c6fc06399731",
+    "titleHash": "84c3d0989b55ca0f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-27T10:31:33.865Z"
+  },
+  {
+    "itemId": "MLB6600129404",
+    "productKey": "307900e287a57280",
+    "titleHash": "5ab2e697025e7a60",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-27T10:31:33.865Z"
+  },
+  {
+    "itemId": "MLB7285928992",
+    "productKey": "0785c43e55e3ab09",
+    "titleHash": "cfe7f9ead51d8a67",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-27T10:31:33.865Z"
   }
 ]
