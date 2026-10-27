@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4880764075",
-    "productKey": "cd6908a1373b2654",
-    "titleHash": "08f953c8f96c4c54",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-23T11:46:30.771Z"
-  },
-  {
     "itemId": "MLB7861172134",
     "productKey": "8be3319e521559cd",
     "titleHash": "23cf86b709b0138e",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-27T22:46:26.783Z"
+  },
+  {
+    "itemId": "MLB5447344915",
+    "productKey": "8d695fa54f022e04",
+    "titleHash": "7fcbd2cc69672259",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-27T23:01:37.165Z"
   }
 ]
