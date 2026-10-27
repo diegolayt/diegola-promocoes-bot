@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6955970560",
-    "productKey": "98aa92e5a98722ca",
-    "titleHash": "b6dfdbb0bf292d78",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-22T16:16:29.694Z"
-  },
-  {
     "itemId": "MLB5281065549",
     "productKey": "7860af033b3fd150",
     "titleHash": "6ca13a59e47a1cb7",
@@ -4798,5 +4790,13 @@
     "category": "colchão",
     "sourceCategoryId": "MLB438928",
     "reservedAt": "2026-10-27T02:16:30.303Z"
+  },
+  {
+    "itemId": "MLB5926653126",
+    "productKey": "2f19ab49dff9833e",
+    "titleHash": "d401bb0c0418c14b",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-27T03:01:37.486Z"
   }
 ]
