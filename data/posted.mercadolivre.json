@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5377392691",
-    "productKey": "c68e7df5fbb0bc40",
-    "titleHash": "a5628dcc75d4851c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-23T04:16:31.464Z"
-  },
-  {
-    "itemId": "MLB4835180937",
-    "productKey": "abf8d06c6cfb1b90",
-    "titleHash": "96e7f5a9a79b44c8",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-23T04:31:30.089Z"
-  },
-  {
-    "itemId": "MLB7736600904",
-    "productKey": "f0ce6c3f19f94762",
-    "titleHash": "2e4937b263ba3a23",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-23T04:46:24.346Z"
-  },
-  {
     "itemId": "MLB5298166742",
     "productKey": "d39b1ecff1553030",
     "titleHash": "589e36cf1c58b931",
@@ -4798,5 +4774,29 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-10-27T15:31:31.597Z"
+  },
+  {
+    "itemId": "MLB5690651572",
+    "productKey": "586f1f38fea099c8",
+    "titleHash": "1e2890a0d74c84a0",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-27T15:46:33.930Z"
+  },
+  {
+    "itemId": "MLB4794556515",
+    "productKey": "2f742d6104f56e3f",
+    "titleHash": "72f46bd8beed252c",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-27T15:46:33.931Z"
+  },
+  {
+    "itemId": "MLB5248948411",
+    "productKey": "810f54caef449f8a",
+    "titleHash": "91f8268a7fe15f7e",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-27T15:46:33.931Z"
   }
 ]
