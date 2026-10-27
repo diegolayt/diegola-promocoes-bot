@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5957858734",
-    "productKey": "032e9611bb4a2b77",
-    "titleHash": "f706aff9778048f9",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-22T21:16:24.649Z"
-  },
-  {
     "itemId": "MLB1813858157",
     "productKey": "cd49aae79bb3a2e2",
     "titleHash": "acd7395731aedb0b",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-27T07:46:33.741Z"
+  },
+  {
+    "itemId": "MLB6596438294",
+    "productKey": "d76eb3fcd1f5b581",
+    "titleHash": "f6a3659df6032b8d",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-27T09:01:35.688Z"
   }
 ]
