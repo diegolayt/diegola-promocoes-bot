@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5424041486",
-    "productKey": "a69c89af46f539e7",
-    "titleHash": "47a732733919029b",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-23T11:31:34.812Z"
-  },
-  {
-    "itemId": "MLB4391994143",
-    "productKey": "f2921cc7fb9fa9b5",
-    "titleHash": "dd922ec0efd9151c",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-23T11:31:34.812Z"
-  },
-  {
-    "itemId": "MLB5376165413",
-    "productKey": "7a53461dd73ba0e6",
-    "titleHash": "3da6186ec2d43ed9",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-23T11:31:34.812Z"
-  },
-  {
     "itemId": "MLB6695260200",
     "productKey": "ee8fd5861a3c2696",
     "titleHash": "f8bfd64d734b86ee",
@@ -4798,5 +4774,29 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-27T22:16:30.695Z"
+  },
+  {
+    "itemId": "MLB7158521510",
+    "productKey": "28d216f74a70b104",
+    "titleHash": "fd6cf3f85ccd5ee4",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-27T22:31:29.681Z"
+  },
+  {
+    "itemId": "MLB3616725881",
+    "productKey": "2b88dc516422dcc0",
+    "titleHash": "d6b5f6fe6c4f8314",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-27T22:31:29.681Z"
+  },
+  {
+    "itemId": "MLB4373389101",
+    "productKey": "b8e4e2607ac65999",
+    "titleHash": "7f7000b3d93f8fb7",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-27T22:31:29.681Z"
   }
 ]
