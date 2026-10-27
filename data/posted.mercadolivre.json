@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3964141405",
-    "productKey": "b849aecceecc26bb",
-    "titleHash": "75843a77cef6ba61",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-23T00:16:26.454Z"
-  },
-  {
     "itemId": "MLB4549814415",
     "productKey": "5707418a30805cbf",
     "titleHash": "4e21a569e001ae6e",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-27T11:16:27.138Z"
+  },
+  {
+    "itemId": "MLB5139760693",
+    "productKey": "c6ffc2bdedffd41c",
+    "titleHash": "7660bd2cc9a981c5",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-27T12:01:39.450Z"
   }
 ]
