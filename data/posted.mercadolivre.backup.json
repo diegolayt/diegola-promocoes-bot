@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7303325040",
-    "productKey": "4a7f02d9f32165ef",
-    "titleHash": "a12ff9e762186519",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-22T18:01:33.814Z"
-  },
-  {
     "itemId": "MLB6847613118",
     "productKey": "6a0f874da4937eb3",
     "titleHash": "994272fd0fa8ee25",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-27T04:46:29.222Z"
+  },
+  {
+    "itemId": "MLB4115638623",
+    "productKey": "9681761c11f42242",
+    "titleHash": "c506f453654b8575",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-27T05:16:32.849Z"
   }
 ]
