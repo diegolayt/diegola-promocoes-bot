@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7884938250",
+      "site_id": "MLB",
+      "seller_id": 3591712332,
+      "accepts_mercadopago": true,
+      "price": 324.49,
+      "category_id": "MLB6899",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTU4MDI",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQkdVQUNBUDQy",
+          "name": "Guadalupe"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5696662198",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB80460108",
+      "title": "Combo De Booster Pokémon - Celebração 30 Anos Copag Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_930475-MLA118477811736_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB80460108",
+      "id": "MLB7884938250",
+      "sold_quantity": 100,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3473394047",
+      "site_id": "MLB",
+      "seller_id": 524736285,
+      "accepts_mercadopago": true,
+      "price": 199.9,
+      "category_id": "MLB12394",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "good_quality_thumbnail",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 219186,
+      "original_price": 245.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHUyNHA5",
+          "name": "Vila Maria Baixa"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1430137152",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25372458",
+      "title": "Atentu patinete infantil menina menino adulto adolescente dobrável cor branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_632785-MLA99522482768_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25372458",
+      "id": "MLB3473394047",
+      "sold_quantity": 100,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4549814415",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 328.23,
+      "category_id": "MLB11507",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "dynamic_standard_price",
+        "first_party",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 379,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3818959025",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB66274919",
+      "title": "Caixa Amplificada Mondial 300W Bivolt CM-300-N",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_885359-MLA108544665414_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB66274919",
+      "id": "MLB4549814415",
+      "sold_quantity": 400,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5343171879",
+      "site_id": "MLB",
+      "seller_id": 1351494710,
+      "accepts_mercadopago": true,
+      "price": 1489,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0xPTmI2Njg1",
+          "name": "Londrina"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5418299348",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52053194",
+      "title": "Tablet Xiaomi Redmi Pad 2 11'' 256gb 8 Ram Wi-fi Cor Verde",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_732443-MLA112632939762_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52053194",
+      "id": "MLB5343171879",
+      "sold_quantity": 2000,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-27T12:46:21.399Z"
+}
