@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5139448417",
-    "productKey": "4a4e4d305a849405",
-    "titleHash": "4d721e26d87f59c2",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-23T08:16:28.901Z"
-  },
-  {
     "itemId": "MLB5739859240",
     "productKey": "8906c9c9254a9621",
     "titleHash": "e774f2697c40f7fa",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-27T19:31:38.899Z"
+  },
+  {
+    "itemId": "MLB3986700487",
+    "productKey": "a1d280e4c3ee7ae6",
+    "titleHash": "94ccd298a23fb896",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-27T19:46:29.606Z"
   }
 ]
