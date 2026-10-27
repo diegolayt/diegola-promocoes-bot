@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7786823114",
-    "productKey": "cc30dbbddccab7f9",
-    "titleHash": "31b02c7b29c66bc6",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-22T21:01:25.673Z"
-  },
-  {
     "itemId": "MLB3577839307",
     "productKey": "e1f31ebb49ae051b",
     "titleHash": "da52ddf8d551059c",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-27T07:01:44.512Z"
+  },
+  {
+    "itemId": "MLB6160701910",
+    "productKey": "3e2da9e46fe2ebe9",
+    "titleHash": "6d028c2aeaa8addc",
+    "category": "esporte",
+    "sourceCategoryId": null,
+    "reservedAt": "2026-10-27T07:16:30.220Z"
   }
 ]
