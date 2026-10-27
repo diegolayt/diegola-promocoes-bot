@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4028150107",
-    "productKey": "8191759e21b92a67",
-    "titleHash": "8b681e8772bc1b7f",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-22T21:46:29.485Z"
-  },
-  {
-    "itemId": "MLB4434021128",
-    "productKey": "c5543c055f84df02",
-    "titleHash": "83b9bfbc76707c67",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-22T21:46:29.486Z"
-  },
-  {
     "itemId": "MLB5447344915",
     "productKey": "8d695fa54f022e04",
     "titleHash": "7fcbd2cc69672259",
@@ -4798,5 +4782,21 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-10-27T09:16:29.837Z"
+  },
+  {
+    "itemId": "MLB4857152173",
+    "productKey": "e1f31ebb49ae051b",
+    "titleHash": "da52ddf8d551059c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-27T09:31:33.597Z"
+  },
+  {
+    "itemId": "MLB5765031656",
+    "productKey": "c349dddceaf42741",
+    "titleHash": "9447aa454a0006a0",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-27T09:31:33.597Z"
   }
 ]
