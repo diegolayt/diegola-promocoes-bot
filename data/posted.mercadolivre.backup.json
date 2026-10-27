@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5062891033",
-    "productKey": "cc7b6f9694e26e07",
-    "titleHash": "28260572dc6461e9",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-23T11:16:26.101Z"
-  },
-  {
-    "itemId": "MLB4047390953",
-    "productKey": "f38a3304dccc5642",
-    "titleHash": "bb7882e2da4716bd",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-23T11:31:34.812Z"
-  },
-  {
     "itemId": "MLB5424041486",
     "productKey": "a69c89af46f539e7",
     "titleHash": "47a732733919029b",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-27T22:01:35.190Z"
+  },
+  {
+    "itemId": "MLB5341102711",
+    "productKey": "195addb9e0cb3945",
+    "titleHash": "0cb54f54b1ae9faf",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-27T22:16:30.695Z"
+  },
+  {
+    "itemId": "MLB7894116412",
+    "productKey": "7cea41114e64d915",
+    "titleHash": "71c36229283c5f66",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-27T22:16:30.695Z"
   }
 ]
