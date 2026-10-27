@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3854139077",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 95.88,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "dynamic_standard_price",
+        "standard_price_by_quantity",
+        "first_party",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 168,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 17.7
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU710203388",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB12630467",
+      "title": "Vitafor Omega 3 Epa Dha - 120 Cap",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_630015-MLA100064073883_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB12630467",
+      "id": "MLB3854139077",
+      "sold_quantity": 500,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-27T10:46:28.815Z"
+}
