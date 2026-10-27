@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3509736487",
-    "productKey": "8c0d33a795b15f6e",
-    "titleHash": "d094143229ed8d2c",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-23T12:01:39.193Z"
-  },
-  {
     "itemId": "MLB5812393646",
     "productKey": "d76bba99e09b3844",
     "titleHash": "321d8c2ae24df17a",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-27T23:16:27.730Z"
+  },
+  {
+    "itemId": "MLB7703060334",
+    "productKey": "4755b979c3c045a4",
+    "titleHash": "f202ae7974835d43",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-27T23:31:41.241Z"
   }
 ]
