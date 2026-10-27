@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5531737640",
+      "site_id": "MLB",
+      "seller_id": 1877089806,
+      "accepts_mercadopago": true,
+      "price": 98.78,
+      "category_id": "MLB45425",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTnptY2do",
+          "name": "Santa Efigênia"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3336591828",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB28797373",
+      "title": "Campainha Sem Fio Cib 101 Intelbras Alcance Até 100 Metros",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_876292-MLA99533078972_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB28797373",
+      "id": "MLB5531737640",
+      "sold_quantity": 100,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-27T12:16:25.149Z"
+}

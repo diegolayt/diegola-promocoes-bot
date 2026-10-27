@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4549814415",
-    "productKey": "5707418a30805cbf",
-    "titleHash": "4e21a569e001ae6e",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-23T00:16:26.454Z"
-  },
-  {
     "itemId": "MLB3473394047",
     "productKey": "762275457dd03b6f",
     "titleHash": "2a5879481138b5ec",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-10-27T12:01:39.450Z"
+  },
+  {
+    "itemId": "MLB5531737640",
+    "productKey": "9794bebaec5757db",
+    "titleHash": "9da9f46b49a1f59c",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-27T12:16:25.147Z"
   }
 ]
