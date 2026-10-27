@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5406356779",
-    "productKey": "940df9bddda642bf",
-    "titleHash": "c467e192556c50ca",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-22T16:01:42.767Z"
-  },
-  {
     "itemId": "MLB6955970560",
     "productKey": "98aa92e5a98722ca",
     "titleHash": "b6dfdbb0bf292d78",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-27T01:46:38.491Z"
+  },
+  {
+    "itemId": "MLB4265708013",
+    "productKey": "3ca801cb1e1d27d3",
+    "titleHash": "9fab40653042a04f",
+    "category": "colchão",
+    "sourceCategoryId": "MLB438928",
+    "reservedAt": "2026-10-27T02:16:30.303Z"
   }
 ]
