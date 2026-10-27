@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5812393646",
-    "productKey": "d76bba99e09b3844",
-    "titleHash": "321d8c2ae24df17a",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-23T12:01:39.193Z"
-  },
-  {
-    "itemId": "MLB7863311312",
-    "productKey": "a6ddc6408e6a83c4",
-    "titleHash": "f244f09f7432116d",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-23T12:16:27.102Z"
-  },
-  {
-    "itemId": "MLB3783973037",
-    "productKey": "79904641cb78c39e",
-    "titleHash": "c6c910964afbee15",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-23T12:31:32.771Z"
-  },
-  {
     "itemId": "MLB6656456936",
     "productKey": "ed3df50a2cbf5f8f",
     "titleHash": "b659e2c201fc5062",
@@ -4798,5 +4774,29 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-27T23:31:41.241Z"
+  },
+  {
+    "itemId": "MLB5424041486",
+    "productKey": "a69c89af46f539e7",
+    "titleHash": "47a732733919029b",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-27T23:46:31.944Z"
+  },
+  {
+    "itemId": "MLB7861297344",
+    "productKey": "7a53461dd73ba0e6",
+    "titleHash": "3da6186ec2d43ed9",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-27T23:46:31.944Z"
+  },
+  {
+    "itemId": "MLB6759046416",
+    "productKey": "cc7b6f9694e26e07",
+    "titleHash": "28260572dc6461e9",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-27T23:46:31.944Z"
   }
 ]
