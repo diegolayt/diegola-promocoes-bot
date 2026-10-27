@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7016869884",
-    "productKey": "31d21cd7b3243873",
-    "titleHash": "2d6545f358c0aa7b",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-22T22:16:25.428Z"
-  },
-  {
-    "itemId": "MLB4737632999",
-    "productKey": "9614c6fc06399731",
-    "titleHash": "84c3d0989b55ca0f",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-22T22:31:30.405Z"
-  },
-  {
     "itemId": "MLB5139760693",
     "productKey": "c6ffc2bdedffd41c",
     "titleHash": "7660bd2cc9a981c5",
@@ -4798,5 +4782,21 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-27T10:01:41.085Z"
+  },
+  {
+    "itemId": "MLB1813858157",
+    "productKey": "cd49aae79bb3a2e2",
+    "titleHash": "acd7395731aedb0b",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-27T10:16:28.307Z"
+  },
+  {
+    "itemId": "MLB5034031859",
+    "productKey": "8191759e21b92a67",
+    "titleHash": "8b681e8772bc1b7f",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-27T10:16:28.307Z"
   }
 ]
