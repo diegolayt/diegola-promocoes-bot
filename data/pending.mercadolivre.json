@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6989102014",
+      "site_id": "MLB",
+      "seller_id": 621739273,
+      "accepts_mercadopago": true,
+      "price": 339.9,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 430126,
+      "original_price": 409.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTGYzZDA5",
+          "name": "Colatina"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkFERTI3MjhD",
+          "name": "Adélia Giuberti"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4114969113",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46104754",
+      "title": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_948554-MLA112358486570_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46104754",
+      "id": "MLB6989102014",
+      "sold_quantity": 400,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7590602354",
+      "site_id": "MLB",
+      "seller_id": 3592255542,
+      "accepts_mercadopago": true,
+      "price": 309,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439262,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5115653680",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46101113",
+      "title": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6L 8 receitas pré-sugeridas timer 60 minutos desligamento automático cesto removivel dupla camada antiaderente - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_719301-MLA99996659519_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46101113",
+      "id": "MLB7590602354",
+      "sold_quantity": 1200,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-27T13:31:41.512Z"
+}
