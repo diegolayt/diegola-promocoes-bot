@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1646212446",
-    "productKey": "8dc3f44528f03a95",
-    "titleHash": "6ad6eb236525cbe1",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-23T08:16:28.901Z"
-  },
-  {
     "itemId": "MLB5139448417",
     "productKey": "4a4e4d305a849405",
     "titleHash": "4d721e26d87f59c2",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-27T19:16:30.189Z"
+  },
+  {
+    "itemId": "MLB4434428164",
+    "productKey": "5b5dbe709902e2fc",
+    "titleHash": "5310defd20b8b0a1",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-27T19:31:38.899Z"
   }
 ]
