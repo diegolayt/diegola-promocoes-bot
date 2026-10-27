@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5281065549",
+      "site_id": "MLB",
+      "seller_id": 416656935,
+      "accepts_mercadopago": true,
+      "price": 3229,
+      "category_id": "MLB121405",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 81566,
+      "original_price": 4500,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRnJhbmNvIGRhIFJvY2hhVFV4Q1VGTkJUM",
+          "name": "Franco da Rocha"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ29tcGFuaGlhIEZhemVuZGEgQmVsZW1UV",
+          "name": "Companhia Fazenda Belem"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5249019149",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61539026",
+      "title": "Computador All In One Aoc Intel I5 23.8\" Ddr3 Ssd Teclado Mouse",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_803023-MLA116952195804_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61539026",
+      "id": "MLB5281065549",
+      "sold_quantity": 1300,
+      "rotationCategory": "computador",
+      "sourceCategoryId": "MLB430637",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB4537550283",
+      "site_id": "MLB",
+      "seller_id": 1180652375,
+      "accepts_mercadopago": true,
+      "price": 249.99,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0ZPUjM5MmFh",
+          "name": "Fortaleza"
+        },
+        "state": {
+          "id": "TUxCUENFQUExNzkyZQ",
+          "name": "Ceará"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTkVCRkVC",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3843346231",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27987921",
+      "title": "Absolut Repair Gold Quinoa Máscara 500g - L'oréal",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_777426-MLU72721384007_112023-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27987921",
+      "id": "MLB4537550283",
+      "sold_quantity": 100,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-27T04:46:29.224Z"
+}
