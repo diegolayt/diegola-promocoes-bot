@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7863332624",
-    "productKey": "8af7df7f67736088",
-    "titleHash": "424920e3dd208530",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-23T03:16:26.561Z"
-  },
-  {
     "itemId": "MLB5401675507",
     "productKey": "1317d74e4994bd84",
     "titleHash": "9c2438faaf66bd09",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-27T13:46:35.524Z"
+  },
+  {
+    "itemId": "MLB2820196075",
+    "productKey": "9be23f720e3d6d4f",
+    "titleHash": "b4d7c6e7b7ef601d",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-27T14:01:37.146Z"
   }
 ]
