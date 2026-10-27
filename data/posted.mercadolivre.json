@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5399666787",
-    "productKey": "3344db8c92b18ffc",
-    "titleHash": "edb9c071a365bae0",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-23T10:01:32.333Z"
-  },
-  {
-    "itemId": "MLB3371545077",
-    "productKey": "2b88dc516422dcc0",
-    "titleHash": "d6b5f6fe6c4f8314",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-23T10:16:27.135Z"
-  },
-  {
     "itemId": "MLB3797364569",
     "productKey": "96983e4185e3eef7",
     "titleHash": "f469ce3c49a26e01",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-27T21:01:38.347Z"
+  },
+  {
+    "itemId": "MLB7187016886",
+    "productKey": "3235a086bca26017",
+    "titleHash": "7a1c23c1bdf33031",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-27T21:16:32.967Z"
+  },
+  {
+    "itemId": "MLB5739859240",
+    "productKey": "8906c9c9254a9621",
+    "titleHash": "e774f2697c40f7fa",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-27T21:16:32.967Z"
   }
 ]
