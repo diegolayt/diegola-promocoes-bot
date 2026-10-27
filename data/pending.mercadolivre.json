@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7885856700",
+      "site_id": "MLB",
+      "seller_id": 14574040,
+      "accepts_mercadopago": true,
+      "price": 1954,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUnZiejRn",
+          "name": "Jardim Paulistano"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5650531055",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB58623212",
+      "title": "Nintendo Switch Console OLED 64gb",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB58623212",
+      "id": "MLB7885856700",
+      "sold_quantity": 1800,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    },
+    {
+      "item_id": "MLB5467060877",
+      "site_id": "MLB",
+      "seller_id": 3457822235,
+      "accepts_mercadopago": true,
+      "price": 110,
+      "category_id": "MLB189008",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTMzNjI",
+          "name": "São Bernardo do Campo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBVTUxNTg",
+          "name": "Paulicéia"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5659118395",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46189259",
+      "title": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_804305-MLA119589286173_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46189259",
+      "id": "MLB5467060877",
+      "sold_quantity": 1700,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-27T00:31:34.226Z"
+}
