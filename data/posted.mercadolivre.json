@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7861172134",
-    "productKey": "8be3319e521559cd",
-    "titleHash": "23cf86b709b0138e",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-23T11:46:30.771Z"
-  },
-  {
-    "itemId": "MLB3865337689",
-    "productKey": "8966f7090ac1116d",
-    "titleHash": "0257198e68c33f08",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-23T12:01:39.193Z"
-  },
-  {
     "itemId": "MLB3509736487",
     "productKey": "8c0d33a795b15f6e",
     "titleHash": "d094143229ed8d2c",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-27T23:01:37.165Z"
+  },
+  {
+    "itemId": "MLB7421926236",
+    "productKey": "ab931fd77b9d4f68",
+    "titleHash": "7d0bcf0139afadac",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-27T23:16:27.729Z"
+  },
+  {
+    "itemId": "MLB7816882902",
+    "productKey": "f2921cc7fb9fa9b5",
+    "titleHash": "dd922ec0efd9151c",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-27T23:16:27.730Z"
   }
 ]
