@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3797364569",
-    "productKey": "96983e4185e3eef7",
-    "titleHash": "f469ce3c49a26e01",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-23T10:31:29.999Z"
-  },
-  {
     "itemId": "MLB5188342085",
     "productKey": "4755b979c3c045a4",
     "titleHash": "f202ae7974835d43",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-27T21:16:32.967Z"
+  },
+  {
+    "itemId": "MLB4232139017",
+    "productKey": "da58292d29d880a5",
+    "titleHash": "424447b14f32b968",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-27T21:31:35.276Z"
   }
 ]
