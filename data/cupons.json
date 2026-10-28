@@ -125,66 +125,6 @@
   "link": "https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"
  },
  {
-  "loja": "shopee",
-  "codigo": "AMENMBS79",
-  "descricao": "5% OFF",
-  "regra": "Compras acima de R$ 79,90 · válido até 27/10 ou enquanto durar",
-  "precoMinimo": 79.9,
-  "soLista": false,
-  "fim": "2026-10-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/30p6eMcuad",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-27T21:03:33.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "FITAUP5",
-  "descricao": "5% de desconto sem valor mínimo de compra (válido para todo o catálogo da marca)",
-  "regra": "Compras acima de R$ 79,90 · válido até 27/10 ou enquanto durar",
-  "precoMinimo": 79.9,
-  "soLista": false,
-  "fim": "2026-10-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/7Aefc1Mucb",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-27T21:03:33.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "15OFFCLICKLIVE",
-  "descricao": "R$10 OFF",
-  "regra": "Compras acima de R$ 79,90 · válido até 27/10 ou enquanto durar",
-  "precoMinimo": 79.9,
-  "soLista": false,
-  "fim": "2026-10-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/9KjAC0EfEp",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-27T21:03:33.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "OFERTAS10",
-  "descricao": "10% OFF (limitado a R$50 de desconto)",
-  "regra": "Compras acima de R$ 49 · válido até 27/10 ou enquanto durar",
-  "precoMinimo": 49,
-  "soLista": false,
-  "fim": "2026-10-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/3B8WqfcHGb",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-27T17:24:57.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "PR3SQU3NT4",
-  "descricao": "R$15 OFF",
-  "regra": "Compras acima de R$ 99 · válido até 27/10 ou enquanto durar",
-  "precoMinimo": 99,
-  "soLista": false,
-  "fim": "2026-10-28T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-27T14:58:01.000Z"
- },
- {
   "loja": "aliexpress",
   "codigo": "TD98PDM",
   "descricao": "R$ 384,17 OFF em Projetores no brasil Projetor ThundeaL 3000",
@@ -219,28 +159,6 @@
  },
  {
   "loja": "aliexpress",
-  "codigo": "SAS150",
-  "descricao": "R$ 82,32 OFF em Aspirador de Pó Portátil Sem Fio",
-  "regra": "Compras acima de R$ 439,05 · vale no produto do link · até 27/10",
-  "precoMinimo": 439.05,
-  "soLista": true,
-  "fim": "2026-10-28T02:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c3YtBUp3",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
-  "codigo": "WD8008",
-  "descricao": "R$ 49,39 OFF em Robô Lavador de Janelas ABIR WD8",
-  "regra": "Compras acima de R$ 439,05 · vale no produto do link · até 27/10",
-  "precoMinimo": 439.05,
-  "soLista": true,
-  "fim": "2026-10-28T02:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c45Lap4z",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
   "codigo": "ARZOPA56BR",
   "descricao": "R$ 45,98 OFF em Monitor Portátil ARZOPA de 16,1 polegadas",
   "regra": "vale no produto do link · até 31/10",
@@ -263,17 +181,6 @@
  },
  {
   "loja": "aliexpress",
-  "codigo": "N6UIX6BO7RD9",
-  "descricao": "R$ 27,44 OFF em MHW-3BOMBER Digital Cozinha Balança de Café",
-  "regra": "Compras acima de R$ 268,92 · vale no produto do link · até 27/10",
-  "precoMinimo": 268.92,
-  "soLista": true,
-  "fim": "2026-10-28T02:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c3xJkSGD",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
   "codigo": "ILOCT5",
   "descricao": "R$ 27,44 OFF em Li-Ning RED HARE 9 PRO Tênis",
   "regra": "vale no produto do link · até 31/10",
@@ -292,6 +199,39 @@
   "soLista": true,
   "fim": "2026-11-01T02:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c4P9jqKN",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "2YWDFCODB82H",
+  "descricao": "R$ 22,99 OFF em Xtep 2000km 5.0 tênis de corrida",
+  "regra": "vale no produto do link · até 31/10",
+  "precoMinimo": 23,
+  "soLista": true,
+  "fim": "2026-11-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c44qa5Bb",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "LBRZOB3L2Z8A",
+  "descricao": "R$ 21,95 OFF em Relógio de Luxo para Mergulho NORTH",
+  "regra": "Compras acima de R$ 274,40 · vale no produto do link · até 28/10",
+  "precoMinimo": 274.4,
+  "soLista": true,
+  "fim": "2026-10-29T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3Nwvow5",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "SHAVIM127",
+  "descricao": "R$ 21,95 OFF em Rastreador Bluetooth de etiqueta inteligente UGREEN",
+  "regra": "vale no produto do link · até 06/11",
+  "precoMinimo": 22.01,
+  "soLista": true,
+  "fim": "2026-11-07T01:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c2yvLMrP",
   "auto": "aliexpress-hot"
  }
 ]
