@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7777099442",
-    "productKey": "66c7b386fec7fb85",
-    "titleHash": "07d3743c349b4b43",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-23T13:16:11.387Z"
-  },
-  {
     "itemId": "MLB7791408660",
     "productKey": "bfd6728ad1b171f9",
     "titleHash": "181b50122314a076",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-10-28T00:46:23.862Z"
+  },
+  {
+    "itemId": "MLB3783973037",
+    "productKey": "79904641cb78c39e",
+    "titleHash": "c6c910964afbee15",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-28T01:01:35.068Z"
   }
 ]
