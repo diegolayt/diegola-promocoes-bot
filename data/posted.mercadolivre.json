@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4371605519",
-    "productKey": "2a86db727b2c5887",
-    "titleHash": "a6e7bc74d0fd88c8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-23T20:31:33.760Z"
-  },
-  {
-    "itemId": "MLB4441560977",
-    "productKey": "996656f1dc18fc69",
-    "titleHash": "401c7ca9c6d497b2",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-23T20:31:33.761Z"
-  },
-  {
     "itemId": "MLB5203881961",
     "productKey": "e6ad6b20e76f3aca",
     "titleHash": "63fbb386c85e9033",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-28T08:16:28.506Z"
+  },
+  {
+    "itemId": "MLB3961909757",
+    "productKey": "e6db9c07805af9aa",
+    "titleHash": "89577e9cd55fb731",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-10-28T08:31:36.440Z"
+  },
+  {
+    "itemId": "MLB4510716635",
+    "productKey": "96bfc114c48aa30f",
+    "titleHash": "9a0370adc8c05f42",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-28T08:31:36.440Z"
   }
 ]
