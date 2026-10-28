@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7796532730",
-    "productKey": "e6db9c07805af9aa",
-    "titleHash": "89577e9cd55fb731",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-23T20:16:27.208Z"
-  },
-  {
     "itemId": "MLB4371605519",
     "productKey": "2a86db727b2c5887",
     "titleHash": "a6e7bc74d0fd88c8",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-28T08:01:38.635Z"
+  },
+  {
+    "itemId": "MLB7149675174",
+    "productKey": "f88cd67de76efd80",
+    "titleHash": "2eacb6dcfbb6bb82",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-28T08:16:28.506Z"
   }
 ]

@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7149675174",
+      "site_id": "MLB",
+      "seller_id": 630125402,
+      "accepts_mercadopago": true,
+      "price": 183,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 371824,
+      "original_price": 299.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJPTTc5MDk",
+          "name": "Bom Retiro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3721733472",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB75390680",
+      "title": "Jogo de Panelas 3 Peças Aço Inox Chef D Kit 3 Caçarolas 20 cm 18 cm 16 cm Tampas de Vidro Fundo Triplo Indução Gás Saudável Atóxico",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_950554-MLA114714219435_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB75390680",
+      "id": "MLB7149675174",
+      "sold_quantity": 300,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-28T08:16:28.509Z"
+}
