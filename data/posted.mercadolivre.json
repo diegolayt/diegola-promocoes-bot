@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7868759202",
-    "productKey": "4e3f4c35024a7d4c",
-    "titleHash": "c05ea3c2f80d0174",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-23T22:01:35.630Z"
-  },
-  {
-    "itemId": "MLB5413776368",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-23T22:16:25.286Z"
-  },
-  {
     "itemId": "MLB7457438836",
     "productKey": "45808aef9e36af2b",
     "titleHash": "0fed13623550fa42",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-28T10:01:36.903Z"
+  },
+  {
+    "itemId": "MLB6949268730",
+    "productKey": "6e158df3dcbb96cd",
+    "titleHash": "639b847efcd22948",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-28T10:16:30.283Z"
+  },
+  {
+    "itemId": "MLB4812800951",
+    "productKey": "c35a669e46b7da0b",
+    "titleHash": "8e19706523f27ea7",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-10-28T10:16:30.283Z"
   }
 ]
