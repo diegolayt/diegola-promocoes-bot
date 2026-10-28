@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4812800951",
-    "productKey": "c35a669e46b7da0b",
-    "titleHash": "8e19706523f27ea7",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-23T19:16:29.567Z"
-  },
-  {
     "itemId": "MLB5315131669",
     "productKey": "0e6e44766b5d5a20",
     "titleHash": "4c3204a9c9aec40b",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-28T07:01:48.969Z"
+  },
+  {
+    "itemId": "MLB5762049098",
+    "productKey": "a1085792541f2e70",
+    "titleHash": "d8faca7aab92efc8",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-28T07:16:27.534Z"
   }
 ]
