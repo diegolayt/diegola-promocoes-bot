@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2654504800",
-    "productKey": "02983e6cebf8fe5d",
-    "titleHash": "29879c6e3f2ebbc5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-24T13:31:39.597Z"
-  },
-  {
     "itemId": "MLB4140740101",
     "productKey": "9ee46f646c4f61c2",
     "titleHash": "f8b77aa9bf7772c8",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-28T22:46:27.187Z"
+  },
+  {
+    "itemId": "MLB7803996996",
+    "productKey": "40821c73f39974e2",
+    "titleHash": "400d008b3de62193",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-28T23:01:35.311Z"
   }
 ]
