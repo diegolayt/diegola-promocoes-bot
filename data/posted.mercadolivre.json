@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4290103241",
-    "productKey": "73646575db75a410",
-    "titleHash": "c7f52f5985f33343",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-24T03:16:31.637Z"
-  },
-  {
     "itemId": "MLB4205581723",
     "productKey": "659686bb25e5327b",
     "titleHash": "d62f8aa6f5902055",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-28T14:16:29.126Z"
+  },
+  {
+    "itemId": "MLB6585192056",
+    "productKey": "1249a8fb3d88e9ff",
+    "titleHash": "360d83604027a19c",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-28T14:31:35.217Z"
   }
 ]
