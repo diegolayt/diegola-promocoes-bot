@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6819437892",
-    "productKey": "398190200de201c1",
-    "titleHash": "2f5a00c8a92decec",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-23T23:31:31.365Z"
-  },
-  {
-    "itemId": "MLB4320263919",
-    "productKey": "82877247ca948082",
-    "titleHash": "f68a2c332d7a28a9",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-23T23:46:24.813Z"
-  },
-  {
     "itemId": "MLB3963565037",
     "productKey": "90b6a387b0af9d73",
     "titleHash": "7dca2d6e77e75dd7",
@@ -4798,5 +4782,21 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-28T10:46:27.492Z"
+  },
+  {
+    "itemId": "MLB6802905778",
+    "productKey": "5b2763cb9e9d95a2",
+    "titleHash": "4aefd666fba0af2c",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-28T11:16:28.596Z"
+  },
+  {
+    "itemId": "MLB7673946364",
+    "productKey": "890e2a103f8d9a7c",
+    "titleHash": "f2f146b69d03f097",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-28T11:16:28.597Z"
   }
 ]
