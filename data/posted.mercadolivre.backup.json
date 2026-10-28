@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4976654141",
-    "productKey": "1e02c9455942b0ea",
-    "titleHash": "b7eb6e3ad56267d8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-24T05:46:24.481Z"
-  },
-  {
     "itemId": "MLB4937103255",
     "productKey": "43c350cfb5bcfa4f",
     "titleHash": "3449650e195a39c3",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-10-28T16:01:41.747Z"
+  },
+  {
+    "itemId": "MLB4248865607",
+    "productKey": "0fd7914e83943bac",
+    "titleHash": "d482736d0cb61f9f",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-28T16:16:30.684Z"
   }
 ]
