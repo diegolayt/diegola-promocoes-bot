@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7791408660",
-    "productKey": "bfd6728ad1b171f9",
-    "titleHash": "181b50122314a076",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-23T13:16:11.387Z"
-  },
-  {
-    "itemId": "MLB6802905778",
-    "productKey": "5b2763cb9e9d95a2",
-    "titleHash": "4aefd666fba0af2c",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-23T13:31:30.240Z"
-  },
-  {
-    "itemId": "MLB5890572826",
-    "productKey": "ff6193f654d13314",
-    "titleHash": "f6def21b00f505f6",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-23T13:31:30.240Z"
-  },
-  {
     "itemId": "MLB5139680871",
     "productKey": "383eafc260a9c2c7",
     "titleHash": "1d6b824c6b48131e",
@@ -4798,5 +4774,29 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-28T01:01:35.068Z"
+  },
+  {
+    "itemId": "MLB6611494338",
+    "productKey": "22c1ab81d170e902",
+    "titleHash": "59b69a48e3f7ae93",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-28T01:16:30.978Z"
+  },
+  {
+    "itemId": "MLB5316088743",
+    "productKey": "429e344a68635eec",
+    "titleHash": "0d6a97bbb0f3ef1c",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-28T01:16:30.978Z"
+  },
+  {
+    "itemId": "MLB4771492437",
+    "productKey": "b8b821ebbc3d00cc",
+    "titleHash": "015f139068ee71d9",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-28T01:16:30.978Z"
   }
 ]
