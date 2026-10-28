@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6031519290",
+      "site_id": "MLB",
+      "seller_id": 3021654405,
+      "accepts_mercadopago": true,
+      "price": 179.44,
+      "category_id": "MLB425076",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 293,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3672152480",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24647466",
+      "title": "Bicicleta De Equilíbrio 4 Rodas Buba Infantil Sem Pedal Cor Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_614285-MLA99933903979_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24647466",
+      "id": "MLB6031519290",
+      "sold_quantity": 1500,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB6838496546",
+      "site_id": "MLB",
+      "seller_id": 553705510,
+      "accepts_mercadopago": true,
+      "price": 573,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 62080,
+      "original_price": 759.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTW9ycm8gQWd1ZG9UVXhDVUZOQlQwODVOM",
+          "name": "Morro Agudo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYTW9ycm8gQWd1ZG9UVmhZVFc5eWNtOGdRV",
+          "name": "Morro Agudo"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3944403329",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB66275098",
+      "title": "Air Fryer Oven Philco PAF15C 15L 220V Preta",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_744614-MLA113587573149_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB66275098",
+      "id": "MLB6838496546",
+      "sold_quantity": 900,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-28T04:46:31.585Z"
+}

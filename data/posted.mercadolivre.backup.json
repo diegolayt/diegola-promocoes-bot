@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5274910975",
-    "productKey": "d4b61b68ddb2f8d0",
-    "titleHash": "1d327597d8aaca1c",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-23T17:16:25.632Z"
-  },
-  {
-    "itemId": "MLB7568398342",
-    "productKey": "56a230716db5d97e",
-    "titleHash": "32e3b2ff4d00f4ad",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-23T17:31:30.034Z"
-  },
-  {
     "itemId": "MLB5238469569",
     "productKey": "cf31f194e5125ea5",
     "titleHash": "53f465883ca4f30e",
@@ -4798,5 +4782,21 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-28T04:31:31.934Z"
+  },
+  {
+    "itemId": "MLB6031519290",
+    "productKey": "2532e31a0aaf52da",
+    "titleHash": "4acde22d1ceae8f4",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-28T04:46:31.583Z"
+  },
+  {
+    "itemId": "MLB6838496546",
+    "productKey": "55918accac2564b2",
+    "titleHash": "fa1655aba7b923ac",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-28T04:46:31.583Z"
   }
 ]
