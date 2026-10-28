@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5400923188",
-    "productKey": "8b22be28b8f4d3bd",
-    "titleHash": "7866188a6d14a530",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-23T12:46:25.527Z"
-  },
-  {
-    "itemId": "MLB5439150309",
-    "productKey": "b8b821ebbc3d00cc",
-    "titleHash": "015f139068ee71d9",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-23T12:46:25.527Z"
-  },
-  {
     "itemId": "MLB6611494338",
     "productKey": "22c1ab81d170e902",
     "titleHash": "59b69a48e3f7ae93",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-28T00:16:28.333Z"
+  },
+  {
+    "itemId": "MLB7253496932",
+    "productKey": "8966f7090ac1116d",
+    "titleHash": "0257198e68c33f08",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-28T00:31:36.239Z"
+  },
+  {
+    "itemId": "MLB7765850078",
+    "productKey": "d76bba99e09b3844",
+    "titleHash": "321d8c2ae24df17a",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-28T00:31:36.240Z"
   }
 ]
