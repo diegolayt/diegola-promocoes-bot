@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7589615372",
+      "site_id": "MLB",
+      "seller_id": 1191517336,
+      "accepts_mercadopago": true,
+      "price": 196.9,
+      "category_id": "MLB5867",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 387262,
+      "original_price": 299,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Vila Velha"
+        },
+        "state": {
+          "id": "",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5080221689",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27818723",
+      "title": "TP-Link EX1500 Roteador Wi-Fi 6 AX1500 Dual Band, 4 portas gigabit, cobertura até 140 m2, 60 dispositivos, configuração em 3 etapas, EasyMesh, baixa latência",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_628878-MLA114426044122_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27818723",
+      "id": "MLB7589615372",
+      "sold_quantity": 1700,
+      "rotationCategory": "redes",
+      "sourceCategoryId": "MLB1700",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5168303995",
+      "site_id": "MLB",
+      "seller_id": 3245017321,
+      "accepts_mercadopago": true,
+      "price": 60.79,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 46.090944
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTzUyMjZl",
+          "name": "São José dos Pinhais"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTkU2Q0E3",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5040822263",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62101338",
+      "title": "Kit Amend Seca Sem Frizz + Acidificante O Queridinho",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_692277-MLA97684426532_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62101338",
+      "id": "MLB5168303995",
+      "sold_quantity": 500,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-28T12:46:31.500Z"
+}
