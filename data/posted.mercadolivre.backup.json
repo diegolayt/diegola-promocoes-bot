@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5407506805",
-    "productKey": "a840ac5859f19fbe",
-    "titleHash": "92fe84908be8a274",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-24T08:46:27.619Z"
-  },
-  {
     "itemId": "MLB7691296988",
     "productKey": "1d3dd666b990c91f",
     "titleHash": "7964ab0c97cfa7f1",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-28T18:31:41.531Z"
+  },
+  {
+    "itemId": "MLB7619971288",
+    "productKey": "55fae1bf40b618cf",
+    "titleHash": "2c0a170468ff47ea",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-28T18:46:38.138Z"
   }
 ]
