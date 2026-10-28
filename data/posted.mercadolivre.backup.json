@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4064068462",
-    "productKey": "96bfc114c48aa30f",
-    "titleHash": "9a0370adc8c05f42",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-23T19:46:34.132Z"
-  },
-  {
     "itemId": "MLB7149675174",
     "productKey": "f88cd67de76efd80",
     "titleHash": "2eacb6dcfbb6bb82",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-28T07:31:36.781Z"
+  },
+  {
+    "itemId": "MLB4035471677",
+    "productKey": "c6d850128e0d4647",
+    "titleHash": "0d363bda659ba892",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-28T07:46:27.594Z"
   }
 ]
