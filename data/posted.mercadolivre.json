@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4080089661",
-    "productKey": "2e3f4ccf8d0a47fe",
-    "titleHash": "90b2562924cee160",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-24T12:16:30.782Z"
-  },
-  {
-    "itemId": "MLB3589312413",
-    "productKey": "64d907793969abd0",
-    "titleHash": "683807807645b6a9",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-24T12:46:29.606Z"
-  },
-  {
     "itemId": "MLB3919470687",
     "productKey": "bc0bb9a0c3fb15a1",
     "titleHash": "0e851e97989db4c8",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-28T21:31:33.106Z"
+  },
+  {
+    "itemId": "MLB6823193000",
+    "productKey": "c555e963e900e460",
+    "titleHash": "14a27ecaf6ac0575",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-28T22:01:39.246Z"
+  },
+  {
+    "itemId": "MLB5441047005",
+    "productKey": "69878d2d21f252a1",
+    "titleHash": "25419699bc99025e",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-28T22:01:39.247Z"
   }
 ]
