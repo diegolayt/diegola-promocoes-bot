@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7640283008",
-    "productKey": "7f07ce0b4993cace",
-    "titleHash": "bdfe8c72bf6ec63a",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-24T00:46:30.298Z"
-  },
-  {
-    "itemId": "MLB7845631806",
-    "productKey": "04c56c962164b38f",
-    "titleHash": "141edb12252b5fbc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-24T01:01:31.302Z"
-  },
-  {
     "itemId": "MLB4862019629",
     "productKey": "c2a977cf56ca2408",
     "titleHash": "c6746d1c5883f26a",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-28T12:01:41.907Z"
+  },
+  {
+    "itemId": "MLB4597647925",
+    "productKey": "40ab138cce1c2270",
+    "titleHash": "927cd1b3a79366b2",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-28T12:16:30.754Z"
+  },
+  {
+    "itemId": "MLB7358531924",
+    "productKey": "1f2208dd21863a0e",
+    "titleHash": "8dd77967e28e1211",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-28T12:16:30.754Z"
   }
 ]
