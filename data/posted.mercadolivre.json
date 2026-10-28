@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7868228012",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-24T09:46:28.973Z"
-  },
-  {
     "itemId": "MLB7822235288",
     "productKey": "f43c4b67e4b561d2",
     "titleHash": "ef27e31e530b0098",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-28T19:16:49.815Z"
+  },
+  {
+    "itemId": "MLB7821063426",
+    "productKey": "1d3dd666b990c91f",
+    "titleHash": "9167a0816ac03b1e",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-28T19:31:39.567Z"
   }
 ]
