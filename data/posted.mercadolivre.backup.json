@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3171370808",
-    "productKey": "0f4e16548e902113",
-    "titleHash": "392c33d8863a7295",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-23T14:16:32.679Z"
-  },
-  {
     "itemId": "MLB7690840340",
     "productKey": "7720820a953562b0",
     "titleHash": "f63dfdf04a782b09",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-28T01:31:33.105Z"
+  },
+  {
+    "itemId": "MLB4307049751",
+    "productKey": "5023cde27034c973",
+    "titleHash": "2b53c4ca6bda3d81",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-28T01:46:29.048Z"
   }
 ]
