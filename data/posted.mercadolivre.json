@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3556275459",
-    "productKey": "f8860107ce3c1512",
-    "titleHash": "62799891c9cef2b5",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-23T15:01:46.215Z"
-  },
-  {
-    "itemId": "MLB3269837602",
-    "productKey": "eb39781cba8c5ba7",
-    "titleHash": "9e968352a8f3a15c",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-23T15:16:26.687Z"
-  },
-  {
     "itemId": "MLB5448102837",
     "productKey": "566cd97ce7c0cedd",
     "titleHash": "4b6513dfe9fb0f5e",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-28T02:46:26.364Z"
+  },
+  {
+    "itemId": "MLB3171370808",
+    "productKey": "0f4e16548e902113",
+    "titleHash": "392c33d8863a7295",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-28T03:01:37.341Z"
+  },
+  {
+    "itemId": "MLB4079863189",
+    "productKey": "0c719e2b6f08c62f",
+    "titleHash": "b98e10c788d858aa",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-28T03:01:37.342Z"
   }
 ]
