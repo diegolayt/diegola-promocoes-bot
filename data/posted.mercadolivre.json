@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7358531924",
-    "productKey": "1f2208dd21863a0e",
-    "titleHash": "8dd77967e28e1211",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-24T00:31:29.107Z"
-  },
-  {
-    "itemId": "MLB3340533709",
-    "productKey": "99ffce333c6f5953",
-    "titleHash": "10199bd0de5afba6",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-24T00:46:30.298Z"
-  },
-  {
     "itemId": "MLB7640283008",
     "productKey": "7f07ce0b4993cace",
     "titleHash": "bdfe8c72bf6ec63a",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-28T11:46:29.839Z"
+  },
+  {
+    "itemId": "MLB7413456100",
+    "productKey": "f59ad2d75ea00ed2",
+    "titleHash": "2eeeca2ccff60b6f",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-10-28T12:01:41.907Z"
+  },
+  {
+    "itemId": "MLB7490908784",
+    "productKey": "81b443a4a9774fa4",
+    "titleHash": "13ecb3f9b4137d65",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-28T12:01:41.907Z"
   }
 ]
