@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6984694256",
+      "site_id": "MLB",
+      "seller_id": 1560273817,
+      "accepts_mercadopago": true,
+      "price": 324,
+      "category_id": "MLB105297",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 10 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Osasco"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 10,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "10 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3793670877",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB11286621",
+      "title": "Caixa Papel Sulfite A4 Report 10 Resmas De 500 Folhas Kit",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_805455-MLA99487191924_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB11286621",
+      "id": "MLB6984694256",
+      "sold_quantity": 2000,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    },
+    {
+      "item_id": "MLB6472267476",
+      "site_id": "MLB",
+      "seller_id": 222624596,
+      "accepts_mercadopago": true,
+      "price": 899,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0FOVGNkMjAw",
+          "name": "Antônio Carlos"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3853733994",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB64333789",
+      "title": "1037960516 Motorola Moto G06 Dual Sim 128 gb/4 gb de RAM até 12 gb, azul 5200 mAh, Gorilla Glass 3, Ip64",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_950509-MLA104892646697_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB64333789",
+      "id": "MLB6472267476",
+      "sold_quantity": 1800,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-28T20:16:41.159Z"
+}
