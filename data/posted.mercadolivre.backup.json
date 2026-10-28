@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4862019629",
-    "productKey": "c2a977cf56ca2408",
-    "titleHash": "c6746d1c5883f26a",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-24T01:16:29.937Z"
-  },
-  {
     "itemId": "MLB4516658475",
     "productKey": "bed9824c15628b27",
     "titleHash": "087ef1e47e318558",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-28T12:16:30.754Z"
+  },
+  {
+    "itemId": "MLB4091456221",
+    "productKey": "40f3ce023dcaf098",
+    "titleHash": "43b0e8b2f3e2ee28",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-28T12:31:37.179Z"
   }
 ]
