@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6856491306",
-    "productKey": "5c3bb192f47b1dc7",
-    "titleHash": "3752613afe88d8e7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-24T02:16:30.132Z"
-  },
-  {
-    "itemId": "MLB6635606112",
-    "productKey": "d60f40144ad87174",
-    "titleHash": "673a514c6de388e3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-24T02:16:30.133Z"
-  },
-  {
     "itemId": "MLB7770878416",
     "productKey": "5e63e5ce2fe5389f",
     "titleHash": "e6e45a893d28ec80",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-28T13:16:25.777Z"
+  },
+  {
+    "itemId": "MLB2744766460",
+    "productKey": "a8251bc98e70126a",
+    "titleHash": "3d01cd9c39438f12",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-28T13:46:29.448Z"
+  },
+  {
+    "itemId": "MLB4297963919",
+    "productKey": "849a2124d0a8f984",
+    "titleHash": "caed37ae9f327be6",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-28T13:46:29.448Z"
   }
 ]
