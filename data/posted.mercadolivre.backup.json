@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5203881961",
-    "productKey": "e6ad6b20e76f3aca",
-    "titleHash": "63fbb386c85e9033",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-23T20:31:33.761Z"
-  },
-  {
     "itemId": "MLB5052087506",
     "productKey": "536062fd315b63f7",
     "titleHash": "563a02a9817e7c16",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-28T08:31:36.440Z"
+  },
+  {
+    "itemId": "MLB4825492620",
+    "productKey": "1576059b5665c0ef",
+    "titleHash": "7467a70e581a58cd",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-28T08:46:28.452Z"
   }
 ]
