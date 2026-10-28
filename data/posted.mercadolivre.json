@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5329836232",
-    "productKey": "549b84a996815459",
-    "titleHash": "86feca71767baaa7",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-24T03:46:33.771Z"
-  },
-  {
     "itemId": "MLB6850803344",
     "productKey": "f8cf76785f593d2e",
     "titleHash": "5f0f17d958c96794",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-28T14:46:32.357Z"
+  },
+  {
+    "itemId": "MLB7388906782",
+    "productKey": "fce93ca31cf80312",
+    "titleHash": "5b667c93b09dd618",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-28T15:01:43.538Z"
   }
 ]
