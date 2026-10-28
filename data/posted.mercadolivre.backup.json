@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4083236185",
-    "productKey": "c44a8dc752d5ec7b",
-    "titleHash": "2568f1b39895b8d9",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-23T16:01:37.577Z"
-  },
-  {
     "itemId": "MLB7077055110",
     "productKey": "f3fb74dd2c9122ba",
     "titleHash": "e9e5a5f7f2f44cb2",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-28T03:16:17.073Z"
+  },
+  {
+    "itemId": "MLB3556275459",
+    "productKey": "f8860107ce3c1512",
+    "titleHash": "62799891c9cef2b5",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-28T03:31:31.014Z"
   }
 ]
