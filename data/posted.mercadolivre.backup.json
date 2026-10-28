@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4035471677",
-    "productKey": "c6d850128e0d4647",
-    "titleHash": "0d363bda659ba892",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-23T19:01:34.609Z"
-  },
-  {
-    "itemId": "MLB5173698241",
-    "productKey": "45a7144daaa80c5a",
-    "titleHash": "8b43e2f0b059a1b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-23T19:01:34.609Z"
-  },
-  {
     "itemId": "MLB7075800916",
     "productKey": "0d89405e65a8c65e",
     "titleHash": "d8d5e40afde92978",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-10-28T06:31:36.248Z"
+  },
+  {
+    "itemId": "MLB4188126311",
+    "productKey": "fee0803db3fdd4f9",
+    "titleHash": "036294730bf79c55",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-28T06:46:25.340Z"
+  },
+  {
+    "itemId": "MLB7870396412",
+    "productKey": "24537fafde73d315",
+    "titleHash": "7d384b5d8ba79ed8",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-28T06:46:25.340Z"
   }
 ]
