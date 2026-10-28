@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5052087506",
-    "productKey": "536062fd315b63f7",
-    "titleHash": "563a02a9817e7c16",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-23T21:01:27.863Z"
-  },
-  {
     "itemId": "MLB5361384028",
     "productKey": "39b3b032945eb7a1",
     "titleHash": "ad51142e02d9d328",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-28T08:46:28.452Z"
+  },
+  {
+    "itemId": "MLB5473364045",
+    "productKey": "2a86db727b2c5887",
+    "titleHash": "a6e7bc74d0fd88c8",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-28T09:01:10.079Z"
   }
 ]
