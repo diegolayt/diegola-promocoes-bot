@@ -126,6 +126,18 @@
  },
  {
   "loja": "shopee",
+  "codigo": "5D3D3SC0NT0",
+  "descricao": "R$5 OFF",
+  "regra": "Compras acima de R$ 25 · válido até 28/10 ou enquanto durar",
+  "precoMinimo": 25,
+  "soLista": false,
+  "fim": "2026-10-29T03:00:00Z",
+  "link": "https://s.shopee.com.br/1LgtWs6ceK",
+  "auto": "shopee-telegram",
+  "postadoEm": "2026-10-28T14:00:46.000Z"
+ },
+ {
+  "loja": "shopee",
   "codigo": "11D011400FF",
   "descricao": "R$40 OFF",
   "regra": "Compras acima de R$ 199 · válido até 28/10 ou enquanto durar",
