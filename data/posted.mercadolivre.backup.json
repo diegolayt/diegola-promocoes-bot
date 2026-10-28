@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6656456936",
-    "productKey": "ed3df50a2cbf5f8f",
-    "titleHash": "b659e2c201fc5062",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-23T12:31:32.771Z"
-  },
-  {
     "itemId": "MLB5400923188",
     "productKey": "8b22be28b8f4d3bd",
     "titleHash": "7866188a6d14a530",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-27T23:46:31.944Z"
+  },
+  {
+    "itemId": "MLB3509736487",
+    "productKey": "8c0d33a795b15f6e",
+    "titleHash": "d094143229ed8d2c",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-28T00:16:28.333Z"
   }
 ]
