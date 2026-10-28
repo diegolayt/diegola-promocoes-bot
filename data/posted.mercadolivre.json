@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4571808527",
-    "productKey": "c2c20abe683b2104",
-    "titleHash": "bbecf78f74751795",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-23T18:01:43.118Z"
-  },
-  {
-    "itemId": "MLB2812788257",
-    "productKey": "68c4c0302396b8e4",
-    "titleHash": "688e2cc0e7c230b0",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-23T18:16:29.881Z"
-  },
-  {
-    "itemId": "MLB6149243620",
-    "productKey": "bcbbe4f76ea2dd1b",
-    "titleHash": "bc757d227537bb1b",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-23T18:16:29.881Z"
-  },
-  {
     "itemId": "MLB4188126311",
     "productKey": "fee0803db3fdd4f9",
     "titleHash": "036294730bf79c55",
@@ -4798,5 +4774,29 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-28T05:16:32.079Z"
+  },
+  {
+    "itemId": "MLB7861593856",
+    "productKey": "7335295731f87564",
+    "titleHash": "8f2edb66e9dc7cb0",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-28T05:31:32.123Z"
+  },
+  {
+    "itemId": "MLB6829392762",
+    "productKey": "cf31f194e5125ea5",
+    "titleHash": "53f465883ca4f30e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-28T05:31:32.123Z"
+  },
+  {
+    "itemId": "MLB6937781700",
+    "productKey": "00737ae5c6b1088e",
+    "titleHash": "98ce55219da388e1",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-28T05:31:32.123Z"
   }
 ]
