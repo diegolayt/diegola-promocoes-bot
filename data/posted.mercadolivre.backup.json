@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5383007250",
-    "productKey": "cb0374b29bdf7cf4",
-    "titleHash": "6765def2c424013a",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-23T16:46:27.164Z"
-  },
-  {
-    "itemId": "MLB7044000776",
-    "productKey": "0129e0ad07cd5b49",
-    "titleHash": "254070ed90aabce5",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-23T17:01:37.827Z"
-  },
-  {
-    "itemId": "MLB5681133066",
-    "productKey": "7335295731f87564",
-    "titleHash": "8f2edb66e9dc7cb0",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-23T17:16:25.631Z"
-  },
-  {
     "itemId": "MLB5274910975",
     "productKey": "d4b61b68ddb2f8d0",
     "titleHash": "1d327597d8aaca1c",
@@ -4798,5 +4774,29 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-10-28T04:16:28.942Z"
+  },
+  {
+    "itemId": "MLB5447220018",
+    "productKey": "9f620b521d231202",
+    "titleHash": "8ebbebef839099e6",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-28T04:31:31.934Z"
+  },
+  {
+    "itemId": "MLB4508032431",
+    "productKey": "3a80315e87a71f5f",
+    "titleHash": "d67494a9c8764546",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-28T04:31:31.934Z"
+  },
+  {
+    "itemId": "MLB7778338412",
+    "productKey": "c44a8dc752d5ec7b",
+    "titleHash": "2568f1b39895b8d9",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-28T04:31:31.934Z"
   }
 ]
