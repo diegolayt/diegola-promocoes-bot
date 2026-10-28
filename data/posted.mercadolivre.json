@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4935535334",
-    "productKey": "e9455fbd3cb133ae",
-    "titleHash": "947cef40e57cf05a",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-23T21:16:28.126Z"
-  },
-  {
-    "itemId": "MLB5168303995",
-    "productKey": "7903f35556480818",
-    "titleHash": "f360d04381e8e03e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-23T21:16:28.126Z"
-  },
-  {
-    "itemId": "MLB4196892855",
-    "productKey": "7c1acb43a5d485b1",
-    "titleHash": "0f2c660eb4e7faff",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-10-23T21:31:32.169Z"
-  },
-  {
     "itemId": "MLB6949268730",
     "productKey": "6e158df3dcbb96cd",
     "titleHash": "639b847efcd22948",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-28T09:31:35.187Z"
+  },
+  {
+    "itemId": "MLB5219998762",
+    "productKey": "ab0f5abeb7d01b34",
+    "titleHash": "3dd9c056269296af",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-28T09:46:32.234Z"
+  },
+  {
+    "itemId": "MLB2888980946",
+    "productKey": "39b3b032945eb7a1",
+    "titleHash": "ad51142e02d9d328",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-28T09:46:32.234Z"
+  },
+  {
+    "itemId": "MLB6031639350",
+    "productKey": "afbff89ee85c38b5",
+    "titleHash": "bae5a48604e386ea",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-28T09:46:32.234Z"
   }
 ]
