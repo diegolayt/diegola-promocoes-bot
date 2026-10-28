@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5952825902",
+      "site_id": "MLB",
+      "seller_id": 2011549621,
+      "accepts_mercadopago": true,
+      "price": 56.99,
+      "category_id": "MLB418327",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "standard_price_by_channel",
+        "kvs_primary",
+        "lightning_deal",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 119.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3074507658",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43585606",
+      "title": "Kit Extensão de Cílios B&Qaugen Fairy de Mink Sintético Curvatura D para Iniciantes",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_645126-MLA104210221609_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43585606",
+      "id": "MLB5952825902",
+      "sold_quantity": 1000,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5466646499",
+      "site_id": "MLB",
+      "seller_id": 3723465274,
+      "accepts_mercadopago": true,
+      "price": 38,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBKb3PDqSBkb3MgQ2FtcG9zVFV4Q",
+          "name": "São José dos Campos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIERpYW1hbnRlVFZoWVU4T2pie",
+          "name": "Jardim Diamante"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5706927826",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19438138",
+      "title": "Cartas de um diabo a seu aprendiz - Lewis, C.S. - Thomas Nelson Brasil - Capa Dura",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_753389-MLA113421179343_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19438138",
+      "id": "MLB5466646499",
+      "sold_quantity": 200,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-28T23:31:34.661Z"
+}
