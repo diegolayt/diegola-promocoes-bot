@@ -1,5 +1,61 @@
 [
  {
+  "id": "mercadolivre-MLB7898002038",
+  "loja": "mercadolivre",
+  "titulo": "Monitor PC Gamer LG 24”- IPS, Full HD, 100Hz, HDMI, Preto - 24MS500-B",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_921982-MLA99962503055_112025-F.jpg",
+  "preco": 560,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB38017111?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": false,
+  "nota": null,
+  "fonte": "monitor",
+  "publicadoEm": "2026-10-28T07:31:50.579Z"
+ },
+ {
+  "id": "mercadolivre-MLB5249062183",
+  "loja": "mercadolivre",
+  "titulo": "Smart Tv Semp 43 Polegadas Led Hva 4k S62 Wifi Bluetooth Google Tv 3 Hdmi Hdr10+ Dolby Audio 43s62",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_897466-MLA114005600181_072026-F.jpg",
+  "preco": 1376.55,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB54075534?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "televisão",
+  "publicadoEm": "2026-10-28T07:31:46.777Z"
+ },
+ {
+  "id": "mercadolivre-MLB3917376669",
+  "loja": "mercadolivre",
+  "titulo": "Bebedouro Bbe12p Aquaplus Para 10l Ou 20l Britânia Cor Preto",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_903719-MLA100069942107_122025-F.jpg",
+  "preco": 304,
+  "precoDe": 349,
+  "link": "https://www.mercadolivre.com.br/p/MLB23390033?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "purificador",
+  "publicadoEm": "2026-10-28T07:31:42.973Z"
+ },
+ {
+  "id": "mercadolivre-MLB7686159772",
+  "loja": "mercadolivre",
+  "titulo": "O diário de tarefas gnomosas do floreante viajante - (Autor(es) original) Lacerda, Maidy - Outro Planeta - Capa Dura",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_690785-MLA117027871833_092026-F.jpg",
+  "preco": 40.46,
+  "precoDe": 59.89,
+  "link": "https://www.mercadolivre.com.br/p/MLB78777171?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": false,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "livros",
+  "publicadoEm": "2026-10-28T07:31:39.168Z"
+ },
+ {
   "id": "mercadolivre-MLB5762049098",
   "loja": "mercadolivre",
   "titulo": "Máquina De Cortar Cabelo 6 Em 1 Barba Pelo Corpo Body Groom Cor Preto",
@@ -8428,20 +8484,6 @@
   "publicadoEm": "2026-10-23T19:01:37.524Z"
  },
  {
-  "id": "mercadolivre-MLB3917376669",
-  "loja": "mercadolivre",
-  "titulo": "Bebedouro Bbe12p Aquaplus Para 10l Ou 20l Britânia Cor Preto",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_903719-MLA100069942107_122025-F.jpg",
-  "preco": 306.9,
-  "precoDe": 349,
-  "link": "https://www.mercadolivre.com.br/p/MLB23390033?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "purificador",
-  "publicadoEm": "2026-10-23T18:46:31.016Z"
- },
- {
   "id": "mercadolivre-MLB7868262590",
   "loja": "mercadolivre",
   "titulo": "Creme Clareador para Axilas Virilha 60g",
@@ -13188,20 +13230,6 @@
   "publicadoEm": "2026-10-19T19:16:42.156Z"
  },
  {
-  "id": "mercadolivre-MLB7686159772",
-  "loja": "mercadolivre",
-  "titulo": "O diário de tarefas gnomosas do floreante viajante - (Autor(es) original) Lacerda, Maidy - Outro Planeta - Capa Dura",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_690785-MLA117027871833_092026-F.jpg",
-  "preco": 46.28,
-  "precoDe": 59.89,
-  "link": "https://www.mercadolivre.com.br/p/MLB78777171?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": false,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "livros",
-  "publicadoEm": "2026-10-19T19:16:38.322Z"
- },
- {
   "id": "mercadolivre-MLB7844876326",
   "loja": "mercadolivre",
   "titulo": "Principia PS-01 Protetor Solar Facial FPS 60 40 ml",
@@ -16770,33 +16798,5 @@
   "nota": null,
   "fonte": "fogão",
   "publicadoEm": "2026-10-16T01:01:38.923Z"
- },
- {
-  "id": "mercadolivre-MLB2720108621",
-  "loja": "mercadolivre",
-  "titulo": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg",
-  "preco": 299,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB35556218?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "climatização",
-  "publicadoEm": "2026-10-16T00:16:28.902Z"
- },
- {
-  "id": "mercadolivre-MLB5472112506",
-  "loja": "mercadolivre",
-  "titulo": "Jogo De Mesa Cara A Cara Com Aplicativo Estrela",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_745904-MLA117202311938_102026-F.jpg",
-  "preco": 72.47,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB9397003?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": false,
-  "lojaOficial": false,
-  "nota": null,
-  "fonte": "jogos de tabuleiro",
-  "publicadoEm": "2026-10-15T23:46:32.027Z"
  }
 ]
