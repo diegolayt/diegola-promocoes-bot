@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3917376669",
-    "productKey": "bb0210ae17eea6d0",
-    "titleHash": "323bf31f9fa959bb",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-23T18:46:28.237Z"
-  },
-  {
     "itemId": "MLB4035471677",
     "productKey": "c6d850128e0d4647",
     "titleHash": "0d363bda659ba892",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-28T06:16:33.415Z"
+  },
+  {
+    "itemId": "MLB4357151563",
+    "productKey": "c2c20abe683b2104",
+    "titleHash": "bbecf78f74751795",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-28T06:31:36.248Z"
   }
 ]
