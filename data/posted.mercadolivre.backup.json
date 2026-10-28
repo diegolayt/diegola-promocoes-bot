@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5384744239",
-    "productKey": "fdef1f523dded933",
-    "titleHash": "04323207670577e5",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-24T05:16:26.029Z"
-  },
-  {
-    "itemId": "MLB4221141181",
-    "productKey": "1c1a1b874a30de47",
-    "titleHash": "5cc0254ef98a4654",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-24T05:16:26.029Z"
-  },
-  {
-    "itemId": "MLB7714960140",
-    "productKey": "1f91de7a37a96e5d",
-    "titleHash": "ac3fc85e756a9bdb",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-24T05:31:33.551Z"
-  },
-  {
     "itemId": "MLB4976654141",
     "productKey": "1e02c9455942b0ea",
     "titleHash": "b7eb6e3ad56267d8",
@@ -4798,5 +4774,29 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-28T15:46:53.064Z"
+  },
+  {
+    "itemId": "MLB3838906655",
+    "productKey": "9d88828ec0e2bc98",
+    "titleHash": "0f678dd28a6ff8ba",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-28T16:01:41.747Z"
+  },
+  {
+    "itemId": "MLB5329836232",
+    "productKey": "549b84a996815459",
+    "titleHash": "86feca71767baaa7",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-10-28T16:01:41.747Z"
+  },
+  {
+    "itemId": "MLB4823534341",
+    "productKey": "73646575db75a410",
+    "titleHash": "c7f52f5985f33343",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-28T16:01:41.747Z"
   }
 ]
