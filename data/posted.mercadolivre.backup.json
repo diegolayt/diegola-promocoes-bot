@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7149675174",
-    "productKey": "f88cd67de76efd80",
-    "titleHash": "2eacb6dcfbb6bb82",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-23T20:16:27.208Z"
-  },
-  {
-    "itemId": "MLB6511064980",
-    "productKey": "e60e8b3a8b9faa13",
-    "titleHash": "869d36e890ccdc6b",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-23T20:16:27.208Z"
-  },
-  {
-    "itemId": "MLB7490908784",
-    "productKey": "81b443a4a9774fa4",
-    "titleHash": "13ecb3f9b4137d65",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-23T20:16:27.208Z"
-  },
-  {
     "itemId": "MLB7796532730",
     "productKey": "e6db9c07805af9aa",
     "titleHash": "89577e9cd55fb731",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-28T07:46:27.594Z"
+  },
+  {
+    "itemId": "MLB7118000642",
+    "productKey": "3b6eb982e74b6702",
+    "titleHash": "889a963d1c9bef64",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-28T08:01:38.635Z"
+  },
+  {
+    "itemId": "MLB4320329461",
+    "productKey": "ec1a0f6646947a52",
+    "titleHash": "8194a721d6cd8807",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-28T08:01:38.635Z"
+  },
+  {
+    "itemId": "MLB7890485764",
+    "productKey": "8ae7405dd918a2cd",
+    "titleHash": "8e1453fbe72a1d3d",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-28T08:01:38.635Z"
   }
 ]

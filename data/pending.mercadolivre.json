@@ -1,0 +1,235 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7118000642",
+      "site_id": "MLB",
+      "seller_id": 1221062052,
+      "accepts_mercadopago": true,
+      "price": 141.59,
+      "category_id": "MLB456055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 53262,
+      "original_price": 149.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTjMzODU2",
+          "name": "Santa Cruz do Sul"
+        },
+        "state": {
+          "id": "TUxCUFJJT0xkYzM0",
+          "name": "Rio Grande do Sul"
+        },
+        "neighborhood": {
+          "id": "TUxCQkRJUzNENzA5",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4234332195",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53669789",
+      "title": "Moedor de Café Elétrico Oster OMDR110 150W",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_696692-MLA99960905053_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53669789",
+      "id": "MLB7118000642",
+      "sold_quantity": 300,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4320329461",
+      "site_id": "MLB",
+      "seller_id": 2980925626,
+      "accepts_mercadopago": true,
+      "price": 2273.64,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "cbt_item",
+        "kvs_primary",
+        "cbt_fulfillment_us",
+        "net_proceeds_prices",
+        "standard_price_by_channel",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47885021",
+      "title": "Tablet Samsung Galaxy Tab S10 FE WiFi, 128GB, 8GB, Tela 10.9\" 90Hz, S Pen e Capa Inclusas Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_954938-MLA115631465566_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47885021",
+      "id": "MLB4320329461",
+      "sold_quantity": 1300,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB7890485764",
+      "site_id": "MLB",
+      "seller_id": 2241187391,
+      "accepts_mercadopago": true,
+      "price": 120,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYVm90b3JhbnRpbVRVeENVRk5CVDA4NU4yR",
+          "name": "Votorantim"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUGFycXVlIEphdGHDrVRWaFlWbTkwYjNKa",
+          "name": "Parque Jataí"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5658936457",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19373992",
+      "title": "Furadeira De Impacto 500 W 3/8 Cinza Tramontina",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_683134-MLA99440384944_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19373992",
+      "id": "MLB7890485764",
+      "sold_quantity": 800,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-28T08:01:38.637Z"
+}
