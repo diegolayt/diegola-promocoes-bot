@@ -125,66 +125,6 @@
   "link": "https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"
  },
  {
-  "loja": "shopee",
-  "codigo": "ULT1M0D0D1A",
-  "descricao": "R$15 OFF",
-  "regra": "Compras acima de R$ 79 · válido até 28/10 ou enquanto durar",
-  "precoMinimo": 79,
-  "soLista": false,
-  "fim": "2026-10-29T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-28T18:04:25.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "3C0N0M1Z370",
-  "descricao": "R$70 OFF",
-  "regra": "Compras acima de R$ 399 · válido até 28/10 ou enquanto durar",
-  "precoMinimo": 399,
-  "soLista": false,
-  "fim": "2026-10-29T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-28T16:38:34.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "5D3D3SC0NT0",
-  "descricao": "R$5 OFF",
-  "regra": "Compras acima de R$ 25 · válido até 28/10 ou enquanto durar",
-  "precoMinimo": 25,
-  "soLista": false,
-  "fim": "2026-10-29T03:00:00Z",
-  "link": "https://s.shopee.com.br/BUws2jfVL",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-28T14:00:46.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "11D011400FF",
-  "descricao": "R$40 OFF",
-  "regra": "Compras acima de R$ 199 · válido até 28/10 ou enquanto durar",
-  "precoMinimo": 199,
-  "soLista": false,
-  "fim": "2026-10-29T03:00:00Z",
-  "link": "https://s.shopee.com.br/9pfRWFYrZB",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-28T12:04:21.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "3SQU3NT411",
-  "descricao": "R$150 OFF",
-  "regra": "Compras acima de R$ 999 · válido até 28/10 ou enquanto durar",
-  "precoMinimo": 999,
-  "soLista": false,
-  "fim": "2026-10-29T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-28T03:04:19.000Z"
- },
- {
   "loja": "aliexpress",
   "codigo": "TD98PDM",
   "descricao": "R$ 384,17 OFF em Projetores no brasil Projetor ThundeaL 3000",
@@ -274,17 +214,6 @@
  },
  {
   "loja": "aliexpress",
-  "codigo": "LBRZOB3L2Z8A",
-  "descricao": "R$ 21,95 OFF em Relógio de Luxo para Mergulho NORTH",
-  "regra": "Compras acima de R$ 274,40 · vale no produto do link · até 28/10",
-  "precoMinimo": 274.4,
-  "soLista": true,
-  "fim": "2026-10-29T02:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c3Nwvow5",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
   "codigo": "SHAVIM127",
   "descricao": "R$ 21,95 OFF em Rastreador Bluetooth de etiqueta inteligente UGREEN",
   "regra": "vale no produto do link · até 06/11",
@@ -292,6 +221,17 @@
   "soLista": true,
   "fim": "2026-11-07T01:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c2yvLMrP",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "BRKZ79",
+  "descricao": "R$ 17,24 OFF em Webcam 4K para Streaming, Câmera USB",
+  "regra": "vale no produto do link · até 31/12",
+  "precoMinimo": 17.25,
+  "soLista": true,
+  "fim": "2027-01-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3qRHp3j",
   "auto": "aliexpress-hot"
  }
 ]
