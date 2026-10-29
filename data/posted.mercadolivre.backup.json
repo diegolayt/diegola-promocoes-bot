@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5021389961",
-    "productKey": "23ecfda2f3afa8ab",
-    "titleHash": "67045221e5f6d083",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-24T20:46:26.020Z"
-  },
-  {
-    "itemId": "MLB7574356920",
-    "productKey": "07d55cd5bc2fcbd6",
-    "titleHash": "1ce6265d54d5cadb",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-24T20:46:26.020Z"
-  },
-  {
     "itemId": "MLB5434547819",
     "productKey": "a9cae0a28560e7a3",
     "titleHash": "d81a2f310b80cd21",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-29T04:01:41.929Z"
+  },
+  {
+    "itemId": "MLB3374640095",
+    "productKey": "ccb6a091dd86456b",
+    "titleHash": "34034148276df6c7",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-29T04:46:32.821Z"
+  },
+  {
+    "itemId": "MLB5575052912",
+    "productKey": "22a14d6998675ae9",
+    "titleHash": "1b1909ed1ab40901",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-29T04:46:32.821Z"
   }
 ]
