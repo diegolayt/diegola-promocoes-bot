@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3782523165",
-    "productKey": "948ee43d2d7626fb",
-    "titleHash": "93e49c3d46e7aa6f",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-24T23:31:29.224Z"
-  },
-  {
     "itemId": "MLB4361640499",
     "productKey": "28829ffedd0074fc",
     "titleHash": "4aebfb87fb18a5dc",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-29T08:01:43.376Z"
+  },
+  {
+    "itemId": "MLB7698076792",
+    "productKey": "3ec767c81d06051b",
+    "titleHash": "70a866555fd96fb6",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-29T08:16:26.708Z"
   }
 ]
