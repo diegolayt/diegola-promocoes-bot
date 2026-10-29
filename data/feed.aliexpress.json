@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005007857108545",
+  "loja": "aliexpress",
+  "titulo": "Cooler de CPU DeepCool AG400 Plus com 4 Tubos de Calor e Ventilador Duplo de 220W, Ventilador de 120mm para LGA1700 1851 AM5 AM4",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8d7411b2e18b4abbb71d698d9ae2350e5.jpg",
+  "preco": 177.59,
+  "precoDe": 369.98,
+  "link": "https://s.click.aliexpress.com/e/_c3xexaY3",
+  "vendidos": 560,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_cooler",
+  "publicadoEm": "2026-10-29T12:16:03.810Z"
+ },
+ {
+  "id": "aliexpress-1005010694999102",
+  "loja": "aliexpress",
+  "titulo": "Placa-Mãe TPM2.0 MACHINIST X99 V9S LGA 2011-3 Kit com CPU Xeon 2690 V4 Suporta RAM DDR4 Quatro Canais Chip C612 3*NVME M.2 M-ATX",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdfddef7732674a2589d24abfd0c3c891D.jpg",
+  "preco": 425.67,
+  "precoDe": 608.1,
+  "link": "https://s.click.aliexpress.com/e/_c3WLe123",
+  "vendidos": 43,
+  "nota": 4.4,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-29T12:15:53.060Z"
+ },
+ {
+  "id": "aliexpress-1005012564982878",
+  "loja": "aliexpress",
+  "titulo": "Placa-mãe MACHINIST X99 F-X9D LGA2011-3 Kits Opcionais CPU E5 2680 V4 + RAM DDR4 16GB Chip C612 Suporte a Quatro Canais ARGB TPM2.0",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/See278ff18ba447d3b90521b48478f605U.jpg",
+  "preco": 613.63,
+  "precoDe": 876.62,
+  "link": "https://s.click.aliexpress.com/e/_c4sLOCqR",
+  "vendidos": 24,
+  "nota": 4.5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-29T12:15:44.816Z"
+ },
+ {
+  "id": "aliexpress-1005011525665519",
+  "loja": "aliexpress",
+  "titulo": "Kit de Placa Mãe QIYIDA X99 H9S com CPU LGA2011-3 Xeon E5 2630 V4, Memória DDR4 16GB REG ECC, Interface M.2 TPM 2.0, 4 canais",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S67d3e8178cec494ca1dfca753f73adf07.jpg",
+  "preco": 301.69,
+  "precoDe": 703.28,
+  "link": "https://s.click.aliexpress.com/e/_c44ceUFZ",
+  "vendidos": 169,
+  "nota": 4.5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-29T12:15:32.930Z"
+ },
+ {
   "id": "aliexpress-1005012177038642",
   "loja": "aliexpress",
   "titulo": "Kit de Placa-Mãe MACHINIST X99 K9-D3 com Chip C612, Suporte Opcional para CPUs E5 2666 V3 e E5 2673 V3, RAM DDR3 de Quatro Canais, Formato M-ATX",
@@ -11332,34 +11388,6 @@
   "publicadoEm": "2026-10-27T09:30:46.299Z"
  },
  {
-  "id": "aliexpress-1005007857108545",
-  "loja": "aliexpress",
-  "titulo": "Cooler de CPU DeepCool AG400 Plus com 4 Tubos de Calor e Ventilador Duplo de 220W, Ventilador de 120mm para LGA1700 1851 AM5 AM4",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8d7411b2e18b4abbb71d698d9ae2350e5.jpg",
-  "preco": 165.99,
-  "precoDe": 345.81,
-  "link": "https://s.click.aliexpress.com/e/_c3eETCnN",
-  "vendidos": 558,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_cooler",
-  "publicadoEm": "2026-10-27T09:30:37.094Z"
- },
- {
-  "id": "aliexpress-1005010694999102",
-  "loja": "aliexpress",
-  "titulo": "Placa-Mãe TPM2.0 MACHINIST X99 V9S LGA 2011-3 Kit com CPU Xeon 2690 V4 Suporta RAM DDR4 Quatro Canais Chip C612 3*NVME M.2 M-ATX",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdfddef7732674a2589d24abfd0c3c891D.jpg",
-  "preco": 397.99,
-  "precoDe": 568.56,
-  "link": "https://s.click.aliexpress.com/e/_c4UMtP3v",
-  "vendidos": 42,
-  "nota": 4.4,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-10-27T09:15:58.865Z"
- },
- {
   "id": "aliexpress-1005010544095196",
   "loja": "aliexpress",
   "titulo": "Veineda gtx 960 4gb placa de vídeo 128bit gddr5 placa de vídeo placas gráficas placa grafica gtx960 cartão de exibição",
@@ -11539,20 +11567,6 @@
   "categoria": "Informática",
   "fonte": "ali_camera",
   "publicadoEm": "2026-10-27T05:30:52.494Z"
- },
- {
-  "id": "aliexpress-1005012564982878",
-  "loja": "aliexpress",
-  "titulo": "Placa-mãe MACHINIST X99 F-X9D LGA2011-3 Kits Opcionais CPU E5 2680 V4 + RAM DDR4 16GB Chip C612 Suporte a Quatro Canais ARGB TPM2.0",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/See278ff18ba447d3b90521b48478f605U.jpg",
-  "preco": 573.99,
-  "precoDe": 819.99,
-  "link": "https://s.click.aliexpress.com/e/_c3qi0kNp",
-  "vendidos": 24,
-  "nota": 4.5,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-10-27T05:15:29.032Z"
  },
  {
   "id": "aliexpress-1005010809825783",
@@ -16691,18 +16705,5 @@
   "nota": 4.6,
   "fonte": "ali_em_alta",
   "publicadoEm": "2026-10-17T16:15:36.347Z"
- },
- {
-  "id": "aliexpress-1005010670332339",
-  "loja": "aliexpress",
-  "titulo": "Blocos de construção militares 6 em 1, carro de polícia tigre, veículo blindado, conjunto de aeronaves, meninos, brinquedos de construção diy, presente de aniversário de natal",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7f88800ccc5f4009a5aeb1280f9462ec8.jpg",
-  "preco": 53.59,
-  "precoDe": 119.09,
-  "link": "https://s.click.aliexpress.com/e/_c3PvWQ7P",
-  "vendidos": 106,
-  "nota": 4.6,
-  "fonte": "ali_em_alta",
-  "publicadoEm": "2026-10-17T16:15:24.304Z"
  }
 ]
