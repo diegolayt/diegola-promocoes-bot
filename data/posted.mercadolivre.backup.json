@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7257140548",
-    "productKey": "c226456043f016a9",
-    "titleHash": "8cec1742dfa829f9",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-25T02:01:37.183Z"
-  },
-  {
     "itemId": "MLB4093070459",
     "productKey": "9180f7359eb828c8",
     "titleHash": "334a61232386e846",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-10-29T13:01:42.644Z"
+  },
+  {
+    "itemId": "MLB5306683211",
+    "productKey": "5a24c3485e043a19",
+    "titleHash": "ca2038c29bdfa6f9",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-10-29T13:16:34.292Z"
   }
 ]
