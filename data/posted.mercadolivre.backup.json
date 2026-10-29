@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5774842808",
-    "productKey": "d80ef72818275e46",
-    "titleHash": "d8d496fc92919deb",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-24T21:16:30.433Z"
-  },
-  {
-    "itemId": "MLB7840215524",
-    "productKey": "104c62f84f8d85e8",
-    "titleHash": "2f2b1411898660ab",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-24T21:16:30.433Z"
-  },
-  {
-    "itemId": "MLB5359732657",
-    "productKey": "7ee93f70ba994b37",
-    "titleHash": "cbc89261a0bdc7f7",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-24T21:31:33.740Z"
-  },
-  {
     "itemId": "MLB7773409152",
     "productKey": "d9a1640cf1b8c6e3",
     "titleHash": "1fa95cf3ec92b68b",
@@ -4798,5 +4774,29 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-29T05:31:42.597Z"
+  },
+  {
+    "itemId": "MLB7227482292",
+    "productKey": "62bcab9e6c459851",
+    "titleHash": "503e887254ddf661",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-29T06:01:34.477Z"
+  },
+  {
+    "itemId": "MLB5021389961",
+    "productKey": "23ecfda2f3afa8ab",
+    "titleHash": "67045221e5f6d083",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-29T06:01:34.477Z"
+  },
+  {
+    "itemId": "MLB7574356920",
+    "productKey": "07d55cd5bc2fcbd6",
+    "titleHash": "1ce6265d54d5cadb",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-29T06:01:34.477Z"
   }
 ]
