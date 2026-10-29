@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1773187667",
-    "productKey": "7c494d380cc182d3",
-    "titleHash": "052984b30e7c5011",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-25T16:16:34.686Z"
-  },
-  {
     "itemId": "MLB4484837255",
     "productKey": "f3ed58a1077cc9a4",
     "titleHash": "4fe7f450f5d9b4c0",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-29T22:46:29.293Z"
+  },
+  {
+    "itemId": "MLB5039804027",
+    "productKey": "67b41de77f6e8bb3",
+    "titleHash": "25cf7e816ba7fd15",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-29T23:01:39.541Z"
   }
 ]
