@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7779016744",
-    "productKey": "329979dba837faee",
-    "titleHash": "fc34165272bbea83",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-25T00:46:22.579Z"
-  },
-  {
     "itemId": "MLB5139668429",
     "productKey": "f241e77b5c1de994",
     "titleHash": "01c710c507d2dd58",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-29T10:16:31.755Z"
+  },
+  {
+    "itemId": "MLB3919470687",
+    "productKey": "bc0bb9a0c3fb15a1",
+    "titleHash": "0e851e97989db4c8",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-29T11:01:41.499Z"
   }
 ]
