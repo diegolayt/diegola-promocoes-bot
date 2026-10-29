@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3600544593",
-    "productKey": "c52e36fc9898a93c",
-    "titleHash": "0980e9b00d7d2072",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-24T19:16:34.746Z"
-  },
-  {
-    "itemId": "MLB5439740605",
-    "productKey": "8b7f2439bd97f1ef",
-    "titleHash": "8c3f6e95739241e2",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-24T19:16:34.746Z"
-  },
-  {
     "itemId": "MLB3374640095",
     "productKey": "ccb6a091dd86456b",
     "titleHash": "34034148276df6c7",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-29T02:46:29.989Z"
+  },
+  {
+    "itemId": "MLB4658014019",
+    "productKey": "30428afb79b31575",
+    "titleHash": "64c4bc9f4147c80a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-29T03:01:35.683Z"
+  },
+  {
+    "itemId": "MLB7724745934",
+    "productKey": "42b3d57c38a3059e",
+    "titleHash": "ec8ae247e926de2b",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-29T03:01:35.683Z"
   }
 ]

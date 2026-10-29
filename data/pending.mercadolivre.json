@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4658014019",
+      "site_id": "MLB",
+      "seller_id": 1359241439,
+      "accepts_mercadopago": true,
+      "price": 238,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 329.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Itajaí"
+        },
+        "state": {
+          "id": "",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3938721869",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52868715",
+      "title": "Fritadeira Elétrica Air Fryer Quad Fry 4,2 Litros 1400w Preto Elgin",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_831652-MLA119453464213_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52868715",
+      "id": "MLB4658014019",
+      "sold_quantity": 2000,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7724745934",
+      "site_id": "MLB",
+      "seller_id": 565124917,
+      "accepts_mercadopago": true,
+      "price": 3649,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUG9ydG8gRmVycmVpcmFUVXhDVUZOQlQwO",
+          "name": "Porto Ferreira"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5308168927",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB57714599",
+      "title": "Celular Samsung Galaxy S25 Fe 5g, 256gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_759416-MLA95390813276_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB57714599",
+      "id": "MLB7724745934",
+      "sold_quantity": 500,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-29T03:01:35.684Z"
+}
