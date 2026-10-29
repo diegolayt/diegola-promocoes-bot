@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4361640499",
-    "productKey": "28829ffedd0074fc",
-    "titleHash": "4aebfb87fb18a5dc",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-24T23:46:29.179Z"
-  },
-  {
     "itemId": "MLB6182336356",
     "productKey": "e772e6fb3830f752",
     "titleHash": "796851ab66948329",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-29T08:16:26.708Z"
+  },
+  {
+    "itemId": "MLB3723907881",
+    "productKey": "e31c83ceab48f83b",
+    "titleHash": "880309c3e7db71f2",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-29T08:31:32.449Z"
   }
 ]
