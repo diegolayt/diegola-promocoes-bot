@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6985336822",
-    "productKey": "b5ddbc5fc16e2eb7",
-    "titleHash": "1a469a09813e0b46",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-24T20:31:31.179Z"
-  },
-  {
-    "itemId": "MLB6470162816",
-    "productKey": "62bcab9e6c459851",
-    "titleHash": "503e887254ddf661",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-24T20:46:26.020Z"
-  },
-  {
     "itemId": "MLB5021389961",
     "productKey": "23ecfda2f3afa8ab",
     "titleHash": "67045221e5f6d083",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-29T03:46:34.148Z"
+  },
+  {
+    "itemId": "MLB3867892924",
+    "productKey": "168a7d6b63268a7f",
+    "titleHash": "292d7c8ba1595cab",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-29T04:01:41.929Z"
+  },
+  {
+    "itemId": "MLB2644117468",
+    "productKey": "c52e36fc9898a93c",
+    "titleHash": "0980e9b00d7d2072",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-29T04:01:41.929Z"
   }
 ]

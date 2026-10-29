@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3867892924",
+      "site_id": "MLB",
+      "seller_id": 1354124140,
+      "accepts_mercadopago": true,
+      "price": 101,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "standard_price_by_channel",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 479204,
+      "original_price": 199.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Bernardo do Campo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU2362788198",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18724696",
+      "title": "Suplemento em pó Max Titanium Mass Titanium Refil 17500 Carboidratos sabor Chocolate x 3kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_910957-MLA113002407784_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18724696",
+      "id": "MLB3867892924",
+      "sold_quantity": 800,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB2644117468",
+      "site_id": "MLB",
+      "seller_id": 323697852,
+      "accepts_mercadopago": true,
+      "price": 120.8,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "good_quality_picture",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1626,
+      "original_price": 129.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lQQTYxODQxOQ",
+          "name": "Ipameri"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBVjgxNzIxMQ",
+          "name": "Cavalheiro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1110191680",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18932156",
+      "title": "Ventilador de Mesa 30cm Super Power Mondial 60W VSP-30-B",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_620576-MLA99958768953_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18932156",
+      "id": "MLB2644117468",
+      "sold_quantity": 2000,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-29T04:01:41.931Z"
+}
