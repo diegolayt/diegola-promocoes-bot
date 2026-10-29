@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7772394616",
-    "productKey": "3e89fb212f1b587a",
-    "titleHash": "a70af37fa192c514",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-25T00:46:22.579Z"
-  },
-  {
     "itemId": "MLB7779016744",
     "productKey": "329979dba837faee",
     "titleHash": "fc34165272bbea83",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-29T10:01:40.622Z"
+  },
+  {
+    "itemId": "MLB3820180034",
+    "productKey": "f764b26a37859a9e",
+    "titleHash": "8b8c5f4cc7076bed",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-29T10:16:31.755Z"
   }
 ]
