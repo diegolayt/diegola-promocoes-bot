@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7612044056",
-    "productKey": "1551bf9f32c05b23",
-    "titleHash": "41a02a3933f5017f",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-24T17:46:29.683Z"
-  },
-  {
     "itemId": "MLB6921217172",
     "productKey": "a43e7b064f1a955f",
     "titleHash": "add251f9ccfb05c7",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-10-29T01:16:37.753Z"
+  },
+  {
+    "itemId": "MLB3682277189",
+    "productKey": "02983e6cebf8fe5d",
+    "titleHash": "29879c6e3f2ebbc5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-29T01:31:33.729Z"
   }
 ]
