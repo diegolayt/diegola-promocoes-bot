@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6149330662",
-    "productKey": "132b0615b1b8f5b3",
-    "titleHash": "1366291730a2460a",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-25T05:01:38.741Z"
-  },
-  {
-    "itemId": "MLB5448565419",
-    "productKey": "9eb5fc3ffddd6db0",
-    "titleHash": "945f28db261b2b05",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-25T05:01:38.741Z"
-  },
-  {
     "itemId": "MLB4726600695",
     "productKey": "f28c430b2349dd9d",
     "titleHash": "cbc14ed247b8b10d",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-29T15:46:32.695Z"
+  },
+  {
+    "itemId": "MLB5769944586",
+    "productKey": "ec93060555c6cb7b",
+    "titleHash": "9478296a7f5367d3",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-29T16:01:45.306Z"
+  },
+  {
+    "itemId": "MLB5079124123",
+    "productKey": "779f5305bad544eb",
+    "titleHash": "84a8ab1cca29acd4",
+    "category": "masculino",
+    "sourceCategoryId": "MLB23332",
+    "reservedAt": "2026-10-29T16:01:45.306Z"
   }
 ]
