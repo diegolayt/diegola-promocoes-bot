@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3374640095",
-    "productKey": "ccb6a091dd86456b",
-    "titleHash": "34034148276df6c7",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-24T19:31:31.917Z"
-  },
-  {
     "itemId": "MLB5780054864",
     "productKey": "9d5c96d703bbb08b",
     "titleHash": "b4c97ba46d1f05ff",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-29T03:01:35.683Z"
+  },
+  {
+    "itemId": "MLB7677568494",
+    "productKey": "d00fd3d38d9c5864",
+    "titleHash": "c1f71c9a94dc2f5e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-29T03:16:32.585Z"
   }
 ]
