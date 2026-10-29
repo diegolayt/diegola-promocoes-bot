@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4484837255",
-    "productKey": "f3ed58a1077cc9a4",
-    "titleHash": "4fe7f450f5d9b4c0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-25T16:31:32.514Z"
-  },
-  {
-    "itemId": "MLB6210751482",
-    "productKey": "f0aa6c4ebb950930",
-    "titleHash": "53db776e88590465",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-25T16:46:30.284Z"
-  },
-  {
-    "itemId": "MLB5316596061",
-    "productKey": "fe3916e4145f9c4c",
-    "titleHash": "446d0c834ed457eb",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-25T16:46:30.284Z"
-  },
-  {
-    "itemId": "MLB3773116643",
-    "productKey": "7eecd5f765f1c03f",
-    "titleHash": "1f7cacb96af0197b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-25T17:01:44.562Z"
-  },
-  {
     "itemId": "MLB6252875346",
     "productKey": "0b5836e85364a77d",
     "titleHash": "64a615a11688ddb6",
@@ -4798,5 +4766,37 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-29T23:01:39.541Z"
+  },
+  {
+    "itemId": "MLB3481515593",
+    "productKey": "f7f7d61f6c30c3c5",
+    "titleHash": "bd2c5073c62b4ca3",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-29T23:31:24.286Z"
+  },
+  {
+    "itemId": "MLB4214380631",
+    "productKey": "599342f11b3c3501",
+    "titleHash": "b8c8c51b8b202d3f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-29T23:31:24.286Z"
+  },
+  {
+    "itemId": "MLB4936320789",
+    "productKey": "7df1458663dc1f98",
+    "titleHash": "3a68c17bceca4a73",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-29T23:31:24.286Z"
+  },
+  {
+    "itemId": "MLB5364239401",
+    "productKey": "fed2045d9a53918d",
+    "titleHash": "f1b338c8126e3619",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-29T23:31:24.286Z"
   }
 ]
