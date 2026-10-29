@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4510325461",
-    "productKey": "f55481226776a3de",
-    "titleHash": "aef1dd15b5a70088",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-25T05:46:26.454Z"
-  },
-  {
-    "itemId": "MLB7657977886",
-    "productKey": "525cdc14fb44b9f9",
-    "titleHash": "48172cb7558886dd",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-25T05:46:26.454Z"
-  },
-  {
     "itemId": "MLB7237421774",
     "productKey": "e38f5a07bc73fbd7",
     "titleHash": "17dc2126afaa1a23",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-29T16:31:45.953Z"
+  },
+  {
+    "itemId": "MLB4025051609",
+    "productKey": "e3a32e5e9491b448",
+    "titleHash": "1d773991864c4e55",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-29T16:46:35.933Z"
+  },
+  {
+    "itemId": "MLB5738738172",
+    "productKey": "9eb5fc3ffddd6db0",
+    "titleHash": "945f28db261b2b05",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-29T16:46:35.933Z"
   }
 ]
