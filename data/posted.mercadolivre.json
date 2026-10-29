@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5431836929",
-    "productKey": "f92db17f5742d141",
-    "titleHash": "ba604d815288c3ae",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-25T03:00:50.674Z"
-  },
-  {
-    "itemId": "MLB7812632532",
-    "productKey": "a1f456d88f6147f8",
-    "titleHash": "95b060c5930b31da",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-25T03:16:33.450Z"
-  },
-  {
     "itemId": "MLB5400098189",
     "productKey": "d8cdb8921362f102",
     "titleHash": "1b7a10c533ed1347",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-29T13:46:30.831Z"
+  },
+  {
+    "itemId": "MLB2787245412",
+    "productKey": "50274da5b327a827",
+    "titleHash": "22b4a28cffd81415",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-29T14:01:40.376Z"
+  },
+  {
+    "itemId": "MLB4749793963",
+    "productKey": "b5ad29d95fd238f3",
+    "titleHash": "ea85bf34ab65059e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-29T14:01:40.377Z"
   }
 ]
