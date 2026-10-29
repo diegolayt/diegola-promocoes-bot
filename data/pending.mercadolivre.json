@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4735701897",
+      "site_id": "MLB",
+      "seller_id": 1055782386,
+      "accepts_mercadopago": true,
+      "price": 1398.99,
+      "category_id": "MLB3843",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0FHVWIwNzlm",
+          "name": "Água Doce do Maranhão"
+        },
+        "state": {
+          "id": "TUxCUE1BUk81MWVi",
+          "name": "Maranhão"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4052782652",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54470406",
+      "title": "Alto-falante Jbl Partybox Encore Essential 2 Party preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_822320-MLA117015533966_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54470406",
+      "id": "MLB4735701897",
+      "sold_quantity": 1000,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7820190708",
+      "site_id": "MLB",
+      "seller_id": 1815467522,
+      "accepts_mercadopago": true,
+      "price": 1029,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBU2NiZTll",
+          "name": "Cascavel"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTjk0Rg",
+          "name": "Santa Cruz"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5550799682",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61418288",
+      "title": "Celular Xiaomi Redmi 15c 128gb 8gb Ram Dual Sim Azul Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_642771-MLA96264938954_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61418288",
+      "id": "MLB7820190708",
+      "sold_quantity": 400,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-29T06:16:38.233Z"
+}
