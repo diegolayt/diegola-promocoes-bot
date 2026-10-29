@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5330484555",
-    "productKey": "4e7f7b1baa55e158",
-    "titleHash": "d95af3217f0f612d",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-25T12:16:28.695Z"
-  },
-  {
-    "itemId": "MLB6487355942",
-    "productKey": "1b0c80b38e1cf265",
-    "titleHash": "e1ee4fe398d38bfe",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-25T12:31:30.988Z"
-  },
-  {
     "itemId": "MLB7691246548",
     "productKey": "974baaa0c5dd7adf",
     "titleHash": "8d32441d6270c143",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-29T20:31:22.624Z"
+  },
+  {
+    "itemId": "MLB4559000033",
+    "productKey": "5b46392a746a1583",
+    "titleHash": "bc9fa749b71a0b00",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-29T20:46:28.348Z"
+  },
+  {
+    "itemId": "MLB7897923252",
+    "productKey": "ed23dda80ccddb8e",
+    "titleHash": "2833a17e649ec0a3",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-29T20:46:28.348Z"
   }
 ]
