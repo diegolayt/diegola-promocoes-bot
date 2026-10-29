@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6943752224",
-    "productKey": "127b8887916baeb4",
-    "titleHash": "fa8d671112a0eeee",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-25T09:16:28.892Z"
-  },
-  {
     "itemId": "MLB3399022201",
     "productKey": "f0bb7eab24f9461a",
     "titleHash": "5de2e14bd196608c",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-29T18:16:32.510Z"
+  },
+  {
+    "itemId": "MLB6564848506",
+    "productKey": "e99726c12745d0a4",
+    "titleHash": "8b80f8f23c3c0fbd",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-29T18:31:35.205Z"
   }
 ]
