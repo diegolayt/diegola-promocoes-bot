@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7237421774",
-    "productKey": "e38f5a07bc73fbd7",
-    "titleHash": "17dc2126afaa1a23",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-25T06:01:39.334Z"
-  },
-  {
     "itemId": "MLB6670733424",
     "productKey": "d39f44041eb93281",
     "titleHash": "f045d1797b5d99de",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-29T16:46:35.933Z"
+  },
+  {
+    "itemId": "MLB4452383059",
+    "productKey": "feb8ee0e5e78d68c",
+    "titleHash": "d21682eb23e8c1fd",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-29T17:01:32.577Z"
   }
 ]
