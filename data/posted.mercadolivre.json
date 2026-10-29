@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4469173253",
-    "productKey": "4da20096241f83a1",
-    "titleHash": "122b2943937f1218",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-25T03:31:33.109Z"
-  },
-  {
-    "itemId": "MLB5079124123",
-    "productKey": "779f5305bad544eb",
-    "titleHash": "84a8ab1cca29acd4",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-10-25T03:46:31.001Z"
-  },
-  {
-    "itemId": "MLB6477127322",
-    "productKey": "4c39c54175dbde91",
-    "titleHash": "3b8d07d05440f04b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-25T04:01:42.703Z"
-  },
-  {
     "itemId": "MLB7877248450",
     "productKey": "41eb4e3bc97aa8bc",
     "titleHash": "77a05223dc5a6f21",
@@ -4798,5 +4774,29 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-29T14:31:42.827Z"
+  },
+  {
+    "itemId": "MLB4093070459",
+    "productKey": "9180f7359eb828c8",
+    "titleHash": "334a61232386e846",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-29T14:46:32.438Z"
+  },
+  {
+    "itemId": "MLB5271059694",
+    "productKey": "c226456043f016a9",
+    "titleHash": "8cec1742dfa829f9",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-29T14:46:32.438Z"
+  },
+  {
+    "itemId": "MLB7750005758",
+    "productKey": "230f44c477955a2b",
+    "titleHash": "f00637d35c135f0b",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-29T14:46:32.438Z"
   }
 ]
