@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4243087779",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 1599,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 343,
+      "original_price": 1719,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 99
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3458465762",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB59322248",
+      "title": "Máquina De Lavar Branca Consul 12kg Com Dosagem Econômica E Cor Branco 110v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_612560-MLA99968162739_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB59322248",
+      "id": "MLB4243087779",
+      "sold_quantity": 1500,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-29T20:16:32.921Z"
+}
