@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5309422407",
-    "productKey": "aaf36aa09306ceb0",
-    "titleHash": "9b601eef34b56ff5",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-25T16:01:35.219Z"
-  },
-  {
     "itemId": "MLB1773187667",
     "productKey": "7c494d380cc182d3",
     "titleHash": "052984b30e7c5011",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-29T22:31:34.607Z"
+  },
+  {
+    "itemId": "MLB5574851656",
+    "productKey": "1605bae93a4b4381",
+    "titleHash": "f52975726d30d711",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-29T22:46:29.293Z"
   }
 ]
