@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5447342251",
-    "productKey": "6325cecbb66a769a",
-    "titleHash": "7ff317b46af6b060",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-25T01:16:26.792Z"
-  },
-  {
-    "itemId": "MLB5979493700",
-    "productKey": "ef4a8ade7356b7de",
-    "titleHash": "884030f96bc8b69d",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-25T01:31:32.703Z"
-  },
-  {
     "itemId": "MLB7881562772",
     "productKey": "5a24c3485e043a19",
     "titleHash": "ca2038c29bdfa6f9",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-29T11:16:33.496Z"
+  },
+  {
+    "itemId": "MLB7903121198",
+    "productKey": "0da48686e23f62c4",
+    "titleHash": "7e8ecf727227ad97",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-29T11:31:37.717Z"
+  },
+  {
+    "itemId": "MLB7881909982",
+    "productKey": "ef60b543f7ca8673",
+    "titleHash": "4ca12211160412ec",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-29T11:31:37.717Z"
   }
 ]
