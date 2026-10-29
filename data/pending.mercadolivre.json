@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5652727666",
+      "site_id": "MLB",
+      "seller_id": 726591607,
+      "accepts_mercadopago": true,
+      "price": 41.9,
+      "category_id": "MLB117801",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 191282,
+      "original_price": 67.58,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUmZ0MW4z",
+          "name": "Jardim Cumbica"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3389024707",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54153222",
+      "title": "Festão Aramado Natal Grosso 2,70 Metros C/ 300 Galhos Cheios Flexível Decoração - Dekasa",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_808705-MLA116828761057_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54153222",
+      "id": "MLB5652727666",
+      "sold_quantity": 1700,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7237421774",
+      "site_id": "MLB",
+      "seller_id": 676651874,
+      "accepts_mercadopago": true,
+      "price": 48.9,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 393130,
+      "original_price": 69.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBREIyMzNG",
+          "name": "Padre Eustáquio"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4396462897",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB30712586",
+      "title": "O diário de uma princesa desastrada 2 - Lacerda, Maidy - Editora Planeta - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_850094-MLA79580193572_102024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB30712586",
+      "id": "MLB7237421774",
+      "sold_quantity": 500,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-10-29T21:31:32.902Z"
+}
