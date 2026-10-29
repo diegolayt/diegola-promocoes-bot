@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7742862988",
-    "productKey": "ab7a06687d5141b6",
-    "titleHash": "90a8b50e660fc297",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-25T10:31:34.035Z"
-  },
-  {
-    "itemId": "MLB4379742795",
-    "productKey": "0bcf0514bbf146bf",
-    "titleHash": "4bdf6074887c635e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-25T10:31:34.036Z"
-  },
-  {
-    "itemId": "MLB4647606299",
-    "productKey": "45898311a1c23687",
-    "titleHash": "65399aa5ab3c519e",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-25T10:46:33.918Z"
-  },
-  {
     "itemId": "MLB5325579485",
     "productKey": "a56325cf90bab0f5",
     "titleHash": "dc5cb19db2f1630b",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-29T19:16:32.960Z"
+  },
+  {
+    "itemId": "MLB4264223185",
+    "productKey": "ec4b519641a7ee71",
+    "titleHash": "06afb66b058ef953",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-29T19:31:36.348Z"
+  },
+  {
+    "itemId": "MLB4053374163",
+    "productKey": "04168d7af042a735",
+    "titleHash": "cd6447da33f541b3",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-29T19:31:36.348Z"
+  },
+  {
+    "itemId": "MLB5358997355",
+    "productKey": "dea2c4a9da61bcd6",
+    "titleHash": "6c866c86c418343d",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-29T19:31:36.348Z"
   }
 ]
