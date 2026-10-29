@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6153218964",
-    "productKey": "1f028055a5e8fcd7",
-    "titleHash": "0b04907b65ed95a5",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-24T17:01:35.820Z"
-  },
-  {
-    "itemId": "MLB2986669578",
-    "productKey": "b0fd07fbfa91c911",
-    "titleHash": "1282c367944284ef",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-24T17:31:32.852Z"
-  },
-  {
     "itemId": "MLB5169940319",
     "productKey": "381fd5b224641c75",
     "titleHash": "7c0b2dc917495bc1",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-29T00:46:44.655Z"
+  },
+  {
+    "itemId": "MLB3492059795",
+    "productKey": "3281542ebae1f6e6",
+    "titleHash": "971df868445cdbf2",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-10-29T01:01:41.682Z"
+  },
+  {
+    "itemId": "MLB3395169401",
+    "productKey": "67c8124f8010d4d0",
+    "titleHash": "3acad1ab805f0289",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-29T01:01:41.682Z"
   }
 ]
