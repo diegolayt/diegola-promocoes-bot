@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4667951919",
-    "productKey": "e026eda0eb29f423",
-    "titleHash": "541b9f08c97d8a4b",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-24T22:46:27.868Z"
-  },
-  {
     "itemId": "MLB4190456415",
     "productKey": "6a0f3de508245dc1",
     "titleHash": "ae7ee8f191bd670b",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-10-29T06:46:29.793Z"
+  },
+  {
+    "itemId": "MLB6161925990",
+    "productKey": "077fe19f4736884c",
+    "titleHash": "d7b2cb595cb95e9a",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-29T07:01:36.044Z"
   }
 ]
