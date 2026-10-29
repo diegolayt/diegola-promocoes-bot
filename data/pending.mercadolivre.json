@@ -1,0 +1,146 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6359900498",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 3998.95,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "bulky",
+        "has_published_clips",
+        "kvs_primary",
+        "dynamic_standard_price",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 4699,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3792604016",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65312129",
+      "title": "Geladeira Brastemp Frost Free Inverse 500 Litros Branca - BRE66A",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_792259-MLA106662707437_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65312129",
+      "id": "MLB6359900498",
+      "sold_quantity": 600,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    },
+    {
+      "item_id": "MLB5504176212",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 449.9,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5551,
+      "original_price": 574.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3303635246",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35339892",
+      "title": "Tanquinho de Lavar Roupa 10Kg Britânia Semiautomático BLR03",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_913825-MLA96099041275_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35339892",
+      "id": "MLB5504176212",
+      "sold_quantity": 200,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-10-29T13:46:30.834Z"
+}
