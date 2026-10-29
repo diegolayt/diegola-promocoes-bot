@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4195198970",
-    "productKey": "19e579017e9bbafd",
-    "titleHash": "9bead5eecb241d6b",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-24T23:01:32.527Z"
-  },
-  {
     "itemId": "MLB5150684561",
     "productKey": "b216c04d769cb55e",
     "titleHash": "7e8ecf727227ad97",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-29T07:16:29.814Z"
+  },
+  {
+    "itemId": "MLB2760684440",
+    "productKey": "4ae6c04be37129cb",
+    "titleHash": "4b5a0e421d4a8abf",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-10-29T07:31:33.233Z"
   }
 ]
