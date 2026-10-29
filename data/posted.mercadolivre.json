@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4264223185",
-    "productKey": "ec4b519641a7ee71",
-    "titleHash": "06afb66b058ef953",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-25T10:16:29.759Z"
-  },
-  {
-    "itemId": "MLB4053374163",
-    "productKey": "04168d7af042a735",
-    "titleHash": "cd6447da33f541b3",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-25T10:16:29.759Z"
-  },
-  {
     "itemId": "MLB7742862988",
     "productKey": "ab7a06687d5141b6",
     "titleHash": "90a8b50e660fc297",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-29T19:01:40.779Z"
+  },
+  {
+    "itemId": "MLB5930202958",
+    "productKey": "fded24791054bb1d",
+    "titleHash": "bba7ae42ffd6ef51",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-29T19:16:32.960Z"
+  },
+  {
+    "itemId": "MLB6246809052",
+    "productKey": "27482fda8b372737",
+    "titleHash": "2a9d9052071de1ee",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-29T19:16:32.960Z"
   }
 ]
