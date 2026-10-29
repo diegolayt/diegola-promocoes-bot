@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5746940456",
-    "productKey": "15cbe337a1821ebb",
-    "titleHash": "eb4f571b369048dd",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-24T22:46:27.868Z"
-  },
-  {
     "itemId": "MLB4667951919",
     "productKey": "e026eda0eb29f423",
     "titleHash": "541b9f08c97d8a4b",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-29T06:31:29.273Z"
+  },
+  {
+    "itemId": "MLB7773409152",
+    "productKey": "d9a1640cf1b8c6e3",
+    "titleHash": "1fa95cf3ec92b68b",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-29T06:46:29.793Z"
   }
 ]
