@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5574851656",
-    "productKey": "1605bae93a4b4381",
-    "titleHash": "f52975726d30d711",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-25T13:46:27.411Z"
-  },
-  {
-    "itemId": "MLB5800043516",
-    "productKey": "db0638517b0c4427",
-    "titleHash": "45d361ba93463419",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-25T13:46:27.411Z"
-  },
-  {
-    "itemId": "MLB4936320789",
-    "productKey": "7df1458663dc1f98",
-    "titleHash": "3a68c17bceca4a73",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-25T14:01:34.990Z"
-  },
-  {
     "itemId": "MLB5393790417",
     "productKey": "f7f7d61f6c30c3c5",
     "titleHash": "bd2c5073c62b4ca3",
@@ -4798,5 +4774,29 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-10-29T21:31:32.897Z"
+  },
+  {
+    "itemId": "MLB6487355942",
+    "productKey": "1b0c80b38e1cf265",
+    "titleHash": "e1ee4fe398d38bfe",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-29T21:46:33.204Z"
+  },
+  {
+    "itemId": "MLB7685286148",
+    "productKey": "97793b46b1ed0e13",
+    "titleHash": "ba9b4acf5fd20f0e",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-29T21:46:33.204Z"
+  },
+  {
+    "itemId": "MLB3953336287",
+    "productKey": "8087d5827caf1d7c",
+    "titleHash": "894a48f069e4d329",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-29T21:46:33.204Z"
   }
 ]
