@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6149330662",
+      "site_id": "MLB",
+      "seller_id": 1526166726,
+      "accepts_mercadopago": true,
+      "price": 387,
+      "category_id": "MLB44085",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "kit_component",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 51024,
+      "original_price": 459,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BBTGUwMTUw",
+          "name": "Palhoça"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1452720574",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB44463715",
+      "title": "Lizze Extreme 480 Chapinha Profissional",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_912494-MLA99992658679_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB44463715",
+      "id": "MLB6149330662",
+      "sold_quantity": 1900,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB6850803344",
+      "site_id": "MLB",
+      "seller_id": 3388863896,
+      "accepts_mercadopago": true,
+      "price": 229.9,
+      "category_id": "MLB1664",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4635,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTzUyMjZl",
+          "name": "São José dos Pinhais"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkFHVUEzODQy",
+          "name": "Águas Belas"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3997795163",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB22341315",
+      "title": "Fone De Ouvido Com Fio Usb H390 Rosa Logitech Luz Nude",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_607621-MLA99549027968_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB22341315",
+      "id": "MLB6850803344",
+      "sold_quantity": 200,
+      "rotationCategory": "som",
+      "sourceCategoryId": "MLB3835",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-29T17:31:39.105Z"
+}
