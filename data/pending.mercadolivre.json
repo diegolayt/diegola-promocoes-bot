@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6254580488",
+      "site_id": "MLB",
+      "seller_id": 446655208,
+      "accepts_mercadopago": true,
+      "price": 230.99,
+      "category_id": "MLB23332",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "catalog_boost",
+        "certified_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 52204,
+      "original_price": 349.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3151482324",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62511822",
+      "title": "Tênis Carina Street Bdp Puma",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_735782-MLA99431268555_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62511822",
+      "id": "MLB6254580488",
+      "sold_quantity": 1700,
+      "rotationCategory": "masculino",
+      "sourceCategoryId": "MLB23332",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5440680923",
+      "site_id": "MLB",
+      "seller_id": 2624683133,
+      "accepts_mercadopago": true,
+      "price": 909.99,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0FOQTQ5ZmUz",
+          "name": "Anápolis"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNFVDI3MzFF",
+          "name": "Setor Central"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5647052042",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47146181",
+      "title": "Parafusadeira e Furadeira de Impacto 13mm 20V DEWALT DCD7781D2 Com 2 Baterias, Carregador e Maleta",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_860756-MLA99451844492_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47146181",
+      "id": "MLB5440680923",
+      "sold_quantity": 400,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-29T09:46:25.524Z"
+}
