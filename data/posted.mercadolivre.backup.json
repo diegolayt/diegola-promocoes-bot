@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4755516916",
-    "productKey": "5d3a1623e59b8114",
-    "titleHash": "776f9f5eedb25a45",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-24T15:16:28.110Z"
-  },
-  {
-    "itemId": "MLB5577438794",
-    "productKey": "67c8124f8010d4d0",
-    "titleHash": "3acad1ab805f0289",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-24T15:16:28.110Z"
-  },
-  {
-    "itemId": "MLB3846575151",
-    "productKey": "2ba242383bfef56e",
-    "titleHash": "340812948cdb6008",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-24T15:31:34.921Z"
-  },
-  {
     "itemId": "MLB4866958493",
     "productKey": "6ee34dbf91ba8236",
     "titleHash": "44f5a0eb4c12ff71",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-10-28T23:46:30.283Z"
+  },
+  {
+    "itemId": "MLB4671001438",
+    "productKey": "3993210f7cd0113c",
+    "titleHash": "ee59843d9f1c91fc",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-29T00:01:40.021Z"
+  },
+  {
+    "itemId": "MLB5217693736",
+    "productKey": "bd3aa3aa17d44d1a",
+    "titleHash": "bb0ac3e977c30917",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-29T00:01:40.021Z"
+  },
+  {
+    "itemId": "MLB5289436819",
+    "productKey": "6d6a36b43f25814b",
+    "titleHash": "864ba560595ab6ad",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-29T00:01:40.021Z"
   }
 ]
