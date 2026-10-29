@@ -137,17 +137,6 @@
  },
  {
   "loja": "aliexpress",
-  "codigo": "BRK300",
-  "descricao": "R$ 164,64 OFF em Aspirador de pó robô ABIR K30",
-  "regra": "Compras acima de R$ 1.646,43 · vale no produto do link · até 29/10",
-  "precoMinimo": 1646.43,
-  "soLista": true,
-  "fim": "2026-10-29T03:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c405hoDT",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
   "codigo": "CRIANCAS",
   "descricao": "R$ 137,20 OFF em Projetor Mini Smart para Home Theater",
   "regra": "Compras acima de R$ 493,93 · vale no produto do link · até 30/10",
@@ -166,17 +155,6 @@
   "soLista": true,
   "fim": "2026-11-01T02:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c3JgClfT",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
-  "codigo": "VEVSHAO",
-  "descricao": "R$ 43,90 OFF em Vevshao a12 projetor mini portátil led",
-  "regra": "vale no produto do link · até 29/10",
-  "precoMinimo": 43.96,
-  "soLista": true,
-  "fim": "2026-10-29T03:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c4ScUsaN",
   "auto": "aliexpress-hot"
  },
  {
@@ -232,6 +210,28 @@
   "soLista": true,
   "fim": "2027-01-01T02:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c3qRHp3j",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "S0IGA7LWPWIX",
+  "descricao": "R$ 16,46 OFF em Relógio Digital Masculino NORTH EDGE APACHE-D",
+  "regra": "Compras acima de R$ 109,76 · vale no produto do link · até 17/11",
+  "precoMinimo": 109.76,
+  "soLista": true,
+  "fim": "2026-11-18T01:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c31wWoCt",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "KR0864",
+  "descricao": "R$ 16,46 OFF em Webcam UGREEN 4K FHD 1080P 8MP",
+  "regra": "vale no produto do link · até 30/10",
+  "precoMinimo": 16.52,
+  "soLista": true,
+  "fim": "2026-10-31T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3QmX1uN",
   "auto": "aliexpress-hot"
  }
 ]
