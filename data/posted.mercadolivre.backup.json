@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6716214456",
-    "productKey": "0bb97d013f7f6eb7",
-    "titleHash": "8a72855189f00c03",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-25T07:31:36.615Z"
-  },
-  {
-    "itemId": "MLB5387146287",
-    "productKey": "ed23dda80ccddb8e",
-    "titleHash": "2833a17e649ec0a3",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-25T08:16:30.188Z"
-  },
-  {
     "itemId": "MLB4167180457",
     "productKey": "f2cc121a987258d9",
     "titleHash": "6d8e200943d2f5c5",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-29T17:31:39.103Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-29T17:46:33.487Z"
+  },
+  {
+    "itemId": "MLB2751486961",
+    "productKey": "0da42abc4e07efc8",
+    "titleHash": "583334eed73b7bc4",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-29T17:46:33.487Z"
   }
 ]
