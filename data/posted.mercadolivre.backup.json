@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7840452010",
-    "productKey": "9cb47f553c7cb85e",
-    "titleHash": "62c54a9500e1296b",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-24T16:46:28.523Z"
-  },
-  {
     "itemId": "MLB6153218964",
     "productKey": "1f028055a5e8fcd7",
     "titleHash": "0b04907b65ed95a5",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-29T00:31:38.791Z"
+  },
+  {
+    "itemId": "MLB4222763449",
+    "productKey": "03268f9fe00e909e",
+    "titleHash": "6ed609609a19a867",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-29T00:46:44.655Z"
   }
 ]
