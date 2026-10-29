@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5400098189",
-    "productKey": "d8cdb8921362f102",
-    "titleHash": "1b7a10c533ed1347",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-25T03:16:33.450Z"
-  },
-  {
-    "itemId": "MLB5454507091",
-    "productKey": "422afdd941c1d5d4",
-    "titleHash": "ff0def2a538e714f",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-25T03:16:33.450Z"
-  },
-  {
     "itemId": "MLB7730971988",
     "productKey": "ae11f27802361e7f",
     "titleHash": "fd53318c6e50c543",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-29T14:01:40.377Z"
+  },
+  {
+    "itemId": "MLB5979493700",
+    "productKey": "ef4a8ade7356b7de",
+    "titleHash": "884030f96bc8b69d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-29T14:16:33.935Z"
+  },
+  {
+    "itemId": "MLB5274919441",
+    "productKey": "4cd18a53d086abb4",
+    "titleHash": "dd83459a203e4e57",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-29T14:16:33.936Z"
   }
 ]
