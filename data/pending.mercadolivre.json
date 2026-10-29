@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7902324636",
+      "site_id": "MLB",
+      "seller_id": 226285273,
+      "accepts_mercadopago": true,
+      "price": 109,
+      "category_id": "MLB6899",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "Q290aWFUVXhDVUZOQlQwODVOMkU0",
+          "name": "Cotia"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "SmFyZGltIFBhc3PDoXJnYWRhIElRMjkwYVdGVVZY",
+          "name": "Jardim Passárgada I"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5666468165",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77672147",
+      "title": "Blister Duplo Coleção 30 anos Pókemon Copag - Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_896714-MLA117063745326_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77672147",
+      "id": "MLB7902324636",
+      "sold_quantity": 1700,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-10-29T12:31:34.887Z"
+}

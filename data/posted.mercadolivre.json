@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4749793963",
-    "productKey": "b5ad29d95fd238f3",
-    "titleHash": "ea85bf34ab65059e",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-25T01:31:32.703Z"
-  },
-  {
     "itemId": "MLB7656166424",
     "productKey": "bf7e00fa51c47b92",
     "titleHash": "2b36c4d2d2387bd1",
@@ -4798,5 +4790,13 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-10-29T11:46:26.610Z"
+  },
+  {
+    "itemId": "MLB7902324636",
+    "productKey": "5bbd37355bdaaca3",
+    "titleHash": "c3390cb321d1deb2",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-10-29T12:31:34.884Z"
   }
 ]
