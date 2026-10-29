@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7656166424",
-    "productKey": "bf7e00fa51c47b92",
-    "titleHash": "2b36c4d2d2387bd1",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-25T01:46:33.439Z"
-  },
-  {
     "itemId": "MLB5504176212",
     "productKey": "9132e4c8f8f9ea53",
     "titleHash": "798e6332f7c74764",
@@ -4798,5 +4790,13 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-10-29T12:31:34.884Z"
+  },
+  {
+    "itemId": "MLB5232182936",
+    "productKey": "34deacf4f5156c88",
+    "titleHash": "4becc55da500e5d4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-29T12:46:38.460Z"
   }
 ]
