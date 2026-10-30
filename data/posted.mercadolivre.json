@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5784138032",
-    "productKey": "cabbb447af73cacd",
-    "titleHash": "13bc6b92a0023758",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-26T01:46:09.458Z"
-  },
-  {
     "itemId": "MLB5934587642",
     "productKey": "4c9a2bafeaf753b6",
     "titleHash": "17682e2f317c0d59",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-10-30T10:01:37.203Z"
+  },
+  {
+    "itemId": "MLB5646589004",
+    "productKey": "b5841668af3df70a",
+    "titleHash": "26a8aa4b820e295a",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-30T10:16:25.779Z"
   }
 ]
