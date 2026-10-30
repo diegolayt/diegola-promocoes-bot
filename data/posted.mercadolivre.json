@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7812100718",
-    "productKey": "113d9604631d6b0d",
-    "titleHash": "02055506bdcf30fc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-26T13:16:33.820Z"
-  },
-  {
     "itemId": "MLB7631375746",
     "productKey": "78a556ba509873f4",
     "titleHash": "2231dac56aa4320f",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-30T19:01:39.411Z"
+  },
+  {
+    "itemId": "MLB7729259904",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-30T19:16:33.108Z"
   }
 ]
