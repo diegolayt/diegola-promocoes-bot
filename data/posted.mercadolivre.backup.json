@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7160567726",
-    "productKey": "2b8d916b04c09f90",
-    "titleHash": "e6a0bbceb4a1566b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-26T15:16:31.189Z"
-  },
-  {
     "itemId": "MLB4381407875",
     "productKey": "56e953d72225b9db",
     "titleHash": "a52b2817a8ca9972",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-30T21:01:39.275Z"
+  },
+  {
+    "itemId": "MLB7736503520",
+    "productKey": "e689be77e279c615",
+    "titleHash": "10ad4952157baf45",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-30T21:16:31.078Z"
   }
 ]
