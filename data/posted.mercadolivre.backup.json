@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3579786447",
-    "productKey": "44a3bea7e54cce74",
-    "titleHash": "ad265b3e1f03412c",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-26T04:01:34.898Z"
-  },
-  {
-    "itemId": "MLB5049356861",
-    "productKey": "b0c3a1d30ec3594d",
-    "titleHash": "a4888d1eeb13cd9e",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-26T04:16:37.470Z"
-  },
-  {
-    "itemId": "MLB6534791040",
-    "productKey": "916043731c640a9c",
-    "titleHash": "c7ea6eb57b5776c6",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-26T04:31:39.309Z"
-  },
-  {
     "itemId": "MLB5144522335",
     "productKey": "57b2072c025c23d7",
     "titleHash": "bdcb0168742683bf",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-30T12:16:36.584Z"
+  },
+  {
+    "itemId": "MLB5385932414",
+    "productKey": "33b92cca0add5d8c",
+    "titleHash": "01d5b0171a4da264",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-10-30T12:31:38.181Z"
+  },
+  {
+    "itemId": "MLB6605415878",
+    "productKey": "7c1203a2803ba98c",
+    "titleHash": "c471681ba2f9bd71",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-10-30T12:31:38.181Z"
+  },
+  {
+    "itemId": "MLB6901647228",
+    "productKey": "f46488f5ce61c7a7",
+    "titleHash": "5ac572bbf7b65602",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-30T12:31:38.181Z"
   }
 ]

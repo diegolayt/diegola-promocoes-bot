@@ -1,0 +1,245 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5385932414",
+      "site_id": "MLB",
+      "seller_id": 1168726042,
+      "accepts_mercadopago": true,
+      "price": 324.88,
+      "category_id": "MLB120316",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 20,
+      "original_price": 483.25,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3028052632",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46671029",
+      "title": "Cooktop 4 Bocas Atlas Agile Up Mesa Vidro Mega Chama Bivolt",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_662369-MLA99422748970_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46671029",
+      "id": "MLB5385932414",
+      "sold_quantity": 1300,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB6605415878",
+      "site_id": "MLB",
+      "seller_id": 2037472508,
+      "accepts_mercadopago": true,
+      "price": 169.85,
+      "category_id": "MLB49087",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "fvf_discount_item",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 257.1,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTWlyYXNzb2xUVXhDVUZOQlQwODVOMkU0",
+          "name": "Mirassol"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3902209872",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45892583",
+      "title": "Estante Armário Prateleira de Aço 6 Bandejas Organizador Galvanizada Suporta 150kg 190cm x 90cm x 28cm",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_748325-MLA96103231787_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45892583",
+      "id": "MLB6605415878",
+      "sold_quantity": 600,
+      "rotationCategory": "móveis",
+      "sourceCategoryId": "MLB436380",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB6901647228",
+      "site_id": "MLB",
+      "seller_id": 2082431130,
+      "accepts_mercadopago": true,
+      "price": 189,
+      "category_id": "MLB196208",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JSQTU2M2Yy",
+          "name": "Brasília"
+        },
+        "state": {
+          "id": "TUxCUERJU0wxMWJhYg",
+          "name": "Distrito Federal"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4042277355",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65541449",
+      "title": "Fone de Ouvido JBL Tune 530BT Bluetooth Sem Fio Preto Headphone com Microfone Wireless Estéreo Graves Potentes Confortável",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65541449",
+      "id": "MLB6901647228",
+      "sold_quantity": 1500,
+      "rotationCategory": "som",
+      "sourceCategoryId": "MLB3835",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-30T12:31:38.183Z"
+}
