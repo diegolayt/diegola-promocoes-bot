@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5643054880",
+      "site_id": "MLB",
+      "seller_id": 726591607,
+      "accepts_mercadopago": true,
+      "price": 116.3,
+      "category_id": "MLB117806",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 191282,
+      "original_price": 199.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUmZ0MW4z",
+          "name": "Jardim Cumbica"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3388714440",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54096512",
+      "title": "Árvore De Natal Verde Luxo 150 500 Galho - Pé De Ferro DEKASA",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_640277-MLA116816918193_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54096512",
+      "id": "MLB5643054880",
+      "sold_quantity": 300,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-30T20:16:31.860Z"
+}
