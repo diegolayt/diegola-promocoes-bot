@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4028626831",
-    "productKey": "5a76a4eddf9a8c24",
-    "titleHash": "80b12ed4dcc25fa6",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-26T15:01:38.492Z"
-  },
-  {
-    "itemId": "MLB4328622612",
-    "productKey": "029d0c6fc887611c",
-    "titleHash": "a2174520f63568e4",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-26T15:16:31.189Z"
-  },
-  {
     "itemId": "MLB7160567726",
     "productKey": "2b8d916b04c09f90",
     "titleHash": "e6a0bbceb4a1566b",
@@ -4798,5 +4782,21 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-10-30T20:46:33.373Z"
+  },
+  {
+    "itemId": "MLB3371578831",
+    "productKey": "10b192510125e400",
+    "titleHash": "199e80e775bd5fd7",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-30T21:01:39.275Z"
+  },
+  {
+    "itemId": "MLB7590996778",
+    "productKey": "d91a46db3bbd17c5",
+    "titleHash": "83f5c4bda28b8b90",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-30T21:01:39.275Z"
   }
 ]
