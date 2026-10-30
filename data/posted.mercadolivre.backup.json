@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7813090564",
-    "productKey": "bbbcab83b53caf8d",
-    "titleHash": "f424bc04999eb95b",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-26T11:46:30.688Z"
-  },
-  {
     "itemId": "MLB5452462868",
     "productKey": "9d501d04b619787b",
     "titleHash": "60b43647216b307c",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-30T17:46:30.577Z"
+  },
+  {
+    "itemId": "MLB7068336654",
+    "productKey": "f957ab0d39b2d366",
+    "titleHash": "b1c4d572f20022fd",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-30T18:01:38.985Z"
   }
 ]
