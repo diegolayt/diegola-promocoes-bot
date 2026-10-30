@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7907814460",
+      "site_id": "MLB",
+      "seller_id": 103555118,
+      "accepts_mercadopago": true,
+      "price": 398,
+      "category_id": "MLB5412",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJhcmFzVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Araras"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5743370170",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65036528",
+      "title": "Secador de Cabelo Britânia Motor BLDC 1450W BSD15A",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_797556-MLA112324517294_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65036528",
+      "id": "MLB7907814460",
+      "sold_quantity": 100,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-30T03:01:38.011Z"
+}
