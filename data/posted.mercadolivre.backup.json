@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5420155653",
-    "productKey": "bc04daa8ab567d61",
-    "titleHash": "f8bb3ea79829b117",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-26T07:01:33.747Z"
-  },
-  {
-    "itemId": "MLB5439370761",
-    "productKey": "dab439480dd9b128",
-    "titleHash": "d54de27ef0c2bc22",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-26T07:16:25.870Z"
-  },
-  {
     "itemId": "MLB7776788788",
     "productKey": "d042f8f81af2c69f",
     "titleHash": "f8fc4194f2663a29",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-10-30T15:16:29.868Z"
+  },
+  {
+    "itemId": "MLB4612346505",
+    "productKey": "2de2a2ad26618bb6",
+    "titleHash": "0c4c55cfc2d6f829",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-30T15:31:35.165Z"
+  },
+  {
+    "itemId": "MLB5324538773",
+    "productKey": "2f98261615449fda",
+    "titleHash": "282883ce1da376df",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-30T15:31:35.165Z"
   }
 ]
