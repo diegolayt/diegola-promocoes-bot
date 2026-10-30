@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7123309368",
-    "productKey": "3d704c76f6046ebf",
-    "titleHash": "af51320b836920f2",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-25T17:16:28.962Z"
-  },
-  {
     "itemId": "MLB4590134133",
     "productKey": "9799e9bec4555200",
     "titleHash": "88c008e263ace37e",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-29T23:46:31.869Z"
+  },
+  {
+    "itemId": "MLB7903337540",
+    "productKey": "43b31f7e3b19a97c",
+    "titleHash": "64005a5731e35fc7",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-30T00:01:40.823Z"
   }
 ]
