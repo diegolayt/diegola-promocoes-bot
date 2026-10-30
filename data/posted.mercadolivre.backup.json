@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7631375746",
-    "productKey": "78a556ba509873f4",
-    "titleHash": "2231dac56aa4320f",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-26T13:31:32.312Z"
-  },
-  {
-    "itemId": "MLB5643054880",
-    "productKey": "214fc030cd4ff663",
-    "titleHash": "8f91897b121eb9ff",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-26T14:01:41.556Z"
-  },
-  {
     "itemId": "MLB6582852158",
     "productKey": "d8c7448ef115cc74",
     "titleHash": "41f452cb2e741858",
@@ -4798,5 +4782,21 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-30T19:16:33.108Z"
+  },
+  {
+    "itemId": "MLB4469987063",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-30T19:31:36.788Z"
+  },
+  {
+    "itemId": "MLB4489955434",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-30T19:31:36.788Z"
   }
 ]
