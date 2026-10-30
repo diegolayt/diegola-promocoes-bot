@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7776788788",
-    "productKey": "d042f8f81af2c69f",
-    "titleHash": "f8fc4194f2663a29",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-26T07:46:32.364Z"
-  },
-  {
     "itemId": "MLB7480407364",
     "productKey": "79119e9ef6b0ca26",
     "titleHash": "2b62e2dc003040cf",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-30T15:31:35.165Z"
+  },
+  {
+    "itemId": "MLB4513056610",
+    "productKey": "a6c9a899dbe6cf71",
+    "titleHash": "6733c606fc453816",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-10-30T15:46:32.911Z"
   }
 ]
