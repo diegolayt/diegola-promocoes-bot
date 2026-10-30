@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4168337697",
-    "productKey": "a05a1f4d4480cd6a",
-    "titleHash": "1c7f0f33f8c61e45",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-26T00:01:41.019Z"
-  },
-  {
     "itemId": "MLB7710934832",
     "productKey": "35ee8e3194420329",
     "titleHash": "78a13177cc204ee6",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-10-30T07:16:29.696Z"
+  },
+  {
+    "itemId": "MLB5478041541",
+    "productKey": "308da311e0fa26e0",
+    "titleHash": "d31d3cd00820bae0",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-30T07:31:36.152Z"
   }
 ]
