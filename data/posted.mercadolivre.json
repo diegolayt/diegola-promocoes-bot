@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7711748652",
-    "productKey": "047b8841586368ce",
-    "titleHash": "d0d73644404827f4",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-25T21:46:29.511Z"
-  },
-  {
     "itemId": "MLB4924360629",
     "productKey": "9f78f29633b289d2",
     "titleHash": "8068712b03430b55",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-10-30T05:01:40.264Z"
+  },
+  {
+    "itemId": "MLB6805401578",
+    "productKey": "5030a2650c1c44a7",
+    "titleHash": "4901619f0d6ed5e9",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-30T05:16:29.537Z"
   }
 ]
