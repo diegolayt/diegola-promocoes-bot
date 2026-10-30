@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4469987063",
-    "productKey": "f1255b142391a03a",
-    "titleHash": "7d49c45a00f35da1",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-26T13:16:33.820Z"
-  },
-  {
     "itemId": "MLB7812100718",
     "productKey": "113d9604631d6b0d",
     "titleHash": "02055506bdcf30fc",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-10-30T18:46:35.587Z"
+  },
+  {
+    "itemId": "MLB5496597164",
+    "productKey": "7c16ecc85931f27a",
+    "titleHash": "85ee5166025b545e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-30T19:01:39.411Z"
   }
 ]
