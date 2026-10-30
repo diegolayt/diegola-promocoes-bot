@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4449888791",
-    "productKey": "735f5df2782173d2",
-    "titleHash": "1df3875054cdeb21",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-25T23:31:27.748Z"
-  },
-  {
-    "itemId": "MLB7816881744",
-    "productKey": "6c831738d13143fe",
-    "titleHash": "da1d90777d90d970",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-25T23:31:27.748Z"
-  },
-  {
     "itemId": "MLB7111546408",
     "productKey": "f46488f5ce61c7a7",
     "titleHash": "5ac572bbf7b65602",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-30T06:31:35.881Z"
+  },
+  {
+    "itemId": "MLB7736493970",
+    "productKey": "4e0745be82026c1f",
+    "titleHash": "95ec9b254759a637",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-30T06:46:28.684Z"
+  },
+  {
+    "itemId": "MLB4604327726",
+    "productKey": "110c81276c079aea",
+    "titleHash": "b5237db00758c38a",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-30T06:46:28.685Z"
   }
 ]
