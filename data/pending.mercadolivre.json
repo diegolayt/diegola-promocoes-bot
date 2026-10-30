@@ -1,0 +1,235 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5332948385",
+      "site_id": "MLB",
+      "seller_id": 3593748995,
+      "accepts_mercadopago": true,
+      "price": 119.96,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 299.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjUwNzE",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5396430470",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19721946",
+      "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19721946",
+      "id": "MLB5332948385",
+      "sold_quantity": 1500,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB1813858183",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 59.26,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "first_party",
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "dynamic_standard_price",
+        "standard_price_by_quantity",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4635,
+      "original_price": 74.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU600212750",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB16139512",
+      "title": "Mouse sem fio Logitech M190 com Pilha Inclusa - Vermelho",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_970012-MLA99472260158_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB16139512",
+      "id": "MLB1813858183",
+      "sold_quantity": 1700,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4748231877",
+      "site_id": "MLB",
+      "seller_id": 1070862838,
+      "accepts_mercadopago": true,
+      "price": 141,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUnNqaW95",
+          "name": "Jardim América da Penha"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU4053701951",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19472094",
+      "title": "God Of War Ragnarok Ps4 Físico Standard Edition",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_848079-MLA99558489674_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19472094",
+      "id": "MLB4748231877",
+      "sold_quantity": 500,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-30T14:31:39.774Z"
+}
