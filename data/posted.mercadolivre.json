@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7535840688",
-    "productKey": "5daa8738665d0228",
-    "titleHash": "e65fc7f7467e397e",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-26T03:46:27.400Z"
-  },
-  {
-    "itemId": "MLB7728493708",
-    "productKey": "7c1203a2803ba98c",
-    "titleHash": "c471681ba2f9bd71",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-26T03:46:27.401Z"
-  },
-  {
     "itemId": "MLB3579786447",
     "productKey": "44a3bea7e54cce74",
     "titleHash": "ad265b3e1f03412c",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-30T12:01:37.683Z"
+  },
+  {
+    "itemId": "MLB2147833620",
+    "productKey": "7fdc50d60ebffd96",
+    "titleHash": "f971c499c5d94e8b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-30T12:16:36.584Z"
+  },
+  {
+    "itemId": "MLB5310339963",
+    "productKey": "130db9fd8b248230",
+    "titleHash": "8f472aee6ac699cb",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-30T12:16:36.584Z"
   }
 ]
