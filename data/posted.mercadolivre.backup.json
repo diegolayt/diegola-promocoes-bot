@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4056119063",
-    "productKey": "58408d4b8d164d44",
-    "titleHash": "70b737e1b7d26e39",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-25T21:01:35.024Z"
-  },
-  {
     "itemId": "MLB5454510697",
     "productKey": "f1eff9eced4a288f",
     "titleHash": "cc08d37274c23394",
@@ -4798,5 +4790,13 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-10-30T04:01:36.073Z"
+  },
+  {
+    "itemId": "MLB4487458199",
+    "productKey": "3472274b89b121ef",
+    "titleHash": "e4b1ad14a95f048b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-30T04:16:31.601Z"
   }
 ]
