@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7459652848",
-    "productKey": "308da311e0fa26e0",
-    "titleHash": "d31d3cd00820bae0",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-25T22:16:27.607Z"
-  },
-  {
-    "itemId": "MLB6935838878",
-    "productKey": "d3b21ecf67f9ebf0",
-    "titleHash": "5623184114c32fd2",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-25T22:31:32.493Z"
-  },
-  {
-    "itemId": "MLB7818664570",
-    "productKey": "5fe4d75d19c4b6ae",
-    "titleHash": "208803b964ddf440",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-25T22:31:32.493Z"
-  },
-  {
     "itemId": "MLB5385060919",
     "productKey": "78c76163d845c431",
     "titleHash": "f4a2d665975991c4",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-10-30T05:31:39.015Z"
+  },
+  {
+    "itemId": "MLB3272696011",
+    "productKey": "766e4122d158c9d9",
+    "titleHash": "a99bf3c6493007aa",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-10-30T05:46:26.849Z"
+  },
+  {
+    "itemId": "MLB3876858111",
+    "productKey": "50811f927d6a844d",
+    "titleHash": "a24ae796cebc9cc5",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-30T05:46:26.849Z"
+  },
+  {
+    "itemId": "MLB5159407567",
+    "productKey": "b99a995b906409f9",
+    "titleHash": "7eece60ff3ecbbb7",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-30T05:46:26.849Z"
   }
 ]
