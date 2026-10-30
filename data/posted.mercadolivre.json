@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7710934832",
-    "productKey": "35ee8e3194420329",
-    "titleHash": "78a13177cc204ee6",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-26T00:16:35.178Z"
-  },
-  {
     "itemId": "MLB5701841518",
     "productKey": "e47e31aa7f0f7ddf",
     "titleHash": "753d54b2272a6993",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-30T07:31:36.152Z"
+  },
+  {
+    "itemId": "MLB7757909694",
+    "productKey": "56f0f6fb5de28aa1",
+    "titleHash": "bb0018a3ebb15338",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-30T07:46:27.993Z"
   }
 ]
