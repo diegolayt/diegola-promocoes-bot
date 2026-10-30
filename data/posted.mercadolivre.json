@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4268042659",
-    "productKey": "cddbf545af237f6f",
-    "titleHash": "3bbe4ed40543e0e7",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-26T16:31:36.631Z"
-  },
-  {
-    "itemId": "MLB5877234484",
-    "productKey": "7ff4850888a120db",
-    "titleHash": "9c4f307b8d6d26f0",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-26T17:01:33.607Z"
-  },
-  {
-    "itemId": "MLB5446804455",
-    "productKey": "88b04575a2628994",
-    "titleHash": "9342b0d5015d0472",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-26T17:16:30.770Z"
-  },
-  {
     "itemId": "MLB4287637614",
     "productKey": "69af084751970c16",
     "titleHash": "5d1608fdc1548bcb",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-10-30T23:31:33.903Z"
+  },
+  {
+    "itemId": "MLB5461309698",
+    "productKey": "c500286efe3eb38e",
+    "titleHash": "62725f63d38ae48e",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-30T23:46:33.271Z"
+  },
+  {
+    "itemId": "MLB5249072837",
+    "productKey": "b7cc3760e8097a93",
+    "titleHash": "24e99cad35007dd1",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-30T23:46:33.271Z"
+  },
+  {
+    "itemId": "MLB6074552972",
+    "productKey": "6187b33bbd506a19",
+    "titleHash": "50514a501fdcd1b8",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-30T23:46:33.271Z"
   }
 ]
