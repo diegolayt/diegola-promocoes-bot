@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5255879423",
-    "productKey": "392dfea6c16fe498",
-    "titleHash": "28777b6d8f1e2193",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-26T01:46:09.457Z"
-  },
-  {
     "itemId": "MLB5784138032",
     "productKey": "cabbb447af73cacd",
     "titleHash": "13bc6b92a0023758",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-30T09:46:33.568Z"
+  },
+  {
+    "itemId": "MLB7741387658",
+    "productKey": "ab95e285844c979e",
+    "titleHash": "1da1223a6945e333",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-30T10:01:37.203Z"
   }
 ]
