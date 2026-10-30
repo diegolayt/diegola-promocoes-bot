@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5385060919",
-    "productKey": "78c76163d845c431",
-    "titleHash": "f4a2d665975991c4",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-25T22:46:27.867Z"
-  },
-  {
     "itemId": "MLB5455931003",
     "productKey": "9b9a7eeb47a643f9",
     "titleHash": "3afcd513ed4312ba",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-30T05:46:26.849Z"
+  },
+  {
+    "itemId": "MLB4590134133",
+    "productKey": "9799e9bec4555200",
+    "titleHash": "88c008e263ace37e",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-30T06:01:42.902Z"
   }
 ]
