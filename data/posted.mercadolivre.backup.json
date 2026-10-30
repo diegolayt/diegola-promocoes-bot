@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4275712681",
-    "productKey": "85945f71fa5374ee",
-    "titleHash": "28a257571e9f76c5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-25T18:16:30.593Z"
-  },
-  {
     "itemId": "MLB4803658086",
     "productKey": "10e676d7f3f50b79",
     "titleHash": "67503e7478865213",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-30T01:01:40.492Z"
+  },
+  {
+    "itemId": "MLB6543389722",
+    "productKey": "aaf36aa09306ceb0",
+    "titleHash": "9b601eef34b56ff5",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-30T01:16:32.856Z"
   }
 ]
