@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5131539393",
-    "productKey": "3472274b89b121ef",
-    "titleHash": "e4b1ad14a95f048b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-25T19:46:29.149Z"
-  },
-  {
     "itemId": "MLB6819871490",
     "productKey": "a256261d4df6f661",
     "titleHash": "9df7cd8fcf29ae55",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-10-30T02:16:32.161Z"
+  },
+  {
+    "itemId": "MLB5656974534",
+    "productKey": "0ab7ac472ebadef7",
+    "titleHash": "bb1dc58e46127577",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-10-30T02:31:31.321Z"
   }
 ]
