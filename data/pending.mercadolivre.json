@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4226026855",
+      "site_id": "MLB",
+      "seller_id": 2484719729,
+      "accepts_mercadopago": true,
+      "price": 299,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTnptY2do",
+          "name": "Santa Efigênia"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3434948808",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB40230034",
+      "title": "Câmera Inteligente Resistente a Chuva e Poeira iM7 S Branca Intelbras",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_741082-MLA99876823617_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB40230034",
+      "id": "MLB4226026855",
+      "sold_quantity": 1000,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-30T23:31:33.905Z"
+}
