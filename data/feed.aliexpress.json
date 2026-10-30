@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005009339997865",
+  "loja": "aliexpress",
+  "titulo": "Kit de Placa-Mãe Gamer SOYO X99 Dual CPU com Intel CPU E5 2650 V4*2, RAM 16G (8G*2), LGA2011-3, M.2 NVME para Componentes de Computador Desktop",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4a2a89b8a10b4bcd89739fb8c08efeb80.jpg",
+  "preco": 499.8,
+  "precoDe": 1041.25,
+  "link": "https://s.click.aliexpress.com/e/_c4My3Lt1",
+  "vendidos": 29,
+  "nota": 4.5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-30T11:16:02.453Z"
+ },
+ {
+  "id": "aliexpress-1005008029401159",
+  "loja": "aliexpress",
+  "titulo": "Kit de placa-mãe HUANANZHI X99-F8+TPM2.0 LGA 2011-3 XEON X99 com suporte para ARGB DDR4 ATX",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbff11f5aa1674daba5de892072a32f8cX.jpg",
+  "preco": 871.83,
+  "precoDe": 1245.48,
+  "link": "https://s.click.aliexpress.com/e/_c3s8oant",
+  "vendidos": 25,
+  "nota": 5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-30T11:15:53.581Z"
+ },
+ {
+  "id": "aliexpress-1005007259126664",
+  "loja": "aliexpress",
+  "titulo": "Placa-mãe MOUGOL X99 LGA 2011-3 XEON X99 com Intel E5 2682 V4 e Kit Combo de Memória DDR4 2133MHz 1*8GB (8GB) com M.2 NVMe",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S48fdd21d5b4449c29129e80288deef630.jpg",
+  "preco": 677.99,
+  "precoDe": 1129.98,
+  "link": "https://s.click.aliexpress.com/e/_c2vlYHvh",
+  "vendidos": 142,
+  "nota": 4.6,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-10-30T11:15:42.802Z"
+ },
+ {
+  "id": "aliexpress-1005008691174167",
+  "loja": "aliexpress",
+  "titulo": "Memória RAM de servidor ENVINDA DDR4 8GB/16GB/32GB registrado ECC 2400MHz 2133MHz compatível com placa-mãe X99 - 2133P 2400T 2666V",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbdd2d74eb236426cb473f4190100edd7f.jpg",
+  "preco": 268.58,
+  "precoDe": 537.16,
+  "link": "https://s.click.aliexpress.com/e/_c4MV7QAf",
+  "vendidos": 853,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-10-30T11:15:31.752Z"
+ },
+ {
   "id": "aliexpress-1005009541493855",
   "loja": "aliexpress",
   "titulo": "Placa-Mãe MACHINIST X99 MD8 Dual CPU com Kit Opcional Intel Xeon E5 2680 V4 LGA2011-3 DDR4 32GB RAM Chip C612 para Servidor",
@@ -11305,34 +11361,6 @@
   "publicadoEm": "2026-10-28T08:31:00.880Z"
  },
  {
-  "id": "aliexpress-1005008029401159",
-  "loja": "aliexpress",
-  "titulo": "Kit de placa-mãe HUANANZHI X99-F8+TPM2.0 LGA 2011-3 XEON X99 com suporte para ARGB DDR4 ATX",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbff11f5aa1674daba5de892072a32f8cX.jpg",
-  "preco": 869.99,
-  "precoDe": 1242.84,
-  "link": "https://s.click.aliexpress.com/e/_c3M8EdRv",
-  "vendidos": 24,
-  "nota": 5,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-10-28T08:30:50.900Z"
- },
- {
-  "id": "aliexpress-1005009339997865",
-  "loja": "aliexpress",
-  "titulo": "Kit de Placa-Mãe Gamer SOYO X99 Dual CPU com Intel CPU E5 2650 V4*2, RAM 16G (8G*2), LGA2011-3, M.2 NVME para Componentes de Computador Desktop",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4a2a89b8a10b4bcd89739fb8c08efeb80.jpg",
-  "preco": 498.76,
-  "precoDe": 1039.09,
-  "link": "https://s.click.aliexpress.com/e/_c4CWgFuT",
-  "vendidos": 29,
-  "nota": 4.5,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-10-28T08:30:44.042Z"
- },
- {
   "id": "aliexpress-1005012021235773",
   "loja": "aliexpress",
   "titulo": "Placa de Vídeo JIESHUO GTX 1660 Super 6GB GDDR6 128 Bits PCIe 4.0 x8 8 Pinos para PC Gamer",
@@ -11359,20 +11387,6 @@
   "categoria": "Informática",
   "fonte": "ali_ram",
   "publicadoEm": "2026-10-28T08:15:40.432Z"
- },
- {
-  "id": "aliexpress-1005007259126664",
-  "loja": "aliexpress",
-  "titulo": "Placa-mãe MOUGOL X99 LGA 2011-3 XEON X99 com Intel E5 2682 V4 e Kit Combo de Memória DDR4 2133MHz 1*8GB (8GB) com M.2 NVMe",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S48fdd21d5b4449c29129e80288deef630.jpg",
-  "preco": 676.63,
-  "precoDe": 1127.71,
-  "link": "https://s.click.aliexpress.com/e/_c3UOw46b",
-  "vendidos": 142,
-  "nota": 4.6,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-10-28T08:00:59.483Z"
  },
  {
   "id": "aliexpress-1005009736102805",
@@ -11610,20 +11624,6 @@
   "categoria": "Informática",
   "fonte": "ali_kit_xeon",
   "publicadoEm": "2026-10-28T03:45:50.762Z"
- },
- {
-  "id": "aliexpress-1005008691174167",
-  "loja": "aliexpress",
-  "titulo": "Memória RAM de servidor ENVINDA DDR4 8GB/16GB/32GB registrado ECC 2400MHz 2133MHz compatível com placa-mãe X99 - 2133P 2400T 2666V",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbdd2d74eb236426cb473f4190100edd7f.jpg",
-  "preco": 267.99,
-  "precoDe": 536.01,
-  "link": "https://s.click.aliexpress.com/e/_c2z4TIth",
-  "vendidos": 848,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-10-28T03:30:31.774Z"
  },
  {
   "id": "aliexpress-1005008554245970",
