@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5337409109",
-    "productKey": "4362b55f1faec0c7",
-    "titleHash": "ea3c545e9ecd20f0",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-26T15:16:31.189Z"
-  },
-  {
     "itemId": "MLB3865628605",
     "productKey": "b9ee45f2c4136d0e",
     "titleHash": "ae8d97b0516bc2b5",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-30T21:31:38.535Z"
+  },
+  {
+    "itemId": "MLB7907980106",
+    "productKey": "52e8973cc70fcc11",
+    "titleHash": "8d39b7cca9eea60b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-30T22:01:38.573Z"
   }
 ]
