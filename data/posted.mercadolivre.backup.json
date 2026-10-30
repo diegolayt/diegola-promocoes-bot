@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7480407364",
-    "productKey": "79119e9ef6b0ca26",
-    "titleHash": "2b62e2dc003040cf",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-26T08:01:35.451Z"
-  },
-  {
-    "itemId": "MLB7724214528",
-    "productKey": "b7371e77d704b462",
-    "titleHash": "cc44c47e60e54f0b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-26T08:01:35.451Z"
-  },
-  {
-    "itemId": "MLB5440027897",
-    "productKey": "da452a29d07592e5",
-    "titleHash": "c09bfcf6c8bdf349",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-26T08:01:35.451Z"
-  },
-  {
     "itemId": "MLB3647295180",
     "productKey": "322af4737407e3c8",
     "titleHash": "3168a0af6c08f618",
@@ -4798,5 +4774,29 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-30T15:46:32.911Z"
+  },
+  {
+    "itemId": "MLB7716936568",
+    "productKey": "e8b365816ac55e07",
+    "titleHash": "a903844b96a9cadf",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-30T16:01:41.920Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-30T16:01:41.921Z"
+  },
+  {
+    "itemId": "MLB7821666874",
+    "productKey": "d947d4019fef538b",
+    "titleHash": "0c72f8035670cde0",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-10-30T16:01:41.921Z"
   }
 ]
