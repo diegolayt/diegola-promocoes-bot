@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5386389513",
-    "productKey": "5787c4865854421e",
-    "titleHash": "eea44f97ad5dc00a",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-25T21:01:35.024Z"
-  },
-  {
     "itemId": "MLB7736493970",
     "productKey": "4e0745be82026c1f",
     "titleHash": "95ec9b254759a637",
@@ -4798,5 +4790,13 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-10-30T04:31:32.869Z"
+  },
+  {
+    "itemId": "MLB1774504462",
+    "productKey": "c79e9b30c660ea83",
+    "titleHash": "052984b30e7c5011",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-30T04:46:26.168Z"
   }
 ]
