@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4452425949",
-    "productKey": "4da8403653ad3f9a",
-    "titleHash": "3f644395875c5baa",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-26T04:46:26.902Z"
-  },
-  {
-    "itemId": "MLB3525364839",
-    "productKey": "f8b4730edfd7a1c2",
-    "titleHash": "16dd35246dab9fd4",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-26T05:01:36.580Z"
-  },
-  {
     "itemId": "MLB4106194351",
     "productKey": "35614e530157f7fe",
     "titleHash": "308ca2a85e1b8a8a",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-30T13:01:36.172Z"
+  },
+  {
+    "itemId": "MLB5893156714",
+    "productKey": "57b2072c025c23d7",
+    "titleHash": "bdcb0168742683bf",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-30T13:16:31.452Z"
+  },
+  {
+    "itemId": "MLB5378229206",
+    "productKey": "d9ef4a29fdbb1a3a",
+    "titleHash": "c8f8c2711b445e40",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-10-30T13:16:31.452Z"
   }
 ]
