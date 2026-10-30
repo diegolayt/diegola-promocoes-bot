@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3525364839",
+      "site_id": "MLB",
+      "seller_id": 1375734583,
+      "accepts_mercadopago": true,
+      "price": 299.9,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 180 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "kvs_primary",
+        "fvf_discount_item",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3949,
+      "original_price": 513.39,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXRpYmFpYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Atibaia"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUG9udGUgQWx0YVRWaFlRWFJwWW1GcFlWU",
+          "name": "Ponte Alta"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 180,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "180 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1987138384",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB28530314",
+      "title": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta The Black Tools",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652182-MLA113971474078_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB28530314",
+      "id": "MLB3525364839",
+      "sold_quantity": 1200,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB6210751482",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 369,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "dynamic_standard_price",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 503.27,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3758999841",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB64640503",
+      "title": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_848984-MLA105455701783_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB64640503",
+      "id": "MLB6210751482",
+      "sold_quantity": 700,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-10-30T14:16:30.318Z"
+}
