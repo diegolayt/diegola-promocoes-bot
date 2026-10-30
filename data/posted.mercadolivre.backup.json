@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4803658086",
-    "productKey": "10e676d7f3f50b79",
-    "titleHash": "67503e7478865213",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-25T18:31:31.367Z"
-  },
-  {
-    "itemId": "MLB7480397854",
-    "productKey": "a98d9ad149b55f1d",
-    "titleHash": "03bf29bdde2827a8",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-25T19:01:33.870Z"
-  },
-  {
     "itemId": "MLB6167651244",
     "productKey": "e1fa6b0d5edc06a7",
     "titleHash": "097fe77015697a11",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-10-30T01:16:32.856Z"
+  },
+  {
+    "itemId": "MLB4096694667",
+    "productKey": "f741ca1646ce9e5b",
+    "titleHash": "235e06efad8f596e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-10-30T01:31:36.128Z"
+  },
+  {
+    "itemId": "MLB3646140821",
+    "productKey": "dde57558599f0c7e",
+    "titleHash": "6826a8a21ad891be",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-30T01:31:36.128Z"
   }
 ]
