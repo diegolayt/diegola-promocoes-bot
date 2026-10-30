@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6965750316",
-    "productKey": "c421c7dbedfa4af5",
-    "titleHash": "d1f3d0e27d1791c6",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-26T09:01:40.237Z"
-  },
-  {
-    "itemId": "MLB7619922218",
-    "productKey": "a04a75b9fb4e31ed",
-    "titleHash": "f6dd9b7437ccaa6c",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-26T09:01:40.237Z"
-  },
-  {
-    "itemId": "MLB5383758300",
-    "productKey": "07f1520aa80ab712",
-    "titleHash": "bc8ac8efca670c74",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-26T09:16:28.715Z"
-  },
-  {
-    "itemId": "MLB5188708943",
-    "productKey": "7c16ecc85931f27a",
-    "titleHash": "85ee5166025b545e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-26T09:31:37.537Z"
-  },
-  {
     "itemId": "MLB7822235294",
     "productKey": "f0fc6997fc2876fc",
     "titleHash": "de7e41f495b50d62",
@@ -4798,5 +4766,37 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-10-30T16:31:36.152Z"
+  },
+  {
+    "itemId": "MLB5293442116",
+    "productKey": "9df63c5c74f0032b",
+    "titleHash": "92bd599ba4cf03b1",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-30T16:46:30.059Z"
+  },
+  {
+    "itemId": "MLB5470406599",
+    "productKey": "11e5eb85396537bf",
+    "titleHash": "46a1fc3e8cf8edf8",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-30T16:46:30.059Z"
+  },
+  {
+    "itemId": "MLB5467959677",
+    "productKey": "d042f8f81af2c69f",
+    "titleHash": "f8fc4194f2663a29",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-10-30T16:46:30.059Z"
+  },
+  {
+    "itemId": "MLB3836168789",
+    "productKey": "da452a29d07592e5",
+    "titleHash": "c09bfcf6c8bdf349",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-30T16:46:30.059Z"
   }
 ]
