@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3876858111",
-    "productKey": "50811f927d6a844d",
-    "titleHash": "a24ae796cebc9cc5",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-25T20:31:32.940Z"
-  },
-  {
-    "itemId": "MLB5454237659",
-    "productKey": "b99a995b906409f9",
-    "titleHash": "7eece60ff3ecbbb7",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-25T20:31:32.940Z"
-  },
-  {
     "itemId": "MLB3877977049",
     "productKey": "766e4122d158c9d9",
     "titleHash": "a99bf3c6493007aa",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-10-30T03:31:33.728Z"
+  },
+  {
+    "itemId": "MLB6167651244",
+    "productKey": "e1fa6b0d5edc06a7",
+    "titleHash": "097fe77015697a11",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-30T03:46:26.070Z"
+  },
+  {
+    "itemId": "MLB4803658086",
+    "productKey": "10e676d7f3f50b79",
+    "titleHash": "67503e7478865213",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-10-30T03:46:26.070Z"
   }
 ]
