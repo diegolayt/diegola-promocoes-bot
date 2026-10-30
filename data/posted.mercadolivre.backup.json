@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7567650428",
-    "productKey": "b6d1cedb49d30deb",
-    "titleHash": "51bd3c9452ef23f3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-26T01:31:19.513Z"
-  },
-  {
-    "itemId": "MLB7884649404",
-    "productKey": "bf86873401aafdee",
-    "titleHash": "b95467ee86ed620d",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-26T01:31:19.513Z"
-  },
-  {
     "itemId": "MLB5255879423",
     "productKey": "392dfea6c16fe498",
     "titleHash": "28777b6d8f1e2193",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-10-30T09:16:32.115Z"
+  },
+  {
+    "itemId": "MLB4275712681",
+    "productKey": "ef9c194ebea065c8",
+    "titleHash": "1fa83cf79fa53ee5",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-30T09:46:33.568Z"
+  },
+  {
+    "itemId": "MLB5482406881",
+    "productKey": "9b61d7948d2ea31f",
+    "titleHash": "1dabb65e3b48032c",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-30T09:46:33.568Z"
   }
 ]
