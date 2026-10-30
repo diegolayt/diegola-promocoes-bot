@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5454510697",
-    "productKey": "f1eff9eced4a288f",
-    "titleHash": "cc08d37274c23394",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-25T21:01:35.024Z"
-  },
-  {
     "itemId": "MLB5386389513",
     "productKey": "5787c4865854421e",
     "titleHash": "eea44f97ad5dc00a",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-10-30T04:16:31.601Z"
+  },
+  {
+    "itemId": "MLB7480397854",
+    "productKey": "a98d9ad149b55f1d",
+    "titleHash": "03bf29bdde2827a8",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-10-30T04:31:32.869Z"
   }
 ]
