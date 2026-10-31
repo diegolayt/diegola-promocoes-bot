@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4564236093",
-    "productKey": "41888fb320739b37",
-    "titleHash": "3fc1ad64a62d5f86",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-26T18:01:38.533Z"
-  },
-  {
     "itemId": "MLB7886190956",
     "productKey": "440210c2e74ac2dc",
     "titleHash": "d59da11f1c5be83f",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-31T01:01:41.049Z"
+  },
+  {
+    "itemId": "MLB4944176661",
+    "productKey": "80883df7beff42ef",
+    "titleHash": "3762446253529d02",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-31T01:16:29.488Z"
   }
 ]

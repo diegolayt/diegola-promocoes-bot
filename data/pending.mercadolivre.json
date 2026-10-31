@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4944176661",
+      "site_id": "MLB",
+      "seller_id": 2367784355,
+      "accepts_mercadopago": true,
+      "price": 55.45,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 63.96,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSW5kYWlhdHViYVRVeENVRk5CVDA4NU4yR",
+          "name": "Indaiatuba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVNXNWtZV2xoZEhWaVlWU",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4387709052",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB32387819",
+      "title": "Kit Eudora Siage Cica-Therapy Shampoo 250ml + Máscara 250g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_658406-MLA117339689810_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB32387819",
+      "id": "MLB4944176661",
+      "sold_quantity": 1000,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-10-31T01:16:29.491Z"
+}
