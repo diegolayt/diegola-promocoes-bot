@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4409249557",
+      "site_id": "MLB",
+      "seller_id": 66791381,
+      "accepts_mercadopago": true,
+      "price": 156,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_limited_marketplace_visibility",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBQzMxZjE0",
+          "name": "Caculé"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3720418074",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB42149268",
+      "title": "Deo Parfum Natura Essencial Sentir Masculino 100 mL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_912400-MLA93839509448_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB42149268",
+      "id": "MLB4409249557",
+      "sold_quantity": 1000,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-10-31T00:16:33.580Z"
+}
