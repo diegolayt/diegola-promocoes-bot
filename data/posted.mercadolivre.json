@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4856877715",
-    "productKey": "e192924e8dfd60cb",
-    "titleHash": "f8a0196898f2d977",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-26T23:46:26.053Z"
-  },
-  {
     "itemId": "MLB4576693657",
     "productKey": "ebfca99113baae99",
     "titleHash": "af8ecbf6a7506bdc",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-10-31T06:46:36.562Z"
+  },
+  {
+    "itemId": "MLB4324797875",
+    "productKey": "0a5cc4226c46bc09",
+    "titleHash": "03b0c5869530dd67",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-31T07:16:33.159Z"
   }
 ]
