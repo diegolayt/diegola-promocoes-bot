@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6839176068",
-    "productKey": "25d77da721ba1aad",
-    "titleHash": "58d471363e8a624e",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-27T05:46:30.769Z"
-  },
-  {
-    "itemId": "MLB6976567444",
-    "productKey": "10d83ae90f0fb762",
-    "titleHash": "5467f88d296880b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-27T05:46:30.769Z"
-  },
-  {
     "itemId": "MLB3398173761",
     "productKey": "3ad3274eb28b3f64",
     "titleHash": "a87908bc89d55121",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-31T14:31:38.386Z"
+  },
+  {
+    "itemId": "MLB3853894079",
+    "productKey": "e9dfb607a4680c9c",
+    "titleHash": "404369dcec53deb4",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-10-31T15:16:32.395Z"
+  },
+  {
+    "itemId": "MLB7575219372",
+    "productKey": "b1d10ff79ce494e3",
+    "titleHash": "04de2d517dc85eb3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-10-31T15:16:32.396Z"
   }
 ]
