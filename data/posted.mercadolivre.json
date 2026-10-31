@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4422182615",
-    "productKey": "751a5f5793414e23",
-    "titleHash": "ce21fa4a9d4dde20",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-27T01:46:38.491Z"
-  },
-  {
-    "itemId": "MLB4265708013",
-    "productKey": "3ca801cb1e1d27d3",
-    "titleHash": "9fab40653042a04f",
-    "category": "colchão",
-    "sourceCategoryId": "MLB438928",
-    "reservedAt": "2026-10-27T02:16:30.303Z"
-  },
-  {
     "itemId": "MLB5926653126",
     "productKey": "2f19ab49dff9833e",
     "titleHash": "d401bb0c0418c14b",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-31T09:46:30.043Z"
+  },
+  {
+    "itemId": "MLB5413030478",
+    "productKey": "5e2b747dccadc7ed",
+    "titleHash": "b11c7c849e9f236c",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-10-31T10:01:42.893Z"
+  },
+  {
+    "itemId": "MLB5139668429",
+    "productKey": "f241e77b5c1de994",
+    "titleHash": "01c710c507d2dd58",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-10-31T10:01:42.893Z"
   }
 ]
