@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5166439747",
+      "site_id": "MLB",
+      "seller_id": 1074382560,
+      "accepts_mercadopago": true,
+      "price": 298,
+      "category_id": "MLB120294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 256484,
+      "original_price": 700,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJVkQ1RURD",
+          "name": "Civit II"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5034884299",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25371983",
+      "title": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI/Libras 1400W 300L/h com Aplicador de Detergente e Lança Regulável 220v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_681126-MLA115545993062_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25371983",
+      "id": "MLB5166439747",
+      "sold_quantity": 1800,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-10-31T04:46:35.866Z"
+}
