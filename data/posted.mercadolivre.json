@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4115638623",
-    "productKey": "9681761c11f42242",
-    "titleHash": "c506f453654b8575",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-27T05:16:32.849Z"
-  },
-  {
     "itemId": "MLB7862612132",
     "productKey": "aea2de8a7c5c3d52",
     "titleHash": "fd8a49ba38884f61",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-10-31T13:46:31.311Z"
+  },
+  {
+    "itemId": "MLB7891808792",
+    "productKey": "d4255e0a63e61dfb",
+    "titleHash": "7595d754ee6983fc",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-31T14:16:31.953Z"
   }
 ]
