@@ -1,5 +1,60 @@
 [
  {
+  "id": "aliexpress-1005008248178170",
+  "loja": "aliexpress",
+  "titulo": "Processador CPU AMD Ryzen 5 R5 3600 3,6 GHz 6 núcleos e 12 threads LGA AM4",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7263dffde4584f9db061691737c5ce68T.jpg",
+  "preco": 540.58,
+  "precoDe": 1081.17,
+  "link": "https://s.click.aliexpress.com/e/_c4qR5Z1h",
+  "vendidos": 144,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_processador",
+  "publicadoEm": "2026-10-31T19:45:50.578Z"
+ },
+ {
+  "id": "aliexpress-1005012237249408",
+  "loja": "aliexpress",
+  "titulo": "KinRam 2.5 SATA 3 SSD 128GB 120GB 64GB Disco Rígido 240GB 256GB HDD 256 GB Unidade de Estado Sólido Interna SATA3 para Laptop PC Desktop",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa6780190b22f4f3984cbf3d351faf082n.jpg",
+  "preco": 81.43,
+  "precoDe": 219.5,
+  "link": "https://s.click.aliexpress.com/e/_c4CbkLEj",
+  "vendidos": 606,
+  "nota": 5,
+  "fonte": "ali_em_alta",
+  "publicadoEm": "2026-10-31T19:45:42.774Z"
+ },
+ {
+  "id": "aliexpress-1005007423265783",
+  "loja": "aliexpress",
+  "titulo": "Veineda RX580 8GB 256bit Placas Gráficas DDR5 GPU rx 580 8GB PC Gaming placa de vídeo Placa de vídeo Desktop para jogos AMD Radeon",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se08073c6e8de466f8cf54f0d6b2722f0A.jpg",
+  "preco": 978.6,
+  "precoDe": 1439.16,
+  "link": "https://s.click.aliexpress.com/e/_c4L9Er8J",
+  "vendidos": 24,
+  "nota": 4.5,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video",
+  "publicadoEm": "2026-10-31T19:45:38.038Z"
+ },
+ {
+  "id": "aliexpress-1005012807701458",
+  "loja": "aliexpress",
+  "titulo": "SSD Interno SATA3 Original Novo de 2,5 Polegadas para Laptop e Desktop - Opções de Disco Rígido de 120GB, 240GB e 500GB",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sff62f0bfc1014171b40f0244ec882a0bP.jpg",
+  "preco": 47.33,
+  "precoDe": 53.78,
+  "link": "https://s.click.aliexpress.com/e/_c3YrT5ex",
+  "vendidos": 132,
+  "nota": 4.5,
+  "cupom": "BRUH85NJ5MND",
+  "fonte": "ali_em_alta",
+  "publicadoEm": "2026-10-31T19:45:29.735Z"
+ },
+ {
   "id": "aliexpress-1005006861831275",
   "loja": "aliexpress",
   "titulo": "Processador AMD Ryzen 5 7500F usado R5 7500F 3,7 GHz CPU 6 núcleos 12 threads 5NM L3 = 32M 100-000000597 soquete AM5",
@@ -11314,20 +11369,6 @@
   "publicadoEm": "2026-10-29T16:45:49.654Z"
  },
  {
-  "id": "aliexpress-1005007423265783",
-  "loja": "aliexpress",
-  "titulo": "Veineda RX580 8GB 256bit Placas Gráficas DDR5 GPU rx 580 8GB PC Gaming placa de vídeo Placa de vídeo Desktop para jogos AMD Radeon",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se08073c6e8de466f8cf54f0d6b2722f0A.jpg",
-  "preco": 962.53,
-  "precoDe": 1415.53,
-  "link": "https://s.click.aliexpress.com/e/_c32RLo2r",
-  "vendidos": 24,
-  "nota": 4.5,
-  "categoria": "Informática",
-  "fonte": "ali_placa_video",
-  "publicadoEm": "2026-10-29T16:45:40.009Z"
- },
- {
   "id": "aliexpress-1005007871443623",
   "loja": "aliexpress",
   "titulo": "Memória RAM DDR4 CUSU 16GB (8GB x2) 32GB (16GBx2) DDR4 3200MHz Desktop Udimm 288 pinos Dual Channel 1.2V/1.35V",
@@ -12165,20 +12206,6 @@
   "categoria": "Informática",
   "fonte": "ali_kit_xeon",
   "publicadoEm": "2026-10-29T12:01:11.942Z"
- },
- {
-  "id": "aliexpress-1005008248178170",
-  "loja": "aliexpress",
-  "titulo": "Processador CPU AMD Ryzen 5 R5 3600 3,6 GHz 6 núcleos e 12 threads LGA AM4",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7263dffde4584f9db061691737c5ce68T.jpg",
-  "preco": 528.78,
-  "precoDe": 1057.56,
-  "link": "https://s.click.aliexpress.com/e/_c3RUptXV",
-  "vendidos": 143,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_processador",
-  "publicadoEm": "2026-10-29T12:00:52.940Z"
  },
  {
   "id": "aliexpress-1005009765862337",
@@ -16648,33 +16675,5 @@
   "nota": 4.9,
   "fonte": "ali_envio_brasil",
   "publicadoEm": "2026-10-21T13:15:41.807Z"
- },
- {
-  "id": "aliexpress-1005012284617648",
-  "loja": "aliexpress",
-  "titulo": "Memória RAM Crucial DDR5 de 16 GB, 5600 MHz, para portáteis, formato SODIMM de 262 pinos, compatível com processadores Intel e AMD.",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7efe8f90094e4b84afa06c08d93fd96aj.jpg",
-  "preco": 2941.81,
-  "precoDe": 4202.59,
-  "link": "https://s.click.aliexpress.com/e/_c4U6bceH",
-  "vendidos": 132,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-10-21T09:45:40.403Z"
- },
- {
-  "id": "aliexpress-1005010057463047",
-  "loja": "aliexpress",
-  "titulo": "Envinda memoria ram ddr4 8gb 16gb 2666mhz 3200mhz memória de desktop ddr4 288pin udimm xmp2.0 dissipador de calor para placa-mãe",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sab27720dd96c49c2a615d753a8c554741.jpg",
-  "preco": 329.5,
-  "precoDe": 659.01,
-  "link": "https://s.click.aliexpress.com/e/_c3JZOpxj",
-  "vendidos": 148,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-10-21T09:45:32.820Z"
  }
 ]
