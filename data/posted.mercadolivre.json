@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7868487458",
-    "productKey": "090f9f25713d0f10",
-    "titleHash": "80d4529d802411df",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-27T03:16:28.350Z"
-  },
-  {
     "itemId": "MLB5681538962",
     "productKey": "131979a67ce743d6",
     "titleHash": "120ff11e5757e483",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-10-31T11:16:27.209Z"
+  },
+  {
+    "itemId": "MLB3456025603",
+    "productKey": "c9b5c82a0a206f5a",
+    "titleHash": "26b5424896b8e331",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-10-31T12:01:41.870Z"
   }
 ]
