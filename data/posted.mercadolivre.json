@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3899903308",
-    "productKey": "bb58267a3120520a",
-    "titleHash": "53248af44066218e",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-26T17:31:31.115Z"
-  },
-  {
-    "itemId": "MLB4367472775",
-    "productKey": "fa34295fd787e18c",
-    "titleHash": "190b71ddac76b50c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-26T17:46:29.627Z"
-  },
-  {
     "itemId": "MLB5066929278",
     "productKey": "ecb7686c6cb58745",
     "titleHash": "94d92cdc19e55d62",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-31T00:31:35.836Z"
+  },
+  {
+    "itemId": "MLB5537219564",
+    "productKey": "3ea7879486c7a7da",
+    "titleHash": "792f7c3149657cee",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-10-31T00:46:39.764Z"
+  },
+  {
+    "itemId": "MLB5828139050",
+    "productKey": "2b8d916b04c09f90",
+    "titleHash": "e6a0bbceb4a1566b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-10-31T00:46:39.764Z"
   }
 ]
