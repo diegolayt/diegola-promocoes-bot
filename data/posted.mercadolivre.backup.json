@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7328449336",
-    "productKey": "1984953db221eb12",
-    "titleHash": "0fc65dd07a9749c7",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-27T07:01:44.512Z"
-  },
-  {
     "itemId": "MLB6160701910",
     "productKey": "3e2da9e46fe2ebe9",
     "titleHash": "6d028c2aeaa8addc",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-10-31T17:16:33.964Z"
+  },
+  {
+    "itemId": "MLB3854074921",
+    "productKey": "cb7b3aabd989fc60",
+    "titleHash": "594e45f940a05cc9",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-10-31T17:46:48.750Z"
   }
 ]
