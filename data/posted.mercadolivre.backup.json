@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5107041294",
-    "productKey": "8b67768aeac7e9b2",
-    "titleHash": "ba46e87672d491d0",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-26T22:31:32.789Z"
-  },
-  {
     "itemId": "MLB4492289463",
     "productKey": "85c90da92725b1e2",
     "titleHash": "4cbb797cebb323b7",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-31T05:01:41.551Z"
+  },
+  {
+    "itemId": "MLB3959694605",
+    "productKey": "6988f39a37694d7a",
+    "titleHash": "41baf1c58abeef70",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-10-31T05:16:31.964Z"
   }
 ]
