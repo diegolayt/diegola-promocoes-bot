@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4514233797",
-    "productKey": "b80aa50f4c572f73",
-    "titleHash": "554791d76d1ac8c8",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-27T07:01:44.512Z"
-  },
-  {
     "itemId": "MLB5144549137",
     "productKey": "da0ea8925191f1bb",
     "titleHash": "dce29aec63a146d7",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-31T16:46:42.417Z"
+  },
+  {
+    "itemId": "MLB7870768224",
+    "productKey": "e1fabd0cdd50021d",
+    "titleHash": "45623aa502cf86da",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-10-31T17:01:42.249Z"
   }
 ]
