@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7886190956",
-    "productKey": "440210c2e74ac2dc",
-    "titleHash": "d59da11f1c5be83f",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-26T18:01:38.533Z"
-  },
-  {
     "itemId": "MLB4135320019",
     "productKey": "f4a1dff57ef6fcd5",
     "titleHash": "724a9974f9442ab6",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-10-31T01:16:29.488Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-10-31T01:46:33.645Z"
   }
 ]
