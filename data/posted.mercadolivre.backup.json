@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7618822944",
-    "productKey": "7c5b29917a5a4f0d",
-    "titleHash": "4df93f7a820e0b0f",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-27T06:46:33.337Z"
-  },
-  {
     "itemId": "MLB4514233797",
     "productKey": "b80aa50f4c572f73",
     "titleHash": "554791d76d1ac8c8",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-10-31T16:31:37.170Z"
+  },
+  {
+    "itemId": "MLB4062471003",
+    "productKey": "5bb08fbcedadf8ea",
+    "titleHash": "6f941d1098f301c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-10-31T16:46:42.417Z"
   }
 ]
