@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4894062283",
-    "productKey": "1a3d9e92a2c1f7d6",
-    "titleHash": "addb225ab9b855c4",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-26T21:16:26.309Z"
-  },
-  {
     "itemId": "MLB5393568901",
     "productKey": "bd7ce8c073ce4d78",
     "titleHash": "9c59f5fda561e680",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-10-31T03:31:38.527Z"
+  },
+  {
+    "itemId": "MLB6166313818",
+    "productKey": "f437f44795d481d0",
+    "titleHash": "a8dc62326bfbf119",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-10-31T03:46:31.660Z"
   }
 ]
