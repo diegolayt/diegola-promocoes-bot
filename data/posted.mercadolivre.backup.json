@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5457734771",
-    "productKey": "7b530b4b1ca8b409",
-    "titleHash": "16098ab31f1e5d10",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-27T07:46:33.741Z"
-  },
-  {
     "itemId": "MLB6596438294",
     "productKey": "d76eb3fcd1f5b581",
     "titleHash": "f6a3659df6032b8d",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-10-31T18:01:39.577Z"
+  },
+  {
+    "itemId": "MLB6976567444",
+    "productKey": "10d83ae90f0fb762",
+    "titleHash": "5467f88d296880b9",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-31T18:16:33.868Z"
   }
 ]
