@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6160701910",
-    "productKey": "3e2da9e46fe2ebe9",
-    "titleHash": "6d028c2aeaa8addc",
-    "category": "esporte",
-    "sourceCategoryId": null,
-    "reservedAt": "2026-10-27T07:16:30.220Z"
-  },
-  {
     "itemId": "MLB5457734771",
     "productKey": "7b530b4b1ca8b409",
     "titleHash": "16098ab31f1e5d10",
@@ -4798,5 +4790,13 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-10-31T17:46:48.750Z"
+  },
+  {
+    "itemId": "MLB5304519543",
+    "productKey": "b80aa50f4c572f73",
+    "titleHash": "554791d76d1ac8c8",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-10-31T18:01:39.577Z"
   }
 ]
