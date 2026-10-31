@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4481471232",
-    "productKey": "d3c8122c66a236de",
-    "titleHash": "71ae82c4e85b0492",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-26T19:46:32.704Z"
-  },
-  {
-    "itemId": "MLB7606575730",
-    "productKey": "7ae62e631b538a5f",
-    "titleHash": "72426c512b75ce79",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-26T19:46:32.704Z"
-  },
-  {
     "itemId": "MLB4557926953",
     "productKey": "ef732e4f03e0d21d",
     "titleHash": "d98a4fda2313e216",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-10-31T02:31:35.126Z"
+  },
+  {
+    "itemId": "MLB4454189603",
+    "productKey": "12075010278a8522",
+    "titleHash": "e82cc8ca27f22e47",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-10-31T02:46:28.915Z"
+  },
+  {
+    "itemId": "MLB5478521609",
+    "productKey": "ae11f27802361e7f",
+    "titleHash": "fd53318c6e50c543",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-31T02:46:28.916Z"
   }
 ]
