@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4274565581",
-    "productKey": "c4e6acaed28a56ed",
-    "titleHash": "a8d7d85f80b82e40",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-27T03:16:28.350Z"
-  },
-  {
     "itemId": "MLB7868487458",
     "productKey": "090f9f25713d0f10",
     "titleHash": "80d4529d802411df",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-10-31T10:46:32.546Z"
+  },
+  {
+    "itemId": "MLB7631375746",
+    "productKey": "78a556ba509873f4",
+    "titleHash": "2231dac56aa4320f",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-10-31T11:16:27.209Z"
   }
 ]
