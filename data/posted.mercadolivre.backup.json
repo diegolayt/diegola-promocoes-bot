@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6596438294",
-    "productKey": "d76eb3fcd1f5b581",
-    "titleHash": "f6a3659df6032b8d",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-27T09:01:35.688Z"
-  },
-  {
-    "itemId": "MLB4228627923",
-    "productKey": "7d53aa2db963393e",
-    "titleHash": "2928f0c82fdfef41",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-27T09:16:29.837Z"
-  },
-  {
     "itemId": "MLB5347909289",
     "productKey": "cc30dbbddccab7f9",
     "titleHash": "31b02c7b29c66bc6",
@@ -4798,5 +4782,21 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-10-31T18:16:33.868Z"
+  },
+  {
+    "itemId": "MLB7613817060",
+    "productKey": "a69d636355916b46",
+    "titleHash": "23b7e30efd25845a",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-31T18:31:40.154Z"
+  },
+  {
+    "itemId": "MLB6976015074",
+    "productKey": "820a7bf3129a48cf",
+    "titleHash": "82c17092d0642575",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-10-31T18:31:40.154Z"
   }
 ]
