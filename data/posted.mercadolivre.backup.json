@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4327418307",
-    "productKey": "4b5d7211d804f914",
-    "titleHash": "e85ef4a734ec8242",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-27T03:46:38.112Z"
-  },
-  {
     "itemId": "MLB4046267101",
     "productKey": "94515ec2fc819af0",
     "titleHash": "2602411dd1f9a94a",
@@ -4798,5 +4790,13 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-10-31T12:16:32.233Z"
+  },
+  {
+    "itemId": "MLB5485044093",
+    "productKey": "bc05e3f7f280662b",
+    "titleHash": "b5aa74d84ac5676f",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-10-31T12:31:35.259Z"
   }
 ]
