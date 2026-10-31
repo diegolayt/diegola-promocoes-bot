@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3854139077",
-    "productKey": "6d324a2b20a693bf",
-    "titleHash": "212cf65596240c22",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-27T10:46:28.813Z"
-  },
-  {
     "itemId": "MLB5330329614",
     "productKey": "4e4299498a6eff4f",
     "titleHash": "625bef07c17e451e",
@@ -4798,5 +4790,13 @@
     "category": "esporte",
     "sourceCategoryId": null,
     "reservedAt": "2026-10-31T20:00:47.628Z"
+  },
+  {
+    "itemId": "MLB3939720011",
+    "productKey": "aea2de8a7c5c3d52",
+    "titleHash": "fd8a49ba38884f61",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-10-31T21:01:37.271Z"
   }
 ]
