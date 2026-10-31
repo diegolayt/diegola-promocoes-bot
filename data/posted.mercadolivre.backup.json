@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6954342220",
-    "productKey": "01626bf5a4615728",
-    "titleHash": "a64225f5f9af9c7c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-26T20:46:30.550Z"
-  },
-  {
-    "itemId": "MLB5171642043",
-    "productKey": "0148ce1e4ac0e87b",
-    "titleHash": "f85124cedc6e4bf0",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-26T21:01:41.319Z"
-  },
-  {
     "itemId": "MLB2605646639",
     "productKey": "1010a845202376db",
     "titleHash": "ae3d9f5c10f2e3eb",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-10-31T03:01:44.034Z"
+  },
+  {
+    "itemId": "MLB7691246548",
+    "productKey": "974baaa0c5dd7adf",
+    "titleHash": "8d32441d6270c143",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-10-31T03:16:32.341Z"
+  },
+  {
+    "itemId": "MLB7914211350",
+    "productKey": "440210c2e74ac2dc",
+    "titleHash": "d59da11f1c5be83f",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-10-31T03:16:32.341Z"
   }
 ]

@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7691246548",
+      "site_id": "MLB",
+      "seller_id": 3031401848,
+      "accepts_mercadopago": true,
+      "price": 346,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUmliZWlyw6NvIFByZXRvVFV4Q1VGTkJUM",
+          "name": "Ribeirão Preto"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5287949180",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB66787599",
+      "title": "Air Fryer Oven Philco 16L Digital com Visor PAF16C",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_825323-MLA120068143527_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB66787599",
+      "id": "MLB7691246548",
+      "sold_quantity": 1800,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7914211350",
+      "site_id": "MLB",
+      "seller_id": 145914744,
+      "accepts_mercadopago": true,
+      "price": 967.45,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDM3ODc",
+          "name": "Vila Nova Conceição"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5388944567",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB80062931",
+      "title": "Table - Hotwav A17 Pro Max 4gb+12gb Ram 256gb Android 15 Prateado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_600537-MLA119924296745_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB80062931",
+      "id": "MLB7914211350",
+      "sold_quantity": 200,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-10-31T03:16:32.343Z"
+}
