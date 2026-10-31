@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4537550283",
-    "productKey": "d4255e0a63e61dfb",
-    "titleHash": "7595d754ee6983fc",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-27T04:46:29.222Z"
-  },
-  {
     "itemId": "MLB4115638623",
     "productKey": "9681761c11f42242",
     "titleHash": "c506f453654b8575",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-10-31T13:31:37.832Z"
+  },
+  {
+    "itemId": "MLB5281065549",
+    "productKey": "7860af033b3fd150",
+    "titleHash": "6ca13a59e47a1cb7",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-10-31T13:46:31.311Z"
   }
 ]
