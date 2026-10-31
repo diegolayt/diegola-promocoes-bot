@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5343171879",
-    "productKey": "032e9611bb4a2b77",
-    "titleHash": "f706aff9778048f9",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-27T12:46:21.397Z"
-  },
-  {
     "itemId": "MLB5094439754",
     "productKey": "9902a2031facc93d",
     "titleHash": "3532c31d92333d51",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-10-31T23:01:39.143Z"
+  },
+  {
+    "itemId": "MLB7902487202",
+    "productKey": "35ee8e3194420329",
+    "titleHash": "78a13177cc204ee6",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-10-31T23:16:29.868Z"
   }
 ]
