@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5144549137",
-    "productKey": "da0ea8925191f1bb",
-    "titleHash": "dce29aec63a146d7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-27T07:01:44.512Z"
-  },
-  {
     "itemId": "MLB7328449336",
     "productKey": "1984953db221eb12",
     "titleHash": "0fc65dd07a9749c7",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-10-31T17:01:42.249Z"
+  },
+  {
+    "itemId": "MLB6279477378",
+    "productKey": "8b67768aeac7e9b2",
+    "titleHash": "ba46e87672d491d0",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-10-31T17:16:33.964Z"
   }
 ]
