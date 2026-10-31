@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-26T17:31:31.114Z"
-  },
-  {
     "itemId": "MLB6807319060",
     "productKey": "da8b0f32abc30663",
     "titleHash": "f0e541059e0ba400",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-10-30T23:46:33.271Z"
+  },
+  {
+    "itemId": "MLB4028626831",
+    "productKey": "5a76a4eddf9a8c24",
+    "titleHash": "80b12ed4dcc25fa6",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-10-31T00:01:39.618Z"
   }
 ]
