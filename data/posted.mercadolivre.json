@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4557926953",
-    "productKey": "ef732e4f03e0d21d",
-    "titleHash": "d98a4fda2313e216",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-26T19:46:32.704Z"
-  },
-  {
-    "itemId": "MLB7531233584",
-    "productKey": "f0c5518ea0cabfba",
-    "titleHash": "b801230ddad01ff0",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-26T19:46:32.704Z"
-  },
-  {
     "itemId": "MLB6954342220",
     "productKey": "01626bf5a4615728",
     "titleHash": "a64225f5f9af9c7c",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-10-31T02:46:28.916Z"
+  },
+  {
+    "itemId": "MLB6807319060",
+    "productKey": "da8b0f32abc30663",
+    "titleHash": "f0e541059e0ba400",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-10-31T03:01:44.034Z"
+  },
+  {
+    "itemId": "MLB4297877803",
+    "productKey": "66aad9dacbb2cc0c",
+    "titleHash": "9d1eae52c8bb9416",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-10-31T03:01:44.034Z"
   }
 ]
