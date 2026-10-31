@@ -125,30 +125,6 @@
   "link": "https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"
  },
  {
-  "loja": "shopee",
-  "codigo": "0UTUBR050FF",
-  "descricao": "R$5 OFF",
-  "regra": "Compras acima de R$ 25 · válido até 30/10 ou enquanto durar",
-  "precoMinimo": 25,
-  "soLista": false,
-  "fim": "2026-10-31T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-30T11:34:51.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "ULT1M0D0M3S",
-  "descricao": "R$10 OFF",
-  "regra": "Compras acima de R$ 25 · válido até 30/10 ou enquanto durar",
-  "precoMinimo": 25,
-  "soLista": false,
-  "fim": "2026-10-31T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-10-30T11:34:51.000Z"
- },
- {
   "loja": "aliexpress",
   "codigo": "TD98PDM",
   "descricao": "R$ 384,17 OFF em Projetores no brasil Projetor ThundeaL 3000",
@@ -157,17 +133,6 @@
   "soLista": true,
   "fim": "2026-11-01T02:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c2xkY4OV",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
-  "codigo": "CRIANCAS",
-  "descricao": "R$ 137,20 OFF em Projetor Mini Smart para Home Theater",
-  "regra": "Compras acima de R$ 493,93 · vale no produto do link · até 30/10",
-  "precoMinimo": 493.93,
-  "soLista": true,
-  "fim": "2026-10-31T02:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c3CBt33F",
   "auto": "aliexpress-hot"
  },
  {
@@ -249,13 +214,24 @@
  },
  {
   "loja": "aliexpress",
-  "codigo": "KR0864",
-  "descricao": "R$ 16,46 OFF em Webcam UGREEN 4K FHD 1080P 8MP",
-  "regra": "vale no produto do link · até 30/10",
+  "codigo": "2P9999",
+  "descricao": "R$ 16,46 OFF em UGREEN Max5c Fones de ouvido sem",
+  "regra": "vale no produto do link · até 11/11",
   "precoMinimo": 16.52,
   "soLista": true,
-  "fim": "2026-10-31T02:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c3QmX1uN",
+  "fim": "2026-11-12T01:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3m6CYHb",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "ILOCTRH",
+  "descricao": "R$ 16,46 OFF em Li-Ning RED HARE 9 Tênis de",
+  "regra": "vale no produto do link · até 31/10",
+  "precoMinimo": 16.52,
+  "soLista": true,
+  "fim": "2026-11-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c38Hrmwz",
   "auto": "aliexpress-hot"
  }
 ]
