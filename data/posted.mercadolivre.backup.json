@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4492289463",
-    "productKey": "85c90da92725b1e2",
-    "titleHash": "4cbb797cebb323b7",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-26T23:16:28.926Z"
-  },
-  {
     "itemId": "MLB5097723592",
     "productKey": "0314016684b00af3",
     "titleHash": "f150802ac716f3c0",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-10-31T05:16:31.964Z"
+  },
+  {
+    "itemId": "MLB4287637614",
+    "productKey": "69af084751970c16",
+    "titleHash": "5d1608fdc1548bcb",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-10-31T05:46:29.987Z"
   }
 ]
