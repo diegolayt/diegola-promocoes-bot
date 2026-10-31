@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4135320019",
-    "productKey": "f4a1dff57ef6fcd5",
-    "titleHash": "724a9974f9442ab6",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-26T18:16:29.735Z"
-  },
-  {
     "itemId": "MLB6166313818",
     "productKey": "f437f44795d481d0",
     "titleHash": "a8dc62326bfbf119",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-10-31T01:46:33.645Z"
+  },
+  {
+    "itemId": "MLB7246986836",
+    "productKey": "7ff4850888a120db",
+    "titleHash": "9c4f307b8d6d26f0",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-10-31T02:01:40.188Z"
   }
 ]
