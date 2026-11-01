@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6611494338",
-    "productKey": "22c1ab81d170e902",
-    "titleHash": "59b69a48e3f7ae93",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-28T01:16:30.978Z"
-  },
-  {
     "itemId": "MLB5316088743",
     "productKey": "429e344a68635eec",
     "titleHash": "0d6a97bbb0f3ef1c",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-01T12:31:37.105Z"
+  },
+  {
+    "itemId": "MLB7253496932",
+    "productKey": "8966f7090ac1116d",
+    "titleHash": "0257198e68c33f08",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-01T12:46:29.131Z"
   }
 ]
