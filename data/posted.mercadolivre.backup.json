@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7894116412",
-    "productKey": "7cea41114e64d915",
-    "titleHash": "71c36229283c5f66",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-27T22:16:30.695Z"
-  },
-  {
-    "itemId": "MLB7158521510",
-    "productKey": "28d216f74a70b104",
-    "titleHash": "fd6cf3f85ccd5ee4",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-27T22:31:29.681Z"
-  },
-  {
     "itemId": "MLB3616725881",
     "productKey": "2b88dc516422dcc0",
     "titleHash": "d6b5f6fe6c4f8314",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-01T09:16:33.546Z"
+  },
+  {
+    "itemId": "MLB7187016886",
+    "productKey": "3235a086bca26017",
+    "titleHash": "7a1c23c1bdf33031",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-01T09:46:30.947Z"
+  },
+  {
+    "itemId": "MLB7735393274",
+    "productKey": "da58292d29d880a5",
+    "titleHash": "424447b14f32b968",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-01T09:46:30.947Z"
   }
 ]
