@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4032940207",
-    "productKey": "e45e7ce2520ec55f",
-    "titleHash": "58d4fc2df4ea9377",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-28T03:46:29.167Z"
-  },
-  {
-    "itemId": "MLB5451861382",
-    "productKey": "587d20e08660bde7",
-    "titleHash": "990a1ea0e342ba85",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-28T04:01:38.502Z"
-  },
-  {
     "itemId": "MLB5814374120",
     "productKey": "2e453f95c6f33ca8",
     "titleHash": "14a43f99ec759431",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-01T15:16:35.147Z"
+  },
+  {
+    "itemId": "MLB5575158922",
+    "productKey": "470a6f69c29f9087",
+    "titleHash": "128e67c8b561c343",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-01T15:31:41.178Z"
+  },
+  {
+    "itemId": "MLB4079863189",
+    "productKey": "0c719e2b6f08c62f",
+    "titleHash": "b98e10c788d858aa",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-01T15:31:41.179Z"
   }
 ]
