@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB1630337787",
-    "productKey": "d22fa65cdb3c5323",
-    "titleHash": "61315aeef9dd29e4",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-28T04:16:28.942Z"
-  },
-  {
-    "itemId": "MLB7748851048",
-    "productKey": "f3fb74dd2c9122ba",
-    "titleHash": "e9e5a5f7f2f44cb2",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-28T04:16:28.942Z"
-  },
-  {
-    "itemId": "MLB5447220018",
-    "productKey": "9f620b521d231202",
-    "titleHash": "8ebbebef839099e6",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-28T04:31:31.934Z"
-  },
-  {
     "itemId": "MLB4508032431",
     "productKey": "3a80315e87a71f5f",
     "titleHash": "d67494a9c8764546",
@@ -4798,5 +4774,29 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-01T15:46:35.287Z"
+  },
+  {
+    "itemId": "MLB5344098115",
+    "productKey": "566cd97ce7c0cedd",
+    "titleHash": "4b6513dfe9fb0f5e",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-01T16:01:35.923Z"
+  },
+  {
+    "itemId": "MLB3269837602",
+    "productKey": "eb39781cba8c5ba7",
+    "titleHash": "9e968352a8f3a15c",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-01T16:01:35.923Z"
+  },
+  {
+    "itemId": "MLB5739859240",
+    "productKey": "8906c9c9254a9621",
+    "titleHash": "e774f2697c40f7fa",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-01T16:01:35.923Z"
   }
 ]
