@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5483672405",
+      "site_id": "MLB",
+      "seller_id": 554856564,
+      "accepts_mercadopago": true,
+      "price": 479.9,
+      "category_id": "MLB44085",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTW9naSBHdWHDp3VUVXhDVUZOQlQwODVOM",
+          "name": "Mogi Guaçu"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIEFsdG8gRG9zIFlwZXNUVmhZV",
+          "name": "Jardim Alto Dos Ypes"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5744782052",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB70448099",
+      "title": "Prancha Nano Titanium Baby Liss 450ºf 110v Cor Vetro Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_804659-MLA112396732733_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB70448099",
+      "id": "MLB5483672405",
+      "sold_quantity": 600,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-01T06:31:42.750Z"
+}
