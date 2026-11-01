@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7187016886",
-    "productKey": "3235a086bca26017",
-    "titleHash": "7a1c23c1bdf33031",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-27T21:16:32.967Z"
-  },
-  {
     "itemId": "MLB5739859240",
     "productKey": "8906c9c9254a9621",
     "titleHash": "e774f2697c40f7fa",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-01T08:16:30.110Z"
+  },
+  {
+    "itemId": "MLB6162191874",
+    "productKey": "0546c9a98b460ab9",
+    "titleHash": "8f0a8a5ee541baba",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-01T08:31:31.121Z"
   }
 ]
