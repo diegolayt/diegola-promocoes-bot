@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7861593856",
-    "productKey": "7335295731f87564",
-    "titleHash": "8f2edb66e9dc7cb0",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-28T05:31:32.123Z"
-  },
-  {
-    "itemId": "MLB6829392762",
-    "productKey": "cf31f194e5125ea5",
-    "titleHash": "53f465883ca4f30e",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-28T05:31:32.123Z"
-  },
-  {
-    "itemId": "MLB6937781700",
-    "productKey": "00737ae5c6b1088e",
-    "titleHash": "98ce55219da388e1",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-28T05:31:32.123Z"
-  },
-  {
     "itemId": "MLB7161299304",
     "productKey": "0f0fdb96cb6446aa",
     "titleHash": "1670416b92bd28cb",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-01T17:01:41.017Z"
+  },
+  {
+    "itemId": "MLB2723576006",
+    "productKey": "f12b8f9059093eb3",
+    "titleHash": "3b9b046d8ae33d94",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-01T17:16:31.859Z"
+  },
+  {
+    "itemId": "MLB7791936566",
+    "productKey": "2f868339db1e586d",
+    "titleHash": "89a9c74f588cbf1b",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-01T17:16:31.859Z"
+  },
+  {
+    "itemId": "MLB7567527640",
+    "productKey": "a43e7b064f1a955f",
+    "titleHash": "add251f9ccfb05c7",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-01T17:16:31.859Z"
   }
 ]
