@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5021728359",
-    "productKey": "1317d74e4994bd84",
-    "titleHash": "4542ae1c80109eb7",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-27T22:01:35.190Z"
-  },
-  {
-    "itemId": "MLB5341102711",
-    "productKey": "195addb9e0cb3945",
-    "titleHash": "0cb54f54b1ae9faf",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-27T22:16:30.695Z"
-  },
-  {
     "itemId": "MLB7894116412",
     "productKey": "7cea41114e64d915",
     "titleHash": "71c36229283c5f66",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-01T09:01:41.360Z"
+  },
+  {
+    "itemId": "MLB4104379865",
+    "productKey": "bcc383aebf7b4b19",
+    "titleHash": "7497e9df0d7cbdd8",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-01T09:16:33.545Z"
+  },
+  {
+    "itemId": "MLB5190840933",
+    "productKey": "2cc42a1d0fca9ec4",
+    "titleHash": "46fa7191a4c0451c",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-01T09:16:33.546Z"
   }
 ]
