@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4530343781",
-    "productKey": "3a407f63317b8338",
-    "titleHash": "9ad94d4ed4f3c9b9",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-27T19:01:39.693Z"
-  },
-  {
     "itemId": "MLB4949755723",
     "productKey": "1d07b11a945328b6",
     "titleHash": "ff18fddfa72ad4c4",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-01T05:01:40.151Z"
+  },
+  {
+    "itemId": "MLB6824615010",
+    "productKey": "2d8734ccffb4a921",
+    "titleHash": "a196dddf1f684384",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-01T05:16:34.054Z"
   }
 ]
