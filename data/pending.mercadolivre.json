@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4530343781",
+      "site_id": "MLB",
+      "seller_id": 2001303081,
+      "accepts_mercadopago": true,
+      "price": 179.9,
+      "category_id": "MLB271178",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 279522,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 17.7
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Barueri"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3764477913",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77186530",
+      "title": "Maleta 48 Carrinhos + Tapete Pista 40x60 Estacionamento Brinquedo Infantil Presente Criança - Super Brasileirinho",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_634024-MLA116065268517_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77186530",
+      "id": "MLB4530343781",
+      "sold_quantity": 400,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-01T07:01:37.590Z"
+}

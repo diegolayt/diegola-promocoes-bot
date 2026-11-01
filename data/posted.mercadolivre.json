@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4434021128",
-    "productKey": "c5543c055f84df02",
-    "titleHash": "83b9bfbc76707c67",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-27T20:00:55.330Z"
-  },
-  {
     "itemId": "MLB6162191874",
     "productKey": "0546c9a98b460ab9",
     "titleHash": "8f0a8a5ee541baba",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-01T06:46:31.129Z"
+  },
+  {
+    "itemId": "MLB4530343781",
+    "productKey": "3a407f63317b8338",
+    "titleHash": "9ad94d4ed4f3c9b9",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-01T07:01:37.588Z"
   }
 ]
