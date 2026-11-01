@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4571210341",
-    "productKey": "163a58eb61a4412f",
-    "titleHash": "bbadc9cd22e0fc10",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-27T19:16:30.189Z"
-  },
-  {
     "itemId": "MLB5239199977",
     "productKey": "d6a6e9c334751e4a",
     "titleHash": "e444ae5933e34920",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-01T05:46:34.393Z"
+  },
+  {
+    "itemId": "MLB6475082992",
+    "productKey": "e026eda0eb29f423",
+    "titleHash": "541b9f08c97d8a4b",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-01T06:16:32.875Z"
   }
 ]
