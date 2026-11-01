@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7895526858",
-    "productKey": "a2a3edc1809c6c6b",
-    "titleHash": "b14b8b4878c17f55",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-27T18:46:32.331Z"
-  },
-  {
     "itemId": "MLB4530343781",
     "productKey": "3a407f63317b8338",
     "titleHash": "9ad94d4ed4f3c9b9",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-01T04:46:32.412Z"
+  },
+  {
+    "itemId": "MLB7753680856",
+    "productKey": "778552fa92898be8",
+    "titleHash": "be2e33eea945a4a3",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-01T05:01:40.151Z"
   }
 ]
