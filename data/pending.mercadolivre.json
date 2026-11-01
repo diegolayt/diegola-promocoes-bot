@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7612037006",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 1844,
+      "category_id": "MLB73046",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 458,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 46.839168
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3167955322",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19620531",
+      "title": "Lava-Louças Brastemp 8 Serviços Inox - BLF08BS",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_665342-MLA99986229919_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19620531",
+      "id": "MLB7612037006",
+      "sold_quantity": 1300,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB5492341773",
+      "site_id": "MLB",
+      "seller_id": 311190100,
+      "accepts_mercadopago": true,
+      "price": 141.67,
+      "category_id": "MLB122102",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping",
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYR3VhcmliYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Guariba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5715516927",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB40182325",
+      "title": "Whey Protein Concentrado 1kg Morango Dark Lab",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_927988-MLA99469885866_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB40182325",
+      "id": "MLB5492341773",
+      "sold_quantity": 800,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-01T21:31:34.060Z"
+}
