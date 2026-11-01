@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6654338660",
-    "productKey": "bd7e186faebad4c2",
-    "titleHash": "4f66bd4101d296ee",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-27T16:01:40.859Z"
-  },
-  {
-    "itemId": "MLB6594019728",
-    "productKey": "6224c2fc562ad959",
-    "titleHash": "c049057de7dc1d9e",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-27T16:16:31.980Z"
-  },
-  {
-    "itemId": "MLB4835180937",
-    "productKey": "abf8d06c6cfb1b90",
-    "titleHash": "96e7f5a9a79b44c8",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-27T16:16:31.980Z"
-  },
-  {
     "itemId": "MLB4177990085",
     "productKey": "8d66b17088084e62",
     "titleHash": "72f025de9f29e22e",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-01T04:01:41.805Z"
+  },
+  {
+    "itemId": "MLB7586569004",
+    "productKey": "0ff33a7f933d771f",
+    "titleHash": "1ac364f778f5f627",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-01T04:16:30.883Z"
+  },
+  {
+    "itemId": "MLB4459673321",
+    "productKey": "810f54caef449f8a",
+    "titleHash": "91f8268a7fe15f7e",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-01T04:16:30.883Z"
+  },
+  {
+    "itemId": "MLB4590140133",
+    "productKey": "2e191208d3232e08",
+    "titleHash": "2c7a03e25c50a18f",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-01T04:16:30.883Z"
   }
 ]
