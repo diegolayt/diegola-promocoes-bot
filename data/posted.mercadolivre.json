@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3340533709",
-    "productKey": "99ffce333c6f5953",
-    "titleHash": "10199bd0de5afba6",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-28T13:01:43.512Z"
-  },
-  {
-    "itemId": "MLB7845631806",
-    "productKey": "04c56c962164b38f",
-    "titleHash": "141edb12252b5fbc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-28T13:01:43.512Z"
-  },
-  {
-    "itemId": "MLB5305626539",
-    "productKey": "7f07ce0b4993cace",
-    "titleHash": "bdfe8c72bf6ec63a",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-28T13:16:25.777Z"
-  },
-  {
     "itemId": "MLB2744766460",
     "productKey": "a8251bc98e70126a",
     "titleHash": "3d01cd9c39438f12",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-01T23:31:34.586Z"
+  },
+  {
+    "itemId": "MLB4632320474",
+    "productKey": "5b2763cb9e9d95a2",
+    "titleHash": "4aefd666fba0af2c",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-01T23:46:32.118Z"
+  },
+  {
+    "itemId": "MLB6073502876",
+    "productKey": "9badbfbd76dd1c0a",
+    "titleHash": "1ccdd80b94cd74ff",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-01T23:46:32.118Z"
+  },
+  {
+    "itemId": "MLB7898002038",
+    "productKey": "abdd2f1282b8b459",
+    "titleHash": "0a380cdcd01571d6",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-01T23:46:32.118Z"
   }
 ]
