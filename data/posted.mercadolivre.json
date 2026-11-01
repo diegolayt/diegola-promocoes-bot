@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4373389101",
-    "productKey": "b8e4e2607ac65999",
-    "titleHash": "7f7000b3d93f8fb7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-27T22:31:29.681Z"
-  },
-  {
     "itemId": "MLB3797364569",
     "productKey": "96983e4185e3eef7",
     "titleHash": "f469ce3c49a26e01",
@@ -4798,5 +4790,13 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-11-01T10:01:35.994Z"
+  },
+  {
+    "itemId": "MLB7885058938",
+    "productKey": "d4f1c2d7935fb51a",
+    "titleHash": "c43f9a10d7dcc8fa",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-01T10:16:32.970Z"
   }
 ]
