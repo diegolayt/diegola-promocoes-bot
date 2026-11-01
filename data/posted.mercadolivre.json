@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5400923188",
-    "productKey": "8b22be28b8f4d3bd",
-    "titleHash": "7866188a6d14a530",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-28T00:46:23.862Z"
-  },
-  {
-    "itemId": "MLB7458060038",
-    "productKey": "8be3319e521559cd",
-    "titleHash": "23cf86b709b0138e",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-28T00:46:23.862Z"
-  },
-  {
-    "itemId": "MLB4167137159",
-    "productKey": "ed3df50a2cbf5f8f",
-    "titleHash": "b659e2c201fc5062",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-28T00:46:23.862Z"
-  },
-  {
     "itemId": "MLB3783973037",
     "productKey": "79904641cb78c39e",
     "titleHash": "c6c910964afbee15",
@@ -4798,5 +4774,29 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-01T11:46:34.810Z"
+  },
+  {
+    "itemId": "MLB5424041486",
+    "productKey": "a69c89af46f539e7",
+    "titleHash": "47a732733919029b",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-01T12:01:38.292Z"
+  },
+  {
+    "itemId": "MLB6759046416",
+    "productKey": "cc7b6f9694e26e07",
+    "titleHash": "28260572dc6461e9",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-01T12:01:38.292Z"
+  },
+  {
+    "itemId": "MLB5343513211",
+    "productKey": "7a53461dd73ba0e6",
+    "titleHash": "3da6186ec2d43ed9",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-01T12:01:38.292Z"
   }
 ]
