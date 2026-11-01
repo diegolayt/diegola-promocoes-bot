@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005007247636934",
+  "loja": "aliexpress",
+  "titulo": "Conjunto de Placa-Mãe QIYIDA X99 LGA 2011-3 com Processador Xeon E5 2650 V4 e Memória RAM DDR4 ECC de 16GB, SSD NVME M.2, Chip X99 C612",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S69d32dccef2c480b8b0e8f8ab1fc7468Y.jpg",
+  "preco": 306.99,
+  "precoDe": 787.15,
+  "link": "https://s.click.aliexpress.com/e/_c3iQmNa3",
+  "vendidos": 32,
+  "nota": 5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-01T04:45:51.047Z"
+ },
+ {
+  "id": "aliexpress-1005003696808113",
+  "loja": "aliexpress",
+  "titulo": "Memória RAM DDR4 Netac para Notebook, 4GB, 8GB, 16GB, Sodimm DDR4 3200MHz, 2666MHz, 260Pin, RAM para Laptop 1.2V JEDEC",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4832b539e5fc4209b84dce3f7c3dbb09j.jpg",
+  "preco": 252.7,
+  "precoDe": 407.59,
+  "link": "https://s.click.aliexpress.com/e/_c3o4eUUL",
+  "vendidos": 52,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ram_notebook",
+  "publicadoEm": "2026-11-01T04:45:41.708Z"
+ },
+ {
+  "id": "aliexpress-1005012072371593",
+  "loja": "aliexpress",
+  "titulo": "Memória Netac DDR4 Shadow Ill 3200MHz 3600MHz RAM UDIMM DDR4 8G 16G 8Gx2 16Gx2 com Dissipador de Calor de Alumínio Suporte XMP2.0 para Desktop",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa4d66dc990d949839e615dde1c3cebe7H.png",
+  "preco": 317.72,
+  "precoDe": 511.05,
+  "link": "https://s.click.aliexpress.com/e/_c3U2gezH",
+  "vendidos": 5667,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-11-01T04:45:34.586Z"
+ },
+ {
+  "id": "aliexpress-1005007789311736",
+  "loja": "aliexpress",
+  "titulo": "KOOTION SSD NVMe M.2 2280 2TB 1TB 512GB 256GB Disco rígido interno de estado sólido M2 SSD PCIe 3.0x4 Gen3 M2 SSD Drive para PC Jogo Laptop Desktop",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf8952f3f489d4ff9bd695ed3c3df06e6z.jpg",
+  "preco": 310.59,
+  "precoDe": 810.66,
+  "link": "https://s.click.aliexpress.com/e/_c3gNlzbN",
+  "vendidos": 2049,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ssd",
+  "publicadoEm": "2026-11-01T04:45:27.673Z"
+ },
+ {
   "id": "aliexpress-1005008656776056",
   "loja": "aliexpress",
   "titulo": "Veineda RX5600xt 6G placa gráfica para jogos de pc 6GB 192Bit GDDR6 PCI-E 4.0 × 8 GPU Radeon rx5600 6gb placas de vídeo para jogos Placa de vídeo",
@@ -11943,34 +11999,6 @@
   "publicadoEm": "2026-10-29T21:01:01.225Z"
  },
  {
-  "id": "aliexpress-1005003696808113",
-  "loja": "aliexpress",
-  "titulo": "Memória RAM DDR4 Netac para Notebook, 4GB, 8GB, 16GB, Sodimm DDR4 3200MHz, 2666MHz, 260Pin, RAM para Laptop 1.2V JEDEC",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4832b539e5fc4209b84dce3f7c3dbb09j.jpg",
-  "preco": 248.55,
-  "precoDe": 400.9,
-  "link": "https://s.click.aliexpress.com/e/_c3mVksqB",
-  "vendidos": 52,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-10-29T21:00:52.036Z"
- },
- {
-  "id": "aliexpress-1005007789311736",
-  "loja": "aliexpress",
-  "titulo": "KOOTION SSD NVMe M.2 2280 2TB 1TB 512GB 256GB Disco rígido interno de estado sólido M2 SSD PCIe 3.0x4 Gen3 M2 SSD Drive para PC Jogo Laptop Desktop",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf8952f3f489d4ff9bd695ed3c3df06e6z.jpg",
-  "preco": 395.12,
-  "precoDe": 797.35,
-  "link": "https://s.click.aliexpress.com/e/_c40QoLtp",
-  "vendidos": 2063,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ssd",
-  "publicadoEm": "2026-10-29T21:00:38.138Z"
- },
- {
   "id": "aliexpress-1005012002732433",
   "loja": "aliexpress",
   "titulo": "Torneia De Parede Preta Para Cozinha, 2 Funções, Bola Flexível, Controle De Água",
@@ -12289,20 +12317,6 @@
   "categoria": "Informática",
   "fonte": "ali_kit_xeon",
   "publicadoEm": "2026-10-29T17:00:47.857Z"
- },
- {
-  "id": "aliexpress-1005007247636934",
-  "loja": "aliexpress",
-  "titulo": "Conjunto de Placa-Mãe QIYIDA X99 LGA 2011-3 com Processador Xeon E5 2650 V4 e Memória RAM DDR4 ECC de 16GB, SSD NVME M.2, Chip X99 C612",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S69d32dccef2c480b8b0e8f8ab1fc7468Y.jpg",
-  "preco": 308.85,
-  "precoDe": 774.12,
-  "link": "https://s.click.aliexpress.com/e/_c4Db61nd",
-  "vendidos": 32,
-  "nota": 5,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-10-29T16:45:59.441Z"
  },
  {
   "id": "aliexpress-1005007871443623",
@@ -13462,20 +13476,6 @@
   "categoria": "Informática",
   "fonte": "ali_placa_mae",
   "publicadoEm": "2026-10-29T02:45:58.815Z"
- },
- {
-  "id": "aliexpress-1005012072371593",
-  "loja": "aliexpress",
-  "titulo": "Memória Netac DDR4 Shadow Ill 3200MHz 3600MHz RAM UDIMM DDR4 8G 16G 8Gx2 16Gx2 com Dissipador de Calor de Alumínio Suporte XMP2.0 para Desktop",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa4d66dc990d949839e615dde1c3cebe7H.png",
-  "preco": 360.48,
-  "precoDe": 500.64,
-  "link": "https://s.click.aliexpress.com/e/_c2uY3vAb",
-  "vendidos": 5656,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-10-29T02:45:36.576Z"
  },
  {
   "id": "aliexpress-1005007189832730",
