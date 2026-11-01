@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7868759202",
-    "productKey": "4e3f4c35024a7d4c",
-    "titleHash": "c05ea3c2f80d0174",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-28T10:31:36.248Z"
-  },
-  {
-    "itemId": "MLB7192750156",
-    "productKey": "7c1acb43a5d485b1",
-    "titleHash": "0f2c660eb4e7faff",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-10-28T10:31:36.248Z"
-  },
-  {
-    "itemId": "MLB3986439067",
-    "productKey": "12c33843ea3ba516",
-    "titleHash": "f5092e1b3b45ec90",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-28T10:46:27.492Z"
-  },
-  {
     "itemId": "MLB4374689773",
     "productKey": "45808aef9e36af2b",
     "titleHash": "0fed13623550fa42",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-01T21:31:34.059Z"
+  },
+  {
+    "itemId": "MLB5219998762",
+    "productKey": "ab0f5abeb7d01b34",
+    "titleHash": "3dd9c056269296af",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-01T21:46:34.485Z"
+  },
+  {
+    "itemId": "MLB6850995418",
+    "productKey": "14ae1350b1edf58c",
+    "titleHash": "46679422f89dd4d2",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-01T21:46:34.485Z"
+  },
+  {
+    "itemId": "MLB2749142843",
+    "productKey": "c61bb77a90f70d42",
+    "titleHash": "e318b8d137692aca",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-01T21:46:34.485Z"
   }
 ]
