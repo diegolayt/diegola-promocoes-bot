@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7630654522",
-    "productKey": "d4312e0d6c2931f5",
-    "titleHash": "897b790bb2a290b2",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-28T02:31:34.447Z"
-  },
-  {
-    "itemId": "MLB4571774956",
-    "productKey": "ee87e57884d696a9",
-    "titleHash": "4e4edaed26b653fc",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-28T02:46:26.364Z"
-  },
-  {
     "itemId": "MLB7690840340",
     "productKey": "7720820a953562b0",
     "titleHash": "f63dfdf04a782b09",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-01T14:16:32.973Z"
+  },
+  {
+    "itemId": "MLB4847460971",
+    "productKey": "bfd6728ad1b171f9",
+    "titleHash": "181b50122314a076",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-01T14:31:33.771Z"
+  },
+  {
+    "itemId": "MLB6174995494",
+    "productKey": "fd297f5b4123c3bc",
+    "titleHash": "50b29c5497026496",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-01T14:31:33.771Z"
   }
 ]
