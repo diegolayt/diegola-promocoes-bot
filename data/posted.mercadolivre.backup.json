@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6819437892",
-    "productKey": "398190200de201c1",
-    "titleHash": "2f5a00c8a92decec",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-28T11:31:50.759Z"
-  },
-  {
-    "itemId": "MLB3610986685",
-    "productKey": "207e2794a9247dd6",
-    "titleHash": "8922eef1610cd8b4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-28T11:31:50.759Z"
-  },
-  {
-    "itemId": "MLB3963565037",
-    "productKey": "90b6a387b0af9d73",
-    "titleHash": "7dca2d6e77e75dd7",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-28T11:46:29.839Z"
-  },
-  {
     "itemId": "MLB7413456100",
     "productKey": "f59ad2d75ea00ed2",
     "titleHash": "2eeeca2ccff60b6f",
@@ -4798,5 +4774,29 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-01T22:16:38.508Z"
+  },
+  {
+    "itemId": "MLB7868759202",
+    "productKey": "4e3f4c35024a7d4c",
+    "titleHash": "c05ea3c2f80d0174",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-01T22:31:34.660Z"
+  },
+  {
+    "itemId": "MLB6949268730",
+    "productKey": "6e158df3dcbb96cd",
+    "titleHash": "639b847efcd22948",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-01T22:31:34.660Z"
+  },
+  {
+    "itemId": "MLB5762049098",
+    "productKey": "a1085792541f2e70",
+    "titleHash": "d8faca7aab92efc8",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-01T22:31:34.660Z"
   }
 ]

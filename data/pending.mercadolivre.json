@@ -1,0 +1,216 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7868759202",
+      "site_id": "MLB",
+      "seller_id": 630829285,
+      "accepts_mercadopago": true,
+      "price": 156.9,
+      "category_id": "MLB188914",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 377224,
+      "original_price": 199.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYT3VyaW5ob3NUVXhDVUZOQlQwODVOMkU0",
+          "name": "Ourinhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5662138770",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27080589",
+      "title": "Kit 2 Refil De Água Acqua Pure Electrolux Pe12a Pe12b Pe12g PC01X, Cor Marrom-claro",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_764049-MLA114244626520_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27080589",
+      "id": "MLB7868759202",
+      "sold_quantity": 2000,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB6949268730",
+      "site_id": "MLB",
+      "seller_id": 3246949086,
+      "accepts_mercadopago": true,
+      "price": 347.55,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "cbt_item",
+        "kvs_primary",
+        "standard_price_by_channel",
+        "net_proceeds_prices",
+        "cbt_fulfillment_us",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 396.81,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB29525405",
+      "title": "Amazon Fire Tv Stick 4k Max 16gb Wi-fi 6 e Alexa Controle Por Voz Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_625659-MLA113111634652_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB29525405",
+      "id": "MLB6949268730",
+      "sold_quantity": 700,
+      "rotationCategory": "streaming",
+      "sourceCategoryId": "MLB133950",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5762049098",
+      "site_id": "MLB",
+      "seller_id": 2451183833,
+      "accepts_mercadopago": true,
+      "price": 119.9,
+      "category_id": "MLB33367",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 215006,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUXVlaW1hZG9zVFV4Q1VGSkpUMDh4T0RNN",
+          "name": "Queimados"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3456399565",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB50942361",
+      "title": "Máquina De Cortar Cabelo 6 Em 1 Barba Pelo Corpo Body Groom Cor Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921221-MLA99403094166_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB50942361",
+      "id": "MLB5762049098",
+      "sold_quantity": 1200,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-01T22:31:34.662Z"
+}
