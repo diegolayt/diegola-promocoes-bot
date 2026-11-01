@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5690651572",
-    "productKey": "586f1f38fea099c8",
-    "titleHash": "1e2890a0d74c84a0",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-27T15:46:33.930Z"
-  },
-  {
     "itemId": "MLB4794556515",
     "productKey": "2f742d6104f56e3f",
     "titleHash": "72f46bd8beed252c",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-01T03:31:39.916Z"
+  },
+  {
+    "itemId": "MLB2634448552",
+    "productKey": "8af7df7f67736088",
+    "titleHash": "424920e3dd208530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-01T03:46:31.543Z"
   }
 ]
