@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7161299304",
-    "productKey": "0f0fdb96cb6446aa",
-    "titleHash": "1670416b92bd28cb",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-28T06:16:33.415Z"
-  },
-  {
-    "itemId": "MLB2812788257",
-    "productKey": "68c4c0302396b8e4",
-    "titleHash": "688e2cc0e7c230b0",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-28T06:16:33.415Z"
-  },
-  {
-    "itemId": "MLB3892003323",
-    "productKey": "03008c6577cd30c3",
-    "titleHash": "1fc506b4f9497957",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-28T06:16:33.415Z"
-  },
-  {
     "itemId": "MLB7263959014",
     "productKey": "d4b61b68ddb2f8d0",
     "titleHash": "1d327597d8aaca1c",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-01T17:16:31.859Z"
+  },
+  {
+    "itemId": "MLB4431320428",
+    "productKey": "0129e0ad07cd5b49",
+    "titleHash": "254070ed90aabce5",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-01T17:31:36.370Z"
+  },
+  {
+    "itemId": "MLB7626272098",
+    "productKey": "66c7b386fec7fb85",
+    "titleHash": "07d3743c349b4b43",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-01T17:31:36.371Z"
+  },
+  {
+    "itemId": "MLB5304999447",
+    "productKey": "cb0374b29bdf7cf4",
+    "titleHash": "6765def2c424013a",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-01T17:31:36.371Z"
   }
 ]
