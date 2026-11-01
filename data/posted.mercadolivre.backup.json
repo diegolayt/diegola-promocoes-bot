@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7890485764",
-    "productKey": "8ae7405dd918a2cd",
-    "titleHash": "8e1453fbe72a1d3d",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-28T08:01:38.635Z"
-  },
-  {
     "itemId": "MLB7149675174",
     "productKey": "f88cd67de76efd80",
     "titleHash": "2eacb6dcfbb6bb82",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-01T19:16:33.317Z"
+  },
+  {
+    "itemId": "MLB3917376669",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-01T19:31:39.332Z"
   }
 ]
