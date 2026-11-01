@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7673946364",
-    "productKey": "890e2a103f8d9a7c",
-    "titleHash": "f2f146b69d03f097",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-28T11:16:28.597Z"
-  },
-  {
-    "itemId": "MLB4054875887",
-    "productKey": "82877247ca948082",
-    "titleHash": "f68a2c332d7a28a9",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-28T11:31:50.758Z"
-  },
-  {
     "itemId": "MLB6819437892",
     "productKey": "398190200de201c1",
     "titleHash": "2f5a00c8a92decec",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-01T22:01:43.311Z"
+  },
+  {
+    "itemId": "MLB2812788257",
+    "productKey": "68c4c0302396b8e4",
+    "titleHash": "688e2cc0e7c230b0",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-01T22:16:38.508Z"
+  },
+  {
+    "itemId": "MLB4941837765",
+    "productKey": "03008c6577cd30c3",
+    "titleHash": "1fc506b4f9497957",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-01T22:16:38.508Z"
   }
 ]
