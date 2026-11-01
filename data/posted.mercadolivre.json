@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3783973037",
-    "productKey": "79904641cb78c39e",
-    "titleHash": "c6c910964afbee15",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-28T01:01:35.068Z"
-  },
-  {
     "itemId": "MLB6611494338",
     "productKey": "22c1ab81d170e902",
     "titleHash": "59b69a48e3f7ae93",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-01T12:01:38.292Z"
+  },
+  {
+    "itemId": "MLB5250593068",
+    "productKey": "d76bba99e09b3844",
+    "titleHash": "321d8c2ae24df17a",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-01T12:31:37.105Z"
   }
 ]
