@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4812130742",
-    "productKey": "1fbb97017cc6e7ce",
-    "titleHash": "aac3ed7848ee3cfe",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-27T13:46:35.524Z"
-  },
-  {
     "itemId": "MLB2820196075",
     "productKey": "9be23f720e3d6d4f",
     "titleHash": "b4d7c6e7b7ef601d",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-01T01:31:34.323Z"
+  },
+  {
+    "itemId": "MLB5820611620",
+    "productKey": "81470f458df652f2",
+    "titleHash": "9b560d3758ed6fb2",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-01T01:46:31.289Z"
   }
 ]
