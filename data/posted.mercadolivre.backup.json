@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4434428164",
-    "productKey": "5b5dbe709902e2fc",
-    "titleHash": "5310defd20b8b0a1",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-27T19:31:38.899Z"
-  },
-  {
-    "itemId": "MLB3986700487",
-    "productKey": "a1d280e4c3ee7ae6",
-    "titleHash": "94ccd298a23fb896",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-27T19:46:29.606Z"
-  },
-  {
     "itemId": "MLB4434021128",
     "productKey": "c5543c055f84df02",
     "titleHash": "83b9bfbc76707c67",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-01T06:31:42.748Z"
+  },
+  {
+    "itemId": "MLB4162108123",
+    "productKey": "c8addf26bd6ff0a5",
+    "titleHash": "fc69e853d2bc4f6d",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-01T06:46:31.129Z"
+  },
+  {
+    "itemId": "MLB5919047834",
+    "productKey": "b749c94048ea68dd",
+    "titleHash": "2ae834d270a40211",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-01T06:46:31.129Z"
   }
 ]
