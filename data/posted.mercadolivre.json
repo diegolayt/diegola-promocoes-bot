@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5219998762",
-    "productKey": "ab0f5abeb7d01b34",
-    "titleHash": "3dd9c056269296af",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-28T09:46:32.234Z"
-  },
-  {
-    "itemId": "MLB2888980946",
-    "productKey": "39b3b032945eb7a1",
-    "titleHash": "ad51142e02d9d328",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-28T09:46:32.234Z"
-  },
-  {
     "itemId": "MLB6031639350",
     "productKey": "afbff89ee85c38b5",
     "titleHash": "bae5a48604e386ea",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-01T20:31:39.941Z"
+  },
+  {
+    "itemId": "MLB7149675174",
+    "productKey": "f88cd67de76efd80",
+    "titleHash": "2eacb6dcfbb6bb82",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-01T20:46:30.621Z"
+  },
+  {
+    "itemId": "MLB4437904881",
+    "productKey": "22da2f82ebb6afdd",
+    "titleHash": "e72b969ee0a2ebf3",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-01T20:46:30.622Z"
   }
 ]
