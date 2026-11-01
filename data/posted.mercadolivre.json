@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4079863189",
-    "productKey": "0c719e2b6f08c62f",
-    "titleHash": "b98e10c788d858aa",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-28T03:01:37.342Z"
-  },
-  {
-    "itemId": "MLB5575158922",
-    "productKey": "470a6f69c29f9087",
-    "titleHash": "128e67c8b561c343",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-28T03:16:17.073Z"
-  },
-  {
-    "itemId": "MLB6906628416",
-    "productKey": "afdc8b9a0fdca6b9",
-    "titleHash": "e6c7a1e4ae50579a",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-28T03:16:17.073Z"
-  },
-  {
-    "itemId": "MLB2748787238",
-    "productKey": "29a167728a58669c",
-    "titleHash": "a40852fe2e7ef3d0",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-28T03:16:17.073Z"
-  },
-  {
     "itemId": "MLB4880764075",
     "productKey": "cd6908a1373b2654",
     "titleHash": "08f953c8f96c4c54",
@@ -4798,5 +4766,37 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-01T14:46:41.030Z"
+  },
+  {
+    "itemId": "MLB5466074711",
+    "productKey": "d4312e0d6c2931f5",
+    "titleHash": "897b790bb2a290b2",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-01T15:01:30.450Z"
+  },
+  {
+    "itemId": "MLB4993216815",
+    "productKey": "01b83afad55f31c1",
+    "titleHash": "84ad45755322ea1e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-01T15:01:30.450Z"
+  },
+  {
+    "itemId": "MLB6425643874",
+    "productKey": "19f894e9b99512b0",
+    "titleHash": "8cfef630b18b2465",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-01T15:01:30.450Z"
+  },
+  {
+    "itemId": "MLB4449225983",
+    "productKey": "ef37a237b4aea772",
+    "titleHash": "0826b70c987fa868",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-01T15:01:30.450Z"
   }
 ]
