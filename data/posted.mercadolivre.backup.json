@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4811259715",
-    "productKey": "7abc3c7eceaff66c",
-    "titleHash": "0770fcd7bab16021",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-27T15:16:32.268Z"
-  },
-  {
-    "itemId": "MLB3251982185",
-    "productKey": "6e6b0a0afa3e4adb",
-    "titleHash": "ba28ef2dcd7fcc21",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-27T15:16:32.268Z"
-  },
-  {
     "itemId": "MLB7658098506",
     "productKey": "4ff7a299c45ac56a",
     "titleHash": "2a6e08582af5bd66",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-01T02:46:33.891Z"
+  },
+  {
+    "itemId": "MLB5410636044",
+    "productKey": "268fe1dcba87ee28",
+    "titleHash": "0b023d35ca0abbf6",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-01T03:16:30.662Z"
+  },
+  {
+    "itemId": "MLB4345564271",
+    "productKey": "79178e47f5fa7c8d",
+    "titleHash": "68370d91aa4e7d65",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-01T03:16:30.663Z"
   }
 ]
