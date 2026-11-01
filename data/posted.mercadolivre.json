@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4208012055",
-    "productKey": "a6ddc6408e6a83c4",
-    "titleHash": "bde09e6268564097",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-28T00:46:23.862Z"
-  },
-  {
     "itemId": "MLB5400923188",
     "productKey": "8b22be28b8f4d3bd",
     "titleHash": "7866188a6d14a530",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-01T11:31:36.450Z"
+  },
+  {
+    "itemId": "MLB5475899615",
+    "productKey": "00b14ae85745311e",
+    "titleHash": "4332a25ca14ae522",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-01T11:46:34.810Z"
   }
 ]

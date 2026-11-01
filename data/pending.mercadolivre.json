@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5475899615",
+      "site_id": "MLB",
+      "seller_id": 3740972369,
+      "accepts_mercadopago": true,
+      "price": 269.9,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTzZhM2I1",
+          "name": "Cunha Porã"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5727502466",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB69042742",
+      "title": "Jogo De Panelas Antiaderentes 10 Peças Baunilha Nacional",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_897550-MLA111138894183_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB69042742",
+      "id": "MLB5475899615",
+      "sold_quantity": 1800,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-01T11:46:34.813Z"
+}
