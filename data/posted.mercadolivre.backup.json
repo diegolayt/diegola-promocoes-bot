@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4655688751",
-    "productKey": "f8ed6f2d8a7633f9",
-    "titleHash": "6103b5d4659eec99",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-27T22:01:35.190Z"
-  },
-  {
-    "itemId": "MLB7717329164",
-    "productKey": "bbc689030a50ec02",
-    "titleHash": "fcc9074de14ea86a",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-27T22:01:35.190Z"
-  },
-  {
     "itemId": "MLB5021728359",
     "productKey": "1317d74e4994bd84",
     "titleHash": "4542ae1c80109eb7",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-01T08:46:28.641Z"
+  },
+  {
+    "itemId": "MLB4755857128",
+    "productKey": "79d5c8260fac4419",
+    "titleHash": "8d80c6d8b8751a60",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-01T09:01:41.360Z"
+  },
+  {
+    "itemId": "MLB5483942561",
+    "productKey": "8dc3f44528f03a95",
+    "titleHash": "6ad6eb236525cbe1",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-01T09:01:41.360Z"
   }
 ]
