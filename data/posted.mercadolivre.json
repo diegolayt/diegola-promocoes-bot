@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7861297344",
-    "productKey": "7a53461dd73ba0e6",
-    "titleHash": "3da6186ec2d43ed9",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-27T23:46:31.944Z"
-  },
-  {
-    "itemId": "MLB6759046416",
-    "productKey": "cc7b6f9694e26e07",
-    "titleHash": "28260572dc6461e9",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-27T23:46:31.944Z"
-  },
-  {
-    "itemId": "MLB3509736487",
-    "productKey": "8c0d33a795b15f6e",
-    "titleHash": "d094143229ed8d2c",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-28T00:16:28.333Z"
-  },
-  {
     "itemId": "MLB7253496932",
     "productKey": "8966f7090ac1116d",
     "titleHash": "0257198e68c33f08",
@@ -4798,5 +4774,29 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-01T10:46:35.689Z"
+  },
+  {
+    "itemId": "MLB3797364569",
+    "productKey": "96983e4185e3eef7",
+    "titleHash": "f469ce3c49a26e01",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-01T11:16:32.951Z"
+  },
+  {
+    "itemId": "MLB3616725881",
+    "productKey": "2b88dc516422dcc0",
+    "titleHash": "d6b5f6fe6c4f8314",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-01T11:16:32.951Z"
+  },
+  {
+    "itemId": "MLB7747542806",
+    "productKey": "4755b979c3c045a4",
+    "titleHash": "f202ae7974835d43",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-01T11:16:32.951Z"
   }
 ]
