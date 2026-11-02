@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5289436819",
-    "productKey": "6d6a36b43f25814b",
-    "titleHash": "864ba560595ab6ad",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-29T00:01:40.021Z"
-  },
-  {
     "itemId": "MLB7133680836",
     "productKey": "2ba242383bfef56e",
     "titleHash": "340812948cdb6008",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-02T11:32:04.877Z"
+  },
+  {
+    "itemId": "MLB5952825902",
+    "productKey": "c451c7876e54b375",
+    "titleHash": "4945a548e1858678",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-02T11:46:35.296Z"
   }
 ]
