@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7133680836",
-    "productKey": "2ba242383bfef56e",
-    "titleHash": "340812948cdb6008",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-29T00:16:30.338Z"
-  },
-  {
     "itemId": "MLB4535438095",
     "productKey": "5d3a1623e59b8114",
     "titleHash": "776f9f5eedb25a45",
@@ -4798,5 +4790,13 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-02T11:46:35.296Z"
+  },
+  {
+    "itemId": "MLB5217693736",
+    "productKey": "bd3aa3aa17d44d1a",
+    "titleHash": "bb0ac3e977c30917",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-02T12:01:41.816Z"
   }
 ]
