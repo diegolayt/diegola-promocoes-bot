@@ -1,0 +1,237 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7639258802",
+      "site_id": "MLB",
+      "seller_id": 85263796,
+      "accepts_mercadopago": true,
+      "price": 347.26,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3401,
+      "original_price": 541.43,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJ1asOhVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Arujá"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5199591302",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52052995",
+      "title": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_761173-MLA99475995202_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52052995",
+      "id": "MLB7639258802",
+      "sold_quantity": 1600,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4834990713",
+      "site_id": "MLB",
+      "seller_id": 3267767792,
+      "accepts_mercadopago": true,
+      "price": 1159,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VORzQzNmVm",
+          "name": "Engenheiro Beltrão"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4201623038",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54102936",
+      "title": "Xiaomi Redmi 15 12gb Ram 128gb Dual Sim 50mp Fm Impressão digital Dimm cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652088-MLA99478650034_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54102936",
+      "id": "MLB4834990713",
+      "sold_quantity": 800,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB7059218174",
+      "site_id": "MLB",
+      "seller_id": 714107429,
+      "accepts_mercadopago": true,
+      "price": 1869.99,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQkZMT0E4NTVC",
+          "name": "Floresta"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4131539261",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63467528",
+      "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63467528",
+      "id": "MLB7059218174",
+      "sold_quantity": 700,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    }
+  ],
+  "reservedAt": "2026-11-02T09:16:36.587Z"
+}
