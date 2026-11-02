@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5439144975",
-    "productKey": "690d29606093b12a",
-    "titleHash": "eff4b6f329165dbf",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-29T01:16:37.753Z"
-  },
-  {
     "itemId": "MLB3682277189",
     "productKey": "02983e6cebf8fe5d",
     "titleHash": "29879c6e3f2ebbc5",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-02T13:01:46.387Z"
+  },
+  {
+    "itemId": "MLB5049369867",
+    "productKey": "67c8124f8010d4d0",
+    "titleHash": "3acad1ab805f0289",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-02T13:16:32.406Z"
   }
 ]
