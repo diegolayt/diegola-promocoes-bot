@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB2744766460",
-    "productKey": "a8251bc98e70126a",
-    "titleHash": "3d01cd9c39438f12",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-28T13:46:29.448Z"
-  },
-  {
-    "itemId": "MLB4297963919",
-    "productKey": "849a2124d0a8f984",
-    "titleHash": "caed37ae9f327be6",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-28T13:46:29.448Z"
-  },
-  {
     "itemId": "MLB5453520121",
     "productKey": "d60f40144ad87174",
     "titleHash": "673a514c6de388e3",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-01T23:46:32.118Z"
+  },
+  {
+    "itemId": "MLB7348198478",
+    "productKey": "9605bcb8c9171373",
+    "titleHash": "197684dd4f02c4f0",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-02T00:01:43.400Z"
+  },
+  {
+    "itemId": "MLB7413456100",
+    "productKey": "f59ad2d75ea00ed2",
+    "titleHash": "2eeeca2ccff60b6f",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-02T00:01:43.401Z"
   }
 ]
