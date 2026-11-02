@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7015203686",
-    "productKey": "ba7df21eb0ca2036",
-    "titleHash": "e289328335e8aff0",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-28T21:01:42.846Z"
-  },
-  {
     "itemId": "MLB7813039758",
     "productKey": "caaa6d3d3ab9a0f8",
     "titleHash": "43d905e40dff2c8c",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-02T08:31:42.234Z"
+  },
+  {
+    "itemId": "MLB7501055654",
+    "productKey": "496a44c0154a0bf4",
+    "titleHash": "b0961859353c7014",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-02T08:46:31.160Z"
   }
 ]
