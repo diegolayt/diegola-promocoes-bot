@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7645208034",
-    "productKey": "961b89adad6fc90b",
-    "titleHash": "02ceac68ba14008e",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-28T17:31:44.429Z"
-  },
-  {
-    "itemId": "MLB5472112506",
-    "productKey": "56904ab5dc84f89a",
-    "titleHash": "1db72bf5ac1dec28",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-28T17:31:44.429Z"
-  },
-  {
-    "itemId": "MLB6856491306",
-    "productKey": "5c3bb192f47b1dc7",
-    "titleHash": "3752613afe88d8e7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-28T17:46:36.766Z"
-  },
-  {
     "itemId": "MLB7714960140",
     "productKey": "1f91de7a37a96e5d",
     "titleHash": "ac3fc85e756a9bdb",
@@ -4798,5 +4774,29 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-02T03:46:35.898Z"
+  },
+  {
+    "itemId": "MLB4088010131",
+    "productKey": "dd3123e8cfbb8aad",
+    "titleHash": "b0cd22c79a333347",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-02T04:01:43.376Z"
+  },
+  {
+    "itemId": "MLB6943866984",
+    "productKey": "4e8dd9fe40e8f539",
+    "titleHash": "6859c19609c4f4eb",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-02T04:01:43.377Z"
+  },
+  {
+    "itemId": "MLB4823534341",
+    "productKey": "73646575db75a410",
+    "titleHash": "c7f52f5985f33343",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-02T04:01:43.377Z"
   }
 ]
