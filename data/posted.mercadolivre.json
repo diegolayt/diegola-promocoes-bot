@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5952825902",
-    "productKey": "c451c7876e54b375",
-    "titleHash": "4945a548e1858678",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-28T23:31:34.659Z"
-  },
-  {
     "itemId": "MLB5466646499",
     "productKey": "b657492b7e761bf0",
     "titleHash": "28f7e1efba05bb5f",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-02T10:16:32.800Z"
+  },
+  {
+    "itemId": "MLB4082731117",
+    "productKey": "c555e963e900e460",
+    "titleHash": "14a27ecaf6ac0575",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-02T10:31:41.578Z"
   }
 ]
