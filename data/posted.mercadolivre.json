@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5413776368",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-28T17:31:44.429Z"
-  },
-  {
-    "itemId": "MLB5972837798",
-    "productKey": "c45a40bf0889759e",
-    "titleHash": "7fb3749c5110ec68",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-28T17:31:44.429Z"
-  },
-  {
     "itemId": "MLB7645208034",
     "productKey": "961b89adad6fc90b",
     "titleHash": "02ceac68ba14008e",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-02T03:31:32.425Z"
+  },
+  {
+    "itemId": "MLB6600589614",
+    "productKey": "fce93ca31cf80312",
+    "titleHash": "5b667c93b09dd618",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-02T03:46:35.898Z"
+  },
+  {
+    "itemId": "MLB4080129257",
+    "productKey": "af820b348134d83b",
+    "titleHash": "d493cf2c7041c857",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-02T03:46:35.898Z"
   }
 ]
