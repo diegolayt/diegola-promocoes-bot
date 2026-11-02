@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5681601188",
-    "productKey": "33e58474e547384e",
-    "titleHash": "fb74ca65aa81c14b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-29T03:46:34.148Z"
-  },
-  {
-    "itemId": "MLB3867892924",
-    "productKey": "168a7d6b63268a7f",
-    "titleHash": "292d7c8ba1595cab",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-29T04:01:41.929Z"
-  },
-  {
     "itemId": "MLB2644117468",
     "productKey": "c52e36fc9898a93c",
     "titleHash": "0980e9b00d7d2072",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-02T15:31:36.928Z"
+  },
+  {
+    "itemId": "MLB5538314424",
+    "productKey": "00bd22528793a65a",
+    "titleHash": "67dbd06fd85b9f45",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-02T15:46:32.643Z"
+  },
+  {
+    "itemId": "MLB5958007106",
+    "productKey": "9d589fd67793b096",
+    "titleHash": "500a0545e991dccb",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-02T15:46:32.644Z"
   }
 ]
