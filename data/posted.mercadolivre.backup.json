@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5174468771",
-    "productKey": "1835b96f8c31b1b3",
-    "titleHash": "fe3ce120921d1f3b",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-28T17:16:40.634Z"
-  },
-  {
     "itemId": "MLB5413776368",
     "productKey": "43ab81ed3d64cbfc",
     "titleHash": "847b82f5eeb65c22",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-02T03:16:37.448Z"
+  },
+  {
+    "itemId": "MLB6660295684",
+    "productKey": "8f72e37c26e09e4d",
+    "titleHash": "8b98848c1ef40835",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-02T03:31:32.425Z"
   }
 ]
