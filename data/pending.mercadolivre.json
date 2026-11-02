@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5477119801",
+      "site_id": "MLB",
+      "seller_id": 474228861,
+      "accepts_mercadopago": true,
+      "price": 2258.86,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "not_specified",
+        "logistic_type": "not_specified",
+        "tags": [
+          "lost_me2_by_dimensions"
+        ],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTzUyMjZl",
+          "name": "São José dos Pinhais"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQklQRTkyN0Ew",
+          "name": "Ipê"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5680956959",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB58033020",
+      "title": "Geladeira com freezer inverter Midea Frost Free Duplex MDRT533EVD461 con capacidad de 394L inox",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_975701-MLA93059839254_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB58033020",
+      "id": "MLB5477119801",
+      "sold_quantity": 1700,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-02T07:01:42.248Z"
+}
