@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7820190708",
-    "productKey": "7996d894587d17ae",
-    "titleHash": "7ec3def6ccf605d1",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-29T06:16:38.231Z"
-  },
-  {
     "itemId": "MLB5780070510",
     "productKey": "b1be541faa5fbece",
     "titleHash": "ddce1d36b82207f4",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-02T17:46:33.676Z"
+  },
+  {
+    "itemId": "MLB4324368929",
+    "productKey": "1bff0ff397ddef2c",
+    "titleHash": "31d3d3c068113c56",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-02T18:01:35.666Z"
   }
 ]
