@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3682277189",
-    "productKey": "02983e6cebf8fe5d",
-    "titleHash": "29879c6e3f2ebbc5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-29T01:31:33.729Z"
-  },
-  {
     "itemId": "MLB6666191918",
     "productKey": "234eb23fabd5e309",
     "titleHash": "97ece075e5b54bac",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-02T13:16:32.406Z"
+  },
+  {
+    "itemId": "MLB3492059795",
+    "productKey": "3281542ebae1f6e6",
+    "titleHash": "971df868445cdbf2",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-02T13:31:42.840Z"
   }
 ]
