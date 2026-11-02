@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6254580488",
-    "productKey": "ac216687c79a68df",
-    "titleHash": "54df2d2cec06655e",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-10-29T09:46:25.522Z"
-  },
-  {
     "itemId": "MLB5440680923",
     "productKey": "3f468fe7d81ead30",
     "titleHash": "a0e7068095171d6a",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-11-02T22:01:44.267Z"
+  },
+  {
+    "itemId": "MLB4987728419",
+    "productKey": "3ec767c81d06051b",
+    "titleHash": "70a866555fd96fb6",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-02T22:16:36.029Z"
   }
 ]
