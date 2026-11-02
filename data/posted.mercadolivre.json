@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6408226600",
-    "productKey": "ffd2dbac1d847a7c",
-    "titleHash": "dc9e307982604a38",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-29T07:46:29.061Z"
-  },
-  {
-    "itemId": "MLB4205581723",
-    "productKey": "659686bb25e5327b",
-    "titleHash": "d62f8aa6f5902055",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-29T07:46:29.061Z"
-  },
-  {
     "itemId": "MLB4195198970",
     "productKey": "19e579017e9bbafd",
     "titleHash": "9bead5eecb241d6b",
@@ -4798,5 +4782,21 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-02T19:16:34.392Z"
+  },
+  {
+    "itemId": "MLB6161925990",
+    "productKey": "077fe19f4736884c",
+    "titleHash": "d7b2cb595cb95e9a",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-02T19:31:39.132Z"
+  },
+  {
+    "itemId": "MLB7501004712",
+    "productKey": "8754fc435a818a02",
+    "titleHash": "8d2d9b3a9df7dc0c",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-02T19:31:39.133Z"
   }
 ]
