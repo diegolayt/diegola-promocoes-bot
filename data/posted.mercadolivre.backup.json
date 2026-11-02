@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7379012660",
-    "productKey": "c441f5f8b907c35b",
-    "titleHash": "07b5dc5df417e750",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-28T15:31:46.435Z"
-  },
-  {
     "itemId": "MLB4088010131",
     "productKey": "dd3123e8cfbb8aad",
     "titleHash": "b0cd22c79a333347",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-02T01:16:31.532Z"
+  },
+  {
+    "itemId": "MLB7459722976",
+    "productKey": "7f07ce0b4993cace",
+    "titleHash": "bdfe8c72bf6ec63a",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-02T01:31:34.635Z"
   }
 ]
