@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2644117468",
-    "productKey": "c52e36fc9898a93c",
-    "titleHash": "0980e9b00d7d2072",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-29T04:01:41.929Z"
-  },
-  {
     "itemId": "MLB3374640095",
     "productKey": "ccb6a091dd86456b",
     "titleHash": "34034148276df6c7",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-02T15:46:32.644Z"
+  },
+  {
+    "itemId": "MLB7889042990",
+    "productKey": "8001d68ba72e9a64",
+    "titleHash": "567445470a0ab6a0",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-02T16:01:45.382Z"
   }
 ]
