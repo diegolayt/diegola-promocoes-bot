@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6585192056",
-    "productKey": "1249a8fb3d88e9ff",
-    "titleHash": "360d83604027a19c",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-28T14:31:35.217Z"
-  },
-  {
-    "itemId": "MLB5119374205",
-    "productKey": "c850ba5f1644af9d",
-    "titleHash": "4e45ebc4c4f60ba0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-28T14:46:32.357Z"
-  },
-  {
-    "itemId": "MLB7388906782",
-    "productKey": "fce93ca31cf80312",
-    "titleHash": "5b667c93b09dd618",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-28T15:01:43.538Z"
-  },
-  {
     "itemId": "MLB6660295684",
     "productKey": "8f72e37c26e09e4d",
     "titleHash": "8b98848c1ef40835",
@@ -4798,5 +4774,29 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-02T00:46:35.251Z"
+  },
+  {
+    "itemId": "MLB4091456221",
+    "productKey": "40f3ce023dcaf098",
+    "titleHash": "43b0e8b2f3e2ee28",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-02T01:01:39.228Z"
+  },
+  {
+    "itemId": "MLB7549815570",
+    "productKey": "1f2208dd21863a0e",
+    "titleHash": "8dd77967e28e1211",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-02T01:01:39.228Z"
+  },
+  {
+    "itemId": "MLB4571329801",
+    "productKey": "40ab138cce1c2270",
+    "titleHash": "927cd1b3a79366b2",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-02T01:01:39.228Z"
   }
 ]
