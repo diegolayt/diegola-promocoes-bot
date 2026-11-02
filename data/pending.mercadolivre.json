@@ -1,0 +1,312 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4415031943",
+      "site_id": "MLB",
+      "seller_id": 345475802,
+      "accepts_mercadopago": true,
+      "price": 45.18,
+      "category_id": "MLB182082",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 82504,
+      "original_price": 139.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 46.839168
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBDYXJsb3NUVXhDVUZOQlQwODVOM",
+          "name": "São Carlos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUGFycXVlIEZlaHJUVmhZVThPamJ5QkRZW",
+          "name": "Parque Fehr"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3584916667",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB50832844",
+      "title": "Kit Organizadores Com 14 Multiuso Gavetas Empilhavel",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_876411-MLA85220468958_062025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB50832844",
+      "id": "MLB4415031943",
+      "sold_quantity": 1300,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB4849437799",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 2754.05,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "has_published_clips",
+        "first_party",
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "bulky",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 3599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU4125494236",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB74143355",
+      "title": "Smart TV 4K 55\" LG QNED Mini LED AI QNED70 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 55QNED70BSA",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_648434-MLA115300888751_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB74143355",
+      "id": "MLB4849437799",
+      "sold_quantity": 1100,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    },
+    {
+      "item_id": "MLB3956721899",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 52.4,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "first_party",
+        "dynamic_standard_price",
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "kit_component",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3942,
+      "original_price": 69.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU2968901279",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB40724415",
+      "title": "Não é como nos filmes - Painter, Lynn - Intrínseca - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_606947-MLU78999855738_092024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB40724415",
+      "id": "MLB3956721899",
+      "sold_quantity": 300,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    },
+    {
+      "item_id": "MLB5264351136",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 4332,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "1p_10x_campaign",
+        "standard_price_by_quantity",
+        "dynamic_standard_price",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "first_party",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2962,
+      "original_price": 5999,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2969597317",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45502223",
+      "title": "Samsung Galaxy S25 5G, 256GB, 12GB, Câmera Tripla - Azul marinho",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_839006-MLA100007826225_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45502223",
+      "id": "MLB5264351136",
+      "sold_quantity": 100,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-02T05:31:31.134Z"
+}
