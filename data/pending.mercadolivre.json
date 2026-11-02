@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7912675148",
+      "site_id": "MLB",
+      "seller_id": 3292439916,
+      "accepts_mercadopago": true,
+      "price": 320,
+      "category_id": "MLB105297",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTU4MDI",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTTUzMDM",
+          "name": "Campo Grande"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5704438687",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB11286621",
+      "title": "Caixa Papel Sulfite A4 Report 10 Resmas De 500 Folhas Kit",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_805455-MLA99487191924_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB11286621",
+      "id": "MLB7912675148",
+      "sold_quantity": 2000,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    }
+  ],
+  "reservedAt": "2026-11-02T08:31:42.236Z"
+}
