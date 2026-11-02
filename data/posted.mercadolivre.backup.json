@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5466646499",
-    "productKey": "b657492b7e761bf0",
-    "titleHash": "28f7e1efba05bb5f",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-28T23:31:34.659Z"
-  },
-  {
     "itemId": "MLB7432648052",
     "productKey": "bed9824c15628b27",
     "titleHash": "087ef1e47e318558",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-02T10:31:41.578Z"
+  },
+  {
+    "itemId": "MLB4198382275",
+    "productKey": "22241b81ca88085a",
+    "titleHash": "8c709a3a06dff422",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-02T10:46:48.332Z"
   }
 ]
