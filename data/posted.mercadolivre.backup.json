@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1663761914",
-    "productKey": "de77083a4e6c4dab",
-    "titleHash": "adf49853a15a232f",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-28T18:16:33.251Z"
-  },
-  {
     "itemId": "MLB4139379039",
     "productKey": "530adb1e22063ecb",
     "titleHash": "3d1d71a4e21325bc",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-02T04:31:34.647Z"
+  },
+  {
+    "itemId": "MLB5413578547",
+    "productKey": "af6fd456573a6c22",
+    "titleHash": "1a0f1b9fd4ebb53e",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-02T05:16:31.267Z"
   }
 ]
