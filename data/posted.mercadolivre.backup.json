@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3782523165",
-    "productKey": "948ee43d2d7626fb",
-    "titleHash": "93e49c3d46e7aa6f",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-29T09:01:39.061Z"
-  },
-  {
     "itemId": "MLB6823283528",
     "productKey": "e2489c1451cb6572",
     "titleHash": "313364498118e4ab",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-02T21:01:42.136Z"
+  },
+  {
+    "itemId": "MLB4411577880",
+    "productKey": "1695451136b60c3d",
+    "titleHash": "7bf56a01b25ad75c",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-02T21:16:31.054Z"
   }
 ]
