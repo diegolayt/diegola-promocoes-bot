@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7612044056",
-    "productKey": "1551bf9f32c05b23",
-    "titleHash": "41a02a3933f5017f",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-29T02:46:29.988Z"
-  },
-  {
     "itemId": "MLB5256219731",
     "productKey": "de4eec9097d88bdb",
     "titleHash": "a7e96d3a24f5bc62",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-02T14:01:45.214Z"
+  },
+  {
+    "itemId": "MLB6073502968",
+    "productKey": "1f028055a5e8fcd7",
+    "titleHash": "0b04907b65ed95a5",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-02T14:16:42.935Z"
   }
 ]
