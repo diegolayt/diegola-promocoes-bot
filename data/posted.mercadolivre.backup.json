@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5419188903",
-    "productKey": "d7c13b5792513c9a",
-    "titleHash": "76baa199fb0390bb",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-28T22:46:27.187Z"
-  },
-  {
     "itemId": "MLB7803996996",
     "productKey": "40821c73f39974e2",
     "titleHash": "400d008b3de62193",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-02T09:31:37.317Z"
+  },
+  {
+    "itemId": "MLB2735052332",
+    "productKey": "bc671c6efd514d42",
+    "titleHash": "c7204587a86680fc",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-02T09:46:37.093Z"
   }
 ]
