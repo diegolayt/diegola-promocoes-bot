@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7714960140",
-    "productKey": "1f91de7a37a96e5d",
-    "titleHash": "ac3fc85e756a9bdb",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-28T18:01:37.802Z"
-  },
-  {
-    "itemId": "MLB4976654141",
-    "productKey": "1e02c9455942b0ea",
-    "titleHash": "b7eb6e3ad56267d8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-28T18:16:33.250Z"
-  },
-  {
     "itemId": "MLB1663761914",
     "productKey": "de77083a4e6c4dab",
     "titleHash": "adf49853a15a232f",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-02T04:01:43.377Z"
+  },
+  {
+    "itemId": "MLB5329836232",
+    "productKey": "549b84a996815459",
+    "titleHash": "86feca71767baaa7",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-02T04:31:34.647Z"
+  },
+  {
+    "itemId": "MLB3695738454",
+    "productKey": "2fe42a867bd7bb87",
+    "titleHash": "3d354dd6afa71c15",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-02T04:31:34.647Z"
   }
 ]
