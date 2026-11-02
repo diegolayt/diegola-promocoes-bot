@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3919470687",
-    "productKey": "bc0bb9a0c3fb15a1",
-    "titleHash": "0e851e97989db4c8",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-29T11:01:41.499Z"
-  },
-  {
     "itemId": "MLB7608375232",
     "productKey": "9d5c96d703bbb08b",
     "titleHash": "b4c97ba46d1f05ff",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-02T23:01:35.648Z"
+  },
+  {
+    "itemId": "MLB4712531609",
+    "productKey": "bf7e00fa51c47b92",
+    "titleHash": "2b36c4d2d2387bd1",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-02T23:31:40.033Z"
   }
 ]
