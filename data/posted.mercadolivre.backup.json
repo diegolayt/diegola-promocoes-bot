@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5441047005",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-28T22:01:39.247Z"
-  },
-  {
-    "itemId": "MLB7897872162",
-    "productKey": "daec8d0881c8d7d6",
-    "titleHash": "38709b9f79583c28",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-28T22:16:31.606Z"
-  },
-  {
-    "itemId": "MLB3949790433",
-    "productKey": "0b12e3121e49b10b",
-    "titleHash": "4f6b62c7ac5fa1cb",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-10-28T22:31:30.656Z"
-  },
-  {
     "itemId": "MLB5419188903",
     "productKey": "d7c13b5792513c9a",
     "titleHash": "76baa199fb0390bb",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-02T09:16:36.585Z"
+  },
+  {
+    "itemId": "MLB7813039758",
+    "productKey": "caaa6d3d3ab9a0f8",
+    "titleHash": "43d905e40dff2c8c",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-02T09:31:37.317Z"
+  },
+  {
+    "itemId": "MLB5359932059",
+    "productKey": "af85f5f6f8e9166c",
+    "titleHash": "de0256cf86475759",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-02T09:31:37.317Z"
+  },
+  {
+    "itemId": "MLB5496678871",
+    "productKey": "a840ac5859f19fbe",
+    "titleHash": "92fe84908be8a274",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-02T09:31:37.317Z"
   }
 ]
