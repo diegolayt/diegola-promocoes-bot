@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6819871490",
-    "productKey": "a256261d4df6f661",
-    "titleHash": "9df7cd8fcf29ae55",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-30T05:31:39.015Z"
-  },
-  {
-    "itemId": "MLB3272696011",
-    "productKey": "766e4122d158c9d9",
-    "titleHash": "a99bf3c6493007aa",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-30T05:46:26.849Z"
-  },
-  {
     "itemId": "MLB3876858111",
     "productKey": "50811f927d6a844d",
     "titleHash": "a24ae796cebc9cc5",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-03T23:31:37.069Z"
+  },
+  {
+    "itemId": "MLB5656974534",
+    "productKey": "0ab7ac472ebadef7",
+    "titleHash": "bb1dc58e46127577",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-03T23:46:34.161Z"
+  },
+  {
+    "itemId": "MLB4962524945",
+    "productKey": "f3ed58a1077cc9a4",
+    "titleHash": "4fe7f450f5d9b4c0",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-03T23:46:34.161Z"
   }
 ]
