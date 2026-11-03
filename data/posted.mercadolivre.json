@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5310598833",
-    "productKey": "329979dba837faee",
-    "titleHash": "fc34165272bbea83",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-29T13:01:42.644Z"
-  },
-  {
     "itemId": "MLB7493883866",
     "productKey": "3e89fb212f1b587a",
     "titleHash": "a70af37fa192c514",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-03T01:16:27.407Z"
+  },
+  {
+    "itemId": "MLB4658014019",
+    "productKey": "30428afb79b31575",
+    "titleHash": "64c4bc9f4147c80a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-03T01:31:48.057Z"
   }
 ]
