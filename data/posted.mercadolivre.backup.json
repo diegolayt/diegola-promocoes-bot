@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2797976958",
-    "productKey": "6cb1243c40624794",
-    "titleHash": "86b6e248994c6e5b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-10-29T20:31:22.624Z"
-  },
-  {
     "itemId": "MLB7416513906",
     "productKey": "d421a9ac96991e1e",
     "titleHash": "dd4ff27b0e780d50",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-03T17:32:04.766Z"
+  },
+  {
+    "itemId": "MLB5310409829",
+    "productKey": "630abd9b007307fe",
+    "titleHash": "77f4d7c3280dfb52",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-03T17:47:23.816Z"
   }
 ]
