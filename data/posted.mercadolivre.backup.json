@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3481515593",
-    "productKey": "f7f7d61f6c30c3c5",
-    "titleHash": "bd2c5073c62b4ca3",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-29T23:31:24.286Z"
-  },
-  {
-    "itemId": "MLB4214380631",
-    "productKey": "599342f11b3c3501",
-    "titleHash": "b8c8c51b8b202d3f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-29T23:31:24.286Z"
-  },
-  {
-    "itemId": "MLB4936320789",
-    "productKey": "7df1458663dc1f98",
-    "titleHash": "3a68c17bceca4a73",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-10-29T23:31:24.286Z"
-  },
-  {
     "itemId": "MLB5364239401",
     "productKey": "fed2045d9a53918d",
     "titleHash": "f1b338c8126e3619",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-03T19:32:16.483Z"
+  },
+  {
+    "itemId": "MLB7685286148",
+    "productKey": "97793b46b1ed0e13",
+    "titleHash": "ba9b4acf5fd20f0e",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-03T19:47:22.622Z"
+  },
+  {
+    "itemId": "MLB7237421774",
+    "productKey": "e38f5a07bc73fbd7",
+    "titleHash": "17dc2126afaa1a23",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-03T19:47:22.622Z"
+  },
+  {
+    "itemId": "MLB5249073715",
+    "productKey": "7b9361588a17275b",
+    "titleHash": "ae5e4745726c0427",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-03T19:47:22.622Z"
   }
 ]
