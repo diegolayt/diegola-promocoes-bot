@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4749793963",
-    "productKey": "b5ad29d95fd238f3",
-    "titleHash": "ea85bf34ab65059e",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-29T14:01:40.377Z"
-  },
-  {
     "itemId": "MLB5979493700",
     "productKey": "ef4a8ade7356b7de",
     "titleHash": "884030f96bc8b69d",
@@ -4798,5 +4790,13 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-11-03T04:16:27.057Z"
+  },
+  {
+    "itemId": "MLB6449370018",
+    "productKey": "3e89fb212f1b587a",
+    "titleHash": "a70af37fa192c514",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-03T04:31:44.096Z"
   }
 ]
