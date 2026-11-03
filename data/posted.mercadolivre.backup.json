@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7493883866",
-    "productKey": "3e89fb212f1b587a",
-    "titleHash": "a70af37fa192c514",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-29T13:01:42.644Z"
-  },
-  {
-    "itemId": "MLB5306683211",
-    "productKey": "5a24c3485e043a19",
-    "titleHash": "ca2038c29bdfa6f9",
-    "category": "notebook",
-    "sourceCategoryId": "MLB430687",
-    "reservedAt": "2026-10-29T13:16:34.292Z"
-  },
-  {
     "itemId": "MLB4720523262",
     "productKey": "bc8f50fe5cc29a3a",
     "titleHash": "509f18b6468768ce",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-03T01:31:48.057Z"
+  },
+  {
+    "itemId": "MLB7379012996",
+    "productKey": "329979dba837faee",
+    "titleHash": "fc34165272bbea83",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-03T01:46:34.335Z"
+  },
+  {
+    "itemId": "MLB3824918345",
+    "productKey": "4da20096241f83a1",
+    "titleHash": "122b2943937f1218",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-03T01:46:34.335Z"
   }
 ]
