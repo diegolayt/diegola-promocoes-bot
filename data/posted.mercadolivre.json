@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4132725271",
-    "productKey": "b70bcf8b75607f51",
-    "titleHash": "c01ccd1bd728f32c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-29T22:16:26.541Z"
-  },
-  {
-    "itemId": "MLB4911390149",
-    "productKey": "8ac6a3da887d8dd2",
-    "titleHash": "fa56b3e7365d1074",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-29T22:31:34.607Z"
-  },
-  {
     "itemId": "MLB4875367973",
     "productKey": "8787a8725f82c581",
     "titleHash": "da257b538969c80c",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-03T19:01:45.910Z"
+  },
+  {
+    "itemId": "MLB4037680625",
+    "productKey": "f52c6fc6bb28ce5c",
+    "titleHash": "c36ef63031ead69a",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-03T19:16:45.162Z"
+  },
+  {
+    "itemId": "MLB6258717666",
+    "productKey": "b912948cf9b5e753",
+    "titleHash": "4f9c8fc996431b26",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-03T19:16:45.162Z"
   }
 ]
