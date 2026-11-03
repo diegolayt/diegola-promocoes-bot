@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4245350227",
-    "productKey": "8f124f1e81765fa3",
-    "titleHash": "d2550ddbb8986e76",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-29T16:16:34.608Z"
-  },
-  {
     "itemId": "MLB5333613199",
     "productKey": "dbfea0470a350aa5",
     "titleHash": "7fbb1dd038a3831f",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-03T10:31:43.984Z"
+  },
+  {
+    "itemId": "MLB5769944586",
+    "productKey": "ec93060555c6cb7b",
+    "titleHash": "9478296a7f5367d3",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-03T10:46:31.711Z"
   }
 ]
