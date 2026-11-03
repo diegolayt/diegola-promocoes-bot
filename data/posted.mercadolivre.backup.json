@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7903121198",
-    "productKey": "0da48686e23f62c4",
-    "titleHash": "7e8ecf727227ad97",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-29T11:31:37.717Z"
-  },
-  {
     "itemId": "MLB7881909982",
     "productKey": "ef60b543f7ca8673",
     "titleHash": "4ca12211160412ec",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-02T23:46:37.116Z"
+  },
+  {
+    "itemId": "MLB6594540390",
+    "productKey": "9d5c96d703bbb08b",
+    "titleHash": "b4c97ba46d1f05ff",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-03T00:01:41.817Z"
   }
 ]
