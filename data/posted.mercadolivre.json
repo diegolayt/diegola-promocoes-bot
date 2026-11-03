@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7685286148",
-    "productKey": "97793b46b1ed0e13",
-    "titleHash": "ba9b4acf5fd20f0e",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-29T21:46:33.204Z"
-  },
-  {
-    "itemId": "MLB3953336287",
-    "productKey": "8087d5827caf1d7c",
-    "titleHash": "894a48f069e4d329",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-29T21:46:33.204Z"
-  },
-  {
     "itemId": "MLB5477944997",
     "productKey": "127b8887916baeb4",
     "titleHash": "fa8d671112a0eeee",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-03T18:32:17.631Z"
+  },
+  {
+    "itemId": "MLB4559000033",
+    "productKey": "5b46392a746a1583",
+    "titleHash": "bc9fa749b71a0b00",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-03T18:46:54.763Z"
+  },
+  {
+    "itemId": "MLB7578602888",
+    "productKey": "c240bbb586d73ffd",
+    "titleHash": "659c673f47d90430",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-03T18:46:54.764Z"
   }
 ]
