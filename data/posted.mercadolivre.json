@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7358347786",
-    "productKey": "dd929be301bd7cf9",
-    "titleHash": "6c9ca49d8833bbda",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-30T04:01:36.073Z"
-  },
-  {
-    "itemId": "MLB4487458199",
-    "productKey": "3472274b89b121ef",
-    "titleHash": "e4b1ad14a95f048b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-30T04:16:31.601Z"
-  },
-  {
-    "itemId": "MLB7480397854",
-    "productKey": "a98d9ad149b55f1d",
-    "titleHash": "03bf29bdde2827a8",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-30T04:31:32.869Z"
-  },
-  {
     "itemId": "MLB1774504462",
     "productKey": "c79e9b30c660ea83",
     "titleHash": "052984b30e7c5011",
@@ -4798,5 +4774,29 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-03T22:46:30.968Z"
+  },
+  {
+    "itemId": "MLB6487355942",
+    "productKey": "1b0c80b38e1cf265",
+    "titleHash": "e1ee4fe398d38bfe",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-03T23:01:40.917Z"
+  },
+  {
+    "itemId": "MLB7585112596",
+    "productKey": "5f26ec118c3c684f",
+    "titleHash": "072400fdebd3532c",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-03T23:01:40.917Z"
+  },
+  {
+    "itemId": "MLB5505653049",
+    "productKey": "8087d5827caf1d7c",
+    "titleHash": "894a48f069e4d329",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-03T23:01:40.917Z"
   }
 ]
