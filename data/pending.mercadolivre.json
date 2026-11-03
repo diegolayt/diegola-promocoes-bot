@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5414776307",
+      "site_id": "MLB",
+      "seller_id": 3770789659,
+      "accepts_mercadopago": true,
+      "price": 109.9,
+      "category_id": "MLB6899",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUGlyYWNpY2FiYVRVeENVRk5CVDA4NU4yR",
+          "name": "Piracicaba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyYWd1w6FUVmhZVUdseVlXTnBZMkZpW",
+          "name": "Jaraguá"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5538462733",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77672147",
+      "title": "Blister Duplo Coleção 30 anos Pókemon Copag - Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_896714-MLA117063745326_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77672147",
+      "id": "MLB5414776307",
+      "sold_quantity": 1800,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-03T04:16:27.058Z"
+}
