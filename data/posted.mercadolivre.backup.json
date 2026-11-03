@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7907814460",
-    "productKey": "8b660ee99efe635b",
-    "titleHash": "94a291c2b2efa3dd",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-30T03:01:38.008Z"
-  },
-  {
     "itemId": "MLB5410852112",
     "productKey": "68616dd501c539e3",
     "titleHash": "f40968a9ec38373d",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-03T21:47:13.849Z"
+  },
+  {
+    "itemId": "MLB5387146287",
+    "productKey": "ed23dda80ccddb8e",
+    "titleHash": "2833a17e649ec0a3",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-03T22:01:52.675Z"
   }
 ]
