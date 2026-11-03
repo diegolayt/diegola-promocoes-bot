@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5079124123",
-    "productKey": "779f5305bad544eb",
-    "titleHash": "84a8ab1cca29acd4",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-10-29T16:01:45.306Z"
-  },
-  {
     "itemId": "MLB4245350227",
     "productKey": "8f124f1e81765fa3",
     "titleHash": "d2550ddbb8986e76",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-03T09:16:36.398Z"
+  },
+  {
+    "itemId": "MLB5400098189",
+    "productKey": "d8cdb8921362f102",
+    "titleHash": "1b7a10c533ed1347",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-03T10:31:43.984Z"
   }
 ]
