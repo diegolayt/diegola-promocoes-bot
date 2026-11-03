@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4286128237",
-    "productKey": "5bd1da402a27bcc7",
-    "titleHash": "8b02e1cd20d5d3b1",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-29T18:46:28.643Z"
-  },
-  {
     "itemId": "MLB3399022201",
     "productKey": "f0bb7eab24f9461a",
     "titleHash": "5de2e14bd196608c",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-03T15:31:46.836Z"
+  },
+  {
+    "itemId": "MLB4993092667",
+    "productKey": "f2cc121a987258d9",
+    "titleHash": "6d8e200943d2f5c5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-03T15:46:53.483Z"
   }
 ]
