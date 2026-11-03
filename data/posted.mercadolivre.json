@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6182336356",
-    "productKey": "e772e6fb3830f752",
-    "titleHash": "796851ab66948329",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-10-29T11:46:26.610Z"
-  },
-  {
     "itemId": "MLB7902324636",
     "productKey": "5bbd37355bdaaca3",
     "titleHash": "c3390cb321d1deb2",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-03T00:16:34.031Z"
+  },
+  {
+    "itemId": "MLB6823283528",
+    "productKey": "e2489c1451cb6572",
+    "titleHash": "313364498118e4ab",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-03T00:31:38.021Z"
   }
 ]
