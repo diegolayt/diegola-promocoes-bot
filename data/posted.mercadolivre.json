@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7812632532",
-    "productKey": "a1f456d88f6147f8",
-    "titleHash": "95b060c5930b31da",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-29T18:16:32.510Z"
-  },
-  {
-    "itemId": "MLB6564848506",
-    "productKey": "e99726c12745d0a4",
-    "titleHash": "8b80f8f23c3c0fbd",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-29T18:31:35.205Z"
-  },
-  {
-    "itemId": "MLB7650802486",
-    "productKey": "2c2b688ed1849d8f",
-    "titleHash": "41b3bbae93bde1d9",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-29T18:46:28.643Z"
-  },
-  {
     "itemId": "MLB4286128237",
     "productKey": "5bd1da402a27bcc7",
     "titleHash": "8b02e1cd20d5d3b1",
@@ -4798,5 +4774,29 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-03T15:16:32.215Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-03T15:31:46.836Z"
+  },
+  {
+    "itemId": "MLB2751486961",
+    "productKey": "0da42abc4e07efc8",
+    "titleHash": "583334eed73b7bc4",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-03T15:31:46.836Z"
+  },
+  {
+    "itemId": "MLB7854138028",
+    "productKey": "f28c430b2349dd9d",
+    "titleHash": "cbc14ed247b8b10d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-03T15:31:46.836Z"
   }
 ]
