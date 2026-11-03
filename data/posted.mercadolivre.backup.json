@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4875367973",
-    "productKey": "8787a8725f82c581",
-    "titleHash": "da257b538969c80c",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-29T22:31:34.607Z"
-  },
-  {
-    "itemId": "MLB5574851656",
-    "productKey": "1605bae93a4b4381",
-    "titleHash": "f52975726d30d711",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-29T22:46:29.293Z"
-  },
-  {
-    "itemId": "MLB5039804027",
-    "productKey": "67b41de77f6e8bb3",
-    "titleHash": "25cf7e816ba7fd15",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-29T23:01:39.541Z"
-  },
-  {
     "itemId": "MLB3481515593",
     "productKey": "f7f7d61f6c30c3c5",
     "titleHash": "bd2c5073c62b4ca3",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-03T19:16:45.162Z"
+  },
+  {
+    "itemId": "MLB6943752224",
+    "productKey": "127b8887916baeb4",
+    "titleHash": "fa8d671112a0eeee",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-03T19:32:16.482Z"
+  },
+  {
+    "itemId": "MLB5652727666",
+    "productKey": "2db0bb2ae6da5aa1",
+    "titleHash": "5e8baeb24f7da5a4",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-03T19:32:16.483Z"
+  },
+  {
+    "itemId": "MLB5257223199",
+    "productKey": "f7582de1310b1e94",
+    "titleHash": "e4b7973e1f6a5d70",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-03T19:32:16.483Z"
   }
 ]
