@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB2670052459",
-    "productKey": "093b9eee2f11757f",
-    "titleHash": "20ca04f8adaf4372",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-10-30T00:46:26.695Z"
-  },
-  {
-    "itemId": "MLB7585112596",
-    "productKey": "5f26ec118c3c684f",
-    "titleHash": "072400fdebd3532c",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-10-30T01:01:40.492Z"
-  },
-  {
     "itemId": "MLB7900770912",
     "productKey": "13b41427d506aab9",
     "titleHash": "b820318c501ab566",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-03T20:31:42.552Z"
+  },
+  {
+    "itemId": "MLB5574851656",
+    "productKey": "1605bae93a4b4381",
+    "titleHash": "f52975726d30d711",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-03T20:46:51.198Z"
+  },
+  {
+    "itemId": "MLB4214380631",
+    "productKey": "599342f11b3c3501",
+    "titleHash": "b8c8c51b8b202d3f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-03T20:46:51.198Z"
   }
 ]
