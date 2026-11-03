@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3154294131",
+      "site_id": "MLB",
+      "seller_id": 533180837,
+      "accepts_mercadopago": true,
+      "price": 238,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "has_published_clips",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2114,
+      "original_price": 664.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRW1idSBkYXMgQXJ0ZXNUVXhDVUZOQlQwO",
+          "name": "Embu das Artes"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIFZpc3RhIEFsZWdyZVRWaFlSV",
+          "name": "Jardim Vista Alegre"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2218464525",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19063749",
+      "title": "Cafeteira Filtro Digital Arno New Element com 1,8L Tubo misturador e Funções Programáveis CFNE",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_795263-MLA99931138455_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19063749",
+      "id": "MLB3154294131",
+      "sold_quantity": 100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5930202958",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 79.9,
+      "category_id": "MLB6899",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "kvs_primary",
+        "first_party",
+        "catalog_boost",
+        "1p_2x_campaign",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 236642,
+      "original_price": 139.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3533939823",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61700105",
+      "title": "Box Pokemon Baralho De Batalha Mewtwo Ex Equipe Rocket Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61700105",
+      "id": "MLB5930202958",
+      "sold_quantity": 1100,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4286128237",
+      "site_id": "MLB",
+      "seller_id": 1158756553,
+      "accepts_mercadopago": true,
+      "price": 3199,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2962,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTENBUDI1",
+          "name": "Vila São Francisco (Zona Sul)"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3147875317",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47862757",
+      "title": "Tablet Samsung Galaxy Tab S10 Fe+ Wifi 128gb 8gb 13.1 cor Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_934070-MLA116317834095_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47862757",
+      "id": "MLB4286128237",
+      "sold_quantity": 900,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-11-03T17:02:18.080Z"
+}
