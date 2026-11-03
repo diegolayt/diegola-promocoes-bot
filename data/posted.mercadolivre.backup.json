@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7906065818",
-    "productKey": "d0747d37c319a421",
-    "titleHash": "5bc53b25ced2901c",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-30T02:16:32.161Z"
-  },
-  {
-    "itemId": "MLB5656974534",
-    "productKey": "0ab7ac472ebadef7",
-    "titleHash": "bb1dc58e46127577",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-30T02:31:31.321Z"
-  },
-  {
     "itemId": "MLB7907814460",
     "productKey": "8b660ee99efe635b",
     "titleHash": "94a291c2b2efa3dd",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-03T21:31:42.002Z"
+  },
+  {
+    "itemId": "MLB7779094920",
+    "productKey": "4d99ade24a114ecb",
+    "titleHash": "a60d5254dc087834",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-03T21:47:13.848Z"
+  },
+  {
+    "itemId": "MLB3481515593",
+    "productKey": "f7f7d61f6c30c3c5",
+    "titleHash": "bd2c5073c62b4ca3",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-03T21:47:13.849Z"
   }
 ]
