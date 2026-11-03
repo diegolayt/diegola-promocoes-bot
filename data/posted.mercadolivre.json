@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7268970592",
-    "productKey": "3f3b1148afa866b2",
-    "titleHash": "5f3c6ee8eb084863",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-29T15:01:38.871Z"
-  },
-  {
     "itemId": "MLB4571380593",
     "productKey": "82c1d37664f2e191",
     "titleHash": "a6eac2b7c71246e4",
@@ -4798,5 +4790,13 @@
     "category": "notebook",
     "sourceCategoryId": "MLB430687",
     "reservedAt": "2026-11-03T05:31:41.415Z"
+  },
+  {
+    "itemId": "MLB3946830801",
+    "productKey": "9180f7359eb828c8",
+    "titleHash": "334a61232386e846",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-03T05:46:26.532Z"
   }
 ]
