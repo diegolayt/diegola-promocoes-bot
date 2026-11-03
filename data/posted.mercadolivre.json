@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4025051609",
-    "productKey": "e3a32e5e9491b448",
-    "titleHash": "1d773991864c4e55",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-29T16:46:35.933Z"
-  },
-  {
     "itemId": "MLB5738738172",
     "productKey": "9eb5fc3ffddd6db0",
     "titleHash": "945f28db261b2b05",
@@ -4798,5 +4790,13 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-11-03T13:01:36.404Z"
+  },
+  {
+    "itemId": "MLB3941733035",
+    "productKey": "30d7d76349d48d7c",
+    "titleHash": "4becc55da500e5d4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-03T13:46:38.663Z"
   }
 ]
