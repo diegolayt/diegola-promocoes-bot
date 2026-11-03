@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5120112339",
-    "productKey": "f170975c8b48cfc2",
-    "titleHash": "acc952b54c0303a3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-30T01:46:35.916Z"
-  },
-  {
-    "itemId": "MLB4962524945",
-    "productKey": "f3ed58a1077cc9a4",
-    "titleHash": "4fe7f450f5d9b4c0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-10-30T02:01:37.187Z"
-  },
-  {
     "itemId": "MLB7906065818",
     "productKey": "d0747d37c319a421",
     "titleHash": "5bc53b25ced2901c",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-03T21:17:16.847Z"
+  },
+  {
+    "itemId": "MLB3798032968",
+    "productKey": "873a360bbc93b276",
+    "titleHash": "f286bb4769ccb2ae",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-03T21:31:42.002Z"
+  },
+  {
+    "itemId": "MLB4936320789",
+    "productKey": "7df1458663dc1f98",
+    "titleHash": "3a68c17bceca4a73",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-03T21:31:42.002Z"
   }
 ]
