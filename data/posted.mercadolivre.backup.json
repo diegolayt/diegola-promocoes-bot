@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5232182936",
-    "productKey": "34deacf4f5156c88",
-    "titleHash": "4becc55da500e5d4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-29T12:46:38.460Z"
-  },
-  {
     "itemId": "MLB5310598833",
     "productKey": "329979dba837faee",
     "titleHash": "fc34165272bbea83",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-03T01:01:39.647Z"
+  },
+  {
+    "itemId": "MLB3820180034",
+    "productKey": "f764b26a37859a9e",
+    "titleHash": "8b8c5f4cc7076bed",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-03T01:16:27.407Z"
   }
 ]
