@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4264223185",
-    "productKey": "ec4b519641a7ee71",
-    "titleHash": "06afb66b058ef953",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-29T19:31:36.348Z"
-  },
-  {
-    "itemId": "MLB4053374163",
-    "productKey": "04168d7af042a735",
-    "titleHash": "cd6447da33f541b3",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-29T19:31:36.348Z"
-  },
-  {
     "itemId": "MLB5358997355",
     "productKey": "dea2c4a9da61bcd6",
     "titleHash": "6c866c86c418343d",
@@ -4798,5 +4782,21 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-03T16:32:05.499Z"
+  },
+  {
+    "itemId": "MLB3399022201",
+    "productKey": "f0bb7eab24f9461a",
+    "titleHash": "5de2e14bd196608c",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-03T16:46:44.563Z"
+  },
+  {
+    "itemId": "MLB4527837545",
+    "productKey": "7e5eeb5fc2da9a55",
+    "titleHash": "6ab4b45d11833727",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-03T16:46:44.563Z"
   }
 ]
