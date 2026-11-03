@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5504176212",
-    "productKey": "9132e4c8f8f9ea53",
-    "titleHash": "798e6332f7c74764",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-10-29T13:46:30.831Z"
-  },
-  {
     "itemId": "MLB2787245412",
     "productKey": "50274da5b327a827",
     "titleHash": "22b4a28cffd81415",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-03T03:16:31.062Z"
+  },
+  {
+    "itemId": "MLB6182336356",
+    "productKey": "e772e6fb3830f752",
+    "titleHash": "796851ab66948329",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-03T03:31:37.981Z"
   }
 ]
