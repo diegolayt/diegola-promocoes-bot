@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7902324636",
-    "productKey": "5bbd37355bdaaca3",
-    "titleHash": "c3390cb321d1deb2",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-10-29T12:31:34.884Z"
-  },
-  {
     "itemId": "MLB5232182936",
     "productKey": "34deacf4f5156c88",
     "titleHash": "4becc55da500e5d4",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-03T00:31:38.021Z"
+  },
+  {
+    "itemId": "MLB4067339459",
+    "productKey": "8c6368c4182d052e",
+    "titleHash": "076b7b730e1e7886",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-03T01:01:39.647Z"
   }
 ]
