@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3399022201",
-    "productKey": "f0bb7eab24f9461a",
-    "titleHash": "5de2e14bd196608c",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-29T19:01:40.778Z"
-  },
-  {
     "itemId": "MLB7067513498",
     "productKey": "630abd9b007307fe",
     "titleHash": "77f4d7c3280dfb52",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-03T15:46:53.483Z"
+  },
+  {
+    "itemId": "MLB7657977886",
+    "productKey": "525cdc14fb44b9f9",
+    "titleHash": "48172cb7558886dd",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-03T16:02:06.672Z"
   }
 ]
