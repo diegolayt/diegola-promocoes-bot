@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3456025603",
-    "productKey": "c9b5c82a0a206f5a",
-    "titleHash": "26b5424896b8e331",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-31T12:01:41.870Z"
-  },
-  {
     "itemId": "MLB4274565581",
     "productKey": "c4e6acaed28a56ed",
     "titleHash": "a8d7d85f80b82e40",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-04T22:01:45.790Z"
+  },
+  {
+    "itemId": "MLB3683277464",
+    "productKey": "029d0c6fc887611c",
+    "titleHash": "a2174520f63568e4",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-04T22:16:33.294Z"
   }
 ]
