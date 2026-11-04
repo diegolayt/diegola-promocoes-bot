@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5066903754",
-    "productKey": "2fbe972296c15ac4",
-    "titleHash": "94d92cdc19e55d62",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-31T06:46:36.562Z"
-  },
-  {
-    "itemId": "MLB4324797875",
-    "productKey": "0a5cc4226c46bc09",
-    "titleHash": "03b0c5869530dd67",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-31T07:16:33.159Z"
-  },
-  {
     "itemId": "MLB5097723592",
     "productKey": "0314016684b00af3",
     "titleHash": "f150802ac716f3c0",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-04T20:46:36.670Z"
+  },
+  {
+    "itemId": "MLB4287637614",
+    "productKey": "69af084751970c16",
+    "titleHash": "5d1608fdc1548bcb",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-04T21:01:36.660Z"
+  },
+  {
+    "itemId": "MLB5249470421",
+    "productKey": "7ff4850888a120db",
+    "titleHash": "9c4f307b8d6d26f0",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-04T21:01:36.661Z"
   }
 ]
