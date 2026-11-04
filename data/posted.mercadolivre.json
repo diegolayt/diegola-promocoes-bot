@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5332948385",
-    "productKey": "0c50fbe1ab1492a5",
-    "titleHash": "08c42f6b7de828d4",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-10-30T14:31:39.770Z"
-  },
-  {
     "itemId": "MLB1813858183",
     "productKey": "0093a548dee7b78c",
     "titleHash": "acc61814edc438ee",
@@ -4798,5 +4790,13 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-04T08:31:41.445Z"
+  },
+  {
+    "itemId": "MLB4452425949",
+    "productKey": "4da8403653ad3f9a",
+    "titleHash": "3f644395875c5baa",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-04T08:46:32.906Z"
   }
 ]
