@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5482406881",
-    "productKey": "9b61d7948d2ea31f",
-    "titleHash": "1dabb65e3b48032c",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-30T09:46:33.568Z"
-  },
-  {
     "itemId": "MLB7741387658",
     "productKey": "ab95e285844c979e",
     "titleHash": "1da1223a6945e333",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-04T03:16:38.307Z"
+  },
+  {
+    "itemId": "MLB7868264204",
+    "productKey": "58205cfa4a4b9934",
+    "titleHash": "fd136a4e9b7f6478",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-04T04:01:42.093Z"
   }
 ]
