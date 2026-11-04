@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5800037458",
-    "productKey": "b6d1cedb49d30deb",
-    "titleHash": "51bd3c9452ef23f3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-30T10:31:38.801Z"
-  },
-  {
-    "itemId": "MLB6400344928",
-    "productKey": "d6cc0984381470cf",
-    "titleHash": "a33e46855fcff71c",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-30T10:31:38.801Z"
-  },
-  {
-    "itemId": "MLB5934587642",
-    "productKey": "4c9a2bafeaf753b6",
-    "titleHash": "17682e2f317c0d59",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-30T10:46:29.667Z"
-  },
-  {
     "itemId": "MLB7619563174",
     "productKey": "d024777c1c0be8fe",
     "titleHash": "50c5c1e2d416e9e7",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-04T04:31:43.031Z"
+  },
+  {
+    "itemId": "MLB5300566397",
+    "productKey": "047b8841586368ce",
+    "titleHash": "d0d73644404827f4",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-04T04:46:40.734Z"
+  },
+  {
+    "itemId": "MLB6222806226",
+    "productKey": "110c81276c079aea",
+    "titleHash": "b5237db00758c38a",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-04T04:46:40.734Z"
+  },
+  {
+    "itemId": "MLB5745031466",
+    "productKey": "e16839c263868c09",
+    "titleHash": "eb72b6477333614c",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-04T04:46:40.734Z"
   }
 ]
