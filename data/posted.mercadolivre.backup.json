@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7614069762",
-    "productKey": "b124c07810832875",
-    "titleHash": "193e39a55d48c15a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-30T20:31:41.759Z"
-  },
-  {
     "itemId": "MLB7724214528",
     "productKey": "b7371e77d704b462",
     "titleHash": "cc44c47e60e54f0b",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-04T16:01:43.092Z"
+  },
+  {
+    "itemId": "MLB4449888791",
+    "productKey": "735f5df2782173d2",
+    "titleHash": "1df3875054cdeb21",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-04T16:16:33.978Z"
   }
 ]
