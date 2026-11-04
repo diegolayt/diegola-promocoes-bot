@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6908320390",
+      "site_id": "MLB",
+      "seller_id": 132204345,
+      "accepts_mercadopago": true,
+      "price": 327.9,
+      "category_id": "MLB120316",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 383786,
+      "original_price": 499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTjMxMzZk",
+          "name": "Contagem"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4046002911",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46671029",
+      "title": "Cooktop 4 Bocas Atlas Agile Up Mesa Vidro Mega Chama Bivolt",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_662369-MLA99422748970_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46671029",
+      "id": "MLB6908320390",
+      "sold_quantity": 1700,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB5310339963",
+      "site_id": "MLB",
+      "seller_id": 311895197,
+      "accepts_mercadopago": true,
+      "price": 1959.9,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 24 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1493,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [
+          "optional_me1_chosen"
+        ],
+        "cost": 99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NJTWUyMzlm",
+          "name": "Simões Filho"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 24,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "24 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3211971880",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36579268",
+      "title": "Máquina de Lavar 15kg Electrolux Premium Care com Cesto Inox, Jet&Clean e Time Control LEC15",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_904132-MLA99986926583_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36579268",
+      "id": "MLB5310339963",
+      "sold_quantity": 1600,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-04T07:01:46.119Z"
+}
