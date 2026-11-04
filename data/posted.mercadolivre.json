@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6605415878",
-    "productKey": "7c1203a2803ba98c",
-    "titleHash": "c471681ba2f9bd71",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-30T12:31:38.181Z"
-  },
-  {
-    "itemId": "MLB6901647228",
-    "productKey": "f46488f5ce61c7a7",
-    "titleHash": "5ac572bbf7b65602",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-30T12:31:38.181Z"
-  },
-  {
     "itemId": "MLB5929486360",
     "productKey": "3ae67792fdb583fa",
     "titleHash": "25054d9ac727dd22",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-04T06:31:33.353Z"
+  },
+  {
+    "itemId": "MLB2147833620",
+    "productKey": "7fdc50d60ebffd96",
+    "titleHash": "f971c499c5d94e8b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-04T06:46:34.019Z"
+  },
+  {
+    "itemId": "MLB6499961726",
+    "productKey": "2de706a58a8b82bb",
+    "titleHash": "7de31561f0e34b0a",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-04T06:46:34.019Z"
   }
 ]
