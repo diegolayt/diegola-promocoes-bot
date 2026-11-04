@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4771398286",
-    "productKey": "12bdcfabca3caf4e",
-    "titleHash": "f71509e0a3defcad",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-30T10:31:38.800Z"
-  },
-  {
-    "itemId": "MLB7320329622",
-    "productKey": "bf86873401aafdee",
-    "titleHash": "b95467ee86ed620d",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-30T10:31:38.801Z"
-  },
-  {
     "itemId": "MLB5800037458",
     "productKey": "b6d1cedb49d30deb",
     "titleHash": "51bd3c9452ef23f3",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-04T04:16:33.769Z"
+  },
+  {
+    "itemId": "MLB4590134133",
+    "productKey": "9799e9bec4555200",
+    "titleHash": "88c008e263ace37e",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-04T04:31:43.031Z"
+  },
+  {
+    "itemId": "MLB5482406881",
+    "productKey": "9b61d7948d2ea31f",
+    "titleHash": "1dabb65e3b48032c",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-04T04:31:43.031Z"
   }
 ]
