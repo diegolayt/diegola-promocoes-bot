@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7619563174",
-    "productKey": "d024777c1c0be8fe",
-    "titleHash": "50c5c1e2d416e9e7",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-10-30T10:46:29.667Z"
-  },
-  {
-    "itemId": "MLB5289242951",
-    "productKey": "a9dd8ff2b914849e",
-    "titleHash": "bf0fa0934c37b081",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-30T10:46:29.667Z"
-  },
-  {
     "itemId": "MLB5247049689",
     "productKey": "5fe4d75d19c4b6ae",
     "titleHash": "208803b964ddf440",
@@ -4798,5 +4782,21 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-04T04:46:40.734Z"
+  },
+  {
+    "itemId": "MLB5409105680",
+    "productKey": "b5841668af3df70a",
+    "titleHash": "26a8aa4b820e295a",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-04T05:01:38.196Z"
+  },
+  {
+    "itemId": "MLB7934573728",
+    "productKey": "d6cc0984381470cf",
+    "titleHash": "a33e46855fcff71c",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-04T05:01:38.196Z"
   }
 ]
