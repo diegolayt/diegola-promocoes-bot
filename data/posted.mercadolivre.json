@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7724214528",
-    "productKey": "b7371e77d704b462",
-    "titleHash": "cc44c47e60e54f0b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-30T20:31:41.759Z"
-  },
-  {
-    "itemId": "MLB7138654316",
-    "productKey": "d9f9ebef6ca08a2f",
-    "titleHash": "ffe4bcc70178fb4b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-30T20:46:33.373Z"
-  },
-  {
-    "itemId": "MLB5484536543",
-    "productKey": "9d501d04b619787b",
-    "titleHash": "60b43647216b307c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-30T20:46:33.373Z"
-  },
-  {
     "itemId": "MLB5250712463",
     "productKey": "3b13b451c92df475",
     "titleHash": "5933a654bc57192d",
@@ -4798,5 +4774,29 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-04T16:16:33.978Z"
+  },
+  {
+    "itemId": "MLB5496597164",
+    "productKey": "7c16ecc85931f27a",
+    "titleHash": "85ee5166025b545e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-04T16:31:40.006Z"
+  },
+  {
+    "itemId": "MLB5261097875",
+    "productKey": "a04a75b9fb4e31ed",
+    "titleHash": "f6dd9b7437ccaa6c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-04T16:31:40.006Z"
+  },
+  {
+    "itemId": "MLB5383758300",
+    "productKey": "07f1520aa80ab712",
+    "titleHash": "bc8ac8efca670c74",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-04T16:31:40.006Z"
   }
 ]

@@ -1,0 +1,228 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5496597164",
+      "site_id": "MLB",
+      "seller_id": 1588336861,
+      "accepts_mercadopago": true,
+      "price": 99.9,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "has_published_clips",
+        "catalog_boost",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 86888,
+      "original_price": 116.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3277543567",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52363091",
+      "title": "Escova Progressiva 150g - Fashion Gold",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_988786-MLA120488791673_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52363091",
+      "id": "MLB5496597164",
+      "sold_quantity": 1800,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5261097875",
+      "site_id": "MLB",
+      "seller_id": 3007961740,
+      "accepts_mercadopago": true,
+      "price": 99.98,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 104,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Campinas"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5213320835",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB39230611",
+      "title": "Creatina Integralmédica sem sabor pacote x 2 frascos de 300g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99985874825_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB39230611",
+      "id": "MLB5261097875",
+      "sold_quantity": 1500,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5383758300",
+      "site_id": "MLB",
+      "seller_id": 267892530,
+      "accepts_mercadopago": true,
+      "price": 2099,
+      "category_id": "MLB73046",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "catalog_boost",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1215,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 39.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDM4RTVG",
+          "name": "Cidade Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3134702193",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB49503931",
+      "title": "Lava-louça Electrolux Inox Com Programa Lava E Seca LS08E Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_606650-MLA99935855021_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB49503931",
+      "id": "MLB5383758300",
+      "sold_quantity": 300,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-04T16:31:40.008Z"
+}
