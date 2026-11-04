@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4489955434",
+      "site_id": "MLB",
+      "seller_id": 440775073,
+      "accepts_mercadopago": true,
+      "price": 297.79,
+      "category_id": "MLB188790",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 2 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "forced_business_price_per_quantity",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5472,
+      "original_price": 413.5,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBTTMwYg",
+          "name": "Campo Largo"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDI2RjlD",
+          "name": "Vila Bancária"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 2,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "2 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU776554191",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19109935",
+      "title": "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700 06013A30E0",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_670719-MLA99986706915_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19109935",
+      "id": "MLB4489955434",
+      "sold_quantity": 1200,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB4754832747",
+      "site_id": "MLB",
+      "seller_id": 3350694048,
+      "accepts_mercadopago": true,
+      "price": 479,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 430068,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDUzODQ",
+          "name": "Vila Ema"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4078907064",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65263077",
+      "title": "Drone Gt8 Profissional 4k Tela No Controle 2 Baterias E Bag",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_910577-MLA105966199238_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65263077",
+      "id": "MLB4754832747",
+      "sold_quantity": 1100,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-11-04T17:46:41.163Z"
+}

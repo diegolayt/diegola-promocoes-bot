@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6074552972",
-    "productKey": "6187b33bbd506a19",
-    "titleHash": "50514a501fdcd1b8",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-30T23:46:33.271Z"
-  },
-  {
-    "itemId": "MLB4028626831",
-    "productKey": "5a76a4eddf9a8c24",
-    "titleHash": "80b12ed4dcc25fa6",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-31T00:01:39.618Z"
-  },
-  {
     "itemId": "MLB4409249557",
     "productKey": "56e953d72225b9db",
     "titleHash": "a52b2817a8ca9972",
@@ -4798,5 +4782,21 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-11-04T17:31:30.852Z"
+  },
+  {
+    "itemId": "MLB4489955434",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-04T17:46:41.161Z"
+  },
+  {
+    "itemId": "MLB4754832747",
+    "productKey": "fdc728f28239c079",
+    "titleHash": "866d48520fac2cd5",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-04T17:46:41.161Z"
   }
 ]
