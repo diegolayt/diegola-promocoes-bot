@@ -1,0 +1,223 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6895678534",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 70.8,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "first_party",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 388342,
+      "original_price": 74.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4038447883",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB71623820",
+      "title": "Corte de espinhos e rosas 6 - Maas, Sarah J. - Grupo Editorial Record - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_947247-MLA117489122095_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB71623820",
+      "id": "MLB6895678534",
+      "sold_quantity": 600,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    },
+    {
+      "item_id": "MLB5342539293",
+      "site_id": "MLB",
+      "seller_id": 3069221610,
+      "accepts_mercadopago": true,
+      "price": 179.9,
+      "category_id": "MLB277555",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDdrcmxq",
+          "name": "Vila Zilda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5374856591",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24348255",
+      "title": "Apple AirTag Rastreador Localizador APENAS UMA UNIDADE",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603595-MLA99450394422_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24348255",
+      "id": "MLB5342539293",
+      "sold_quantity": 400,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5420155653",
+      "site_id": "MLB",
+      "seller_id": 2705700850,
+      "accepts_mercadopago": true,
+      "price": 4048,
+      "category_id": "MLB268508",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NIQTEyNmVk",
+          "name": "Chapecó"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQkVGQUM1RjBF",
+          "name": "Efapi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5598259488",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB39865327",
+      "title": "Impressora 3d Bambu Lab A1 Combo - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_727903-MLA108910638494_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB39865327",
+      "id": "MLB5420155653",
+      "sold_quantity": 200,
+      "rotationCategory": "impressão",
+      "sourceCategoryId": "MLB5875",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-11-04T14:31:45.597Z"
+}
