@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7716936568",
-    "productKey": "e8b365816ac55e07",
-    "titleHash": "a903844b96a9cadf",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-10-30T16:01:41.920Z"
-  },
-  {
-    "itemId": "MLB5701841518",
-    "productKey": "e47e31aa7f0f7ddf",
-    "titleHash": "753d54b2272a6993",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-30T16:01:41.921Z"
-  },
-  {
     "itemId": "MLB7821666874",
     "productKey": "d947d4019fef538b",
     "titleHash": "0c72f8035670cde0",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-04T10:16:40.135Z"
+  },
+  {
+    "itemId": "MLB4513056610",
+    "productKey": "a6c9a899dbe6cf71",
+    "titleHash": "6733c606fc453816",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-04T10:31:42.786Z"
+  },
+  {
+    "itemId": "MLB7482186968",
+    "productKey": "f46488f5ce61c7a7",
+    "titleHash": "5ac572bbf7b65602",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-04T10:31:42.786Z"
   }
 ]
