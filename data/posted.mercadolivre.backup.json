@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2605646639",
-    "productKey": "1010a845202376db",
-    "titleHash": "ae3d9f5c10f2e3eb",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-10-31T06:31:40.878Z"
-  },
-  {
     "itemId": "MLB5066903754",
     "productKey": "2fbe972296c15ac4",
     "titleHash": "94d92cdc19e55d62",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-04T20:31:38.690Z"
+  },
+  {
+    "itemId": "MLB4268042659",
+    "productKey": "cddbf545af237f6f",
+    "titleHash": "3bbe4ed40543e0e7",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-04T20:46:36.670Z"
   }
 ]
