@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7711748652",
-    "productKey": "047b8841586368ce",
-    "titleHash": "d0d73644404827f4",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-30T07:16:29.696Z"
-  },
-  {
     "itemId": "MLB5478041541",
     "productKey": "308da311e0fa26e0",
     "titleHash": "d31d3cd00820bae0",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-04T01:01:38.009Z"
+  },
+  {
+    "itemId": "MLB5410852112",
+    "productKey": "68616dd501c539e3",
+    "titleHash": "f40968a9ec38373d",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-04T01:16:33.668Z"
   }
 ]
