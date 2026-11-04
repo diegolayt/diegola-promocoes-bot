@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7876844104",
-    "productKey": "c2379be6a1181cbb",
-    "titleHash": "0b1e7d2c4b9152ac",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-10-30T09:16:32.114Z"
-  },
-  {
     "itemId": "MLB5244210575",
     "productKey": "c193543bb616b26e",
     "titleHash": "1a546062e1c9a180",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-04T02:46:28.830Z"
+  },
+  {
+    "itemId": "MLB5466766687",
+    "productKey": "fe3916e4145f9c4c",
+    "titleHash": "446d0c834ed457eb",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-04T03:01:48.382Z"
   }
 ]
