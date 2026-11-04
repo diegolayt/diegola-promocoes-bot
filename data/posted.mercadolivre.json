@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5244210575",
-    "productKey": "c193543bb616b26e",
-    "titleHash": "1a546062e1c9a180",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-10-30T09:16:32.115Z"
-  },
-  {
-    "itemId": "MLB4275712681",
-    "productKey": "ef9c194ebea065c8",
-    "titleHash": "1fa83cf79fa53ee5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-10-30T09:46:33.568Z"
-  },
-  {
     "itemId": "MLB5482406881",
     "productKey": "9b61d7948d2ea31f",
     "titleHash": "1dabb65e3b48032c",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-04T03:01:48.382Z"
+  },
+  {
+    "itemId": "MLB7813033302",
+    "productKey": "d3b21ecf67f9ebf0",
+    "titleHash": "5623184114c32fd2",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-04T03:16:38.307Z"
+  },
+  {
+    "itemId": "MLB5751106648",
+    "productKey": "b0fe009454e44a2b",
+    "titleHash": "8575f837262683cc",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-04T03:16:38.307Z"
   }
 ]
