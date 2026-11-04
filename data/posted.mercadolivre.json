@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5439370761",
-    "productKey": "dab439480dd9b128",
-    "titleHash": "d54de27ef0c2bc22",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-30T17:01:43.758Z"
-  },
-  {
     "itemId": "MLB7736095488",
     "productKey": "0b59dfc2ed1d3fd2",
     "titleHash": "106c79a09d227fe4",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-04T13:31:41.485Z"
+  },
+  {
+    "itemId": "MLB6385784946",
+    "productKey": "7b4040ad32005e88",
+    "titleHash": "312975b47aae0337",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-04T13:46:34.269Z"
   }
 ]
