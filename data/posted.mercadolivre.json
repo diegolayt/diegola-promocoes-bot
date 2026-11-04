@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7821666874",
-    "productKey": "d947d4019fef538b",
-    "titleHash": "0c72f8035670cde0",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-30T16:01:41.921Z"
-  },
-  {
     "itemId": "MLB7822235288",
     "productKey": "f43c4b67e4b561d2",
     "titleHash": "ef27e31e530b0098",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-04T10:31:42.786Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-04T10:46:36.754Z"
   }
 ]
