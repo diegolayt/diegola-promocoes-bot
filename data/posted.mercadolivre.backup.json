@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5125648843",
-    "productKey": "e192924e8dfd60cb",
-    "titleHash": "df58680138676c48",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-31T09:16:28.317Z"
-  },
-  {
-    "itemId": "MLB4576693657",
-    "productKey": "ebfca99113baae99",
-    "titleHash": "af8ecbf6a7506bdc",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-31T09:31:33.178Z"
-  },
-  {
-    "itemId": "MLB4361263765",
-    "productKey": "238090adb5a1bf75",
-    "titleHash": "246588000d56eb53",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-31T09:31:33.178Z"
-  },
-  {
-    "itemId": "MLB7030301236",
-    "productKey": "2c91e939a7b3a3a7",
-    "titleHash": "bbfa3287b1760a8f",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-31T09:46:30.043Z"
-  },
-  {
     "itemId": "MLB5413030478",
     "productKey": "5e2b747dccadc7ed",
     "titleHash": "b11c7c849e9f236c",
@@ -4798,5 +4766,37 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-04T21:16:36.536Z"
+  },
+  {
+    "itemId": "MLB5097723592",
+    "productKey": "0314016684b00af3",
+    "titleHash": "f150802ac716f3c0",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-04T21:31:29.661Z"
+  },
+  {
+    "itemId": "MLB4454189603",
+    "productKey": "12075010278a8522",
+    "titleHash": "e82cc8ca27f22e47",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-04T21:31:29.661Z"
+  },
+  {
+    "itemId": "MLB5446793961",
+    "productKey": "ae11f27802361e7f",
+    "titleHash": "fd53318c6e50c543",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-04T21:31:29.661Z"
+  },
+  {
+    "itemId": "MLB7238743454",
+    "productKey": "6988f39a37694d7a",
+    "titleHash": "41baf1c58abeef70",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-04T21:31:29.661Z"
   }
 ]
