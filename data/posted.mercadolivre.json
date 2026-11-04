@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3836168789",
-    "productKey": "da452a29d07592e5",
-    "titleHash": "c09bfcf6c8bdf349",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-10-30T16:46:30.059Z"
-  },
-  {
     "itemId": "MLB5255879423",
     "productKey": "392dfea6c16fe498",
     "titleHash": "28777b6d8f1e2193",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-04T12:46:32.293Z"
+  },
+  {
+    "itemId": "MLB7677568494",
+    "productKey": "d00fd3d38d9c5864",
+    "titleHash": "c1f71c9a94dc2f5e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-04T13:01:51.356Z"
   }
 ]
