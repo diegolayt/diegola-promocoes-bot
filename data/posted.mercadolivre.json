@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5255879423",
-    "productKey": "392dfea6c16fe498",
-    "titleHash": "28777b6d8f1e2193",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-30T17:01:43.757Z"
-  },
-  {
     "itemId": "MLB5439370761",
     "productKey": "dab439480dd9b128",
     "titleHash": "d54de27ef0c2bc22",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-04T13:01:51.356Z"
+  },
+  {
+    "itemId": "MLB5324538773",
+    "productKey": "2f98261615449fda",
+    "titleHash": "282883ce1da376df",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-04T13:31:41.485Z"
   }
 ]
