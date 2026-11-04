@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5250712463",
-    "productKey": "3b13b451c92df475",
-    "titleHash": "5933a654bc57192d",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-10-30T20:46:33.373Z"
-  },
-  {
-    "itemId": "MLB3371578831",
-    "productKey": "10b192510125e400",
-    "titleHash": "199e80e775bd5fd7",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-10-30T21:01:39.275Z"
-  },
-  {
-    "itemId": "MLB7590996778",
-    "productKey": "d91a46db3bbd17c5",
-    "titleHash": "83f5c4bda28b8b90",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-30T21:01:39.275Z"
-  },
-  {
     "itemId": "MLB7736503520",
     "productKey": "e689be77e279c615",
     "titleHash": "10ad4952157baf45",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-04T16:31:40.006Z"
+  },
+  {
+    "itemId": "MLB6601011334",
+    "productKey": "c421c7dbedfa4af5",
+    "titleHash": "d1f3d0e27d1791c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-04T16:46:51.826Z"
+  },
+  {
+    "itemId": "MLB7477347684",
+    "productKey": "5ce7bec6505590b7",
+    "titleHash": "86fec3bd17183974",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-04T16:46:51.826Z"
+  },
+  {
+    "itemId": "MLB4654715671",
+    "productKey": "0c0436ea74e14fa2",
+    "titleHash": "d846edc6340a40b5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-04T16:46:51.826Z"
   }
 ]
