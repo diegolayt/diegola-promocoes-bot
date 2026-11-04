@@ -1,0 +1,281 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7845010388",
+      "site_id": "MLB",
+      "seller_id": 234000251,
+      "accepts_mercadopago": true,
+      "price": 2099,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 942,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 29.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4412697627",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67136040",
+      "title": "Smart Tv Tcl 50 Polegadas Qled 4k P7l Wifi Bluetooth Google Tv Hdr10+ 60 Hz Aipq 50p7l",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_978669-MLA114751005026_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67136040",
+      "id": "MLB7845010388",
+      "sold_quantity": 1200,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    },
+    {
+      "item_id": "MLB4881328971",
+      "site_id": "MLB",
+      "seller_id": 1777486680,
+      "accepts_mercadopago": true,
+      "price": 899.99,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ01BTjFmM2Jh",
+          "name": "Manaus"
+        },
+        "state": {
+          "id": "TUxCUEFNQVMxNzgwYQ",
+          "name": "Amazonas"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjM1OTU2",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4298199838",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54961556",
+      "title": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_895724-MLA91526198522_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54961556",
+      "id": "MLB4881328971",
+      "sold_quantity": 1900,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB3874967101",
+      "site_id": "MLB",
+      "seller_id": 609475751,
+      "accepts_mercadopago": true,
+      "price": 191.95,
+      "category_id": "MLB188914",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTUzMDE",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJBTTgwODU",
+          "name": "Ramos"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU778959999",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27080148",
+      "title": "Kit 5 Refis Filtro Água Planeta Água Pro Life Soft Everest Compatível",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_738804-MLA99522252592_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27080148",
+      "id": "MLB3874967101",
+      "sold_quantity": 800,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB7920657260",
+      "site_id": "MLB",
+      "seller_id": 3772014839,
+      "accepts_mercadopago": true,
+      "price": 40,
+      "category_id": "MLB70632",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQWd1ZG9zVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Agudos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5721788523",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23535579",
+      "title": "Corretivo de alta cobertura Natura Una Extrema",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_737709-MLU74482834658_022024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23535579",
+      "id": "MLB7920657260",
+      "sold_quantity": 1600,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-04T08:31:41.448Z"
+}
