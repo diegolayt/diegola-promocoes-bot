@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7816881744",
-    "productKey": "6c831738d13143fe",
-    "titleHash": "da1d90777d90d970",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-10-30T08:46:30.540Z"
-  },
-  {
     "itemId": "MLB7876844104",
     "productKey": "c2379be6a1181cbb",
     "titleHash": "0b1e7d2c4b9152ac",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-04T02:31:38.688Z"
+  },
+  {
+    "itemId": "MLB7773409152",
+    "productKey": "d9a1640cf1b8c6e3",
+    "titleHash": "1fa95cf3ec92b68b",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-04T02:46:28.830Z"
   }
 ]
