@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7724626624",
-    "productKey": "58408d4b8d164d44",
-    "titleHash": "70b737e1b7d26e39",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-10-30T06:31:35.881Z"
-  },
-  {
-    "itemId": "MLB7736493970",
-    "productKey": "4e0745be82026c1f",
-    "titleHash": "95ec9b254759a637",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-30T06:46:28.684Z"
-  },
-  {
     "itemId": "MLB4604327726",
     "productKey": "110c81276c079aea",
     "titleHash": "b5237db00758c38a",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-04T00:31:40.869Z"
+  },
+  {
+    "itemId": "MLB3091503617",
+    "productKey": "50811f927d6a844d",
+    "titleHash": "a24ae796cebc9cc5",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-04T00:46:31.665Z"
+  },
+  {
+    "itemId": "MLB7160373162",
+    "productKey": "b99a995b906409f9",
+    "titleHash": "7eece60ff3ecbbb7",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-04T00:46:31.666Z"
   }
 ]
