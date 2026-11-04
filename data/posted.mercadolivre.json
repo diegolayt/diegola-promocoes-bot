@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7068336654",
-    "productKey": "f957ab0d39b2d366",
-    "titleHash": "b1c4d572f20022fd",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-30T18:01:38.985Z"
-  },
-  {
     "itemId": "MLB5322153905",
     "productKey": "7553a221ebd439ad",
     "titleHash": "bbf4157e2e7d1e0f",
@@ -4798,5 +4790,13 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-11-04T14:31:45.594Z"
+  },
+  {
+    "itemId": "MLB7021195702",
+    "productKey": "3290caa2bbf60419",
+    "titleHash": "0a784ed1ced73153",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-04T15:01:41.423Z"
   }
 ]
