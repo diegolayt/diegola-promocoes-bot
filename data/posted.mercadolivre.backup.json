@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5399652035",
-    "productKey": "df46f21258a3c7a1",
-    "titleHash": "1cbc1384378886f7",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-30T12:01:37.683Z"
-  },
-  {
-    "itemId": "MLB2147833620",
-    "productKey": "7fdc50d60ebffd96",
-    "titleHash": "f971c499c5d94e8b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-30T12:16:36.584Z"
-  },
-  {
     "itemId": "MLB5310339963",
     "productKey": "130db9fd8b248230",
     "titleHash": "8f472aee6ac699cb",
@@ -4798,5 +4782,21 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-04T05:46:33.736Z"
+  },
+  {
+    "itemId": "MLB3903508275",
+    "productKey": "5c15702ed6d4f3bb",
+    "titleHash": "eab2d9165b0159cb",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-04T06:01:38.393Z"
+  },
+  {
+    "itemId": "MLB4094474629",
+    "productKey": "65e1d528b27f6299",
+    "titleHash": "965c2a083e3288c7",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-04T06:01:38.393Z"
   }
 ]
