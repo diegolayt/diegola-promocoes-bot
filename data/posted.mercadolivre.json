@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4367431903",
-    "productKey": "3290caa2bbf60419",
-    "titleHash": "0a784ed1ced73153",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-10-30T17:01:43.758Z"
-  },
-  {
-    "itemId": "MLB4106194351",
-    "productKey": "35614e530157f7fe",
-    "titleHash": "308ca2a85e1b8a8a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-30T17:16:26.882Z"
-  },
-  {
-    "itemId": "MLB7860734352",
-    "productKey": "85d041b839360d1e",
-    "titleHash": "89b2d3d9c594e645",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-30T17:31:39.417Z"
-  },
-  {
     "itemId": "MLB4590366737",
     "productKey": "dc20aba18ca9661f",
     "titleHash": "5268a2c26c99ce4b",
@@ -4798,5 +4774,29 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-04T14:01:50.925Z"
+  },
+  {
+    "itemId": "MLB7822235288",
+    "productKey": "f43c4b67e4b561d2",
+    "titleHash": "ef27e31e530b0098",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-04T14:16:35.880Z"
+  },
+  {
+    "itemId": "MLB5293442116",
+    "productKey": "9df63c5c74f0032b",
+    "titleHash": "92bd599ba4cf03b1",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-04T14:16:35.881Z"
+  },
+  {
+    "itemId": "MLB3520280815",
+    "productKey": "7262ef56ea36d241",
+    "titleHash": "3d0acc5ed8d2644f",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-04T14:16:35.881Z"
   }
 ]
