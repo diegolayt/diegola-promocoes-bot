@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5138891855",
-    "productKey": "bc04daa8ab567d61",
-    "titleHash": "f8bb3ea79829b117",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-10-30T16:31:36.152Z"
-  },
-  {
-    "itemId": "MLB5293442116",
-    "productKey": "9df63c5c74f0032b",
-    "titleHash": "92bd599ba4cf03b1",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-10-30T16:46:30.059Z"
-  },
-  {
     "itemId": "MLB5470406599",
     "productKey": "11e5eb85396537bf",
     "titleHash": "46a1fc3e8cf8edf8",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-04T12:16:32.780Z"
+  },
+  {
+    "itemId": "MLB7757909760",
+    "productKey": "adf0f00405112276",
+    "titleHash": "bb0018a3ebb15338",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-04T12:31:37.750Z"
+  },
+  {
+    "itemId": "MLB6253229918",
+    "productKey": "0093a548dee7b78c",
+    "titleHash": "acc61814edc438ee",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-04T12:31:37.750Z"
   }
 ]
