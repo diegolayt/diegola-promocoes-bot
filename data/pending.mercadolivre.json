@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5255879423",
+      "site_id": "MLB",
+      "seller_id": 1074382560,
+      "accepts_mercadopago": true,
+      "price": 1009,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 256484,
+      "original_price": 2100,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJVkQ1RURD",
+          "name": "Civit II"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5203806315",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52027456",
+      "title": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52027456",
+      "id": "MLB5255879423",
+      "sold_quantity": 700,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB7138654316",
+      "site_id": "MLB",
+      "seller_id": 50708392,
+      "accepts_mercadopago": true,
+      "price": 147,
+      "category_id": "MLB3843",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "catalog_boost",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 76064,
+      "original_price": 218.89,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTGltZWlyYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Limeira"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3891824261",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48929479",
+      "title": "Caixa de Som Bluetooth Caixinha Grande 2 Altos Falantes 10w-hz 5.0 Boombox Com Radio Fm E Entrada Usb Pendrive",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_681719-MLA99467991212_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48929479",
+      "id": "MLB7138654316",
+      "sold_quantity": 900,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-04T18:16:36.339Z"
+}
