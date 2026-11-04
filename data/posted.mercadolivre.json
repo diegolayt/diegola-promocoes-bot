@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7736503520",
-    "productKey": "e689be77e279c615",
-    "titleHash": "10ad4952157baf45",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-10-30T21:16:31.078Z"
-  },
-  {
     "itemId": "MLB5215110257",
     "productKey": "8c76b04b8266652e",
     "titleHash": "f095017ffecc087e",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-04T16:46:51.826Z"
+  },
+  {
+    "itemId": "MLB7729259904",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-04T17:01:57.784Z"
   }
 ]
