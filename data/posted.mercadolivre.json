@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4612346505",
-    "productKey": "2de2a2ad26618bb6",
-    "titleHash": "0c4c55cfc2d6f829",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-30T15:31:35.165Z"
-  },
-  {
     "itemId": "MLB5324538773",
     "productKey": "2f98261615449fda",
     "titleHash": "282883ce1da376df",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-04T09:46:34.370Z"
+  },
+  {
+    "itemId": "MLB4803519829",
+    "productKey": "b46a61b0caa2d1c3",
+    "titleHash": "f358d0344c759159",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-04T10:01:50.214Z"
   }
 ]
