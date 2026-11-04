@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5413030478",
-    "productKey": "5e2b747dccadc7ed",
-    "titleHash": "b11c7c849e9f236c",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-31T10:01:42.893Z"
-  },
-  {
-    "itemId": "MLB5139668429",
-    "productKey": "f241e77b5c1de994",
-    "titleHash": "01c710c507d2dd58",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-31T10:01:42.893Z"
-  },
-  {
-    "itemId": "MLB5475619325",
-    "productKey": "029d0c6fc887611c",
-    "titleHash": "a2174520f63568e4",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-31T10:16:28.905Z"
-  },
-  {
-    "itemId": "MLB6843699766",
-    "productKey": "c356c59be11ac235",
-    "titleHash": "4c99e959114099bb",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-10-31T10:46:32.546Z"
-  },
-  {
     "itemId": "MLB7631375746",
     "productKey": "78a556ba509873f4",
     "titleHash": "2231dac56aa4320f",
@@ -4798,5 +4766,37 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-04T21:31:29.661Z"
+  },
+  {
+    "itemId": "MLB5171642043",
+    "productKey": "0148ce1e4ac0e87b",
+    "titleHash": "f85124cedc6e4bf0",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-04T21:46:26.959Z"
+  },
+  {
+    "itemId": "MLB7135097234",
+    "productKey": "12ba1e7daad2e455",
+    "titleHash": "308ca2a85e1b8a8a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-04T21:46:26.959Z"
+  },
+  {
+    "itemId": "MLB1630337787",
+    "productKey": "d22fa65cdb3c5323",
+    "titleHash": "61315aeef9dd29e4",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-04T21:46:26.959Z"
+  },
+  {
+    "itemId": "MLB4028626831",
+    "productKey": "5a76a4eddf9a8c24",
+    "titleHash": "80b12ed4dcc25fa6",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-04T21:46:26.959Z"
   }
 ]
