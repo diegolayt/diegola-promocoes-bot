@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7736095488",
-    "productKey": "0b59dfc2ed1d3fd2",
-    "titleHash": "106c79a09d227fe4",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-10-30T17:01:43.758Z"
-  },
-  {
     "itemId": "MLB4367431903",
     "productKey": "3290caa2bbf60419",
     "titleHash": "0a784ed1ced73153",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-04T13:46:34.269Z"
+  },
+  {
+    "itemId": "MLB5033824347",
+    "productKey": "9d88828ec0e2bc98",
+    "titleHash": "0f678dd28a6ff8ba",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-04T14:01:50.925Z"
   }
 ]
