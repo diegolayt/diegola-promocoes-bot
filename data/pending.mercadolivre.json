@@ -1,0 +1,241 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5428168238",
+      "site_id": "MLB",
+      "seller_id": 611224705,
+      "accepts_mercadopago": true,
+      "price": 149.9,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 180 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "forced_business_price_per_quantity",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2160,
+      "original_price": 274.21,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUnk0aWR6",
+          "name": "Parque Edu Chaves"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 180,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "180 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3233839298",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB42134305",
+      "title": "Furadeira Parafusadeira Sem Fio Bateria Tb-12E 12v 3/8 10mm Maleta E Acessórios The Black Tools + Jogo Soquetes 40 Peças",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_615564-MLA111281336350_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB42134305",
+      "id": "MLB5428168238",
+      "sold_quantity": 900,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB4469987063",
+      "site_id": "MLB",
+      "seller_id": 1415061602,
+      "accepts_mercadopago": true,
+      "price": 206.18,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 60 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "forced_business_price_per_quantity",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 312462,
+      "original_price": 329.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTjhhYWR4",
+          "name": "Canindé"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 60,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "60 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3789923348",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63950169",
+      "title": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_611561-MLA118558817253_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63950169",
+      "id": "MLB4469987063",
+      "sold_quantity": 1300,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    },
+    {
+      "item_id": "MLB5121690211",
+      "site_id": "MLB",
+      "seller_id": 3592255542,
+      "accepts_mercadopago": true,
+      "price": 254.44,
+      "category_id": "MLB196208",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439262,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4867972957",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52039200",
+      "title": "Samsung Galaxy Buds Core branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_967872-MLA87279987383_072025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52039200",
+      "id": "MLB5121690211",
+      "sold_quantity": 1300,
+      "rotationCategory": "som",
+      "sourceCategoryId": "MLB3835",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-04T17:16:38.891Z"
+}
