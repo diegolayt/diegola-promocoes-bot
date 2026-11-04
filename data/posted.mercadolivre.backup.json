@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3959694605",
-    "productKey": "6988f39a37694d7a",
-    "titleHash": "41baf1c58abeef70",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-10-31T05:16:31.964Z"
-  },
-  {
     "itemId": "MLB4287637614",
     "productKey": "69af084751970c16",
     "titleHash": "5d1608fdc1548bcb",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-04T19:46:35.393Z"
+  },
+  {
+    "itemId": "MLB7606575730",
+    "productKey": "7ae62e631b538a5f",
+    "titleHash": "f50155dd95bff7b2",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-04T20:16:33.087Z"
   }
 ]
