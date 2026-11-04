@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3876858111",
-    "productKey": "50811f927d6a844d",
-    "titleHash": "a24ae796cebc9cc5",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-30T05:46:26.849Z"
-  },
-  {
     "itemId": "MLB5159407567",
     "productKey": "b99a995b906409f9",
     "titleHash": "7eece60ff3ecbbb7",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-03T23:46:34.161Z"
+  },
+  {
+    "itemId": "MLB6805401578",
+    "productKey": "5030a2650c1c44a7",
+    "titleHash": "4901619f0d6ed5e9",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-04T00:01:44.409Z"
   }
 ]
