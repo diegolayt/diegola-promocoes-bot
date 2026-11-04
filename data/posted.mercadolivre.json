@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4994160207",
-    "productKey": "b46a61b0caa2d1c3",
-    "titleHash": "f358d0344c759159",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-10-30T15:01:40.164Z"
-  },
-  {
     "itemId": "MLB6234101476",
     "productKey": "98c2fc5b284eead7",
     "titleHash": "87e02b4ced3d3145",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-04T09:16:28.701Z"
+  },
+  {
+    "itemId": "MLB7442035444",
+    "productKey": "3be14b68b582a18a",
+    "titleHash": "ae6d7d88b1e61213",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-04T09:31:38.292Z"
   }
 ]
