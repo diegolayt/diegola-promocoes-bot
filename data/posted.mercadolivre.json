@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4953293045",
-    "productKey": "98aa92e5a98722ca",
-    "titleHash": "b6dfdbb0bf292d78",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-10-31T13:31:37.832Z"
-  },
-  {
     "itemId": "MLB5281065549",
     "productKey": "7860af033b3fd150",
     "titleHash": "6ca13a59e47a1cb7",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-04T23:31:35.716Z"
+  },
+  {
+    "itemId": "MLB7631375746",
+    "productKey": "78a556ba509873f4",
+    "titleHash": "2231dac56aa4320f",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-04T23:46:32.707Z"
   }
 ]
