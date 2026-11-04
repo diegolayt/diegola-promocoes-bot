@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5681538962",
-    "productKey": "131979a67ce743d6",
-    "titleHash": "120ff11e5757e483",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-10-31T13:16:31.011Z"
-  },
-  {
     "itemId": "MLB4953293045",
     "productKey": "98aa92e5a98722ca",
     "titleHash": "b6dfdbb0bf292d78",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-04T23:16:32.450Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-04T23:31:35.716Z"
   }
 ]
