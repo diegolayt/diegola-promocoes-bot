@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-31T05:46:29.987Z"
-  },
-  {
-    "itemId": "MLB5210291587",
-    "productKey": "9d751b711b454293",
-    "titleHash": "836381a7863b8ad3",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-31T06:16:36.656Z"
-  },
-  {
     "itemId": "MLB2605646639",
     "productKey": "1010a845202376db",
     "titleHash": "ae3d9f5c10f2e3eb",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-04T20:16:33.087Z"
+  },
+  {
+    "itemId": "MLB4279422349",
+    "productKey": "e8b365816ac55e07",
+    "titleHash": "a903844b96a9cadf",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-04T20:31:38.690Z"
+  },
+  {
+    "itemId": "MLB4047432173",
+    "productKey": "d3c8122c66a236de",
+    "titleHash": "71ae82c4e85b0492",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-04T20:31:38.690Z"
   }
 ]
