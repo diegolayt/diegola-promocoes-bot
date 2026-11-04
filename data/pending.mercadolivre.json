@@ -1,0 +1,224 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4925283537",
+      "site_id": "MLB",
+      "seller_id": 571954063,
+      "accepts_mercadopago": true,
+      "price": 67.9,
+      "category_id": "MLB244658",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "deal_of_the_day",
+        "kit_component",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 143504,
+      "original_price": 119.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTG8xZTBz",
+          "name": "Vila Santo Henrique"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3532268560",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78457348",
+      "title": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_920107-MLA116822226917_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78457348",
+      "id": "MLB4925283537",
+      "sold_quantity": 1700,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4204276525",
+      "site_id": "MLB",
+      "seller_id": 285191557,
+      "accepts_mercadopago": true,
+      "price": 158,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBQzMxZjE0",
+          "name": "Caculé"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3416199233",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB42149268",
+      "title": "Deo Parfum Natura Essencial Sentir Masculino 100 mL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_912400-MLA93839509448_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB42149268",
+      "id": "MLB4204276525",
+      "sold_quantity": 600,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4584361351",
+      "site_id": "MLB",
+      "seller_id": 3047350191,
+      "accepts_mercadopago": true,
+      "price": 1140,
+      "category_id": "MLB1693",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJTGU5YTdl",
+          "name": "Vila Velha"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3876806021",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53410760",
+      "title": "Processador Amd Ryzen 7 5700x Oem Sem Cooler",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_860376-MLA114197427868_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53410760",
+      "id": "MLB4584361351",
+      "sold_quantity": 100,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-11-04T19:31:41.560Z"
+}
