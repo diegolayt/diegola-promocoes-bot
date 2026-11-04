@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4935566078",
-    "productKey": "7262ef56ea36d241",
-    "titleHash": "3d0acc5ed8d2644f",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-10-30T16:16:31.367Z"
-  },
-  {
     "itemId": "MLB5138891855",
     "productKey": "bc04daa8ab567d61",
     "titleHash": "f8bb3ea79829b117",
@@ -4798,5 +4790,13 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-04T12:01:43.992Z"
+  },
+  {
+    "itemId": "MLB5210677715",
+    "productKey": "d881ef2c1427755e",
+    "titleHash": "a8581a9af8d4998f",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-04T12:16:32.780Z"
   }
 ]
