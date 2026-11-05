@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7651767878",
-    "productKey": "b1a6ed780f0fe240",
-    "titleHash": "1982de45a97168c2",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-31T16:01:42.002Z"
-  },
-  {
-    "itemId": "MLB6847613118",
-    "productKey": "6a0f874da4937eb3",
-    "titleHash": "994272fd0fa8ee25",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-10-31T16:16:31.456Z"
-  },
-  {
-    "itemId": "MLB7564635266",
-    "productKey": "67f52b5fb7cb0c3c",
-    "titleHash": "8b7fcc23802a9cb0",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-10-31T16:31:37.170Z"
-  },
-  {
     "itemId": "MLB4062471003",
     "productKey": "5bb08fbcedadf8ea",
     "titleHash": "6f941d1098f301c6",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-05T01:01:42.590Z"
+  },
+  {
+    "itemId": "MLB4440137909",
+    "productKey": "66aad9dacbb2cc0c",
+    "titleHash": "9d1eae52c8bb9416",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-05T01:16:41.131Z"
+  },
+  {
+    "itemId": "MLB4576693657",
+    "productKey": "ebfca99113baae99",
+    "titleHash": "af8ecbf6a7506bdc",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-05T01:16:41.132Z"
+  },
+  {
+    "itemId": "MLB4660482345",
+    "productKey": "da8b0f32abc30663",
+    "titleHash": "f0e541059e0ba400",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-05T01:16:41.132Z"
   }
 ]
