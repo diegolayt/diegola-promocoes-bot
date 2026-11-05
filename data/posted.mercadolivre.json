@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7512708012",
-    "productKey": "7abc3c7eceaff66c",
-    "titleHash": "0770fcd7bab16021",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-01T04:01:41.805Z"
-  },
-  {
-    "itemId": "MLB7658098506",
-    "productKey": "4ff7a299c45ac56a",
-    "titleHash": "2a6e08582af5bd66",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-01T04:01:41.805Z"
-  },
-  {
     "itemId": "MLB5320308661",
     "productKey": "586f1f38fea099c8",
     "titleHash": "1e2890a0d74c84a0",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-05T09:16:39.634Z"
+  },
+  {
+    "itemId": "MLB3577643321",
+    "productKey": "8af7df7f67736088",
+    "titleHash": "424920e3dd208530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-05T10:01:46.891Z"
+  },
+  {
+    "itemId": "MLB5130081305",
+    "productKey": "a2a3edc1809c6c6b",
+    "titleHash": "b14b8b4878c17f55",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-05T10:01:46.891Z"
   }
 ]
