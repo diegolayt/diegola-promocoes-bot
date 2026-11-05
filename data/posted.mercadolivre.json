@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7822235294",
-    "productKey": "f0fc6997fc2876fc",
-    "titleHash": "de7e41f495b50d62",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-01T13:01:37.610Z"
-  },
-  {
     "itemId": "MLB3783973037",
     "productKey": "79904641cb78c39e",
     "titleHash": "c6c910964afbee15",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-05T20:46:30.623Z"
+  },
+  {
+    "itemId": "MLB4893345667",
+    "productKey": "9fbe083ddb6385d8",
+    "titleHash": "d9345de1c8e78c68",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-05T21:01:54.106Z"
   }
 ]
