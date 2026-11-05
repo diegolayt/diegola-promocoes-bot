@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4835180937",
-    "productKey": "abf8d06c6cfb1b90",
-    "titleHash": "96e7f5a9a79b44c8",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-01T04:46:32.412Z"
-  },
-  {
-    "itemId": "MLB5084785712",
-    "productKey": "dc82d11f8b29eade",
-    "titleHash": "3532c31d92333d51",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-01T04:46:32.412Z"
-  },
-  {
     "itemId": "MLB4434520060",
     "productKey": "8310112227df8250",
     "titleHash": "9c3ffa07f0b0398b",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-05T10:31:23.962Z"
+  },
+  {
+    "itemId": "MLB5510227795",
+    "productKey": "06babd581101f23b",
+    "titleHash": "49b321f683ef6a94",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-05T10:46:38.003Z"
+  },
+  {
+    "itemId": "MLB5216361467",
+    "productKey": "8191759e21b92a67",
+    "titleHash": "8b681e8772bc1b7f",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-05T10:46:38.004Z"
   }
 ]
