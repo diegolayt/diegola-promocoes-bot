@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7717329164",
-    "productKey": "bbc689030a50ec02",
-    "titleHash": "fcc9074de14ea86a",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-01T10:31:31.512Z"
-  },
-  {
-    "itemId": "MLB4020673619",
-    "productKey": "c9df3c56099bd37b",
-    "titleHash": "34f9448e848ee070",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-01T10:46:35.689Z"
-  },
-  {
-    "itemId": "MLB7029983022",
-    "productKey": "195addb9e0cb3945",
-    "titleHash": "0cb54f54b1ae9faf",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-01T10:46:35.689Z"
-  },
-  {
     "itemId": "MLB7894116412",
     "productKey": "7cea41114e64d915",
     "titleHash": "71c36229283c5f66",
@@ -4798,5 +4774,29 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-05T18:16:30.739Z"
+  },
+  {
+    "itemId": "MLB4551866531",
+    "productKey": "0af3f0089d2da042",
+    "titleHash": "b229ab2bf8859545",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-05T18:46:38.900Z"
+  },
+  {
+    "itemId": "MLB7723793010",
+    "productKey": "d39b1ecff1553030",
+    "titleHash": "589e36cf1c58b931",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-05T18:46:38.900Z"
+  },
+  {
+    "itemId": "MLB7881967626",
+    "productKey": "3235a086bca26017",
+    "titleHash": "7a1c23c1bdf33031",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-05T18:46:38.900Z"
   }
 ]
