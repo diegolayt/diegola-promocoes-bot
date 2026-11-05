@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4104379865",
-    "productKey": "bcc383aebf7b4b19",
-    "titleHash": "7497e9df0d7cbdd8",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-01T09:16:33.545Z"
-  },
-  {
-    "itemId": "MLB5190840933",
-    "productKey": "2cc42a1d0fca9ec4",
-    "titleHash": "46fa7191a4c0451c",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-01T09:16:33.546Z"
-  },
-  {
     "itemId": "MLB7187016886",
     "productKey": "3235a086bca26017",
     "titleHash": "7a1c23c1bdf33031",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-05T17:31:42.236Z"
+  },
+  {
+    "itemId": "MLB5310338186",
+    "productKey": "d2381d60d46712f0",
+    "titleHash": "bb5ab78017224a55",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-05T17:46:36.366Z"
+  },
+  {
+    "itemId": "MLB6727230822",
+    "productKey": "9dd660916fb1b129",
+    "titleHash": "899d2c96765b077d",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-05T17:46:36.366Z"
   }
 ]
