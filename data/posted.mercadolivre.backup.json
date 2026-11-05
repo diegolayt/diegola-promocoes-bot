@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6539025322",
-    "productKey": "67959f7697e2dbde",
-    "titleHash": "69c47bee8d5cd059",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-10-31T22:16:34.248Z"
-  },
-  {
     "itemId": "MLB6073225034",
     "productKey": "a2643712c80bfe66",
     "titleHash": "1507ecc1fc54962f",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-05T04:46:33.290Z"
+  },
+  {
+    "itemId": "MLB7328449336",
+    "productKey": "1984953db221eb12",
+    "titleHash": "0fc65dd07a9749c7",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-05T05:01:47.785Z"
   }
 ]
