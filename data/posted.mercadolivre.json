@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7894116412",
-    "productKey": "7cea41114e64d915",
-    "titleHash": "71c36229283c5f66",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-01T10:46:35.689Z"
-  },
-  {
     "itemId": "MLB3797364569",
     "productKey": "96983e4185e3eef7",
     "titleHash": "f469ce3c49a26e01",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-05T18:46:38.900Z"
+  },
+  {
+    "itemId": "MLB5988123462",
+    "productKey": "3173ebec78e14208",
+    "titleHash": "4cef9d0770a61e63",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-05T19:16:33.701Z"
   }
 ]
