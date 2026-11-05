@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7187016886",
-    "productKey": "3235a086bca26017",
-    "titleHash": "7a1c23c1bdf33031",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-01T09:46:30.947Z"
-  },
-  {
-    "itemId": "MLB7735393274",
-    "productKey": "da58292d29d880a5",
-    "titleHash": "424447b14f32b968",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-01T09:46:30.947Z"
-  },
-  {
-    "itemId": "MLB7917099314",
-    "productKey": "d39b1ecff1553030",
-    "titleHash": "589e36cf1c58b931",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-11-01T10:01:35.994Z"
-  },
-  {
     "itemId": "MLB7885058938",
     "productKey": "d4f1c2d7935fb51a",
     "titleHash": "c43f9a10d7dcc8fa",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-05T17:46:36.366Z"
+  },
+  {
+    "itemId": "MLB6906622218",
+    "productKey": "8ebb5290fbd71181",
+    "titleHash": "acfce180f1eca87f",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-05T18:01:47.580Z"
+  },
+  {
+    "itemId": "MLB4755857128",
+    "productKey": "79d5c8260fac4419",
+    "titleHash": "8d80c6d8b8751a60",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-05T18:01:47.581Z"
+  },
+  {
+    "itemId": "MLB6286064758",
+    "productKey": "2fbf4e278f428da4",
+    "titleHash": "60e6c7fff123c448",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-05T18:01:47.581Z"
   }
 ]
