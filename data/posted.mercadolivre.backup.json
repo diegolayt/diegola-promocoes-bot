@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6194539818",
-    "productKey": "1d39d0d75d17f836",
-    "titleHash": "fe715e49e4132e41",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-10-31T18:46:28.555Z"
-  },
-  {
     "itemId": "MLB3771505959",
     "productKey": "3e24012756b6950c",
     "titleHash": "fd06cf3b916fc566",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-05T02:46:32.537Z"
+  },
+  {
+    "itemId": "MLB4115638623",
+    "productKey": "9681761c11f42242",
+    "titleHash": "c506f453654b8575",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-05T03:01:44.595Z"
   }
 ]
