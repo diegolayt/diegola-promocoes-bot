@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4568569781",
-    "productKey": "31d21cd7b3243873",
-    "titleHash": "2d6545f358c0aa7b",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-01T05:46:34.393Z"
-  },
-  {
-    "itemId": "MLB6475082992",
-    "productKey": "e026eda0eb29f423",
-    "titleHash": "541b9f08c97d8a4b",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-01T06:16:32.875Z"
-  },
-  {
     "itemId": "MLB5483672405",
     "productKey": "1ced249c92b62201",
     "titleHash": "062ad8803d20950a",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-05T12:01:42.678Z"
+  },
+  {
+    "itemId": "MLB7586569004",
+    "productKey": "0ff33a7f933d771f",
+    "titleHash": "1ac364f778f5f627",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-05T13:01:45.062Z"
+  },
+  {
+    "itemId": "MLB4172376356",
+    "productKey": "c6ffc2bdedffd41c",
+    "titleHash": "7660bd2cc9a981c5",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-05T13:01:45.062Z"
   }
 ]
