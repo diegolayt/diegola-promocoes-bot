@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6600129404",
-    "productKey": "307900e287a57280",
-    "titleHash": "5ab2e697025e7a60",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-10-31T23:01:39.143Z"
-  },
-  {
     "itemId": "MLB7902487202",
     "productKey": "35ee8e3194420329",
     "titleHash": "78a13177cc204ee6",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-05T06:16:39.490Z"
+  },
+  {
+    "itemId": "MLB6976567444",
+    "productKey": "10d83ae90f0fb762",
+    "titleHash": "5467f88d296880b9",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-05T06:31:36.495Z"
   }
 ]
