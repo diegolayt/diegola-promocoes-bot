@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4199940605",
-    "productKey": "1dfdf7dfa167a65a",
-    "titleHash": "811eba6e3ba89cef",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-01T14:16:32.973Z"
-  },
-  {
     "itemId": "MLB7875484228",
     "productKey": "ff6193f654d13314",
     "titleHash": "16949f7d71632500",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-05T22:01:44.641Z"
+  },
+  {
+    "itemId": "MLB4208012055",
+    "productKey": "a6ddc6408e6a83c4",
+    "titleHash": "bde09e6268564097",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-05T22:31:40.033Z"
   }
 ]
