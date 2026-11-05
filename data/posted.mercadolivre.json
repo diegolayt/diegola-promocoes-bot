@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6976015074",
-    "productKey": "820a7bf3129a48cf",
-    "titleHash": "82c17092d0642575",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-10-31T18:31:40.154Z"
-  },
-  {
-    "itemId": "MLB6294491390",
-    "productKey": "7665a9d6da616707",
-    "titleHash": "df6de7a9d2086862",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-10-31T18:46:28.555Z"
-  },
-  {
     "itemId": "MLB6194539818",
     "productKey": "1d39d0d75d17f836",
     "titleHash": "fe715e49e4132e41",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-05T02:16:33.872Z"
+  },
+  {
+    "itemId": "MLB7914182858",
+    "productKey": "cb7b3aabd989fc60",
+    "titleHash": "594e45f940a05cc9",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-05T02:46:32.537Z"
+  },
+  {
+    "itemId": "MLB6677115982",
+    "productKey": "8b67768aeac7e9b2",
+    "titleHash": "ba46e87672d491d0",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-05T02:46:32.537Z"
   }
 ]
