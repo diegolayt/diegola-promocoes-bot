@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3881790037",
-    "productKey": "4a4e4d305a849405",
-    "titleHash": "4d721e26d87f59c2",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-01T08:46:28.640Z"
-  },
-  {
-    "itemId": "MLB4455482327",
-    "productKey": "2fbf4e278f428da4",
-    "titleHash": "60e6c7fff123c448",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-01T08:46:28.641Z"
-  },
-  {
     "itemId": "MLB4755857128",
     "productKey": "79d5c8260fac4419",
     "titleHash": "8d80c6d8b8751a60",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-05T17:01:43.999Z"
+  },
+  {
+    "itemId": "MLB6047945220",
+    "productKey": "a1d280e4c3ee7ae6",
+    "titleHash": "94ccd298a23fb896",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-05T17:16:32.062Z"
+  },
+  {
+    "itemId": "MLB4434428164",
+    "productKey": "5b5dbe709902e2fc",
+    "titleHash": "5310defd20b8b0a1",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-05T17:16:32.063Z"
   }
 ]
