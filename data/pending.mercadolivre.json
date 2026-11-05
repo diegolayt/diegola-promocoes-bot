@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3939720011",
+      "site_id": "MLB",
+      "seller_id": 713671700,
+      "accepts_mercadopago": true,
+      "price": 161.72,
+      "category_id": "MLB199648",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "supermarket_eligible",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 173.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUnJibXo3",
+          "name": "Parque Continental II"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU2911616889",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB16138960",
+      "title": "Protetor solar Neostrata Minesol Oil Control 70FPS en gel creme 70mL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_894466-MLA108917866038_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB16138960",
+      "id": "MLB3939720011",
+      "sold_quantity": 500,
+      "rotationCategory": "pele",
+      "sourceCategoryId": "MLB199407",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-05T06:16:39.493Z"
+}

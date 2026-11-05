@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5492050693",
-    "productKey": "7b530b4b1ca8b409",
-    "titleHash": "16098ab31f1e5d10",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-10-31T22:46:31.206Z"
-  },
-  {
     "itemId": "MLB6600129404",
     "productKey": "307900e287a57280",
     "titleHash": "5ab2e697025e7a60",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-05T05:16:31.165Z"
+  },
+  {
+    "itemId": "MLB3939720011",
+    "productKey": "aea2de8a7c5c3d52",
+    "titleHash": "fd8a49ba38884f61",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-05T06:16:39.490Z"
   }
 ]
