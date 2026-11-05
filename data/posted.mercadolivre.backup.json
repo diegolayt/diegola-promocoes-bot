@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4089347501",
-    "productKey": "f404f4d48a375164",
-    "titleHash": "4ecc5e6577f6dfe7",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-01T13:46:37.617Z"
-  },
-  {
-    "itemId": "MLB7158521510",
-    "productKey": "28d216f74a70b104",
-    "titleHash": "fd6cf3f85ccd5ee4",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-01T13:46:37.617Z"
-  },
-  {
-    "itemId": "MLB5316088743",
-    "productKey": "429e344a68635eec",
-    "titleHash": "0d6a97bbb0f3ef1c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-01T13:46:37.617Z"
-  },
-  {
     "itemId": "MLB4199940605",
     "productKey": "1dfdf7dfa167a65a",
     "titleHash": "811eba6e3ba89cef",
@@ -4798,5 +4774,29 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-11-05T21:46:28.554Z"
+  },
+  {
+    "itemId": "MLB7253496932",
+    "productKey": "8966f7090ac1116d",
+    "titleHash": "0257198e68c33f08",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-05T22:01:44.641Z"
+  },
+  {
+    "itemId": "MLB5812393646",
+    "productKey": "d76bba99e09b3844",
+    "titleHash": "321d8c2ae24df17a",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-05T22:01:44.641Z"
+  },
+  {
+    "itemId": "MLB4944176961",
+    "productKey": "8be3319e521559cd",
+    "titleHash": "23cf86b709b0138e",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-05T22:01:44.641Z"
   }
 ]
