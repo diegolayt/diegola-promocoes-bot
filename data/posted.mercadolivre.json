@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4571210341",
-    "productKey": "163a58eb61a4412f",
-    "titleHash": "bbadc9cd22e0fc10",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-01T07:31:23.193Z"
-  },
-  {
-    "itemId": "MLB3899903308",
-    "productKey": "bb58267a3120520a",
-    "titleHash": "53248af44066218e",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-01T07:31:23.193Z"
-  },
-  {
     "itemId": "MLB4993364001",
     "productKey": "bc83df21726f1846",
     "titleHash": "89aefc55a86b317a",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-05T14:01:48.808Z"
+  },
+  {
+    "itemId": "MLB4647847848",
+    "productKey": "5214251f2a0e2de8",
+    "titleHash": "59ba011eeb15abff",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-05T14:16:39.058Z"
+  },
+  {
+    "itemId": "MLB5512187507",
+    "productKey": "f0ce6c3f19f94762",
+    "titleHash": "2e4937b263ba3a23",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-05T14:16:39.058Z"
   }
 ]
