@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5410636044",
-    "productKey": "268fe1dcba87ee28",
-    "titleHash": "0b023d35ca0abbf6",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-01T03:16:30.662Z"
-  },
-  {
     "itemId": "MLB4345564271",
     "productKey": "79178e47f5fa7c8d",
     "titleHash": "68370d91aa4e7d65",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-05T08:16:37.200Z"
+  },
+  {
+    "itemId": "MLB2820196075",
+    "productKey": "9be23f720e3d6d4f",
+    "titleHash": "b4d7c6e7b7ef601d",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-05T08:31:40.530Z"
   }
 ]
