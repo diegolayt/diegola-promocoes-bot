@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4311848782",
-    "productKey": "c6ffc2bdedffd41c",
-    "titleHash": "7660bd2cc9a981c5",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-01T00:16:37.308Z"
-  },
-  {
-    "itemId": "MLB4549814415",
-    "productKey": "5707418a30805cbf",
-    "titleHash": "4e21a569e001ae6e",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-01T01:01:35.805Z"
-  },
-  {
     "itemId": "MLB5472976775",
     "productKey": "e79ca114583c86dc",
     "titleHash": "4d0fb17f2eb0db04",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-05T06:46:37.177Z"
+  },
+  {
+    "itemId": "MLB6596438294",
+    "productKey": "d76eb3fcd1f5b581",
+    "titleHash": "f6a3659df6032b8d",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-05T07:01:41.057Z"
+  },
+  {
+    "itemId": "MLB4857152173",
+    "productKey": "e1f31ebb49ae051b",
+    "titleHash": "da52ddf8d551059c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-05T07:01:41.057Z"
   }
 ]
