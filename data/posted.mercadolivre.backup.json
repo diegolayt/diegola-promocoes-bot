@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5166470939",
-    "productKey": "f0ce6c3f19f94762",
-    "titleHash": "2e4937b263ba3a23",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-01T05:31:41.499Z"
-  },
-  {
     "itemId": "MLB4568569781",
     "productKey": "31d21cd7b3243873",
     "titleHash": "2d6545f358c0aa7b",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-05T11:31:41.259Z"
+  },
+  {
+    "itemId": "MLB5793426782",
+    "productKey": "c3e130ec00f8f98e",
+    "titleHash": "737f0e99072a1871",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-05T12:01:42.678Z"
   }
 ]
