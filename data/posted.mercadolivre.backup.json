@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7813090564",
-    "productKey": "bbbcab83b53caf8d",
-    "titleHash": "f424bc04999eb95b",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-10-31T19:01:38.848Z"
-  },
-  {
     "itemId": "MLB7863041552",
     "productKey": "cc30dbbddccab7f9",
     "titleHash": "31b02c7b29c66bc6",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-05T03:16:44.488Z"
+  },
+  {
+    "itemId": "MLB3398173761",
+    "productKey": "3ad3274eb28b3f64",
+    "titleHash": "a87908bc89d55121",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-05T03:31:32.849Z"
   }
 ]
