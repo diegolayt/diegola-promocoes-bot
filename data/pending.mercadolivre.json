@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5368925738",
+      "site_id": "MLB",
+      "seller_id": 535537812,
+      "accepts_mercadopago": true,
+      "price": 112,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 380628,
+      "original_price": 184,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjUwNzE",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3151788628",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46246866",
+      "title": "Parafusadeira Furadeira Eletrica Maleta 2 Bateria Cor Amarelo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_841223-MLA99475194194_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46246866",
+      "id": "MLB5368925738",
+      "sold_quantity": 200,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-05T17:01:44.001Z"
+}
