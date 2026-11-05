@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5281065549",
-    "productKey": "7860af033b3fd150",
-    "titleHash": "6ca13a59e47a1cb7",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-10-31T13:46:31.311Z"
-  },
-  {
     "itemId": "MLB7891808792",
     "productKey": "d4255e0a63e61dfb",
     "titleHash": "7595d754ee6983fc",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-04T23:46:32.707Z"
+  },
+  {
+    "itemId": "MLB3456025603",
+    "productKey": "c9b5c82a0a206f5a",
+    "titleHash": "26b5424896b8e331",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-05T00:01:37.126Z"
   }
 ]
