@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5304519543",
-    "productKey": "b80aa50f4c572f73",
-    "titleHash": "554791d76d1ac8c8",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-31T18:01:39.577Z"
-  },
-  {
-    "itemId": "MLB6976567444",
-    "productKey": "10d83ae90f0fb762",
-    "titleHash": "5467f88d296880b9",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-10-31T18:16:33.868Z"
-  },
-  {
     "itemId": "MLB7613817060",
     "productKey": "a69d636355916b46",
     "titleHash": "23b7e30efd25845a",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-05T01:46:32.322Z"
+  },
+  {
+    "itemId": "MLB6539357636",
+    "productKey": "7860af033b3fd150",
+    "titleHash": "6ca13a59e47a1cb7",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-05T02:01:50.014Z"
+  },
+  {
+    "itemId": "MLB7730397726",
+    "productKey": "e1fabd0cdd50021d",
+    "titleHash": "45623aa502cf86da",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-05T02:01:50.014Z"
   }
 ]

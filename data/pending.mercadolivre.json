@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6539357636",
+      "site_id": "MLB",
+      "seller_id": 1182149733,
+      "accepts_mercadopago": true,
+      "price": 3180,
+      "category_id": "MLB121405",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 81566,
+      "original_price": 4900,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRnJhbmNvIGRhIFJvY2hhVFV4Q1VGTkJUM",
+          "name": "Franco da Rocha"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ29tcGFuaGlhIEZhemVuZGEgQmVsZW1UV",
+          "name": "Companhia Fazenda Belem"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3867640983",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61539026",
+      "title": "Computador All In One Aoc Intel I5 23.8\" Ddr3 Ssd Teclado Mouse",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_803023-MLA116952195804_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61539026",
+      "id": "MLB6539357636",
+      "sold_quantity": 1100,
+      "rotationCategory": "computador",
+      "sourceCategoryId": "MLB430637",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB7730397726",
+      "site_id": "MLB",
+      "seller_id": 2230260842,
+      "accepts_mercadopago": true,
+      "price": 939,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHM0cW9w",
+          "name": "Vila Nova Mazzei"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5359752448",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB32362095",
+      "title": "Ssd M.2 1tb Sandisk Plus Nvme 2280",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_729633-MLA99465062840_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB32362095",
+      "id": "MLB7730397726",
+      "sold_quantity": 400,
+      "rotationCategory": "armazenamento",
+      "sourceCategoryId": "MLB430598",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-05T02:01:50.017Z"
+}
