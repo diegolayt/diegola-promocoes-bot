@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5483672405",
-    "productKey": "1ced249c92b62201",
-    "titleHash": "062ad8803d20950a",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-01T06:31:42.748Z"
-  },
-  {
     "itemId": "MLB4162108123",
     "productKey": "c8addf26bd6ff0a5",
     "titleHash": "fc69e853d2bc4f6d",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-05T13:01:45.062Z"
+  },
+  {
+    "itemId": "MLB7909452782",
+    "productKey": "2f742d6104f56e3f",
+    "titleHash": "72f46bd8beed252c",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-05T13:31:43.881Z"
   }
 ]
