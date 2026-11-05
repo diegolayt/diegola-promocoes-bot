@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5418164544",
+      "site_id": "MLB",
+      "seller_id": 1286432339,
+      "accepts_mercadopago": true,
+      "price": 61,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 60 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 129.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTW9naSBHdWHDp3VUVXhDVUZOQlQwODVOM",
+          "name": "Mogi Guaçu"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQXJydWFtZW50byBQcmltYXZlcmFUVmhZV",
+          "name": "Arruamento Primavera"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 60,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "60 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3223383206",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41221309",
+      "title": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia Masculina Kit Presente Original",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_735112-MLA115743494554_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41221309",
+      "id": "MLB5418164544",
+      "sold_quantity": 1700,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7856263268",
+      "site_id": "MLB",
+      "seller_id": 1435546569,
+      "accepts_mercadopago": true,
+      "price": 172,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 5 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 181.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTm92YSBJZ3Vhw6d1VFV4Q1VGSkpUMDh4T",
+          "name": "Nova Iguaçu"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVRtOTJZU0JKWjNWaHc2Z",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 5,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "5 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5632373558",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18953093",
+      "title": "Whey Protein Growth Concentrado 1kg – Sabor Baunilha",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_824274-MLA98770399871_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18953093",
+      "id": "MLB7856263268",
+      "sold_quantity": 1700,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-05T08:01:40.864Z"
+}
