@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7891808792",
-    "productKey": "d4255e0a63e61dfb",
-    "titleHash": "7595d754ee6983fc",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-10-31T14:16:31.953Z"
-  },
-  {
-    "itemId": "MLB5099972815",
-    "productKey": "9681761c11f42242",
-    "titleHash": "c506f453654b8575",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-10-31T14:31:38.386Z"
-  },
-  {
-    "itemId": "MLB3853894079",
-    "productKey": "e9dfb607a4680c9c",
-    "titleHash": "404369dcec53deb4",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-10-31T15:16:32.395Z"
-  },
-  {
     "itemId": "MLB7575219372",
     "productKey": "b1d10ff79ce494e3",
     "titleHash": "04de2d517dc85eb3",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-05T00:01:37.126Z"
+  },
+  {
+    "itemId": "MLB4274565581",
+    "productKey": "c4e6acaed28a56ed",
+    "titleHash": "a8d7d85f80b82e40",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-05T00:31:36.935Z"
+  },
+  {
+    "itemId": "MLB5146610670",
+    "productKey": "b124c07810832875",
+    "titleHash": "193e39a55d48c15a",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-05T00:31:36.935Z"
+  },
+  {
+    "itemId": "MLB7500017710",
+    "productKey": "e192924e8dfd60cb",
+    "titleHash": "df58680138676c48",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-05T00:31:36.935Z"
   }
 ]
