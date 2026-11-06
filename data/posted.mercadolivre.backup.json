@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5249061969",
-    "productKey": "d60f40144ad87174",
-    "titleHash": "673a514c6de388e3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-02T02:31:36.499Z"
-  },
-  {
     "itemId": "MLB4464987449",
     "productKey": "97281c3aa1bd995e",
     "titleHash": "14d3bd03b87fed59",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-06T14:31:40.346Z"
+  },
+  {
+    "itemId": "MLB5405817633",
+    "productKey": "97ae2ef6f831804d",
+    "titleHash": "1da2ceac8c4459f9",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-06T14:46:31.290Z"
   }
 ]
