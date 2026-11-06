@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7653303324",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-02T10:16:32.800Z"
-  },
-  {
     "itemId": "MLB4082731117",
     "productKey": "c555e963e900e460",
     "titleHash": "14a27ecaf6ac0575",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-06T21:01:43.459Z"
+  },
+  {
+    "itemId": "MLB7501055654",
+    "productKey": "496a44c0154a0bf4",
+    "titleHash": "b0961859353c7014",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-06T21:16:42.260Z"
   }
 ]
