@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5173698241",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 40.29,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 123448,
+      "original_price": 59.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5038105981",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78777171",
+      "title": "O diário de tarefas gnomosas do floreante viajante - (Autor(es) original) Lacerda, Maidy - Outro Planeta - Capa Dura",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_690785-MLA117027871833_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78777171",
+      "id": "MLB5173698241",
+      "sold_quantity": 100,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    },
+    {
+      "item_id": "MLB3899903308",
+      "site_id": "MLB",
+      "seller_id": 833293553,
+      "accepts_mercadopago": true,
+      "price": 46.9,
+      "category_id": "MLB255054",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "catalog_boost",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 61.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0dPSTVkMTYw",
+          "name": "Goiânia"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNFVDMxMkE1",
+          "name": "Setor Campinas"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1113992406",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25856542",
+      "title": "Fita De Cetim Nº 9 50 Metros X 38mm Progresso Cor 232 - Verde Menta",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_949523-MLA99589182064_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25856542",
+      "id": "MLB3899903308",
+      "sold_quantity": 800,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-06T05:01:39.188Z"
+}

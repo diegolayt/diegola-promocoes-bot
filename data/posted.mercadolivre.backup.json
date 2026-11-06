@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5491699705",
-    "productKey": "c6d850128e0d4647",
-    "titleHash": "0d363bda659ba892",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-01T19:46:26.699Z"
-  },
-  {
-    "itemId": "MLB5249062183",
-    "productKey": "0d89405e65a8c65e",
-    "titleHash": "d8d5e40afde92978",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-01T20:16:32.524Z"
-  },
-  {
     "itemId": "MLB5447220018",
     "productKey": "9f620b521d231202",
     "titleHash": "8ebbebef839099e6",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-06T04:46:34.509Z"
+  },
+  {
+    "itemId": "MLB5173698241",
+    "productKey": "45a7144daaa80c5a",
+    "titleHash": "8b43e2f0b059a1b9",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-06T05:01:39.186Z"
+  },
+  {
+    "itemId": "MLB3899903308",
+    "productKey": "bb58267a3120520a",
+    "titleHash": "53248af44066218e",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-06T05:01:39.187Z"
   }
 ]
