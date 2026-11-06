@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5210927019",
-    "productKey": "faec2e4d8d4b7bcc",
-    "titleHash": "81b88b0bc1856a15",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-02T02:46:15.048Z"
-  },
-  {
-    "itemId": "MLB7597222656",
-    "productKey": "1249a8fb3d88e9ff",
-    "titleHash": "360d83604027a19c",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-02T02:46:15.048Z"
-  },
-  {
-    "itemId": "MLB6819437892",
-    "productKey": "398190200de201c1",
-    "titleHash": "2f5a00c8a92decec",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-02T03:01:53.322Z"
-  },
-  {
     "itemId": "MLB5191716685",
     "productKey": "c441f5f8b907c35b",
     "titleHash": "07b5dc5df417e750",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-06T15:01:42.674Z"
+  },
+  {
+    "itemId": "MLB4641701284",
+    "productKey": "8020b2695e5c92d7",
+    "titleHash": "917f3be7a1686bc9",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-06T15:16:34.782Z"
+  },
+  {
+    "itemId": "MLB5075783573",
+    "productKey": "93b0581f10d51661",
+    "titleHash": "f1bca9745f7146b2",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-06T15:16:34.783Z"
+  },
+  {
+    "itemId": "MLB7613923148",
+    "productKey": "87b2b96237b87dcd",
+    "titleHash": "d3adb22ed839f614",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-06T15:16:34.783Z"
   }
 ]
