@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7704129760",
-    "productKey": "022696a42b63138a",
-    "titleHash": "f14dd43a146d9774",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-02T07:16:37.836Z"
-  },
-  {
     "itemId": "MLB7124261450",
     "productKey": "9c762775786a2c63",
     "titleHash": "4d8b88ad92cbf3b8",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-06T18:16:30.874Z"
+  },
+  {
+    "itemId": "MLB3995123939",
+    "productKey": "168be902fe1cd973",
+    "titleHash": "338136e26add6b14",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-06T18:31:37.315Z"
   }
 ]
