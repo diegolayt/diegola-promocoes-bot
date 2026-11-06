@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5898180968",
-    "productKey": "bed9824c15628b27",
-    "titleHash": "087ef1e47e318558",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-02T12:16:33.057Z"
-  },
-  {
     "itemId": "MLB4046267101",
     "productKey": "94515ec2fc819af0",
     "titleHash": "2602411dd1f9a94a",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-06T22:16:44.202Z"
+  },
+  {
+    "itemId": "MLB2735052332",
+    "productKey": "bc671c6efd514d42",
+    "titleHash": "c7204587a86680fc",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-06T22:31:33.502Z"
   }
 ]
