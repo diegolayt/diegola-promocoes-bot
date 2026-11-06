@@ -1,5 +1,61 @@
 [
  {
+  "id": "mercadolivre-MLB3644822877",
+  "loja": "mercadolivre",
+  "titulo": "Máscara De Hidratação Morte Súbita 450g Lola Cosmetics",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_988587-MLA113982412397_072026-F.jpg",
+  "preco": 44.9,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB19485497?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": false,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "cabelo",
+  "publicadoEm": "2026-11-06T00:31:50.693Z"
+ },
+ {
+  "id": "mercadolivre-MLB6251191294",
+  "loja": "mercadolivre",
+  "titulo": "Máquina De Lavar Roupas 12kg Branca Midea Wave Impeller Branco",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_629848-MLA100011513144_122025-F.jpg",
+  "preco": 1749,
+  "precoDe": 1841.06,
+  "link": "https://www.mercadolivre.com.br/p/MLB62889081?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": false,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "lavadora",
+  "publicadoEm": "2026-11-06T00:31:46.860Z"
+ },
+ {
+  "id": "mercadolivre-MLB6906628416",
+  "loja": "mercadolivre",
+  "titulo": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED, Windows 10 Pro, Bivolt, Preto - BluePC Office CDBP-OFF100",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_616947-MLA116432884583_082026-F.jpg",
+  "preco": 1260.03,
+  "precoDe": 1443.33,
+  "link": "https://www.mercadolivre.com.br/p/MLB38526875?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "computador",
+  "publicadoEm": "2026-11-06T00:31:43.001Z"
+ },
+ {
+  "id": "mercadolivre-MLB4319862961",
+  "loja": "mercadolivre",
+  "titulo": "Micro-ondas Consul 32L Prata com Menu Fácil - CMS46AR 220v",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_984550-MLA99477052664_112025-F.jpg",
+  "preco": 659,
+  "precoDe": 855.44,
+  "link": "https://www.mercadolivre.com.br/p/MLB19310683?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "fogão",
+  "publicadoEm": "2026-11-06T00:31:39.186Z"
+ },
+ {
   "id": "mercadolivre-MLB5172978253",
   "loja": "mercadolivre",
   "titulo": "Geladeira Consul Frost Free 333 Litros Duplex Branca - CRM40MB",
@@ -8442,34 +8498,6 @@
   "publicadoEm": "2026-11-01T15:16:45.891Z"
  },
  {
-  "id": "mercadolivre-MLB6906628416",
-  "loja": "mercadolivre",
-  "titulo": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED, Windows 10 Pro, Bivolt, Preto - BluePC Office CDBP-OFF100",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_616947-MLA116432884583_082026-F.jpg",
-  "preco": 1309,
-  "precoDe": 1454.44,
-  "link": "https://www.mercadolivre.com.br/p/MLB38526875?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "computador",
-  "publicadoEm": "2026-11-01T15:16:41.993Z"
- },
- {
-  "id": "mercadolivre-MLB4319862961",
-  "loja": "mercadolivre",
-  "titulo": "Micro-ondas Consul 32L Prata com Menu Fácil - CMS46AR 220v",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_984550-MLA99477052664_112025-F.jpg",
-  "preco": 659,
-  "precoDe": 855.44,
-  "link": "https://www.mercadolivre.com.br/p/MLB19310683?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "fogão",
-  "publicadoEm": "2026-11-01T15:16:38.093Z"
- },
- {
   "id": "mercadolivre-MLB4449225983",
   "loja": "mercadolivre",
   "titulo": "Geladeira Consul Frost Free 333 Litros Duplex Branca - CRM40MB",
@@ -16770,33 +16798,5 @@
   "nota": null,
   "fonte": "climatização",
   "publicadoEm": "2026-10-24T06:16:33.592Z"
- },
- {
-  "id": "mercadolivre-MLB4221141181",
-  "loja": "mercadolivre",
-  "titulo": "Console Sony Playstation 5 Edição Slim Disk 1tb Branco",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_688343-MLA88139322691_072025-F.jpg",
-  "preco": 5449,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB52897777?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": false,
-  "nota": null,
-  "fonte": "console",
-  "publicadoEm": "2026-10-24T05:16:35.931Z"
- },
- {
-  "id": "mercadolivre-MLB5384744239",
-  "loja": "mercadolivre",
-  "titulo": "Air Fryer Oven 11 Litros Wap Waod4 Grey Stone Painel Digital 11 Funções 127V",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_829470-MLA119579536359_102026-F.jpg",
-  "preco": 455.43,
-  "precoDe": 713.9,
-  "link": "https://www.mercadolivre.com.br/p/MLB66128452?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "eletrodoméstico",
-  "publicadoEm": "2026-10-24T05:16:32.130Z"
  }
 ]
