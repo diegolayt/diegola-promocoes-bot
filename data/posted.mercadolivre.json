@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5120900508",
-    "productKey": "81b443a4a9774fa4",
-    "titleHash": "13ecb3f9b4137d65",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-02T00:31:36.072Z"
-  },
-  {
-    "itemId": "MLB4654634741",
-    "productKey": "7903f35556480818",
-    "titleHash": "f360d04381e8e03e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-02T00:46:35.251Z"
-  },
-  {
-    "itemId": "MLB4256696421",
-    "productKey": "e6ad6b20e76f3aca",
-    "titleHash": "63fbb386c85e9033",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-02T00:46:35.251Z"
-  },
-  {
     "itemId": "MLB4091456221",
     "productKey": "40f3ce023dcaf098",
     "titleHash": "43b0e8b2f3e2ee28",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-06T12:01:40.871Z"
+  },
+  {
+    "itemId": "MLB7348198478",
+    "productKey": "9605bcb8c9171373",
+    "titleHash": "197684dd4f02c4f0",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-06T12:16:28.665Z"
+  },
+  {
+    "itemId": "MLB7413456100",
+    "productKey": "f59ad2d75ea00ed2",
+    "titleHash": "2eeeca2ccff60b6f",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-06T12:16:28.665Z"
+  },
+  {
+    "itemId": "MLB5518172199",
+    "productKey": "abdd2f1282b8b459",
+    "titleHash": "0a380cdcd01571d6",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-06T12:16:28.665Z"
   }
 ]
