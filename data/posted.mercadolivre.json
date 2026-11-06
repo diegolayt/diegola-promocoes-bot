@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4415031943",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-02T05:31:31.132Z"
-  },
-  {
-    "itemId": "MLB4849437799",
-    "productKey": "1835b96f8c31b1b3",
-    "titleHash": "fe3ce120921d1f3b",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-02T05:31:31.133Z"
-  },
-  {
-    "itemId": "MLB3956721899",
-    "productKey": "f8541b1120414240",
-    "titleHash": "6e7efcaaa8b039c0",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-02T05:31:31.133Z"
-  },
-  {
     "itemId": "MLB5264351136",
     "productKey": "0a9ab3d2be2ebe8b",
     "titleHash": "b37656ffe37607bc",
@@ -4798,5 +4774,29 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-06T17:01:42.345Z"
+  },
+  {
+    "itemId": "MLB3692544709",
+    "productKey": "af6fd456573a6c22",
+    "titleHash": "1a0f1b9fd4ebb53e",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-06T17:16:37.237Z"
+  },
+  {
+    "itemId": "MLB7192750156",
+    "productKey": "7c1acb43a5d485b1",
+    "titleHash": "0f2c660eb4e7faff",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-06T17:16:37.237Z"
+  },
+  {
+    "itemId": "MLB7741159322",
+    "productKey": "ef60b543f7ca8673",
+    "titleHash": "4ca12211160412ec",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-06T17:16:37.237Z"
   }
 ]
