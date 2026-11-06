@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5191642367",
-    "productKey": "81231682978a91c7",
-    "titleHash": "f963640783481006",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-02T08:01:46.387Z"
-  },
-  {
     "itemId": "MLB7912675148",
     "productKey": "9aaaf7db99c08c54",
     "titleHash": "a41ee2faa78cd597",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-06T18:46:30.866Z"
+  },
+  {
+    "itemId": "MLB4464987449",
+    "productKey": "97281c3aa1bd995e",
+    "titleHash": "14d3bd03b87fed59",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-06T19:01:53.986Z"
   }
 ]
