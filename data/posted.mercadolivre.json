@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5765031656",
-    "productKey": "c349dddceaf42741",
-    "titleHash": "9447aa454a0006a0",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-02T02:16:32.836Z"
-  },
-  {
-    "itemId": "MLB5333549261",
-    "productKey": "97ae2ef6f831804d",
-    "titleHash": "1da2ceac8c4459f9",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-02T02:16:32.836Z"
-  },
-  {
     "itemId": "MLB5249061969",
     "productKey": "d60f40144ad87174",
     "titleHash": "673a514c6de388e3",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-06T14:01:41.202Z"
+  },
+  {
+    "itemId": "MLB4924351987",
+    "productKey": "a8251bc98e70126a",
+    "titleHash": "3d01cd9c39438f12",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-06T14:31:40.346Z"
+  },
+  {
+    "itemId": "MLB4812800951",
+    "productKey": "c35a669e46b7da0b",
+    "titleHash": "8e19706523f27ea7",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-06T14:31:40.346Z"
   }
 ]
