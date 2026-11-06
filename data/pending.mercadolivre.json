@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4543450707",
+      "site_id": "MLB",
+      "seller_id": 514197844,
+      "accepts_mercadopago": true,
+      "price": 117,
+      "category_id": "MLB48730",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTUzMDE",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQlPDTzQ0OTQ",
+          "name": "São Cristóvão"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3858580792",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB15285099",
+      "title": "Churrasqueira Elétrica Grill Menu Grl810 Preta Cadence",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603528-MLA99542133166_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB15285099",
+      "id": "MLB4543450707",
+      "sold_quantity": 100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB31683",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-06T00:01:56.808Z"
+}
