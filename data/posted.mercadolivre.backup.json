@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7330348244",
-    "productKey": "56a230716db5d97e",
-    "titleHash": "32e3b2ff4d00f4ad",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-01T17:46:34.877Z"
-  },
-  {
     "itemId": "MLB7861593856",
     "productKey": "7335295731f87564",
     "titleHash": "8f2edb66e9dc7cb0",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-06T02:46:37.821Z"
+  },
+  {
+    "itemId": "MLB5295963789",
+    "productKey": "cb0374b29bdf7cf4",
+    "titleHash": "6765def2c424013a",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-06T03:01:41.677Z"
   }
 ]
