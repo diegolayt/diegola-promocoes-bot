@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3917376669",
-    "productKey": "bb0210ae17eea6d0",
-    "titleHash": "323bf31f9fa959bb",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-01T19:31:39.332Z"
-  },
-  {
     "itemId": "MLB5173698241",
     "productKey": "45a7144daaa80c5a",
     "titleHash": "8b43e2f0b059a1b9",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-06T04:16:30.467Z"
+  },
+  {
+    "itemId": "MLB4562067447",
+    "productKey": "fee0803db3fdd4f9",
+    "titleHash": "036294730bf79c55",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-06T04:31:34.223Z"
   }
 ]
