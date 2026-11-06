@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5191716685",
-    "productKey": "c441f5f8b907c35b",
-    "titleHash": "07b5dc5df417e750",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-02T03:01:53.323Z"
-  },
-  {
-    "itemId": "MLB4461544541",
-    "productKey": "43b0befb3bd6951c",
-    "titleHash": "e5c7b1be01891d5c",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-11-02T03:16:37.448Z"
-  },
-  {
     "itemId": "MLB4685752162",
     "productKey": "cc28a8a0479860e3",
     "titleHash": "8835b2ef394c928f",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-06T15:16:34.783Z"
+  },
+  {
+    "itemId": "MLB6819437892",
+    "productKey": "398190200de201c1",
+    "titleHash": "2f5a00c8a92decec",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-06T15:31:38.160Z"
+  },
+  {
+    "itemId": "MLB5210927019",
+    "productKey": "faec2e4d8d4b7bcc",
+    "titleHash": "81b88b0bc1856a15",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-06T15:31:38.160Z"
   }
 ]
