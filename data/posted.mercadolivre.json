@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4046267101",
-    "productKey": "94515ec2fc819af0",
-    "titleHash": "2602411dd1f9a94a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-02T12:16:33.057Z"
-  },
-  {
     "itemId": "MLB4671001440",
     "productKey": "de330e271b690a16",
     "titleHash": "ee59843d9f1c91fc",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-06T22:31:33.502Z"
+  },
+  {
+    "itemId": "MLB4082731117",
+    "productKey": "c555e963e900e460",
+    "titleHash": "14a27ecaf6ac0575",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-06T22:46:36.703Z"
   }
 ]
