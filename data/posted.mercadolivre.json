@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7918650584",
-    "productKey": "73815bdac6272acd",
-    "titleHash": "038147cac452214e",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-01T21:16:24.699Z"
-  },
-  {
     "itemId": "MLB7829580318",
     "productKey": "2a86db727b2c5887",
     "titleHash": "a6e7bc74d0fd88c8",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-06T07:16:31.594Z"
+  },
+  {
+    "itemId": "MLB3917376669",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-06T07:31:40.519Z"
   }
 ]
