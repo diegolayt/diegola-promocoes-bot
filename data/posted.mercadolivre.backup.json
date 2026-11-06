@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5506642044",
-    "productKey": "a9cae0a28560e7a3",
-    "titleHash": "d81a2f310b80cd21",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-01T17:01:41.017Z"
-  },
-  {
     "itemId": "MLB7902900810",
     "productKey": "1f336dc2d7fd96fc",
     "titleHash": "ab3cc4ecec2850f5",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-06T01:16:32.410Z"
+  },
+  {
+    "itemId": "MLB3345775369",
+    "productKey": "001d5b55e1cb8a1a",
+    "titleHash": "a3cad0a6cd371c9b",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-06T01:46:34.889Z"
   }
 ]
