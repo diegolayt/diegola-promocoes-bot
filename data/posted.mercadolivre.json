@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7077055110",
-    "productKey": "f3fb74dd2c9122ba",
-    "titleHash": "e9e5a5f7f2f44cb2",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-01T23:16:18.471Z"
-  },
-  {
-    "itemId": "MLB4812800951",
-    "productKey": "c35a669e46b7da0b",
-    "titleHash": "8e19706523f27ea7",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-01T23:16:18.471Z"
-  },
-  {
     "itemId": "MLB6920850882",
     "productKey": "45808aef9e36af2b",
     "titleHash": "0fed13623550fa42",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-06T11:01:43.565Z"
+  },
+  {
+    "itemId": "MLB3845254515",
+    "productKey": "c51898934732d05c",
+    "titleHash": "2f77857bd51fad93",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-06T11:16:32.016Z"
+  },
+  {
+    "itemId": "MLB7868759202",
+    "productKey": "4e3f4c35024a7d4c",
+    "titleHash": "c05ea3c2f80d0174",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-06T11:16:32.016Z"
   }
 ]
