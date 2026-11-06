@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7639580540",
-    "productKey": "423be6a63aaf9807",
-    "titleHash": "12495b8eb95edbab",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-01T16:46:28.023Z"
-  },
-  {
-    "itemId": "MLB5394337713",
-    "productKey": "a4ba2751e6fc5f93",
-    "titleHash": "dc1915f9b1aa442c",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-01T16:46:28.023Z"
-  },
-  {
     "itemId": "MLB7885032774",
     "productKey": "3a80315e87a71f5f",
     "titleHash": "d67494a9c8764546",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-06T00:46:36.875Z"
+  },
+  {
+    "itemId": "MLB3269837602",
+    "productKey": "eb39781cba8c5ba7",
+    "titleHash": "9e968352a8f3a15c",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-06T01:01:40.632Z"
+  },
+  {
+    "itemId": "MLB7110417186",
+    "productKey": "0c719e2b6f08c62f",
+    "titleHash": "b98e10c788d858aa",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-06T01:01:40.632Z"
   }
 ]
