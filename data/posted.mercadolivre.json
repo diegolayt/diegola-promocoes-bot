@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7573137108",
-    "productKey": "1c0c2cfead503f62",
-    "titleHash": "4092e4d6763c3705",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-02T01:16:31.532Z"
-  },
-  {
-    "itemId": "MLB3340533709",
-    "productKey": "99ffce333c6f5953",
-    "titleHash": "10199bd0de5afba6",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-02T01:16:31.532Z"
-  },
-  {
     "itemId": "MLB7459722976",
     "productKey": "7f07ce0b4993cace",
     "titleHash": "bdfe8c72bf6ec63a",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-06T13:16:33.802Z"
+  },
+  {
+    "itemId": "MLB7549815570",
+    "productKey": "1f2208dd21863a0e",
+    "titleHash": "8dd77967e28e1211",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-06T13:31:43.220Z"
+  },
+  {
+    "itemId": "MLB5168303995",
+    "productKey": "7903f35556480818",
+    "titleHash": "f360d04381e8e03e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-06T13:31:43.221Z"
   }
 ]
