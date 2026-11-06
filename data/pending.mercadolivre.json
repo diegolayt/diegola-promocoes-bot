@@ -1,0 +1,323 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4415031943",
+      "site_id": "MLB",
+      "seller_id": 345475802,
+      "accepts_mercadopago": true,
+      "price": 45.18,
+      "category_id": "MLB182082",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 82504,
+      "original_price": 139.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 47.192544000000005
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU8OjbyBDYXJsb3NUVXhDVUZOQlQwODVOM",
+          "name": "São Carlos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUGFycXVlIEZlaHJUVmhZVThPamJ5QkRZW",
+          "name": "Parque Fehr"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3584916667",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB50832844",
+      "title": "Kit Organizadores Com 14 Multiuso Gavetas Empilhavel",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_876411-MLA85220468958_062025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB50832844",
+      "id": "MLB4415031943",
+      "sold_quantity": 1500,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5768825826",
+      "site_id": "MLB",
+      "seller_id": 257919653,
+      "accepts_mercadopago": true,
+      "price": 314.39,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 524,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJVGEzZGJj",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjg0MTUx",
+          "name": "Jardim Camburi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3470754554",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46101113",
+      "title": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6L 8 receitas pré-sugeridas timer 60 minutos desligamento automático cesto removivel dupla camada antiaderente - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_719301-MLA99996659519_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46101113",
+      "id": "MLB5768825826",
+      "sold_quantity": 1100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6233971228",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 729,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 36 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "1p_10x_campaign",
+        "dynamic_standard_price",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 899,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 36,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "36 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3783938506",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62870125",
+      "title": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_922246-MLA99988034526_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62870125",
+      "id": "MLB6233971228",
+      "sold_quantity": 900,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB5972837798",
+      "site_id": "MLB",
+      "seller_id": 2638750373,
+      "accepts_mercadopago": true,
+      "price": 169,
+      "category_id": "MLB3843",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 241.43,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3554898334",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB60948234",
+      "title": "Caixa De Som Bluetooth Caixinha Som Portátil Potente Tws Com Rádio Rgb Hifi Som À Prova D'água Ipx67 De Multimodo Bluetooth/Cartão Tf/Entrada Aux/Tws Para Interior/Trabalho/Acampamento Cor Preto Inova",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_731403-MLA99979896537_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB60948234",
+      "id": "MLB5972837798",
+      "sold_quantity": 200,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-06T18:16:30.876Z"
+}
