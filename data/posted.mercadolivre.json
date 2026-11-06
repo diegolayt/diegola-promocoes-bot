@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7124261450",
-    "productKey": "9c762775786a2c63",
-    "titleHash": "4d8b88ad92cbf3b8",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-02T08:01:46.387Z"
-  },
-  {
     "itemId": "MLB5191642367",
     "productKey": "81231682978a91c7",
     "titleHash": "f963640783481006",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-06T18:31:37.315Z"
+  },
+  {
+    "itemId": "MLB2217215350",
+    "productKey": "82877247ca948082",
+    "titleHash": "f68a2c332d7a28a9",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-06T18:46:30.866Z"
   }
 ]
