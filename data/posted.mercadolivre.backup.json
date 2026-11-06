@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5492341773",
-    "productKey": "536062fd315b63f7",
-    "titleHash": "563a02a9817e7c16",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-01T21:31:34.059Z"
-  },
-  {
-    "itemId": "MLB5219998762",
-    "productKey": "ab0f5abeb7d01b34",
-    "titleHash": "3dd9c056269296af",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-01T21:46:34.485Z"
-  },
-  {
     "itemId": "MLB6850995418",
     "productKey": "14ae1350b1edf58c",
     "titleHash": "46679422f89dd4d2",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-06T08:16:35.828Z"
+  },
+  {
+    "itemId": "MLB7933477124",
+    "productKey": "c9df3c56099bd37b",
+    "titleHash": "34f9448e848ee070",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-06T08:46:35.556Z"
+  },
+  {
+    "itemId": "MLB4320329461",
+    "productKey": "ec1a0f6646947a52",
+    "titleHash": "8194a721d6cd8807",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-06T08:46:35.556Z"
   }
 ]
