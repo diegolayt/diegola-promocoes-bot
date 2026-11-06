@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7912675148",
-    "productKey": "9aaaf7db99c08c54",
-    "titleHash": "a41ee2faa78cd597",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-02T08:31:42.234Z"
-  },
-  {
-    "itemId": "MLB7501055654",
-    "productKey": "496a44c0154a0bf4",
-    "titleHash": "b0961859353c7014",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-02T08:46:31.160Z"
-  },
-  {
-    "itemId": "MLB5482164377",
-    "productKey": "522831da8b67442b",
-    "titleHash": "cec36f7858150818",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-02T09:01:37.829Z"
-  },
-  {
     "itemId": "MLB7639258802",
     "productKey": "7372f11b6723cc4e",
     "titleHash": "fb74347e4aa7dcb6",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-06T19:01:53.986Z"
+  },
+  {
+    "itemId": "MLB4976654141",
+    "productKey": "1e02c9455942b0ea",
+    "titleHash": "b7eb6e3ad56267d8",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-06T19:16:37.548Z"
+  },
+  {
+    "itemId": "MLB1663761914",
+    "productKey": "de77083a4e6c4dab",
+    "titleHash": "adf49853a15a232f",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-06T19:16:37.548Z"
+  },
+  {
+    "itemId": "MLB7619971288",
+    "productKey": "55fae1bf40b618cf",
+    "titleHash": "2c0a170468ff47ea",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-06T19:16:37.548Z"
   }
 ]
