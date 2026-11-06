@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5952825902",
-    "productKey": "c451c7876e54b375",
-    "titleHash": "4945a548e1858678",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-02T11:46:35.296Z"
-  },
-  {
     "itemId": "MLB5217693736",
     "productKey": "bd3aa3aa17d44d1a",
     "titleHash": "bb0ac3e977c30917",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-06T21:46:33.624Z"
+  },
+  {
+    "itemId": "MLB7829580318",
+    "productKey": "2a86db727b2c5887",
+    "titleHash": "a6e7bc74d0fd88c8",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-06T22:01:46.302Z"
   }
 ]
