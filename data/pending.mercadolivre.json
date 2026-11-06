@@ -1,0 +1,282 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4319862961",
+      "site_id": "MLB",
+      "seller_id": 257072993,
+      "accepts_mercadopago": true,
+      "price": 659,
+      "category_id": "MLB73057",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1117,
+      "original_price": 855.44,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0RPVTg4MDE3",
+          "name": "Douradina"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3225306415",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19310683",
+      "title": "Micro-ondas Consul 32L Prata com Menu Fácil - CMS46AR 220v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_984550-MLA99477052664_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19310683",
+      "id": "MLB4319862961",
+      "sold_quantity": 1000,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB6906628416",
+      "site_id": "MLB",
+      "seller_id": 743518733,
+      "accepts_mercadopago": true,
+      "price": 1260.03,
+      "category_id": "MLB1649",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 74542,
+      "original_price": 1443.33,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4009521878",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB38526875",
+      "title": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED, Windows 10 Pro, Bivolt, Preto - BluePC Office CDBP-OFF100",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_616947-MLA116432884583_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB38526875",
+      "id": "MLB6906628416",
+      "sold_quantity": 500,
+      "rotationCategory": "computador",
+      "sourceCategoryId": "MLB430637",
+      "minPrice": 900
+    },
+    {
+      "item_id": "MLB6251191294",
+      "site_id": "MLB",
+      "seller_id": 668432476,
+      "accepts_mercadopago": true,
+      "price": 1749,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3296,
+      "original_price": 1841.06,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTlkMjJj",
+          "name": "Itajaí"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTERBMDg4",
+          "name": "Salseiros"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3785601513",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62889081",
+      "title": "Máquina De Lavar Roupas 12kg Branca Midea Wave Impeller Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_629848-MLA100011513144_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62889081",
+      "id": "MLB6251191294",
+      "sold_quantity": 300,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB3644822877",
+      "site_id": "MLB",
+      "seller_id": 484095913,
+      "accepts_mercadopago": true,
+      "price": 44.9,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "supermarket_eligible",
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 65102,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JSQTU2M2Yy",
+          "name": "Brasília"
+        },
+        "state": {
+          "id": "TUxCUERJU0wxMWJhYg",
+          "name": "Distrito Federal"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1143650234",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19485497",
+      "title": "Máscara De Hidratação Morte Súbita 450g Lola Cosmetics",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_988587-MLA113982412397_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19485497",
+      "id": "MLB3644822877",
+      "sold_quantity": 300,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-06T00:31:36.759Z"
+}
