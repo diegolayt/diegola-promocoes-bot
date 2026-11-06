@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4924351987",
-    "productKey": "a8251bc98e70126a",
-    "titleHash": "3d01cd9c39438f12",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-02T02:01:38.460Z"
-  },
-  {
     "itemId": "MLB5765031656",
     "productKey": "c349dddceaf42741",
     "titleHash": "9447aa454a0006a0",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-06T13:46:38.431Z"
+  },
+  {
+    "itemId": "MLB5291905037",
+    "productKey": "7f07ce0b4993cace",
+    "titleHash": "bdfe8c72bf6ec63a",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-06T14:01:41.202Z"
   }
 ]
