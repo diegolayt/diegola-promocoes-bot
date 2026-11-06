@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4082731117",
-    "productKey": "c555e963e900e460",
-    "titleHash": "14a27ecaf6ac0575",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-02T10:31:41.578Z"
-  },
-  {
-    "itemId": "MLB4198382275",
-    "productKey": "22241b81ca88085a",
-    "titleHash": "8c709a3a06dff422",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-02T10:46:48.332Z"
-  },
-  {
-    "itemId": "MLB6629642306",
-    "productKey": "daec8d0881c8d7d6",
-    "titleHash": "38709b9f79583c28",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-02T11:01:47.257Z"
-  },
-  {
     "itemId": "MLB5419188903",
     "productKey": "d7c13b5792513c9a",
     "titleHash": "76baa199fb0390bb",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-06T21:16:42.260Z"
+  },
+  {
+    "itemId": "MLB6091025890",
+    "productKey": "8028bcd48f2747c0",
+    "titleHash": "911c90f13675ebcb",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-06T21:31:42.896Z"
+  },
+  {
+    "itemId": "MLB3898822433",
+    "productKey": "d28d7ff4dc319861",
+    "titleHash": "c7d4fc32964b4cb7",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-06T21:31:42.896Z"
+  },
+  {
+    "itemId": "MLB6472267476",
+    "productKey": "522831da8b67442b",
+    "titleHash": "cec36f7858150818",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-06T21:31:42.896Z"
   }
 ]
