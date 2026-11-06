@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5496678871",
-    "productKey": "a840ac5859f19fbe",
-    "titleHash": "92fe84908be8a274",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-02T09:31:37.317Z"
-  },
-  {
-    "itemId": "MLB2735052332",
-    "productKey": "bc671c6efd514d42",
-    "titleHash": "c7204587a86680fc",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-02T09:46:37.093Z"
-  },
-  {
     "itemId": "MLB7653303324",
     "productKey": "69878d2d21f252a1",
     "titleHash": "25419699bc99025e",
@@ -4798,5 +4782,21 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-11-06T20:31:36.072Z"
+  },
+  {
+    "itemId": "MLB7613843324",
+    "productKey": "ba7df21eb0ca2036",
+    "titleHash": "e289328335e8aff0",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-06T21:01:43.459Z"
+  },
+  {
+    "itemId": "MLB5814374120",
+    "productKey": "2e453f95c6f33ca8",
+    "titleHash": "14a43f99ec759431",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-06T21:01:43.459Z"
   }
 ]
