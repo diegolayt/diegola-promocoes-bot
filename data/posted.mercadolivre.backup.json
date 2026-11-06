@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7549815570",
-    "productKey": "1f2208dd21863a0e",
-    "titleHash": "8dd77967e28e1211",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-02T01:01:39.228Z"
-  },
-  {
     "itemId": "MLB4571329801",
     "productKey": "40ab138cce1c2270",
     "titleHash": "927cd1b3a79366b2",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-06T12:31:40.786Z"
+  },
+  {
+    "itemId": "MLB4256696421",
+    "productKey": "e6ad6b20e76f3aca",
+    "titleHash": "63fbb386c85e9033",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-06T13:01:41.776Z"
   }
 ]
