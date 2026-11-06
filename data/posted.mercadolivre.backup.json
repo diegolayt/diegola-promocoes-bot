@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4632320474",
-    "productKey": "5b2763cb9e9d95a2",
-    "titleHash": "4aefd666fba0af2c",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-01T23:46:32.118Z"
-  },
-  {
-    "itemId": "MLB6073502876",
-    "productKey": "9badbfbd76dd1c0a",
-    "titleHash": "1ccdd80b94cd74ff",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-01T23:46:32.118Z"
-  },
-  {
     "itemId": "MLB7898002038",
     "productKey": "abdd2f1282b8b459",
     "titleHash": "0a380cdcd01571d6",
@@ -4798,5 +4782,21 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-06T11:31:43.155Z"
+  },
+  {
+    "itemId": "MLB7791936566",
+    "productKey": "2f868339db1e586d",
+    "titleHash": "89a9c74f588cbf1b",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-06T11:46:34.719Z"
+  },
+  {
+    "itemId": "MLB5046482101",
+    "productKey": "45808aef9e36af2b",
+    "titleHash": "0fed13623550fa42",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-06T11:46:34.719Z"
   }
 ]
