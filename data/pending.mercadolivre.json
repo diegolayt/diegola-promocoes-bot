@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5387313391",
+      "site_id": "MLB",
+      "seller_id": 290139140,
+      "accepts_mercadopago": true,
+      "price": 126,
+      "category_id": "MLB1262",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lHVTdhMGVh",
+          "name": "Iguaí"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5308481385",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB56408764",
+      "title": "Creme Clareador para Axilas Virilha 60g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_946781-MLA116325720710_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB56408764",
+      "id": "MLB5387313391",
+      "sold_quantity": 500,
+      "rotationCategory": "pele",
+      "sourceCategoryId": "MLB199407",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-06T04:46:34.511Z"
+}
