@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4180964070",
-    "productKey": "4cd18a53d086abb4",
-    "titleHash": "dd83459a203e4e57",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-03T09:16:36.398Z"
-  },
-  {
     "itemId": "MLB6487258316",
     "productKey": "8c0d33a795b15f6e",
     "titleHash": "d094143229ed8d2c",
@@ -4798,5 +4790,13 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-07T16:16:39.647Z"
+  },
+  {
+    "itemId": "MLB6142924384",
+    "productKey": "2527dd838b018334",
+    "titleHash": "34d297fdc0d07825",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-07T16:31:39.266Z"
   }
 ]
