@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6896033620",
-    "productKey": "125a02479dbb4f92",
-    "titleHash": "343c08618531971b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-02T18:31:34.088Z"
-  },
-  {
-    "itemId": "MLB3552382255",
-    "productKey": "b1be541faa5fbece",
-    "titleHash": "ddce1d36b82207f4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-02T18:46:33.066Z"
-  },
-  {
     "itemId": "MLB5774842808",
     "productKey": "d80ef72818275e46",
     "titleHash": "d8d496fc92919deb",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-07T05:01:35.905Z"
+  },
+  {
+    "itemId": "MLB3374640095",
+    "productKey": "ccb6a091dd86456b",
+    "titleHash": "34034148276df6c7",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-07T05:16:31.236Z"
+  },
+  {
+    "itemId": "MLB7856202214",
+    "productKey": "fe16007c751e527f",
+    "titleHash": "ece32195d0dd0b0a",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-07T05:16:31.236Z"
   }
 ]
