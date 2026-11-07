@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4053374163",
-    "productKey": "04168d7af042a735",
-    "titleHash": "cd6447da33f541b3",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-03T17:17:00.996Z"
-  },
-  {
     "itemId": "MLB7182049194",
     "productKey": "ab7a06687d5141b6",
     "titleHash": "90a8b50e660fc297",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-07T21:16:31.383Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-07T21:31:36.503Z"
   }
 ]
