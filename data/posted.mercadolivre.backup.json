@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4758538973",
-    "productKey": "423754fcafb59c0b",
-    "titleHash": "2e54e63e8ac79d09",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-03T18:32:17.631Z"
-  },
-  {
-    "itemId": "MLB4559000033",
-    "productKey": "5b46392a746a1583",
-    "titleHash": "bc9fa749b71a0b00",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-03T18:46:54.763Z"
-  },
-  {
-    "itemId": "MLB7578602888",
-    "productKey": "c240bbb586d73ffd",
-    "titleHash": "659c673f47d90430",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-03T18:46:54.764Z"
-  },
-  {
     "itemId": "MLB7902690244",
     "productKey": "eafa4fac22bc28d4",
     "titleHash": "ba618477890cc7be",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-07T23:01:42.463Z"
+  },
+  {
+    "itemId": "MLB3846575151",
+    "productKey": "2ba242383bfef56e",
+    "titleHash": "cb8c5b3b8c06dad6",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-07T23:16:29.370Z"
+  },
+  {
+    "itemId": "MLB5062883069",
+    "productKey": "e2dcc38535954264",
+    "titleHash": "a0b956df4863c867",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-07T23:16:29.370Z"
+  },
+  {
+    "itemId": "MLB7168974918",
+    "productKey": "04168d7af042a735",
+    "titleHash": "cd6447da33f541b3",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-07T23:16:29.370Z"
   }
 ]
