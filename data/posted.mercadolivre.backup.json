@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4464623363",
-    "productKey": "6325cecbb66a769a",
-    "titleHash": "7ff317b46af6b060",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-03T05:01:45.736Z"
-  },
-  {
     "itemId": "MLB4754842530",
     "productKey": "9132e4c8f8f9ea53",
     "titleHash": "798e6332f7c74764",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-07T14:01:39.271Z"
+  },
+  {
+    "itemId": "MLB4937103255",
+    "productKey": "43c350cfb5bcfa4f",
+    "titleHash": "3449650e195a39c3",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-07T14:16:31.480Z"
   }
 ]
