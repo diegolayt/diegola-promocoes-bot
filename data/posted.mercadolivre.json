@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7267425064",
-    "productKey": "d88aa48d0a267fbf",
-    "titleHash": "e1b11f56561d2fb3",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-02T21:31:39.979Z"
-  },
-  {
     "itemId": "MLB3782523165",
     "productKey": "948ee43d2d7626fb",
     "titleHash": "93e49c3d46e7aa6f",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-07T07:31:34.259Z"
+  },
+  {
+    "itemId": "MLB5497688281",
+    "productKey": "93b7bac13b7f16c9",
+    "titleHash": "125cb0542fdbeae6",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-07T07:46:31.832Z"
   }
 ]

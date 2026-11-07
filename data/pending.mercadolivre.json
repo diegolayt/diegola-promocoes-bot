@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5497688281",
+      "site_id": "MLB",
+      "seller_id": 2530987844,
+      "accepts_mercadopago": true,
+      "price": 114.9,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTWFjYcOpVFV4Q1VGSkpUMDh4T0RNNVpn",
+          "name": "Macaé"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TVhYQWp1ZGFUVmhZVFdGalljT3BWRlY0UTFWR",
+          "name": "Ajuda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5777534974",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB75012346",
+      "title": "Relogio Inteligente Smartwatch T900 S10 Ultra Pro longa bateria Treino Smartwatch 49mm Bluetooth Chamadas Notificações Saúde",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603284-MLA119336961163_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB75012346",
+      "id": "MLB5497688281",
+      "sold_quantity": 1500,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-07T07:46:31.834Z"
+}
