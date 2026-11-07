@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7182049194",
-    "productKey": "ab7a06687d5141b6",
-    "titleHash": "90a8b50e660fc297",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-03T17:32:04.766Z"
-  },
-  {
     "itemId": "MLB5310409829",
     "productKey": "630abd9b007307fe",
     "titleHash": "77f4d7c3280dfb52",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-07T21:31:36.503Z"
+  },
+  {
+    "itemId": "MLB7939560880",
+    "productKey": "f2cc121a987258d9",
+    "titleHash": "6d8e200943d2f5c5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-07T21:46:32.051Z"
   }
 ]

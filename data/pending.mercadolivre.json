@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7939560880",
+      "site_id": "MLB",
+      "seller_id": 1128229390,
+      "accepts_mercadopago": true,
+      "price": 403.57,
+      "category_id": "MLB120294",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 424.82,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUnR0YWVu",
+          "name": "Parque da Vila Prudente"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5810490160",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53768796",
+      "title": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 127V",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_914656-MLA112812146736_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53768796",
+      "id": "MLB7939560880",
+      "sold_quantity": 900,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-11-07T21:46:32.054Z"
+}
