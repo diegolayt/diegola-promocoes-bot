@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7903121198",
-    "productKey": "0da48686e23f62c4",
-    "titleHash": "7e8ecf727227ad97",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-03T00:16:34.031Z"
-  },
-  {
-    "itemId": "MLB6823283528",
-    "productKey": "e2489c1451cb6572",
-    "titleHash": "313364498118e4ab",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-03T00:31:38.021Z"
-  },
-  {
     "itemId": "MLB4067339459",
     "productKey": "8c6368c4182d052e",
     "titleHash": "076b7b730e1e7886",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-07T10:16:31.774Z"
+  },
+  {
+    "itemId": "MLB4610033085",
+    "productKey": "3ec767c81d06051b",
+    "titleHash": "70a866555fd96fb6",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-07T10:31:42.419Z"
+  },
+  {
+    "itemId": "MLB2833722862",
+    "productKey": "67c8124f8010d4d0",
+    "titleHash": "3acad1ab805f0289",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-07T10:31:42.419Z"
   }
 ]
