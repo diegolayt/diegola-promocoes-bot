@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3946830801",
-    "productKey": "9180f7359eb828c8",
-    "titleHash": "334a61232386e846",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-03T05:46:26.532Z"
-  },
-  {
     "itemId": "MLB6769816128",
     "productKey": "3f3b1148afa866b2",
     "titleHash": "5f3c6ee8eb084863",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-07T15:16:33.924Z"
+  },
+  {
+    "itemId": "MLB4716691435",
+    "productKey": "b216c04d769cb55e",
+    "titleHash": "7e8ecf727227ad97",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-07T15:46:29.446Z"
   }
 ]
