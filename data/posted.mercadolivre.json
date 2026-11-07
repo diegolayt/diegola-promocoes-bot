@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4205581723",
-    "productKey": "659686bb25e5327b",
-    "titleHash": "d62f8aa6f5902055",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-03T02:31:34.422Z"
-  },
-  {
-    "itemId": "MLB4289747239",
-    "productKey": "c9600d3204931985",
-    "titleHash": "2923a52cc1d5884a",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-03T03:16:31.062Z"
-  },
-  {
     "itemId": "MLB6182336356",
     "productKey": "e772e6fb3830f752",
     "titleHash": "796851ab66948329",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-07T12:16:33.290Z"
+  },
+  {
+    "itemId": "MLB4067339459",
+    "productKey": "8c6368c4182d052e",
+    "titleHash": "076b7b730e1e7886",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-07T13:16:34.274Z"
+  },
+  {
+    "itemId": "MLB6823283528",
+    "productKey": "e2489c1451cb6572",
+    "titleHash": "313364498118e4ab",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-07T13:16:34.274Z"
   }
 ]
