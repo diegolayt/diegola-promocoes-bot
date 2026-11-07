@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6594540390",
-    "productKey": "9d5c96d703bbb08b",
-    "titleHash": "b4c97ba46d1f05ff",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-03T00:01:41.817Z"
-  },
-  {
     "itemId": "MLB7903121198",
     "productKey": "0da48686e23f62c4",
     "titleHash": "7e8ecf727227ad97",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-07T09:46:34.162Z"
+  },
+  {
+    "itemId": "MLB3552382255",
+    "productKey": "b1be541faa5fbece",
+    "titleHash": "ddce1d36b82207f4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-07T10:16:31.774Z"
   }
 ]
