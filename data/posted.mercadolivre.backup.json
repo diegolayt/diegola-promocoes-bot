@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5139680871",
-    "productKey": "383eafc260a9c2c7",
-    "titleHash": "1d6b824c6b48131e",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-02T22:31:33.436Z"
-  },
-  {
-    "itemId": "MLB3928029276",
-    "productKey": "3f468fe7d81ead30",
-    "titleHash": "a0e7068095171d6a",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-02T22:46:32.718Z"
-  },
-  {
     "itemId": "MLB4532977440",
     "productKey": "78f2b6de4ac95865",
     "titleHash": "41b27e352f9a3069",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-07T08:31:38.589Z"
+  },
+  {
+    "itemId": "MLB4195198970",
+    "productKey": "19e579017e9bbafd",
+    "titleHash": "9bead5eecb241d6b",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-07T09:16:31.224Z"
+  },
+  {
+    "itemId": "MLB6985336822",
+    "productKey": "b5ddbc5fc16e2eb7",
+    "titleHash": "1a469a09813e0b46",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-07T09:16:31.225Z"
   }
 ]
