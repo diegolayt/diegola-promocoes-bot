@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4464806113",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 339.4,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 199,
+      "original_price": 551.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 30
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3783189602",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB56550237",
+      "title": "Fritadeira Air Fryer Oven 11 Litros 1800w 8 Funções Philco PAF11B",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_633098-MLA92276027266_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB56550237",
+      "id": "MLB4464806113",
+      "sold_quantity": 1300,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-07T14:01:39.272Z"
+}
