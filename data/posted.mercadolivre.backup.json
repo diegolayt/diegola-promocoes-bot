@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4993092667",
-    "productKey": "f2cc121a987258d9",
-    "titleHash": "6d8e200943d2f5c5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-03T15:46:53.483Z"
-  },
-  {
-    "itemId": "MLB7657977886",
-    "productKey": "525cdc14fb44b9f9",
-    "titleHash": "48172cb7558886dd",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-03T16:02:06.672Z"
-  },
-  {
-    "itemId": "MLB5538296886",
-    "productKey": "e99726c12745d0a4",
-    "titleHash": "8b80f8f23c3c0fbd",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-03T16:16:44.123Z"
-  },
-  {
     "itemId": "MLB5720245564",
     "productKey": "2c2b688ed1849d8f",
     "titleHash": "41b3bbae93bde1d9",
@@ -4798,5 +4774,29 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-07T19:01:51.948Z"
+  },
+  {
+    "itemId": "MLB4367472233",
+    "productKey": "586170da6abacc2c",
+    "titleHash": "9db3ad497b1f6ba2",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-07T19:31:39.601Z"
+  },
+  {
+    "itemId": "MLB5597479444",
+    "productKey": "e2501bd4ef202aaa",
+    "titleHash": "7a4dfed420269918",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-07T19:31:39.601Z"
+  },
+  {
+    "itemId": "MLB5243355351",
+    "productKey": "08ad8900369f6d2b",
+    "titleHash": "440a820104a3d216",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-07T19:31:39.601Z"
   }
 ]
