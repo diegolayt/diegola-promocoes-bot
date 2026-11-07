@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5062883069",
-    "productKey": "e2dcc38535954264",
-    "titleHash": "a0b956df4863c867",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-03T17:17:00.996Z"
-  },
-  {
     "itemId": "MLB4053374163",
     "productKey": "04168d7af042a735",
     "titleHash": "cd6447da33f541b3",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-07T21:01:44.545Z"
+  },
+  {
+    "itemId": "MLB4726600695",
+    "productKey": "f28c430b2349dd9d",
+    "titleHash": "cbc14ed247b8b10d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-07T21:16:31.383Z"
   }
 ]
