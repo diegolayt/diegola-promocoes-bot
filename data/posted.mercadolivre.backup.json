@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5359732657",
-    "productKey": "7ee93f70ba994b37",
-    "titleHash": "cbc89261a0bdc7f7",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-02T18:46:33.067Z"
-  },
-  {
     "itemId": "MLB4319885701",
     "productKey": "669f68fe551672b5",
     "titleHash": "7f2f4a5a7854a3b6",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-07T05:31:40.455Z"
+  },
+  {
+    "itemId": "MLB5522017989",
+    "productKey": "e80baf6cfbfdbd42",
+    "titleHash": "5e78adefcd40617e",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-07T05:46:41.195Z"
   }
 ]
