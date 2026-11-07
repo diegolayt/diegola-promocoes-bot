@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4286128237",
-    "productKey": "5bd1da402a27bcc7",
-    "titleHash": "8b02e1cd20d5d3b1",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-03T17:02:18.078Z"
-  },
-  {
-    "itemId": "MLB3846575151",
-    "productKey": "2ba242383bfef56e",
-    "titleHash": "cb8c5b3b8c06dad6",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-03T17:17:00.995Z"
-  },
-  {
     "itemId": "MLB5062883069",
     "productKey": "e2dcc38535954264",
     "titleHash": "a0b956df4863c867",
@@ -4798,5 +4782,21 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-07T20:31:40.640Z"
+  },
+  {
+    "itemId": "MLB5738738172",
+    "productKey": "9eb5fc3ffddd6db0",
+    "titleHash": "945f28db261b2b05",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-07T21:01:44.545Z"
+  },
+  {
+    "itemId": "MLB5505000011",
+    "productKey": "4cb2fbc1138054c4",
+    "titleHash": "c416098da5ca170f",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-07T21:01:44.545Z"
   }
 ]
