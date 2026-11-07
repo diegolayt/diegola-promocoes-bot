@@ -1,0 +1,241 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4810872029",
+      "site_id": "MLB",
+      "seller_id": 50961577,
+      "accepts_mercadopago": true,
+      "price": 479,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "forced_business_price_per_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTRiZmYy",
+          "name": "Itaporã"
+        },
+        "state": {
+          "id": "TUxCUE1BVEw4ZTc",
+          "name": "Mato Grosso do Sul"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU4142074667",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17978326",
+      "title": "SSD Kingston A400 480GB SATA III 2.5\" 500MB/s SA400S37/480G",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_890700-MLA99502433930_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17978326",
+      "id": "MLB4810872029",
+      "sold_quantity": 1600,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5525601553",
+      "site_id": "MLB",
+      "seller_id": 150737297,
+      "accepts_mercadopago": true,
+      "price": 200,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0ZBWjRlNzc0",
+          "name": "Fazenda Rio Grande"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5841883856",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB76223619",
+      "title": "Relógio Inteligente Smartwatch Gps Autônomo IP68 3ATM À prova dágua 850mAh Preto NOVANTE Digital Feminino Masculino Esportivo Android IOS Notificações Instantâneas Bluetooth Chamadas Lanterna Bússola",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_692805-MLA115517949733_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB76223619",
+      "id": "MLB5525601553",
+      "sold_quantity": 800,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB5475613191",
+      "site_id": "MLB",
+      "seller_id": 2910704363,
+      "accepts_mercadopago": true,
+      "price": 50.42,
+      "category_id": "MLB33424",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JMVWM2MDMx",
+          "name": "Blumenau"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQkZPUkExMUFE",
+          "name": "Fortaleza"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5726901590",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27410145",
+      "title": "Marinex Conjunto de Assadeiras Oval Opaline 3 Peças Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_805234-MLA119294675074_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27410145",
+      "id": "MLB5475613191",
+      "sold_quantity": 300,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-07T20:31:40.642Z"
+}

@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4527837545",
-    "productKey": "7e5eeb5fc2da9a55",
-    "titleHash": "6ab4b45d11833727",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-03T16:46:44.563Z"
-  },
-  {
-    "itemId": "MLB3154294131",
-    "productKey": "cd0323ce73ec192c",
-    "titleHash": "f46f9f5a2dd55cfd",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-03T17:02:18.077Z"
-  },
-  {
-    "itemId": "MLB5930202958",
-    "productKey": "fded24791054bb1d",
-    "titleHash": "bba7ae42ffd6ef51",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-03T17:02:18.078Z"
-  },
-  {
     "itemId": "MLB4286128237",
     "productKey": "5bd1da402a27bcc7",
     "titleHash": "8b02e1cd20d5d3b1",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-07T20:16:40.636Z"
+  },
+  {
+    "itemId": "MLB4810872029",
+    "productKey": "37500b1a9625ab89",
+    "titleHash": "cd82b27d3ae85212",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-07T20:31:40.640Z"
+  },
+  {
+    "itemId": "MLB5525601553",
+    "productKey": "8a5950fa33563a64",
+    "titleHash": "c200c7409cb882ff",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-07T20:31:40.640Z"
+  },
+  {
+    "itemId": "MLB5475613191",
+    "productKey": "55165ae4e873b412",
+    "titleHash": "e06ec53a634432a7",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-07T20:31:40.640Z"
   }
 ]
