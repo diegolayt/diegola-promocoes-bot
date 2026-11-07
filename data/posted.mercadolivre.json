@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4592569844",
-    "productKey": "8e754a84d4cb7d6c",
-    "titleHash": "739fe962804bde10",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-03T18:16:54.228Z"
-  },
-  {
     "itemId": "MLB7702250824",
     "productKey": "6cb1243c40624794",
     "titleHash": "86b6e248994c6e5b",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-07T22:31:41.958Z"
+  },
+  {
+    "itemId": "MLB5930202958",
+    "productKey": "fded24791054bb1d",
+    "titleHash": "bba7ae42ffd6ef51",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-07T22:46:27.910Z"
   }
 ]
