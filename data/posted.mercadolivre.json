@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4666236086",
-    "productKey": "5c3bb192f47b1dc7",
-    "titleHash": "3752613afe88d8e7",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-03T07:31:34.992Z"
-  },
-  {
-    "itemId": "MLB4367472233",
-    "productKey": "586170da6abacc2c",
-    "titleHash": "9db3ad497b1f6ba2",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-03T07:46:32.416Z"
-  },
-  {
-    "itemId": "MLB5270753801",
-    "productKey": "03268f9fe00e909e",
-    "titleHash": "6ed609609a19a867",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-11-03T08:01:49.164Z"
-  },
-  {
     "itemId": "MLB4180964070",
     "productKey": "4cd18a53d086abb4",
     "titleHash": "dd83459a203e4e57",
@@ -4798,5 +4774,29 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-07T16:01:43.391Z"
+  },
+  {
+    "itemId": "MLB4053861862",
+    "productKey": "582a00a061dfbcdd",
+    "titleHash": "2ff16fab12801e4a",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-07T16:16:39.646Z"
+  },
+  {
+    "itemId": "MLB7664829504",
+    "productKey": "05b7fd961f48a8ca",
+    "titleHash": "00981e70f1f63cf9",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-07T16:16:39.647Z"
+  },
+  {
+    "itemId": "MLB7947087936",
+    "productKey": "5bbd37355bdaaca3",
+    "titleHash": "a1800fc74ec6ad41",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-07T16:16:39.647Z"
   }
 ]
