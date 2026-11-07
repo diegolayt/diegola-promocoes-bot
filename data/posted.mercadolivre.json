@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB2760684440",
-    "productKey": "4ae6c04be37129cb",
-    "titleHash": "4b5a0e421d4a8abf",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-02T19:46:34.731Z"
-  },
-  {
-    "itemId": "MLB5746940456",
-    "productKey": "15cbe337a1821ebb",
-    "titleHash": "eb4f571b369048dd",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-02T20:16:32.865Z"
-  },
-  {
-    "itemId": "MLB6408226600",
-    "productKey": "ffd2dbac1d847a7c",
-    "titleHash": "dc9e307982604a38",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-02T20:16:32.865Z"
-  },
-  {
     "itemId": "MLB4190456415",
     "productKey": "6a0f3de508245dc1",
     "titleHash": "ae7ee8f191bd670b",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-07T06:46:34.815Z"
+  },
+  {
+    "itemId": "MLB7227482292",
+    "productKey": "62bcab9e6c459851",
+    "titleHash": "503e887254ddf661",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-07T07:01:46.885Z"
+  },
+  {
+    "itemId": "MLB5496495626",
+    "productKey": "9affbdb880b8bc94",
+    "titleHash": "e8ff47795136b334",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-07T07:01:46.886Z"
+  },
+  {
+    "itemId": "MLB6729908758",
+    "productKey": "125a02479dbb4f92",
+    "titleHash": "67261eed9f9c6156",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-07T07:01:46.886Z"
   }
 ]
