@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6325940828",
-    "productKey": "42b3d57c38a3059e",
-    "titleHash": "ec8ae247e926de2b",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-02T15:31:36.928Z"
-  },
-  {
     "itemId": "MLB5399666787",
     "productKey": "3344db8c92b18ffc",
     "titleHash": "edb9c071a365bae0",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-07T01:31:38.048Z"
+  },
+  {
+    "itemId": "MLB3545061637",
+    "productKey": "690d29606093b12a",
+    "titleHash": "eff4b6f329165dbf",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-07T02:01:47.525Z"
   }
 ]
