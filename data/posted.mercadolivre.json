@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6199360994",
-    "productKey": "e6883ccc59c7b962",
-    "titleHash": "1e795399d6aab2f4",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-03T18:02:04.376Z"
-  },
-  {
-    "itemId": "MLB4201839131",
-    "productKey": "a56325cf90bab0f5",
-    "titleHash": "dc5cb19db2f1630b",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-03T18:02:04.376Z"
-  },
-  {
     "itemId": "MLB4592569844",
     "productKey": "8e754a84d4cb7d6c",
     "titleHash": "739fe962804bde10",
@@ -4798,5 +4782,21 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-07T22:16:35.064Z"
+  },
+  {
+    "itemId": "MLB5538296886",
+    "productKey": "e99726c12745d0a4",
+    "titleHash": "8b80f8f23c3c0fbd",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-07T22:31:41.958Z"
+  },
+  {
+    "itemId": "MLB5973456216",
+    "productKey": "93f3f56dee4a0384",
+    "titleHash": "60f6761a38375cf5",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-07T22:31:41.958Z"
   }
 ]
