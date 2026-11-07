@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5766314924",
-    "productKey": "0368fc6ed7886a6f",
-    "titleHash": "449fd89d25206ff4",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-02T16:16:38.637Z"
-  },
-  {
-    "itemId": "MLB3600544593",
-    "productKey": "c52e36fc9898a93c",
-    "titleHash": "0980e9b00d7d2072",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-02T16:16:38.637Z"
-  },
-  {
     "itemId": "MLB6162516164",
     "productKey": "e805db15ed4b2441",
     "titleHash": "4f1644e0b7e716fc",
@@ -4798,5 +4782,21 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-07T03:16:32.355Z"
+  },
+  {
+    "itemId": "MLB7944971274",
+    "productKey": "7d185defb541f932",
+    "titleHash": "45c958da81de6776",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-07T03:31:38.554Z"
+  },
+  {
+    "itemId": "MLB4642582269",
+    "productKey": "42b3d57c38a3059e",
+    "titleHash": "ec8ae247e926de2b",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-07T03:31:38.554Z"
   }
 ]
