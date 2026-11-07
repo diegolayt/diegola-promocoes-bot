@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5324444473",
+      "site_id": "MLB",
+      "seller_id": 1053154455,
+      "accepts_mercadopago": true,
+      "price": 61.97,
+      "category_id": "MLB189949",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 153002,
+      "original_price": 78.97,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTjhhYWR4",
+          "name": "Canindé"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3476785958",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB79735328",
+      "title": "Cascata Pisca Pisca LED 400 Luzes Branco Frio 10m com 8 Funções para Decoração de Natal",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_676302-MLA120363189623_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB79735328",
+      "id": "MLB5324444473",
+      "sold_quantity": 800,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-07T22:16:35.066Z"
+}
