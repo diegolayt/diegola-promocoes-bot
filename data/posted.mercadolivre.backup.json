@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4037680625",
-    "productKey": "f52c6fc6bb28ce5c",
-    "titleHash": "c36ef63031ead69a",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-03T19:16:45.162Z"
-  },
-  {
-    "itemId": "MLB6258717666",
-    "productKey": "b912948cf9b5e753",
-    "titleHash": "4f9c8fc996431b26",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-03T19:16:45.162Z"
-  },
-  {
     "itemId": "MLB6943752224",
     "productKey": "127b8887916baeb4",
     "titleHash": "fa8d671112a0eeee",
@@ -4798,5 +4782,21 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-07T23:31:37.560Z"
+  },
+  {
+    "itemId": "MLB6972021044",
+    "productKey": "5a24c3485e043a19",
+    "titleHash": "ca2038c29bdfa6f9",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-11-07T23:46:29.347Z"
+  },
+  {
+    "itemId": "MLB7868134268",
+    "productKey": "3ed7b92c0154e927",
+    "titleHash": "0466b60bc5a92820",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-07T23:46:29.347Z"
   }
 ]
