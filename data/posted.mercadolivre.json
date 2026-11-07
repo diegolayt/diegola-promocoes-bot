@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4190456415",
-    "productKey": "6a0f3de508245dc1",
-    "titleHash": "ae7ee8f191bd670b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-02T20:31:40.791Z"
-  },
-  {
-    "itemId": "MLB4195198970",
-    "productKey": "19e579017e9bbafd",
-    "titleHash": "9bead5eecb241d6b",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-02T21:01:42.136Z"
-  },
-  {
     "itemId": "MLB4411577880",
     "productKey": "1695451136b60c3d",
     "titleHash": "7bf56a01b25ad75c",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-07T07:01:46.886Z"
+  },
+  {
+    "itemId": "MLB3346794503",
+    "productKey": "d80ef72818275e46",
+    "titleHash": "d8d496fc92919deb",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-07T07:16:36.986Z"
+  },
+  {
+    "itemId": "MLB7283029550",
+    "productKey": "f741ca1646ce9e5b",
+    "titleHash": "235e06efad8f596e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-07T07:16:36.986Z"
   }
 ]
