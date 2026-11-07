@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6182336356",
-    "productKey": "e772e6fb3830f752",
-    "titleHash": "796851ab66948329",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-03T03:31:37.981Z"
-  },
-  {
     "itemId": "MLB5414776307",
     "productKey": "5bbd37355bdaaca3",
     "titleHash": "c3390cb321d1deb2",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-07T13:16:34.274Z"
+  },
+  {
+    "itemId": "MLB7303325040",
+    "productKey": "4a7f02d9f32165ef",
+    "titleHash": "a12ff9e762186519",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-07T13:31:40.236Z"
   }
 ]
