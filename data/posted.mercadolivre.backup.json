@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3399022201",
-    "productKey": "f0bb7eab24f9461a",
-    "titleHash": "5de2e14bd196608c",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-03T16:46:44.563Z"
-  },
-  {
     "itemId": "MLB4527837545",
     "productKey": "7e5eeb5fc2da9a55",
     "titleHash": "6ab4b45d11833727",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-07T20:01:36.362Z"
+  },
+  {
+    "itemId": "MLB5886831522",
+    "productKey": "62f91e78f631ddab",
+    "titleHash": "8268204c51c89120",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-07T20:16:40.636Z"
   }
 ]
