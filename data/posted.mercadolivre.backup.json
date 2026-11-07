@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4987728419",
-    "productKey": "3ec767c81d06051b",
-    "titleHash": "70a866555fd96fb6",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-02T22:16:36.029Z"
-  },
-  {
     "itemId": "MLB5139680871",
     "productKey": "383eafc260a9c2c7",
     "titleHash": "1d6b824c6b48131e",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-07T08:16:34.823Z"
+  },
+  {
+    "itemId": "MLB4190456415",
+    "productKey": "6a0f3de508245dc1",
+    "titleHash": "ae7ee8f191bd670b",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-07T08:31:38.589Z"
   }
 ]
