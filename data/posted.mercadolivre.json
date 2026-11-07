@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7889042990",
-    "productKey": "8001d68ba72e9a64",
-    "titleHash": "567445470a0ab6a0",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-02T16:01:45.382Z"
-  },
-  {
-    "itemId": "MLB5146371923",
-    "productKey": "433c92dede263740",
-    "titleHash": "e7ffde166713f219",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-02T16:16:38.637Z"
-  },
-  {
     "itemId": "MLB5766314924",
     "productKey": "0368fc6ed7886a6f",
     "titleHash": "449fd89d25206ff4",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-07T02:46:39.005Z"
+  },
+  {
+    "itemId": "MLB3551603209",
+    "productKey": "640f8d3c0cbc4c83",
+    "titleHash": "d30118097bc8aca5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-07T03:16:32.355Z"
+  },
+  {
+    "itemId": "MLB5504766109",
+    "productKey": "9ee46f646c4f61c2",
+    "titleHash": "f8b77aa9bf7772c8",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-07T03:16:32.355Z"
   }
 ]
