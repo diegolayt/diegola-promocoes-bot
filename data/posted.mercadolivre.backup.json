@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4510325461",
-    "productKey": "f55481226776a3de",
-    "titleHash": "aef1dd15b5a70088",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-03T15:31:46.836Z"
-  },
-  {
-    "itemId": "MLB2751486961",
-    "productKey": "0da42abc4e07efc8",
-    "titleHash": "583334eed73b7bc4",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-03T15:31:46.836Z"
-  },
-  {
     "itemId": "MLB7854138028",
     "productKey": "f28c430b2349dd9d",
     "titleHash": "cbc14ed247b8b10d",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-07T18:31:47.956Z"
+  },
+  {
+    "itemId": "MLB7331664290",
+    "productKey": "d88aa48d0a267fbf",
+    "titleHash": "e1b11f56561d2fb3",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-07T18:46:31.722Z"
+  },
+  {
+    "itemId": "MLB4621047857",
+    "productKey": "3f3b1148afa866b2",
+    "titleHash": "5f3c6ee8eb084863",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-07T18:46:31.722Z"
   }
 ]
