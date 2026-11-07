@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6985336822",
-    "productKey": "b5ddbc5fc16e2eb7",
-    "titleHash": "1a469a09813e0b46",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-02T17:31:32.511Z"
-  },
-  {
-    "itemId": "MLB5497003893",
-    "productKey": "92ed4d201e5b3bee",
-    "titleHash": "48c67fe42edfb18e",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-02T17:46:33.676Z"
-  },
-  {
     "itemId": "MLB4324368929",
     "productKey": "1bff0ff397ddef2c",
     "titleHash": "31d3d3c068113c56",
@@ -4798,5 +4782,21 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-07T04:01:46.848Z"
+  },
+  {
+    "itemId": "MLB5008821409",
+    "productKey": "06651e2562cbb16b",
+    "titleHash": "827ce4bd52859f56",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-07T04:16:32.640Z"
+  },
+  {
+    "itemId": "MLB5958007106",
+    "productKey": "9d589fd67793b096",
+    "titleHash": "500a0545e991dccb",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-07T04:16:32.641Z"
   }
 ]
