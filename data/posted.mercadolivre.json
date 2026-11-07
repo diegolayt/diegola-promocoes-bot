@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4712531609",
-    "productKey": "bf7e00fa51c47b92",
-    "titleHash": "2b36c4d2d2387bd1",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-02T23:31:40.033Z"
-  },
-  {
-    "itemId": "MLB3174656677",
-    "productKey": "bc0bb9a0c3fb15a1",
-    "titleHash": "0e851e97989db4c8",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-02T23:46:37.116Z"
-  },
-  {
     "itemId": "MLB6594540390",
     "productKey": "9d5c96d703bbb08b",
     "titleHash": "b4c97ba46d1f05ff",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-07T09:31:43.576Z"
+  },
+  {
+    "itemId": "MLB5270193474",
+    "productKey": "948ee43d2d7626fb",
+    "titleHash": "93e49c3d46e7aa6f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-07T09:46:34.162Z"
+  },
+  {
+    "itemId": "MLB5511161377",
+    "productKey": "7996d894587d17ae",
+    "titleHash": "7ec3def6ccf605d1",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-07T09:46:34.162Z"
   }
 ]
