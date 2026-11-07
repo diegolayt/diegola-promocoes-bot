@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7740297886",
+      "site_id": "MLB",
+      "seller_id": 54795867,
+      "accepts_mercadopago": true,
+      "price": 4349.9,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5590,
+      "original_price": 5999.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTjMxMzZk",
+          "name": "Contagem"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJTkQ3MEJE",
+          "name": "Cinco"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5338284427",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB80167828",
+      "title": "Bundle Nintendo Switch 2 + Mario Kart World + 3 Meses NSO",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB80167828",
+      "id": "MLB7740297886",
+      "sold_quantity": 1600,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    },
+    {
+      "item_id": "MLB5517635609",
+      "site_id": "MLB",
+      "seller_id": 3768156840,
+      "accepts_mercadopago": true,
+      "price": 1144,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 1350,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5823585628",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62148588",
+      "title": "Celular Smartphone Realme C73 128gb 4gb Ram Dual Sim 120hz 6000mAh Verde, NFC",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_929245-MLA102616317533_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62148588",
+      "id": "MLB5517635609",
+      "sold_quantity": 100,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-07T06:46:34.818Z"
+}
