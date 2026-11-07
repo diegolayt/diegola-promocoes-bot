@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5738738172",
-    "productKey": "9eb5fc3ffddd6db0",
-    "titleHash": "945f28db261b2b05",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-03T15:01:44.822Z"
-  },
-  {
     "itemId": "MLB6149410898",
     "productKey": "2b5b72c2be62bc4b",
     "titleHash": "984edfae42a6bc46",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-07T18:01:43.296Z"
+  },
+  {
+    "itemId": "MLB6856501278",
+    "productKey": "feb8ee0e5e78d68c",
+    "titleHash": "d21682eb23e8c1fd",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-07T18:16:29.357Z"
   }
 ]
