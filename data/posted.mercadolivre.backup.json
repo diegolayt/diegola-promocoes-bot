@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5979493700",
-    "productKey": "ef4a8ade7356b7de",
-    "titleHash": "884030f96bc8b69d",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-03T05:31:41.415Z"
-  },
-  {
     "itemId": "MLB5112879985",
     "productKey": "50274da5b327a827",
     "titleHash": "22b4a28cffd81415",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-07T14:46:37.279Z"
+  },
+  {
+    "itemId": "MLB5504176212",
+    "productKey": "9132e4c8f8f9ea53",
+    "titleHash": "798e6332f7c74764",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-07T15:01:41.798Z"
   }
 ]
