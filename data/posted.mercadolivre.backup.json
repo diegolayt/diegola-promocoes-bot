@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6794412954",
-    "productKey": "fed2045d9a53918d",
-    "titleHash": "f1b338c8126e3619",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-03T21:02:35.619Z"
-  },
-  {
-    "itemId": "MLB4379742795",
-    "productKey": "0bcf0514bbf146bf",
-    "titleHash": "4bdf6074887c635e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-03T21:02:35.619Z"
-  },
-  {
-    "itemId": "MLB5039804027",
-    "productKey": "67b41de77f6e8bb3",
-    "titleHash": "25cf7e816ba7fd15",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-03T21:17:16.847Z"
-  },
-  {
     "itemId": "MLB4264223185",
     "productKey": "ec4b519641a7ee71",
     "titleHash": "06afb66b058ef953",
@@ -4798,5 +4774,29 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-08T01:31:38.077Z"
+  },
+  {
+    "itemId": "MLB3399022201",
+    "productKey": "f0bb7eab24f9461a",
+    "titleHash": "5de2e14bd196608c",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-08T01:46:32.136Z"
+  },
+  {
+    "itemId": "MLB4527837545",
+    "productKey": "7e5eeb5fc2da9a55",
+    "titleHash": "6ab4b45d11833727",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-08T01:46:32.136Z"
+  },
+  {
+    "itemId": "MLB5417889802",
+    "productKey": "7b9361588a17275b",
+    "titleHash": "ae5e4745726c0427",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-08T01:46:32.136Z"
   }
 ]
