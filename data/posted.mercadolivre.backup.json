@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6222806226",
-    "productKey": "110c81276c079aea",
-    "titleHash": "b5237db00758c38a",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-04T04:46:40.734Z"
-  },
-  {
-    "itemId": "MLB5745031466",
-    "productKey": "e16839c263868c09",
-    "titleHash": "eb72b6477333614c",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-04T04:46:40.734Z"
-  },
-  {
     "itemId": "MLB5409105680",
     "productKey": "b5841668af3df70a",
     "titleHash": "26a8aa4b820e295a",
@@ -4798,5 +4782,21 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-08T08:01:42.653Z"
+  },
+  {
+    "itemId": "MLB5652727666",
+    "productKey": "2db0bb2ae6da5aa1",
+    "titleHash": "5e8baeb24f7da5a4",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-08T08:16:36.989Z"
+  },
+  {
+    "itemId": "MLB7459652848",
+    "productKey": "308da311e0fa26e0",
+    "titleHash": "d31d3cd00820bae0",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-08T08:16:36.990Z"
   }
 ]
