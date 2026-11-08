@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5466766687",
-    "productKey": "fe3916e4145f9c4c",
-    "titleHash": "446d0c834ed457eb",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-04T03:01:48.382Z"
-  },
-  {
     "itemId": "MLB7813033302",
     "productKey": "d3b21ecf67f9ebf0",
     "titleHash": "5623184114c32fd2",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-08T06:16:31.092Z"
+  },
+  {
+    "itemId": "MLB7890889148",
+    "productKey": "b99a995b906409f9",
+    "titleHash": "7eece60ff3ecbbb7",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-08T06:31:40.076Z"
   }
 ]
