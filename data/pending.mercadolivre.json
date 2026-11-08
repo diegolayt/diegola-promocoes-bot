@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7826354278",
+      "site_id": "MLB",
+      "seller_id": 147072750,
+      "accepts_mercadopago": true,
+      "price": 297.9,
+      "category_id": "MLB189949",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 258682,
+      "original_price": 599.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQmF1cnVUVXhDVUZOQlQwODVOMkU0",
+          "name": "Bauru"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3774800308",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB79208332",
+      "title": "Cordão Pisca-Pisca de Natal 50m com 1600 LEDs Strobo Branco Frio Bivolt",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_726023-MLA116836385456_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB79208332",
+      "id": "MLB7826354278",
+      "sold_quantity": 1800,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-08T01:31:38.079Z"
+}
