@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5387146287",
-    "productKey": "ed23dda80ccddb8e",
-    "titleHash": "2833a17e649ec0a3",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-03T22:01:52.675Z"
-  },
-  {
-    "itemId": "MLB7259354840",
-    "productKey": "43b31f7e3b19a97c",
-    "titleHash": "64005a5731e35fc7",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-03T22:16:55.329Z"
-  },
-  {
-    "itemId": "MLB6670733424",
-    "productKey": "d39f44041eb93281",
-    "titleHash": "f045d1797b5d99de",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-03T22:31:58.476Z"
-  },
-  {
-    "itemId": "MLB7932330748",
-    "productKey": "29c9a91aa6cd5a22",
-    "titleHash": "07d5de92993aff14",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-03T22:46:30.968Z"
-  },
-  {
     "itemId": "MLB6487355942",
     "productKey": "1b0c80b38e1cf265",
     "titleHash": "e1ee4fe398d38bfe",
@@ -4798,5 +4766,37 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-08T02:46:44.897Z"
+  },
+  {
+    "itemId": "MLB5574851656",
+    "productKey": "1605bae93a4b4381",
+    "titleHash": "f52975726d30d711",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-08T03:01:33.345Z"
+  },
+  {
+    "itemId": "MLB4379742795",
+    "productKey": "0bcf0514bbf146bf",
+    "titleHash": "4bdf6074887c635e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-08T03:01:33.346Z"
+  },
+  {
+    "itemId": "MLB4214380631",
+    "productKey": "599342f11b3c3501",
+    "titleHash": "b8c8c51b8b202d3f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-08T03:01:33.346Z"
+  },
+  {
+    "itemId": "MLB4127920213",
+    "productKey": "e3a32e5e9491b448",
+    "titleHash": "1d773991864c4e55",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-08T03:01:33.346Z"
   }
 ]
