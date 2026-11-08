@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5656974534",
-    "productKey": "0ab7ac472ebadef7",
-    "titleHash": "bb1dc58e46127577",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-03T23:46:34.161Z"
-  },
-  {
-    "itemId": "MLB4962524945",
-    "productKey": "f3ed58a1077cc9a4",
-    "titleHash": "4fe7f450f5d9b4c0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-03T23:46:34.161Z"
-  },
-  {
-    "itemId": "MLB6805401578",
-    "productKey": "5030a2650c1c44a7",
-    "titleHash": "4901619f0d6ed5e9",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-04T00:01:44.409Z"
-  },
-  {
     "itemId": "MLB6819871490",
     "productKey": "a256261d4df6f661",
     "titleHash": "9df7cd8fcf29ae55",
@@ -4798,5 +4774,29 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-08T04:16:36.405Z"
+  },
+  {
+    "itemId": "MLB6670733424",
+    "productKey": "d39f44041eb93281",
+    "titleHash": "f045d1797b5d99de",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-08T04:46:31.719Z"
+  },
+  {
+    "itemId": "MLB6943752224",
+    "productKey": "127b8887916baeb4",
+    "titleHash": "fa8d671112a0eeee",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-08T04:46:31.719Z"
+  },
+  {
+    "itemId": "MLB7585112596",
+    "productKey": "5f26ec118c3c684f",
+    "titleHash": "072400fdebd3532c",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-08T04:46:31.719Z"
   }
 ]
