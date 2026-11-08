@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7884649404",
-    "productKey": "bf86873401aafdee",
-    "titleHash": "b95467ee86ed620d",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-04T05:16:28.926Z"
-  },
-  {
-    "itemId": "MLB4640678725",
-    "productKey": "b6d1cedb49d30deb",
-    "titleHash": "51bd3c9452ef23f3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-04T05:31:36.107Z"
-  },
-  {
     "itemId": "MLB7619563174",
     "productKey": "d024777c1c0be8fe",
     "titleHash": "50c5c1e2d416e9e7",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-08T09:01:42.644Z"
+  },
+  {
+    "itemId": "MLB3091503617",
+    "productKey": "50811f927d6a844d",
+    "titleHash": "a24ae796cebc9cc5",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-08T09:16:37.588Z"
+  },
+  {
+    "itemId": "MLB6028788536",
+    "productKey": "43b0befb3bd6951c",
+    "titleHash": "e5c7b1be01891d5c",
+    "category": "masculino",
+    "sourceCategoryId": "MLB23332",
+    "reservedAt": "2026-11-08T09:16:37.588Z"
   }
 ]

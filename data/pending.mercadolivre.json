@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3091503617",
+      "site_id": "MLB",
+      "seller_id": 192965773,
+      "accepts_mercadopago": true,
+      "price": 78.9,
+      "category_id": "MLB122102",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "good_quality_picture",
+        "brand_verified",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 327152,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYVmFyZ2VtIEdyYW5kZSBkbyBTdWxUVXhDV",
+          "name": "Vargem Grande do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVZtRnlaMlZ0SUVkeVlXN",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1172396116",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB12406685",
+      "title": "Anabolic Mass 28500 3kg Profit Labs Sabor Chocolate",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_616506-MLA110075703952_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB12406685",
+      "id": "MLB3091503617",
+      "sold_quantity": 700,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB6028788536",
+      "site_id": "MLB",
+      "seller_id": 456676923,
+      "accepts_mercadopago": true,
+      "price": 199.99,
+      "category_id": "MLB23332",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "certified_quality_thumbnail",
+        "kvs_primary",
+        "catalog_boost",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2467,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 9.99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU758642963",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63009542",
+      "title": "Tênis Olympikus Marte",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_941523-MLA100385888286_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63009542",
+      "id": "MLB6028788536",
+      "sold_quantity": 300,
+      "rotationCategory": "masculino",
+      "sourceCategoryId": "MLB23332",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-08T09:16:37.591Z"
+}
