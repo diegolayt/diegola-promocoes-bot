@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6167651244",
-    "productKey": "e1fa6b0d5edc06a7",
-    "titleHash": "097fe77015697a11",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-04T02:01:38.645Z"
-  },
-  {
     "itemId": "MLB7916430436",
     "productKey": "dd929be301bd7cf9",
     "titleHash": "6c9ca49d8833bbda",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-08T05:31:38.858Z"
+  },
+  {
+    "itemId": "MLB4962524945",
+    "productKey": "f3ed58a1077cc9a4",
+    "titleHash": "4fe7f450f5d9b4c0",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-08T05:46:37.529Z"
   }
 ]
