@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5293442116",
-    "productKey": "9df63c5c74f0032b",
-    "titleHash": "92bd599ba4cf03b1",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-04T14:16:35.881Z"
-  },
-  {
     "itemId": "MLB3520280815",
     "productKey": "7262ef56ea36d241",
     "titleHash": "3d0acc5ed8d2644f",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-08T17:01:42.729Z"
+  },
+  {
+    "itemId": "MLB5511546969",
+    "productKey": "b0c3a1d30ec3594d",
+    "titleHash": "a4888d1eeb13cd9e",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-08T17:31:39.782Z"
   }
 ]
