@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4214380631",
-    "productKey": "599342f11b3c3501",
-    "titleHash": "b8c8c51b8b202d3f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-03T20:46:51.198Z"
-  },
-  {
     "itemId": "MLB4025051609",
     "productKey": "e3a32e5e9491b448",
     "titleHash": "1d773991864c4e55",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-08T01:01:45.873Z"
+  },
+  {
+    "itemId": "MLB7578602888",
+    "productKey": "c240bbb586d73ffd",
+    "titleHash": "659c673f47d90430",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-08T01:16:41.176Z"
   }
 ]
