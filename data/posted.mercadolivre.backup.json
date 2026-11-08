@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4712546663",
-    "productKey": "8b660ee99efe635b",
-    "titleHash": "94a291c2b2efa3dd",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-04T04:16:33.769Z"
-  },
-  {
-    "itemId": "MLB4275712681",
-    "productKey": "ef9c194ebea065c8",
-    "titleHash": "1fa83cf79fa53ee5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-04T04:16:33.769Z"
-  },
-  {
     "itemId": "MLB4590134133",
     "productKey": "9799e9bec4555200",
     "titleHash": "88c008e263ace37e",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-08T07:16:34.408Z"
+  },
+  {
+    "itemId": "MLB7736493970",
+    "productKey": "4e0745be82026c1f",
+    "titleHash": "95ec9b254759a637",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-08T07:31:36.134Z"
+  },
+  {
+    "itemId": "MLB4733868672",
+    "productKey": "6f3a85ca31e96116",
+    "titleHash": "e32c2e9cfc629a6c",
+    "category": "colchão",
+    "sourceCategoryId": "MLB438928",
+    "reservedAt": "2026-11-08T07:31:36.134Z"
   }
 ]
