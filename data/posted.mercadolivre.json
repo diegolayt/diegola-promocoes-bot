@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5289242951",
-    "productKey": "a9dd8ff2b914849e",
-    "titleHash": "bf0fa0934c37b081",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-04T05:31:36.108Z"
-  },
-  {
     "itemId": "MLB5223574800",
     "productKey": "240873ffd99a3f63",
     "titleHash": "18528f26e28a315e",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-08T09:31:37.691Z"
+  },
+  {
+    "itemId": "MLB6244020666",
+    "productKey": "8b660ee99efe635b",
+    "titleHash": "94a291c2b2efa3dd",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-08T10:01:39.337Z"
   }
 ]
