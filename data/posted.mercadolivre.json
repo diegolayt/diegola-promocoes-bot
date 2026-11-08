@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7477347684",
-    "productKey": "5ce7bec6505590b7",
-    "titleHash": "86fec3bd17183974",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-04T16:46:51.826Z"
-  },
-  {
-    "itemId": "MLB4654715671",
-    "productKey": "0c0436ea74e14fa2",
-    "titleHash": "d846edc6340a40b5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-04T16:46:51.826Z"
-  },
-  {
-    "itemId": "MLB7729259904",
-    "productKey": "eff4ebbdec2c8425",
-    "titleHash": "ed957b2ce03ff7f5",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-04T17:01:57.784Z"
-  },
-  {
     "itemId": "MLB5428168238",
     "productKey": "4b16d27e9826dfdf",
     "titleHash": "58fef0b9cc61ea0a",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-08T21:46:34.458Z"
+  },
+  {
+    "itemId": "MLB5081663673",
+    "productKey": "bd6eadcf7646ce04",
+    "titleHash": "a06af627f26a4f6b",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-08T22:01:50.994Z"
+  },
+  {
+    "itemId": "MLB3143183122",
+    "productKey": "f957ab0d39b2d366",
+    "titleHash": "b1c4d572f20022fd",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-08T22:01:50.994Z"
+  },
+  {
+    "itemId": "MLB3734408005",
+    "productKey": "0f09bd22eb07aaa2",
+    "titleHash": "8ece10dd02994ba9",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-08T22:01:50.994Z"
   }
 ]
