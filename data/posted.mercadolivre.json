@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5324538773",
-    "productKey": "2f98261615449fda",
-    "titleHash": "282883ce1da376df",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-04T13:31:41.485Z"
-  },
-  {
-    "itemId": "MLB6385784946",
-    "productKey": "7b4040ad32005e88",
-    "titleHash": "312975b47aae0337",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-04T13:46:34.269Z"
-  },
-  {
-    "itemId": "MLB5033824347",
-    "productKey": "9d88828ec0e2bc98",
-    "titleHash": "0f678dd28a6ff8ba",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-04T14:01:50.925Z"
-  },
-  {
     "itemId": "MLB7822235288",
     "productKey": "f43c4b67e4b561d2",
     "titleHash": "ef27e31e530b0098",
@@ -4798,5 +4774,29 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-08T16:31:40.217Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-08T16:46:30.590Z"
+  },
+  {
+    "itemId": "MLB5885455180",
+    "productKey": "c1bf359324948ad4",
+    "titleHash": "a32da22d3cf3636d",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-08T16:46:30.591Z"
+  },
+  {
+    "itemId": "MLB7827686810",
+    "productKey": "f46488f5ce61c7a7",
+    "titleHash": "5ac572bbf7b65602",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-08T16:46:30.591Z"
   }
 ]
