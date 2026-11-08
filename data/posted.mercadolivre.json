@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5934587642",
-    "productKey": "4c9a2bafeaf753b6",
-    "titleHash": "17682e2f317c0d59",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-04T05:46:33.736Z"
-  },
-  {
     "itemId": "MLB7918138122",
     "productKey": "6d6a36b43f25814b",
     "titleHash": "864ba560595ab6ad",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-08T10:16:33.321Z"
+  },
+  {
+    "itemId": "MLB4471710711",
+    "productKey": "e16839c263868c09",
+    "titleHash": "eb72b6477333614c",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-08T10:46:38.626Z"
   }
 ]
