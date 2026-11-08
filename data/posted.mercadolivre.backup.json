@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7529392590",
-    "productKey": "fd83f25c3b8fcc66",
-    "titleHash": "7d923047dcc35c56",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-04T15:46:25.515Z"
-  },
-  {
     "itemId": "MLB5784138032",
     "productKey": "cabbb447af73cacd",
     "titleHash": "13bc6b92a0023758",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-08T20:16:29.420Z"
+  },
+  {
+    "itemId": "MLB7366888370",
+    "productKey": "b912948cf9b5e753",
+    "titleHash": "4f9c8fc996431b26",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-08T20:31:45.533Z"
   }
 ]
