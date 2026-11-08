@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3874967101",
-    "productKey": "ab95e285844c979e",
-    "titleHash": "1da1223a6945e333",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-04T08:31:41.445Z"
-  },
-  {
-    "itemId": "MLB7920657260",
-    "productKey": "54d8ded816bc0b69",
-    "titleHash": "bc329b0a74bc1a74",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-04T08:31:41.445Z"
-  },
-  {
     "itemId": "MLB4452425949",
     "productKey": "4da8403653ad3f9a",
     "titleHash": "3f644395875c5baa",
@@ -4798,5 +4782,21 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-11-08T13:31:43.158Z"
+  },
+  {
+    "itemId": "MLB3988846231",
+    "productKey": "58408d4b8d164d44",
+    "titleHash": "70b737e1b7d26e39",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-08T13:46:35.039Z"
+  },
+  {
+    "itemId": "MLB6864789018",
+    "productKey": "5daa8738665d0228",
+    "titleHash": "e65fc7f7467e397e",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-08T13:46:35.039Z"
   }
 ]
