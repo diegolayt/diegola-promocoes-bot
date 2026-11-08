@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4342539887",
-    "productKey": "36e80a73bbf5e988",
-    "titleHash": "7166f05bf6ba8c1d",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-04T10:16:40.135Z"
-  },
-  {
-    "itemId": "MLB4513056610",
-    "productKey": "a6c9a899dbe6cf71",
-    "titleHash": "6733c606fc453816",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-04T10:31:42.786Z"
-  },
-  {
     "itemId": "MLB7482186968",
     "productKey": "f46488f5ce61c7a7",
     "titleHash": "5ac572bbf7b65602",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-08T15:01:49.722Z"
+  },
+  {
+    "itemId": "MLB7953679412",
+    "productKey": "0c50fbe1ab1492a5",
+    "titleHash": "08c42f6b7de828d4",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-08T15:16:35.348Z"
+  },
+  {
+    "itemId": "MLB7957609350",
+    "productKey": "e83744dfb605c176",
+    "titleHash": "91b7e2c79272f4b5",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-08T15:16:35.349Z"
   }
 ]
