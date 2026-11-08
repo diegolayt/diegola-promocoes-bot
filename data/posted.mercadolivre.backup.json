@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6499961726",
-    "productKey": "2de706a58a8b82bb",
-    "titleHash": "7de31561f0e34b0a",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-04T06:46:34.019Z"
-  },
-  {
-    "itemId": "MLB6908320390",
-    "productKey": "33b92cca0add5d8c",
-    "titleHash": "01d5b0171a4da264",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-04T07:01:46.117Z"
-  },
-  {
     "itemId": "MLB5310339963",
     "productKey": "130db9fd8b248230",
     "titleHash": "8f472aee6ac699cb",
@@ -4798,5 +4782,21 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-08T11:46:35.412Z"
+  },
+  {
+    "itemId": "MLB7958131196",
+    "productKey": "5c15702ed6d4f3bb",
+    "titleHash": "eab2d9165b0159cb",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-08T12:01:44.809Z"
+  },
+  {
+    "itemId": "MLB4094474629",
+    "productKey": "65e1d528b27f6299",
+    "titleHash": "965c2a083e3288c7",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-08T12:01:44.809Z"
   }
 ]
