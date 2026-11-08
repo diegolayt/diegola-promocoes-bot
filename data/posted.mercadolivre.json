@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5784138032",
-    "productKey": "cabbb447af73cacd",
-    "titleHash": "13bc6b92a0023758",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-04T15:46:25.515Z"
-  },
-  {
-    "itemId": "MLB4132725271",
-    "productKey": "b70bcf8b75607f51",
-    "titleHash": "c01ccd1bd728f32c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-04T15:46:25.515Z"
-  },
-  {
     "itemId": "MLB5821001902",
     "productKey": "0f09bd22eb07aaa2",
     "titleHash": "8ece10dd02994ba9",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-08T20:31:45.533Z"
+  },
+  {
+    "itemId": "MLB5470858709",
+    "productKey": "11e5eb85396537bf",
+    "titleHash": "46a1fc3e8cf8edf8",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-08T20:46:32.617Z"
+  },
+  {
+    "itemId": "MLB6070338240",
+    "productKey": "da452a29d07592e5",
+    "titleHash": "c09bfcf6c8bdf349",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-08T20:46:32.617Z"
   }
 ]
