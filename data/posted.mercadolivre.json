@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5428168238",
-    "productKey": "4b16d27e9826dfdf",
-    "titleHash": "58fef0b9cc61ea0a",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-04T17:16:38.888Z"
-  },
-  {
-    "itemId": "MLB4469987063",
-    "productKey": "f1255b142391a03a",
-    "titleHash": "7d49c45a00f35da1",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-04T17:16:38.888Z"
-  },
-  {
     "itemId": "MLB5121690211",
     "productKey": "d947d4019fef538b",
     "titleHash": "0c72f8035670cde0",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-08T22:01:50.994Z"
+  },
+  {
+    "itemId": "MLB4449888791",
+    "productKey": "735f5df2782173d2",
+    "titleHash": "1df3875054cdeb21",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-08T22:16:33.903Z"
+  },
+  {
+    "itemId": "MLB5261097875",
+    "productKey": "a04a75b9fb4e31ed",
+    "titleHash": "f6dd9b7437ccaa6c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-08T22:16:33.903Z"
   }
 ]
