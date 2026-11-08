@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7677568494",
-    "productKey": "d00fd3d38d9c5864",
-    "titleHash": "c1f71c9a94dc2f5e",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-04T13:01:51.356Z"
-  },
-  {
     "itemId": "MLB5324538773",
     "productKey": "2f98261615449fda",
     "titleHash": "282883ce1da376df",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-08T16:16:35.411Z"
+  },
+  {
+    "itemId": "MLB4080180915",
+    "productKey": "425e8a8036d8c9c3",
+    "titleHash": "fe5e5814d7705d81",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-08T16:31:40.217Z"
   }
 ]
