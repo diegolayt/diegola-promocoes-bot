@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5342539293",
-    "productKey": "da452a29d07592e5",
-    "titleHash": "c09bfcf6c8bdf349",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-04T14:31:45.594Z"
-  },
-  {
     "itemId": "MLB5420155653",
     "productKey": "bc04daa8ab567d61",
     "titleHash": "f8bb3ea79829b117",
@@ -4798,5 +4790,13 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-08T17:46:37.504Z"
+  },
+  {
+    "itemId": "MLB7818046820",
+    "productKey": "31257bb8b2fcb2b3",
+    "titleHash": "fe492a43010f6fda",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-08T18:01:46.853Z"
   }
 ]
