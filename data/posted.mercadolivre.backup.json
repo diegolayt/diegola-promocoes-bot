@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7619563174",
-    "productKey": "d024777c1c0be8fe",
-    "titleHash": "50c5c1e2d416e9e7",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-04T05:31:36.108Z"
-  },
-  {
     "itemId": "MLB5289242951",
     "productKey": "a9dd8ff2b914849e",
     "titleHash": "bf0fa0934c37b081",
@@ -4798,5 +4790,13 @@
     "category": "masculino",
     "sourceCategoryId": "MLB23332",
     "reservedAt": "2026-11-08T09:16:37.588Z"
+  },
+  {
+    "itemId": "MLB6078965222",
+    "productKey": "5fe28540bf3f91b2",
+    "titleHash": "3b148e7c8dbd8e6f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-08T09:31:37.691Z"
   }
 ]
