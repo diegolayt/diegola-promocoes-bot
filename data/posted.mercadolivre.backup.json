@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5261876579",
-    "productKey": "df46f21258a3c7a1",
-    "titleHash": "1cbc1384378886f7",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-04T06:31:33.353Z"
-  },
-  {
-    "itemId": "MLB2147833620",
-    "productKey": "7fdc50d60ebffd96",
-    "titleHash": "f971c499c5d94e8b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-04T06:46:34.019Z"
-  },
-  {
     "itemId": "MLB6499961726",
     "productKey": "2de706a58a8b82bb",
     "titleHash": "7de31561f0e34b0a",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-08T11:31:35.507Z"
+  },
+  {
+    "itemId": "MLB3154294131",
+    "productKey": "cd0323ce73ec192c",
+    "titleHash": "f46f9f5a2dd55cfd",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-08T11:46:35.412Z"
+  },
+  {
+    "itemId": "MLB5520821997",
+    "productKey": "d024777c1c0be8fe",
+    "titleHash": "842345c7a771c0fe",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-08T11:46:35.412Z"
   }
 ]
