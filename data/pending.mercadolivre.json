@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3874967101",
+      "site_id": "MLB",
+      "seller_id": 609475751,
+      "accepts_mercadopago": true,
+      "price": 191.95,
+      "category_id": "MLB188914",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTUzMDE",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQlJBTTgwODU",
+          "name": "Ramos"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU778959999",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27080148",
+      "title": "Kit 5 Refis Filtro Água Planeta Água Pro Life Soft Everest Compatível",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_738804-MLA99522252592_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27080148",
+      "id": "MLB3874967101",
+      "sold_quantity": 800,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-11-08T17:01:42.731Z"
+}

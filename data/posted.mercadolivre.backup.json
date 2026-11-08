@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7822235288",
-    "productKey": "f43c4b67e4b561d2",
-    "titleHash": "ef27e31e530b0098",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-04T14:16:35.880Z"
-  },
-  {
     "itemId": "MLB5293442116",
     "productKey": "9df63c5c74f0032b",
     "titleHash": "92bd599ba4cf03b1",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-08T16:46:30.591Z"
+  },
+  {
+    "itemId": "MLB3874967101",
+    "productKey": "ab95e285844c979e",
+    "titleHash": "1da1223a6945e333",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-08T17:01:42.729Z"
   }
 ]
