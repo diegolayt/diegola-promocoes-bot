@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4755555056",
-    "productKey": "f170975c8b48cfc2",
-    "titleHash": "acc952b54c0303a3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-03T23:31:37.069Z"
-  },
-  {
     "itemId": "MLB4487458199",
     "productKey": "3472274b89b121ef",
     "titleHash": "e4b1ad14a95f048b",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-08T03:46:30.671Z"
+  },
+  {
+    "itemId": "MLB5482370733",
+    "productKey": "43b31f7e3b19a97c",
+    "titleHash": "64005a5731e35fc7",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-08T04:01:44.547Z"
   }
 ]
