@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3481515593",
-    "productKey": "f7f7d61f6c30c3c5",
-    "titleHash": "bd2c5073c62b4ca3",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-03T21:47:13.849Z"
-  },
-  {
     "itemId": "MLB5387146287",
     "productKey": "ed23dda80ccddb8e",
     "titleHash": "2833a17e649ec0a3",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-08T02:31:38.375Z"
+  },
+  {
+    "itemId": "MLB3824918345",
+    "productKey": "4da20096241f83a1",
+    "titleHash": "122b2943937f1218",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-08T02:46:44.897Z"
   }
 ]
