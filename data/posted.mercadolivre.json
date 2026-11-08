@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5420155653",
-    "productKey": "bc04daa8ab567d61",
-    "titleHash": "f8bb3ea79829b117",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-04T14:31:45.594Z"
-  },
-  {
     "itemId": "MLB7021195702",
     "productKey": "3290caa2bbf60419",
     "titleHash": "0a784ed1ced73153",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-08T18:01:46.853Z"
+  },
+  {
+    "itemId": "MLB4451408011",
+    "productKey": "6b27e44c099cbc82",
+    "titleHash": "fce56bd7519e5d35",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-08T18:16:29.667Z"
   }
 ]
