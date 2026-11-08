@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4264223185",
-    "productKey": "ec4b519641a7ee71",
-    "titleHash": "06afb66b058ef953",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-03T21:17:16.847Z"
-  },
-  {
     "itemId": "MLB3798032968",
     "productKey": "873a360bbc93b276",
     "titleHash": "f286bb4769ccb2ae",
@@ -4798,5 +4790,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-08T01:46:32.136Z"
+  },
+  {
+    "itemId": "MLB7116112948",
+    "productKey": "5bd1da402a27bcc7",
+    "titleHash": "8b02e1cd20d5d3b1",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-08T02:01:37.467Z"
   }
 ]
