@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5574851656",
-    "productKey": "1605bae93a4b4381",
-    "titleHash": "f52975726d30d711",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-03T20:46:51.198Z"
-  },
-  {
     "itemId": "MLB4214380631",
     "productKey": "599342f11b3c3501",
     "titleHash": "b8c8c51b8b202d3f",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-08T00:46:32.060Z"
+  },
+  {
+    "itemId": "MLB4138957549",
+    "productKey": "eafa4fac22bc28d4",
+    "titleHash": "ba618477890cc7be",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-08T01:01:45.873Z"
   }
 ]
