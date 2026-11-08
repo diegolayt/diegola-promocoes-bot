@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5300566397",
-    "productKey": "047b8841586368ce",
-    "titleHash": "d0d73644404827f4",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-04T04:46:40.734Z"
-  },
-  {
     "itemId": "MLB6222806226",
     "productKey": "110c81276c079aea",
     "titleHash": "b5237db00758c38a",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-08T07:46:35.247Z"
+  },
+  {
+    "itemId": "MLB5482406881",
+    "productKey": "9b61d7948d2ea31f",
+    "titleHash": "1dabb65e3b48032c",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-08T08:01:42.653Z"
   }
 ]
