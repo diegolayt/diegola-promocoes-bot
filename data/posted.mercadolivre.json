@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7021195702",
-    "productKey": "3290caa2bbf60419",
-    "titleHash": "0a784ed1ced73153",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-04T15:01:41.423Z"
-  },
-  {
     "itemId": "MLB4540296511",
     "productKey": "561f43f75c5fd9a2",
     "titleHash": "b4d8df6ce6f87334",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-08T18:16:29.667Z"
+  },
+  {
+    "itemId": "MLB4907921846",
+    "productKey": "be39b75dae01ea03",
+    "titleHash": "958915ba465fdc7d",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-08T18:31:42.586Z"
   }
 ]
