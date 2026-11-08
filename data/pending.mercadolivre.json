@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6556469456",
+      "site_id": "MLB",
+      "seller_id": 265331896,
+      "accepts_mercadopago": true,
+      "price": 599.9,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 264768,
+      "original_price": 2499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDNtczJn",
+          "name": "Vila Ivone"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3874021645",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB73225147",
+      "title": "Drone Profissional GT8 4K Ultra HD Câmera Dupla FPV Controle Com Display 2 Baterias Recarregáveis GPS Sensor Obstáculos Motor Brushless Dobrável Estável Alta Distância",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652294-MLA116382175089_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB73225147",
+      "id": "MLB6556469456",
+      "sold_quantity": 1300,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-11-08T23:31:36.282Z"
+}
