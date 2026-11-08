@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4936320789",
-    "productKey": "7df1458663dc1f98",
-    "titleHash": "3a68c17bceca4a73",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-03T21:31:42.002Z"
-  },
-  {
-    "itemId": "MLB7779094920",
-    "productKey": "4d99ade24a114ecb",
-    "titleHash": "a60d5254dc087834",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-03T21:47:13.848Z"
-  },
-  {
     "itemId": "MLB3481515593",
     "productKey": "f7f7d61f6c30c3c5",
     "titleHash": "bd2c5073c62b4ca3",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-08T02:16:37.381Z"
+  },
+  {
+    "itemId": "MLB4264223185",
+    "productKey": "ec4b519641a7ee71",
+    "titleHash": "06afb66b058ef953",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-08T02:31:38.375Z"
+  },
+  {
+    "itemId": "MLB7669495412",
+    "productKey": "dea2c4a9da61bcd6",
+    "titleHash": "6c866c86c418343d",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-08T02:31:38.375Z"
   }
 ]
