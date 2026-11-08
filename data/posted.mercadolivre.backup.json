@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5121690211",
-    "productKey": "d947d4019fef538b",
-    "titleHash": "0c72f8035670cde0",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-04T17:16:38.888Z"
-  },
-  {
-    "itemId": "MLB6556469456",
-    "productKey": "613bf0c5cb5cbee9",
-    "titleHash": "ff44a097255df998",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-04T17:31:30.851Z"
-  },
-  {
     "itemId": "MLB4278550700",
     "productKey": "484a03825ae17ef1",
     "titleHash": "fe796f34ef3590ff",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-08T22:16:33.903Z"
+  },
+  {
+    "itemId": "MLB6187796554",
+    "productKey": "c421c7dbedfa4af5",
+    "titleHash": "d1f3d0e27d1791c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-08T22:31:35.136Z"
+  },
+  {
+    "itemId": "MLB4239462089",
+    "productKey": "7c16ecc85931f27a",
+    "titleHash": "85ee5166025b545e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-08T22:31:35.136Z"
   }
 ]
