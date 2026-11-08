@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6253229918",
-    "productKey": "0093a548dee7b78c",
-    "titleHash": "acc61814edc438ee",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-04T12:31:37.750Z"
-  },
-  {
-    "itemId": "MLB4897074831",
-    "productKey": "029d920a6960843e",
-    "titleHash": "95370a42c6e81e13",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-04T12:46:32.293Z"
-  },
-  {
-    "itemId": "MLB6477127322",
-    "productKey": "4c39c54175dbde91",
-    "titleHash": "3b8d07d05440f04b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-04T12:46:32.293Z"
-  },
-  {
     "itemId": "MLB7677568494",
     "productKey": "d00fd3d38d9c5864",
     "titleHash": "c1f71c9a94dc2f5e",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-08T16:01:38.928Z"
+  },
+  {
+    "itemId": "MLB3444295869",
+    "productKey": "71927494c0ed2e73",
+    "titleHash": "47a12332b8ee7968",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-08T16:16:35.410Z"
+  },
+  {
+    "itemId": "MLB4437876216",
+    "productKey": "62c93a85d3efa5a1",
+    "titleHash": "8d8f46572e1893f3",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-08T16:16:35.411Z"
+  },
+  {
+    "itemId": "MLB7907253688",
+    "productKey": "c54e839f3f026968",
+    "titleHash": "5c2c1146e3a7b981",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-08T16:16:35.411Z"
   }
 ]
