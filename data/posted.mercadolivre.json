@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4728634751",
-    "productKey": "85d041b839360d1e",
-    "titleHash": "89b2d3d9c594e645",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-04T15:31:40.914Z"
-  },
-  {
     "itemId": "MLB4907959717",
     "productKey": "1bbc7454825d67c5",
     "titleHash": "883306c8a28e59a7",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-08T18:46:40.829Z"
+  },
+  {
+    "itemId": "MLB6385784946",
+    "productKey": "7b4040ad32005e88",
+    "titleHash": "312975b47aae0337",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-08T19:16:31.744Z"
   }
 ]

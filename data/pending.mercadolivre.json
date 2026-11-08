@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6385784946",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 1999,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 458,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3794047342",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB66132984",
+      "title": "Máquina De Lavar Brastemp 13kg Branca Com Ciclo Tira Manchas Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_896390-MLA107974605505_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB66132984",
+      "id": "MLB6385784946",
+      "sold_quantity": 400,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-08T19:16:31.747Z"
+}
