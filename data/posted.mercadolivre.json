@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4590134133",
-    "productKey": "9799e9bec4555200",
-    "titleHash": "88c008e263ace37e",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-04T04:31:43.031Z"
-  },
-  {
-    "itemId": "MLB5482406881",
-    "productKey": "9b61d7948d2ea31f",
-    "titleHash": "1dabb65e3b48032c",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-04T04:31:43.031Z"
-  },
-  {
     "itemId": "MLB5300566397",
     "productKey": "047b8841586368ce",
     "titleHash": "d0d73644404827f4",
@@ -4798,5 +4782,21 @@
     "category": "colchão",
     "sourceCategoryId": "MLB438928",
     "reservedAt": "2026-11-08T07:31:36.134Z"
+  },
+  {
+    "itemId": "MLB4803658086",
+    "productKey": "10e676d7f3f50b79",
+    "titleHash": "5fcbeacd68177048",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-08T07:46:35.246Z"
+  },
+  {
+    "itemId": "MLB6167651244",
+    "productKey": "e1fa6b0d5edc06a7",
+    "titleHash": "097fe77015697a11",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-08T07:46:35.247Z"
   }
 ]
