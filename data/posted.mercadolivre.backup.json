@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4206531541",
-    "productKey": "f2ec400f7267583a",
-    "titleHash": "919881ee23b2a429",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-04T16:01:43.092Z"
-  },
-  {
-    "itemId": "MLB7068336654",
-    "productKey": "f957ab0d39b2d366",
-    "titleHash": "b1c4d572f20022fd",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-04T16:01:43.092Z"
-  },
-  {
-    "itemId": "MLB7612669046",
-    "productKey": "da6e47d6f5b6a37a",
-    "titleHash": "da2698cd8324fb9f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-04T16:01:43.092Z"
-  },
-  {
     "itemId": "MLB4449888791",
     "productKey": "735f5df2782173d2",
     "titleHash": "1df3875054cdeb21",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-08T21:01:48.950Z"
+  },
+  {
+    "itemId": "MLB5784138032",
+    "productKey": "cabbb447af73cacd",
+    "titleHash": "13bc6b92a0023758",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-08T21:16:33.563Z"
+  },
+  {
+    "itemId": "MLB4907959717",
+    "productKey": "1bbc7454825d67c5",
+    "titleHash": "883306c8a28e59a7",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-08T21:16:33.564Z"
+  },
+  {
+    "itemId": "MLB5293361595",
+    "productKey": "85d041b839360d1e",
+    "titleHash": "5cd59db29710943a",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-08T21:16:33.564Z"
   }
 ]
