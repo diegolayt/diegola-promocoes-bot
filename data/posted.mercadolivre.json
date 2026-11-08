@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6294021146",
-    "productKey": "13b41427d506aab9",
-    "titleHash": "b820318c501ab566",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-04T09:01:21.226Z"
-  },
-  {
     "itemId": "MLB3525364839",
     "productKey": "f8b4730edfd7a1c2",
     "titleHash": "16dd35246dab9fd4",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-08T14:01:45.564Z"
+  },
+  {
+    "itemId": "MLB6222806226",
+    "productKey": "110c81276c079aea",
+    "titleHash": "b5237db00758c38a",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-08T14:16:35.136Z"
   }
 ]
