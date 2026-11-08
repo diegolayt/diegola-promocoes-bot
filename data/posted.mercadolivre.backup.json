@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5821001902",
-    "productKey": "0f09bd22eb07aaa2",
-    "titleHash": "8ece10dd02994ba9",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-04T15:46:25.515Z"
-  },
-  {
     "itemId": "MLB4206531541",
     "productKey": "f2ec400f7267583a",
     "titleHash": "919881ee23b2a429",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-08T20:46:32.617Z"
+  },
+  {
+    "itemId": "MLB5319992481",
+    "productKey": "42ea93c673a53270",
+    "titleHash": "2b7ce61edf3215e7",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-08T21:01:48.950Z"
   }
 ]
