@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6290927660",
+      "site_id": "MLB",
+      "seller_id": 1168726042,
+      "accepts_mercadopago": true,
+      "price": 1979.9,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 20,
+      "original_price": 3489.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3786740163",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65066499",
+      "title": "Geladeira Consul Cycle Defrost 332 Litros Duplex - CRD37MB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_617575-MLA105506358762_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65066499",
+      "id": "MLB6290927660",
+      "sold_quantity": 1100,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-08T12:46:36.722Z"
+}
