@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4754832747",
-    "productKey": "fdc728f28239c079",
-    "titleHash": "866d48520fac2cd5",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-04T17:46:41.161Z"
-  },
-  {
-    "itemId": "MLB5461309698",
-    "productKey": "c500286efe3eb38e",
-    "titleHash": "62725f63d38ae48e",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-04T18:01:33.530Z"
-  },
-  {
     "itemId": "MLB5643054880",
     "productKey": "214fc030cd4ff663",
     "titleHash": "8f91897b121eb9ff",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-08T22:46:37.634Z"
+  },
+  {
+    "itemId": "MLB4469987063",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-08T23:01:47.084Z"
+  },
+  {
+    "itemId": "MLB4278550700",
+    "productKey": "484a03825ae17ef1",
+    "titleHash": "fe796f34ef3590ff",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-08T23:01:47.084Z"
   }
 ]
