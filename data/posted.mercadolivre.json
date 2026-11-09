@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4571210341",
-    "productKey": "163a58eb61a4412f",
-    "titleHash": "bbadc9cd22e0fc10",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-05T16:31:42.307Z"
-  },
-  {
-    "itemId": "MLB5511730449",
-    "productKey": "1d07b11a945328b6",
-    "titleHash": "ff18fddfa72ad4c4",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-05T16:31:42.307Z"
-  },
-  {
-    "itemId": "MLB4320340453",
-    "productKey": "e43b0bf189996c52",
-    "titleHash": "f0e4d8cb460162d1",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-05T16:46:35.992Z"
-  },
-  {
     "itemId": "MLB5433179829",
     "productKey": "d6a6e9c334751e4a",
     "titleHash": "e444ae5933e34920",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-09T20:01:19.213Z"
+  },
+  {
+    "itemId": "MLB1813858157",
+    "productKey": "cd49aae79bb3a2e2",
+    "titleHash": "acd7395731aedb0b",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-09T20:16:31.878Z"
+  },
+  {
+    "itemId": "MLB5166470939",
+    "productKey": "f0ce6c3f19f94762",
+    "titleHash": "2e4937b263ba3a23",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-09T20:16:31.878Z"
+  },
+  {
+    "itemId": "MLB5235378549",
+    "productKey": "f1124f75199e516b",
+    "titleHash": "72effccea15c5203",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-09T20:16:31.878Z"
   }
 ]
