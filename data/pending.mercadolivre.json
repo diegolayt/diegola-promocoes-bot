@@ -1,0 +1,216 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7753680856",
+      "site_id": "MLB",
+      "seller_id": 2624041619,
+      "accepts_mercadopago": true,
+      "price": 199.97,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5622,
+      "original_price": 291.1,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTc2MDI",
+          "name": "Campinas"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUmk3M2pu",
+          "name": "Jardim Brasil"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3964122717",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18758275",
+      "title": "Jogo Elden Ring Standard Edition - PlayStation 5 (Físico)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_774973-MLA99586538384_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18758275",
+      "id": "MLB7753680856",
+      "sold_quantity": 1200,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB3634002077",
+      "site_id": "MLB",
+      "seller_id": 272873714,
+      "accepts_mercadopago": true,
+      "price": 179,
+      "category_id": "MLB439179",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 99 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 299,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDUzMDA",
+          "name": "Vila Nova Cachoeirinha"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 99,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "99 anos",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1976423435",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23955685",
+      "title": "Copo Térmico Stanley Quencher 887ml com Alça em Aço Inox Rose Quartz 08149-01",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_764395-MLA99929770655_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23955685",
+      "id": "MLB3634002077",
+      "sold_quantity": 800,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4173793609",
+      "site_id": "MLB",
+      "seller_id": 1521966663,
+      "accepts_mercadopago": true,
+      "price": 124.2,
+      "category_id": "MLB189008",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 205522,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3377092382",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46246866",
+      "title": "Parafusadeira Furadeira Eletrica Maleta 2 Bateria Cor Amarelo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_841223-MLA99475194194_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46246866",
+      "id": "MLB4173793609",
+      "sold_quantity": 700,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-09T23:16:34.454Z"
+}
