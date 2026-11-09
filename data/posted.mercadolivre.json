@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6246809052",
-    "productKey": "27482fda8b372737",
-    "titleHash": "2a9d9052071de1ee",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-05T01:01:42.590Z"
-  },
-  {
     "itemId": "MLB4440137909",
     "productKey": "66aad9dacbb2cc0c",
     "titleHash": "9d1eae52c8bb9416",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-09T09:01:43.038Z"
+  },
+  {
+    "itemId": "MLB3456025603",
+    "productKey": "c9b5c82a0a206f5a",
+    "titleHash": "26b5424896b8e331",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-09T09:16:35.610Z"
   }
 ]
