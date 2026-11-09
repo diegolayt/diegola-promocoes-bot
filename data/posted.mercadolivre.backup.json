@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5482598815",
-    "productKey": "d90185c5813ba0bb",
-    "titleHash": "26e89182c842e1bc",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-05T00:46:30.401Z"
-  },
-  {
-    "itemId": "MLB7829042724",
-    "productKey": "961b89adad6fc90b",
-    "titleHash": "02ceac68ba14008e",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-05T00:46:30.401Z"
-  },
-  {
     "itemId": "MLB7761066032",
     "productKey": "b1d10ff79ce494e3",
     "titleHash": "04de2d517dc85eb3",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-09T08:01:39.443Z"
+  },
+  {
+    "itemId": "MLB5126084439",
+    "productKey": "e8b365816ac55e07",
+    "titleHash": "2c5eaacb23e2dcb7",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-09T08:46:39.109Z"
+  },
+  {
+    "itemId": "MLB7606575730",
+    "productKey": "7ae62e631b538a5f",
+    "titleHash": "f50155dd95bff7b2",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-09T08:46:39.110Z"
   }
 ]
