@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7238743454",
-    "productKey": "6988f39a37694d7a",
-    "titleHash": "41baf1c58abeef70",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-04T21:31:29.661Z"
-  },
-  {
     "itemId": "MLB5171642043",
     "productKey": "0148ce1e4ac0e87b",
     "titleHash": "f85124cedc6e4bf0",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-09T04:16:41.382Z"
+  },
+  {
+    "itemId": "MLB5270753801",
+    "productKey": "03268f9fe00e909e",
+    "titleHash": "6ed609609a19a867",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-09T04:31:43.168Z"
   }
 ]
