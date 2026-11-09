@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5488521503",
-    "productKey": "b7371e77d704b462",
-    "titleHash": "cc44c47e60e54f0b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-04T18:31:35.173Z"
-  },
-  {
-    "itemId": "MLB4367472775",
-    "productKey": "fa34295fd787e18c",
-    "titleHash": "190b71ddac76b50c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-04T18:46:34.771Z"
-  },
-  {
     "itemId": "MLB3371578831",
     "productKey": "10b192510125e400",
     "titleHash": "199e80e775bd5fd7",
@@ -4798,5 +4782,21 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-09T00:01:48.309Z"
+  },
+  {
+    "itemId": "MLB7138654316",
+    "productKey": "d9f9ebef6ca08a2f",
+    "titleHash": "ffe4bcc70178fb4b",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-09T00:16:34.210Z"
+  },
+  {
+    "itemId": "MLB5349190853",
+    "productKey": "d042f8f81af2c69f",
+    "titleHash": "f8fc4194f2663a29",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-09T00:16:34.210Z"
   }
 ]
