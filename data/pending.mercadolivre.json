@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5741517732",
+      "site_id": "MLB",
+      "seller_id": 611224705,
+      "accepts_mercadopago": true,
+      "price": 311,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 720 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2160,
+      "original_price": 492.71,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUnk0aWR6",
+          "name": "Parque Edu Chaves"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 720,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "720 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3431975628",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB40692702",
+      "title": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300 Peças",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_705500-MLA99899450981_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB40692702",
+      "id": "MLB5741517732",
+      "sold_quantity": 1400,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-09T16:31:38.587Z"
+}
