@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4268042659",
-    "productKey": "cddbf545af237f6f",
-    "titleHash": "3bbe4ed40543e0e7",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-04T20:46:36.670Z"
-  },
-  {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-04T21:01:36.660Z"
-  },
-  {
     "itemId": "MLB5249470421",
     "productKey": "7ff4850888a120db",
     "titleHash": "9c4f307b8d6d26f0",
@@ -4798,5 +4782,21 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-11-09T03:01:38.997Z"
+  },
+  {
+    "itemId": "MLB6954342220",
+    "productKey": "01626bf5a4615728",
+    "titleHash": "a64225f5f9af9c7c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-09T03:31:32.929Z"
+  },
+  {
+    "itemId": "MLB6160472112",
+    "productKey": "88b04575a2628994",
+    "titleHash": "9342b0d5015d0472",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-09T03:31:32.929Z"
   }
 ]
