@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5350127318",
-    "productKey": "ec3b73f24f9af257",
-    "titleHash": "802e07e18ad37e9b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-05T06:46:37.177Z"
-  },
-  {
-    "itemId": "MLB6596438294",
-    "productKey": "d76eb3fcd1f5b581",
-    "titleHash": "f6a3659df6032b8d",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-05T07:01:41.057Z"
-  },
-  {
     "itemId": "MLB4857152173",
     "productKey": "e1f31ebb49ae051b",
     "titleHash": "da52ddf8d551059c",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-09T13:31:48.930Z"
+  },
+  {
+    "itemId": "MLB5139680871",
+    "productKey": "383eafc260a9c2c7",
+    "titleHash": "1d6b824c6b48131e",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-09T13:46:39.993Z"
+  },
+  {
+    "itemId": "MLB5086087047",
+    "productKey": "1984953db221eb12",
+    "titleHash": "0fc65dd07a9749c7",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-09T13:46:39.994Z"
   }
 ]
