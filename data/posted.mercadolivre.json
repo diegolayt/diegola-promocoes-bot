@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6448802074",
-    "productKey": "322af4737407e3c8",
-    "titleHash": "e3a8db476d5e57ea",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-05T07:16:31.495Z"
-  },
-  {
     "itemId": "MLB5509497923",
     "productKey": "f1bf6bf916c5306e",
     "titleHash": "bbdcb68937be3dc7",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-09T14:01:49.274Z"
+  },
+  {
+    "itemId": "MLB4925669305",
+    "productKey": "5bb08fbcedadf8ea",
+    "titleHash": "6f941d1098f301c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-09T14:16:36.549Z"
   }
 ]
