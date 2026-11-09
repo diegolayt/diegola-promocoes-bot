@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4857152173",
-    "productKey": "e1f31ebb49ae051b",
-    "titleHash": "da52ddf8d551059c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-05T07:01:41.057Z"
-  },
-  {
     "itemId": "MLB6448802074",
     "productKey": "322af4737407e3c8",
     "titleHash": "e3a8db476d5e57ea",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-09T13:46:39.994Z"
+  },
+  {
+    "itemId": "MLB6900550988",
+    "productKey": "6226a5d038aed863",
+    "titleHash": "5777efe3a60d517a",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-09T14:01:49.274Z"
   }
 ]
