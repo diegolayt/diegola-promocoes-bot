@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3853894079",
-    "productKey": "e9dfb607a4680c9c",
-    "titleHash": "404369dcec53deb4",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-05T03:46:23.778Z"
-  },
-  {
-    "itemId": "MLB7480397854",
-    "productKey": "a98d9ad149b55f1d",
-    "titleHash": "03bf29bdde2827a8",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-05T03:46:23.778Z"
-  },
-  {
-    "itemId": "MLB6976015074",
-    "productKey": "820a7bf3129a48cf",
-    "titleHash": "82c17092d0642575",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-05T03:46:23.778Z"
-  },
-  {
     "itemId": "MLB6194501592",
     "productKey": "743b29089cd31a1b",
     "titleHash": "fe715e49e4132e41",
@@ -4798,5 +4774,29 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-09T11:46:32.878Z"
+  },
+  {
+    "itemId": "MLB5107041294",
+    "productKey": "8b67768aeac7e9b2",
+    "titleHash": "ba46e87672d491d0",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-09T12:01:40.017Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-09T12:01:40.017Z"
+  },
+  {
+    "itemId": "MLB5304519543",
+    "productKey": "b80aa50f4c572f73",
+    "titleHash": "554791d76d1ac8c8",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-09T12:01:40.017Z"
   }
 ]
