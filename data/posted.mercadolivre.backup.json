@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7651767878",
-    "productKey": "b1a6ed780f0fe240",
-    "titleHash": "1982de45a97168c2",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-05T10:31:23.962Z"
-  },
-  {
-    "itemId": "MLB5510227795",
-    "productKey": "06babd581101f23b",
-    "titleHash": "49b321f683ef6a94",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-05T10:46:38.003Z"
-  },
-  {
     "itemId": "MLB5216361467",
     "productKey": "8191759e21b92a67",
     "titleHash": "8b681e8772bc1b7f",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-09T17:31:40.948Z"
+  },
+  {
+    "itemId": "MLB6695256080",
+    "productKey": "bda19e9978a23697",
+    "titleHash": "4042a31b68d1a4ff",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-09T17:46:38.280Z"
+  },
+  {
+    "itemId": "MLB5467059653",
+    "productKey": "9be23f720e3d6d4f",
+    "titleHash": "b4d7c6e7b7ef601d",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-09T17:46:38.280Z"
   }
 ]
