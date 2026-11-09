@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5980496924",
-    "productKey": "5e2b747dccadc7ed",
-    "titleHash": "b11c7c849e9f236c",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-04T22:01:45.790Z"
-  },
-  {
     "itemId": "MLB3683277464",
     "productKey": "029d0c6fc887611c",
     "titleHash": "a2174520f63568e4",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-09T05:31:39.231Z"
+  },
+  {
+    "itemId": "MLB7826240746",
+    "productKey": "7ff4850888a120db",
+    "titleHash": "9c4f307b8d6d26f0",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-09T05:46:37.387Z"
   }
 ]
