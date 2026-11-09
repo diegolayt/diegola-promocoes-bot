@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4434428164",
-    "productKey": "5b5dbe709902e2fc",
-    "titleHash": "5310defd20b8b0a1",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-05T17:16:32.063Z"
-  },
-  {
     "itemId": "MLB6665768026",
     "productKey": "950d687a66a353e2",
     "titleHash": "2e28a5e810746726",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-09T21:01:50.822Z"
+  },
+  {
+    "itemId": "MLB5221982851",
+    "productKey": "e026eda0eb29f423",
+    "titleHash": "541b9f08c97d8a4b",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-09T21:16:40.967Z"
   }
 ]
