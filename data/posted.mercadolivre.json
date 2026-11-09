@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5249470421",
-    "productKey": "7ff4850888a120db",
-    "titleHash": "9c4f307b8d6d26f0",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-04T21:01:36.661Z"
-  },
-  {
-    "itemId": "MLB4564236093",
-    "productKey": "41888fb320739b37",
-    "titleHash": "3fc1ad64a62d5f86",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-04T21:16:36.536Z"
-  },
-  {
-    "itemId": "MLB7938859938",
-    "productKey": "6187b33bbd506a19",
-    "titleHash": "50514a501fdcd1b8",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-04T21:16:36.536Z"
-  },
-  {
     "itemId": "MLB5097723592",
     "productKey": "0314016684b00af3",
     "titleHash": "f150802ac716f3c0",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-09T03:31:32.929Z"
+  },
+  {
+    "itemId": "MLB4268042659",
+    "productKey": "cddbf545af237f6f",
+    "titleHash": "3bbe4ed40543e0e7",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-09T03:46:38.467Z"
+  },
+  {
+    "itemId": "MLB7724214528",
+    "productKey": "b7371e77d704b462",
+    "titleHash": "cc44c47e60e54f0b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-09T03:46:38.467Z"
+  },
+  {
+    "itemId": "MLB4204276525",
+    "productKey": "56e953d72225b9db",
+    "titleHash": "a52b2817a8ca9972",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-09T03:46:38.467Z"
   }
 ]
