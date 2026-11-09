@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7779097188",
-    "productKey": "a984166e91e3c121",
-    "titleHash": "bbb3a2837d40bc3d",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-04T23:16:32.450Z"
-  },
-  {
     "itemId": "MLB7633876088",
     "productKey": "e7466642d6b5d025",
     "titleHash": "325029870601ba85",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-09T06:31:36.552Z"
+  },
+  {
+    "itemId": "MLB5691370762",
+    "productKey": "12075010278a8522",
+    "titleHash": "e82cc8ca27f22e47",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-09T06:46:39.574Z"
   }
 ]
