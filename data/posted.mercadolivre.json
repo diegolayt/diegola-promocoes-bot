@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5210291587",
-    "productKey": "9d751b711b454293",
-    "titleHash": "836381a7863b8ad3",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-05T00:46:30.400Z"
-  },
-  {
-    "itemId": "MLB5233246645",
-    "productKey": "bc05e3f7f280662b",
-    "titleHash": "b5aa74d84ac5676f",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-05T00:46:30.400Z"
-  },
-  {
     "itemId": "MLB5482598815",
     "productKey": "d90185c5813ba0bb",
     "titleHash": "26e89182c842e1bc",
@@ -4798,5 +4782,21 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-09T07:31:41.219Z"
+  },
+  {
+    "itemId": "MLB4324797875",
+    "productKey": "0a5cc4226c46bc09",
+    "titleHash": "03b0c5869530dd67",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-09T08:01:39.443Z"
+  },
+  {
+    "itemId": "MLB3751964271",
+    "productKey": "8ae06c9e3529616e",
+    "titleHash": "b4b28d593935fb86",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-09T08:01:39.443Z"
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4324797875",
+      "site_id": "MLB",
+      "seller_id": 2943049215,
+      "accepts_mercadopago": true,
+      "price": 74.9,
+      "category_id": "MLB122102",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "kit_component",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 260904,
+      "original_price": 104.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1RJSmU0ZjNi",
+          "name": "Tijucas"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3628324966",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18725403",
+      "title": "Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_819000-MLA101180020755_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18725403",
+      "id": "MLB4324797875",
+      "sold_quantity": 1400,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3751964271",
+      "site_id": "MLB",
+      "seller_id": 1371548497,
+      "accepts_mercadopago": true,
+      "price": 165.9,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 480522,
+      "original_price": 199.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJPQTI4NzBE",
+          "name": "Boa Vista"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU2335382090",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19605864",
+      "title": "Máscara Invigo Nutri-enrich 500ml Wella Pro - Nutrição e Hidratação",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652186-MLA99351096240_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19605864",
+      "id": "MLB3751964271",
+      "sold_quantity": 900,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-09T08:01:39.444Z"
+}
