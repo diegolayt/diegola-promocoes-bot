@@ -1,0 +1,296 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5820611620",
+      "site_id": "MLB",
+      "seller_id": 1738456621,
+      "accepts_mercadopago": true,
+      "price": 61.9,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1518,
+      "original_price": 119.7,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDJ6ZDhp",
+          "name": "Vila Deodoro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3501576542",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41221309",
+      "title": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia Masculina Kit Presente Original",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_735112-MLA115743494554_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41221309",
+      "id": "MLB5820611620",
+      "sold_quantity": 1300,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4048343589",
+      "site_id": "MLB",
+      "seller_id": 668432476,
+      "accepts_mercadopago": true,
+      "price": 199,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3296,
+      "original_price": 377.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 30
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTlkMjJj",
+          "name": "Itajaí"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTERBMDg4",
+          "name": "Salseiros"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3132659710",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48680325",
+      "title": "Fritadeira Air Fryer 5,5l Cyclone Preto E Inox Midea",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_952370-MLA99950768995_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48680325",
+      "id": "MLB4048343589",
+      "sold_quantity": 200,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6755949246",
+      "site_id": "MLB",
+      "seller_id": 667366193,
+      "accepts_mercadopago": true,
+      "price": 105.62,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4490,
+      "original_price": 140.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRGx4Y2ds",
+          "name": "Cidade Jardim Cumbica"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3900430080",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB58926245",
+      "title": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Bk-r3x Cor Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_659398-MLA94934523402_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB58926245",
+      "id": "MLB6755949246",
+      "sold_quantity": 300,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7644497660",
+      "site_id": "MLB",
+      "seller_id": 2980925626,
+      "accepts_mercadopago": true,
+      "price": 4717.78,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "net_proceeds_prices",
+        "cbt_fulfillment_us",
+        "kvs_primary",
+        "standard_price_by_channel",
+        "cbt_item",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52897777",
+      "title": "Console Sony Playstation 5 Edição Slim Disk 1tb Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_688343-MLA88139322691_072025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52897777",
+      "id": "MLB7644497660",
+      "sold_quantity": 300,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-11-09T16:46:21.186Z"
+}
