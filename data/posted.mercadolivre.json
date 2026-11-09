@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7511103306",
-    "productKey": "5bb08fbcedadf8ea",
-    "titleHash": "6f941d1098f301c6",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-05T05:16:31.165Z"
-  },
-  {
-    "itemId": "MLB3939720011",
-    "productKey": "aea2de8a7c5c3d52",
-    "titleHash": "fd8a49ba38884f61",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-05T06:16:39.490Z"
-  },
-  {
-    "itemId": "MLB6976567444",
-    "productKey": "10d83ae90f0fb762",
-    "titleHash": "5467f88d296880b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-05T06:31:36.495Z"
-  },
-  {
     "itemId": "MLB6539025322",
     "productKey": "67959f7697e2dbde",
     "titleHash": "69c47bee8d5cd059",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-09T13:01:43.171Z"
+  },
+  {
+    "itemId": "MLB3771505959",
+    "productKey": "3e24012756b6950c",
+    "titleHash": "fd06cf3b916fc566",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-09T13:16:33.799Z"
+  },
+  {
+    "itemId": "MLB6194501592",
+    "productKey": "743b29089cd31a1b",
+    "titleHash": "fe715e49e4132e41",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-09T13:16:33.799Z"
+  },
+  {
+    "itemId": "MLB5526836105",
+    "productKey": "a69d636355916b46",
+    "titleHash": "23b7e30efd25845a",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-09T13:16:33.799Z"
   }
 ]
