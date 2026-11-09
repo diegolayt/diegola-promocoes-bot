@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6600129404",
-    "productKey": "307900e287a57280",
-    "titleHash": "5ab2e697025e7a60",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-05T08:16:37.200Z"
-  },
-  {
-    "itemId": "MLB2820196075",
-    "productKey": "9be23f720e3d6d4f",
-    "titleHash": "b4d7c6e7b7ef601d",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-05T08:31:40.530Z"
-  },
-  {
-    "itemId": "MLB5410636044",
-    "productKey": "268fe1dcba87ee28",
-    "titleHash": "0b023d35ca0abbf6",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-05T08:46:29.772Z"
-  },
-  {
     "itemId": "MLB5682526228",
     "productKey": "4e4299498a6eff4f",
     "titleHash": "625bef07c17e451e",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-09T16:01:48.744Z"
+  },
+  {
+    "itemId": "MLB5350127318",
+    "productKey": "ec3b73f24f9af257",
+    "titleHash": "802e07e18ad37e9b",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-09T16:16:38.465Z"
+  },
+  {
+    "itemId": "MLB4857152173",
+    "productKey": "e1f31ebb49ae051b",
+    "titleHash": "da52ddf8d551059c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-09T16:16:38.465Z"
+  },
+  {
+    "itemId": "MLB5522610483",
+    "productKey": "5fe4d75d19c4b6ae",
+    "titleHash": "208803b964ddf440",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-09T16:16:38.465Z"
   }
 ]
