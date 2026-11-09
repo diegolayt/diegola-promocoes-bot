@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3771505959",
-    "productKey": "3e24012756b6950c",
-    "titleHash": "fd06cf3b916fc566",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-05T04:16:36.189Z"
-  },
-  {
-    "itemId": "MLB7618823038",
-    "productKey": "7c5b29917a5a4f0d",
-    "titleHash": "4df93f7a820e0b0f",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-05T04:31:41.592Z"
-  },
-  {
-    "itemId": "MLB4554574999",
-    "productKey": "a69d636355916b46",
-    "titleHash": "23b7e30efd25845a",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-05T04:31:41.592Z"
-  },
-  {
     "itemId": "MLB7884472724",
     "productKey": "e60e8b3a8b9faa13",
     "titleHash": "869d36e890ccdc6b",
@@ -4798,5 +4774,29 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-09T12:31:35.937Z"
+  },
+  {
+    "itemId": "MLB6294491390",
+    "productKey": "7665a9d6da616707",
+    "titleHash": "df6de7a9d2086862",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-09T12:46:39.727Z"
+  },
+  {
+    "itemId": "MLB3853894079",
+    "productKey": "e9dfb607a4680c9c",
+    "titleHash": "404369dcec53deb4",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-09T12:46:39.728Z"
+  },
+  {
+    "itemId": "MLB4586947077",
+    "productKey": "820a7bf3129a48cf",
+    "titleHash": "82c17092d0642575",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-09T12:46:39.728Z"
   }
 ]
