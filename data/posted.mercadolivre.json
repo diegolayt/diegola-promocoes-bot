@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5310338186",
-    "productKey": "d2381d60d46712f0",
-    "titleHash": "bb5ab78017224a55",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-05T17:46:36.366Z"
-  },
-  {
     "itemId": "MLB6727230822",
     "productKey": "9dd660916fb1b129",
     "titleHash": "899d2c96765b077d",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-09T21:46:38.309Z"
+  },
+  {
+    "itemId": "MLB2819502650",
+    "productKey": "511fc15d93907ab0",
+    "titleHash": "29765379176ba821",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-09T22:01:44.466Z"
   }
 ]
