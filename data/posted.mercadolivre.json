@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB1630337787",
-    "productKey": "d22fa65cdb3c5323",
-    "titleHash": "61315aeef9dd29e4",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-04T21:46:26.959Z"
-  },
-  {
-    "itemId": "MLB4028626831",
-    "productKey": "5a76a4eddf9a8c24",
-    "titleHash": "80b12ed4dcc25fa6",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-04T21:46:26.959Z"
-  },
-  {
     "itemId": "MLB5980496924",
     "productKey": "5e2b747dccadc7ed",
     "titleHash": "b11c7c849e9f236c",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-09T05:16:36.344Z"
+  },
+  {
+    "itemId": "MLB3393222713",
+    "productKey": "d3c8122c66a236de",
+    "titleHash": "71ae82c4e85b0492",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-09T05:31:39.231Z"
+  },
+  {
+    "itemId": "MLB7956089676",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-09T05:31:39.231Z"
   }
 ]
