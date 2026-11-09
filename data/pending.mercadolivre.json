@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5479176811",
+      "site_id": "MLB",
+      "seller_id": 3595234463,
+      "accepts_mercadopago": true,
+      "price": 788.88,
+      "category_id": "MLB1692",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439342,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4868675419",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36476927",
+      "title": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_920822-MLA99469912962_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36476927",
+      "id": "MLB5479176811",
+      "sold_quantity": 1900,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-11-09T01:16:33.915Z"
+}
