@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5171642043",
-    "productKey": "0148ce1e4ac0e87b",
-    "titleHash": "f85124cedc6e4bf0",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-04T21:46:26.959Z"
-  },
-  {
     "itemId": "MLB7135097234",
     "productKey": "12ba1e7daad2e455",
     "titleHash": "308ca2a85e1b8a8a",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-11-09T04:31:43.168Z"
+  },
+  {
+    "itemId": "MLB4597647925",
+    "productKey": "40ab138cce1c2270",
+    "titleHash": "927cd1b3a79366b2",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-09T04:46:34.294Z"
   }
 ]
