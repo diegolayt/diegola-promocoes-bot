@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5368925738",
-    "productKey": "38e76440cdea0b78",
-    "titleHash": "558455381ac2d143",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-05T17:01:43.999Z"
-  },
-  {
     "itemId": "MLB6047945220",
     "productKey": "a1d280e4c3ee7ae6",
     "titleHash": "94ccd298a23fb896",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-09T20:31:53.086Z"
+  },
+  {
+    "itemId": "MLB4812130742",
+    "productKey": "1fbb97017cc6e7ce",
+    "titleHash": "aac3ed7848ee3cfe",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-09T20:46:37.980Z"
   }
 ]
