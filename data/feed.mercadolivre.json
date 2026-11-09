@@ -1,5 +1,61 @@
 [
  {
+  "id": "mercadolivre-MLB7907979960",
+  "loja": "mercadolivre",
+  "titulo": "Nintendo Switch Console OLED 64gb",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg",
+  "preco": 2099,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB58623212?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": false,
+  "nota": null,
+  "fonte": "console",
+  "publicadoEm": "2026-11-09T10:01:51.805Z"
+ },
+ {
+  "id": "mercadolivre-MLB6807319060",
+  "loja": "mercadolivre",
+  "titulo": "Monitor Gamer Samsung 27\" FHD,120 Hz, HDMI, Preto, S3",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_880102-MLA96640494917_102025-F.jpg",
+  "preco": 619,
+  "precoDe": 999,
+  "link": "https://www.mercadolivre.com.br/p/MLB53838786?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "monitor",
+  "publicadoEm": "2026-11-09T10:01:47.938Z"
+ },
+ {
+  "id": "mercadolivre-MLB4576693657",
+  "loja": "mercadolivre",
+  "titulo": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band, Câmera 8MP + Selfie 5MP, 7000mAh, Android 16, com Teclado Magnético de Conexão Inteligente – Preto",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_911625-MLA111714671966_062026-F.jpg",
+  "preco": 1330,
+  "precoDe": 2212.86,
+  "link": "https://www.mercadolivre.com.br/p/MLB67468569?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "tablet",
+  "publicadoEm": "2026-11-09T10:01:44.037Z"
+ },
+ {
+  "id": "mercadolivre-MLB6889552526",
+  "loja": "mercadolivre",
+  "titulo": "Fritadeira Elétrica Philips Walita sem Óleo 220V 6,2L Série 1000 XL Preta NA130/09",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_662109-MLA88321463845_072025-F.jpg",
+  "preco": 323,
+  "precoDe": 800,
+  "link": "https://www.mercadolivre.com.br/p/MLB52878677?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": false,
+  "nota": null,
+  "fonte": "eletrodoméstico",
+  "publicadoEm": "2026-11-09T10:01:40.122Z"
+ },
+ {
   "id": "mercadolivre-MLB6176059368",
   "loja": "mercadolivre",
   "titulo": "Smartphone Motorola Moto G06 - 256gb 4gb Ram e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
@@ -8414,20 +8470,6 @@
   "publicadoEm": "2026-11-05T01:16:51.284Z"
  },
  {
-  "id": "mercadolivre-MLB4576693657",
-  "loja": "mercadolivre",
-  "titulo": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band, Câmera 8MP + Selfie 5MP, 7000mAh, Android 16, com Teclado Magnético de Conexão Inteligente – Preto",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_911625-MLA111714671966_062026-F.jpg",
-  "preco": 1330,
-  "precoDe": 2212.86,
-  "link": "https://www.mercadolivre.com.br/p/MLB67468569?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "tablet",
-  "publicadoEm": "2026-11-05T01:16:47.478Z"
- },
- {
   "id": "mercadolivre-MLB4440137909",
   "loja": "mercadolivre",
   "titulo": "Sanduicheira Elétrica Cadence SAN400 Preta",
@@ -13538,20 +13580,6 @@
   "publicadoEm": "2026-10-31T03:01:50.329Z"
  },
  {
-  "id": "mercadolivre-MLB6807319060",
-  "loja": "mercadolivre",
-  "titulo": "Monitor Gamer Samsung 27\" FHD,120 Hz, HDMI, Preto, S3",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_880102-MLA96640494917_102025-F.jpg",
-  "preco": 629.99,
-  "precoDe": 999,
-  "link": "https://www.mercadolivre.com.br/p/MLB53838786?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "monitor",
-  "publicadoEm": "2026-10-31T03:01:46.494Z"
- },
- {
   "id": "mercadolivre-MLB5478521609",
   "loja": "mercadolivre",
   "titulo": "Samsung Galaxy Tab A11 Ee",
@@ -16770,33 +16798,5 @@
   "nota": null,
   "fonte": "componente",
   "publicadoEm": "2026-10-27T20:16:43.779Z"
- },
- {
-  "id": "mercadolivre-MLB4434021128",
-  "loja": "mercadolivre",
-  "titulo": "Sanduicheira e Grill Britânia 2 em 1 Bgr27i de 850W com Trava Inox",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_836475-MLA99516868244_112025-F.jpg",
-  "preco": 125.73,
-  "precoDe": 217.55,
-  "link": "https://www.mercadolivre.com.br/p/MLB24173370?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": false,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "eletrodoméstico",
-  "publicadoEm": "2026-10-27T20:00:57.894Z"
- },
- {
-  "id": "mercadolivre-MLB5239199977",
-  "loja": "mercadolivre",
-  "titulo": "Caixa Som Jbl Go 5 Bluetooth Portátil Prova Dágua Preto",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_950447-MLA118749299849_102026-F.jpg",
-  "preco": 279.99,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB67497923?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": false,
-  "nota": null,
-  "fonte": "áudio",
-  "publicadoEm": "2026-10-27T19:16:40.203Z"
  }
 ]
