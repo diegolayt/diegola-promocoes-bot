@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5418164544",
-    "productKey": "81470f458df652f2",
-    "titleHash": "9b560d3758ed6fb2",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-05T08:01:40.862Z"
-  },
-  {
-    "itemId": "MLB7856263268",
-    "productKey": "7b530b4b1ca8b409",
-    "titleHash": "16098ab31f1e5d10",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-05T08:01:40.863Z"
-  },
-  {
     "itemId": "MLB6600129404",
     "productKey": "307900e287a57280",
     "titleHash": "5ab2e697025e7a60",
@@ -4798,5 +4782,21 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-09T15:46:37.369Z"
+  },
+  {
+    "itemId": "MLB6182336356",
+    "productKey": "e772e6fb3830f752",
+    "titleHash": "796851ab66948329",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-09T16:01:48.743Z"
+  },
+  {
+    "itemId": "MLB6539025322",
+    "productKey": "67959f7697e2dbde",
+    "titleHash": "69c47bee8d5cd059",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-09T16:01:48.744Z"
   }
 ]
