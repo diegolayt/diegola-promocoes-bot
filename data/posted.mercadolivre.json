@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7761066032",
-    "productKey": "b1d10ff79ce494e3",
-    "titleHash": "04de2d517dc85eb3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-05T01:01:42.590Z"
-  },
-  {
     "itemId": "MLB6246809052",
     "productKey": "27482fda8b372737",
     "titleHash": "2a9d9052071de1ee",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-09T08:46:39.110Z"
+  },
+  {
+    "itemId": "MLB7631375746",
+    "productKey": "78a556ba509873f4",
+    "titleHash": "2231dac56aa4320f",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-09T09:01:43.038Z"
   }
 ]
