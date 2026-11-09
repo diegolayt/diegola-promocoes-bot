@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7916103510",
-    "productKey": "9d501d04b619787b",
-    "titleHash": "60b43647216b307c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-04T18:31:35.173Z"
-  },
-  {
     "itemId": "MLB5488521503",
     "productKey": "b7371e77d704b462",
     "titleHash": "cc44c47e60e54f0b",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-08T23:46:28.818Z"
+  },
+  {
+    "itemId": "MLB5461309698",
+    "productKey": "c500286efe3eb38e",
+    "titleHash": "62725f63d38ae48e",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-09T00:01:48.309Z"
   }
 ]
