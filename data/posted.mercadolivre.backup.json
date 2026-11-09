@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5146610670",
-    "productKey": "b124c07810832875",
-    "titleHash": "193e39a55d48c15a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-05T00:31:36.935Z"
-  },
-  {
-    "itemId": "MLB7500017710",
-    "productKey": "e192924e8dfd60cb",
-    "titleHash": "df58680138676c48",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-05T00:31:36.935Z"
-  },
-  {
     "itemId": "MLB5210291587",
     "productKey": "9d751b711b454293",
     "titleHash": "836381a7863b8ad3",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-09T07:16:39.883Z"
+  },
+  {
+    "itemId": "MLB6166313818",
+    "productKey": "f437f44795d481d0",
+    "titleHash": "a8dc62326bfbf119",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-09T07:31:41.219Z"
+  },
+  {
+    "itemId": "MLB7951813576",
+    "productKey": "029d0c6fc887611c",
+    "titleHash": "a2174520f63568e4",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-09T07:31:41.219Z"
   }
 ]
