@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4925283537",
-    "productKey": "2546452a96d07059",
-    "titleHash": "6eea06c316952154",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-04T19:31:41.557Z"
-  },
-  {
-    "itemId": "MLB4204276525",
-    "productKey": "56e953d72225b9db",
-    "titleHash": "a52b2817a8ca9972",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-04T19:31:41.557Z"
-  },
-  {
     "itemId": "MLB4584361351",
     "productKey": "4806d1fbd0a7fff1",
     "titleHash": "de775bc6e48ecef4",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-09T01:16:33.913Z"
+  },
+  {
+    "itemId": "MLB3680469307",
+    "productKey": "52e8973cc70fcc11",
+    "titleHash": "8d39b7cca9eea60b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-09T01:31:37.031Z"
+  },
+  {
+    "itemId": "MLB5215110257",
+    "productKey": "8c76b04b8266652e",
+    "titleHash": "f095017ffecc087e",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-09T01:31:37.031Z"
   }
 ]
