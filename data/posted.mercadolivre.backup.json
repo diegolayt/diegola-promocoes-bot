@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7606575730",
-    "productKey": "7ae62e631b538a5f",
-    "titleHash": "f50155dd95bff7b2",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-04T20:16:33.087Z"
-  },
-  {
-    "itemId": "MLB4279422349",
-    "productKey": "e8b365816ac55e07",
-    "titleHash": "a903844b96a9cadf",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-04T20:31:38.690Z"
-  },
-  {
     "itemId": "MLB4047432173",
     "productKey": "d3c8122c66a236de",
     "titleHash": "71ae82c4e85b0492",
@@ -4798,5 +4782,21 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-11-09T02:16:35.451Z"
+  },
+  {
+    "itemId": "MLB5312507612",
+    "productKey": "578087a6350e382a",
+    "titleHash": "4e478014ed8af7a9",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-09T02:46:36.489Z"
+  },
+  {
+    "itemId": "MLB6224367728",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-09T02:46:36.489Z"
   }
 ]
