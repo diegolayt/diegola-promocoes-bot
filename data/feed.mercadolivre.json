@@ -1,5 +1,47 @@
 [
  {
+  "id": "mercadolivre-MLB4173793609",
+  "loja": "mercadolivre",
+  "titulo": "Parafusadeira Furadeira Eletrica Maleta 2 Bateria Cor Amarelo",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_841223-MLA99475194194_112025-F.jpg",
+  "preco": 124.2,
+  "precoDe": null,
+  "link": "https://www.mercadolivre.com.br/p/MLB46246866?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "ferramenta",
+  "publicadoEm": "2026-11-09T23:16:46.289Z"
+ },
+ {
+  "id": "mercadolivre-MLB3634002077",
+  "loja": "mercadolivre",
+  "titulo": "Copo Térmico Stanley Quencher 887ml com Alça em Aço Inox Rose Quartz 08149-01",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_764395-MLA99929770655_112025-F.jpg",
+  "preco": 179,
+  "precoDe": 299,
+  "link": "https://www.mercadolivre.com.br/p/MLB23955685?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": false,
+  "nota": null,
+  "fonte": "cozinha",
+  "publicadoEm": "2026-11-09T23:16:42.390Z"
+ },
+ {
+  "id": "mercadolivre-MLB7753680856",
+  "loja": "mercadolivre",
+  "titulo": "Jogo Elden Ring Standard Edition - PlayStation 5 (Físico)",
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_774973-MLA99586538384_122025-F.jpg",
+  "preco": 199.97,
+  "precoDe": 291.1,
+  "link": "https://www.mercadolivre.com.br/p/MLB18758275?matt_word=badi2572923&matt_tool=94282801",
+  "freteGratis": true,
+  "lojaOficial": true,
+  "nota": null,
+  "fonte": "jogos",
+  "publicadoEm": "2026-11-09T23:16:38.496Z"
+ },
+ {
   "id": "mercadolivre-MLB5506557301",
   "loja": "mercadolivre",
   "titulo": "O Boticário Floratta Red Passion Eau De Parfum 75ml",
@@ -8680,20 +8722,6 @@
   "publicadoEm": "2026-11-05T14:16:41.948Z"
  },
  {
-  "id": "mercadolivre-MLB7753680856",
-  "loja": "mercadolivre",
-  "titulo": "Jogo Elden Ring Standard Edition - PlayStation 5 (Físico)",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_774973-MLA99586538384_122025-F.jpg",
-  "preco": 193.97,
-  "precoDe": 291.1,
-  "link": "https://www.mercadolivre.com.br/p/MLB18758275?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "jogos",
-  "publicadoEm": "2026-11-05T14:01:55.090Z"
- },
- {
   "id": "mercadolivre-MLB7722730390",
   "loja": "mercadolivre",
   "titulo": "Cafeteira Espresso Double Digital Oster Cor Prateado/Preto",
@@ -16770,33 +16798,5 @@
   "nota": null,
   "fonte": "eletrodoméstico",
   "publicadoEm": "2026-10-28T08:01:41.633Z"
- },
- {
-  "id": "mercadolivre-MLB7686159772",
-  "loja": "mercadolivre",
-  "titulo": "O diário de tarefas gnomosas do floreante viajante - (Autor(es) original) Lacerda, Maidy - Outro Planeta - Capa Dura",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_690785-MLA117027871833_092026-F.jpg",
-  "preco": 40.46,
-  "precoDe": 59.89,
-  "link": "https://www.mercadolivre.com.br/p/MLB78777171?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": false,
-  "lojaOficial": true,
-  "nota": null,
-  "fonte": "livros",
-  "publicadoEm": "2026-10-28T07:31:39.168Z"
- },
- {
-  "id": "mercadolivre-MLB7870396412",
-  "loja": "mercadolivre",
-  "titulo": "Creme Clareador para Axilas Virilha 60g",
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_946781-MLA116325720710_092026-F.jpg",
-  "preco": 110,
-  "precoDe": null,
-  "link": "https://www.mercadolivre.com.br/p/MLB56408764?matt_word=badi2572923&matt_tool=94282801",
-  "freteGratis": true,
-  "lojaOficial": false,
-  "nota": null,
-  "fonte": "pele",
-  "publicadoEm": "2026-10-28T06:46:31.831Z"
  }
 ]
