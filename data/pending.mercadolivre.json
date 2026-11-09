@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4612161397",
+      "site_id": "MLB",
+      "seller_id": 1737442603,
+      "accepts_mercadopago": true,
+      "price": 1612,
+      "category_id": "MLB1676",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2398,
+      "original_price": 2355.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3911308474",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61863812",
+      "title": "Impressora De Sistema Contínuo Epson L4360 Wi-Fi Jato De Tinta Cor",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_614269-MLA97583970397_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61863812",
+      "id": "MLB4612161397",
+      "sold_quantity": 200,
+      "rotationCategory": "impressão",
+      "sourceCategoryId": "MLB5875",
+      "minPrice": 300
+    },
+    {
+      "item_id": "MLB5439559923",
+      "site_id": "MLB",
+      "seller_id": 723264377,
+      "accepts_mercadopago": true,
+      "price": 3140,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 4329,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BJTmU4ZjEw",
+          "name": "Pinhais"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU5644280970",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB80583582",
+      "title": "Drone DJI Neo 2 Fly More Combo com controle remoto RC-N3, transmissão estável com transceptor digital, drone 4K para iniciantes, com 3 baterias e protetores de hélice - DJI071",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_650565-MLA119560220963_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB80583582",
+      "id": "MLB5439559923",
+      "sold_quantity": 800,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-11-09T15:31:36.135Z"
+}

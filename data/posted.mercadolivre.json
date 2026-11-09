@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5509497923",
-    "productKey": "f1bf6bf916c5306e",
-    "titleHash": "bbdcb68937be3dc7",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-05T07:16:31.495Z"
-  },
-  {
-    "itemId": "MLB7061925510",
-    "productKey": "4f226376ffa7dc65",
-    "titleHash": "84396b4483d37b72",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-05T07:31:35.771Z"
-  },
-  {
     "itemId": "MLB1813858157",
     "productKey": "cd49aae79bb3a2e2",
     "titleHash": "acd7395731aedb0b",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-09T14:16:36.549Z"
+  },
+  {
+    "itemId": "MLB4612161397",
+    "productKey": "819054fbbea42c9a",
+    "titleHash": "dbbfa39f8921466e",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-11-09T15:31:36.133Z"
+  },
+  {
+    "itemId": "MLB5439559923",
+    "productKey": "c400d42728432e17",
+    "titleHash": "8edb8eda870ef1af",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-09T15:31:36.133Z"
   }
 ]
