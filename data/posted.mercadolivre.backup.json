@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5097723592",
-    "productKey": "0314016684b00af3",
-    "titleHash": "f150802ac716f3c0",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-04T21:31:29.661Z"
-  },
-  {
     "itemId": "MLB4454189603",
     "productKey": "12075010278a8522",
     "titleHash": "e82cc8ca27f22e47",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-09T03:46:38.467Z"
+  },
+  {
+    "itemId": "MLB7911512448",
+    "productKey": "630abd9b007307fe",
+    "titleHash": "77f4d7c3280dfb52",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-09T04:01:43.778Z"
   }
 ]
