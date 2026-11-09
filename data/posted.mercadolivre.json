@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6665768026",
-    "productKey": "950d687a66a353e2",
-    "titleHash": "2e28a5e810746726",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-05T17:31:42.236Z"
-  },
-  {
-    "itemId": "MLB4252005123",
-    "productKey": "43fb2e8ff1234548",
-    "titleHash": "050bee7a12687ac0",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-05T17:31:42.236Z"
-  },
-  {
     "itemId": "MLB5310338186",
     "productKey": "d2381d60d46712f0",
     "titleHash": "bb5ab78017224a55",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-09T21:16:40.967Z"
+  },
+  {
+    "itemId": "MLB5139760693",
+    "productKey": "c6ffc2bdedffd41c",
+    "titleHash": "7660bd2cc9a981c5",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-09T21:46:38.309Z"
+  },
+  {
+    "itemId": "MLB7715861974",
+    "productKey": "40821c73f39974e2",
+    "titleHash": "400d008b3de62193",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-09T21:46:38.309Z"
   }
 ]
