@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6847613118",
-    "productKey": "6a0f874da4937eb3",
-    "titleHash": "994272fd0fa8ee25",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-05T04:01:37.219Z"
-  },
-  {
-    "itemId": "MLB5926653126",
-    "productKey": "2f19ab49dff9833e",
-    "titleHash": "d401bb0c0418c14b",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-05T04:01:37.219Z"
-  },
-  {
     "itemId": "MLB3771505959",
     "productKey": "3e24012756b6950c",
     "titleHash": "fd06cf3b916fc566",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-09T12:16:40.568Z"
+  },
+  {
+    "itemId": "MLB3854074921",
+    "productKey": "cb7b3aabd989fc60",
+    "titleHash": "b2d3ecf34e097bae",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-09T12:31:35.937Z"
+  },
+  {
+    "itemId": "MLB4466956279",
+    "productKey": "6988f39a37694d7a",
+    "titleHash": "41baf1c58abeef70",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-09T12:31:35.937Z"
   }
 ]
