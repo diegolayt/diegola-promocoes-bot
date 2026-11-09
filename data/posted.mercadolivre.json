@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3683277464",
-    "productKey": "029d0c6fc887611c",
-    "titleHash": "a2174520f63568e4",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-04T22:16:33.294Z"
-  },
-  {
     "itemId": "MLB7933285258",
     "productKey": "f437f44795d481d0",
     "titleHash": "a8dc62326bfbf119",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-09T05:46:37.387Z"
+  },
+  {
+    "itemId": "MLB5039366244",
+    "productKey": "677485e12ee1bef6",
+    "titleHash": "824b09eda268afd6",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-09T06:16:40.310Z"
   }
 ]
