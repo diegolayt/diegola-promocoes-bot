@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7884472724",
-    "productKey": "e60e8b3a8b9faa13",
-    "titleHash": "869d36e890ccdc6b",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-05T04:31:41.592Z"
-  },
-  {
-    "itemId": "MLB6900550988",
-    "productKey": "6226a5d038aed863",
-    "titleHash": "5777efe3a60d517a",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-05T04:46:33.290Z"
-  },
-  {
-    "itemId": "MLB7328449336",
-    "productKey": "1984953db221eb12",
-    "titleHash": "0fc65dd07a9749c7",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-05T05:01:47.785Z"
-  },
-  {
     "itemId": "MLB7511103306",
     "productKey": "5bb08fbcedadf8ea",
     "titleHash": "6f941d1098f301c6",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-09T12:46:39.728Z"
+  },
+  {
+    "itemId": "MLB3398173761",
+    "productKey": "3ad3274eb28b3f64",
+    "titleHash": "a87908bc89d55121",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-09T13:01:43.171Z"
+  },
+  {
+    "itemId": "MLB6847613118",
+    "productKey": "6a0f874da4937eb3",
+    "titleHash": "994272fd0fa8ee25",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-09T13:01:43.171Z"
+  },
+  {
+    "itemId": "MLB5926653126",
+    "productKey": "2f19ab49dff9833e",
+    "titleHash": "d401bb0c0418c14b",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-09T13:01:43.171Z"
   }
 ]
