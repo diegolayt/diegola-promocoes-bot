@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7932113070",
-    "productKey": "6ee9239a9ee68452",
-    "titleHash": "2bf5c176967ab112",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-06T05:16:34.503Z"
-  },
-  {
     "itemId": "MLB4373389101",
     "productKey": "b8e4e2607ac65999",
     "titleHash": "7f7000b3d93f8fb7",
@@ -4798,5 +4790,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-10T11:16:41.846Z"
+  },
+  {
+    "itemId": "MLB5681538962",
+    "productKey": "131979a67ce743d6",
+    "titleHash": "120ff11e5757e483",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-10T11:31:41.777Z"
   }
 ]
