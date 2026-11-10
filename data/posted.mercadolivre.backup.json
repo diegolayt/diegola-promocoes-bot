@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6031639350",
-    "productKey": "afbff89ee85c38b5",
-    "titleHash": "bae5a48604e386ea",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-06T10:31:42.470Z"
-  },
-  {
-    "itemId": "MLB6949268730",
-    "productKey": "6e158df3dcbb96cd",
-    "titleHash": "639b847efcd22948",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-06T10:46:33.821Z"
-  },
-  {
     "itemId": "MLB5827959700",
     "productKey": "a1085792541f2e70",
     "titleHash": "d8faca7aab92efc8",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-10T17:46:39.528Z"
+  },
+  {
+    "itemId": "MLB4320329461",
+    "productKey": "ec1a0f6646947a52",
+    "titleHash": "8194a721d6cd8807",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-10T18:01:44.711Z"
+  },
+  {
+    "itemId": "MLB7764896190",
+    "productKey": "d90185c5813ba0bb",
+    "titleHash": "26e89182c842e1bc",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-10T18:01:44.711Z"
   }
 ]
