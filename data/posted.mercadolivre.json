@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4812800951",
-    "productKey": "c35a669e46b7da0b",
-    "titleHash": "8e19706523f27ea7",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-06T14:31:40.346Z"
-  },
-  {
-    "itemId": "MLB5405817633",
-    "productKey": "97ae2ef6f831804d",
-    "titleHash": "1da2ceac8c4459f9",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-06T14:46:31.290Z"
-  },
-  {
-    "itemId": "MLB6073210370",
-    "productKey": "d60f40144ad87174",
-    "titleHash": "673a514c6de388e3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-06T15:01:42.674Z"
-  },
-  {
     "itemId": "MLB5496787401",
     "productKey": "bf7771091812f202",
     "titleHash": "d3cb78c8c8e85952",
@@ -4798,5 +4774,29 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-10T21:31:43.658Z"
+  },
+  {
+    "itemId": "MLB4252005123",
+    "productKey": "43fb2e8ff1234548",
+    "titleHash": "050bee7a12687ac0",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-10T21:46:32.439Z"
+  },
+  {
+    "itemId": "MLB5739411488",
+    "productKey": "b099216f74c971ee",
+    "titleHash": "a6fb1259c2474fe2",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-10T21:46:32.440Z"
+  },
+  {
+    "itemId": "MLB5433122655",
+    "productKey": "bd7ce8c073ce4d78",
+    "titleHash": "9c59f5fda561e680",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-10T21:46:32.440Z"
   }
 ]

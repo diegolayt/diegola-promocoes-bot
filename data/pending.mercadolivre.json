@@ -1,0 +1,236 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4252005123",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 259.9,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "first_party",
+        "dynamic_standard_price",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 362.4,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3434741289",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB57723515",
+      "title": "VENTILADOR COLUNA NVT-40C-BL 60Hz MONDIAL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_665930-MLA93305577989_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB57723515",
+      "id": "MLB4252005123",
+      "sold_quantity": 300,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB5739411488",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 166.9,
+      "category_id": "MLB107501",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "first_party",
+        "has_published_clips",
+        "kvs_primary",
+        "user_product_unify",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4611,
+      "original_price": 216,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1981342264",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB10892513",
+      "title": "Panela de Pressão Tramontina 4,5L Vancouver Effect Preto 20591/420",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_661364-MLA118230540914_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB10892513",
+      "id": "MLB5739411488",
+      "sold_quantity": 300,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB5433122655",
+      "site_id": "MLB",
+      "seller_id": 347674131,
+      "accepts_mercadopago": true,
+      "price": 68.88,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYT3Nhc2NvVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Osasco"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYU2FudGEgTWFyaWFUVmhZVDNOaGMyTnZWR",
+          "name": "Santa Maria"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5581489431",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17425497",
+      "title": "Relógio Vintage Preto com Pulseira de Borracha F91W-1 Clássico e Elegante Casio",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_999657-MLA118986253288_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17425497",
+      "id": "MLB5433122655",
+      "sold_quantity": 1200,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-10T21:46:32.441Z"
+}
