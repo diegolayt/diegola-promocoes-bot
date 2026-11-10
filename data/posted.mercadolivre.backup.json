@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5046482101",
-    "productKey": "45808aef9e36af2b",
-    "titleHash": "0fed13623550fa42",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-06T11:46:34.719Z"
-  },
-  {
     "itemId": "MLB4632320474",
     "productKey": "5b2763cb9e9d95a2",
     "titleHash": "4aefd666fba0af2c",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-10T19:16:40.442Z"
+  },
+  {
+    "itemId": "MLB4935535334",
+    "productKey": "e9455fbd3cb133ae",
+    "titleHash": "947cef40e57cf05a",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-10T19:31:43.203Z"
   }
 ]
