@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5210927019",
-    "productKey": "faec2e4d8d4b7bcc",
-    "titleHash": "81b88b0bc1856a15",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-06T15:31:38.160Z"
-  },
-  {
-    "itemId": "MLB7379012660",
-    "productKey": "c441f5f8b907c35b",
-    "titleHash": "07b5dc5df417e750",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-06T15:46:34.219Z"
-  },
-  {
-    "itemId": "MLB4468745869",
-    "productKey": "52397c91115c6c35",
-    "titleHash": "9bae28f708f1af1e",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-06T16:01:47.014Z"
-  },
-  {
     "itemId": "MLB6660295684",
     "productKey": "8f72e37c26e09e4d",
     "titleHash": "8b98848c1ef40835",
@@ -4798,5 +4774,29 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-10T23:01:40.186Z"
+  },
+  {
+    "itemId": "MLB4812800951",
+    "productKey": "c35a669e46b7da0b",
+    "titleHash": "8e19706523f27ea7",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-10T23:16:35.248Z"
+  },
+  {
+    "itemId": "MLB7459722976",
+    "productKey": "7f07ce0b4993cace",
+    "titleHash": "bdfe8c72bf6ec63a",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-10T23:16:35.249Z"
+  },
+  {
+    "itemId": "MLB5535112623",
+    "productKey": "907e7eee4f5527aa",
+    "titleHash": "7013eaae05f3ec9f",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-10T23:16:35.249Z"
   }
 ]
