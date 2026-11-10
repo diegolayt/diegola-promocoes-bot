@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5770130082",
-    "productKey": "e6db9c07805af9aa",
-    "titleHash": "89577e9cd55fb731",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-06T06:16:31.924Z"
-  },
-  {
     "itemId": "MLB3556275459",
     "productKey": "f8860107ce3c1512",
     "titleHash": "62799891c9cef2b5",
@@ -4798,5 +4790,13 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-10T14:16:34.981Z"
+  },
+  {
+    "itemId": "MLB7626272098",
+    "productKey": "66c7b386fec7fb85",
+    "titleHash": "07d3743c349b4b43",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-10T14:46:51.080Z"
   }
 ]
