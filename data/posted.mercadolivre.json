@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3610986685",
-    "productKey": "207e2794a9247dd6",
-    "titleHash": "8922eef1610cd8b4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-11-06T09:31:45.727Z"
-  },
-  {
     "itemId": "MLB5052087506",
     "productKey": "536062fd315b63f7",
     "titleHash": "563a02a9817e7c16",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-10T16:46:41.180Z"
+  },
+  {
+    "itemId": "MLB7961017284",
+    "productKey": "3290caa2bbf60419",
+    "titleHash": "0a784ed1ced73153",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-10T17:01:47.611Z"
   }
 ]
