@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4847460971",
-    "productKey": "bfd6728ad1b171f9",
-    "titleHash": "181b50122314a076",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-05T23:16:31.522Z"
-  },
-  {
-    "itemId": "MLB4631516257",
-    "productKey": "b9b09d11846bf67d",
-    "titleHash": "65f1cda77c78cc4f",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-05T23:16:31.523Z"
-  },
-  {
     "itemId": "MLB5755935162",
     "productKey": "1bf4bbd3aaba6886",
     "titleHash": "b3ef83e862c209e8",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-10T03:31:41.670Z"
+  },
+  {
+    "itemId": "MLB5812393646",
+    "productKey": "d76bba99e09b3844",
+    "titleHash": "321d8c2ae24df17a",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-10T04:01:42.420Z"
+  },
+  {
+    "itemId": "MLB7253496932",
+    "productKey": "8966f7090ac1116d",
+    "titleHash": "0257198e68c33f08",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-10T04:01:42.420Z"
   }
 ]
