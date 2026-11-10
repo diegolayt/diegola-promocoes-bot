@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5075783573",
-    "productKey": "93b0581f10d51661",
-    "titleHash": "f1bca9745f7146b2",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-06T15:16:34.783Z"
-  },
-  {
-    "itemId": "MLB7613923148",
-    "productKey": "87b2b96237b87dcd",
-    "titleHash": "d3adb22ed839f614",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-06T15:16:34.783Z"
-  },
-  {
     "itemId": "MLB6819437892",
     "productKey": "398190200de201c1",
     "titleHash": "2f5a00c8a92decec",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-10T22:16:39.500Z"
+  },
+  {
+    "itemId": "MLB4091456221",
+    "productKey": "40f3ce023dcaf098",
+    "titleHash": "43b0e8b2f3e2ee28",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-10T22:31:38.429Z"
+  },
+  {
+    "itemId": "MLB7358531924",
+    "productKey": "1f2208dd21863a0e",
+    "titleHash": "8dd77967e28e1211",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-10T22:31:38.430Z"
   }
 ]
