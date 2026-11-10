@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7933480186",
-    "productKey": "cf31f194e5125ea5",
-    "titleHash": "53f465883ca4f30e",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-06T03:31:31.218Z"
-  },
-  {
     "itemId": "MLB3640145261",
     "productKey": "573321164cd845a9",
     "titleHash": "95322f9ffc5758d5",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-10T08:46:32.989Z"
+  },
+  {
+    "itemId": "MLB5155902053",
+    "productKey": "56a230716db5d97e",
+    "titleHash": "32e3b2ff4d00f4ad",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-10T09:01:44.576Z"
   }
 ]
