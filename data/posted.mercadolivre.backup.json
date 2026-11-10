@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3644822877",
-    "productKey": "af18e28da13017b4",
-    "titleHash": "7e30699aa4759b46",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-06T00:31:36.758Z"
-  },
-  {
-    "itemId": "MLB5575158922",
-    "productKey": "470a6f69c29f9087",
-    "titleHash": "128e67c8b561c343",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-06T00:46:36.875Z"
-  },
-  {
     "itemId": "MLB4880764075",
     "productKey": "cd6908a1373b2654",
     "titleHash": "08f953c8f96c4c54",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-10T05:16:37.648Z"
+  },
+  {
+    "itemId": "MLB4893345667",
+    "productKey": "9fbe083ddb6385d8",
+    "titleHash": "d9345de1c8e78c68",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-10T05:31:36.043Z"
+  },
+  {
+    "itemId": "MLB7957183366",
+    "productKey": "d4312e0d6c2931f5",
+    "titleHash": "897b790bb2a290b2",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-10T05:31:36.043Z"
   }
 ]

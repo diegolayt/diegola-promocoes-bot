@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4893345667",
+      "site_id": "MLB",
+      "seller_id": 268944344,
+      "accepts_mercadopago": true,
+      "price": 493.9,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 161304,
+      "original_price": 999.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0xJTmNhMDJh",
+          "name": "Linhares"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTkVBMERB",
+          "name": "Canivete"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3387564620",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB70004700",
+      "title": "Jogo de Panelas Brinox Ceramic Life Smart Plus com Indução, 7 Peças Antiaderente e Cabo Soft-Touch Areia",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_928703-MLA111907915483_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB70004700",
+      "id": "MLB4893345667",
+      "sold_quantity": 100,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7957183366",
+      "site_id": "MLB",
+      "seller_id": 466295166,
+      "accepts_mercadopago": true,
+      "price": 55.81,
+      "category_id": "MLB194029",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjUwNzE",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5791735675",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35092029",
+      "title": "Jogo Talheres Faqueiro Búzios Aço Inox 24 Peças Tramontina",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_885228-MLA105354697197_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35092029",
+      "id": "MLB7957183366",
+      "sold_quantity": 1100,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-10T05:31:36.045Z"
+}
