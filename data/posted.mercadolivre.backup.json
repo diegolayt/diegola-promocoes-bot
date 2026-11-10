@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5173698241",
-    "productKey": "45a7144daaa80c5a",
-    "titleHash": "8b43e2f0b059a1b9",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-06T05:01:39.186Z"
-  },
-  {
     "itemId": "MLB3899903308",
     "productKey": "bb58267a3120520a",
     "titleHash": "53248af44066218e",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-10T09:47:08.554Z"
+  },
+  {
+    "itemId": "MLB7779097188",
+    "productKey": "a984166e91e3c121",
+    "titleHash": "bbb3a2837d40bc3d",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-10T10:01:51.018Z"
   }
 ]
