@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4880764075",
-    "productKey": "cd6908a1373b2654",
-    "titleHash": "08f953c8f96c4c54",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-06T00:46:36.875Z"
-  },
-  {
-    "itemId": "MLB3269837602",
-    "productKey": "eb39781cba8c5ba7",
-    "titleHash": "9e968352a8f3a15c",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-06T01:01:40.632Z"
-  },
-  {
-    "itemId": "MLB7110417186",
-    "productKey": "0c719e2b6f08c62f",
-    "titleHash": "b98e10c788d858aa",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-06T01:01:40.632Z"
-  },
-  {
     "itemId": "MLB5448102837",
     "productKey": "566cd97ce7c0cedd",
     "titleHash": "4b6513dfe9fb0f5e",
@@ -4798,5 +4774,29 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-10T05:31:36.043Z"
+  },
+  {
+    "itemId": "MLB4847460971",
+    "productKey": "bfd6728ad1b171f9",
+    "titleHash": "181b50122314a076",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-10T05:46:39.470Z"
+  },
+  {
+    "itemId": "MLB4993216815",
+    "productKey": "01b83afad55f31c1",
+    "titleHash": "84ad45755322ea1e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-10T05:46:39.470Z"
+  },
+  {
+    "itemId": "MLB5184538707",
+    "productKey": "2b8d916b04c09f90",
+    "titleHash": "e6a0bbceb4a1566b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-10T05:46:39.470Z"
   }
 ]
