@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3917376669",
-    "productKey": "bb0210ae17eea6d0",
-    "titleHash": "323bf31f9fa959bb",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-06T07:31:40.519Z"
-  },
-  {
-    "itemId": "MLB4035471677",
-    "productKey": "c6d850128e0d4647",
-    "titleHash": "0d363bda659ba892",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-06T08:01:37.537Z"
-  },
-  {
-    "itemId": "MLB4660482303",
-    "productKey": "9f620b521d231202",
-    "titleHash": "8ebbebef839099e6",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-06T08:16:35.828Z"
-  },
-  {
     "itemId": "MLB7933477124",
     "productKey": "c9df3c56099bd37b",
     "titleHash": "34f9448e848ee070",
@@ -4798,5 +4774,29 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-10T15:01:44.786Z"
+  },
+  {
+    "itemId": "MLB5215944593",
+    "productKey": "e1c6ccd1b23b052e",
+    "titleHash": "4d36991e1a99ae8b",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-10T15:16:35.656Z"
+  },
+  {
+    "itemId": "MLB7912144924",
+    "productKey": "6d6a36b43f25814b",
+    "titleHash": "864ba560595ab6ad",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-10T15:16:35.657Z"
+  },
+  {
+    "itemId": "MLB5539297803",
+    "productKey": "1d3dd666b990c91f",
+    "titleHash": "9167a0816ac03b1e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-10T15:16:35.657Z"
   }
 ]
