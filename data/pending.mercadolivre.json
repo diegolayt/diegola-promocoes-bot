@@ -1,0 +1,146 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7413456100",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 449.9,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_limited_marketplace_visibility",
+        "kvs_primary",
+        "dynamic_standard_price",
+        "has_published_clips",
+        "first_party",
+        "immediate_payment"
+      ],
+      "deal_ids": [],
+      "official_store_id": 368406,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4668245989",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB74108173",
+      "title": "Grand Theft Auto VI - PlayStation 5",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_639067-MLA114816196520_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB74108173",
+      "id": "MLB7413456100",
+      "sold_quantity": 2000,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5516672913",
+      "site_id": "MLB",
+      "seller_id": 582821983,
+      "accepts_mercadopago": true,
+      "price": 181,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYR3VhacOnYXJhVFV4Q1VGTkJUMDg1TjJFN",
+          "name": "Guaiçara"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5821611830",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB69042742",
+      "title": "Jogo De Panelas Antiaderentes 10 Peças Baunilha Nacional",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_897550-MLA111138894183_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB69042742",
+      "id": "MLB5516672913",
+      "sold_quantity": 1800,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-10T21:31:43.660Z"
+}

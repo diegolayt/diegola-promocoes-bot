@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5291905037",
-    "productKey": "7f07ce0b4993cace",
-    "titleHash": "bdfe8c72bf6ec63a",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-06T14:01:41.202Z"
-  },
-  {
-    "itemId": "MLB4924351987",
-    "productKey": "a8251bc98e70126a",
-    "titleHash": "3d01cd9c39438f12",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-06T14:31:40.346Z"
-  },
-  {
     "itemId": "MLB4812800951",
     "productKey": "c35a669e46b7da0b",
     "titleHash": "8e19706523f27ea7",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-10T21:16:32.728Z"
+  },
+  {
+    "itemId": "MLB7413456100",
+    "productKey": "f59ad2d75ea00ed2",
+    "titleHash": "2eeeca2ccff60b6f",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-10T21:31:43.658Z"
+  },
+  {
+    "itemId": "MLB5516672913",
+    "productKey": "00b14ae85745311e",
+    "titleHash": "4332a25ca14ae522",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-10T21:31:43.658Z"
   }
 ]
