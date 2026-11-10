@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5139668429",
-    "productKey": "f241e77b5c1de994",
-    "titleHash": "01c710c507d2dd58",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-06T09:16:39.154Z"
-  },
-  {
     "itemId": "MLB3610986685",
     "productKey": "207e2794a9247dd6",
     "titleHash": "8922eef1610cd8b4",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-10T16:01:48.171Z"
+  },
+  {
+    "itemId": "MLB3917376669",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-10T16:46:41.180Z"
   }
 ]
