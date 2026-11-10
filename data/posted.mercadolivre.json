@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3899903308",
-    "productKey": "bb58267a3120520a",
-    "titleHash": "53248af44066218e",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-06T05:01:39.187Z"
-  },
-  {
     "itemId": "MLB7847487046",
     "productKey": "0d89405e65a8c65e",
     "titleHash": "d8d5e40afde92978",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-10T10:01:51.018Z"
+  },
+  {
+    "itemId": "MLB5415225163",
+    "productKey": "e79cacc5bfe33eec",
+    "titleHash": "248c99ad0a42a4d3",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-10T10:16:36.517Z"
   }
 ]
