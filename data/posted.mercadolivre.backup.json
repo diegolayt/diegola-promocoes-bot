@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5225149923",
-    "productKey": "00737ae5c6b1088e",
-    "titleHash": "98ce55219da388e1",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-05T21:31:40.598Z"
-  },
-  {
-    "itemId": "MLB6244008474",
-    "productKey": "c356c59be11ac235",
-    "titleHash": "4c99e959114099bb",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-05T21:31:40.598Z"
-  },
-  {
-    "itemId": "MLB4018321871",
-    "productKey": "4e02753a0d159be6",
-    "titleHash": "30a9c6bb85a83841",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-11-05T21:46:28.554Z"
-  },
-  {
     "itemId": "MLB7253496932",
     "productKey": "8966f7090ac1116d",
     "titleHash": "0257198e68c33f08",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-10T01:31:39.577Z"
+  },
+  {
+    "itemId": "MLB3616725881",
+    "productKey": "2b88dc516422dcc0",
+    "titleHash": "d6b5f6fe6c4f8314",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-10T02:01:45.021Z"
+  },
+  {
+    "itemId": "MLB4440137909",
+    "productKey": "66aad9dacbb2cc0c",
+    "titleHash": "9d1eae52c8bb9416",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-10T02:01:45.021Z"
+  },
+  {
+    "itemId": "MLB4320374081",
+    "productKey": "bd7e186faebad4c2",
+    "titleHash": "4f66bd4101d296ee",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-10T02:01:45.021Z"
   }
 ]
