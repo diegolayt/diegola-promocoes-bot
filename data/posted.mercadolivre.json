@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6660295684",
-    "productKey": "8f72e37c26e09e4d",
-    "titleHash": "8b98848c1ef40835",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-06T16:16:31.425Z"
-  },
-  {
     "itemId": "MLB4685752162",
     "productKey": "cc28a8a0479860e3",
     "titleHash": "8835b2ef394c928f",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-10T23:16:35.249Z"
+  },
+  {
+    "itemId": "MLB4924351987",
+    "productKey": "a8251bc98e70126a",
+    "titleHash": "3d01cd9c39438f12",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-10T23:46:36.950Z"
   }
 ]
