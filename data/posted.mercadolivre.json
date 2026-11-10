@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5827959700",
-    "productKey": "a1085792541f2e70",
-    "titleHash": "d8faca7aab92efc8",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-06T11:01:43.565Z"
-  },
-  {
     "itemId": "MLB3845254515",
     "productKey": "c51898934732d05c",
     "titleHash": "2f77857bd51fad93",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-10T18:01:44.711Z"
+  },
+  {
+    "itemId": "MLB4445464355",
+    "productKey": "e100b1f005aaba1e",
+    "titleHash": "4d941d2484345991",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-10T18:16:35.762Z"
   }
 ]
