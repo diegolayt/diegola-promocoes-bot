@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4297931689",
+      "site_id": "MLB",
+      "seller_id": 1487799542,
+      "accepts_mercadopago": true,
+      "price": 123,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 451422,
+      "original_price": 159,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQmFydWVyaVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Barueri"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIEl0YXF1aXRpVFZoWVFtRnlkV",
+          "name": "Jardim Itaquiti"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3555380894",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17949789",
+      "title": "Cafeteira de Filtro Oster Compacta Inox para 19 Xícaras",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_856195-MLA99948857307_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17949789",
+      "id": "MLB4297931689",
+      "sold_quantity": 1100,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-10T12:16:35.926Z"
+}
