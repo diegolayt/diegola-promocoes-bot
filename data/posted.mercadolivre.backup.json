@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7868759202",
-    "productKey": "4e3f4c35024a7d4c",
-    "titleHash": "c05ea3c2f80d0174",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-06T11:16:32.016Z"
-  },
-  {
     "itemId": "MLB3986439067",
     "productKey": "12c33843ea3ba516",
     "titleHash": "f5092e1b3b45ec90",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-10T18:31:44.849Z"
+  },
+  {
+    "itemId": "MLB4129251859",
+    "productKey": "207e2794a9247dd6",
+    "titleHash": "8922eef1610cd8b4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-10T18:46:35.963Z"
   }
 ]

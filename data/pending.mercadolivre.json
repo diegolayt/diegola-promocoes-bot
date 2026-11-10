@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4129251859",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 106.6,
+      "category_id": "MLB31683",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5551,
+      "original_price": 217.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 10
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3306269626",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB29225270",
+      "title": "Sanduicheira E Grill Britânia Bgr16 2 Em 1 Redstone 750w Cor Preto e Prata",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_661990-MLA99395480060_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB29225270",
+      "id": "MLB4129251859",
+      "sold_quantity": 600,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB31683",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-10T18:46:35.965Z"
+}
