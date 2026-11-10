@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3345775369",
-    "productKey": "001d5b55e1cb8a1a",
-    "titleHash": "a3cad0a6cd371c9b",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-06T01:46:34.889Z"
-  },
-  {
-    "itemId": "MLB4083236185",
-    "productKey": "c44a8dc752d5ec7b",
-    "titleHash": "2568f1b39895b8d9",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-06T02:01:38.307Z"
-  },
-  {
     "itemId": "MLB6420538026",
     "productKey": "3a80315e87a71f5f",
     "titleHash": "d67494a9c8764546",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-10T06:01:43.521Z"
+  },
+  {
+    "itemId": "MLB7497417816",
+    "productKey": "7720820a953562b0",
+    "titleHash": "f63dfdf04a782b09",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-10T06:16:34.847Z"
+  },
+  {
+    "itemId": "MLB4880764075",
+    "productKey": "cd6908a1373b2654",
+    "titleHash": "08f953c8f96c4c54",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-10T06:16:34.847Z"
   }
 ]
