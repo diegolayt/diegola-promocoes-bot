@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4320374081",
-    "productKey": "bd7e186faebad4c2",
-    "titleHash": "4f66bd4101d296ee",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-05T19:46:33.981Z"
-  },
-  {
-    "itemId": "MLB3616725881",
-    "productKey": "2b88dc516422dcc0",
-    "titleHash": "d6b5f6fe6c4f8314",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-05T20:16:37.921Z"
-  },
-  {
-    "itemId": "MLB3797364569",
-    "productKey": "96983e4185e3eef7",
-    "titleHash": "f469ce3c49a26e01",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-05T20:16:37.922Z"
-  },
-  {
     "itemId": "MLB3417755047",
     "productKey": "268fde5a5ed21950",
     "titleHash": "5806263d0b543f99",
@@ -4798,5 +4774,29 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-10T00:01:42.454Z"
+  },
+  {
+    "itemId": "MLB4551866531",
+    "productKey": "0af3f0089d2da042",
+    "titleHash": "b229ab2bf8859545",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-10T00:16:35.063Z"
+  },
+  {
+    "itemId": "MLB4104379865",
+    "productKey": "bcc383aebf7b4b19",
+    "titleHash": "7497e9df0d7cbdd8",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-10T00:16:35.064Z"
+  },
+  {
+    "itemId": "MLB6906622218",
+    "productKey": "8ebb5290fbd71181",
+    "titleHash": "acfce180f1eca87f",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-10T00:16:35.064Z"
   }
 ]
