@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3986439067",
-    "productKey": "12c33843ea3ba516",
-    "titleHash": "f5092e1b3b45ec90",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-06T11:31:43.154Z"
-  },
-  {
-    "itemId": "MLB5451861382",
-    "productKey": "587d20e08660bde7",
-    "titleHash": "990a1ea0e342ba85",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-06T11:31:43.155Z"
-  },
-  {
-    "itemId": "MLB7791936566",
-    "productKey": "2f868339db1e586d",
-    "titleHash": "89a9c74f588cbf1b",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-06T11:46:34.719Z"
-  },
-  {
     "itemId": "MLB5046482101",
     "productKey": "45808aef9e36af2b",
     "titleHash": "0fed13623550fa42",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-11-10T18:46:35.963Z"
+  },
+  {
+    "itemId": "MLB5219998762",
+    "productKey": "ab0f5abeb7d01b34",
+    "titleHash": "3dd9c056269296af",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-10T19:16:40.442Z"
+  },
+  {
+    "itemId": "MLB6031639350",
+    "productKey": "afbff89ee85c38b5",
+    "titleHash": "bae5a48604e386ea",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-10T19:16:40.442Z"
+  },
+  {
+    "itemId": "MLB3760239877",
+    "productKey": "39b3b032945eb7a1",
+    "titleHash": "ad51142e02d9d328",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-10T19:16:40.442Z"
   }
 ]
