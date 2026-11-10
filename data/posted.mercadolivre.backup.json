@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7490908784",
-    "productKey": "81b443a4a9774fa4",
-    "titleHash": "13ecb3f9b4137d65",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-06T12:31:40.786Z"
-  },
-  {
-    "itemId": "MLB4256696421",
-    "productKey": "e6ad6b20e76f3aca",
-    "titleHash": "63fbb386c85e9033",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-06T13:01:41.776Z"
-  },
-  {
-    "itemId": "MLB4091456221",
-    "productKey": "40f3ce023dcaf098",
-    "titleHash": "43b0e8b2f3e2ee28",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-06T13:16:33.802Z"
-  },
-  {
     "itemId": "MLB7549815570",
     "productKey": "1f2208dd21863a0e",
     "titleHash": "8dd77967e28e1211",
@@ -4798,5 +4774,29 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-10T20:31:35.816Z"
+  },
+  {
+    "itemId": "MLB3986439067",
+    "productKey": "12c33843ea3ba516",
+    "titleHash": "f5092e1b3b45ec90",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-10T20:46:35.912Z"
+  },
+  {
+    "itemId": "MLB6222697532",
+    "productKey": "45808aef9e36af2b",
+    "titleHash": "0fed13623550fa42",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-10T20:46:35.912Z"
+  },
+  {
+    "itemId": "MLB5519665603",
+    "productKey": "1551bf9f32c05b23",
+    "titleHash": "41a02a3933f5017f",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-10T20:46:35.912Z"
   }
 ]
