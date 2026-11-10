@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5219998762",
-    "productKey": "ab0f5abeb7d01b34",
-    "titleHash": "3dd9c056269296af",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-06T10:16:40.225Z"
-  },
-  {
     "itemId": "MLB6031639350",
     "productKey": "afbff89ee85c38b5",
     "titleHash": "bae5a48604e386ea",
@@ -4798,5 +4790,13 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-10T17:31:37.222Z"
+  },
+  {
+    "itemId": "MLB4660482303",
+    "productKey": "9f620b521d231202",
+    "titleHash": "8ebbebef839099e6",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-10T17:46:39.528Z"
   }
 ]
