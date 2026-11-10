@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5448102837",
-    "productKey": "566cd97ce7c0cedd",
-    "titleHash": "4b6513dfe9fb0f5e",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-06T01:16:32.409Z"
-  },
-  {
-    "itemId": "MLB6538529024",
-    "productKey": "e45e7ce2520ec55f",
-    "titleHash": "58d4fc2df4ea9377",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-06T01:16:32.410Z"
-  },
-  {
     "itemId": "MLB3345775369",
     "productKey": "001d5b55e1cb8a1a",
     "titleHash": "a3cad0a6cd371c9b",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-10T05:46:39.470Z"
+  },
+  {
+    "itemId": "MLB4083441037",
+    "productKey": "19f894e9b99512b0",
+    "titleHash": "2c66353ef45a49a5",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-10T06:01:43.521Z"
+  },
+  {
+    "itemId": "MLB5810636432",
+    "productKey": "ef37a237b4aea772",
+    "titleHash": "0826b70c987fa868",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-10T06:01:43.521Z"
   }
 ]
