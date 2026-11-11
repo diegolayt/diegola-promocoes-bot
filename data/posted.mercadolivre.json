@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7236866352",
-    "productKey": "9aaaf7db99c08c54",
-    "titleHash": "a41ee2faa78cd597",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-06T23:31:41.679Z"
-  },
-  {
     "itemId": "MLB7580270022",
     "productKey": "d7c13b5792513c9a",
     "titleHash": "76baa199fb0390bb",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-11T06:31:36.476Z"
+  },
+  {
+    "itemId": "MLB3417755047",
+    "productKey": "268fde5a5ed21950",
+    "titleHash": "5806263d0b543f99",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-11T06:46:33.898Z"
   }
 ]
