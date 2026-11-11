@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7876925480",
-    "productKey": "9d5c96d703bbb08b",
-    "titleHash": "b4c97ba46d1f05ff",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-07T12:16:33.290Z"
-  },
-  {
-    "itemId": "MLB4067339459",
-    "productKey": "8c6368c4182d052e",
-    "titleHash": "076b7b730e1e7886",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-07T13:16:34.274Z"
-  },
-  {
     "itemId": "MLB6823283528",
     "productKey": "e2489c1451cb6572",
     "titleHash": "313364498118e4ab",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-11T17:01:56.317Z"
+  },
+  {
+    "itemId": "MLB7751649766",
+    "productKey": "a0fd45fd216a9397",
+    "titleHash": "2b6d0992aecf02d0",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-11T17:16:41.282Z"
+  },
+  {
+    "itemId": "MLB2760684440",
+    "productKey": "4ae6c04be37129cb",
+    "titleHash": "4b5a0e421d4a8abf",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-11T17:16:41.282Z"
   }
 ]
