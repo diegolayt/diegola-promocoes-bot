@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4664972277",
-    "productKey": "81231682978a91c7",
-    "titleHash": "f963640783481006",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-06T20:16:31.687Z"
-  },
-  {
-    "itemId": "MLB6582852158",
-    "productKey": "d8c7448ef115cc74",
-    "titleHash": "41f452cb2e741858",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-06T20:31:36.072Z"
-  },
-  {
-    "itemId": "MLB7613843324",
-    "productKey": "ba7df21eb0ca2036",
-    "titleHash": "e289328335e8aff0",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-06T21:01:43.459Z"
-  },
-  {
     "itemId": "MLB5814374120",
     "productKey": "2e453f95c6f33ca8",
     "titleHash": "14a43f99ec759431",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-11T03:31:35.624Z"
+  },
+  {
+    "itemId": "MLB5105377440",
+    "productKey": "168be902fe1cd973",
+    "titleHash": "338136e26add6b14",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-11T03:46:29.471Z"
+  },
+  {
+    "itemId": "MLB3983897395",
+    "productKey": "ab75e665396cd092",
+    "titleHash": "c48e34acf8ca06f0",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-11T03:46:29.471Z"
+  },
+  {
+    "itemId": "MLB2944692317",
+    "productKey": "82877247ca948082",
+    "titleHash": "f68a2c332d7a28a9",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-11T03:46:29.471Z"
   }
 ]
