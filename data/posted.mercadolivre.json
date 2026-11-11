@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3995123939",
-    "productKey": "168be902fe1cd973",
-    "titleHash": "338136e26add6b14",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-06T18:31:37.315Z"
-  },
-  {
     "itemId": "MLB2217215350",
     "productKey": "82877247ca948082",
     "titleHash": "f68a2c332d7a28a9",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-11T02:16:33.381Z"
+  },
+  {
+    "itemId": "MLB5413578547",
+    "productKey": "af6fd456573a6c22",
+    "titleHash": "1a0f1b9fd4ebb53e",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-11T02:31:38.119Z"
   }
 ]
