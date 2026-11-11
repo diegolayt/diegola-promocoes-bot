@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7619971288",
-    "productKey": "55fae1bf40b618cf",
-    "titleHash": "2c0a170468ff47ea",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-06T19:16:37.548Z"
-  },
-  {
-    "itemId": "MLB6740889694",
-    "productKey": "4e8dd9fe40e8f539",
-    "titleHash": "6859c19609c4f4eb",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-06T19:46:39.158Z"
-  },
-  {
     "itemId": "MLB4277472348",
     "productKey": "251cc73008a1acee",
     "titleHash": "0e16cf6563708edf",
@@ -4798,5 +4782,21 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-11T03:01:47.207Z"
+  },
+  {
+    "itemId": "MLB5264351136",
+    "productKey": "0a9ab3d2be2ebe8b",
+    "titleHash": "b37656ffe37607bc",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-11T03:16:35.764Z"
+  },
+  {
+    "itemId": "MLB5972837798",
+    "productKey": "c45a40bf0889759e",
+    "titleHash": "7fb3749c5110ec68",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-11T03:16:35.764Z"
   }
 ]
