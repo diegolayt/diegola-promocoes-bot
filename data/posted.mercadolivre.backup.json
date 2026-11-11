@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7813039758",
-    "productKey": "caaa6d3d3ab9a0f8",
-    "titleHash": "842b7036f0d2ecc0",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-06T21:46:33.624Z"
-  },
-  {
-    "itemId": "MLB5521530069",
-    "productKey": "9d341652de94db15",
-    "titleHash": "24a540641ec07422",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-06T21:46:33.624Z"
-  },
-  {
     "itemId": "MLB7829580318",
     "productKey": "2a86db727b2c5887",
     "titleHash": "a6e7bc74d0fd88c8",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-11T04:46:38.404Z"
+  },
+  {
+    "itemId": "MLB7124261450",
+    "productKey": "9c762775786a2c63",
+    "titleHash": "4d8b88ad92cbf3b8",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-11T05:31:32.833Z"
+  },
+  {
+    "itemId": "MLB5317144139",
+    "productKey": "81231682978a91c7",
+    "titleHash": "f963640783481006",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-11T05:31:32.833Z"
   }
 ]
