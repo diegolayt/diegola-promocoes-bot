@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3956721899",
-    "productKey": "f8541b1120414240",
-    "titleHash": "6e7efcaaa8b039c0",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-06T17:31:38.749Z"
-  },
-  {
     "itemId": "MLB3251982185",
     "productKey": "6e6b0a0afa3e4adb",
     "titleHash": "ba28ef2dcd7fcc21",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-11T00:46:36.144Z"
+  },
+  {
+    "itemId": "MLB7238039802",
+    "productKey": "cc28a8a0479860e3",
+    "titleHash": "8835b2ef394c928f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-11T01:01:37.189Z"
   }
 ]
