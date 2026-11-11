@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5800043516",
-    "productKey": "db0638517b0c4427",
-    "titleHash": "45d361ba93463419",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-07T17:31:37.463Z"
-  },
-  {
-    "itemId": "MLB5333613199",
-    "productKey": "dbfea0470a350aa5",
-    "titleHash": "7fbb1dd038a3831f",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-07T17:46:35.805Z"
-  },
-  {
-    "itemId": "MLB4244737429",
-    "productKey": "e7f53714657a6827",
-    "titleHash": "43305ac2162696c9",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-07T17:46:35.805Z"
-  },
-  {
-    "itemId": "MLB3683292275",
-    "productKey": "2448a415c073d58b",
-    "titleHash": "102d3ef0cbe40d2c",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-07T18:01:43.295Z"
-  },
-  {
     "itemId": "MLB3946830801",
     "productKey": "9180f7359eb828c8",
     "titleHash": "334a61232386e846",
@@ -4798,5 +4766,37 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-11T21:46:33.322Z"
+  },
+  {
+    "itemId": "MLB5270193474",
+    "productKey": "948ee43d2d7626fb",
+    "titleHash": "93e49c3d46e7aa6f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-11T22:16:28.999Z"
+  },
+  {
+    "itemId": "MLB4053861862",
+    "productKey": "582a00a061dfbcdd",
+    "titleHash": "2ff16fab12801e4a",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-11T22:16:28.999Z"
+  },
+  {
+    "itemId": "MLB5414776307",
+    "productKey": "5bbd37355bdaaca3",
+    "titleHash": "a1800fc74ec6ad41",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-11T22:16:28.999Z"
+  },
+  {
+    "itemId": "MLB3275137299",
+    "productKey": "93ca36144744aa1c",
+    "titleHash": "0873ef88aafee25e",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-11T22:16:28.999Z"
   }
 ]
