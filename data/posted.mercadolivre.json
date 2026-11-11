@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3919470687",
-    "productKey": "bc0bb9a0c3fb15a1",
-    "titleHash": "0e851e97989db4c8",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-07T11:46:35.472Z"
-  },
-  {
-    "itemId": "MLB5329209922",
-    "productKey": "2fe42a867bd7bb87",
-    "titleHash": "3d354dd6afa71c15",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-07T12:01:45.592Z"
-  },
-  {
     "itemId": "MLB7876925480",
     "productKey": "9d5c96d703bbb08b",
     "titleHash": "b4c97ba46d1f05ff",
@@ -4798,5 +4782,21 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-11T16:46:40.992Z"
+  },
+  {
+    "itemId": "MLB3552382255",
+    "productKey": "b1be541faa5fbece",
+    "titleHash": "ddce1d36b82207f4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-11T17:01:56.317Z"
+  },
+  {
+    "itemId": "MLB4610033085",
+    "productKey": "3ec767c81d06051b",
+    "titleHash": "70a866555fd96fb6",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-11T17:01:56.317Z"
   }
 ]
