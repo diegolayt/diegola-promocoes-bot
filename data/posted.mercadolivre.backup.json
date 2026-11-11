@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7829580318",
-    "productKey": "2a86db727b2c5887",
-    "titleHash": "a6e7bc74d0fd88c8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-06T22:01:46.302Z"
-  },
-  {
     "itemId": "MLB7933338158",
     "productKey": "6224c2fc562ad959",
     "titleHash": "c049057de7dc1d9e",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-11T05:31:32.833Z"
+  },
+  {
+    "itemId": "MLB5190840977",
+    "productKey": "54cc97934dc749b3",
+    "titleHash": "ae81247f4cd0a8cf",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-11T05:46:34.481Z"
   }
 ]

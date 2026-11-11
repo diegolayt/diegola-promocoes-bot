@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5190840977",
+      "site_id": "MLB",
+      "seller_id": 3545785815,
+      "accepts_mercadopago": true,
+      "price": 275.99,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 479,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHQxd2o4",
+          "name": "Vila Nova Bonsucesso"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4772787941",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61322333",
+      "title": "Projetor Magcubic Mini Smart HY300PRO+ FULL HD 8K Android 14 com Wi-Fi 6 Controle remoto por voz",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_685520-MLA113902322205_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61322333",
+      "id": "MLB5190840977",
+      "sold_quantity": 1000,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    }
+  ],
+  "reservedAt": "2026-11-11T05:46:34.483Z"
+}
