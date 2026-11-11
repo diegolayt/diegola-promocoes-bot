@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3589312413",
-    "productKey": "64d907793969abd0",
-    "titleHash": "683807807645b6a9",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-07T01:31:38.048Z"
-  },
-  {
-    "itemId": "MLB3545061637",
-    "productKey": "690d29606093b12a",
-    "titleHash": "eff4b6f329165dbf",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-07T02:01:47.525Z"
-  },
-  {
     "itemId": "MLB2654504800",
     "productKey": "02983e6cebf8fe5d",
     "titleHash": "29879c6e3f2ebbc5",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-11T08:46:36.238Z"
+  },
+  {
+    "itemId": "MLB6582852158",
+    "productKey": "d8c7448ef115cc74",
+    "titleHash": "41f452cb2e741858",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-11T09:01:48.916Z"
+  },
+  {
+    "itemId": "MLB3949790433",
+    "productKey": "0b12e3121e49b10b",
+    "titleHash": "4f6b62c7ac5fa1cb",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-11T09:01:48.916Z"
   }
 ]
