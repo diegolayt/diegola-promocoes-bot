@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB2217215350",
-    "productKey": "82877247ca948082",
-    "titleHash": "f68a2c332d7a28a9",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-06T18:46:30.866Z"
-  },
-  {
     "itemId": "MLB4464987449",
     "productKey": "97281c3aa1bd995e",
     "titleHash": "14d3bd03b87fed59",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-11T02:31:38.119Z"
+  },
+  {
+    "itemId": "MLB3956721899",
+    "productKey": "f8541b1120414240",
+    "titleHash": "6e7efcaaa8b039c0",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-11T02:46:28.256Z"
   }
 ]
