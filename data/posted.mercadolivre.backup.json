@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6161925990",
-    "productKey": "077fe19f4736884c",
-    "titleHash": "d7b2cb595cb95e9a",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-07T10:46:34.999Z"
-  },
-  {
-    "itemId": "MLB4046267101",
-    "productKey": "94515ec2fc819af0",
-    "titleHash": "2602411dd1f9a94a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-07T10:46:35.000Z"
-  },
-  {
     "itemId": "MLB3919470687",
     "productKey": "bc0bb9a0c3fb15a1",
     "titleHash": "0e851e97989db4c8",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-11T16:31:44.269Z"
+  },
+  {
+    "itemId": "MLB5774842808",
+    "productKey": "d80ef72818275e46",
+    "titleHash": "d8d496fc92919deb",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-11T16:46:40.992Z"
+  },
+  {
+    "itemId": "MLB5534941781",
+    "productKey": "8ba43f4f1e1184f7",
+    "titleHash": "9b4cb806a44b6982",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-11T16:46:40.992Z"
   }
 ]
