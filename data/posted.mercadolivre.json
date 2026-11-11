@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4685752162",
-    "productKey": "cc28a8a0479860e3",
-    "titleHash": "8835b2ef394c928f",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-06T16:16:31.426Z"
-  },
-  {
-    "itemId": "MLB2715864979",
-    "productKey": "c61bb77a90f70d42",
-    "titleHash": "e318b8d137692aca",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-06T16:31:45.178Z"
-  },
-  {
     "itemId": "MLB7589615372",
     "productKey": "1c0c2cfead503f62",
     "titleHash": "4092e4d6763c3705",
@@ -4798,5 +4782,21 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-10T23:46:36.950Z"
+  },
+  {
+    "itemId": "MLB6135753584",
+    "productKey": "d60f40144ad87174",
+    "titleHash": "673a514c6de388e3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-11T00:01:44.517Z"
+  },
+  {
+    "itemId": "MLB5205776313",
+    "productKey": "97ae2ef6f831804d",
+    "titleHash": "1da2ceac8c4459f9",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-11T00:01:44.517Z"
   }
 ]
