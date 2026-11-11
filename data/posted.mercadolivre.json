@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3600544593",
-    "productKey": "c52e36fc9898a93c",
-    "titleHash": "0980e9b00d7d2072",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-07T04:31:39.778Z"
-  },
-  {
-    "itemId": "MLB5146371923",
-    "productKey": "433c92dede263740",
-    "titleHash": "e7ffde166713f219",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-07T04:46:30.938Z"
-  },
-  {
     "itemId": "MLB7909359852",
     "productKey": "56874e6a88e88e22",
     "titleHash": "4a49768b1643234a",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-11T12:01:44.828Z"
+  },
+  {
+    "itemId": "MLB4904094632",
+    "productKey": "9ee46f646c4f61c2",
+    "titleHash": "f8b77aa9bf7772c8",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-11T12:16:38.641Z"
+  },
+  {
+    "itemId": "MLB7891198242",
+    "productKey": "6566f7d44971d242",
+    "titleHash": "66c0a37d1b392e7a",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-11T12:16:38.641Z"
   }
 ]
