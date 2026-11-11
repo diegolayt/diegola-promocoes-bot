@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4464987449",
-    "productKey": "97281c3aa1bd995e",
-    "titleHash": "14d3bd03b87fed59",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-06T19:01:53.986Z"
-  },
-  {
-    "itemId": "MLB4976654141",
-    "productKey": "1e02c9455942b0ea",
-    "titleHash": "b7eb6e3ad56267d8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-06T19:16:37.548Z"
-  },
-  {
-    "itemId": "MLB1663761914",
-    "productKey": "de77083a4e6c4dab",
-    "titleHash": "adf49853a15a232f",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-06T19:16:37.548Z"
-  },
-  {
     "itemId": "MLB7619971288",
     "productKey": "55fae1bf40b618cf",
     "titleHash": "2c0a170468ff47ea",
@@ -4798,5 +4774,29 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-11T02:46:28.256Z"
+  },
+  {
+    "itemId": "MLB5413776368",
+    "productKey": "43ab81ed3d64cbfc",
+    "titleHash": "847b82f5eeb65c22",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-11T03:01:47.207Z"
+  },
+  {
+    "itemId": "MLB4424214065",
+    "productKey": "a5159ad3bb7f346b",
+    "titleHash": "b3a008af85b3061b",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-11T03:01:47.207Z"
+  },
+  {
+    "itemId": "MLB4849437799",
+    "productKey": "1835b96f8c31b1b3",
+    "titleHash": "fe3ce120921d1f3b",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-11T03:01:47.207Z"
   }
 ]
