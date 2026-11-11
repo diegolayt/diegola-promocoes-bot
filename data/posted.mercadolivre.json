@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6985336822",
-    "productKey": "b5ddbc5fc16e2eb7",
-    "titleHash": "1a469a09813e0b46",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-07T09:16:31.225Z"
-  },
-  {
-    "itemId": "MLB4411577880",
-    "productKey": "1695451136b60c3d",
-    "titleHash": "7bf56a01b25ad75c",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-07T09:31:43.576Z"
-  },
-  {
     "itemId": "MLB5270193474",
     "productKey": "948ee43d2d7626fb",
     "titleHash": "93e49c3d46e7aa6f",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-11T15:46:38.869Z"
+  },
+  {
+    "itemId": "MLB5980818460",
+    "productKey": "6da45092ee3d78e0",
+    "titleHash": "da5532a1ce14d15f",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-11T16:01:42.650Z"
+  },
+  {
+    "itemId": "MLB5299585130",
+    "productKey": "2e0f83b5b330f2e1",
+    "titleHash": "b8969612fd2dbc15",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-11T16:01:42.651Z"
   }
 ]
