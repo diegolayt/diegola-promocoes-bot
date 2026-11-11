@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4190456415",
-    "productKey": "6a0f3de508245dc1",
-    "titleHash": "ae7ee8f191bd670b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-07T08:31:38.589Z"
-  },
-  {
-    "itemId": "MLB4195198970",
-    "productKey": "19e579017e9bbafd",
-    "titleHash": "9bead5eecb241d6b",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-07T09:16:31.224Z"
-  },
-  {
     "itemId": "MLB6985336822",
     "productKey": "b5ddbc5fc16e2eb7",
     "titleHash": "1a469a09813e0b46",
@@ -4798,5 +4782,21 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-11T15:31:30.416Z"
+  },
+  {
+    "itemId": "MLB7227482292",
+    "productKey": "62bcab9e6c459851",
+    "titleHash": "503e887254ddf661",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-11T15:46:38.869Z"
+  },
+  {
+    "itemId": "MLB5517635609",
+    "productKey": "381fd5b224641c75",
+    "titleHash": "a3e375708aaad9cf",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-11T15:46:38.869Z"
   }
 ]
