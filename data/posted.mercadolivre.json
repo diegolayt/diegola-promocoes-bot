@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3946830801",
-    "productKey": "9180f7359eb828c8",
-    "titleHash": "334a61232386e846",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-07T18:01:43.296Z"
-  },
-  {
-    "itemId": "MLB7501004712",
-    "productKey": "8754fc435a818a02",
-    "titleHash": "8d2d9b3a9df7dc0c",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-07T18:01:43.296Z"
-  },
-  {
-    "itemId": "MLB5112879985",
-    "productKey": "50274da5b327a827",
-    "titleHash": "22b4a28cffd81415",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-07T18:01:43.296Z"
-  },
-  {
-    "itemId": "MLB6856501278",
-    "productKey": "feb8ee0e5e78d68c",
-    "titleHash": "d21682eb23e8c1fd",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-07T18:16:29.357Z"
-  },
-  {
     "itemId": "MLB3907564203",
     "productKey": "0a6b3dfb37184691",
     "titleHash": "92e7b66fe96dbd69",
@@ -4798,5 +4766,37 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-11T22:16:28.999Z"
+  },
+  {
+    "itemId": "MLB7021496446",
+    "productKey": "06651e2562cbb16b",
+    "titleHash": "827ce4bd52859f56",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-11T22:31:41.278Z"
+  },
+  {
+    "itemId": "MLB6142794264",
+    "productKey": "2527dd838b018334",
+    "titleHash": "34d297fdc0d07825",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-11T22:31:41.278Z"
+  },
+  {
+    "itemId": "MLB7661765670",
+    "productKey": "b22d1abaa47ec09f",
+    "titleHash": "3724b04061102e54",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-11T22:31:41.278Z"
+  },
+  {
+    "itemId": "MLB5400098189",
+    "productKey": "d8cdb8921362f102",
+    "titleHash": "1b7a10c533ed1347",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-11T22:31:41.278Z"
   }
 ]
