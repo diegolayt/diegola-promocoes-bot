@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7501055654",
-    "productKey": "496a44c0154a0bf4",
-    "titleHash": "b0961859353c7014",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-06T21:16:42.260Z"
-  },
-  {
-    "itemId": "MLB6091025890",
-    "productKey": "8028bcd48f2747c0",
-    "titleHash": "911c90f13675ebcb",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-06T21:31:42.896Z"
-  },
-  {
-    "itemId": "MLB3898822433",
-    "productKey": "d28d7ff4dc319861",
-    "titleHash": "c7d4fc32964b4cb7",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-06T21:31:42.896Z"
-  },
-  {
     "itemId": "MLB6472267476",
     "productKey": "522831da8b67442b",
     "titleHash": "cec36f7858150818",
@@ -4798,5 +4774,29 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-11T04:01:40.877Z"
+  },
+  {
+    "itemId": "MLB4976654141",
+    "productKey": "1e02c9455942b0ea",
+    "titleHash": "b7eb6e3ad56267d8",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-11T04:16:39.351Z"
+  },
+  {
+    "itemId": "MLB1663761914",
+    "productKey": "de77083a4e6c4dab",
+    "titleHash": "adf49853a15a232f",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-11T04:16:39.351Z"
+  },
+  {
+    "itemId": "MLB5904369694",
+    "productKey": "55fae1bf40b618cf",
+    "titleHash": "2c0a170468ff47ea",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-11T04:16:39.351Z"
   }
 ]
