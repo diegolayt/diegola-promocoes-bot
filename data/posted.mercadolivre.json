@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7741159322",
-    "productKey": "ef60b543f7ca8673",
-    "titleHash": "4ca12211160412ec",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-06T17:16:37.237Z"
-  },
-  {
     "itemId": "MLB3956721899",
     "productKey": "f8541b1120414240",
     "titleHash": "6e7efcaaa8b039c0",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-11T00:31:39.517Z"
+  },
+  {
+    "itemId": "MLB7379012660",
+    "productKey": "c441f5f8b907c35b",
+    "titleHash": "07b5dc5df417e750",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-11T00:46:36.144Z"
   }
 ]
