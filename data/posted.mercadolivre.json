@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7283029550",
-    "productKey": "f741ca1646ce9e5b",
-    "titleHash": "235e06efad8f596e",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-07T07:16:36.986Z"
-  },
-  {
     "itemId": "MLB7952810348",
     "productKey": "104c62f84f8d85e8",
     "titleHash": "2f2b1411898660ab",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-11T15:01:53.213Z"
+  },
+  {
+    "itemId": "MLB4198382275",
+    "productKey": "22241b81ca88085a",
+    "titleHash": "8c709a3a06dff422",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-11T15:16:42.206Z"
   }
 ]
