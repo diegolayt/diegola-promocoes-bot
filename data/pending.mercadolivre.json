@@ -1,0 +1,249 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6162516164",
+      "site_id": "MLB",
+      "seller_id": 2399798760,
+      "accepts_mercadopago": true,
+      "price": 179.99,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "proximity_off",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJFTHJ6MTht",
+          "name": "Belenzinho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3700559132",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB64335558",
+      "title": "Relógio Inteligente Smartwatch GPS Autônomo NOVANTE Masculino Feminino Chamadas Bluetooth Preto Esportivo Tática À prova d'água 3ATM 430mAh Android IOS Com Pulseira De Aço Lanterna Bússola Presente",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_615129-MLA117722919409_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB64335558",
+      "id": "MLB6162516164",
+      "sold_quantity": 600,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB5146371923",
+      "site_id": "MLB",
+      "seller_id": 1546698631,
+      "accepts_mercadopago": true,
+      "price": 109.8,
+      "category_id": "MLB244658",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 474382,
+      "original_price": 174,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkFMVGN1ejd6",
+          "name": "Alto da Mooca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4963802999",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB55829716",
+      "title": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Borossilicato 4 Travas Micro-ondas Azul-Escuro",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_628438-MLA116953128816_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB55829716",
+      "id": "MLB5146371923",
+      "sold_quantity": 1100,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3600544593",
+      "site_id": "MLB",
+      "seller_id": 225099676,
+      "accepts_mercadopago": true,
+      "price": 127.67,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 869,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 12.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2397934242",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18932156",
+      "title": "Ventilador de Mesa 30cm Super Power Mondial 60W VSP-30-B",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_620576-MLA99958768953_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18932156",
+      "id": "MLB3600544593",
+      "sold_quantity": 1900,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-11-11T13:46:36.888Z"
+}
