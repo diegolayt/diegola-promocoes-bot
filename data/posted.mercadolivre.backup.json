@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7590146354",
-    "productKey": "8d695fa54f022e04",
-    "titleHash": "7fcbd2cc69672259",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-07T17:16:35.288Z"
-  },
-  {
     "itemId": "MLB5800043516",
     "productKey": "db0638517b0c4427",
     "titleHash": "45d361ba93463419",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-11T21:16:38.562Z"
+  },
+  {
+    "itemId": "MLB7535842350",
+    "productKey": "fb1d90d3e2311de7",
+    "titleHash": "3ee21ab1648fcc37",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-11T21:46:33.322Z"
   }
 ]
