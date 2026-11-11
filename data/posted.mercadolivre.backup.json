@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7661765670",
-    "productKey": "b22d1abaa47ec09f",
-    "titleHash": "3724b04061102e54",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-07T16:01:43.391Z"
-  },
-  {
-    "itemId": "MLB4053861862",
-    "productKey": "582a00a061dfbcdd",
-    "titleHash": "2ff16fab12801e4a",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-07T16:16:39.646Z"
-  },
-  {
-    "itemId": "MLB7664829504",
-    "productKey": "05b7fd961f48a8ca",
-    "titleHash": "00981e70f1f63cf9",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-07T16:16:39.647Z"
-  },
-  {
     "itemId": "MLB7947087936",
     "productKey": "5bbd37355bdaaca3",
     "titleHash": "a1800fc74ec6ad41",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-11T19:16:30.180Z"
+  },
+  {
+    "itemId": "MLB4150270587",
+    "productKey": "30428afb79b31575",
+    "titleHash": "64c4bc9f4147c80a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-11T19:31:40.159Z"
+  },
+  {
+    "itemId": "MLB4067339459",
+    "productKey": "8c6368c4182d052e",
+    "titleHash": "076b7b730e1e7886",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-11T19:31:40.159Z"
+  },
+  {
+    "itemId": "MLB7493862386",
+    "productKey": "9adc595151031a03",
+    "titleHash": "aae437bd40936ba5",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-11T19:31:40.159Z"
   }
 ]

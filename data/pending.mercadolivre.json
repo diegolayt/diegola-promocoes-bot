@@ -1,0 +1,240 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4150270587",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 152,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "first_party",
+        "dynamic_standard_price",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 299,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3262608103",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52868715",
+      "title": "Fritadeira Elétrica Air Fryer Quad Fry 4,2 Litros 1400w Preto Elgin",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_831652-MLA119453464213_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52868715",
+      "id": "MLB4150270587",
+      "sold_quantity": 1700,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4067339459",
+      "site_id": "MLB",
+      "seller_id": 85263796,
+      "accepts_mercadopago": true,
+      "price": 970,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "extended_warranty_eligible",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4340,
+      "original_price": 1475.71,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJ1asOhVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Arujá"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2321504026",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB31541424",
+      "title": "Positivo Vision Tab 10 com Capa Teclado 4GB RAM 128GB Armazenamento, Octa-Core, 5+ 13MP, Bateria 6000mAh, Tela 10.1“ HD, Wifi AC e 4G, Full Lamination - Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_748310-MLA119940540003_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB31541424",
+      "id": "MLB4067339459",
+      "sold_quantity": 700,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB7493862386",
+      "site_id": "MLB",
+      "seller_id": 3595234463,
+      "accepts_mercadopago": true,
+      "price": 79.43,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439342,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 48.24576
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4899648758",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45151298",
+      "title": "Mouse Sem Fio Logitech M196 Com Conexão Bluetooth - Rosa Rosa",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_862174-MLA99480177236_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45151298",
+      "id": "MLB7493862386",
+      "sold_quantity": 1600,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-11T19:31:40.161Z"
+}
