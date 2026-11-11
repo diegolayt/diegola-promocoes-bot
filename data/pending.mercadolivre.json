@@ -1,0 +1,284 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3683292275",
+      "site_id": "MLB",
+      "seller_id": 480265022,
+      "accepts_mercadopago": true,
+      "price": 187.9,
+      "category_id": "MLB1265",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "kvs_primary",
+        "first_party",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 70442,
+      "original_price": 259.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 48.24576
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU770150822",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB21801610",
+      "title": "Kérastase Densifique Bain Densité Shampoo Densificador para Cabelos Finos com Perda de Densidade, Fortalece e Dá Volume, Com Stemoxydine e Ácido Hialurônico, 250 ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_635057-MLA99933798695_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB21801610",
+      "id": "MLB3683292275",
+      "sold_quantity": 600,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB6248700942",
+      "site_id": "MLB",
+      "seller_id": 1168726042,
+      "accepts_mercadopago": true,
+      "price": 1777.9,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 20,
+      "original_price": 2399,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3783124141",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61372818",
+      "title": "Máquina de Lavar Brastemp 14Kg Branca Smart Sensor- BWJ14AB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_986650-MLA96608230621_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61372818",
+      "id": "MLB6248700942",
+      "sold_quantity": 200,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB7894904270",
+      "site_id": "MLB",
+      "seller_id": 204329252,
+      "accepts_mercadopago": true,
+      "price": 233.22,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "has_limited_marketplace_visibility",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 231988,
+      "original_price": 299,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTWlndWVsw7Nwb2xpc1RVeENVRk5CVDA4N",
+          "name": "Miguelópolis"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVRXbG5kV1ZzdzdOd2Iye",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5667399127",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23182983",
+      "title": "Suplemento Tasty Whey Adaptogen Science Whey Protein 3w Gourmet Pote 900g Sabor Chocolate e Amendoim",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_821441-MLA107580329953_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23182983",
+      "id": "MLB7894904270",
+      "sold_quantity": 100,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7501004712",
+      "site_id": "MLB",
+      "seller_id": 3595234463,
+      "accepts_mercadopago": true,
+      "price": 299.99,
+      "category_id": "MLB6777",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439342,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 36,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "36 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4869062291",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61082491",
+      "title": "Fonte Gamer Rise Mode Elektra 650w Full Modular Selo Teclab Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_969809-MLA99946606947_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61082491",
+      "id": "MLB7501004712",
+      "sold_quantity": 300,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-11-11T23:46:36.076Z"
+}
