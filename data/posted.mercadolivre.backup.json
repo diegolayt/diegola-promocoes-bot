@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6729908758",
-    "productKey": "125a02479dbb4f92",
-    "titleHash": "67261eed9f9c6156",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-07T07:01:46.886Z"
-  },
-  {
     "itemId": "MLB3346794503",
     "productKey": "d80ef72818275e46",
     "titleHash": "d8d496fc92919deb",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-11T14:31:52.287Z"
+  },
+  {
+    "itemId": "MLB2654504800",
+    "productKey": "02983e6cebf8fe5d",
+    "titleHash": "29879c6e3f2ebbc5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-11T14:46:36.479Z"
   }
 ]
