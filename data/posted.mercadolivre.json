@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3552382255",
-    "productKey": "b1be541faa5fbece",
-    "titleHash": "ddce1d36b82207f4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-07T10:16:31.774Z"
-  },
-  {
-    "itemId": "MLB4610033085",
-    "productKey": "3ec767c81d06051b",
-    "titleHash": "70a866555fd96fb6",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-07T10:31:42.419Z"
-  },
-  {
-    "itemId": "MLB2833722862",
-    "productKey": "67c8124f8010d4d0",
-    "titleHash": "3acad1ab805f0289",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-07T10:31:42.419Z"
-  },
-  {
     "itemId": "MLB6161925990",
     "productKey": "077fe19f4736884c",
     "titleHash": "d7b2cb595cb95e9a",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-11T16:16:36.905Z"
+  },
+  {
+    "itemId": "MLB5335958389",
+    "productKey": "7ee93f70ba994b37",
+    "titleHash": "cbc89261a0bdc7f7",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-11T16:31:44.269Z"
+  },
+  {
+    "itemId": "MLB4080129275",
+    "productKey": "45a76a65dccf9a6b",
+    "titleHash": "4ca32d474f9cf226",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-11T16:31:44.269Z"
+  },
+  {
+    "itemId": "MLB7730381528",
+    "productKey": "f741ca1646ce9e5b",
+    "titleHash": "235e06efad8f596e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-11T16:31:44.269Z"
   }
 ]
