@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5814374120",
-    "productKey": "2e453f95c6f33ca8",
-    "titleHash": "14a43f99ec759431",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-06T21:01:43.459Z"
-  },
-  {
     "itemId": "MLB7501055654",
     "productKey": "496a44c0154a0bf4",
     "titleHash": "b0961859353c7014",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-11T03:46:29.471Z"
+  },
+  {
+    "itemId": "MLB7791936566",
+    "productKey": "2f868339db1e586d",
+    "titleHash": "89a9c74f588cbf1b",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-11T04:01:40.877Z"
   }
 ]
