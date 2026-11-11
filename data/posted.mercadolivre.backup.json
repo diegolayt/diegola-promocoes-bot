@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6233971228",
-    "productKey": "a5159ad3bb7f346b",
-    "titleHash": "b3a008af85b3061b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-06T18:16:30.874Z"
-  },
-  {
-    "itemId": "MLB5972837798",
-    "productKey": "c45a40bf0889759e",
-    "titleHash": "7fb3749c5110ec68",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-06T18:16:30.874Z"
-  },
-  {
     "itemId": "MLB3995123939",
     "productKey": "168be902fe1cd973",
     "titleHash": "338136e26add6b14",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-11T01:46:35.498Z"
+  },
+  {
+    "itemId": "MLB6796041994",
+    "productKey": "b38c37fa3a07a180",
+    "titleHash": "0718e90e7c453389",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-11T02:16:33.381Z"
+  },
+  {
+    "itemId": "MLB4747976917",
+    "productKey": "1c0c2cfead503f62",
+    "titleHash": "4092e4d6763c3705",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-11T02:16:33.381Z"
   }
 ]
