@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5205651427",
-    "productKey": "e360a2fb4273b6b3",
-    "titleHash": "8ab2d80a6d345a2e",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-07T04:01:46.848Z"
-  },
-  {
-    "itemId": "MLB5008821409",
-    "productKey": "06651e2562cbb16b",
-    "titleHash": "827ce4bd52859f56",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-07T04:16:32.640Z"
-  },
-  {
     "itemId": "MLB5958007106",
     "productKey": "9d589fd67793b096",
     "titleHash": "500a0545e991dccb",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-11T11:16:38.054Z"
+  },
+  {
+    "itemId": "MLB4513056610",
+    "productKey": "a6c9a899dbe6cf71",
+    "titleHash": "6733c606fc453816",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-11T11:31:38.413Z"
+  },
+  {
+    "itemId": "MLB5534943657",
+    "productKey": "690d29606093b12a",
+    "titleHash": "eff4b6f329165dbf",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-11T11:31:38.413Z"
   }
 ]
