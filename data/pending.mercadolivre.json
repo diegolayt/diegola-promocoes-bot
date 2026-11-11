@@ -1,0 +1,301 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4676875745",
+      "site_id": "MLB",
+      "seller_id": 2287505909,
+      "accepts_mercadopago": true,
+      "price": 2857.29,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 7100,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDUxMjY",
+          "name": "Vila Zelina"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3971208466",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB68533678",
+      "title": "Drone DJI Lito 1 Standard Combo, com câmera e vídeo 4K, imagem 8K, fácil de usar para iniciantes, detecção de obstáculos, ActiveTrack, leve e dobrável, transmissão de vídeo de até 15 km - DJI079",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_607088-MLA114010351917_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB68533678",
+      "id": "MLB4676875745",
+      "sold_quantity": 100,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    },
+    {
+      "item_id": "MLB3893321459",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 37.69,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "first_party",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 74.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU600393898",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19195590",
+      "title": "A cabeça do santo - Acioli, Socorro - Companhia das Letras - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_971298-MLA113307073143_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19195590",
+      "id": "MLB3893321459",
+      "sold_quantity": 200,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    },
+    {
+      "item_id": "MLB2098257351",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 799,
+      "category_id": "MLB120294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "1p_5x_campaign",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "dynamic_standard_price",
+        "standard_price_by_quantity",
+        "first_party",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 1199,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU599872070",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18611173",
+      "title": "Lavadora de Alta Pressão Kärcher K5 2100 PSI 380L/h 1900W Motor Indução Com Jato Turbo Rotativo e Lança Leque",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_724354-MLA99989590201_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18611173",
+      "id": "MLB2098257351",
+      "sold_quantity": 100,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB7500254644",
+      "site_id": "MLB",
+      "seller_id": 425837278,
+      "accepts_mercadopago": true,
+      "price": 89.99,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "meli_facilities_out_of_stock",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 223704,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDFvOW8x",
+          "name": "Vila Bertioga"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4902019867",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26988439",
+      "title": "Câmera De Segurança Wifi Yoosee Externa Mini Dome Full Hd Infravermelho Prova D'água Woosh",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_660918-MLA117911296795_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26988439",
+      "id": "MLB7500254644",
+      "sold_quantity": 400,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-11T15:31:30.418Z"
+}

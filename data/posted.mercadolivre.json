@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7952810348",
-    "productKey": "104c62f84f8d85e8",
-    "titleHash": "2f2b1411898660ab",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-07T07:31:34.259Z"
-  },
-  {
-    "itemId": "MLB5497688281",
-    "productKey": "93b7bac13b7f16c9",
-    "titleHash": "125cb0542fdbeae6",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-07T07:46:31.832Z"
-  },
-  {
-    "itemId": "MLB2760684440",
-    "productKey": "4ae6c04be37129cb",
-    "titleHash": "4b5a0e421d4a8abf",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-07T08:01:41.408Z"
-  },
-  {
-    "itemId": "MLB6408226600",
-    "productKey": "ffd2dbac1d847a7c",
-    "titleHash": "67c115b7fb500dc9",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-07T08:16:34.823Z"
-  },
-  {
     "itemId": "MLB4190456415",
     "productKey": "6a0f3de508245dc1",
     "titleHash": "ae7ee8f191bd670b",
@@ -4798,5 +4766,37 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-11T15:16:42.206Z"
+  },
+  {
+    "itemId": "MLB4676875745",
+    "productKey": "0a78d5595a81cc3e",
+    "titleHash": "60c69a8f7144b791",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-11T15:31:30.416Z"
+  },
+  {
+    "itemId": "MLB3893321459",
+    "productKey": "5f597bedc380031e",
+    "titleHash": "d56fe2e6d0e1307b",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-11T15:31:30.416Z"
+  },
+  {
+    "itemId": "MLB2098257351",
+    "productKey": "c2457725cf12a128",
+    "titleHash": "3362480f1a57cb0a",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-11T15:31:30.416Z"
+  },
+  {
+    "itemId": "MLB7500254644",
+    "productKey": "23ecfda2f3afa8ab",
+    "titleHash": "67045221e5f6d083",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-11T15:31:30.416Z"
   }
 ]
