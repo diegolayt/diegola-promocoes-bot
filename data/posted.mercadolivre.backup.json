@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5597479444",
-    "productKey": "e2501bd4ef202aaa",
-    "titleHash": "7a4dfed420269918",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-07T19:31:39.601Z"
-  },
-  {
     "itemId": "MLB5243355351",
     "productKey": "08ad8900369f6d2b",
     "titleHash": "440a820104a3d216",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-11T23:16:36.922Z"
+  },
+  {
+    "itemId": "MLB5800043516",
+    "productKey": "db0638517b0c4427",
+    "titleHash": "45d361ba93463419",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-11T23:31:45.322Z"
   }
 ]
