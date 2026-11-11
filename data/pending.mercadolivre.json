@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5940016354",
+      "site_id": "MLB",
+      "seller_id": 208339111,
+      "accepts_mercadopago": true,
+      "price": 86.9,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 634,
+      "original_price": 174.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUmVnaXN0cm9UVXhDVUZOQlQwODVOMkU0",
+          "name": "Registro"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVVtVm5hWE4wY205VVZYa",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3546631444",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62797467",
+      "title": "Floratta Flores Secretas 75ml O Boticário Feminino",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_889465-MLA99767551238_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62797467",
+      "id": "MLB5940016354",
+      "sold_quantity": 1700,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7966559392",
+      "site_id": "MLB",
+      "seller_id": 3403539152,
+      "accepts_mercadopago": true,
+      "price": 550.99,
+      "category_id": "MLB23332",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 60386,
+      "original_price": 579.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYVmFzc291cmFzVFV4Q1VGSkpUMDh4T0RNN",
+          "name": "Vassouras"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVZtRnpjMjkxY21GelZGV",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5628869444",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18605733",
+      "title": "Vans UltraRange Rapidweld Adultos",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_664503-MLU79261871661_092024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18605733",
+      "id": "MLB7966559392",
+      "sold_quantity": 100,
+      "rotationCategory": "masculino",
+      "sourceCategoryId": "MLB23332",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-11T22:46:35.000Z"
+}
