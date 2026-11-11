@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4468745869",
+      "site_id": "MLB",
+      "seller_id": 668432476,
+      "accepts_mercadopago": true,
+      "price": 1299,
+      "category_id": "MLB7072",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3296,
+      "original_price": 1893.69,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [
+          "lost_me2_by_dimensions"
+        ],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTlkMjJj",
+          "name": "Itajaí"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTERBMDg4",
+          "name": "Salseiros"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3787634138",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65348994",
+      "title": "Freezer Horizontal 142l Inverter Bivolt Branco Midea",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_650821-MLA106740367971_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65348994",
+      "id": "MLB4468745869",
+      "sold_quantity": 900,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-11T01:16:33.640Z"
+}
