@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7868134268",
-    "productKey": "3ed7b92c0154e927",
-    "titleHash": "0466b60bc5a92820",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-07T23:46:29.347Z"
-  },
-  {
-    "itemId": "MLB4645451007",
-    "productKey": "439eedc782437843",
-    "titleHash": "c770bbd6140c471d",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-08T00:01:44.736Z"
-  },
-  {
     "itemId": "MLB6863050262",
     "productKey": "a56325cf90bab0f5",
     "titleHash": "dc5cb19db2f1630b",
@@ -4798,5 +4782,21 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-11-12T04:01:42.299Z"
+  },
+  {
+    "itemId": "MLB6361515378",
+    "productKey": "e99726c12745d0a4",
+    "titleHash": "8b80f8f23c3c0fbd",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-12T04:16:35.006Z"
+  },
+  {
+    "itemId": "MLB7980644110",
+    "productKey": "0da42abc4e07efc8",
+    "titleHash": "583334eed73b7bc4",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-12T04:16:35.006Z"
   }
 ]
