@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4755555056",
-    "productKey": "f170975c8b48cfc2",
-    "titleHash": "acc952b54c0303a3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-08T05:31:38.858Z"
-  },
-  {
-    "itemId": "MLB5131539393",
-    "productKey": "3472274b89b121ef",
-    "titleHash": "e4b1ad14a95f048b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-08T05:31:38.858Z"
-  },
-  {
     "itemId": "MLB4962524945",
     "productKey": "f3ed58a1077cc9a4",
     "titleHash": "4fe7f450f5d9b4c0",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-12T09:46:33.842Z"
+  },
+  {
+    "itemId": "MLB4796650833",
+    "productKey": "4cb2fbc1138054c4",
+    "titleHash": "c416098da5ca170f",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-12T10:02:00.011Z"
+  },
+  {
+    "itemId": "MLB5546312475",
+    "productKey": "4cd18a53d086abb4",
+    "titleHash": "dd83459a203e4e57",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-12T10:02:00.011Z"
   }
 ]
