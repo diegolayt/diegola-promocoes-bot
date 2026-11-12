@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6400344928",
-    "productKey": "d6cc0984381470cf",
-    "titleHash": "a33e46855fcff71c",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-08T11:16:35.154Z"
-  },
-  {
     "itemId": "MLB5934587642",
     "productKey": "4c9a2bafeaf753b6",
     "titleHash": "17682e2f317c0d59",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-12T14:01:48.238Z"
+  },
+  {
+    "itemId": "MLB5800037458",
+    "productKey": "b6d1cedb49d30deb",
+    "titleHash": "51bd3c9452ef23f3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-12T14:16:39.157Z"
   }
 ]
