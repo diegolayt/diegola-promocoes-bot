@@ -1,0 +1,246 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4206531541",
+      "site_id": "MLB",
+      "seller_id": 777338596,
+      "accepts_mercadopago": true,
+      "price": 145.47,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5622,
+      "original_price": 379.71,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTc2MDI",
+          "name": "Campinas"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBTTQzMTA",
+          "name": "Cambuí"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3407865324",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54411536",
+      "title": "Jogo Sonic Racing Crossworlds Launch Edition Ps5 Fisico",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_804107-MLA99531106678_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54411536",
+      "id": "MLB4206531541",
+      "sold_quantity": 1300,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6638081262",
+      "site_id": "MLB",
+      "seller_id": 1712013823,
+      "accepts_mercadopago": true,
+      "price": 179.45,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "content_editable",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 506402,
+      "original_price": 219.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJhcmFzVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Araras"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3747150076",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62276281",
+      "title": "Conjunto de panelas antiaderente 10 peças Coffee cappuccino Imperial",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_881674-MLA106260237067_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62276281",
+      "id": "MLB6638081262",
+      "sold_quantity": 900,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB3143183122",
+      "site_id": "MLB",
+      "seller_id": 323697852,
+      "accepts_mercadopago": true,
+      "price": 99.9,
+      "category_id": "MLB107501",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "brand_verified",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1117,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lQQTYxODQxOQ",
+          "name": "Ipameri"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBVjgxNzIxMQ",
+          "name": "Cavalheiro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1089336081",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19976500",
+      "title": "Panela De Pressão Panelux Alumínio Polido 7 Litros Cor Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_844741-MLA100054735233_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19976500",
+      "id": "MLB3143183122",
+      "sold_quantity": 800,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-12T21:31:42.407Z"
+}

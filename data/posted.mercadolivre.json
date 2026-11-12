@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5121690211",
-    "productKey": "d947d4019fef538b",
-    "titleHash": "0c72f8035670cde0",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-08T22:46:37.634Z"
-  },
-  {
-    "itemId": "MLB5149958669",
-    "productKey": "0c0436ea74e14fa2",
-    "titleHash": "d846edc6340a40b5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-08T22:46:37.634Z"
-  },
-  {
-    "itemId": "MLB5383758300",
-    "productKey": "07f1520aa80ab712",
-    "titleHash": "bc8ac8efca670c74",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-08T22:46:37.634Z"
-  },
-  {
     "itemId": "MLB4469987063",
     "productKey": "f1255b142391a03a",
     "titleHash": "7d49c45a00f35da1",
@@ -4798,5 +4774,29 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-12T21:16:31.686Z"
+  },
+  {
+    "itemId": "MLB4206531541",
+    "productKey": "f2ec400f7267583a",
+    "titleHash": "919881ee23b2a429",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-12T21:31:42.405Z"
+  },
+  {
+    "itemId": "MLB6638081262",
+    "productKey": "f68a711c1d7c3bb7",
+    "titleHash": "9d2ecb424ee4a5b2",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-12T21:31:42.405Z"
+  },
+  {
+    "itemId": "MLB3143183122",
+    "productKey": "f957ab0d39b2d366",
+    "titleHash": "b1c4d572f20022fd",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-12T21:31:42.405Z"
   }
 ]
