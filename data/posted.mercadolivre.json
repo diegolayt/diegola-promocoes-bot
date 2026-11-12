@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3846575151",
-    "productKey": "2ba242383bfef56e",
-    "titleHash": "cb8c5b3b8c06dad6",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-07T23:16:29.370Z"
-  },
-  {
     "itemId": "MLB5062883069",
     "productKey": "e2dcc38535954264",
     "titleHash": "a0b956df4863c867",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-12T03:01:43.716Z"
+  },
+  {
+    "itemId": "MLB7854138028",
+    "productKey": "f28c430b2349dd9d",
+    "titleHash": "cbc14ed247b8b10d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-12T03:16:39.116Z"
   }
 ]
