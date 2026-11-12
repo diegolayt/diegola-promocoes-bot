@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7736493970",
-    "productKey": "4e0745be82026c1f",
-    "titleHash": "95ec9b254759a637",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-08T07:31:36.134Z"
-  },
-  {
-    "itemId": "MLB4733868672",
-    "productKey": "6f3a85ca31e96116",
-    "titleHash": "e32c2e9cfc629a6c",
-    "category": "colchão",
-    "sourceCategoryId": "MLB438928",
-    "reservedAt": "2026-11-08T07:31:36.134Z"
-  },
-  {
-    "itemId": "MLB4803658086",
-    "productKey": "10e676d7f3f50b79",
-    "titleHash": "5fcbeacd68177048",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-08T07:46:35.246Z"
-  },
-  {
     "itemId": "MLB6167651244",
     "productKey": "e1fa6b0d5edc06a7",
     "titleHash": "097fe77015697a11",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-12T11:16:37.132Z"
+  },
+  {
+    "itemId": "MLB4035332659",
+    "productKey": "3f468fe7d81ead30",
+    "titleHash": "a0e7068095171d6a",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-12T11:31:38.177Z"
+  },
+  {
+    "itemId": "MLB7685286148",
+    "productKey": "97793b46b1ed0e13",
+    "titleHash": "ba9b4acf5fd20f0e",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-12T11:31:38.178Z"
+  },
+  {
+    "itemId": "MLB4224352751",
+    "productKey": "bc922e227b5800ba",
+    "titleHash": "383be87347b82975",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-12T11:31:38.178Z"
   }
 ]
