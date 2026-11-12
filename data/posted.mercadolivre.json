@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5475613191",
-    "productKey": "55165ae4e873b412",
-    "titleHash": "e06ec53a634432a7",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-07T20:31:40.640Z"
-  },
-  {
     "itemId": "MLB5738738172",
     "productKey": "9eb5fc3ffddd6db0",
     "titleHash": "945f28db261b2b05",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-12T00:16:38.260Z"
+  },
+  {
+    "itemId": "MLB5316361707",
+    "productKey": "c226456043f016a9",
+    "titleHash": "8cec1742dfa829f9",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-12T00:31:44.537Z"
   }
 ]
