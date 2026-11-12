@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5701841518",
-    "productKey": "e47e31aa7f0f7ddf",
-    "titleHash": "753d54b2272a6993",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-08T16:46:30.590Z"
-  },
-  {
     "itemId": "MLB5885455180",
     "productKey": "c1bf359324948ad4",
     "titleHash": "a32da22d3cf3636d",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-12T18:01:44.505Z"
+  },
+  {
+    "itemId": "MLB4080129257",
+    "productKey": "af820b348134d83b",
+    "titleHash": "d493cf2c7041c857",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-12T18:16:32.580Z"
   }
 ]
