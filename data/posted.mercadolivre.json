@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7168974918",
-    "productKey": "04168d7af042a735",
-    "titleHash": "cd6447da33f541b3",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-07T23:16:29.370Z"
-  },
-  {
-    "itemId": "MLB7742862988",
-    "productKey": "ab7a06687d5141b6",
-    "titleHash": "90a8b50e660fc297",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-07T23:31:37.560Z"
-  },
-  {
     "itemId": "MLB6972021044",
     "productKey": "5a24c3485e043a19",
     "titleHash": "ca2038c29bdfa6f9",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-12T03:31:39.621Z"
+  },
+  {
+    "itemId": "MLB4361263765",
+    "productKey": "238090adb5a1bf75",
+    "titleHash": "246588000d56eb53",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-12T03:46:28.663Z"
+  },
+  {
+    "itemId": "MLB7937784868",
+    "productKey": "46cec00d9e0b5a50",
+    "titleHash": "4f85cab96929a066",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-12T03:46:28.663Z"
   }
 ]
