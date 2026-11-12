@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3779452325",
+      "site_id": "MLB",
+      "seller_id": 185638169,
+      "accepts_mercadopago": true,
+      "price": 478,
+      "category_id": "MLB73057",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "good_quality_thumbnail",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 874,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 19.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBPUkJFODUy",
+          "name": "Portal de Jacaraípe"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1982297602",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19104021",
+      "title": "Micro-ondas MO-01-21-W 1200W Mondial",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_971379-MLA99957853113_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19104021",
+      "id": "MLB3779452325",
+      "sold_quantity": 1500,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-11-12T00:01:46.583Z"
+}
