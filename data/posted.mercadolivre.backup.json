@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7459652848",
-    "productKey": "308da311e0fa26e0",
-    "titleHash": "d31d3cd00820bae0",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-08T08:16:36.990Z"
-  },
-  {
-    "itemId": "MLB1773187667",
-    "productKey": "7c494d380cc182d3",
-    "titleHash": "052984b30e7c5011",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-08T08:31:34.074Z"
-  },
-  {
     "itemId": "MLB5466766687",
     "productKey": "fe3916e4145f9c4c",
     "titleHash": "446d0c834ed457eb",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-12T12:01:49.162Z"
+  },
+  {
+    "itemId": "MLB5039804027",
+    "productKey": "67b41de77f6e8bb3",
+    "titleHash": "25cf7e816ba7fd15",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-12T12:16:40.803Z"
+  },
+  {
+    "itemId": "MLB5433764082",
+    "productKey": "d421a9ac96991e1e",
+    "titleHash": "dd4ff27b0e780d50",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-12T12:16:40.804Z"
   }
 ]
