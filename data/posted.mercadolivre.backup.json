@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3091503617",
-    "productKey": "50811f927d6a844d",
-    "titleHash": "a24ae796cebc9cc5",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-08T09:16:37.588Z"
-  },
-  {
-    "itemId": "MLB6028788536",
-    "productKey": "43b0befb3bd6951c",
-    "titleHash": "e5c7b1be01891d5c",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-11-08T09:16:37.588Z"
-  },
-  {
     "itemId": "MLB6078965222",
     "productKey": "5fe28540bf3f91b2",
     "titleHash": "3b148e7c8dbd8e6f",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-12T12:46:33.798Z"
+  },
+  {
+    "itemId": "MLB5410852112",
+    "productKey": "68616dd501c539e3",
+    "titleHash": "f40968a9ec38373d",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-12T13:01:49.717Z"
+  },
+  {
+    "itemId": "MLB5210029249",
+    "productKey": "f1eff9eced4a288f",
+    "titleHash": "cc08d37274c23394",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-12T13:01:49.717Z"
   }
 ]
