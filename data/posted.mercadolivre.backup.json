@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7138654316",
-    "productKey": "d9f9ebef6ca08a2f",
-    "titleHash": "ffe4bcc70178fb4b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-09T00:16:34.210Z"
-  },
-  {
-    "itemId": "MLB5349190853",
-    "productKey": "d042f8f81af2c69f",
-    "titleHash": "f8fc4194f2663a29",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-09T00:16:34.210Z"
-  },
-  {
-    "itemId": "MLB5452462868",
-    "productKey": "9d501d04b619787b",
-    "titleHash": "60b43647216b307c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-09T00:31:43.685Z"
-  },
-  {
     "itemId": "MLB7757909694",
     "productKey": "56f0f6fb5de28aa1",
     "titleHash": "bb0018a3ebb15338",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-12T22:16:31.845Z"
+  },
+  {
+    "itemId": "MLB3630523371",
+    "productKey": "0c0436ea74e14fa2",
+    "titleHash": "d846edc6340a40b5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-12T22:31:34.863Z"
+  },
+  {
+    "itemId": "MLB5929486360",
+    "productKey": "3ae67792fdb583fa",
+    "titleHash": "25054d9ac727dd22",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-12T22:31:34.863Z"
+  },
+  {
+    "itemId": "MLB4434672939",
+    "productKey": "d947d4019fef538b",
+    "titleHash": "0c72f8035670cde0",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-12T22:31:34.863Z"
   }
 ]
