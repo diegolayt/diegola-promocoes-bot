@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4243087779",
-    "productKey": "24d6a63070e9986c",
-    "titleHash": "8619082c61209216",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-08T00:01:44.736Z"
-  },
-  {
     "itemId": "MLB2797976958",
     "productKey": "6cb1243c40624794",
     "titleHash": "86b6e248994c6e5b",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-12T04:31:35.531Z"
+  },
+  {
+    "itemId": "MLB5973456216",
+    "productKey": "93f3f56dee4a0384",
+    "titleHash": "60f6761a38375cf5",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-12T04:46:32.249Z"
   }
 ]
