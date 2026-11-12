@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3798032968",
-    "productKey": "873a360bbc93b276",
-    "titleHash": "f286bb4769ccb2ae",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-08T03:16:34.929Z"
-  },
-  {
-    "itemId": "MLB5482696681",
-    "productKey": "e5305c49d8f1eb4e",
-    "titleHash": "09eabbd6fa83e9cf",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-08T03:31:34.707Z"
-  },
-  {
-    "itemId": "MLB7779094920",
-    "productKey": "4d99ade24a114ecb",
-    "titleHash": "a60d5254dc087834",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-08T03:46:30.670Z"
-  },
-  {
     "itemId": "MLB3481515593",
     "productKey": "f7f7d61f6c30c3c5",
     "titleHash": "bd2c5073c62b4ca3",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-12T07:31:42.455Z"
+  },
+  {
+    "itemId": "MLB5597479444",
+    "productKey": "e2501bd4ef202aaa",
+    "titleHash": "7a4dfed420269918",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-12T07:46:32.145Z"
+  },
+  {
+    "itemId": "MLB4527837545",
+    "productKey": "7e5eeb5fc2da9a55",
+    "titleHash": "6ab4b45d11833727",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-12T07:46:32.145Z"
+  },
+  {
+    "itemId": "MLB6213979100",
+    "productKey": "7b9361588a17275b",
+    "titleHash": "ae5e4745726c0427",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-12T07:46:32.145Z"
   }
 ]
