@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4935566078",
-    "productKey": "7262ef56ea36d241",
-    "titleHash": "3d0acc5ed8d2644f",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-08T20:16:29.420Z"
-  },
-  {
-    "itemId": "MLB7366888370",
-    "productKey": "b912948cf9b5e753",
-    "titleHash": "4f9c8fc996431b26",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-08T20:31:45.533Z"
-  },
-  {
-    "itemId": "MLB5470858709",
-    "productKey": "11e5eb85396537bf",
-    "titleHash": "46a1fc3e8cf8edf8",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-08T20:46:32.617Z"
-  },
-  {
     "itemId": "MLB6070338240",
     "productKey": "da452a29d07592e5",
     "titleHash": "c09bfcf6c8bdf349",
@@ -4798,5 +4774,29 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-12T19:31:49.275Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-12T19:46:38.397Z"
+  },
+  {
+    "itemId": "MLB5315663409",
+    "productKey": "5daa8738665d0228",
+    "titleHash": "e65fc7f7467e397e",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-12T19:46:38.398Z"
+  },
+  {
+    "itemId": "MLB5328110041",
+    "productKey": "7c1203a2803ba98c",
+    "titleHash": "c471681ba2f9bd71",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-12T19:46:38.398Z"
   }
 ]
