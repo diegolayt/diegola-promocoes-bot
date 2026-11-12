@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7339961302",
+      "site_id": "MLB",
+      "seller_id": 2399798760,
+      "accepts_mercadopago": true,
+      "price": 189.99,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "lightning_deal",
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "proximity_off",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJFTHJ6MTht",
+          "name": "Belenzinho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3951736849",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB76223619",
+      "title": "Relógio Inteligente Smartwatch Gps Autônomo IP68 3ATM À prova dágua 850mAh Preto NOVANTE Digital Feminino Masculino Esportivo Android IOS Notificações Instantâneas Bluetooth Chamadas Lanterna Bússola",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_692805-MLA115517949733_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB76223619",
+      "id": "MLB7339961302",
+      "sold_quantity": 700,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB7691573592",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 314.74,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "first_party",
+        "dynamic_standard_price",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2114,
+      "original_price": 349.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4820559641",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB34233590",
+      "title": "Ventilador Arno X-treme 9 Mesa 40cm Ve90",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_686594-MLA99930624347_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB34233590",
+      "id": "MLB7691573592",
+      "sold_quantity": 300,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB5546562893",
+      "site_id": "MLB",
+      "seller_id": 3796424361,
+      "accepts_mercadopago": true,
+      "price": 2429.15,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "kvs_primary",
+        "immediate_payment"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 2529.15,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "not_specified",
+        "logistic_type": "not_specified",
+        "tags": [
+          "lost_me2_by_dimensions"
+        ],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBSQUEzNTg2",
+          "name": "Prado Velho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5888031424",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB57348431",
+      "title": "Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_648570-MLA99962182477_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB57348431",
+      "id": "MLB5546562893",
+      "sold_quantity": 1800,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-12T02:46:31.845Z"
+}
