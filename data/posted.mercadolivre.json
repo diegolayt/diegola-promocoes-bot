@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5324538773",
-    "productKey": "2f98261615449fda",
-    "titleHash": "282883ce1da376df",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-08T19:46:29.786Z"
-  },
-  {
     "itemId": "MLB4935566078",
     "productKey": "7262ef56ea36d241",
     "titleHash": "3d0acc5ed8d2644f",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-12T19:16:38.594Z"
+  },
+  {
+    "itemId": "MLB5885455180",
+    "productKey": "c1bf359324948ad4",
+    "titleHash": "a32da22d3cf3636d",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-12T19:31:49.275Z"
   }
 ]
