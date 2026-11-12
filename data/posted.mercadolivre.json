@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3525364839",
-    "productKey": "f8b4730edfd7a1c2",
-    "titleHash": "16dd35246dab9fd4",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-08T15:01:49.722Z"
-  },
-  {
-    "itemId": "MLB7953307748",
-    "productKey": "a9dd8ff2b914849e",
-    "titleHash": "bf0fa0934c37b081",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-08T15:01:49.722Z"
-  },
-  {
-    "itemId": "MLB7953679412",
-    "productKey": "0c50fbe1ab1492a5",
-    "titleHash": "08c42f6b7de828d4",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-08T15:16:35.348Z"
-  },
-  {
-    "itemId": "MLB7957609350",
-    "productKey": "e83744dfb605c176",
-    "titleHash": "91b7e2c79272f4b5",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-08T15:16:35.349Z"
-  },
-  {
     "itemId": "MLB5329092593",
     "productKey": "b46a61b0caa2d1c3",
     "titleHash": "f358d0344c759159",
@@ -4798,5 +4766,37 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-12T17:01:44.848Z"
+  },
+  {
+    "itemId": "MLB7061680590",
+    "productKey": "ef90c56f8a5cdb44",
+    "titleHash": "cc4fc57fca2a93d2",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-12T17:16:39.358Z"
+  },
+  {
+    "itemId": "MLB5652727666",
+    "productKey": "2db0bb2ae6da5aa1",
+    "titleHash": "5e8baeb24f7da5a4",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-12T17:16:39.358Z"
+  },
+  {
+    "itemId": "MLB5520821997",
+    "productKey": "d024777c1c0be8fe",
+    "titleHash": "842345c7a771c0fe",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-12T17:16:39.358Z"
+  },
+  {
+    "itemId": "MLB5478170941",
+    "productKey": "047b8841586368ce",
+    "titleHash": "d0d73644404827f4",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-12T17:16:39.358Z"
   }
 ]

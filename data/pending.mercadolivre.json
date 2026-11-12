@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7061680590",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 5460.97,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "dynamic_standard_price",
+        "first_party",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2962,
+      "original_price": 10499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU4101373771",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45502333",
+      "title": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. - Titanium Silverblue",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_872724-MLA94924325982_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45502333",
+      "id": "MLB7061680590",
+      "sold_quantity": 200,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB5652727666",
+      "site_id": "MLB",
+      "seller_id": 726591607,
+      "accepts_mercadopago": true,
+      "price": 44.9,
+      "category_id": "MLB117801",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 191282,
+      "original_price": 67.58,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUmZ0MW4z",
+          "name": "Jardim Cumbica"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3389024707",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54153222",
+      "title": "Festão Aramado Natal Grosso 2,70 Metros C/ 300 Galhos Cheios Flexível Decoração - Dekasa",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_808705-MLA116828761057_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54153222",
+      "id": "MLB5652727666",
+      "sold_quantity": 1100,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5520821997",
+      "site_id": "MLB",
+      "seller_id": 3611628051,
+      "accepts_mercadopago": true,
+      "price": 75.9,
+      "category_id": "MLB200339",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 142,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 9.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5186728619",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB56546186",
+      "title": "Bioré Óleo Demaquilante Facial Cleansing Oil Original 230ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_855741-MLA119030355352_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB56546186",
+      "id": "MLB5520821997",
+      "sold_quantity": 1900,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5478170941",
+      "site_id": "MLB",
+      "seller_id": 1994465964,
+      "accepts_mercadopago": true,
+      "price": 129.9,
+      "category_id": "MLB9203",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0FSQTJjNDc5",
+          "name": "Araguaína"
+        },
+        "state": {
+          "id": "TUxCUFRPQ1NjZDBm",
+          "name": "Tocantins"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNFVDdEMTA2",
+          "name": "Setor Brasil"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5682931283",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27282051",
+      "title": "2 Pneus Aro 29x2.10 Eruption Levorin Bicicleta Mtb Balão Cor Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_925755-MLA95495291956_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27282051",
+      "id": "MLB5478170941",
+      "sold_quantity": 600,
+      "rotationCategory": "ciclismo",
+      "sourceCategoryId": "MLB1292",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-12T17:16:39.361Z"
+}
