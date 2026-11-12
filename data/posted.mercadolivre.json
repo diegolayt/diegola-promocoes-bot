@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6222806226",
-    "productKey": "110c81276c079aea",
-    "titleHash": "b5237db00758c38a",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-08T14:16:35.136Z"
-  },
-  {
-    "itemId": "MLB4516189673",
-    "productKey": "490cecdfbaa48fb2",
-    "titleHash": "2d4e78b24cd92766",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-08T14:31:39.186Z"
-  },
-  {
     "itemId": "MLB7845010388",
     "productKey": "beff4cef257732ed",
     "titleHash": "11fa0ab13597eab7",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-12T16:01:36.090Z"
+  },
+  {
+    "itemId": "MLB4380193271",
+    "productKey": "72b7cef030af8966",
+    "titleHash": "ec8e0290da246cae",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-12T16:16:37.214Z"
+  },
+  {
+    "itemId": "MLB5554213538",
+    "productKey": "d5416cabd8241d2f",
+    "titleHash": "a1c33e89dde3ef8a",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-12T16:16:37.215Z"
   }
 ]
