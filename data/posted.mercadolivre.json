@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5062883069",
-    "productKey": "e2dcc38535954264",
-    "titleHash": "a0b956df4863c867",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-07T23:16:29.370Z"
-  },
-  {
     "itemId": "MLB7168974918",
     "productKey": "04168d7af042a735",
     "titleHash": "cd6447da33f541b3",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-12T03:16:39.116Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-12T03:31:39.621Z"
   }
 ]
