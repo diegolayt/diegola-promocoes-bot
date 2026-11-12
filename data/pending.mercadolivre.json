@@ -1,0 +1,167 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3403041125",
+      "site_id": "MLB",
+      "seller_id": 72659929,
+      "accepts_mercadopago": true,
+      "price": 392.02,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "good_quality_thumbnail",
+        "kit_component",
+        "kvs_primary",
+        "standard_price_by_channel",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 483.98,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping",
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTUzMDE",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQk3JSTI3MTY",
+          "name": "Méier"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1985097220",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35376421",
+      "title": "Kérastase Nutritive Masquintense Máscara de Nutrição Profunda, Cabelo Seco de Fino a Médio, Complexo Vitamínico, Proteínas de Origem Vegetal e Niacinamida, 200 ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_627616-MLA99439270890_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35376421",
+      "id": "MLB3403041125",
+      "sold_quantity": 200,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5310339963",
+      "site_id": "MLB",
+      "seller_id": 311895197,
+      "accepts_mercadopago": true,
+      "price": 1959.9,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 24 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1493,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [
+          "optional_me1_chosen"
+        ],
+        "cost": 99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NJTWUyMzlm",
+          "name": "Simões Filho"
+        },
+        "state": {
+          "id": "TUxCUEJBSEFlYmEx",
+          "name": "Bahia"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 24,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "24 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3211971880",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36579268",
+      "title": "Máquina de Lavar 15kg Electrolux Premium Care com Cesto Inox, Jet&Clean e Time Control LEC15",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_904132-MLA99986926583_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36579268",
+      "id": "MLB5310339963",
+      "sold_quantity": 1400,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-12T15:46:37.670Z"
+}
