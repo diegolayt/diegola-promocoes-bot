@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7979995726",
+      "site_id": "MLB",
+      "seller_id": 2630486471,
+      "accepts_mercadopago": true,
+      "price": 784,
+      "category_id": "MLB180387",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 930,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkxJTTUyNzE",
+          "name": "Limão"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5887465506",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23463576",
+      "title": "Purificador de Água Consul Branco/Prata CPB34ASVNA",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_946189-MLA115405170646_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23463576",
+      "id": "MLB7979995726",
+      "sold_quantity": 1100,
+      "rotationCategory": "purificador",
+      "sourceCategoryId": "MLB21171",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-11-12T23:16:36.345Z"
+}
