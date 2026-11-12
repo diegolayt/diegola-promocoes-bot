@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7845010388",
-    "productKey": "beff4cef257732ed",
-    "titleHash": "11fa0ab13597eab7",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-08T14:31:39.186Z"
-  },
-  {
-    "itemId": "MLB7911669844",
-    "productKey": "12bdcfabca3caf4e",
-    "titleHash": "f71509e0a3defcad",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-08T14:31:39.186Z"
-  },
-  {
     "itemId": "MLB4434501609",
     "productKey": "54d8ded816bc0b69",
     "titleHash": "bc329b0a74bc1a74",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-12T16:16:37.215Z"
+  },
+  {
+    "itemId": "MLB3988846231",
+    "productKey": "58408d4b8d164d44",
+    "titleHash": "70b737e1b7d26e39",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-12T16:31:38.972Z"
+  },
+  {
+    "itemId": "MLB5292489135",
+    "productKey": "ef60b543f7ca8673",
+    "titleHash": "4ca12211160412ec",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-12T16:31:38.972Z"
   }
 ]
