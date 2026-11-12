@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5496026926",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 3599.99,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 199,
+      "original_price": 5634.88,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3296212760",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24044937",
+      "title": "Philco geladeira inverter frost free PRF535I inox com freezer 437l",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_717199-MLA100035736549_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24044937",
+      "id": "MLB5496026926",
+      "sold_quantity": 800,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    },
+    {
+      "item_id": "MLB4803519829",
+      "site_id": "MLB",
+      "seller_id": 72756807,
+      "accepts_mercadopago": true,
+      "price": 235.99,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYw4FsdmFyZXMgTWFjaGFkb1RVeENVRk5CV",
+          "name": "Álvares Machado"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4146974362",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43319779",
+      "title": "Smartwatch Xiaomi Redmi Watch 5 Active Tela Lcd 2.00 Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_683244-MLA117953297072_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43319779",
+      "id": "MLB4803519829",
+      "sold_quantity": 1400,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-12T21:46:38.007Z"
+}
