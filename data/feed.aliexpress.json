@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005012035735752",
+  "loja": "aliexpress",
+  "titulo": "SZSJKJ X99 Kit de placa-mãe LGA2011-3 Slot C612 Chipset M.2 NVME USB3.0 com CPU Xeon E5 2682 com suporte a memória DDR4 TPM2.0",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdc043051aeee498dbf4b64031c6e9a42R.jpg",
+  "preco": 319.39,
+  "precoDe": 1206.31,
+  "link": "https://s.click.aliexpress.com/e/_c4WHoFAj",
+  "vendidos": 197,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-12T13:31:01.418Z"
+ },
+ {
+  "id": "aliexpress-1005012343017241",
+  "loja": "aliexpress",
+  "titulo": "Processador Usado AMD Ryzen 5 PRO 2400G R5 PRO 2400G 3.6 GHz Quad-Core Oito Threads 65W CPU Socket AM4",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scfbf2d31bfb44c7093b4de3a80f514bah.jpg",
+  "preco": 295.45,
+  "precoDe": 590.9,
+  "link": "https://s.click.aliexpress.com/e/_c42olUAB",
+  "vendidos": 45,
+  "nota": 4.6,
+  "categoria": "Informática",
+  "fonte": "ali_processador",
+  "publicadoEm": "2026-11-12T13:30:52.770Z"
+ },
+ {
+  "id": "aliexpress-1005001645351303",
+  "loja": "aliexpress",
+  "titulo": "KingSpec DDR4 DDR5 16GB Memória RAM DDR4 SODIMM 8gb 32GB 3200MHz 4800MHz 5600MHz 1.1V RAM para Laptop Notebook Memoria",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se5717e8b5b17479fa911ef77184e3539x.jpg",
+  "preco": 648.56,
+  "precoDe": 1201,
+  "link": "https://s.click.aliexpress.com/e/_c3NgJoKP",
+  "vendidos": 431,
+  "nota": 4.7,
+  "categoria": "Informática",
+  "fonte": "ali_ram_notebook",
+  "publicadoEm": "2026-11-12T13:30:44.470Z"
+ },
+ {
+  "id": "aliexpress-1005007131783244",
+  "loja": "aliexpress",
+  "titulo": "Placa-mãe MACHINIST White X99 PR9-H Combo com Intel Xeon E5 2630 V4 LGA 2011-3 CPU, RAM DDR4 16GB, NVME M.2, Kit Opcional",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa1c433f1e89e4ecc8c5ad27501125e71j.jpg",
+  "preco": 272.71,
+  "precoDe": 699.26,
+  "link": "https://s.click.aliexpress.com/e/_c3Ueh8c3",
+  "vendidos": 339,
+  "nota": 4.7,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-11-12T13:30:37.639Z"
+ },
+ {
   "id": "aliexpress-1005005443088957",
   "loja": "aliexpress",
   "titulo": "Netac-Disco rígido interno de estado sólido, SSD NVMe, NVMe, M2, 250GB, 500GB, 1TB, 2TB, M.2 2280, PCIe, Laptop, Desktop",
@@ -11193,34 +11249,6 @@
   "publicadoEm": "2026-11-10T10:46:00.320Z"
  },
  {
-  "id": "aliexpress-1005012035735752",
-  "loja": "aliexpress",
-  "titulo": "SZSJKJ X99 Kit de placa-mãe LGA2011-3 Slot C612 Chipset M.2 NVME USB3.0 com CPU Xeon E5 2682 com suporte a memória DDR4 TPM2.0",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdc043051aeee498dbf4b64031c6e9a42R.jpg",
-  "preco": 316.35,
-  "precoDe": 1194.79,
-  "link": "https://s.click.aliexpress.com/e/_c4PQy9Xv",
-  "vendidos": 194,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-10T10:45:49.375Z"
- },
- {
-  "id": "aliexpress-1005007131783244",
-  "loja": "aliexpress",
-  "titulo": "Placa-mãe MACHINIST White X99 PR9-H Combo com Intel Xeon E5 2630 V4 LGA 2011-3 CPU, RAM DDR4 16GB, NVME M.2, Kit Opcional",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa1c433f1e89e4ecc8c5ad27501125e71j.jpg",
-  "preco": 269.99,
-  "precoDe": 692.28,
-  "link": "https://s.click.aliexpress.com/e/_c301kSoB",
-  "vendidos": 341,
-  "nota": 4.7,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-11-10T10:45:38.082Z"
- },
- {
   "id": "aliexpress-1005006832463652",
   "loja": "aliexpress",
   "titulo": "Netac ssd nvme m2 250gb 500gb ssd 1tb 2tb ssd m.2 2280 pcie3.0x4 disco de estado sólido interno para desktop portátil",
@@ -11247,20 +11275,6 @@
   "categoria": "Informática",
   "fonte": "ali_processador",
   "publicadoEm": "2026-11-10T10:31:00.042Z"
- },
- {
-  "id": "aliexpress-1005001645351303",
-  "loja": "aliexpress",
-  "titulo": "KingSpec DDR4 DDR5 16GB Memória RAM DDR4 SODIMM 8gb 32GB 3200MHz 4800MHz 5600MHz 1.1V RAM para Laptop Notebook Memoria",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se5717e8b5b17479fa911ef77184e3539x.jpg",
-  "preco": 642.56,
-  "precoDe": 1189.88,
-  "link": "https://s.click.aliexpress.com/e/_c4duJ4Ob",
-  "vendidos": 435,
-  "nota": 4.7,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-11-10T10:30:51.263Z"
  },
  {
   "id": "aliexpress-1005012999929808",
@@ -16711,19 +16725,5 @@
   "categoria": "Informática",
   "fonte": "ali_kit_xeon",
   "publicadoEm": "2026-11-03T08:00:50.032Z"
- },
- {
-  "id": "aliexpress-4000107844787",
-  "loja": "aliexpress",
-  "titulo": "Memória RAM JUHOR DDR4 16GBx2 8GBx2 para Desktop Udimm DDR4 3200 Novas Memórias DIMM",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S9a0656ad688842d090df8e836a8477fdI.jpg",
-  "preco": 635.62,
-  "precoDe": 2354.16,
-  "link": "https://s.click.aliexpress.com/e/_c3K9BAQL",
-  "vendidos": 269,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-11-03T07:45:29.524Z"
  }
 ]
