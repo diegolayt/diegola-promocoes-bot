@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB2797976958",
-    "productKey": "6cb1243c40624794",
-    "titleHash": "86b6e248994c6e5b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-08T00:16:39.442Z"
-  },
-  {
-    "itemId": "MLB4592569844",
-    "productKey": "8e754a84d4cb7d6c",
-    "titleHash": "739fe962804bde10",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-08T00:31:39.783Z"
-  },
-  {
     "itemId": "MLB4758538973",
     "productKey": "423754fcafb59c0b",
     "titleHash": "2e54e63e8ac79d09",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-12T04:46:32.249Z"
+  },
+  {
+    "itemId": "MLB4046267101",
+    "productKey": "94515ec2fc819af0",
+    "titleHash": "2602411dd1f9a94a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-12T05:01:41.782Z"
+  },
+  {
+    "itemId": "MLB5385060919",
+    "productKey": "78c76163d845c431",
+    "titleHash": "f4a2d665975991c4",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-12T05:01:41.783Z"
   }
 ]
