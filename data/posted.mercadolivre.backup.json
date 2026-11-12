@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6487355942",
-    "productKey": "1b0c80b38e1cf265",
-    "titleHash": "e1ee4fe398d38bfe",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-08T05:31:38.858Z"
-  },
-  {
     "itemId": "MLB4755555056",
     "productKey": "f170975c8b48cfc2",
     "titleHash": "acc952b54c0303a3",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-12T09:31:42.251Z"
+  },
+  {
+    "itemId": "MLB7735398194",
+    "productKey": "e80baf6cfbfdbd42",
+    "titleHash": "5e78adefcd40617e",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-12T09:46:33.842Z"
   }
 ]
