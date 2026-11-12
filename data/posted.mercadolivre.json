@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6244020666",
-    "productKey": "8b660ee99efe635b",
-    "titleHash": "94a291c2b2efa3dd",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-08T10:01:39.337Z"
-  },
-  {
-    "itemId": "MLB4275712681",
-    "productKey": "80bf1338787e463c",
-    "titleHash": "1fa83cf79fa53ee5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-08T10:16:33.321Z"
-  },
-  {
     "itemId": "MLB4471710711",
     "productKey": "e16839c263868c09",
     "titleHash": "eb72b6477333614c",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-12T13:16:36.328Z"
+  },
+  {
+    "itemId": "MLB7736493970",
+    "productKey": "4e0745be82026c1f",
+    "titleHash": "95ec9b254759a637",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-12T13:31:40.339Z"
+  },
+  {
+    "itemId": "MLB4803658086",
+    "productKey": "10e676d7f3f50b79",
+    "titleHash": "5fcbeacd68177048",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-12T13:31:40.339Z"
   }
 ]
