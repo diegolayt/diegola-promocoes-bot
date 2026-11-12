@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7685286148",
-    "productKey": "97793b46b1ed0e13",
-    "titleHash": "ba9b4acf5fd20f0e",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-08T05:01:39.861Z"
-  },
-  {
-    "itemId": "MLB7932330748",
-    "productKey": "29c9a91aa6cd5a22",
-    "titleHash": "07d5de92993aff14",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-08T05:01:39.861Z"
-  },
-  {
-    "itemId": "MLB5505653049",
-    "productKey": "8087d5827caf1d7c",
-    "titleHash": "894a48f069e4d329",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-08T05:01:39.861Z"
-  },
-  {
     "itemId": "MLB6543389722",
     "productKey": "aaf36aa09306ceb0",
     "titleHash": "9b601eef34b56ff5",
@@ -4798,5 +4774,29 @@
     "category": "notebook",
     "sourceCategoryId": "MLB430687",
     "reservedAt": "2026-11-12T08:46:39.089Z"
+  },
+  {
+    "itemId": "MLB4379742795",
+    "productKey": "0bcf0514bbf146bf",
+    "titleHash": "4bdf6074887c635e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-12T09:01:43.171Z"
+  },
+  {
+    "itemId": "MLB5545213795",
+    "productKey": "1605bae93a4b4381",
+    "titleHash": "f52975726d30d711",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-12T09:01:43.171Z"
+  },
+  {
+    "itemId": "MLB4214380631",
+    "productKey": "599342f11b3c3501",
+    "titleHash": "b8c8c51b8b202d3f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-12T09:01:43.171Z"
   }
 ]
