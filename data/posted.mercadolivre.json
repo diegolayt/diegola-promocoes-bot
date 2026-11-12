@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7757909694",
-    "productKey": "56f0f6fb5de28aa1",
-    "titleHash": "bb0018a3ebb15338",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-09T00:31:43.686Z"
-  },
-  {
-    "itemId": "MLB4367472775",
-    "productKey": "fa34295fd787e18c",
-    "titleHash": "190b71ddac76b50c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-09T00:31:43.686Z"
-  },
-  {
     "itemId": "MLB5742508852",
     "productKey": "29792390958b21d3",
     "titleHash": "3984b433cca799c4",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-12T22:31:34.863Z"
+  },
+  {
+    "itemId": "MLB5428168238",
+    "productKey": "4b16d27e9826dfdf",
+    "titleHash": "58fef0b9cc61ea0a",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-12T22:46:35.397Z"
+  },
+  {
+    "itemId": "MLB4199575191",
+    "productKey": "2a67fdf7ac254633",
+    "titleHash": "09a3093f00c4d9c2",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-12T22:46:35.397Z"
   }
 ]
