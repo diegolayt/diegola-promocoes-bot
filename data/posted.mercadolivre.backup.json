@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5574851656",
-    "productKey": "1605bae93a4b4381",
-    "titleHash": "f52975726d30d711",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-08T03:01:33.345Z"
-  },
-  {
-    "itemId": "MLB4379742795",
-    "productKey": "0bcf0514bbf146bf",
-    "titleHash": "4bdf6074887c635e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-08T03:01:33.346Z"
-  },
-  {
     "itemId": "MLB4214380631",
     "productKey": "599342f11b3c3501",
     "titleHash": "b8c8c51b8b202d3f",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-12T06:46:38.131Z"
+  },
+  {
+    "itemId": "MLB4167180457",
+    "productKey": "f2cc121a987258d9",
+    "titleHash": "6d8e200943d2f5c5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-12T07:01:44.940Z"
+  },
+  {
+    "itemId": "MLB5322000341",
+    "productKey": "4c2b7f809c982c78",
+    "titleHash": "d3c71357a2e1af80",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-12T07:01:44.940Z"
   }
 ]
