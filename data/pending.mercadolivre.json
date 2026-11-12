@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5466081120",
+      "site_id": "MLB",
+      "seller_id": 206413223,
+      "accepts_mercadopago": true,
+      "price": 191.33,
+      "category_id": "MLB61635",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kit_component",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "forced_business_price_per_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 289.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUHJlc2lkZW50ZSBQcnVkZW50ZVRVeENVR",
+          "name": "Presidente Prudente"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1537561415",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24075966",
+      "title": "Processador de Áudio Digital Taramps Pro 2.4S para Som Automotivo com Crossover e Equalizador 15 Bandas",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_830482-MLA108910560858_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24075966",
+      "id": "MLB5466081120",
+      "sold_quantity": 1000,
+      "rotationCategory": "som",
+      "sourceCategoryId": "MLB3835",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-12T06:46:38.134Z"
+}
