@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4437876216",
-    "productKey": "62c93a85d3efa5a1",
-    "titleHash": "8d8f46572e1893f3",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-08T16:16:35.411Z"
-  },
-  {
-    "itemId": "MLB7907253688",
-    "productKey": "c54e839f3f026968",
-    "titleHash": "5c2c1146e3a7b981",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-08T16:16:35.411Z"
-  },
-  {
-    "itemId": "MLB4080180915",
-    "productKey": "425e8a8036d8c9c3",
-    "titleHash": "fe5e5814d7705d81",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-08T16:31:40.217Z"
-  },
-  {
     "itemId": "MLB5701841518",
     "productKey": "e47e31aa7f0f7ddf",
     "titleHash": "753d54b2272a6993",
@@ -4798,5 +4774,29 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-12T17:46:31.420Z"
+  },
+  {
+    "itemId": "MLB3525364839",
+    "productKey": "f8b4730edfd7a1c2",
+    "titleHash": "16dd35246dab9fd4",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-12T18:01:44.505Z"
+  },
+  {
+    "itemId": "MLB5656974534",
+    "productKey": "0ab7ac472ebadef7",
+    "titleHash": "bb1dc58e46127577",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-12T18:01:44.505Z"
+  },
+  {
+    "itemId": "MLB5523007127",
+    "productKey": "e83744dfb605c176",
+    "titleHash": "91b7e2c79272f4b5",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-12T18:01:44.505Z"
   }
 ]
