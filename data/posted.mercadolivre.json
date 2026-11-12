@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5428168238",
-    "productKey": "4b16d27e9826dfdf",
-    "titleHash": "58fef0b9cc61ea0a",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-08T23:16:35.540Z"
-  },
-  {
-    "itemId": "MLB3374564305",
-    "productKey": "9df63c5c74f0032b",
-    "titleHash": "92bd599ba4cf03b1",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-08T23:16:35.541Z"
-  },
-  {
-    "itemId": "MLB7868497178",
-    "productKey": "bc04daa8ab567d61",
-    "titleHash": "f8bb3ea79829b117",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-08T23:16:35.541Z"
-  },
-  {
     "itemId": "MLB7651221464",
     "productKey": "4cf8a10639a94805",
     "titleHash": "d4d810df2ada9c99",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-12T21:46:38.005Z"
+  },
+  {
+    "itemId": "MLB2147833620",
+    "productKey": "7fdc50d60ebffd96",
+    "titleHash": "f971c499c5d94e8b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-12T22:01:39.996Z"
+  },
+  {
+    "itemId": "MLB4449888791",
+    "productKey": "735f5df2782173d2",
+    "titleHash": "1df3875054cdeb21",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-12T22:01:39.996Z"
+  },
+  {
+    "itemId": "MLB4975782617",
+    "productKey": "c421c7dbedfa4af5",
+    "titleHash": "d1f3d0e27d1791c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-12T22:01:39.996Z"
   }
 ]
