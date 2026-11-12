@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7657977886",
-    "productKey": "525cdc14fb44b9f9",
-    "titleHash": "48172cb7558886dd",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-07T22:01:42.414Z"
-  },
-  {
     "itemId": "MLB7926117620",
     "productKey": "4c2b7f809c982c78",
     "titleHash": "d3c71357a2e1af80",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-12T01:46:37.986Z"
+  },
+  {
+    "itemId": "MLB5769944586",
+    "productKey": "ec93060555c6cb7b",
+    "titleHash": "9478296a7f5367d3",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-12T02:01:44.835Z"
   }
 ]
