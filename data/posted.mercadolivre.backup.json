@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5293361595",
-    "productKey": "85d041b839360d1e",
-    "titleHash": "5cd59db29710943a",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-08T21:16:33.564Z"
-  },
-  {
-    "itemId": "MLB7529392590",
-    "productKey": "fd83f25c3b8fcc66",
-    "titleHash": "7d923047dcc35c56",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-08T21:31:39.216Z"
-  },
-  {
     "itemId": "MLB4875367973",
     "productKey": "8787a8725f82c581",
     "titleHash": "da257b538969c80c",
@@ -4798,5 +4782,21 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-12T20:16:37.390Z"
+  },
+  {
+    "itemId": "MLB7789531604",
+    "productKey": "23ea03873a1f5617",
+    "titleHash": "8ceb375a5a1615e0",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-12T20:31:43.191Z"
+  },
+  {
+    "itemId": "MLB5616145354",
+    "productKey": "a4ba2751e6fc5f93",
+    "titleHash": "dc1915f9b1aa442c",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-12T20:31:43.191Z"
   }
 ]
