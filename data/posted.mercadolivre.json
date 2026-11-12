@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6210751482",
-    "productKey": "f0aa6c4ebb950930",
-    "titleHash": "53db776e88590465",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-09T01:01:40.776Z"
-  },
-  {
-    "itemId": "MLB5479176811",
-    "productKey": "b9ee45f2c4136d0e",
-    "titleHash": "ae8d97b0516bc2b5",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-09T01:16:33.913Z"
-  },
-  {
-    "itemId": "MLB3680469307",
-    "productKey": "52e8973cc70fcc11",
-    "titleHash": "8d39b7cca9eea60b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-09T01:31:37.031Z"
-  },
-  {
     "itemId": "MLB5215110257",
     "productKey": "8c76b04b8266652e",
     "titleHash": "f095017ffecc087e",
@@ -4798,5 +4774,29 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-12T23:16:36.342Z"
+  },
+  {
+    "itemId": "MLB6556469456",
+    "productKey": "613bf0c5cb5cbee9",
+    "titleHash": "ff44a097255df998",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-12T23:31:34.538Z"
+  },
+  {
+    "itemId": "MLB7912614128",
+    "productKey": "8391a7ae62302cad",
+    "titleHash": "1f20a51ee45cd080",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-12T23:31:34.538Z"
+  },
+  {
+    "itemId": "MLB7920657260",
+    "productKey": "54d8ded816bc0b69",
+    "titleHash": "bc329b0a74bc1a74",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-12T23:31:34.538Z"
   }
 ]
