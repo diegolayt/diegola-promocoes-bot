@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4471710711",
-    "productKey": "e16839c263868c09",
-    "titleHash": "eb72b6477333614c",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-08T10:46:38.626Z"
-  },
-  {
-    "itemId": "MLB6142554646",
-    "productKey": "b6d1cedb49d30deb",
-    "titleHash": "51bd3c9452ef23f3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-08T11:16:35.154Z"
-  },
-  {
     "itemId": "MLB6400344928",
     "productKey": "d6cc0984381470cf",
     "titleHash": "a33e46855fcff71c",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-12T13:31:40.339Z"
+  },
+  {
+    "itemId": "MLB7979926504",
+    "productKey": "edf13fb03afe075f",
+    "titleHash": "55deb70f1f4bad17",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-12T14:01:48.238Z"
+  },
+  {
+    "itemId": "MLB6823612056",
+    "productKey": "e1fa6b0d5edc06a7",
+    "titleHash": "097fe77015697a11",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-12T14:01:48.238Z"
   }
 ]
