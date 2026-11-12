@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5742508852",
-    "productKey": "29792390958b21d3",
-    "titleHash": "3984b433cca799c4",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-09T00:46:39.550Z"
-  },
-  {
-    "itemId": "MLB3371578831",
-    "productKey": "10b192510125e400",
-    "titleHash": "199e80e775bd5fd7",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-09T00:46:39.550Z"
-  },
-  {
     "itemId": "MLB6631855928",
     "productKey": "d91a46db3bbd17c5",
     "titleHash": "83f5c4bda28b8b90",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-12T22:46:35.397Z"
+  },
+  {
+    "itemId": "MLB4469987063",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-12T23:01:36.948Z"
+  },
+  {
+    "itemId": "MLB7651221464",
+    "productKey": "4cf8a10639a94805",
+    "titleHash": "d4d810df2ada9c99",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-12T23:01:36.948Z"
   }
 ]
