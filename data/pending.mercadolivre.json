@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4013878289",
+      "site_id": "MLB",
+      "seller_id": 1083399768,
+      "accepts_mercadopago": true,
+      "price": 58.9,
+      "category_id": "MLB33384",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYT3Nhc2NvVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Osasco"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVQzTmhjMk52VkZWNFExV",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3087276665",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB21410780",
+      "title": "3 Luminárias Emergência Elgin Recarregável Lampada 30 Leds",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_728815-MLA100081720055_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB21410780",
+      "id": "MLB4013878289",
+      "sold_quantity": 1900,
+      "rotationCategory": "iluminação",
+      "sourceCategoryId": "MLB1582",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-12T04:01:42.301Z"
+}
