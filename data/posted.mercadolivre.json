@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5885455180",
-    "productKey": "c1bf359324948ad4",
-    "titleHash": "a32da22d3cf3636d",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-08T16:46:30.591Z"
-  },
-  {
-    "itemId": "MLB7827686810",
-    "productKey": "f46488f5ce61c7a7",
-    "titleHash": "5ac572bbf7b65602",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-08T16:46:30.591Z"
-  },
-  {
-    "itemId": "MLB3874967101",
-    "productKey": "ab95e285844c979e",
-    "titleHash": "1da1223a6945e333",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-08T17:01:42.729Z"
-  },
-  {
     "itemId": "MLB5511546969",
     "productKey": "b0c3a1d30ec3594d",
     "titleHash": "a4888d1eeb13cd9e",
@@ -4798,5 +4774,29 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-12T18:16:32.580Z"
+  },
+  {
+    "itemId": "MLB6010837764",
+    "productKey": "d6c6d0c064ba9257",
+    "titleHash": "ecf42cc5b0622397",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-12T18:31:34.370Z"
+  },
+  {
+    "itemId": "MLB7566113764",
+    "productKey": "9785e1e4f9269a23",
+    "titleHash": "0517c1a09d1c4254",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-12T18:31:34.370Z"
+  },
+  {
+    "itemId": "MLB7442035444",
+    "productKey": "3be14b68b582a18a",
+    "titleHash": "ae6d7d88b1e61213",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-12T18:31:34.370Z"
   }
 ]
