@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7585112596",
-    "productKey": "5f26ec118c3c684f",
-    "titleHash": "072400fdebd3532c",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-08T04:46:31.719Z"
-  },
-  {
     "itemId": "MLB7685286148",
     "productKey": "97793b46b1ed0e13",
     "titleHash": "ba9b4acf5fd20f0e",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-12T08:31:34.424Z"
+  },
+  {
+    "itemId": "MLB6972021044",
+    "productKey": "5a24c3485e043a19",
+    "titleHash": "ca2038c29bdfa6f9",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-11-12T08:46:39.089Z"
   }
 ]
