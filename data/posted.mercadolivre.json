@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4510325461",
-    "productKey": "f55481226776a3de",
-    "titleHash": "aef1dd15b5a70088",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-07T21:31:36.503Z"
-  },
-  {
-    "itemId": "MLB7939560880",
-    "productKey": "f2cc121a987258d9",
-    "titleHash": "6d8e200943d2f5c5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-07T21:46:32.051Z"
-  },
-  {
     "itemId": "MLB7657977886",
     "productKey": "525cdc14fb44b9f9",
     "titleHash": "48172cb7558886dd",
@@ -4798,5 +4782,21 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-12T01:31:42.054Z"
+  },
+  {
+    "itemId": "MLB5886831522",
+    "productKey": "62f91e78f631ddab",
+    "titleHash": "8268204c51c89120",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-12T01:46:37.986Z"
+  },
+  {
+    "itemId": "MLB5125768143",
+    "productKey": "08ad8900369f6d2b",
+    "titleHash": "440a820104a3d216",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-12T01:46:37.986Z"
   }
 ]
