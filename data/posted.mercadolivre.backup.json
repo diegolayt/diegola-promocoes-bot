@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5324444473",
-    "productKey": "4126a957e160f755",
-    "titleHash": "1c993490aa5dbfc1",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-07T22:16:35.064Z"
-  },
-  {
     "itemId": "MLB5538296886",
     "productKey": "e99726c12745d0a4",
     "titleHash": "8b80f8f23c3c0fbd",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-12T02:16:42.842Z"
+  },
+  {
+    "itemId": "MLB7026125702",
+    "productKey": "55165ae4e873b412",
+    "titleHash": "e06ec53a634432a7",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-12T02:31:42.931Z"
   }
 ]
