@@ -1,0 +1,245 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3111544644",
+      "site_id": "MLB",
+      "seller_id": 226418798,
+      "accepts_mercadopago": true,
+      "price": 439.92,
+      "category_id": "MLB21168",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 879,
+      "original_price": 611,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTVjOTA4",
+          "name": "Itaperuçu"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1720707751",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB14815387",
+      "title": "Lavadora Semiautomática Lcs 10kg Branca Colormaq 110v Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_715151-MLA113216371516_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB14815387",
+      "id": "MLB3111544644",
+      "sold_quantity": 500,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB5449940490",
+      "site_id": "MLB",
+      "seller_id": 85345092,
+      "accepts_mercadopago": true,
+      "price": 118,
+      "category_id": "MLB44085",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 6 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 149,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUnZlN2k5",
+          "name": "Jardim Taboão"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3248092119",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB6360396",
+      "title": "Prancha Cerâmica Profissional Classic 180° Taiff Bivolt Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_773132-MLA96072907583_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB6360396",
+      "id": "MLB5449940490",
+      "sold_quantity": 1200,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7907253688",
+      "site_id": "MLB",
+      "seller_id": 228650157,
+      "accepts_mercadopago": true,
+      "price": 90.02,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUG9yYW5nYWJhVFV4Q1VGTkJUMDg1TjJFN",
+          "name": "Porangaba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5692657435",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19314257",
+      "title": "Óleo Capilar Oil Reflections Wella 100ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_745593-MLA106774218986_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19314257",
+      "id": "MLB7907253688",
+      "sold_quantity": 1300,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-12T19:16:38.596Z"
+}
