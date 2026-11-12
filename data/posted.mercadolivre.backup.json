@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5511546969",
-    "productKey": "b0c3a1d30ec3594d",
-    "titleHash": "a4888d1eeb13cd9e",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-08T17:31:39.782Z"
-  },
-  {
-    "itemId": "MLB4964692555",
-    "productKey": "23ea03873a1f5617",
-    "titleHash": "8ceb375a5a1615e0",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-08T17:46:37.504Z"
-  },
-  {
-    "itemId": "MLB5394337713",
-    "productKey": "a4ba2751e6fc5f93",
-    "titleHash": "dc1915f9b1aa442c",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-08T17:46:37.504Z"
-  },
-  {
     "itemId": "MLB7818046820",
     "productKey": "31257bb8b2fcb2b3",
     "titleHash": "fe492a43010f6fda",
@@ -4798,5 +4774,29 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-12T18:31:34.370Z"
+  },
+  {
+    "itemId": "MLB3633786923",
+    "productKey": "df46f21258a3c7a1",
+    "titleHash": "1cbc1384378886f7",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-12T18:46:35.213Z"
+  },
+  {
+    "itemId": "MLB4992697727",
+    "productKey": "1e7e25994a8ef537",
+    "titleHash": "c4b1fd6081d8cf1b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-12T18:46:35.213Z"
+  },
+  {
+    "itemId": "MLB4497607307",
+    "productKey": "b2fc93e96a24c86a",
+    "titleHash": "02b0280977de80cf",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-12T18:46:35.213Z"
   }
 ]
