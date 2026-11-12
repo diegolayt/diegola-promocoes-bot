@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5039804027",
-    "productKey": "67b41de77f6e8bb3",
-    "titleHash": "25cf7e816ba7fd15",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-08T06:01:45.270Z"
-  },
-  {
-    "itemId": "MLB6819871490",
-    "productKey": "a256261d4df6f661",
-    "titleHash": "9df7cd8fcf29ae55",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-08T06:01:45.270Z"
-  },
-  {
     "itemId": "MLB5433764082",
     "productKey": "d421a9ac96991e1e",
     "titleHash": "dd4ff27b0e780d50",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-12T10:16:35.214Z"
+  },
+  {
+    "itemId": "MLB6670733424",
+    "productKey": "d39f44041eb93281",
+    "titleHash": "f045d1797b5d99de",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-12T10:31:39.104Z"
+  },
+  {
+    "itemId": "MLB7956490004",
+    "productKey": "da58292d29d880a5",
+    "titleHash": "424447b14f32b968",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-12T10:31:39.104Z"
   }
 ]
