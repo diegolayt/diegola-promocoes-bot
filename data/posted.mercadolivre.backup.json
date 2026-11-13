@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5107041294",
-    "productKey": "8b67768aeac7e9b2",
-    "titleHash": "ba46e87672d491d0",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-09T12:01:40.017Z"
-  },
-  {
-    "itemId": "MLB7633876088",
-    "productKey": "e7466642d6b5d025",
-    "titleHash": "325029870601ba85",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-09T12:01:40.017Z"
-  },
-  {
-    "itemId": "MLB5304519543",
-    "productKey": "b80aa50f4c572f73",
-    "titleHash": "554791d76d1ac8c8",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-09T12:01:40.017Z"
-  },
-  {
     "itemId": "MLB4115638623",
     "productKey": "9681761c11f42242",
     "titleHash": "c506f453654b8575",
@@ -4798,5 +4774,29 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-13T06:16:31.323Z"
+  },
+  {
+    "itemId": "MLB4576693657",
+    "productKey": "ebfca99113baae99",
+    "titleHash": "af8ecbf6a7506bdc",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-13T06:31:34.845Z"
+  },
+  {
+    "itemId": "MLB5457116760",
+    "productKey": "12ba1e7daad2e455",
+    "titleHash": "308ca2a85e1b8a8a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-13T06:31:34.845Z"
+  },
+  {
+    "itemId": "MLB5691370762",
+    "productKey": "12075010278a8522",
+    "titleHash": "f5dff857644650ef",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-13T06:31:34.845Z"
   }
 ]
