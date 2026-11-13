@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4431320428",
-    "productKey": "0129e0ad07cd5b49",
-    "titleHash": "254070ed90aabce5",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-10T08:46:32.989Z"
-  },
-  {
     "itemId": "MLB5155902053",
     "productKey": "56a230716db5d97e",
     "titleHash": "32e3b2ff4d00f4ad",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-13T22:46:35.952Z"
+  },
+  {
+    "itemId": "MLB3866022851",
+    "productKey": "01b83afad55f31c1",
+    "titleHash": "84ad45755322ea1e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-13T23:01:46.627Z"
   }
 ]
