@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7618823038",
-    "productKey": "7c5b29917a5a4f0d",
-    "titleHash": "4df93f7a820e0b0f",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-09T13:31:48.930Z"
-  },
-  {
-    "itemId": "MLB5139680871",
-    "productKey": "383eafc260a9c2c7",
-    "titleHash": "1d6b824c6b48131e",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-09T13:46:39.993Z"
-  },
-  {
     "itemId": "MLB5086087047",
     "productKey": "1984953db221eb12",
     "titleHash": "0fc65dd07a9749c7",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-13T08:16:35.725Z"
+  },
+  {
+    "itemId": "MLB4115638623",
+    "productKey": "9681761c11f42242",
+    "titleHash": "c506f453654b8575",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-13T08:31:37.026Z"
+  },
+  {
+    "itemId": "MLB7840566352",
+    "productKey": "677485e12ee1bef6",
+    "titleHash": "824b09eda268afd6",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-13T08:31:37.027Z"
   }
 ]
