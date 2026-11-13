@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5350127318",
-    "productKey": "ec3b73f24f9af257",
-    "titleHash": "802e07e18ad37e9b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-09T16:16:38.465Z"
-  },
-  {
-    "itemId": "MLB4857152173",
-    "productKey": "e1f31ebb49ae051b",
-    "titleHash": "da52ddf8d551059c",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-09T16:16:38.465Z"
-  },
-  {
-    "itemId": "MLB5522610483",
-    "productKey": "5fe4d75d19c4b6ae",
-    "titleHash": "208803b964ddf440",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-09T16:16:38.465Z"
-  },
-  {
-    "itemId": "MLB5741517732",
-    "productKey": "c5cfe519cd48d137",
-    "titleHash": "3f613ad295e16743",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-09T16:31:38.585Z"
-  },
-  {
     "itemId": "MLB5820611620",
     "productKey": "81470f458df652f2",
     "titleHash": "9b560d3758ed6fb2",
@@ -4798,5 +4766,37 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-13T09:16:36.768Z"
+  },
+  {
+    "itemId": "MLB4836890793",
+    "productKey": "bc05e3f7f280662b",
+    "titleHash": "e28019822bdbf1c0",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-13T09:31:37.559Z"
+  },
+  {
+    "itemId": "MLB4554029271",
+    "productKey": "7665a9d6da616707",
+    "titleHash": "df6de7a9d2086862",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-13T09:31:37.559Z"
+  },
+  {
+    "itemId": "MLB7381481458",
+    "productKey": "cabbb447af73cacd",
+    "titleHash": "13bc6b92a0023758",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-13T09:31:37.559Z"
+  },
+  {
+    "itemId": "MLB7953729852",
+    "productKey": "739c2022a55ab99e",
+    "titleHash": "244b2beae8f269ca",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-13T09:31:37.559Z"
   }
 ]
