@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6244008474",
-    "productKey": "c356c59be11ac235",
-    "titleHash": "4c99e959114099bb",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-10T03:31:41.670Z"
-  },
-  {
     "itemId": "MLB5424041486",
     "productKey": "a69c89af46f539e7",
     "titleHash": "47a732733919029b",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-13T17:46:39.129Z"
+  },
+  {
+    "itemId": "MLB7187016886",
+    "productKey": "3235a086bca26017",
+    "titleHash": "7a1c23c1bdf33031",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-13T18:01:37.491Z"
   }
 ]
