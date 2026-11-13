@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7856263268",
-    "productKey": "7b530b4b1ca8b409",
-    "titleHash": "16098ab31f1e5d10",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-09T17:16:32.008Z"
-  },
-  {
-    "itemId": "MLB7698866486",
-    "productKey": "70cc9fb2edc1f297",
-    "titleHash": "08f611278b926ffd",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-09T17:31:40.948Z"
-  },
-  {
-    "itemId": "MLB6695256080",
-    "productKey": "bda19e9978a23697",
-    "titleHash": "4042a31b68d1a4ff",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-09T17:46:38.280Z"
-  },
-  {
     "itemId": "MLB5467059653",
     "productKey": "9be23f720e3d6d4f",
     "titleHash": "b4d7c6e7b7ef601d",
@@ -4798,5 +4774,29 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-13T10:16:37.763Z"
+  },
+  {
+    "itemId": "MLB5474043035",
+    "productKey": "6226a5d038aed863",
+    "titleHash": "5777efe3a60d517a",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-13T10:31:38.356Z"
+  },
+  {
+    "itemId": "MLB6451356910",
+    "productKey": "0fde9e9cfc241986",
+    "titleHash": "92b0b423411c17c3",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-13T10:31:38.356Z"
+  },
+  {
+    "itemId": "MLB6175718676",
+    "productKey": "9077b5e04abe0eda",
+    "titleHash": "19baa0fcc69e4f1e",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-13T10:31:38.356Z"
   }
 ]
