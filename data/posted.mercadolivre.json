@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7644497660",
-    "productKey": "1c1a1b874a30de47",
-    "titleHash": "5cc0254ef98a4654",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-09T16:46:21.184Z"
-  },
-  {
-    "itemId": "MLB6600129404",
-    "productKey": "307900e287a57280",
-    "titleHash": "5ab2e697025e7a60",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-09T17:01:48.666Z"
-  },
-  {
-    "itemId": "MLB4712226703",
-    "productKey": "c850ba5f1644af9d",
-    "titleHash": "4e45ebc4c4f60ba0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-09T17:01:48.667Z"
-  },
-  {
     "itemId": "MLB6175718676",
     "productKey": "9077b5e04abe0eda",
     "titleHash": "19baa0fcc69e4f1e",
@@ -4798,5 +4774,29 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-13T09:46:37.807Z"
+  },
+  {
+    "itemId": "MLB5138994919",
+    "productKey": "15c7db5eb9334078",
+    "titleHash": "4c5d40e68166a654",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-13T10:01:39.255Z"
+  },
+  {
+    "itemId": "MLB7618823038",
+    "productKey": "7c5b29917a5a4f0d",
+    "titleHash": "4df93f7a820e0b0f",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-13T10:01:39.256Z"
+  },
+  {
+    "itemId": "MLB7977788326",
+    "productKey": "e60e8b3a8b9faa13",
+    "titleHash": "869d36e890ccdc6b",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-13T10:01:39.256Z"
   }
 ]
