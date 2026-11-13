@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4358994339",
-    "productKey": "d9ef4a29fdbb1a3a",
-    "titleHash": "c8f8c2711b445e40",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-09T02:16:35.451Z"
-  },
-  {
-    "itemId": "MLB5312507612",
-    "productKey": "578087a6350e382a",
-    "titleHash": "4e478014ed8af7a9",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-09T02:46:36.489Z"
-  },
-  {
-    "itemId": "MLB6224367728",
-    "productKey": "113d9604631d6b0d",
-    "titleHash": "02055506bdcf30fc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-09T02:46:36.489Z"
-  },
-  {
     "itemId": "MLB5409105680",
     "productKey": "b5841668af3df70a",
     "titleHash": "26a8aa4b820e295a",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-12T23:46:32.443Z"
+  },
+  {
+    "itemId": "MLB5452462868",
+    "productKey": "9d501d04b619787b",
+    "titleHash": "60b43647216b307c",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-13T00:01:45.946Z"
+  },
+  {
+    "itemId": "MLB7138654316",
+    "productKey": "d9f9ebef6ca08a2f",
+    "titleHash": "ffe4bcc70178fb4b",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-13T00:01:45.946Z"
+  },
+  {
+    "itemId": "MLB5210927019",
+    "productKey": "faec2e4d8d4b7bcc",
+    "titleHash": "81b88b0bc1856a15",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-13T00:01:45.946Z"
   }
 ]
