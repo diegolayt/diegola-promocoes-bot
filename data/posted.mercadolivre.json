@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5575158922",
-    "productKey": "470a6f69c29f9087",
-    "titleHash": "128e67c8b561c343",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-10T06:46:35.210Z"
-  },
-  {
-    "itemId": "MLB5580857798",
-    "productKey": "8be3319e521559cd",
-    "titleHash": "9deb07ab1d05ae9d",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-10T06:46:35.210Z"
-  },
-  {
     "itemId": "MLB6906628416",
     "productKey": "afdc8b9a0fdca6b9",
     "titleHash": "e6c7a1e4ae50579a",
@@ -4798,5 +4782,21 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-11-13T21:31:38.373Z"
+  },
+  {
+    "itemId": "MLB3783973037",
+    "productKey": "79904641cb78c39e",
+    "titleHash": "c6c910964afbee15",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-13T21:46:34.150Z"
+  },
+  {
+    "itemId": "MLB5400923188",
+    "productKey": "8b22be28b8f4d3bd",
+    "titleHash": "7866188a6d14a530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-13T21:46:34.151Z"
   }
 ]
