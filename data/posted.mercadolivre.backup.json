@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4173793609",
-    "productKey": "38e76440cdea0b78",
-    "titleHash": "558455381ac2d143",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-09T23:16:34.452Z"
-  },
-  {
     "itemId": "MLB3881790037",
     "productKey": "4a4e4d305a849405",
     "titleHash": "4d721e26d87f59c2",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-13T14:46:31.139Z"
+  },
+  {
+    "itemId": "MLB4608009715",
+    "productKey": "8b67768aeac7e9b2",
+    "titleHash": "ba46e87672d491d0",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-13T15:01:43.967Z"
   }
 ]
