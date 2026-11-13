@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6420215012",
-    "productKey": "810f54caef449f8a",
-    "titleHash": "91f8268a7fe15f7e",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-09T19:16:22.913Z"
-  },
-  {
-    "itemId": "MLB4811259715",
-    "productKey": "7abc3c7eceaff66c",
-    "titleHash": "0770fcd7bab16021",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-09T19:16:22.913Z"
-  },
-  {
     "itemId": "MLB5690651572",
     "productKey": "586f1f38fea099c8",
     "titleHash": "1e2890a0d74c84a0",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-13T11:16:39.795Z"
+  },
+  {
+    "itemId": "MLB7716936568",
+    "productKey": "e8b365816ac55e07",
+    "titleHash": "2c5eaacb23e2dcb7",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-13T11:31:46.456Z"
+  },
+  {
+    "itemId": "MLB6699389750",
+    "productKey": "45d1c0ae2cf7a360",
+    "titleHash": "c6ec13c943848777",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-13T11:31:46.456Z"
   }
 ]
