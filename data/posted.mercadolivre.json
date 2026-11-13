@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5086087047",
-    "productKey": "1984953db221eb12",
-    "titleHash": "0fc65dd07a9749c7",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-09T13:46:39.994Z"
-  },
-  {
-    "itemId": "MLB6900550988",
-    "productKey": "6226a5d038aed863",
-    "titleHash": "5777efe3a60d517a",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-09T14:01:49.274Z"
-  },
-  {
-    "itemId": "MLB4925669305",
-    "productKey": "5bb08fbcedadf8ea",
-    "titleHash": "6f941d1098f301c6",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-09T14:16:36.549Z"
-  },
-  {
     "itemId": "MLB4612161397",
     "productKey": "819054fbbea42c9a",
     "titleHash": "dbbfa39f8921466e",
@@ -4798,5 +4774,29 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-13T08:31:37.027Z"
+  },
+  {
+    "itemId": "MLB6517680704",
+    "productKey": "d9ef4a29fdbb1a3a",
+    "titleHash": "c8f8c2711b445e40",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-11-13T08:46:42.120Z"
+  },
+  {
+    "itemId": "MLB7980961314",
+    "productKey": "cb7b3aabd989fc60",
+    "titleHash": "a9d8bcd46bae692c",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-13T08:46:42.120Z"
+  },
+  {
+    "itemId": "MLB7984318094",
+    "productKey": "aea2de8a7c5c3d52",
+    "titleHash": "fd8a49ba38884f61",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-13T08:46:42.120Z"
   }
 ]
