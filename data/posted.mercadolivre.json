@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5166470939",
-    "productKey": "f0ce6c3f19f94762",
-    "titleHash": "2e4937b263ba3a23",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-09T20:16:31.878Z"
-  },
-  {
-    "itemId": "MLB5235378549",
-    "productKey": "f1124f75199e516b",
-    "titleHash": "72effccea15c5203",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-09T20:16:31.878Z"
-  },
-  {
-    "itemId": "MLB4975099263",
-    "productKey": "3460e0b7004b3b58",
-    "titleHash": "0c238aed75c8a2bb",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-09T20:31:53.086Z"
-  },
-  {
-    "itemId": "MLB4812130742",
-    "productKey": "1fbb97017cc6e7ce",
-    "titleHash": "aac3ed7848ee3cfe",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-09T20:46:37.980Z"
-  },
-  {
     "itemId": "MLB4521043917",
     "productKey": "e7e88bfd6362d701",
     "titleHash": "94e0411828b83478",
@@ -4798,5 +4766,37 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-13T12:31:41.687Z"
+  },
+  {
+    "itemId": "MLB7586569004",
+    "productKey": "0ff33a7f933d771f",
+    "titleHash": "1ac364f778f5f627",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-13T12:46:31.794Z"
+  },
+  {
+    "itemId": "MLB4857152173",
+    "productKey": "e1f31ebb49ae051b",
+    "titleHash": "da52ddf8d551059c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-13T12:46:31.794Z"
+  },
+  {
+    "itemId": "MLB4896829767",
+    "productKey": "b1a6ed780f0fe240",
+    "titleHash": "1982de45a97168c2",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-13T12:46:31.794Z"
+  },
+  {
+    "itemId": "MLB4933271987",
+    "productKey": "a69d636355916b46",
+    "titleHash": "23b7e30efd25845a",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-13T12:46:31.794Z"
   }
 ]
