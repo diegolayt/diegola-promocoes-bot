@@ -1,0 +1,233 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4597935647",
+      "site_id": "MLB",
+      "seller_id": 571954063,
+      "accepts_mercadopago": true,
+      "price": 67.69,
+      "category_id": "MLB244658",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 143504,
+      "original_price": 140,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTG8xZTBz",
+          "name": "Vila Santo Henrique"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3532268560",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78457348",
+      "title": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_718827-MLA121009065709_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78457348",
+      "id": "MLB4597935647",
+      "sold_quantity": 1900,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7934213834",
+      "site_id": "MLB",
+      "seller_id": 2477718420,
+      "accepts_mercadopago": true,
+      "price": 79,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 119,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQklQSTI1Mzc",
+          "name": "Ipiranga"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5806013586",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25834979",
+      "title": "Cor de fundo do relógio masculino Opk 6010 Quartz original: preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_684260-MLU70909697639_082023-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25834979",
+      "id": "MLB7934213834",
+      "sold_quantity": 1600,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5980496924",
+      "site_id": "MLB",
+      "seller_id": 535096481,
+      "accepts_mercadopago": true,
+      "price": 149.69,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 179.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRmVycmF6IGRlIFZhc2NvbmNlbG9zVFV4Q",
+          "name": "Ferraz de Vasconcelos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYVmlsYSBMb2FuZGFUVmhZUm1WeWNtRjZJR",
+          "name": "Vila Loanda"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1730211973",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB49757107",
+      "title": "Jogo De Panelas Antiaderente 8 Peças Decorada Teflon Cor Grafite/beje Decorado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_995648-MLA88989808921_072025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB49757107",
+      "id": "MLB5980496924",
+      "sold_quantity": 1700,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-13T03:46:39.389Z"
+}
