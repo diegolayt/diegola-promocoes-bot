@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5172712030",
-    "productKey": "29a167728a58669c",
-    "titleHash": "a40852fe2e7ef3d0",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-10T06:31:46.003Z"
-  },
-  {
     "itemId": "MLB5575158922",
     "productKey": "470a6f69c29f9087",
     "titleHash": "128e67c8b561c343",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-13T21:16:33.404Z"
+  },
+  {
+    "itemId": "MLB7723793010",
+    "productKey": "d39b1ecff1553030",
+    "titleHash": "589e36cf1c58b931",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-13T21:31:38.373Z"
   }
 ]
