@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3881790037",
-    "productKey": "4a4e4d305a849405",
-    "titleHash": "4d721e26d87f59c2",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-09T23:31:35.751Z"
-  },
-  {
     "itemId": "MLB6727230822",
     "productKey": "9dd660916fb1b129",
     "titleHash": "899d2c96765b077d",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-13T15:01:43.967Z"
+  },
+  {
+    "itemId": "MLB5139760715",
+    "productKey": "c6ffc2bdedffd41c",
+    "titleHash": "7660bd2cc9a981c5",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-13T15:31:40.113Z"
   }
 ]
