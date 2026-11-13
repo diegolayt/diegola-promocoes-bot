@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4586947077",
-    "productKey": "820a7bf3129a48cf",
-    "titleHash": "82c17092d0642575",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-09T12:46:39.728Z"
-  },
-  {
-    "itemId": "MLB3398173761",
-    "productKey": "3ad3274eb28b3f64",
-    "titleHash": "a87908bc89d55121",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-09T13:01:43.171Z"
-  },
-  {
     "itemId": "MLB6847613118",
     "productKey": "6a0f874da4937eb3",
     "titleHash": "994272fd0fa8ee25",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-13T07:02:01.580Z"
+  },
+  {
+    "itemId": "MLB5169742735",
+    "productKey": "67f52b5fb7cb0c3c",
+    "titleHash": "8b7fcc23802a9cb0",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-13T07:16:29.816Z"
+  },
+  {
+    "itemId": "MLB5522888933",
+    "productKey": "52e8973cc70fcc11",
+    "titleHash": "8d39b7cca9eea60b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-13T07:16:29.816Z"
   }
 ]
