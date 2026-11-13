@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6976567444",
-    "productKey": "10d83ae90f0fb762",
-    "titleHash": "5467f88d296880b9",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-09T15:46:37.369Z"
-  },
-  {
-    "itemId": "MLB6182336356",
-    "productKey": "e772e6fb3830f752",
-    "titleHash": "796851ab66948329",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-09T16:01:48.743Z"
-  },
-  {
-    "itemId": "MLB6539025322",
-    "productKey": "67959f7697e2dbde",
-    "titleHash": "69c47bee8d5cd059",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-09T16:01:48.744Z"
-  },
-  {
     "itemId": "MLB5350127318",
     "productKey": "ec3b73f24f9af257",
     "titleHash": "802e07e18ad37e9b",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-13T09:01:53.023Z"
+  },
+  {
+    "itemId": "MLB3853894079",
+    "productKey": "e9dfb607a4680c9c",
+    "titleHash": "404369dcec53deb4",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-13T09:16:36.768Z"
+  },
+  {
+    "itemId": "MLB4287692869",
+    "productKey": "0483a914dabef6b5",
+    "titleHash": "56745c96f96954f0",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-13T09:16:36.768Z"
+  },
+  {
+    "itemId": "MLB4217058289",
+    "productKey": "820a7bf3129a48cf",
+    "titleHash": "82c17092d0642575",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-13T09:16:36.768Z"
   }
 ]
