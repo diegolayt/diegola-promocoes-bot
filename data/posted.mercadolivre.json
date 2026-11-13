@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5216361467",
-    "productKey": "8191759e21b92a67",
-    "titleHash": "8b681e8772bc1b7f",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-10T05:16:37.648Z"
-  },
-  {
-    "itemId": "MLB4893345667",
-    "productKey": "9fbe083ddb6385d8",
-    "titleHash": "d9345de1c8e78c68",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-10T05:31:36.043Z"
-  },
-  {
-    "itemId": "MLB7957183366",
-    "productKey": "d4312e0d6c2931f5",
-    "titleHash": "897b790bb2a290b2",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-10T05:31:36.043Z"
-  },
-  {
     "itemId": "MLB4847460971",
     "productKey": "bfd6728ad1b171f9",
     "titleHash": "181b50122314a076",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-13T19:46:43.959Z"
+  },
+  {
+    "itemId": "MLB6162191874",
+    "productKey": "0546c9a98b460ab9",
+    "titleHash": "8f0a8a5ee541baba",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-13T20:01:43.861Z"
+  },
+  {
+    "itemId": "MLB6823469992",
+    "productKey": "cc7b6f9694e26e07",
+    "titleHash": "28260572dc6461e9",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-13T20:01:43.861Z"
+  },
+  {
+    "itemId": "MLB5483040993",
+    "productKey": "d4fbe2d4968af0ce",
+    "titleHash": "137e55812cb682c9",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-13T20:01:43.861Z"
   }
 ]
