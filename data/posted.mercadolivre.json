@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6600701296",
-    "productKey": "67f52b5fb7cb0c3c",
-    "titleHash": "8b7fcc23802a9cb0",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-09T10:46:37.130Z"
-  },
-  {
-    "itemId": "MLB7786271262",
-    "productKey": "6ecd16f5ae34aac7",
-    "titleHash": "67db59bcc713c182",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-09T10:46:37.130Z"
-  },
-  {
     "itemId": "MLB5215638661",
     "productKey": "98aa92e5a98722ca",
     "titleHash": "b6dfdbb0bf292d78",
@@ -4798,5 +4782,21 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-13T05:46:39.963Z"
+  },
+  {
+    "itemId": "MLB4595279704",
+    "productKey": "c9b5c82a0a206f5a",
+    "titleHash": "26b5424896b8e331",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-13T06:01:44.266Z"
+  },
+  {
+    "itemId": "MLB5765125576",
+    "productKey": "e192924e8dfd60cb",
+    "titleHash": "df58680138676c48",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-13T06:01:44.267Z"
   }
 ]
