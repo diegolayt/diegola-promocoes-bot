@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4466956279",
-    "productKey": "6988f39a37694d7a",
-    "titleHash": "41baf1c58abeef70",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-09T12:31:35.937Z"
-  },
-  {
-    "itemId": "MLB6294491390",
-    "productKey": "7665a9d6da616707",
-    "titleHash": "df6de7a9d2086862",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-09T12:46:39.727Z"
-  },
-  {
-    "itemId": "MLB3853894079",
-    "productKey": "e9dfb607a4680c9c",
-    "titleHash": "404369dcec53deb4",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-09T12:46:39.728Z"
-  },
-  {
     "itemId": "MLB4586947077",
     "productKey": "820a7bf3129a48cf",
     "titleHash": "82c17092d0642575",
@@ -4798,5 +4774,29 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-13T06:46:35.657Z"
+  },
+  {
+    "itemId": "MLB4008679825",
+    "productKey": "637df51459d0e797",
+    "titleHash": "46a4780cd1b5a6c7",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-13T07:02:01.580Z"
+  },
+  {
+    "itemId": "MLB7520505822",
+    "productKey": "00bd22528793a65a",
+    "titleHash": "67dbd06fd85b9f45",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-13T07:02:01.580Z"
+  },
+  {
+    "itemId": "MLB7958021662",
+    "productKey": "0c50fbe1ab1492a5",
+    "titleHash": "08c42f6b7de828d4",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-13T07:02:01.580Z"
   }
 ]
