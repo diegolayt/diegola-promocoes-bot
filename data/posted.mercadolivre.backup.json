@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4847460971",
-    "productKey": "bfd6728ad1b171f9",
-    "titleHash": "181b50122314a076",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-10T05:46:39.470Z"
-  },
-  {
     "itemId": "MLB4993216815",
     "productKey": "01b83afad55f31c1",
     "titleHash": "84ad45755322ea1e",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-13T20:01:43.861Z"
+  },
+  {
+    "itemId": "MLB7973375352",
+    "productKey": "d4312e0d6c2931f5",
+    "titleHash": "897b790bb2a290b2",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-13T20:16:44.225Z"
   }
 ]
