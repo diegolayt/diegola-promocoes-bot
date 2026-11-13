@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7715861974",
-    "productKey": "40821c73f39974e2",
-    "titleHash": "400d008b3de62193",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-09T21:46:38.309Z"
-  },
-  {
-    "itemId": "MLB2819502650",
-    "productKey": "511fc15d93907ab0",
-    "titleHash": "29765379176ba821",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-09T22:01:44.466Z"
-  },
-  {
-    "itemId": "MLB4715919159",
-    "productKey": "e589a0eb951f07fb",
-    "titleHash": "b9d459cb91539b28",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-09T22:16:34.899Z"
-  },
-  {
     "itemId": "MLB4027229133",
     "productKey": "1d07b11a945328b6",
     "titleHash": "ff18fddfa72ad4c4",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-13T13:01:41.271Z"
+  },
+  {
+    "itemId": "MLB4835180937",
+    "productKey": "abf8d06c6cfb1b90",
+    "titleHash": "96e7f5a9a79b44c8",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-13T13:16:32.592Z"
+  },
+  {
+    "itemId": "MLB5166470939",
+    "productKey": "f0ce6c3f19f94762",
+    "titleHash": "2e4937b263ba3a23",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-13T13:16:32.592Z"
+  },
+  {
+    "itemId": "MLB5063108807",
+    "productKey": "2434a2436a5e230f",
+    "titleHash": "77dd28c1919fe2ff",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-13T13:16:32.592Z"
   }
 ]
