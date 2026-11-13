@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3771505959",
-    "productKey": "3e24012756b6950c",
-    "titleHash": "fd06cf3b916fc566",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-09T13:16:33.799Z"
-  },
-  {
-    "itemId": "MLB6194501592",
-    "productKey": "743b29089cd31a1b",
-    "titleHash": "fe715e49e4132e41",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-09T13:16:33.799Z"
-  },
-  {
     "itemId": "MLB5526836105",
     "productKey": "a69d636355916b46",
     "titleHash": "23b7e30efd25845a",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-13T07:46:32.783Z"
+  },
+  {
+    "itemId": "MLB7836067492",
+    "productKey": "bf7e00fa51c47b92",
+    "titleHash": "2b36c4d2d2387bd1",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-13T08:01:47.891Z"
+  },
+  {
+    "itemId": "MLB7921551156",
+    "productKey": "d4255e0a63e61dfb",
+    "titleHash": "7595d754ee6983fc",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-13T08:01:47.891Z"
   }
 ]
