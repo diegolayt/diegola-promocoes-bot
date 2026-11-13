@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5980496924",
-    "productKey": "5e2b747dccadc7ed",
-    "titleHash": "b11c7c849e9f236c",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-09T07:16:39.883Z"
-  },
-  {
-    "itemId": "MLB6166313818",
-    "productKey": "f437f44795d481d0",
-    "titleHash": "a8dc62326bfbf119",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-09T07:31:41.219Z"
-  },
-  {
-    "itemId": "MLB7951813576",
-    "productKey": "029d0c6fc887611c",
-    "titleHash": "a2174520f63568e4",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-09T07:31:41.219Z"
-  },
-  {
     "itemId": "MLB4324797875",
     "productKey": "0a5cc4226c46bc09",
     "titleHash": "03b0c5869530dd67",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-13T03:01:39.205Z"
+  },
+  {
+    "itemId": "MLB5487816929",
+    "productKey": "f0aa6c4ebb950930",
+    "titleHash": "53db776e88590465",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-13T03:16:34.806Z"
+  },
+  {
+    "itemId": "MLB6954342220",
+    "productKey": "01626bf5a4615728",
+    "titleHash": "a64225f5f9af9c7c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-13T03:16:34.807Z"
+  },
+  {
+    "itemId": "MLB5728106336",
+    "productKey": "bd5a57a6887059e5",
+    "titleHash": "2f41e2e081190be2",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-13T03:16:34.807Z"
   }
 ]
