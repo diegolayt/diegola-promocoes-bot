@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-09T06:31:36.552Z"
-  },
-  {
     "itemId": "MLB5097723592",
     "productKey": "0314016684b00af3",
     "titleHash": "f150802ac716f3c0",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-13T02:16:41.350Z"
+  },
+  {
+    "itemId": "MLB6160472112",
+    "productKey": "88b04575a2628994",
+    "titleHash": "9342b0d5015d0472",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-13T02:31:40.901Z"
   }
 ]
