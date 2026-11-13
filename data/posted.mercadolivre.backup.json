@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4089347501",
-    "productKey": "f404f4d48a375164",
-    "titleHash": "4ecc5e6577f6dfe7",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-10T05:01:43.959Z"
-  },
-  {
-    "itemId": "MLB5316088743",
-    "productKey": "429e344a68635eec",
-    "titleHash": "0d6a97bbb0f3ef1c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-10T05:01:43.959Z"
-  },
-  {
     "itemId": "MLB4631516257",
     "productKey": "b9b09d11846bf67d",
     "titleHash": "65f1cda77c78cc4f",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-13T19:16:34.460Z"
+  },
+  {
+    "itemId": "MLB3616725881",
+    "productKey": "2b88dc516422dcc0",
+    "titleHash": "d6b5f6fe6c4f8314",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-13T19:31:52.317Z"
+  },
+  {
+    "itemId": "MLB3797364569",
+    "productKey": "96983e4185e3eef7",
+    "titleHash": "f469ce3c49a26e01",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-13T19:31:52.317Z"
   }
 ]
