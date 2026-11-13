@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6254580488",
-    "productKey": "ac216687c79a68df",
-    "titleHash": "54df2d2cec06655e",
-    "category": "calçado",
-    "sourceCategoryId": "MLB23262",
-    "reservedAt": "2026-11-10T03:16:38.067Z"
-  },
-  {
-    "itemId": "MLB4018321871",
-    "productKey": "4e02753a0d159be6",
-    "titleHash": "30a9c6bb85a83841",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-11-10T03:31:41.670Z"
-  },
-  {
     "itemId": "MLB6244008474",
     "productKey": "c356c59be11ac235",
     "titleHash": "4c99e959114099bb",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-13T17:31:36.409Z"
+  },
+  {
+    "itemId": "MLB5727997850",
+    "productKey": "0af3f0089d2da042",
+    "titleHash": "b229ab2bf8859545",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-13T17:46:39.129Z"
+  },
+  {
+    "itemId": "MLB4755939250",
+    "productKey": "5b2c7ec3dd086606",
+    "titleHash": "09c567975070e98f",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-13T17:46:39.129Z"
   }
 ]
