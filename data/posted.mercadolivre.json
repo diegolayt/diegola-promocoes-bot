@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7956089676",
-    "productKey": "eff4ebbdec2c8425",
-    "titleHash": "ed957b2ce03ff7f5",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-09T05:31:39.231Z"
-  },
-  {
-    "itemId": "MLB7826240746",
-    "productKey": "7ff4850888a120db",
-    "titleHash": "9c4f307b8d6d26f0",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-09T05:46:37.387Z"
-  },
-  {
     "itemId": "MLB5039366244",
     "productKey": "677485e12ee1bef6",
     "titleHash": "824b09eda268afd6",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-13T01:46:35.820Z"
+  },
+  {
+    "itemId": "MLB4268042659",
+    "productKey": "cddbf545af237f6f",
+    "titleHash": "3bbe4ed40543e0e7",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-13T02:01:45.025Z"
+  },
+  {
+    "itemId": "MLB4278550700",
+    "productKey": "484a03825ae17ef1",
+    "titleHash": "fe796f34ef3590ff",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-13T02:01:45.025Z"
   }
 ]
