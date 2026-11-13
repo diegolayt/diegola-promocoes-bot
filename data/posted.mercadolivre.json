@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4115638623",
-    "productKey": "9681761c11f42242",
-    "titleHash": "c506f453654b8575",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-09T12:16:40.568Z"
-  },
-  {
-    "itemId": "MLB3854074921",
-    "productKey": "cb7b3aabd989fc60",
-    "titleHash": "b2d3ecf34e097bae",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-11-09T12:31:35.937Z"
-  },
-  {
     "itemId": "MLB4466956279",
     "productKey": "6988f39a37694d7a",
     "titleHash": "41baf1c58abeef70",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-13T06:31:34.845Z"
+  },
+  {
+    "itemId": "MLB4514233797",
+    "productKey": "b80aa50f4c572f73",
+    "titleHash": "554791d76d1ac8c8",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-13T06:46:35.657Z"
+  },
+  {
+    "itemId": "MLB3734408005",
+    "productKey": "0f09bd22eb07aaa2",
+    "titleHash": "8ece10dd02994ba9",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-13T06:46:35.657Z"
   }
 ]
