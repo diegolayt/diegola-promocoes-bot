@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4521043917",
-    "productKey": "e7e88bfd6362d701",
-    "titleHash": "94e0411828b83478",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-09T21:01:50.822Z"
-  },
-  {
-    "itemId": "MLB5221982851",
-    "productKey": "e026eda0eb29f423",
-    "titleHash": "541b9f08c97d8a4b",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-09T21:16:40.967Z"
-  },
-  {
-    "itemId": "MLB5139760693",
-    "productKey": "c6ffc2bdedffd41c",
-    "titleHash": "7660bd2cc9a981c5",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-09T21:46:38.309Z"
-  },
-  {
     "itemId": "MLB7715861974",
     "productKey": "40821c73f39974e2",
     "titleHash": "400d008b3de62193",
@@ -4798,5 +4774,29 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-13T12:46:31.794Z"
+  },
+  {
+    "itemId": "MLB5084785712",
+    "productKey": "dc82d11f8b29eade",
+    "titleHash": "3532c31d92333d51",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-13T13:01:41.271Z"
+  },
+  {
+    "itemId": "MLB5407300636",
+    "productKey": "b5cbd04220fcf0a0",
+    "titleHash": "be0511f838779454",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-13T13:01:41.271Z"
+  },
+  {
+    "itemId": "MLB7567527640",
+    "productKey": "a43e7b064f1a955f",
+    "titleHash": "a1bb336b397d265d",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-13T13:01:41.271Z"
   }
 ]
