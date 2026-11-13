@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5526836105",
-    "productKey": "a69d636355916b46",
-    "titleHash": "23b7e30efd25845a",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-09T13:16:33.799Z"
-  },
-  {
     "itemId": "MLB7618823038",
     "productKey": "7c5b29917a5a4f0d",
     "titleHash": "4df93f7a820e0b0f",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-13T08:01:47.891Z"
+  },
+  {
+    "itemId": "MLB7633876088",
+    "productKey": "e7466642d6b5d025",
+    "titleHash": "325029870601ba85",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-13T08:16:35.725Z"
   }
 ]
