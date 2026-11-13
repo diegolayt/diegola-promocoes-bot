@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4612161397",
-    "productKey": "819054fbbea42c9a",
-    "titleHash": "dbbfa39f8921466e",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-09T15:31:36.133Z"
-  },
-  {
-    "itemId": "MLB5439559923",
-    "productKey": "c400d42728432e17",
-    "titleHash": "8edb8eda870ef1af",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-09T15:31:36.133Z"
-  },
-  {
     "itemId": "MLB6976567444",
     "productKey": "10d83ae90f0fb762",
     "titleHash": "5467f88d296880b9",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-13T08:46:42.120Z"
+  },
+  {
+    "itemId": "MLB7246986836",
+    "productKey": "7ff4850888a120db",
+    "titleHash": "9c4f307b8d6d26f0",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-13T09:01:53.023Z"
+  },
+  {
+    "itemId": "MLB5521579115",
+    "productKey": "b912948cf9b5e753",
+    "titleHash": "4f9c8fc996431b26",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-13T09:01:53.023Z"
   }
 ]
