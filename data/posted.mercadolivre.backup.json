@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5537219564",
-    "productKey": "3ea7879486c7a7da",
-    "titleHash": "792f7c3149657cee",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-10T02:46:40.558Z"
-  },
-  {
-    "itemId": "MLB6823469992",
-    "productKey": "cc7b6f9694e26e07",
-    "titleHash": "28260572dc6461e9",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-10T02:46:40.558Z"
-  },
-  {
     "itemId": "MLB6254580488",
     "productKey": "ac216687c79a68df",
     "titleHash": "54df2d2cec06655e",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-13T17:16:30.014Z"
+  },
+  {
+    "itemId": "MLB4104379865",
+    "productKey": "bcc383aebf7b4b19",
+    "titleHash": "7497e9df0d7cbdd8",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-13T17:31:36.409Z"
+  },
+  {
+    "itemId": "MLB4755857128",
+    "productKey": "79d5c8260fac4419",
+    "titleHash": "8d80c6d8b8751a60",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-13T17:31:36.409Z"
   }
 ]
