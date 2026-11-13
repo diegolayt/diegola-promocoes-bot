@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6160472112",
-    "productKey": "88b04575a2628994",
-    "titleHash": "9342b0d5015d0472",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-09T03:31:32.929Z"
-  },
-  {
-    "itemId": "MLB4268042659",
-    "productKey": "cddbf545af237f6f",
-    "titleHash": "3bbe4ed40543e0e7",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-09T03:46:38.467Z"
-  },
-  {
-    "itemId": "MLB7724214528",
-    "productKey": "b7371e77d704b462",
-    "titleHash": "cc44c47e60e54f0b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-09T03:46:38.467Z"
-  },
-  {
     "itemId": "MLB4204276525",
     "productKey": "56e953d72225b9db",
     "titleHash": "a52b2817a8ca9972",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-13T00:16:36.537Z"
+  },
+  {
+    "itemId": "MLB5742508852",
+    "productKey": "29792390958b21d3",
+    "titleHash": "3984b433cca799c4",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-13T00:31:39.984Z"
+  },
+  {
+    "itemId": "MLB7980950720",
+    "productKey": "23c4410a26b6c187",
+    "titleHash": "a4502ea76973e897",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-13T00:31:39.985Z"
+  },
+  {
+    "itemId": "MLB7590996778",
+    "productKey": "d91a46db3bbd17c5",
+    "titleHash": "83f5c4bda28b8b90",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-13T00:31:39.985Z"
   }
 ]
