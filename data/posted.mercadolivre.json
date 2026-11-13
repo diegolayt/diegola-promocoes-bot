@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4204276525",
-    "productKey": "56e953d72225b9db",
-    "titleHash": "a52b2817a8ca9972",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-09T03:46:38.467Z"
-  },
-  {
     "itemId": "MLB7911512448",
     "productKey": "630abd9b007307fe",
     "titleHash": "77f4d7c3280dfb52",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-13T00:31:39.985Z"
+  },
+  {
+    "itemId": "MLB7658459660",
+    "productKey": "7553a221ebd439ad",
+    "titleHash": "bbf4157e2e7d1e0f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-13T00:46:40.036Z"
   }
 ]
