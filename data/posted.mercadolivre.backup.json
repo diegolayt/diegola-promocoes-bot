@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7920142698",
-    "productKey": "b1a6ed780f0fe240",
-    "titleHash": "1982de45a97168c2",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-09T19:31:40.630Z"
-  },
-  {
-    "itemId": "MLB5084785712",
-    "productKey": "dc82d11f8b29eade",
-    "titleHash": "3532c31d92333d51",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-09T19:46:38.636Z"
-  },
-  {
-    "itemId": "MLB4835180937",
-    "productKey": "abf8d06c6cfb1b90",
-    "titleHash": "96e7f5a9a79b44c8",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-09T19:46:38.636Z"
-  },
-  {
     "itemId": "MLB5395031516",
     "productKey": "06babd581101f23b",
     "titleHash": "49b321f683ef6a94",
@@ -4798,5 +4774,29 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-11-13T12:01:48.058Z"
+  },
+  {
+    "itemId": "MLB6182336356",
+    "productKey": "e772e6fb3830f752",
+    "titleHash": "796851ab66948329",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-13T12:16:33.630Z"
+  },
+  {
+    "itemId": "MLB4811259715",
+    "productKey": "7abc3c7eceaff66c",
+    "titleHash": "0770fcd7bab16021",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-13T12:16:33.630Z"
+  },
+  {
+    "itemId": "MLB3964316525",
+    "productKey": "142385f66dcdd104",
+    "titleHash": "4d563e7f677f169d",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-13T12:16:33.630Z"
   }
 ]
