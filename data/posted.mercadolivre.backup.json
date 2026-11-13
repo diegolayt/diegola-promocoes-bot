@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7911512448",
-    "productKey": "630abd9b007307fe",
-    "titleHash": "77f4d7c3280dfb52",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-09T04:01:43.778Z"
-  },
-  {
-    "itemId": "MLB4371605519",
-    "productKey": "2546452a96d07059",
-    "titleHash": "6eea06c316952154",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-09T04:16:41.382Z"
-  },
-  {
-    "itemId": "MLB7485354642",
-    "productKey": "b70bcf8b75607f51",
-    "titleHash": "c01ccd1bd728f32c",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-09T04:16:41.382Z"
-  },
-  {
     "itemId": "MLB5270753801",
     "productKey": "03268f9fe00e909e",
     "titleHash": "6ed609609a19a867",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-13T00:46:40.036Z"
+  },
+  {
+    "itemId": "MLB3838209499",
+    "productKey": "b9ee45f2c4136d0e",
+    "titleHash": "ae8d97b0516bc2b5",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-13T01:01:46.462Z"
+  },
+  {
+    "itemId": "MLB5261097875",
+    "productKey": "a04a75b9fb4e31ed",
+    "titleHash": "f6dd9b7437ccaa6c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-13T01:01:46.462Z"
+  },
+  {
+    "itemId": "MLB5525827445",
+    "productKey": "56e953d72225b9db",
+    "titleHash": "a52b2817a8ca9972",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-13T01:01:46.462Z"
   }
 ]
