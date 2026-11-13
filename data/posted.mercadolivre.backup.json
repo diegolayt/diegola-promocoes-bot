@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6175718676",
-    "productKey": "9077b5e04abe0eda",
-    "titleHash": "19baa0fcc69e4f1e",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-09T17:16:32.007Z"
-  },
-  {
-    "itemId": "MLB6199360994",
-    "productKey": "e6883ccc59c7b962",
-    "titleHash": "1e795399d6aab2f4",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-09T17:16:32.007Z"
-  },
-  {
     "itemId": "MLB7856263268",
     "productKey": "7b530b4b1ca8b409",
     "titleHash": "16098ab31f1e5d10",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-13T10:01:39.256Z"
+  },
+  {
+    "itemId": "MLB5820611620",
+    "productKey": "81470f458df652f2",
+    "titleHash": "9b560d3758ed6fb2",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-13T10:16:37.763Z"
+  },
+  {
+    "itemId": "MLB6755949246",
+    "productKey": "5ef572b794dd17e0",
+    "titleHash": "ee76a88aa5fe3a7e",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-13T10:16:37.763Z"
   }
 ]
