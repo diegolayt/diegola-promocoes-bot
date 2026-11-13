@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5281065549",
-    "productKey": "07d87d6eac1d4eb5",
-    "titleHash": "43238e00cbb06f9b",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-09T18:01:51.439Z"
-  },
-  {
-    "itemId": "MLB3577643321",
-    "productKey": "8af7df7f67736088",
-    "titleHash": "424920e3dd208530",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-09T19:01:46.054Z"
-  },
-  {
-    "itemId": "MLB5130081305",
-    "productKey": "a2a3edc1809c6c6b",
-    "titleHash": "b14b8b4878c17f55",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-09T19:01:46.054Z"
-  },
-  {
     "itemId": "MLB6420215012",
     "productKey": "810f54caef449f8a",
     "titleHash": "91f8268a7fe15f7e",
@@ -4798,5 +4774,29 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-13T10:46:40.094Z"
+  },
+  {
+    "itemId": "MLB4758538973",
+    "productKey": "423754fcafb59c0b",
+    "titleHash": "2e54e63e8ac79d09",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-13T11:16:39.794Z"
+  },
+  {
+    "itemId": "MLB3815737187",
+    "productKey": "7966d90622442ad2",
+    "titleHash": "093e9e8141599e74",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-13T11:16:39.794Z"
+  },
+  {
+    "itemId": "MLB7979913786",
+    "productKey": "6a0f3de508245dc1",
+    "titleHash": "ae7ee8f191bd670b",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-13T11:16:39.795Z"
   }
 ]
