@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4440137909",
-    "productKey": "66aad9dacbb2cc0c",
-    "titleHash": "9d1eae52c8bb9416",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-11-10T02:01:45.021Z"
-  },
-  {
-    "itemId": "MLB4320374081",
-    "productKey": "bd7e186faebad4c2",
-    "titleHash": "4f66bd4101d296ee",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-10T02:01:45.021Z"
-  },
-  {
-    "itemId": "MLB3797364569",
-    "productKey": "96983e4185e3eef7",
-    "titleHash": "f469ce3c49a26e01",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-10T02:16:32.060Z"
-  },
-  {
-    "itemId": "MLB5516680589",
-    "productKey": "4755b979c3c045a4",
-    "titleHash": "f202ae7974835d43",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-10T02:16:32.060Z"
-  },
-  {
     "itemId": "MLB5797783884",
     "productKey": "e74daaa756c75cfc",
     "titleHash": "0b15036db2299503",
@@ -4798,5 +4766,37 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-13T16:46:50.627Z"
+  },
+  {
+    "itemId": "MLB6764557012",
+    "productKey": "2fbf4e278f428da4",
+    "titleHash": "60e6c7fff123c448",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-13T17:01:34.619Z"
+  },
+  {
+    "itemId": "MLB5324863524",
+    "productKey": "774e524f296cd250",
+    "titleHash": "d23245fb4d16b171",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-13T17:01:34.619Z"
+  },
+  {
+    "itemId": "MLB7870385296",
+    "productKey": "7b530b4b1ca8b409",
+    "titleHash": "16098ab31f1e5d10",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-13T17:01:34.619Z"
+  },
+  {
+    "itemId": "MLB7586508636",
+    "productKey": "da6e47d6f5b6a37a",
+    "titleHash": "da2698cd8324fb9f",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-13T17:01:34.619Z"
   }
 ]
