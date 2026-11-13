@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4993216815",
-    "productKey": "01b83afad55f31c1",
-    "titleHash": "84ad45755322ea1e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-10T05:46:39.470Z"
-  },
-  {
-    "itemId": "MLB5184538707",
-    "productKey": "2b8d916b04c09f90",
-    "titleHash": "e6a0bbceb4a1566b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-10T05:46:39.470Z"
-  },
-  {
-    "itemId": "MLB4083441037",
-    "productKey": "19f894e9b99512b0",
-    "titleHash": "2c66353ef45a49a5",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-10T06:01:43.521Z"
-  },
-  {
     "itemId": "MLB5810636432",
     "productKey": "ef37a237b4aea772",
     "titleHash": "0826b70c987fa868",
@@ -4798,5 +4774,29 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-13T20:16:44.225Z"
+  },
+  {
+    "itemId": "MLB4018321871",
+    "productKey": "4e02753a0d159be6",
+    "titleHash": "30a9c6bb85a83841",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-13T20:46:30.625Z"
+  },
+  {
+    "itemId": "MLB5424041486",
+    "productKey": "a69c89af46f539e7",
+    "titleHash": "47a732733919029b",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-13T20:46:30.625Z"
+  },
+  {
+    "itemId": "MLB5144524471",
+    "productKey": "c356c59be11ac235",
+    "titleHash": "4c99e959114099bb",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-13T20:46:30.625Z"
   }
 ]
