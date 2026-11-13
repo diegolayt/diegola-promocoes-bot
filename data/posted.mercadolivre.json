@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7586569004",
-    "productKey": "0ff33a7f933d771f",
-    "titleHash": "1ac364f778f5f627",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-09T19:31:40.629Z"
-  },
-  {
-    "itemId": "MLB4549814415",
-    "productKey": "5707418a30805cbf",
-    "titleHash": "4e21a569e001ae6e",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-09T19:31:40.630Z"
-  },
-  {
-    "itemId": "MLB5210291587",
-    "productKey": "9d751b711b454293",
-    "titleHash": "836381a7863b8ad3",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-09T19:31:40.630Z"
-  },
-  {
     "itemId": "MLB7920142698",
     "productKey": "b1a6ed780f0fe240",
     "titleHash": "1982de45a97168c2",
@@ -4798,5 +4774,29 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-13T11:46:30.843Z"
+  },
+  {
+    "itemId": "MLB2634448552",
+    "productKey": "8af7df7f67736088",
+    "titleHash": "424920e3dd208530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-13T12:01:48.057Z"
+  },
+  {
+    "itemId": "MLB7606575730",
+    "productKey": "7ae62e631b538a5f",
+    "titleHash": "f50155dd95bff7b2",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-13T12:01:48.058Z"
+  },
+  {
+    "itemId": "MLB5195402891",
+    "productKey": "819054fbbea42c9a",
+    "titleHash": "dbbfa39f8921466e",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-11-13T12:01:48.058Z"
   }
 ]
