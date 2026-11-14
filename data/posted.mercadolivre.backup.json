@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7413456100",
-    "productKey": "f59ad2d75ea00ed2",
-    "titleHash": "2eeeca2ccff60b6f",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-10T21:31:43.658Z"
-  },
-  {
-    "itemId": "MLB5516672913",
-    "productKey": "00b14ae85745311e",
-    "titleHash": "4332a25ca14ae522",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-10T21:31:43.658Z"
-  },
-  {
     "itemId": "MLB4252005123",
     "productKey": "43fb2e8ff1234548",
     "titleHash": "050bee7a12687ac0",
@@ -4798,5 +4782,21 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-14T07:01:43.884Z"
+  },
+  {
+    "itemId": "MLB3845254515",
+    "productKey": "c51898934732d05c",
+    "titleHash": "2f77857bd51fad93",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-14T07:16:35.480Z"
+  },
+  {
+    "itemId": "MLB5451861382",
+    "productKey": "587d20e08660bde7",
+    "titleHash": "990a1ea0e342ba85",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-14T07:16:35.480Z"
   }
 ]
