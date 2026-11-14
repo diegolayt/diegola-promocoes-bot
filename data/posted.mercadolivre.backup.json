@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7658098506",
-    "productKey": "26abb2120087ccc4",
-    "titleHash": "2a6e08582af5bd66",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-11T00:16:37.448Z"
-  },
-  {
     "itemId": "MLB5343808690",
     "productKey": "8020b2695e5c92d7",
     "titleHash": "917f3be7a1686bc9",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-14T10:16:33.772Z"
+  },
+  {
+    "itemId": "MLB3520280815",
+    "productKey": "7262ef56ea36d241",
+    "titleHash": "3d0acc5ed8d2644f",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-14T10:31:46.996Z"
   }
 ]
