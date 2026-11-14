@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3899943077",
-    "productKey": "22a14d6998675ae9",
-    "titleHash": "1b1909ed1ab40901",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-11T14:31:52.287Z"
-  },
-  {
-    "itemId": "MLB5340342250",
-    "productKey": "ccb6a091dd86456b",
-    "titleHash": "34034148276df6c7",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-11T14:31:52.287Z"
-  },
-  {
     "itemId": "MLB2654504800",
     "productKey": "02983e6cebf8fe5d",
     "titleHash": "29879c6e3f2ebbc5",
@@ -4798,5 +4782,21 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-14T21:46:38.219Z"
+  },
+  {
+    "itemId": "MLB5560511379",
+    "productKey": "433c92dede263740",
+    "titleHash": "e7ffde166713f219",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-14T22:01:39.212Z"
+  },
+  {
+    "itemId": "MLB5546303159",
+    "productKey": "690d29606093b12a",
+    "titleHash": "eff4b6f329165dbf",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-14T22:01:39.212Z"
   }
 ]
