@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5546560037",
+      "site_id": "MLB",
+      "seller_id": 3121814911,
+      "accepts_mercadopago": true,
+      "price": 93.99,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 99.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTjMxMzZk",
+          "name": "Contagem"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQk5PVjQwNkZG",
+          "name": "Novo Eldorado"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5888005418",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB39016247",
+      "title": "O Boticário Quasar Blue Desodorante Colônia 100ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_645686-MLA82876911341_032025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB39016247",
+      "id": "MLB5546560037",
+      "sold_quantity": 2000,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-14T14:31:40.227Z"
+}

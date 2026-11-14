@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7791936566",
-    "productKey": "2f868339db1e586d",
-    "titleHash": "89a9c74f588cbf1b",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-11T04:01:40.877Z"
-  },
-  {
     "itemId": "MLB4976654141",
     "productKey": "1e02c9455942b0ea",
     "titleHash": "b7eb6e3ad56267d8",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-14T14:16:37.779Z"
+  },
+  {
+    "itemId": "MLB5546560037",
+    "productKey": "168be902fe1cd973",
+    "titleHash": "338136e26add6b14",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-14T14:31:40.225Z"
   }
 ]
