@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3917376669",
-    "productKey": "bb0210ae17eea6d0",
-    "titleHash": "323bf31f9fa959bb",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-10T16:46:41.180Z"
-  },
-  {
-    "itemId": "MLB7961017284",
-    "productKey": "3290caa2bbf60419",
-    "titleHash": "0a784ed1ced73153",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-10T17:01:47.611Z"
-  },
-  {
     "itemId": "MLB7664829292",
     "productKey": "65f76d4d80610600",
     "titleHash": "f79f79b54d17cddf",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-14T02:31:40.809Z"
+  },
+  {
+    "itemId": "MLB5512400488",
+    "productKey": "cd6908a1373b2654",
+    "titleHash": "08f953c8f96c4c54",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-14T02:46:37.020Z"
+  },
+  {
+    "itemId": "MLB4571808527",
+    "productKey": "c2c20abe683b2104",
+    "titleHash": "bbecf78f74751795",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-14T02:46:37.021Z"
   }
 ]
