@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5146371923",
-    "productKey": "433c92dede263740",
-    "titleHash": "e7ffde166713f219",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-11T13:46:36.886Z"
-  },
-  {
     "itemId": "MLB3600544593",
     "productKey": "c52e36fc9898a93c",
     "titleHash": "0980e9b00d7d2072",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-14T21:16:32.055Z"
+  },
+  {
+    "itemId": "MLB3589312413",
+    "productKey": "64d907793969abd0",
+    "titleHash": "683807807645b6a9",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-14T21:31:44.468Z"
   }
 ]
