@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7813039758",
-    "productKey": "caaa6d3d3ab9a0f8",
-    "titleHash": "842b7036f0d2ecc0",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-11T07:01:43.792Z"
-  },
-  {
-    "itemId": "MLB2735052332",
-    "productKey": "bc671c6efd514d42",
-    "titleHash": "c7204587a86680fc",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-11T07:16:32.996Z"
-  },
-  {
     "itemId": "MLB5144549137",
     "productKey": "da0ea8925191f1bb",
     "titleHash": "dce29aec63a146d7",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-14T16:16:29.706Z"
+  },
+  {
+    "itemId": "MLB4708820035",
+    "productKey": "9452ee0e479ad9ff",
+    "titleHash": "ca8268008cd70647",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-14T16:31:44.027Z"
+  },
+  {
+    "itemId": "MLB5437751727",
+    "productKey": "81231682978a91c7",
+    "titleHash": "f963640783481006",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-14T16:31:44.027Z"
   }
 ]
