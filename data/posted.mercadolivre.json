@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3956721899",
-    "productKey": "f8541b1120414240",
-    "titleHash": "6e7efcaaa8b039c0",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-11T02:46:28.256Z"
-  },
-  {
     "itemId": "MLB5413776368",
     "productKey": "43ab81ed3d64cbfc",
     "titleHash": "847b82f5eeb65c22",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-14T12:46:36.404Z"
+  },
+  {
+    "itemId": "MLB6796041994",
+    "productKey": "b38c37fa3a07a180",
+    "titleHash": "0718e90e7c453389",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-14T13:01:46.832Z"
   }
 ]
