@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6253024804",
-    "productKey": "ba7df21eb0ca2036",
-    "titleHash": "e289328335e8aff0",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-11T06:31:36.476Z"
-  },
-  {
-    "itemId": "MLB3417755047",
-    "productKey": "268fde5a5ed21950",
-    "titleHash": "5806263d0b543f99",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-11T06:46:33.898Z"
-  },
-  {
     "itemId": "MLB7813039758",
     "productKey": "caaa6d3d3ab9a0f8",
     "titleHash": "842b7036f0d2ecc0",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-14T15:46:36.111Z"
+  },
+  {
+    "itemId": "MLB5556470903",
+    "productKey": "bae1653716216553",
+    "titleHash": "53a63b533fde190b",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-14T16:16:29.706Z"
+  },
+  {
+    "itemId": "MLB7124261450",
+    "productKey": "9c762775786a2c63",
+    "titleHash": "4d8b88ad92cbf3b8",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-14T16:16:29.706Z"
   }
 ]
