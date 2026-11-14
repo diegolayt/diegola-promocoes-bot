@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7664829292",
-    "productKey": "65f76d4d80610600",
-    "titleHash": "f79f79b54d17cddf",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-10T17:31:37.222Z"
-  },
-  {
-    "itemId": "MLB4580386889",
-    "productKey": "b8935fb8944c490f",
-    "titleHash": "285cbfea11f2ea3e",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-10T17:31:37.222Z"
-  },
-  {
-    "itemId": "MLB6415676772",
-    "productKey": "e40128f4b7c3537b",
-    "titleHash": "5340863658bdfc1e",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-10T17:31:37.222Z"
-  },
-  {
     "itemId": "MLB6164567662",
     "productKey": "f8ed6f2d8a7633f9",
     "titleHash": "6103b5d4659eec99",
@@ -4798,5 +4774,29 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-14T02:46:37.021Z"
+  },
+  {
+    "itemId": "MLB3556275459",
+    "productKey": "f8860107ce3c1512",
+    "titleHash": "62799891c9cef2b5",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-14T03:01:45.323Z"
+  },
+  {
+    "itemId": "MLB5314935406",
+    "productKey": "29a167728a58669c",
+    "titleHash": "a40852fe2e7ef3d0",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-14T03:01:45.323Z"
+  },
+  {
+    "itemId": "MLB5238469569",
+    "productKey": "cf31f194e5125ea5",
+    "titleHash": "53f465883ca4f30e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-14T03:01:45.323Z"
   }
 ]
