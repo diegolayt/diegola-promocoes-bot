@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4660482303",
-    "productKey": "9f620b521d231202",
-    "titleHash": "8ebbebef839099e6",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-10T17:46:39.528Z"
-  },
-  {
-    "itemId": "MLB4320329461",
-    "productKey": "ec1a0f6646947a52",
-    "titleHash": "8194a721d6cd8807",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-10T18:01:44.711Z"
-  },
-  {
     "itemId": "MLB7764896190",
     "productKey": "d90185c5813ba0bb",
     "titleHash": "26e89182c842e1bc",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-14T03:16:38.879Z"
+  },
+  {
+    "itemId": "MLB4674216985",
+    "productKey": "9ccd3c60d0a6699f",
+    "titleHash": "65d824798790f1ae",
+    "category": "colchão",
+    "sourceCategoryId": "MLB438928",
+    "reservedAt": "2026-11-14T03:46:41.038Z"
+  },
+  {
+    "itemId": "MLB5556687497",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-14T03:46:41.038Z"
   }
 ]
