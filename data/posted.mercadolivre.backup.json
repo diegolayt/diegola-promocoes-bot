@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6222697532",
-    "productKey": "45808aef9e36af2b",
-    "titleHash": "0fed13623550fa42",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-10T20:46:35.912Z"
-  },
-  {
-    "itemId": "MLB5519665603",
-    "productKey": "1551bf9f32c05b23",
-    "titleHash": "41a02a3933f5017f",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-10T20:46:35.912Z"
-  },
-  {
     "itemId": "MLB4544180442",
     "productKey": "c9df3c56099bd37b",
     "titleHash": "34f9448e848ee070",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-14T06:01:43.078Z"
+  },
+  {
+    "itemId": "MLB4935535334",
+    "productKey": "e9455fbd3cb133ae",
+    "titleHash": "947cef40e57cf05a",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-14T06:16:38.311Z"
+  },
+  {
+    "itemId": "MLB5219998762",
+    "productKey": "ab0f5abeb7d01b34",
+    "titleHash": "3dd9c056269296af",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-14T06:16:38.311Z"
   }
 ]
