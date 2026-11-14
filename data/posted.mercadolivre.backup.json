@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4297931689",
-    "productKey": "322af4737407e3c8",
-    "titleHash": "e3a8db476d5e57ea",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-10T12:16:35.925Z"
-  },
-  {
-    "itemId": "MLB1630337787",
-    "productKey": "d22fa65cdb3c5323",
-    "titleHash": "61315aeef9dd29e4",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-10T14:16:34.981Z"
-  },
-  {
     "itemId": "MLB7626272098",
     "productKey": "66c7b386fec7fb85",
     "titleHash": "07d3743c349b4b43",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-14T01:01:55.803Z"
+  },
+  {
+    "itemId": "MLB5249062183",
+    "productKey": "0d89405e65a8c65e",
+    "titleHash": "d8d5e40afde92978",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-14T01:16:30.395Z"
+  },
+  {
+    "itemId": "MLB4771492437",
+    "productKey": "b8b821ebbc3d00cc",
+    "titleHash": "015f139068ee71d9",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-14T01:16:30.395Z"
   }
 ]
