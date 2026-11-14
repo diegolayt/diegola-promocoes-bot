@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5343808690",
-    "productKey": "8020b2695e5c92d7",
-    "titleHash": "917f3be7a1686bc9",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-11T00:31:39.516Z"
-  },
-  {
     "itemId": "MLB5075783573",
     "productKey": "93b0581f10d51661",
     "titleHash": "f1bca9745f7146b2",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-14T10:31:46.996Z"
+  },
+  {
+    "itemId": "MLB7796345324",
+    "productKey": "97ae2ef6f831804d",
+    "titleHash": "1da2ceac8c4459f9",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-14T10:46:30.996Z"
   }
 ]
