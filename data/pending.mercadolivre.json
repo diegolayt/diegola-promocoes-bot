@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7813033302",
+      "site_id": "MLB",
+      "seller_id": 533180837,
+      "accepts_mercadopago": true,
+      "price": 399,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2114,
+      "original_price": 814.8,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRW1idSBkYXMgQXJ0ZXNUVXhDVUZOQlQwO",
+          "name": "Embu das Artes"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIFZpc3RhIEFsZWdyZVRWaFlSV",
+          "name": "Jardim Vista Alegre"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4963505651",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23161790",
+      "title": "Arno Genio S Basic DGS5 Gris",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_894567-MLA99958091989_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23161790",
+      "id": "MLB7813033302",
+      "sold_quantity": 1300,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6073210370",
+      "site_id": "MLB",
+      "seller_id": 323697852,
+      "accepts_mercadopago": true,
+      "price": 959.9,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1117,
+      "original_price": 1244.41,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lQQTYxODQxOQ",
+          "name": "Ipameri"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBVjgxNzIxMQ",
+          "name": "Cavalheiro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3385408576",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB60728265",
+      "title": "Smart Tv Aoc Dled 32 Wi-fi Roku Tv Quad Core 32s5155/78g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_802027-MLA120306983603_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB60728265",
+      "id": "MLB6073210370",
+      "sold_quantity": 1600,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    },
+    {
+      "item_id": "MLB7613923148",
+      "site_id": "MLB",
+      "seller_id": 14933621,
+      "accepts_mercadopago": true,
+      "price": 1260,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5532,
+      "original_price": 1599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "fbm_in_process",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5156861104",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52170796",
+      "title": "Monitor Gamer Tcl 25 Polegadas Qd-Mini Led Full Hd G64 300hz 1ms (Gtg) Freesync Hdr 600 Nits 25g64",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_994730-MLA115998386538_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52170796",
+      "id": "MLB7613923148",
+      "sold_quantity": 100,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-11-14T11:16:32.845Z"
+}
