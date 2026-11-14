@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5415225163",
-    "productKey": "e79cacc5bfe33eec",
-    "titleHash": "248c99ad0a42a4d3",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-10T10:16:36.517Z"
-  },
-  {
     "itemId": "MLB4562067447",
     "productKey": "fee0803db3fdd4f9",
     "titleHash": "036294730bf79c55",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-14T00:01:46.448Z"
+  },
+  {
+    "itemId": "MLB5237441463",
+    "productKey": "8be3319e521559cd",
+    "titleHash": "9deb07ab1d05ae9d",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-14T00:16:38.245Z"
   }
 ]
