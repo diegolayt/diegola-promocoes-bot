@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6796041994",
-    "productKey": "b38c37fa3a07a180",
-    "titleHash": "0718e90e7c453389",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-11T02:16:33.381Z"
-  },
-  {
-    "itemId": "MLB4747976917",
-    "productKey": "1c0c2cfead503f62",
-    "titleHash": "4092e4d6763c3705",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-11T02:16:33.381Z"
-  },
-  {
     "itemId": "MLB5413578547",
     "productKey": "af6fd456573a6c22",
     "titleHash": "1a0f1b9fd4ebb53e",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-14T12:16:35.660Z"
+  },
+  {
+    "itemId": "MLB2715864979",
+    "productKey": "c61bb77a90f70d42",
+    "titleHash": "e318b8d137692aca",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-14T12:31:40.022Z"
+  },
+  {
+    "itemId": "MLB5540907591",
+    "productKey": "00737ae5c6b1088e",
+    "titleHash": "98ce55219da388e1",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-14T12:31:40.022Z"
   }
 ]
