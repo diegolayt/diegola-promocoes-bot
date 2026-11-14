@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7626272098",
-    "productKey": "66c7b386fec7fb85",
-    "titleHash": "07d3743c349b4b43",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-10T14:46:51.080Z"
-  },
-  {
     "itemId": "MLB6477860672",
     "productKey": "e6db9c07805af9aa",
     "titleHash": "89577e9cd55fb731",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-14T01:16:30.395Z"
+  },
+  {
+    "itemId": "MLB7485354642",
+    "productKey": "b70bcf8b75607f51",
+    "titleHash": "c01ccd1bd728f32c",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-14T01:31:44.085Z"
   }
 ]
