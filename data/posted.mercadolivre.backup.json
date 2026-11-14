@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5681639572",
-    "productKey": "33e58474e547384e",
-    "titleHash": "fb74ca65aa81c14b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-10T15:31:43.727Z"
-  },
-  {
-    "itemId": "MLB3867892924",
-    "productKey": "168a7d6b63268a7f",
-    "titleHash": "292d7c8ba1595cab",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-10T15:46:41.648Z"
-  },
-  {
     "itemId": "MLB3556275459",
     "productKey": "f8860107ce3c1512",
     "titleHash": "62799891c9cef2b5",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-14T02:01:45.520Z"
+  },
+  {
+    "itemId": "MLB7912144924",
+    "productKey": "6d6a36b43f25814b",
+    "titleHash": "864ba560595ab6ad",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-14T02:16:36.079Z"
+  },
+  {
+    "itemId": "MLB7984319360",
+    "productKey": "1d3dd666b990c91f",
+    "titleHash": "9167a0816ac03b1e",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-14T02:16:36.080Z"
   }
 ]
