@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5413776368",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-11T03:01:47.207Z"
-  },
-  {
     "itemId": "MLB4424214065",
     "productKey": "a5159ad3bb7f346b",
     "titleHash": "b3a008af85b3061b",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-14T13:01:46.832Z"
+  },
+  {
+    "itemId": "MLB4747976917",
+    "productKey": "1c0c2cfead503f62",
+    "titleHash": "4092e4d6763c3705",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-14T13:16:37.423Z"
   }
 ]
