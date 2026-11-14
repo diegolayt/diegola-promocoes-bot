@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4924351987",
-    "productKey": "a8251bc98e70126a",
-    "titleHash": "3d01cd9c39438f12",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-10T23:46:36.950Z"
-  },
-  {
     "itemId": "MLB6135753584",
     "productKey": "d60f40144ad87174",
     "titleHash": "673a514c6de388e3",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-14T09:01:41.560Z"
+  },
+  {
+    "itemId": "MLB4091456221",
+    "productKey": "40f3ce023dcaf098",
+    "titleHash": "43b0e8b2f3e2ee28",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-14T09:16:32.215Z"
   }
 ]
