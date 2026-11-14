@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5413578547",
-    "productKey": "af6fd456573a6c22",
-    "titleHash": "1a0f1b9fd4ebb53e",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-11T02:31:38.119Z"
-  },
-  {
     "itemId": "MLB3956721899",
     "productKey": "f8541b1120414240",
     "titleHash": "6e7efcaaa8b039c0",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-14T12:31:40.022Z"
+  },
+  {
+    "itemId": "MLB4039445285",
+    "productKey": "99e7af203807e481",
+    "titleHash": "725a0ad2111c45fd",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-14T12:46:36.404Z"
   }
 ]
