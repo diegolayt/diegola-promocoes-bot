@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3845254515",
-    "productKey": "c51898934732d05c",
-    "titleHash": "2f77857bd51fad93",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-10T20:31:35.816Z"
-  },
-  {
-    "itemId": "MLB7868759202",
-    "productKey": "4e3f4c35024a7d4c",
-    "titleHash": "c05ea3c2f80d0174",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-10T20:31:35.816Z"
-  },
-  {
     "itemId": "MLB7480397854",
     "productKey": "a98d9ad149b55f1d",
     "titleHash": "03bf29bdde2827a8",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-14T05:01:54.129Z"
+  },
+  {
+    "itemId": "MLB3397638213",
+    "productKey": "b04d2a77f69e8145",
+    "titleHash": "f22b1d369b2ded63",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-14T05:16:35.101Z"
+  },
+  {
+    "itemId": "MLB4320329461",
+    "productKey": "ec1a0f6646947a52",
+    "titleHash": "8194a721d6cd8807",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-14T05:16:35.101Z"
   }
 ]
