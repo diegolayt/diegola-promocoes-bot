@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7912144924",
-    "productKey": "6d6a36b43f25814b",
-    "titleHash": "864ba560595ab6ad",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-10T15:16:35.657Z"
-  },
-  {
-    "itemId": "MLB5539297803",
-    "productKey": "1d3dd666b990c91f",
-    "titleHash": "9167a0816ac03b1e",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-10T15:16:35.657Z"
-  },
-  {
     "itemId": "MLB5681639572",
     "productKey": "33e58474e547384e",
     "titleHash": "fb74ca65aa81c14b",
@@ -4798,5 +4782,21 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-14T01:46:42.472Z"
+  },
+  {
+    "itemId": "MLB5215944593",
+    "productKey": "e1c6ccd1b23b052e",
+    "titleHash": "4d36991e1a99ae8b",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-14T02:01:45.520Z"
+  },
+  {
+    "itemId": "MLB7045954108",
+    "productKey": "66c7b386fec7fb85",
+    "titleHash": "07d3743c349b4b43",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-14T02:01:45.520Z"
   }
 ]
