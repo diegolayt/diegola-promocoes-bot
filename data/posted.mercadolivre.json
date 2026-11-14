@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7944971274",
-    "productKey": "7d185defb541f932",
-    "titleHash": "45c958da81de6776",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-11T10:16:29.110Z"
-  },
-  {
-    "itemId": "MLB4647847848",
-    "productKey": "5214251f2a0e2de8",
-    "titleHash": "59ba011eeb15abff",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-11T10:31:49.472Z"
-  },
-  {
     "itemId": "MLB3589312413",
     "productKey": "64d907793969abd0",
     "titleHash": "683807807645b6a9",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-14T18:16:35.035Z"
+  },
+  {
+    "itemId": "MLB7057014274",
+    "productKey": "69878d2d21f252a1",
+    "titleHash": "25419699bc99025e",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-14T18:31:44.255Z"
+  },
+  {
+    "itemId": "MLB7991016264",
+    "productKey": "d0747d37c319a421",
+    "titleHash": "5bc53b25ced2901c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-14T18:31:44.255Z"
   }
 ]
