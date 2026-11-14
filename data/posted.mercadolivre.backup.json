@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7124261450",
-    "productKey": "9c762775786a2c63",
-    "titleHash": "4d8b88ad92cbf3b8",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-11T05:31:32.833Z"
-  },
-  {
-    "itemId": "MLB5317144139",
-    "productKey": "81231682978a91c7",
-    "titleHash": "f963640783481006",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-11T05:31:32.833Z"
-  },
-  {
-    "itemId": "MLB5190840977",
-    "productKey": "54cc97934dc749b3",
-    "titleHash": "ae81247f4cd0a8cf",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-11T05:46:34.481Z"
-  },
-  {
-    "itemId": "MLB6188459118",
-    "productKey": "7c1acb43a5d485b1",
-    "titleHash": "0f2c660eb4e7faff",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-11-11T06:01:44.840Z"
-  },
-  {
     "itemId": "MLB5244240851",
     "productKey": "496a44c0154a0bf4",
     "titleHash": "b0961859353c7014",
@@ -4798,5 +4766,37 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-14T15:01:54.200Z"
+  },
+  {
+    "itemId": "MLB6935495886",
+    "productKey": "5562cc1dfd5626e2",
+    "titleHash": "414d7c57051ef1cd",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-14T15:16:29.075Z"
+  },
+  {
+    "itemId": "MLB5187340939",
+    "productKey": "698e69da8766b393",
+    "titleHash": "e00bf88b571fde10",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-14T15:16:29.076Z"
+  },
+  {
+    "itemId": "MLB5399667789",
+    "productKey": "9fbe083ddb6385d8",
+    "titleHash": "d9345de1c8e78c68",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-14T15:16:29.076Z"
+  },
+  {
+    "itemId": "MLB5812974526",
+    "productKey": "4d1932b6c96ba250",
+    "titleHash": "f662e7acd8eb0942",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-14T15:16:29.076Z"
   }
 ]

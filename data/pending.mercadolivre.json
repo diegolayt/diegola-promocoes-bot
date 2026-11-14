@@ -1,0 +1,303 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6935495886",
+      "site_id": "MLB",
+      "seller_id": 3184552098,
+      "accepts_mercadopago": true,
+      "price": 699,
+      "category_id": "MLB271858",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3562,
+      "original_price": 1499,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTY5NzA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBRzQ5NDI",
+          "name": "Jaguaré"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4082245706",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67714382",
+      "title": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria com Até 10 Dias 64 GB Gerenciamento Avançado da Saúde Monitor do Sono SpO2 GPS Compatível com iOS e Android Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_888241-MLA110593054037_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67714382",
+      "id": "MLB6935495886",
+      "sold_quantity": 100,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB5187340939",
+      "site_id": "MLB",
+      "seller_id": 1375734583,
+      "accepts_mercadopago": true,
+      "price": 299.9,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 180 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3949,
+      "original_price": 568.95,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXRpYmFpYVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Atibaia"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYUG9udGUgQWx0YVRWaFlRWFJwWW1GcFlWU",
+          "name": "Ponte Alta"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 180,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "180 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5079441973",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78877802",
+      "title": "Parafusadeira e Furadeira de Impacto 3/8\" The Black Tools Profissional Bateria 21V C/ Maleta + Kit Acessórios 147 Peças",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_826288-MLA117139316625_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78877802",
+      "id": "MLB5187340939",
+      "sold_quantity": 600,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5399667789",
+      "site_id": "MLB",
+      "seller_id": 1150153724,
+      "accepts_mercadopago": true,
+      "price": 599.9,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 999.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJFTDg3NjE",
+          "name": "Bela Vista"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3491177949",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB70004700",
+      "title": "Jogo de Panelas Brinox Ceramic Life Smart Plus com Indução, 7 Peças Antiaderente e Cabo Soft-Touch Areia",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_928703-MLA111907915483_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB70004700",
+      "id": "MLB5399667789",
+      "sold_quantity": 200,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5812974526",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 3599,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 343,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3492254467",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54801609",
+      "title": "Geladeira Consul Frost Free 455 Litros Duplex Inox - CRM56MK",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_711713-MLA91825814571_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54801609",
+      "id": "MLB5812974526",
+      "sold_quantity": 100,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-14T15:16:29.077Z"
+}
