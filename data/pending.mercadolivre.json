@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4812800951",
+      "site_id": "MLB",
+      "seller_id": 1990471388,
+      "accepts_mercadopago": true,
+      "price": 643.08,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 699,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkxVWnc3NThi",
+          "name": "Luz"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3828315708",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB27292245",
+      "title": "Mini drone L900 PRO SE com dual câmera 8K preto 5GHz 2 baterias Motor sem escova profissional",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_701158-MLA92687567172_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB27292245",
+      "id": "MLB4812800951",
+      "sold_quantity": 400,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-11-14T10:16:33.774Z"
+}

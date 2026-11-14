@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6186921364",
-    "productKey": "3c8a41019e1a73dc",
-    "titleHash": "f3ad9cd1b738f64b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-11T00:16:37.448Z"
-  },
-  {
     "itemId": "MLB7658098506",
     "productKey": "26abb2120087ccc4",
     "titleHash": "2a6e08582af5bd66",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-14T10:01:45.047Z"
+  },
+  {
+    "itemId": "MLB4812800951",
+    "productKey": "c35a669e46b7da0b",
+    "titleHash": "8e19706523f27ea7",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-14T10:16:33.772Z"
   }
 ]
