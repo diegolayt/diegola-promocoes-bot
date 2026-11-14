@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3600544593",
-    "productKey": "c52e36fc9898a93c",
-    "titleHash": "0980e9b00d7d2072",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-11T13:46:36.886Z"
-  },
-  {
     "itemId": "MLB3899943077",
     "productKey": "22a14d6998675ae9",
     "titleHash": "1b1909ed1ab40901",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-14T21:31:44.468Z"
+  },
+  {
+    "itemId": "MLB6162516164",
+    "productKey": "e805db15ed4b2441",
+    "titleHash": "4f1644e0b7e716fc",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-14T21:46:38.219Z"
   }
 ]
