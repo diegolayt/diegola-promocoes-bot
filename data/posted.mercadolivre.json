@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6073502876",
-    "productKey": "9badbfbd76dd1c0a",
-    "titleHash": "7614318ba33bf7d4",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-10T21:16:32.728Z"
-  },
-  {
     "itemId": "MLB7413456100",
     "productKey": "f59ad2d75ea00ed2",
     "titleHash": "2eeeca2ccff60b6f",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-14T06:46:31.087Z"
+  },
+  {
+    "itemId": "MLB3509861975",
+    "productKey": "4e3f4c35024a7d4c",
+    "titleHash": "c05ea3c2f80d0174",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-14T07:01:43.884Z"
   }
 ]
