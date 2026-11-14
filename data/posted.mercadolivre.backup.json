@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3589312413",
-    "productKey": "64d907793969abd0",
-    "titleHash": "683807807645b6a9",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-11T10:46:29.935Z"
-  },
-  {
     "itemId": "MLB6666191918",
     "productKey": "234eb23fabd5e309",
     "titleHash": "97ece075e5b54bac",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-14T18:31:44.255Z"
+  },
+  {
+    "itemId": "MLB5472841629",
+    "productKey": "daec8d0881c8d7d6",
+    "titleHash": "38709b9f79583c28",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-14T19:01:44.864Z"
   }
 ]
