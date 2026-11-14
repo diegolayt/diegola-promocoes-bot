@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7057014274",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-11T07:46:38.209Z"
-  },
-  {
     "itemId": "MLB6823193002",
     "productKey": "c555e963e900e460",
     "titleHash": "14a27ecaf6ac0575",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-14T16:46:35.003Z"
+  },
+  {
+    "itemId": "MLB4512909421",
+    "productKey": "2e453f95c6f33ca8",
+    "titleHash": "14a43f99ec759431",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-14T17:01:44.731Z"
   }
 ]
