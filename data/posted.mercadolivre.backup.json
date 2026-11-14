@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7764896190",
-    "productKey": "d90185c5813ba0bb",
-    "titleHash": "26e89182c842e1bc",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-10T18:01:44.711Z"
-  },
-  {
     "itemId": "MLB4445464355",
     "productKey": "e100b1f005aaba1e",
     "titleHash": "4d941d2484345991",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-14T03:46:41.038Z"
+  },
+  {
+    "itemId": "MLB6415676772",
+    "productKey": "e40128f4b7c3537b",
+    "titleHash": "e322aa3b321ee971",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-14T04:16:32.998Z"
   }
 ]
