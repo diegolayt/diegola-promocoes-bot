@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5922260998",
-    "productKey": "92ed4d201e5b3bee",
-    "titleHash": "48c67fe42edfb18e",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-11T15:01:53.213Z"
-  },
-  {
-    "itemId": "MLB4198382275",
-    "productKey": "22241b81ca88085a",
-    "titleHash": "8c709a3a06dff422",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-11T15:16:42.206Z"
-  },
-  {
     "itemId": "MLB4676875745",
     "productKey": "0a78d5595a81cc3e",
     "titleHash": "60c69a8f7144b791",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-14T22:16:37.305Z"
+  },
+  {
+    "itemId": "MLB3374640095",
+    "productKey": "ccb6a091dd86456b",
+    "titleHash": "34034148276df6c7",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-14T22:31:48.378Z"
+  },
+  {
+    "itemId": "MLB4396003408",
+    "productKey": "02983e6cebf8fe5d",
+    "titleHash": "29879c6e3f2ebbc5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-14T22:31:48.378Z"
   }
 ]
