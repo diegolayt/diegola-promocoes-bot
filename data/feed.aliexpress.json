@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005009269296166",
+  "loja": "aliexpress",
+  "titulo": "Placa-Mãe MACHINIST MR9A PRO X99 TPM 2.0 LGA2011-3 com CPU Xeon E5 2690 V3 e RAM DDR4 16GB (2*8GB) 2666MHz - Kit Opcional",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2169da544bef4b30aa7c6cc042828400I.jpg",
+  "preco": 508.82,
+  "precoDe": 1017.65,
+  "link": "https://s.click.aliexpress.com/e/_c4VxHpsP",
+  "vendidos": 164,
+  "nota": 4.4,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-14T12:15:54.928Z"
+ },
+ {
+  "id": "aliexpress-1005005583739698",
+  "loja": "aliexpress",
+  "titulo": "Kit de Placa-Mãe MACHINIST X99 RS9 com CPU Xeon E5 2630 V4 / 2650 V4 / 2680 V4 LGA 2011-3 Suporte para RAM DDR4 Quatro Canais USB3.0",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7a6d961064d24b1a9fc900b0bfef002cY.jpg",
+  "preco": 408.75,
+  "precoDe": 670.1,
+  "link": "https://s.click.aliexpress.com/e/_c4pvsgjp",
+  "vendidos": 39,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-14T12:15:47.937Z"
+ },
+ {
+  "id": "aliexpress-1005011525665519",
+  "loja": "aliexpress",
+  "titulo": "Kit de Placa Mãe QIYIDA X99 H9S com CPU LGA2011-3 Xeon E5 2630 V4, Memória DDR4 16GB REG ECC, Interface M.2 TPM 2.0, 4 canais",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S67d3e8178cec494ca1dfca753f73adf07.jpg",
+  "preco": 362.61,
+  "precoDe": 725.23,
+  "link": "https://s.click.aliexpress.com/e/_c4SS8cHH",
+  "vendidos": 164,
+  "nota": 4.5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-14T12:15:39.991Z"
+ },
+ {
+  "id": "aliexpress-1005010543618319",
+  "loja": "aliexpress",
+  "titulo": "Placa gráfica Veineda RX 580 8GB 2048SP Placa De Vídeo PC Gaming GDDR5 256Bit PCI Express 3.0 × 16 Radeon GPU rx580 8g",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S57f8c5e5b6ee4f27b1eb7f7cbecf3d9dd.jpg",
+  "preco": 770,
+  "precoDe": 1276.96,
+  "link": "https://s.click.aliexpress.com/e/_c31CAsfZ",
+  "vendidos": 696,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video",
+  "publicadoEm": "2026-11-14T12:15:30.236Z"
+ },
+ {
   "id": "aliexpress-1005012352283163",
   "loja": "aliexpress",
   "titulo": "Placa-mãe SOYO X99 DDR4 com CPU E5 2650 V3, 8GB de RAM, LGA2011-3, Kit Intel Xeon, PCIe3.0x16, M.2 (NVMe), para PC Desktop e Jogos, TPM2.0",
@@ -11332,34 +11388,6 @@
   "publicadoEm": "2026-11-12T09:30:47.040Z"
  },
  {
-  "id": "aliexpress-1005005583739698",
-  "loja": "aliexpress",
-  "titulo": "Kit de Placa-Mãe MACHINIST X99 RS9 com CPU Xeon E5 2630 V4 / 2650 V4 / 2680 V4 LGA 2011-3 Suporte para RAM DDR4 Quatro Canais USB3.0",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7a6d961064d24b1a9fc900b0bfef002cY.jpg",
-  "preco": 400.99,
-  "precoDe": 657.36,
-  "link": "https://s.click.aliexpress.com/e/_c2uK6k9d",
-  "vendidos": 39,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-12T09:30:39.830Z"
- },
- {
-  "id": "aliexpress-1005011525665519",
-  "loja": "aliexpress",
-  "titulo": "Kit de Placa Mãe QIYIDA X99 H9S com CPU LGA2011-3 Xeon E5 2630 V4, Memória DDR4 16GB REG ECC, Interface M.2 TPM 2.0, 4 canais",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S67d3e8178cec494ca1dfca753f73adf07.jpg",
-  "preco": 355.99,
-  "precoDe": 711.98,
-  "link": "https://s.click.aliexpress.com/e/_c3FPnVLH",
-  "vendidos": 165,
-  "nota": 4.5,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-12T09:16:02.479Z"
- },
- {
   "id": "aliexpress-1005012284617648",
   "loja": "aliexpress",
   "titulo": "Memória RAM Crucial DDR5 de 16 GB, 5600 MHz, para portáteis, formato SODIMM de 262 pinos, compatível com processadores Intel e AMD.",
@@ -11580,20 +11608,6 @@
   "categoria": "Informática",
   "fonte": "ali_fonte_pc",
   "publicadoEm": "2026-11-12T05:00:58.373Z"
- },
- {
-  "id": "aliexpress-1005010543618319",
-  "loja": "aliexpress",
-  "titulo": "Placa gráfica Veineda RX 580 8GB 2048SP Placa De Vídeo PC Gaming GDDR5 256Bit PCI Express 3.0 × 16 Radeon GPU rx580 8g",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S57f8c5e5b6ee4f27b1eb7f7cbecf3d9dd.jpg",
-  "preco": 756.4,
-  "precoDe": 1254.4,
-  "link": "https://s.click.aliexpress.com/e/_c4sLKHtD",
-  "vendidos": 654,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_placa_video",
-  "publicadoEm": "2026-11-12T04:15:52.234Z"
  },
  {
   "id": "aliexpress-1005010057463047",
@@ -13373,20 +13387,6 @@
   "categoria": "Informática",
   "fonte": "ali_kit_xeon",
   "publicadoEm": "2026-11-10T11:15:47.347Z"
- },
- {
-  "id": "aliexpress-1005009269296166",
-  "loja": "aliexpress",
-  "titulo": "Placa-Mãe MACHINIST MR9A PRO X99 TPM 2.0 LGA2011-3 com CPU Xeon E5 2690 V3 e RAM DDR4 16GB (2*8GB) 2666MHz - Kit Opcional",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2169da544bef4b30aa7c6cc042828400I.jpg",
-  "preco": 494.99,
-  "precoDe": 989.98,
-  "link": "https://s.click.aliexpress.com/e/_c3K4gl4T",
-  "vendidos": 158,
-  "nota": 4.4,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-10T11:15:32.212Z"
  },
  {
   "id": "aliexpress-1005004392435104",
