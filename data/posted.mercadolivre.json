@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5219998762",
-    "productKey": "ab0f5abeb7d01b34",
-    "titleHash": "3dd9c056269296af",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-10T19:16:40.442Z"
-  },
-  {
-    "itemId": "MLB6031639350",
-    "productKey": "afbff89ee85c38b5",
-    "titleHash": "bae5a48604e386ea",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-10T19:16:40.442Z"
-  },
-  {
-    "itemId": "MLB3760239877",
-    "productKey": "39b3b032945eb7a1",
-    "titleHash": "ad51142e02d9d328",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-10T19:16:40.442Z"
-  },
-  {
-    "itemId": "MLB4935535334",
-    "productKey": "e9455fbd3cb133ae",
-    "titleHash": "947cef40e57cf05a",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-10T19:31:43.203Z"
-  },
-  {
     "itemId": "MLB6949268730",
     "productKey": "6e158df3dcbb96cd",
     "titleHash": "639b847efcd22948",
@@ -4798,5 +4766,37 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-14T04:31:38.975Z"
+  },
+  {
+    "itemId": "MLB4655688751",
+    "productKey": "f8ed6f2d8a7633f9",
+    "titleHash": "6103b5d4659eec99",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-14T04:46:35.315Z"
+  },
+  {
+    "itemId": "MLB5755935162",
+    "productKey": "1bf4bbd3aaba6886",
+    "titleHash": "b3ef83e862c209e8",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-14T04:46:35.316Z"
+  },
+  {
+    "itemId": "MLB5551958521",
+    "productKey": "3a9e734ca0b66e05",
+    "titleHash": "7acde652d7cc1871",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-14T04:46:35.316Z"
+  },
+  {
+    "itemId": "MLB7839416462",
+    "productKey": "5fe4d75d19c4b6ae",
+    "titleHash": "208803b964ddf440",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-14T04:46:35.316Z"
   }
 ]
