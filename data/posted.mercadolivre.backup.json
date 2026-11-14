@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4904094632",
-    "productKey": "9ee46f646c4f61c2",
-    "titleHash": "f8b77aa9bf7772c8",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-11T12:16:38.641Z"
-  },
-  {
     "itemId": "MLB7891198242",
     "productKey": "6566f7d44971d242",
     "titleHash": "66c0a37d1b392e7a",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-14T19:46:38.578Z"
+  },
+  {
+    "itemId": "MLB6153218964",
+    "productKey": "1f028055a5e8fcd7",
+    "titleHash": "0b04907b65ed95a5",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-14T20:01:58.890Z"
   }
 ]
