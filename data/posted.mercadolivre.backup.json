@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3085731370",
-    "productKey": "d28d7ff4dc319861",
-    "titleHash": "c7d4fc32964b4cb7",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-11T06:31:36.476Z"
-  },
-  {
     "itemId": "MLB6253024804",
     "productKey": "ba7df21eb0ca2036",
     "titleHash": "e289328335e8aff0",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-14T15:31:36.279Z"
+  },
+  {
+    "itemId": "MLB6740242566",
+    "productKey": "fad801ba53bbc8de",
+    "titleHash": "6859c19609c4f4eb",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-14T15:46:36.111Z"
   }
 ]
