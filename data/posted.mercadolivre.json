@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4571808527",
-    "productKey": "c2c20abe683b2104",
-    "titleHash": "bbecf78f74751795",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-10T09:47:08.553Z"
-  },
-  {
-    "itemId": "MLB7933480186",
-    "productKey": "cf31f194e5125ea5",
-    "titleHash": "53f465883ca4f30e",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-10T09:47:08.554Z"
-  },
-  {
-    "itemId": "MLB7779097188",
-    "productKey": "a984166e91e3c121",
-    "titleHash": "bbb3a2837d40bc3d",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-10T10:01:51.018Z"
-  },
-  {
     "itemId": "MLB5415225163",
     "productKey": "e79cacc5bfe33eec",
     "titleHash": "248c99ad0a42a4d3",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-13T23:46:39.937Z"
+  },
+  {
+    "itemId": "MLB5575158922",
+    "productKey": "470a6f69c29f9087",
+    "titleHash": "128e67c8b561c343",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-14T00:01:46.447Z"
+  },
+  {
+    "itemId": "MLB3640145261",
+    "productKey": "573321164cd845a9",
+    "titleHash": "95322f9ffc5758d5",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-14T00:01:46.448Z"
+  },
+  {
+    "itemId": "MLB4562258087",
+    "productKey": "31d21cd7b3243873",
+    "titleHash": "2d6545f358c0aa7b",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-14T00:01:46.448Z"
   }
 ]
