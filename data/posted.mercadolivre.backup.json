@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6985336822",
-    "productKey": "b5ddbc5fc16e2eb7",
-    "titleHash": "1a469a09813e0b46",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-11T18:16:35.322Z"
-  },
-  {
     "itemId": "MLB4958284047",
     "productKey": "1709bfa6336e67ee",
     "titleHash": "6399c32607f735b0",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-15T04:16:41.603Z"
+  },
+  {
+    "itemId": "MLB3175719088",
+    "productKey": "67919f68f0a928b2",
+    "titleHash": "9cd23174e8fc768b",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-15T04:31:36.349Z"
   }
 ]
