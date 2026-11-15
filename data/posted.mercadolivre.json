@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7854138028",
-    "productKey": "f28c430b2349dd9d",
-    "titleHash": "cbc14ed247b8b10d",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-12T03:16:39.116Z"
-  },
-  {
-    "itemId": "MLB4510325461",
-    "productKey": "f55481226776a3de",
-    "titleHash": "aef1dd15b5a70088",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-12T03:31:39.621Z"
-  },
-  {
     "itemId": "MLB4361263765",
     "productKey": "238090adb5a1bf75",
     "titleHash": "246588000d56eb53",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-15T15:46:38.358Z"
+  },
+  {
+    "itemId": "MLB5323250194",
+    "productKey": "582a00a061dfbcdd",
+    "titleHash": "2ff16fab12801e4a",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-15T16:01:44.745Z"
+  },
+  {
+    "itemId": "MLB5769944586",
+    "productKey": "ec93060555c6cb7b",
+    "titleHash": "9478296a7f5367d3",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-15T16:01:44.745Z"
   }
 ]
