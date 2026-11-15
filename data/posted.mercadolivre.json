@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4527837545",
-    "productKey": "7e5eeb5fc2da9a55",
-    "titleHash": "6ab4b45d11833727",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-12T07:46:32.145Z"
-  },
-  {
-    "itemId": "MLB6213979100",
-    "productKey": "7b9361588a17275b",
-    "titleHash": "ae5e4745726c0427",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-12T07:46:32.145Z"
-  },
-  {
-    "itemId": "MLB7826354278",
-    "productKey": "3968baff8d884056",
-    "titleHash": "8d77eec68e2bdd52",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-12T08:01:48.013Z"
-  },
-  {
     "itemId": "MLB3399022201",
     "productKey": "f0bb7eab24f9461a",
     "titleHash": "5de2e14bd196608c",
@@ -4798,5 +4774,29 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-15T20:16:33.768Z"
+  },
+  {
+    "itemId": "MLB4592569844",
+    "productKey": "8e754a84d4cb7d6c",
+    "titleHash": "739fe962804bde10",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-15T20:31:36.903Z"
+  },
+  {
+    "itemId": "MLB5281065549",
+    "productKey": "07d87d6eac1d4eb5",
+    "titleHash": "43238e00cbb06f9b",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-15T20:31:36.903Z"
+  },
+  {
+    "itemId": "MLB4559000033",
+    "productKey": "5b46392a746a1583",
+    "titleHash": "bc9fa749b71a0b00",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-15T20:31:36.903Z"
   }
 ]
