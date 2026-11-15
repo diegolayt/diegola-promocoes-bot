@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4748589927",
-    "productKey": "21c0dc1f30ed9027",
-    "titleHash": "126ecb59ac7c2067",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-12T05:16:28.069Z"
-  },
-  {
-    "itemId": "MLB7742862988",
-    "productKey": "ab7a06687d5141b6",
-    "titleHash": "90a8b50e660fc297",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-12T05:31:33.647Z"
-  },
-  {
     "itemId": "MLB4437917941",
     "productKey": "884076740c0d626c",
     "titleHash": "c37982c71a8ba530",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-15T17:31:41.681Z"
+  },
+  {
+    "itemId": "MLB4361263765",
+    "productKey": "238090adb5a1bf75",
+    "titleHash": "246588000d56eb53",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-15T17:46:36.950Z"
+  },
+  {
+    "itemId": "MLB7980644110",
+    "productKey": "0da42abc4e07efc8",
+    "titleHash": "583334eed73b7bc4",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-15T17:46:36.950Z"
   }
 ]
