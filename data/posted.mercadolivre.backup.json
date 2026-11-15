@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7535842350",
-    "productKey": "fb1d90d3e2311de7",
-    "titleHash": "3ee21ab1648fcc37",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-11T21:46:33.322Z"
-  },
-  {
-    "itemId": "MLB5270193474",
-    "productKey": "948ee43d2d7626fb",
-    "titleHash": "93e49c3d46e7aa6f",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-11T22:16:28.999Z"
-  },
-  {
     "itemId": "MLB4053861862",
     "productKey": "582a00a061dfbcdd",
     "titleHash": "2ff16fab12801e4a",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-15T07:46:40.050Z"
+  },
+  {
+    "itemId": "MLB4229198275",
+    "productKey": "fe8deb3696fa75bc",
+    "titleHash": "99b6f6297e915fe9",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-15T08:01:43.305Z"
+  },
+  {
+    "itemId": "MLB5979493700",
+    "productKey": "ef4a8ade7356b7de",
+    "titleHash": "884030f96bc8b69d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-15T08:01:43.305Z"
   }
 ]
