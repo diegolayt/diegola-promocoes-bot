@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6823283528",
-    "productKey": "e2489c1451cb6572",
-    "titleHash": "313364498118e4ab",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-11T18:31:33.750Z"
-  },
-  {
     "itemId": "MLB4411577880",
     "productKey": "1695451136b60c3d",
     "titleHash": "7bf56a01b25ad75c",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-15T04:46:39.180Z"
+  },
+  {
+    "itemId": "MLB4733868672",
+    "productKey": "6f3a85ca31e96116",
+    "titleHash": "e32c2e9cfc629a6c",
+    "category": "colchão",
+    "sourceCategoryId": "MLB438928",
+    "reservedAt": "2026-11-15T05:01:48.184Z"
   }
 ]
