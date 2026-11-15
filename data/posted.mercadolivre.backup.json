@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7021496446",
-    "productKey": "06651e2562cbb16b",
-    "titleHash": "827ce4bd52859f56",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-11T22:31:41.278Z"
-  },
-  {
-    "itemId": "MLB6142794264",
-    "productKey": "2527dd838b018334",
-    "titleHash": "34d297fdc0d07825",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-11T22:31:41.278Z"
-  },
-  {
     "itemId": "MLB7661765670",
     "productKey": "b22d1abaa47ec09f",
     "titleHash": "3724b04061102e54",
@@ -4798,5 +4782,21 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-15T08:46:39.560Z"
+  },
+  {
+    "itemId": "MLB7909582316",
+    "productKey": "5bbd37355bdaaca3",
+    "titleHash": "a1800fc74ec6ad41",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-15T09:01:37.301Z"
+  },
+  {
+    "itemId": "MLB3275137299",
+    "productKey": "93ca36144744aa1c",
+    "titleHash": "0873ef88aafee25e",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-15T09:01:37.301Z"
   }
 ]

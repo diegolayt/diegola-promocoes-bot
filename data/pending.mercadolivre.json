@@ -1,0 +1,141 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7909582316",
+      "site_id": "MLB",
+      "seller_id": 3796710255,
+      "accepts_mercadopago": true,
+      "price": 115,
+      "category_id": "MLB6899",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ01BUjc0ZDBi",
+          "name": "Maracanaú"
+        },
+        "state": {
+          "id": "TUxCUENFQUExNzkyZQ",
+          "name": "Ceará"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5697704739",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77672147",
+      "title": "Blister Duplo Com Moeda Celebração 30 Anos Pokémon TCG Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_896714-MLA117063745326_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77672147",
+      "id": "MLB7909582316",
+      "sold_quantity": 600,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3275137299",
+      "site_id": "MLB",
+      "seller_id": 115202269,
+      "accepts_mercadopago": true,
+      "price": 46.99,
+      "category_id": "MLB29871",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQXJhw6dhdHViYVRVeENVRk5CVDA4NU4yR",
+          "name": "Araçatuba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYVmlsYSBDYXJ2YWxob1RWaFlRWEpodzZka",
+          "name": "Vila Carvalho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU1965068739",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19942674",
+      "title": "Base Mate Real Filter C-01 36g Fran By Franciny Ehlke Bege Bem Claro",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_936234-MLU75999241583_042024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19942674",
+      "id": "MLB3275137299",
+      "sold_quantity": 100,
+      "rotationCategory": "maquiagem",
+      "sourceCategoryId": "MLB1248",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-15T09:01:37.303Z"
+}
