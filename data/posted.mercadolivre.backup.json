@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5316361707",
-    "productKey": "c226456043f016a9",
-    "titleHash": "8cec1742dfa829f9",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-12T00:31:44.537Z"
-  },
-  {
     "itemId": "MLB7324004066",
     "productKey": "d88aa48d0a267fbf",
     "titleHash": "e1b11f56561d2fb3",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-15T13:01:49.810Z"
+  },
+  {
+    "itemId": "MLB3519338657",
+    "productKey": "3e89fb212f1b587a",
+    "titleHash": "a70af37fa192c514",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-15T13:16:39.941Z"
   }
 ]
