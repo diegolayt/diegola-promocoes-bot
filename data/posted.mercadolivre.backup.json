@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4013878289",
-    "productKey": "85d375ed48e695b5",
-    "titleHash": "fad83ce332227e23",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-12T04:01:42.299Z"
-  },
-  {
     "itemId": "MLB6361515378",
     "productKey": "e99726c12745d0a4",
     "titleHash": "8b80f8f23c3c0fbd",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-15T16:16:38.672Z"
+  },
+  {
+    "itemId": "MLB7493862386",
+    "productKey": "9adc595151031a03",
+    "titleHash": "aae437bd40936ba5",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-15T16:31:41.054Z"
   }
 ]
