@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6729908758",
-    "productKey": "125a02479dbb4f92",
-    "titleHash": "67261eed9f9c6156",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-11T19:16:30.180Z"
-  },
-  {
     "itemId": "MLB4150270587",
     "productKey": "30428afb79b31575",
     "titleHash": "64c4bc9f4147c80a",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-15T05:16:33.954Z"
+  },
+  {
+    "itemId": "MLB3783948041",
+    "productKey": "daaa74c13b09b117",
+    "titleHash": "2a5c8d2871860c20",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-15T05:31:49.751Z"
   }
 ]
