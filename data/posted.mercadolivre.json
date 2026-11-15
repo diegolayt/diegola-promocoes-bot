@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4958284047",
-    "productKey": "1709bfa6336e67ee",
-    "titleHash": "6399c32607f735b0",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-11T18:31:33.750Z"
-  },
-  {
     "itemId": "MLB6823283528",
     "productKey": "e2489c1451cb6572",
     "titleHash": "313364498118e4ab",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-15T04:31:36.349Z"
+  },
+  {
+    "itemId": "MLB7656919098",
+    "productKey": "e79cacc5bfe33eec",
+    "titleHash": "248c99ad0a42a4d3",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-15T04:46:39.180Z"
   }
 ]
