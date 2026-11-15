@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7116112948",
-    "productKey": "5bd1da402a27bcc7",
-    "titleHash": "8b02e1cd20d5d3b1",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-12T08:01:48.013Z"
-  },
-  {
     "itemId": "MLB7669495412",
     "productKey": "dea2c4a9da61bcd6",
     "titleHash": "6c866c86c418343d",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-15T21:01:53.117Z"
+  },
+  {
+    "itemId": "MLB6112190914",
+    "productKey": "eafa4fac22bc28d4",
+    "titleHash": "ba618477890cc7be",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-15T21:16:39.516Z"
   }
 ]
