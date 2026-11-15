@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5597479444",
-    "productKey": "e2501bd4ef202aaa",
-    "titleHash": "7a4dfed420269918",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-12T07:46:32.145Z"
-  },
-  {
     "itemId": "MLB4527837545",
     "productKey": "7e5eeb5fc2da9a55",
     "titleHash": "6ab4b45d11833727",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-15T20:01:42.275Z"
+  },
+  {
+    "itemId": "MLB4243087779",
+    "productKey": "24d6a63070e9986c",
+    "titleHash": "8619082c61209216",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-15T20:16:33.768Z"
   }
 ]
