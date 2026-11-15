@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7669495412",
-    "productKey": "dea2c4a9da61bcd6",
-    "titleHash": "6c866c86c418343d",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-12T08:16:41.147Z"
-  },
-  {
     "itemId": "MLB4264223185",
     "productKey": "ec4b519641a7ee71",
     "titleHash": "06afb66b058ef953",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-15T21:16:39.516Z"
+  },
+  {
+    "itemId": "MLB3399022201",
+    "productKey": "f0bb7eab24f9461a",
+    "titleHash": "5de2e14bd196608c",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-15T21:31:43.308Z"
   }
 ]
