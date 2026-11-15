@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7168974918",
-    "productKey": "04168d7af042a735",
-    "titleHash": "cd6447da33f541b3",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-12T05:16:28.069Z"
-  },
-  {
     "itemId": "MLB4748589927",
     "productKey": "21c0dc1f30ed9027",
     "titleHash": "126ecb59ac7c2067",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-15T17:16:40.871Z"
+  },
+  {
+    "itemId": "MLB4082731117",
+    "productKey": "c555e963e900e460",
+    "titleHash": "14a27ecaf6ac0575",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-15T17:31:41.681Z"
   }
 ]
