@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5546562893",
-    "productKey": "9eb5fc3ffddd6db0",
-    "titleHash": "945f28db261b2b05",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-12T02:46:31.842Z"
-  },
-  {
-    "itemId": "MLB7019354548",
-    "productKey": "0886c56c5ee7f811",
-    "titleHash": "e0dd1147da38ca5e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-12T03:01:43.716Z"
-  },
-  {
-    "itemId": "MLB4810872029",
-    "productKey": "37500b1a9625ab89",
-    "titleHash": "cd82b27d3ae85212",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-12T03:01:43.716Z"
-  },
-  {
     "itemId": "MLB7854138028",
     "productKey": "f28c430b2349dd9d",
     "titleHash": "cbc14ed247b8b10d",
@@ -4798,5 +4774,29 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-15T15:31:32.879Z"
+  },
+  {
+    "itemId": "MLB7726123138",
+    "productKey": "2608d6e35b3fc01c",
+    "titleHash": "88b7ace608d1c6d7",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-15T15:46:38.358Z"
+  },
+  {
+    "itemId": "MLB7692524458",
+    "productKey": "2a33391eb95cd8ab",
+    "titleHash": "3db2775e09d31814",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-15T15:46:38.358Z"
+  },
+  {
+    "itemId": "MLB5409107333",
+    "productKey": "d870155de0c9bf57",
+    "titleHash": "02b5ac17f4b207bc",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-15T15:46:38.358Z"
   }
 ]
