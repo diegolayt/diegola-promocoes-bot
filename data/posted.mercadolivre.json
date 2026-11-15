@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7730381528",
-    "productKey": "f741ca1646ce9e5b",
-    "titleHash": "235e06efad8f596e",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-11T16:31:44.269Z"
-  },
-  {
     "itemId": "MLB5774842808",
     "productKey": "d80ef72818275e46",
     "titleHash": "d8d496fc92919deb",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-15T00:16:37.805Z"
+  },
+  {
+    "itemId": "MLB4212566483",
+    "productKey": "97281c3aa1bd995e",
+    "titleHash": "14d3bd03b87fed59",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-15T00:31:48.727Z"
   }
 ]
