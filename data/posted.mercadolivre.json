@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3846575151",
-    "productKey": "2ba242383bfef56e",
-    "titleHash": "cb8c5b3b8c06dad6",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-12T05:16:28.068Z"
-  },
-  {
-    "itemId": "MLB7447220494",
-    "productKey": "ed7804a4acbd2e25",
-    "titleHash": "2937a9eea444529c",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-11-12T05:16:28.069Z"
-  },
-  {
     "itemId": "MLB7168974918",
     "productKey": "04168d7af042a735",
     "titleHash": "cd6447da33f541b3",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-15T17:01:45.686Z"
+  },
+  {
+    "itemId": "MLB7339961302",
+    "productKey": "8a5950fa33563a64",
+    "titleHash": "c200c7409cb882ff",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-15T17:16:40.871Z"
+  },
+  {
+    "itemId": "MLB4988957162",
+    "productKey": "4686bb6a7ae35103",
+    "titleHash": "bc4eac3d45f0fc46",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-15T17:16:40.871Z"
   }
 ]
