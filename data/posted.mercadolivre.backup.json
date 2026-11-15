@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5333613199",
-    "productKey": "dbfea0470a350aa5",
-    "titleHash": "7fbb1dd038a3831f",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-11T23:01:45.634Z"
-  },
-  {
-    "itemId": "MLB5541455331",
-    "productKey": "3e89fb212f1b587a",
-    "titleHash": "a70af37fa192c514",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-11T23:01:45.634Z"
-  },
-  {
     "itemId": "MLB7947834882",
     "productKey": "974baaa0c5dd7adf",
     "titleHash": "8d32441d6270c143",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-15T09:31:44.483Z"
+  },
+  {
+    "itemId": "MLB5940016354",
+    "productKey": "6abafabf02f74def",
+    "titleHash": "631a30b9958189c5",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-15T09:46:39.043Z"
+  },
+  {
+    "itemId": "MLB4712226703",
+    "productKey": "c850ba5f1644af9d",
+    "titleHash": "4e45ebc4c4f60ba0",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-15T09:46:39.044Z"
   }
 ]
