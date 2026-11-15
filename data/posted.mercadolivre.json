@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5940016354",
-    "productKey": "6abafabf02f74def",
-    "titleHash": "631a30b9958189c5",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-11T22:46:34.998Z"
-  },
-  {
-    "itemId": "MLB7966559392",
-    "productKey": "97019a1e6c0edd66",
-    "titleHash": "cf6d29cd0b7d3165",
-    "category": "masculino",
-    "sourceCategoryId": "MLB23332",
-    "reservedAt": "2026-11-11T22:46:34.998Z"
-  },
-  {
     "itemId": "MLB5333613199",
     "productKey": "dbfea0470a350aa5",
     "titleHash": "7fbb1dd038a3831f",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-15T09:16:32.562Z"
+  },
+  {
+    "itemId": "MLB7756252904",
+    "productKey": "80cfbf8e89f249be",
+    "titleHash": "143f91de6547de17",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-15T09:31:44.482Z"
+  },
+  {
+    "itemId": "MLB5400098189",
+    "productKey": "d8cdb8921362f102",
+    "titleHash": "1b7a10c533ed1347",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-15T09:31:44.483Z"
   }
 ]
