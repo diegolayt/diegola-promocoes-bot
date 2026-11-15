@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4610033085",
+      "site_id": "MLB",
+      "seller_id": 1139657522,
+      "accepts_mercadopago": true,
+      "price": 242.4,
+      "category_id": "MLB133950",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 469462,
+      "original_price": 299.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTGdqazAw",
+          "name": "Vila Nova Savoia"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3909470420",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18593745",
+      "title": "Fire Tv Stick Hd Com Comandos Por Voz Amazon Preto De Voz",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_981006-MLA108910089018_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18593745",
+      "id": "MLB4610033085",
+      "sold_quantity": 800,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5774842808",
+      "site_id": "MLB",
+      "seller_id": 840561163,
+      "accepts_mercadopago": true,
+      "price": 89,
+      "category_id": "MLB418472",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1811,
+      "original_price": 99.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBT2ViMzg2",
+          "name": "São José"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3431666436",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23955839",
+      "title": "Teclado Sem Fio Intelbras TSI50 Clique Silencioso",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_806988-MLA99993584601_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23955839",
+      "id": "MLB5774842808",
+      "sold_quantity": 100,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-15T03:31:36.126Z"
+}
