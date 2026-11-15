@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6361515378",
-    "productKey": "e99726c12745d0a4",
-    "titleHash": "8b80f8f23c3c0fbd",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-12T04:16:35.006Z"
-  },
-  {
-    "itemId": "MLB7980644110",
-    "productKey": "0da42abc4e07efc8",
-    "titleHash": "583334eed73b7bc4",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-12T04:16:35.006Z"
-  },
-  {
-    "itemId": "MLB5930202958",
-    "productKey": "fded24791054bb1d",
-    "titleHash": "bba7ae42ffd6ef51",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-12T04:31:35.531Z"
-  },
-  {
-    "itemId": "MLB7657977886",
-    "productKey": "525cdc14fb44b9f9",
-    "titleHash": "48172cb7558886dd",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-12T04:31:35.531Z"
-  },
-  {
     "itemId": "MLB5973456216",
     "productKey": "93f3f56dee4a0384",
     "titleHash": "60f6761a38375cf5",
@@ -4798,5 +4766,37 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-15T16:31:41.054Z"
+  },
+  {
+    "itemId": "MLB7026125702",
+    "productKey": "55165ae4e873b412",
+    "titleHash": "e06ec53a634432a7",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-15T16:46:24.091Z"
+  },
+  {
+    "itemId": "MLB5738738172",
+    "productKey": "9eb5fc3ffddd6db0",
+    "titleHash": "945f28db261b2b05",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-15T16:46:24.091Z"
+  },
+  {
+    "itemId": "MLB4947595593",
+    "productKey": "37500b1a9625ab89",
+    "titleHash": "cd82b27d3ae85212",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-15T16:46:24.091Z"
+  },
+  {
+    "itemId": "MLB4244737429",
+    "productKey": "e7f53714657a6827",
+    "titleHash": "43305ac2162696c9",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-15T16:46:24.091Z"
   }
 ]
