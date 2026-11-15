@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4053861862",
-    "productKey": "582a00a061dfbcdd",
-    "titleHash": "2ff16fab12801e4a",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-11T22:16:28.999Z"
-  },
-  {
     "itemId": "MLB5414776307",
     "productKey": "5bbd37355bdaaca3",
     "titleHash": "a1800fc74ec6ad41",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-15T08:01:43.305Z"
+  },
+  {
+    "itemId": "MLB3919470687",
+    "productKey": "bc0bb9a0c3fb15a1",
+    "titleHash": "0e851e97989db4c8",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-15T08:16:30.956Z"
   }
 ]
