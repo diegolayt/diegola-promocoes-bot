@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4379742795",
-    "productKey": "0bcf0514bbf146bf",
-    "titleHash": "4bdf6074887c635e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-12T09:01:43.171Z"
-  },
-  {
-    "itemId": "MLB5545213795",
-    "productKey": "1605bae93a4b4381",
-    "titleHash": "f52975726d30d711",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-12T09:01:43.171Z"
-  },
-  {
     "itemId": "MLB4214380631",
     "productKey": "599342f11b3c3501",
     "titleHash": "b8c8c51b8b202d3f",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-15T21:46:40.722Z"
+  },
+  {
+    "itemId": "MLB4363381751",
+    "productKey": "dea2c4a9da61bcd6",
+    "titleHash": "6c866c86c418343d",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-15T22:01:46.341Z"
+  },
+  {
+    "itemId": "MLB7116112948",
+    "productKey": "5bd1da402a27bcc7",
+    "titleHash": "8b02e1cd20d5d3b1",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-15T22:01:46.341Z"
   }
 ]
