@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4411577880",
-    "productKey": "1695451136b60c3d",
-    "titleHash": "7bf56a01b25ad75c",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-11T18:31:33.750Z"
-  },
-  {
-    "itemId": "MLB3783948041",
-    "productKey": "daaa74c13b09b117",
-    "titleHash": "2a5c8d2871860c20",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-11T19:01:43.623Z"
-  },
-  {
-    "itemId": "MLB5511161377",
-    "productKey": "7996d894587d17ae",
-    "titleHash": "7ec3def6ccf605d1",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-11T19:01:43.623Z"
-  },
-  {
     "itemId": "MLB6729908758",
     "productKey": "125a02479dbb4f92",
     "titleHash": "67261eed9f9c6156",
@@ -4798,5 +4774,29 @@
     "category": "colchão",
     "sourceCategoryId": "MLB438928",
     "reservedAt": "2026-11-15T05:01:48.184Z"
+  },
+  {
+    "itemId": "MLB4195198970",
+    "productKey": "19e579017e9bbafd",
+    "titleHash": "9bead5eecb241d6b",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-15T05:16:33.953Z"
+  },
+  {
+    "itemId": "MLB6756757792",
+    "productKey": "e92965800e0fc063",
+    "titleHash": "89ec5d1f08029bd0",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-15T05:16:33.954Z"
+  },
+  {
+    "itemId": "MLB5561704255",
+    "productKey": "b5ddbc5fc16e2eb7",
+    "titleHash": "1a469a09813e0b46",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-15T05:16:33.954Z"
   }
 ]
