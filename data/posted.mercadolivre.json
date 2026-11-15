@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7324004066",
-    "productKey": "d88aa48d0a267fbf",
-    "titleHash": "e1b11f56561d2fb3",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-12T00:46:37.328Z"
-  },
-  {
     "itemId": "MLB4621047857",
     "productKey": "3f3b1148afa866b2",
     "titleHash": "5f3c6ee8eb084863",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-15T13:16:39.941Z"
+  },
+  {
+    "itemId": "MLB7894904270",
+    "productKey": "c9904547e0683bce",
+    "titleHash": "3cee13576a3776df",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-15T13:31:42.761Z"
   }
 ]
