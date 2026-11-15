@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4361263765",
-    "productKey": "238090adb5a1bf75",
-    "titleHash": "246588000d56eb53",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-12T03:46:28.663Z"
-  },
-  {
-    "itemId": "MLB7937784868",
-    "productKey": "46cec00d9e0b5a50",
-    "titleHash": "4f85cab96929a066",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-12T03:46:28.663Z"
-  },
-  {
     "itemId": "MLB4013878289",
     "productKey": "85d375ed48e695b5",
     "titleHash": "fad83ce332227e23",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-15T16:01:44.745Z"
+  },
+  {
+    "itemId": "MLB7538835768",
+    "productKey": "14dd7a0aaf133113",
+    "titleHash": "3d4d88bc81130249",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-15T16:16:38.672Z"
+  },
+  {
+    "itemId": "MLB3983897395",
+    "productKey": "ab75e665396cd092",
+    "titleHash": "c48e34acf8ca06f0",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-15T16:16:38.672Z"
   }
 ]
