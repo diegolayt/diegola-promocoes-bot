@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4080129275",
-    "productKey": "45a76a65dccf9a6b",
-    "titleHash": "4ca32d474f9cf226",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-11T16:31:44.269Z"
-  },
-  {
     "itemId": "MLB7730381528",
     "productKey": "f741ca1646ce9e5b",
     "titleHash": "235e06efad8f596e",
@@ -4798,5 +4790,13 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-11-15T00:01:43.490Z"
+  },
+  {
+    "itemId": "MLB7757650992",
+    "productKey": "7ee93f70ba994b37",
+    "titleHash": "cbc89261a0bdc7f7",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-15T00:16:37.805Z"
   }
 ]
