@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4574564509",
-    "productKey": "9d5c96d703bbb08b",
-    "titleHash": "2b97da7a4eb942e4",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-11T17:46:45.109Z"
-  },
-  {
     "itemId": "MLB3695738454",
     "productKey": "2fe42a867bd7bb87",
     "titleHash": "3d354dd6afa71c15",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-15T03:31:36.124Z"
+  },
+  {
+    "itemId": "MLB7992323512",
+    "productKey": "8ba43f4f1e1184f7",
+    "titleHash": "9b4cb806a44b6982",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-15T03:46:29.144Z"
   }
 ]
