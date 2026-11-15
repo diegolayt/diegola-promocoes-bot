@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6112190914",
-    "productKey": "eafa4fac22bc28d4",
-    "titleHash": "ba618477890cc7be",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-12T07:31:42.455Z"
-  },
-  {
     "itemId": "MLB5597479444",
     "productKey": "e2501bd4ef202aaa",
     "titleHash": "7a4dfed420269918",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-15T19:46:46.777Z"
+  },
+  {
+    "itemId": "MLB4964598401",
+    "productKey": "92a1855b22bff44c",
+    "titleHash": "154ac6e326664dce",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-15T20:01:42.275Z"
   }
 ]
