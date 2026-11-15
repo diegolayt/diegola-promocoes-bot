@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7894904270",
-    "productKey": "c9904547e0683bce",
-    "titleHash": "3cee13576a3776df",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-11T23:46:36.074Z"
-  },
-  {
     "itemId": "MLB7501004712",
     "productKey": "8754fc435a818a02",
     "titleHash": "8d2d9b3a9df7dc0c",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-15T10:46:38.395Z"
+  },
+  {
+    "itemId": "MLB7661765670",
+    "productKey": "b22d1abaa47ec09f",
+    "titleHash": "3724b04061102e54",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-15T12:31:41.797Z"
   }
 ]
