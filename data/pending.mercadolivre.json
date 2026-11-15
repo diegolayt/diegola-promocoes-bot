@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4661123677",
+      "site_id": "MLB",
+      "seller_id": 3270994912,
+      "accepts_mercadopago": true,
+      "price": 147,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 399948,
+      "original_price": 320,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYU2FudGFuYSBkZSBQYXJuYcOtYmFUVXhDV",
+          "name": "Santana de Parnaíba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3941332083",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23161830",
+      "title": "Cafeteira Elétrica Dolce Arome, Mondial, 550W - C-34JI-15X",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_921400-MLA99454991084_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23161830",
+      "id": "MLB4661123677",
+      "sold_quantity": 1700,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5333613199",
+      "site_id": "MLB",
+      "seller_id": 2411683351,
+      "accepts_mercadopago": true,
+      "price": 329.9,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "digital_good",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5590,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "not_specified",
+        "logistic_type": "not_specified",
+        "tags": [],
+        "cost": 9.82
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQmFydWVyaVRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Barueri"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5403400090",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB80016895",
+      "title": "The Legend of Zelda: Ocarina of Time - Nintendo Switch 2 (Digital)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_926956-MLA118396859851_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB80016895",
+      "id": "MLB5333613199",
+      "sold_quantity": 1800,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-15T10:01:44.552Z"
+}
