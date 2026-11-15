@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7661765670",
-    "productKey": "b22d1abaa47ec09f",
-    "titleHash": "3724b04061102e54",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-11T22:31:41.278Z"
-  },
-  {
-    "itemId": "MLB5400098189",
-    "productKey": "d8cdb8921362f102",
-    "titleHash": "1b7a10c533ed1347",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-11T22:31:41.278Z"
-  },
-  {
     "itemId": "MLB5940016354",
     "productKey": "6abafabf02f74def",
     "titleHash": "631a30b9958189c5",
@@ -4798,5 +4782,21 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-15T09:01:37.301Z"
+  },
+  {
+    "itemId": "MLB5270193474",
+    "productKey": "948ee43d2d7626fb",
+    "titleHash": "93e49c3d46e7aa6f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-15T09:16:32.562Z"
+  },
+  {
+    "itemId": "MLB6142794264",
+    "productKey": "2527dd838b018334",
+    "titleHash": "34d297fdc0d07825",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-15T09:16:32.562Z"
   }
 ]
