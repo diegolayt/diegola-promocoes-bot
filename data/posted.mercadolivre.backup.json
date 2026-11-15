@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5769944586",
-    "productKey": "ec93060555c6cb7b",
-    "titleHash": "9478296a7f5367d3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-12T02:01:44.835Z"
-  },
-  {
     "itemId": "MLB5232182936",
     "productKey": "34deacf4f5156c88",
     "titleHash": "4becc55da500e5d4",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-15T14:31:40.355Z"
+  },
+  {
+    "itemId": "MLB4621047857",
+    "productKey": "3f3b1148afa866b2",
+    "titleHash": "5f3c6ee8eb084863",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-15T14:46:39.951Z"
   }
 ]
