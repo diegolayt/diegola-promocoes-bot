@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5671344396",
-    "productKey": "6cb1243c40624794",
-    "titleHash": "86b6e248994c6e5b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-12T06:16:39.568Z"
-  },
-  {
-    "itemId": "MLB7902487202",
-    "productKey": "35ee8e3194420329",
-    "titleHash": "78a13177cc204ee6",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-12T06:16:39.568Z"
-  },
-  {
     "itemId": "MLB4592569844",
     "productKey": "8e754a84d4cb7d6c",
     "titleHash": "739fe962804bde10",
@@ -4798,5 +4782,21 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-15T18:46:31.903Z"
+  },
+  {
+    "itemId": "MLB5232182936",
+    "productKey": "34deacf4f5156c88",
+    "titleHash": "4becc55da500e5d4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-15T19:01:41.161Z"
+  },
+  {
+    "itemId": "MLB5930202958",
+    "productKey": "fded24791054bb1d",
+    "titleHash": "bba7ae42ffd6ef51",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-15T19:01:41.161Z"
   }
 ]
