@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4150270587",
-    "productKey": "30428afb79b31575",
-    "titleHash": "64c4bc9f4147c80a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-11T19:31:40.159Z"
-  },
-  {
     "itemId": "MLB4067339459",
     "productKey": "8c6368c4182d052e",
     "titleHash": "076b7b730e1e7886",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-15T05:31:49.751Z"
+  },
+  {
+    "itemId": "MLB5275772257",
+    "productKey": "1695451136b60c3d",
+    "titleHash": "7bf56a01b25ad75c",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-15T05:46:37.343Z"
   }
 ]
