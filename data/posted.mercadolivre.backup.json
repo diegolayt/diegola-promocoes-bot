@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7658459660",
-    "productKey": "7553a221ebd439ad",
-    "titleHash": "bbf4157e2e7d1e0f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-13T00:46:40.036Z"
-  },
-  {
-    "itemId": "MLB3838209499",
-    "productKey": "b9ee45f2c4136d0e",
-    "titleHash": "ae8d97b0516bc2b5",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-13T01:01:46.462Z"
-  },
-  {
-    "itemId": "MLB5261097875",
-    "productKey": "a04a75b9fb4e31ed",
-    "titleHash": "f6dd9b7437ccaa6c",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-13T01:01:46.462Z"
-  },
-  {
     "itemId": "MLB5525827445",
     "productKey": "56e953d72225b9db",
     "titleHash": "a52b2817a8ca9972",
@@ -4798,5 +4774,29 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-16T23:16:37.118Z"
+  },
+  {
+    "itemId": "MLB7138654316",
+    "productKey": "d9f9ebef6ca08a2f",
+    "titleHash": "ffe4bcc70178fb4b",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-16T23:31:53.096Z"
+  },
+  {
+    "itemId": "MLB5506372141",
+    "productKey": "43c08332345f26f4",
+    "titleHash": "b7f47836bc187d0f",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-16T23:31:53.096Z"
+  },
+  {
+    "itemId": "MLB4334559185",
+    "productKey": "9d501d04b619787b",
+    "titleHash": "60b43647216b307c",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-16T23:31:53.096Z"
   }
 ]
