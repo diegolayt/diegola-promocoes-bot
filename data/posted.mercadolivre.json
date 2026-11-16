@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7736493970",
-    "productKey": "4e0745be82026c1f",
-    "titleHash": "95ec9b254759a637",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-12T13:31:40.339Z"
-  },
-  {
     "itemId": "MLB4803658086",
     "productKey": "10e676d7f3f50b79",
     "titleHash": "5fcbeacd68177048",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-16T03:01:37.099Z"
+  },
+  {
+    "itemId": "MLB5210029249",
+    "productKey": "f1eff9eced4a288f",
+    "titleHash": "cc08d37274c23394",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-16T03:31:39.530Z"
   }
 ]
