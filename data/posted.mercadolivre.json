@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4962524945",
-    "productKey": "f3ed58a1077cc9a4",
-    "titleHash": "4fe7f450f5d9b4c0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-12T11:46:37.288Z"
-  },
-  {
-    "itemId": "MLB6819871490",
-    "productKey": "a256261d4df6f661",
-    "titleHash": "9df7cd8fcf29ae55",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-12T12:01:49.162Z"
-  },
-  {
-    "itemId": "MLB4629393255",
-    "productKey": "792d2b139aea75ea",
-    "titleHash": "60e81dd09235ea0a",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-12T12:01:49.162Z"
-  },
-  {
     "itemId": "MLB5039804027",
     "productKey": "67b41de77f6e8bb3",
     "titleHash": "25cf7e816ba7fd15",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-16T01:16:41.226Z"
+  },
+  {
+    "itemId": "MLB7501162864",
+    "productKey": "d90185c5813ba0bb",
+    "titleHash": "26e89182c842e1bc",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-16T01:31:38.645Z"
+  },
+  {
+    "itemId": "MLB5131539393",
+    "productKey": "3472274b89b121ef",
+    "titleHash": "e4b1ad14a95f048b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-16T01:31:38.645Z"
+  },
+  {
+    "itemId": "MLB3928029276",
+    "productKey": "3f468fe7d81ead30",
+    "titleHash": "a0e7068095171d6a",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-16T01:31:38.645Z"
   }
 ]
