@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4992697727",
-    "productKey": "1e7e25994a8ef537",
-    "titleHash": "c4b1fd6081d8cf1b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-12T18:46:35.213Z"
-  },
-  {
-    "itemId": "MLB4497607307",
-    "productKey": "b2fc93e96a24c86a",
-    "titleHash": "02b0280977de80cf",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-12T18:46:35.213Z"
-  },
-  {
     "itemId": "MLB3444295869",
     "productKey": "71927494c0ed2e73",
     "titleHash": "47a12332b8ee7968",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-16T14:46:53.032Z"
+  },
+  {
+    "itemId": "MLB7702609944",
+    "productKey": "9785e1e4f9269a23",
+    "titleHash": "0517c1a09d1c4254",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-16T15:01:44.199Z"
+  },
+  {
+    "itemId": "MLB7640141672",
+    "productKey": "afa5a1c1c3d869da",
+    "titleHash": "bd4a307a6462c7d5",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-16T15:01:44.199Z"
   }
 ]
