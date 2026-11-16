@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5478170941",
-    "productKey": "047b8841586368ce",
-    "titleHash": "d0d73644404827f4",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-12T17:16:39.358Z"
-  },
-  {
-    "itemId": "MLB5256037569",
-    "productKey": "1de1e3d82ef8f714",
-    "titleHash": "3f183eafecb7f1fc",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-12T17:31:42.339Z"
-  },
-  {
     "itemId": "MLB4771398286",
     "productKey": "12bdcfabca3caf4e",
     "titleHash": "f71509e0a3defcad",
@@ -4798,5 +4782,21 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-16T10:16:42.063Z"
+  },
+  {
+    "itemId": "MLB6400344928",
+    "productKey": "d6cc0984381470cf",
+    "titleHash": "a33e46855fcff71c",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-16T10:31:40.429Z"
+  },
+  {
+    "itemId": "MLB5878568480",
+    "productKey": "d024777c1c0be8fe",
+    "titleHash": "842345c7a771c0fe",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-16T10:31:40.429Z"
   }
 ]
