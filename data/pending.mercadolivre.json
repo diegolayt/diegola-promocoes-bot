@@ -1,0 +1,216 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5039589091",
+      "site_id": "MLB",
+      "seller_id": 251535997,
+      "accepts_mercadopago": true,
+      "price": 299,
+      "category_id": "MLB1645",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 3252,
+      "original_price": 554.44,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJTGU5YTdl",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZBTEI2RTI",
+          "name": "Vale Encantado"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4694724936",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB59033248",
+      "title": "Ventilador de Coluna Arno Essential 40cm 6 PÁS 140W VE2C",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_751745-MLA99477917668_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB59033248",
+      "id": "MLB5039589091",
+      "sold_quantity": 300,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB4497607307",
+      "site_id": "MLB",
+      "seller_id": 226418798,
+      "accepts_mercadopago": true,
+      "price": 3260.56,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "catalog_boost",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 879,
+      "original_price": 4699.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [
+          "lost_me2_by_dimensions"
+        ],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTVjOTA4",
+          "name": "Itaperuçu"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3253082523",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB43990036",
+      "title": "Geladeira Electrolux Frost Free com AutoSense 480L Efficient Duplex Cor Inox Look TF71S",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_850918-MLA97347695417_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB43990036",
+      "id": "MLB4497607307",
+      "sold_quantity": 800,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    },
+    {
+      "item_id": "MLB5828139050",
+      "site_id": "MLB",
+      "seller_id": 1177831992,
+      "accepts_mercadopago": true,
+      "price": 303.24,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 399,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTm92byBIb3Jpem9udGVUVXhDVUZOQlQwO",
+          "name": "Novo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3116617813",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18722625",
+      "title": "Proteína Darkness Carnibol Beef em pó sabor Chocolate x 1.8kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_775815-MLA99993472513_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18722625",
+      "id": "MLB5828139050",
+      "sold_quantity": 400,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-16T18:16:44.735Z"
+}

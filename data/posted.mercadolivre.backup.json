@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7985191916",
-    "productKey": "1bbc7454825d67c5",
-    "titleHash": "883306c8a28e59a7",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-12T21:01:35.763Z"
-  },
-  {
-    "itemId": "MLB7529392590",
-    "productKey": "fd83f25c3b8fcc66",
-    "titleHash": "7d923047dcc35c56",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-12T21:16:31.686Z"
-  },
-  {
-    "itemId": "MLB5079778020",
-    "productKey": "6b27e44c099cbc82",
-    "titleHash": "fce56bd7519e5d35",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-12T21:16:31.686Z"
-  },
-  {
     "itemId": "MLB5776157134",
     "productKey": "5c15702ed6d4f3bb",
     "titleHash": "eab2d9165b0159cb",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-16T18:01:49.663Z"
+  },
+  {
+    "itemId": "MLB5039589091",
+    "productKey": "b833e549f6e4e215",
+    "titleHash": "7d2b931d4be725b3",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-16T18:16:44.732Z"
+  },
+  {
+    "itemId": "MLB4497607307",
+    "productKey": "b2fc93e96a24c86a",
+    "titleHash": "02b0280977de80cf",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-16T18:16:44.732Z"
+  },
+  {
+    "itemId": "MLB5828139050",
+    "productKey": "2b8d916b04c09f90",
+    "titleHash": "e6a0bbceb4a1566b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-16T18:16:44.732Z"
   }
 ]
