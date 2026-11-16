@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5319992481",
-    "productKey": "42ea93c673a53270",
-    "titleHash": "2b7ce61edf3215e7",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-12T23:46:32.443Z"
-  },
-  {
-    "itemId": "MLB5452462868",
-    "productKey": "9d501d04b619787b",
-    "titleHash": "60b43647216b307c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-13T00:01:45.946Z"
-  },
-  {
-    "itemId": "MLB7138654316",
-    "productKey": "d9f9ebef6ca08a2f",
-    "titleHash": "ffe4bcc70178fb4b",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-13T00:01:45.946Z"
-  },
-  {
-    "itemId": "MLB5210927019",
-    "productKey": "faec2e4d8d4b7bcc",
-    "titleHash": "81b88b0bc1856a15",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-13T00:01:45.946Z"
-  },
-  {
     "itemId": "MLB3326463445",
     "productKey": "4da20096241f83a1",
     "titleHash": "122b2943937f1218",
@@ -4798,5 +4766,37 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-16T22:16:33.452Z"
+  },
+  {
+    "itemId": "MLB5428168238",
+    "productKey": "4b16d27e9826dfdf",
+    "titleHash": "58fef0b9cc61ea0a",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-16T22:31:36.049Z"
+  },
+  {
+    "itemId": "MLB4199575191",
+    "productKey": "2a67fdf7ac254633",
+    "titleHash": "09a3093f00c4d9c2",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-16T22:31:36.049Z"
+  },
+  {
+    "itemId": "MLB6074879184",
+    "productKey": "f1255b142391a03a",
+    "titleHash": "7d49c45a00f35da1",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-16T22:31:36.049Z"
+  },
+  {
+    "itemId": "MLB7651221464",
+    "productKey": "4cf8a10639a94805",
+    "titleHash": "d4d810df2ada9c99",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-16T22:31:36.049Z"
   }
 ]
