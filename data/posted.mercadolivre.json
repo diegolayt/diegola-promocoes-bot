@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB2147833620",
-    "productKey": "7fdc50d60ebffd96",
-    "titleHash": "f971c499c5d94e8b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-12T22:01:39.996Z"
-  },
-  {
-    "itemId": "MLB4449888791",
-    "productKey": "735f5df2782173d2",
-    "titleHash": "1df3875054cdeb21",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-12T22:01:39.996Z"
-  },
-  {
     "itemId": "MLB4975782617",
     "productKey": "c421c7dbedfa4af5",
     "titleHash": "d1f3d0e27d1791c6",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-16T20:16:33.306Z"
+  },
+  {
+    "itemId": "MLB7804206930",
+    "productKey": "a9dd8ff2b914849e",
+    "titleHash": "bf0fa0934c37b081",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-16T20:31:40.588Z"
+  },
+  {
+    "itemId": "MLB6253229918",
+    "productKey": "0093a548dee7b78c",
+    "titleHash": "acc61814edc438ee",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-16T20:31:40.588Z"
   }
 ]
