@@ -1,0 +1,246 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6078965222",
+      "site_id": "MLB",
+      "seller_id": 672215015,
+      "accepts_mercadopago": true,
+      "price": 101.99,
+      "category_id": "MLB244658",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 165126,
+      "original_price": 189.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQW1lcmljYW5hVFV4Q1VGTkJUMDg1TjJFN",
+          "name": "Americana"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIENhbXBvIEJlbG9UVmhZUVcxb",
+          "name": "Jardim Campo Belo"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3683645765",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63315910",
+      "title": "Kit 10 Potes Vidro Hermético Aristus 640ml Marmita Anti Vazamento Forno Micro-ondas Freezer Tampa 4 Travas - Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_918225-MLA113027307626_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63315910",
+      "id": "MLB6078965222",
+      "sold_quantity": 1500,
+      "rotationCategory": "cozinha",
+      "sourceCategoryId": "MLB1618",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4467934979",
+      "site_id": "MLB",
+      "seller_id": 2532564723,
+      "accepts_mercadopago": true,
+      "price": 109.9,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 310948,
+      "original_price": 184.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYVHVsaXBhc1RWaFlTblZ1WkdsaHc2MVVWW",
+          "name": "Tulipas"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3730914432",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65442354",
+      "title": "3 Body Splash Very Sexy Delight Roses Barbour's Beauty",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_927784-MLA115526162361_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65442354",
+      "id": "MLB4467934979",
+      "sold_quantity": 100,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7992147960",
+      "site_id": "MLB",
+      "seller_id": 266342255,
+      "accepts_mercadopago": true,
+      "price": 1167.84,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTzY1YzUz",
+          "name": "São Gonçalo do Amarante"
+        },
+        "state": {
+          "id": "TUxCUFJJT0VkMmNj",
+          "name": "Rio Grande do Norte"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5859007115",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52053098",
+      "title": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Grafite",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_783024-MLA110125232386_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52053098",
+      "id": "MLB7992147960",
+      "sold_quantity": 400,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-16T08:16:43.446Z"
+}
