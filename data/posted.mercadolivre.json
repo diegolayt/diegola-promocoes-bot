@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7977732200",
-    "productKey": "fe3916e4145f9c4c",
-    "titleHash": "446d0c834ed457eb",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-12T15:01:41.503Z"
-  },
-  {
     "itemId": "MLB3876858111",
     "productKey": "50811f927d6a844d",
     "titleHash": "a24ae796cebc9cc5",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-16T07:01:54.310Z"
+  },
+  {
+    "itemId": "MLB5914784428",
+    "productKey": "e1fa6b0d5edc06a7",
+    "titleHash": "097fe77015697a11",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-16T07:16:33.534Z"
   }
 ]

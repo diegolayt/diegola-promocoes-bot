@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5914784428",
+      "site_id": "MLB",
+      "seller_id": 167787623,
+      "accepts_mercadopago": true,
+      "price": 455.97,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 381426,
+      "original_price": 575.58,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQWd1ZG9zVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Agudos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3542941193",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47535705",
+      "title": "Câmera Inteligente IM7+3MP de Resolução Intelbras",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_892568-MLA99939109103_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47535705",
+      "id": "MLB5914784428",
+      "sold_quantity": 1000,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-16T07:16:33.536Z"
+}
