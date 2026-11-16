@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4020354625",
+      "site_id": "MLB",
+      "seller_id": 533180837,
+      "accepts_mercadopago": true,
+      "price": 499,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2114,
+      "original_price": 1099.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRW1idSBkYXMgQXJ0ZXNUVXhDVUZOQlQwO",
+          "name": "Embu das Artes"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIFZpc3RhIEFsZWdyZVRWaFlSV",
+          "name": "Jardim Vista Alegre"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2982266190",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17003265",
+      "title": "Cafeteira Nescafé Dolce Gusto Genio S Plus Vermelha 110v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_878845-MLA116859439613_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17003265",
+      "id": "MLB4020354625",
+      "sold_quantity": 1900,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5849862690",
+      "site_id": "MLB",
+      "seller_id": 1391550274,
+      "accepts_mercadopago": true,
+      "price": 189.99,
+      "category_id": "MLB455536",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "fvf_discount_item",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 282902,
+      "original_price": 240,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYT3Nhc2NvVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQnVzc29jYWJhVFZoWVQzTmhjMk52VkZWN",
+          "name": "Bussocaba"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3512159583",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB48602433",
+      "title": "Furadeira De Impacto Com Jogo De Brocas Bits E Buchas 300 Pe Cor Amarelo Frequência 60hz",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_898090-MLA99462641652_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB48602433",
+      "id": "MLB5849862690",
+      "sold_quantity": 1300,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-16T18:01:49.664Z"
+}
