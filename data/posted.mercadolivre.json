@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7979279084",
-    "productKey": "cd056bd91698fc9b",
-    "titleHash": "9ecee43ac5c2a774",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-12T15:16:41.872Z"
-  },
-  {
-    "itemId": "MLB6499961726",
-    "productKey": "2de706a58a8b82bb",
-    "titleHash": "7de31561f0e34b0a",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-12T15:31:45.845Z"
-  },
-  {
     "itemId": "MLB6439262018",
     "productKey": "14ae1350b1edf58c",
     "titleHash": "46679422f89dd4d2",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-16T07:46:36.897Z"
+  },
+  {
+    "itemId": "MLB6487355942",
+    "productKey": "1b0c80b38e1cf265",
+    "titleHash": "e1ee4fe398d38bfe",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-16T08:01:48.110Z"
+  },
+  {
+    "itemId": "MLB7977732200",
+    "productKey": "fe3916e4145f9c4c",
+    "titleHash": "446d0c834ed457eb",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-16T08:01:48.111Z"
   }
 ]
