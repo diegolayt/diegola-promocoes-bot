@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3876858111",
-    "productKey": "50811f927d6a844d",
-    "titleHash": "a24ae796cebc9cc5",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-12T15:16:41.872Z"
-  },
-  {
     "itemId": "MLB7971537458",
     "productKey": "9cd997824517fd5e",
     "titleHash": "c7109c0a43cae79a",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-16T07:16:33.534Z"
+  },
+  {
+    "itemId": "MLB5800037458",
+    "productKey": "b6d1cedb49d30deb",
+    "titleHash": "51bd3c9452ef23f3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-16T07:31:36.792Z"
   }
 ]
