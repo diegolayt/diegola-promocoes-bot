@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7971537458",
-    "productKey": "9cd997824517fd5e",
-    "titleHash": "c7109c0a43cae79a",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-12T15:16:41.872Z"
-  },
-  {
     "itemId": "MLB7979279084",
     "productKey": "cd056bd91698fc9b",
     "titleHash": "9ecee43ac5c2a774",
@@ -4798,5 +4790,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-16T07:31:36.792Z"
+  },
+  {
+    "itemId": "MLB5934587642",
+    "productKey": "4c9a2bafeaf753b6",
+    "titleHash": "17682e2f317c0d59",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-16T07:46:36.897Z"
   }
 ]
