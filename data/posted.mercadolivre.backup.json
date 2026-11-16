@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7915943858",
-    "productKey": "ce5fe0b01bc783b0",
-    "titleHash": "66462205aa76024a",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-12T17:31:42.339Z"
-  },
-  {
-    "itemId": "MLB7658263696",
-    "productKey": "188aaec624c0db89",
-    "titleHash": "546002c2f3e9a515",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-12T17:31:42.339Z"
-  },
-  {
-    "itemId": "MLB4497812897",
-    "productKey": "dffe848960a3da5d",
-    "titleHash": "9d1f0834ce476971",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-12T17:46:31.420Z"
-  },
-  {
     "itemId": "MLB4760150595",
     "productKey": "57d143c4911506ac",
     "titleHash": "d9f884a867d20ccd",
@@ -4798,5 +4774,29 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-16T10:46:38.678Z"
+  },
+  {
+    "itemId": "MLB4771398286",
+    "productKey": "12bdcfabca3caf4e",
+    "titleHash": "f71509e0a3defcad",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-16T11:01:55.590Z"
+  },
+  {
+    "itemId": "MLB7665920698",
+    "productKey": "e689be77e279c615",
+    "titleHash": "10ad4952157baf45",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-16T11:01:55.590Z"
+  },
+  {
+    "itemId": "MLB7999013514",
+    "productKey": "a84cc903c81a3a5c",
+    "titleHash": "84a4aae518b07e86",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-16T11:01:55.590Z"
   }
 ]
