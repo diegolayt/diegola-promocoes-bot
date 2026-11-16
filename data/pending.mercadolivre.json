@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5483774027",
+      "site_id": "MLB",
+      "seller_id": 1228982095,
+      "accepts_mercadopago": true,
+      "price": 215.55,
+      "category_id": "MLB7596",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "content_editable",
+        "extended_warranty_eligible",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 500582,
+      "original_price": 336.37,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2306975864",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47077152",
+      "title": "Projetor Portátil Woosh Aquanano HY320 Full HD Com 12000 lm e Wi-Fi",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_691460-MLA118766634744_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47077152",
+      "id": "MLB5483774027",
+      "sold_quantity": 100,
+      "rotationCategory": "projetor",
+      "sourceCategoryId": "MLB2830",
+      "minPrice": 200
+    },
+    {
+      "item_id": "MLB7999974598",
+      "site_id": "MLB",
+      "seller_id": 521730101,
+      "accepts_mercadopago": true,
+      "price": 85.99,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2VycXVpbGhvVFV4Q1VGTkJUMDg1TjJFN",
+          "name": "Cerquilho"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5875483651",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19314257",
+      "title": "Óleo Capilar Oil Reflections Wella 100ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_745593-MLA106774218986_022026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19314257",
+      "id": "MLB7999974598",
+      "sold_quantity": 1200,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-16T16:01:59.868Z"
+}

@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5701841518",
-    "productKey": "e47e31aa7f0f7ddf",
-    "titleHash": "753d54b2272a6993",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-12T19:46:38.397Z"
-  },
-  {
-    "itemId": "MLB5315663409",
-    "productKey": "5daa8738665d0228",
-    "titleHash": "e65fc7f7467e397e",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-12T19:46:38.398Z"
-  },
-  {
     "itemId": "MLB5328110041",
     "productKey": "7c1203a2803ba98c",
     "titleHash": "c471681ba2f9bd71",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-16T15:46:47.243Z"
+  },
+  {
+    "itemId": "MLB5483774027",
+    "productKey": "7805ee503504f48a",
+    "titleHash": "4d5af61ca760ce54",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-16T16:01:59.865Z"
+  },
+  {
+    "itemId": "MLB7999974598",
+    "productKey": "c54e839f3f026968",
+    "titleHash": "5c2c1146e3a7b981",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-16T16:01:59.865Z"
   }
 ]
