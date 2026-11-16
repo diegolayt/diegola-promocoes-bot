@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7907253688",
-    "productKey": "c54e839f3f026968",
-    "titleHash": "5c2c1146e3a7b981",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-12T19:16:38.594Z"
-  },
-  {
     "itemId": "MLB5885455180",
     "productKey": "c1bf359324948ad4",
     "titleHash": "a32da22d3cf3636d",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-16T15:16:38.040Z"
+  },
+  {
+    "itemId": "MLB4578512970",
+    "productKey": "62c93a85d3efa5a1",
+    "titleHash": "8d8f46572e1893f3",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-16T15:31:47.132Z"
   }
 ]
