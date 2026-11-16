@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7773409158",
-    "productKey": "d9a1640cf1b8c6e3",
-    "titleHash": "1fa95cf3ec92b68b",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-12T14:46:34.704Z"
-  },
-  {
     "itemId": "MLB6078965222",
     "productKey": "5fe28540bf3f91b2",
     "titleHash": "3b148e7c8dbd8e6f",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-16T05:31:40.176Z"
+  },
+  {
+    "itemId": "MLB5597479444",
+    "productKey": "e2501bd4ef202aaa",
+    "titleHash": "7a4dfed420269918",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-16T06:47:07.502Z"
   }
 ]
