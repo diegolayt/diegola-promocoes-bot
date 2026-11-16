@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7938921574",
+      "site_id": "MLB",
+      "seller_id": 276731732,
+      "accepts_mercadopago": true,
+      "price": 109.9,
+      "category_id": "MLB44085",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1321,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 19.07
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTjMxMzZk",
+          "name": "Capim Branco"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU2149657352",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB6360396",
+      "title": "Prancha Cerâmica Profissional Classic 180° Taiff Bivolt Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_784234-MLA119931773830_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB6360396",
+      "id": "MLB7938921574",
+      "sold_quantity": 1300,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-16T15:46:47.246Z"
+}
