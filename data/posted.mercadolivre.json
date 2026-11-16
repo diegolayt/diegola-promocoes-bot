@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6895678534",
-    "productKey": "11e5eb85396537bf",
-    "titleHash": "46a1fc3e8cf8edf8",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-12T20:16:37.390Z"
-  },
-  {
     "itemId": "MLB6589723582",
     "productKey": "72561843514ae323",
     "titleHash": "9c44839cafa93dad",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-16T16:16:38.237Z"
+  },
+  {
+    "itemId": "MLB2670052459",
+    "productKey": "093b9eee2f11757f",
+    "titleHash": "9fb6e2be0e1df65e",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-16T16:31:37.168Z"
   }
 ]
