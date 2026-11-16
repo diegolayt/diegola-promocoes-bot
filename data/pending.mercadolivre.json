@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5554213538",
+      "site_id": "MLB",
+      "seller_id": 518092731,
+      "accepts_mercadopago": true,
+      "price": 95,
+      "category_id": "MLB264880",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4017,
+      "original_price": 137,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Itapevi"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3332004882",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB53618239",
+      "title": "Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS 60",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_761257-MLA108807654621_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB53618239",
+      "id": "MLB5554213538",
+      "sold_quantity": 1400,
+      "rotationCategory": "pele",
+      "sourceCategoryId": "MLB199407",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB5339055984",
+      "site_id": "MLB",
+      "seller_id": 187308878,
+      "accepts_mercadopago": true,
+      "price": 709.99,
+      "category_id": "MLB186153",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 376,
+      "original_price": 964.67,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 129.99
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BJTmU4ZjEw",
+          "name": "Pinhais"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2295334999",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB42613392",
+      "title": "Guarda-roupa Casal 6 Portas 2 Gavetas França Espresso Móveis cor cinamomo off-white",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_893539-MLA107404130406_032026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB42613392",
+      "id": "MLB5339055984",
+      "sold_quantity": 500,
+      "rotationCategory": "móveis",
+      "sourceCategoryId": "MLB436380",
+      "minPrice": 150
+    }
+  ],
+  "reservedAt": "2026-11-16T09:32:06.678Z"
+}

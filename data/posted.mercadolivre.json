@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3251982185",
-    "productKey": "6e6b0a0afa3e4adb",
-    "titleHash": "b39d876cbd06ae10",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-12T16:46:35.599Z"
-  },
-  {
-    "itemId": "MLB6400344928",
-    "productKey": "d6cc0984381470cf",
-    "titleHash": "a33e46855fcff71c",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-12T17:01:44.847Z"
-  },
-  {
     "itemId": "MLB4604327726",
     "productKey": "110c81276c079aea",
     "titleHash": "b5237db00758c38a",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-16T09:16:38.237Z"
+  },
+  {
+    "itemId": "MLB5554213538",
+    "productKey": "d5416cabd8241d2f",
+    "titleHash": "a1c33e89dde3ef8a",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-16T09:32:06.675Z"
+  },
+  {
+    "itemId": "MLB5339055984",
+    "productKey": "0a6b3dfb37184691",
+    "titleHash": "92e7b66fe96dbd69",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-16T09:32:06.676Z"
   }
 ]
