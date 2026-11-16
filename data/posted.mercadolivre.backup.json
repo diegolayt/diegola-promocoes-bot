@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7931563502",
-    "productKey": "8087d5827caf1d7c",
-    "titleHash": "894a48f069e4d329",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-12T11:16:37.132Z"
-  },
-  {
-    "itemId": "MLB4035332659",
-    "productKey": "3f468fe7d81ead30",
-    "titleHash": "a0e7068095171d6a",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-12T11:31:38.177Z"
-  },
-  {
     "itemId": "MLB7685286148",
     "productKey": "97793b46b1ed0e13",
     "titleHash": "ba9b4acf5fd20f0e",
@@ -4798,5 +4782,21 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-16T00:31:45.182Z"
+  },
+  {
+    "itemId": "MLB5255879423",
+    "productKey": "392dfea6c16fe498",
+    "titleHash": "28777b6d8f1e2193",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-16T01:01:42.121Z"
+  },
+  {
+    "itemId": "MLB7585112596",
+    "productKey": "5f26ec118c3c684f",
+    "titleHash": "072400fdebd3532c",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-16T01:01:42.121Z"
   }
 ]
