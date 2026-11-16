@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6078965222",
-    "productKey": "5fe28540bf3f91b2",
-    "titleHash": "3b148e7c8dbd8e6f",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-12T15:01:41.503Z"
-  },
-  {
     "itemId": "MLB7977732200",
     "productKey": "fe3916e4145f9c4c",
     "titleHash": "446d0c834ed457eb",
@@ -4798,5 +4790,13 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-11-16T06:47:07.502Z"
+  },
+  {
+    "itemId": "MLB4803658086",
+    "productKey": "10e676d7f3f50b79",
+    "titleHash": "5fcbeacd68177048",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-16T07:01:54.310Z"
   }
 ]
