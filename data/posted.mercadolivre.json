@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4604327726",
-    "productKey": "110c81276c079aea",
-    "titleHash": "b5237db00758c38a",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-12T17:01:44.848Z"
-  },
-  {
     "itemId": "MLB7061680590",
     "productKey": "ef90c56f8a5cdb44",
     "titleHash": "cc4fc57fca2a93d2",
@@ -4798,5 +4790,13 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-11-16T09:32:06.676Z"
+  },
+  {
+    "itemId": "MLB7891920190",
+    "productKey": "58408d4b8d164d44",
+    "titleHash": "70b737e1b7d26e39",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-16T09:46:41.371Z"
   }
 ]

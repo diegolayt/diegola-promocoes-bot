@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7891920190",
+      "site_id": "MLB",
+      "seller_id": 2923813058,
+      "accepts_mercadopago": true,
+      "price": 1252.14,
+      "category_id": "MLB3847",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1VCQTM4MWQy",
+          "name": "Ubajara"
+        },
+        "state": {
+          "id": "TUxCUENFQUExNzkyZQ",
+          "name": "Ceará"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5710276748",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB34113516",
+      "title": "Caixa De Som Boombox Aiwa AWS-BBS-01-B 200w IP66 30hs De Bateria",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_864411-MLA99591392870_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB34113516",
+      "id": "MLB7891920190",
+      "sold_quantity": 1600,
+      "rotationCategory": "som",
+      "sourceCategoryId": "MLB3835",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-16T09:46:41.374Z"
+}
