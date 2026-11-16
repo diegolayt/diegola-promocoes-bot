@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4771398286",
-    "productKey": "12bdcfabca3caf4e",
-    "titleHash": "f71509e0a3defcad",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-12T17:31:42.339Z"
-  },
-  {
     "itemId": "MLB7915943858",
     "productKey": "ce5fe0b01bc783b0",
     "titleHash": "66462205aa76024a",
@@ -4798,5 +4790,13 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-16T10:31:40.429Z"
+  },
+  {
+    "itemId": "MLB5652727666",
+    "productKey": "2db0bb2ae6da5aa1",
+    "titleHash": "5e8baeb24f7da5a4",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-16T10:46:38.678Z"
   }
 ]
