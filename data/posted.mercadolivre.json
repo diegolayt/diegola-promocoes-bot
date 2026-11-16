@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7061680590",
-    "productKey": "ef90c56f8a5cdb44",
-    "titleHash": "cc4fc57fca2a93d2",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-12T17:16:39.358Z"
-  },
-  {
-    "itemId": "MLB5652727666",
-    "productKey": "2db0bb2ae6da5aa1",
-    "titleHash": "5e8baeb24f7da5a4",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-12T17:16:39.358Z"
-  },
-  {
     "itemId": "MLB5520821997",
     "productKey": "d024777c1c0be8fe",
     "titleHash": "842345c7a771c0fe",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-16T09:46:41.371Z"
+  },
+  {
+    "itemId": "MLB3251982185",
+    "productKey": "6e6b0a0afa3e4adb",
+    "titleHash": "b39d876cbd06ae10",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-16T10:01:45.070Z"
+  },
+  {
+    "itemId": "MLB4604327726",
+    "productKey": "110c81276c079aea",
+    "titleHash": "b5237db00758c38a",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-16T10:01:45.071Z"
   }
 ]
