@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5656974534",
-    "productKey": "0ab7ac472ebadef7",
-    "titleHash": "bb1dc58e46127577",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-12T18:01:44.505Z"
-  },
-  {
     "itemId": "MLB5523007127",
     "productKey": "e83744dfb605c176",
     "titleHash": "91b7e2c79272f4b5",
@@ -4798,5 +4790,13 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-16T11:16:50.084Z"
+  },
+  {
+    "itemId": "MLB3525364839",
+    "productKey": "f8b4730edfd7a1c2",
+    "titleHash": "16dd35246dab9fd4",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-16T11:31:42.180Z"
   }
 ]
