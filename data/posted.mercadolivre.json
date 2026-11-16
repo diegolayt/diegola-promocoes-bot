@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6638081262",
-    "productKey": "f68a711c1d7c3bb7",
-    "titleHash": "9d2ecb424ee4a5b2",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-12T21:31:42.405Z"
-  },
-  {
     "itemId": "MLB3143183122",
     "productKey": "f957ab0d39b2d366",
     "titleHash": "b1c4d572f20022fd",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-16T19:16:40.431Z"
+  },
+  {
+    "itemId": "MLB5315663409",
+    "productKey": "5daa8738665d0228",
+    "titleHash": "e65fc7f7467e397e",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-16T19:31:42.459Z"
   }
 ]
