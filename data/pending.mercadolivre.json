@@ -1,0 +1,226 @@
+{
+  "items": [
+    {
+      "item_id": "MLB2147833620",
+      "site_id": "MLB",
+      "seller_id": 565098644,
+      "accepts_mercadopago": true,
+      "price": 78.9,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 18 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "loyalty_discount_eligible",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "forced_business_price_per_quantity",
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2268,
+      "original_price": 179.84,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYTWF0w6NvVFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYTm92YSBNYXTDo29UVmhZVFdGMHc2TnZWR",
+          "name": "Nova Matão"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 18,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "18 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1418208303",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB6087971",
+      "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB6087971",
+      "id": "MLB2147833620",
+      "sold_quantity": 1600,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB3444295869",
+      "site_id": "MLB",
+      "seller_id": 344811873,
+      "accepts_mercadopago": true,
+      "price": 101.99,
+      "category_id": "MLB6777",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "shipping_discount_item",
+        "standard_price_by_channel",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 336666,
+      "original_price": 179.89,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JSQTU2M2Yy",
+          "name": "Brasília"
+        },
+        "state": {
+          "id": "TUxCUERJU0wxMWJhYg",
+          "name": "Distrito Federal"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1976869326",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19907986",
+      "title": "Fonte Gamer ATX Fortrek Crusader 500W Bivolt Cooler 120mm",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652216-MLA119567769937_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19907986",
+      "id": "MLB3444295869",
+      "sold_quantity": 1000,
+      "rotationCategory": "armazenamento",
+      "sourceCategoryId": "MLB430598",
+      "minPrice": 100
+    },
+    {
+      "item_id": "MLB5496026926",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 3599.99,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 199,
+      "original_price": 5634.88,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3296212760",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB24044937",
+      "title": "Philco geladeira inverter frost free PRF535I inox com freezer 437l",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_717199-MLA100035736549_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB24044937",
+      "id": "MLB5496026926",
+      "sold_quantity": 600,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-16T21:31:41.487Z"
+}

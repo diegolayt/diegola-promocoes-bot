@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4199575191",
-    "productKey": "2a67fdf7ac254633",
-    "titleHash": "09a3093f00c4d9c2",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-12T22:46:35.397Z"
-  },
-  {
-    "itemId": "MLB4469987063",
-    "productKey": "f1255b142391a03a",
-    "titleHash": "7d49c45a00f35da1",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-12T23:01:36.948Z"
-  },
-  {
-    "itemId": "MLB7651221464",
-    "productKey": "4cf8a10639a94805",
-    "titleHash": "d4d810df2ada9c99",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-12T23:01:36.948Z"
-  },
-  {
     "itemId": "MLB7979995726",
     "productKey": "9df63c5c74f0032b",
     "titleHash": "92bd599ba4cf03b1",
@@ -4798,5 +4774,29 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-16T21:16:35.903Z"
+  },
+  {
+    "itemId": "MLB2147833620",
+    "productKey": "7fdc50d60ebffd96",
+    "titleHash": "f971c499c5d94e8b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-16T21:31:41.485Z"
+  },
+  {
+    "itemId": "MLB3444295869",
+    "productKey": "71927494c0ed2e73",
+    "titleHash": "47a12332b8ee7968",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-16T21:31:41.485Z"
+  },
+  {
+    "itemId": "MLB5496026926",
+    "productKey": "8b268a7c911881c6",
+    "titleHash": "d3aec9e3d06b6dad",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-16T21:31:41.485Z"
   }
 ]
