@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4307049751",
+      "site_id": "MLB",
+      "seller_id": 67824252,
+      "accepts_mercadopago": true,
+      "price": 396.75,
+      "category_id": "MLB456969",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 669.88,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0dPSTVkMTYw",
+          "name": "Goiânia"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQklORDg1NDU0",
+          "name": "Industrial Mooca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3566919742",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB22717889",
+      "title": "Furadeira De Impacto 1/2 750w Maleta 5 Brocas Gsb13re Bosch Cor Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_967963-MLA99419180672_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB22717889",
+      "id": "MLB4307049751",
+      "sold_quantity": 400,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7580735174",
+      "site_id": "MLB",
+      "seller_id": 2378993331,
+      "accepts_mercadopago": true,
+      "price": 73.8,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 95.1,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJFTDg3NjE",
+          "name": "Bela Vista"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5065599341",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45617876",
+      "title": "Attracione Men perfume Masculino Com Feromônios Ativados 25 mL",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_948198-MLA81769955450_012025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45617876",
+      "id": "MLB7580735174",
+      "sold_quantity": 1600,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4452425949",
+      "site_id": "MLB",
+      "seller_id": 1109461744,
+      "accepts_mercadopago": true,
+      "price": 649,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 60226,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3705124766",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB57489948",
+      "title": "Monitor LG UltraGear™ 24G411A-B 24\",FHD, 144Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB57489948",
+      "id": "MLB4452425949",
+      "sold_quantity": 1500,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-11-16T17:46:38.691Z"
+}
