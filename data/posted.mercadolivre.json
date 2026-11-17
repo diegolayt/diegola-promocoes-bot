@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5410636044",
-    "productKey": "268fe1dcba87ee28",
-    "titleHash": "0b023d35ca0abbf6",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-13T11:46:30.842Z"
-  },
-  {
-    "itemId": "MLB7947182432",
-    "productKey": "c400d42728432e17",
-    "titleHash": "8edb8eda870ef1af",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-13T11:46:30.843Z"
-  },
-  {
     "itemId": "MLB2634448552",
     "productKey": "8af7df7f67736088",
     "titleHash": "424920e3dd208530",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-17T10:46:38.877Z"
+  },
+  {
+    "itemId": "MLB4115638623",
+    "productKey": "9681761c11f42242",
+    "titleHash": "c506f453654b8575",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-17T11:16:40.109Z"
+  },
+  {
+    "itemId": "MLB4190456415",
+    "productKey": "6a0f3de508245dc1",
+    "titleHash": "ae7ee8f191bd670b",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-17T11:16:40.109Z"
   }
 ]
