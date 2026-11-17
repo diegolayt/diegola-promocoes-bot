@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5424041486",
-    "productKey": "a69c89af46f539e7",
-    "titleHash": "47a732733919029b",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-13T20:46:30.625Z"
-  },
-  {
-    "itemId": "MLB5144524471",
-    "productKey": "c356c59be11ac235",
-    "titleHash": "4c99e959114099bb",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-13T20:46:30.625Z"
-  },
-  {
-    "itemId": "MLB5812393646",
-    "productKey": "d76bba99e09b3844",
-    "titleHash": "321d8c2ae24df17a",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-13T21:01:42.458Z"
-  },
-  {
     "itemId": "MLB4208012055",
     "productKey": "a6ddc6408e6a83c4",
     "titleHash": "bde09e6268564097",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-17T22:01:30.973Z"
+  },
+  {
+    "itemId": "MLB3616725881",
+    "productKey": "2b88dc516422dcc0",
+    "titleHash": "d6b5f6fe6c4f8314",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-17T22:16:40.747Z"
+  },
+  {
+    "itemId": "MLB3797364569",
+    "productKey": "96983e4185e3eef7",
+    "titleHash": "f469ce3c49a26e01",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-17T22:16:40.747Z"
+  },
+  {
+    "itemId": "MLB4875367973",
+    "productKey": "8787a8725f82c581",
+    "titleHash": "da257b538969c80c",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-17T22:16:40.747Z"
   }
 ]
