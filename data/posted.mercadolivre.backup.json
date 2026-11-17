@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5195402891",
-    "productKey": "819054fbbea42c9a",
-    "titleHash": "dbbfa39f8921466e",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-13T12:01:48.058Z"
-  },
-  {
     "itemId": "MLB6182336356",
     "productKey": "e772e6fb3830f752",
     "titleHash": "796851ab66948329",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-17T11:31:42.111Z"
+  },
+  {
+    "itemId": "MLB2634448552",
+    "productKey": "8af7df7f67736088",
+    "titleHash": "424920e3dd208530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-17T11:46:40.176Z"
   }
 ]
