@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4755555056",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 122.47,
+      "category_id": "MLB189008",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "first_party",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "dynamic_standard_price",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 185,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU597625887",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36576672",
+      "title": "Parafusadeira e Furadeira de Impacto WAP WF 700FE Mandril de 3/8'' 700W Cinza e Amarela",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_818602-MLA99932761929_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36576672",
+      "id": "MLB4755555056",
+      "sold_quantity": 1500,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5552222555",
+      "site_id": "MLB",
+      "seller_id": 3304395263,
+      "accepts_mercadopago": true,
+      "price": 75.49,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 1 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [],
+        "cost": 49.527936000000004
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NPTWQ1Yzk4",
+          "name": "Comodoro"
+        },
+        "state": {
+          "id": "TUxCUE1BVE9jZDY0",
+          "name": "Mato Grosso"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5901854734",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB44882352",
+      "title": "Egeo Choc High Desodorante Colônia 90ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_856185-MLA120946393717_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB44882352",
+      "id": "MLB5552222555",
+      "sold_quantity": 100,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-17T03:01:40.833Z"
+}
