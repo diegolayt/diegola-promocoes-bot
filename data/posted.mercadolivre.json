@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5410550918",
-    "productKey": "f404f4d48a375164",
-    "titleHash": "4ecc5e6577f6dfe7",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-13T22:16:35.933Z"
-  },
-  {
-    "itemId": "MLB4028150107",
-    "productKey": "8191759e21b92a67",
-    "titleHash": "8b681e8772bc1b7f",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-13T22:31:42.258Z"
-  },
-  {
     "itemId": "MLB4631516257",
     "productKey": "b9b09d11846bf67d",
     "titleHash": "65f1cda77c78cc4f",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-17T23:16:35.143Z"
+  },
+  {
+    "itemId": "MLB7540612498",
+    "productKey": "cdfac698b36343c4",
+    "titleHash": "27c229d79efc3431",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-17T23:31:45.195Z"
+  },
+  {
+    "itemId": "MLB8011326594",
+    "productKey": "d76bba99e09b3844",
+    "titleHash": "321d8c2ae24df17a",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-17T23:31:45.196Z"
   }
 ]
