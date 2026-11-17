@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4918688015",
-    "productKey": "d6a6e9c334751e4a",
-    "titleHash": "7092ee9729654152",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-13T16:01:45.332Z"
-  },
-  {
     "itemId": "MLB7980643908",
     "productKey": "f1bf6bf916c5306e",
     "titleHash": "bbdcb68937be3dc7",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-17T16:46:38.846Z"
+  },
+  {
+    "itemId": "MLB6475082992",
+    "productKey": "e026eda0eb29f423",
+    "titleHash": "541b9f08c97d8a4b",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-17T17:16:42.027Z"
   }
 ]
