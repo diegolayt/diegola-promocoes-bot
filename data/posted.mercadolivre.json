@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5728106336",
-    "productKey": "bd5a57a6887059e5",
-    "titleHash": "2f41e2e081190be2",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-13T03:16:34.807Z"
-  },
-  {
-    "itemId": "MLB4755555056",
-    "productKey": "f170975c8b48cfc2",
-    "titleHash": "acc952b54c0303a3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-13T03:31:33.398Z"
-  },
-  {
-    "itemId": "MLB4597935647",
-    "productKey": "2546452a96d07059",
-    "titleHash": "6eea06c316952154",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-13T03:46:39.387Z"
-  },
-  {
     "itemId": "MLB7934213834",
     "productKey": "8787a8725f82c581",
     "titleHash": "da257b538969c80c",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-17T01:46:35.390Z"
+  },
+  {
+    "itemId": "MLB6556469456",
+    "productKey": "613bf0c5cb5cbee9",
+    "titleHash": "ff44a097255df998",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-17T02:01:49.705Z"
+  },
+  {
+    "itemId": "MLB5000007235",
+    "productKey": "3ae67792fdb583fa",
+    "titleHash": "25054d9ac727dd22",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-17T02:01:49.705Z"
+  },
+  {
+    "itemId": "MLB7741387658",
+    "productKey": "ab95e285844c979e",
+    "titleHash": "1da1223a6945e333",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-17T02:01:49.705Z"
   }
 ]
