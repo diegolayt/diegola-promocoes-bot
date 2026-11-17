@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5521579115",
-    "productKey": "b912948cf9b5e753",
-    "titleHash": "4f9c8fc996431b26",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-13T09:01:53.023Z"
-  },
-  {
     "itemId": "MLB3853894079",
     "productKey": "e9dfb607a4680c9c",
     "titleHash": "404369dcec53deb4",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-17T07:16:39.622Z"
+  },
+  {
+    "itemId": "MLB7836067492",
+    "productKey": "bf7e00fa51c47b92",
+    "titleHash": "2b36c4d2d2387bd1",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-17T07:46:35.735Z"
   }
 ]
