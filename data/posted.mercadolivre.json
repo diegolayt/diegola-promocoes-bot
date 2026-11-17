@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7578902582",
-    "productKey": "d4f1c2d7935fb51a",
-    "titleHash": "c43f9a10d7dcc8fa",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-13T18:31:50.858Z"
-  },
-  {
     "itemId": "MLB7613839710",
     "productKey": "810f54caef449f8a",
     "titleHash": "91f8268a7fe15f7e",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-17T19:46:32.796Z"
+  },
+  {
+    "itemId": "MLB4701944819",
+    "productKey": "778552fa92898be8",
+    "titleHash": "be2e33eea945a4a3",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-17T20:01:51.738Z"
   }
 ]
