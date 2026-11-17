@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5205651427",
-    "productKey": "e360a2fb4273b6b3",
-    "titleHash": "8ab2d80a6d345a2e",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-13T16:16:41.047Z"
-  },
-  {
     "itemId": "MLB6047945220",
     "productKey": "a1d280e4c3ee7ae6",
     "titleHash": "94ccd298a23fb896",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-17T17:46:30.513Z"
+  },
+  {
+    "itemId": "MLB5547077271",
+    "productKey": "bc04daa8ab567d61",
+    "titleHash": "f8bb3ea79829b117",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-11-17T18:01:47.551Z"
   }
 ]
