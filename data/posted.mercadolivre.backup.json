@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4489955434",
-    "productKey": "113d9604631d6b0d",
-    "titleHash": "02055506bdcf30fc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-13T05:16:28.863Z"
-  },
-  {
-    "itemId": "MLB4275712681",
-    "productKey": "f1677aafac120841",
-    "titleHash": "1fa83cf79fa53ee5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-13T05:16:28.863Z"
-  },
-  {
-    "itemId": "MLB7866893230",
-    "productKey": "eff4ebbdec2c8425",
-    "titleHash": "ed957b2ce03ff7f5",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-13T05:16:28.863Z"
-  },
-  {
     "itemId": "MLB5220615439",
     "productKey": "521cd6b50a0644fa",
     "titleHash": "22851baee6276190",
@@ -4798,5 +4774,29 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-17T03:01:40.831Z"
+  },
+  {
+    "itemId": "MLB5264201738",
+    "productKey": "b72f2eddb0b93c92",
+    "titleHash": "bc2a8d2d741f15b1",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-17T03:16:34.833Z"
+  },
+  {
+    "itemId": "MLB7813039900",
+    "productKey": "562fda59951fa113",
+    "titleHash": "04375a2fedb2f938",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-17T03:16:34.833Z"
+  },
+  {
+    "itemId": "MLB4080089661",
+    "productKey": "2e3f4ccf8d0a47fe",
+    "titleHash": "90b2562924cee160",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-17T03:16:34.834Z"
   }
 ]
