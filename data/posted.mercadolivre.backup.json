@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6194501592",
-    "productKey": "743b29089cd31a1b",
-    "titleHash": "fe715e49e4132e41",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-13T09:46:37.807Z"
-  },
-  {
     "itemId": "MLB6847613118",
     "productKey": "6a0f874da4937eb3",
     "titleHash": "994272fd0fa8ee25",
@@ -4798,5 +4790,13 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-17T08:31:41.551Z"
+  },
+  {
+    "itemId": "MLB3853894079",
+    "productKey": "e9dfb607a4680c9c",
+    "titleHash": "404369dcec53deb4",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-17T08:46:39.103Z"
   }
 ]
