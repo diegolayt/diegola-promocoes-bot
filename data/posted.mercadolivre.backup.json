@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB2820196075",
-    "productKey": "9be23f720e3d6d4f",
-    "titleHash": "b4d7c6e7b7ef601d",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-13T14:01:48.152Z"
-  },
-  {
-    "itemId": "MLB3640909735",
-    "productKey": "5bb08fbcedadf8ea",
-    "titleHash": "6f941d1098f301c6",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-13T14:16:38.570Z"
-  },
-  {
-    "itemId": "MLB3930412773",
-    "productKey": "e026eda0eb29f423",
-    "titleHash": "541b9f08c97d8a4b",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-13T14:31:39.685Z"
-  },
-  {
-    "itemId": "MLB2819502650",
-    "productKey": "511fc15d93907ab0",
-    "titleHash": "29765379176ba821",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-13T14:46:31.139Z"
-  },
-  {
     "itemId": "MLB7715861974",
     "productKey": "40821c73f39974e2",
     "titleHash": "400d008b3de62193",
@@ -4798,5 +4766,37 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-17T15:31:44.291Z"
+  },
+  {
+    "itemId": "MLB5735055650",
+    "productKey": "4e37ed64bd2a5eee",
+    "titleHash": "3552cabf9cb42a2c",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-17T15:46:31.430Z"
+  },
+  {
+    "itemId": "MLB4835180937",
+    "productKey": "abf8d06c6cfb1b90",
+    "titleHash": "96e7f5a9a79b44c8",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-17T15:46:31.430Z"
+  },
+  {
+    "itemId": "MLB5084785712",
+    "productKey": "dc82d11f8b29eade",
+    "titleHash": "3532c31d92333d51",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-17T15:46:31.430Z"
+  },
+  {
+    "itemId": "MLB8005291654",
+    "productKey": "422afdd941c1d5d4",
+    "titleHash": "ff0def2a538e714f",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-17T15:46:31.430Z"
   }
 ]
