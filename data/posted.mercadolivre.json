@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6755949246",
-    "productKey": "5ef572b794dd17e0",
-    "titleHash": "ee76a88aa5fe3a7e",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-13T10:16:37.763Z"
-  },
-  {
-    "itemId": "MLB5474043035",
-    "productKey": "6226a5d038aed863",
-    "titleHash": "5777efe3a60d517a",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-13T10:31:38.356Z"
-  },
-  {
-    "itemId": "MLB6451356910",
-    "productKey": "0fde9e9cfc241986",
-    "titleHash": "92b0b423411c17c3",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-13T10:31:38.356Z"
-  },
-  {
-    "itemId": "MLB6175718676",
-    "productKey": "9077b5e04abe0eda",
-    "titleHash": "19baa0fcc69e4f1e",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-13T10:31:38.356Z"
-  },
-  {
     "itemId": "MLB6600129404",
     "productKey": "307900e287a57280",
     "titleHash": "5ab2e697025e7a60",
@@ -4798,5 +4766,37 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-17T09:16:37.539Z"
+  },
+  {
+    "itemId": "MLB5138994919",
+    "productKey": "15c7db5eb9334078",
+    "titleHash": "4c5d40e68166a654",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-17T09:31:41.394Z"
+  },
+  {
+    "itemId": "MLB4274565581",
+    "productKey": "c4e6acaed28a56ed",
+    "titleHash": "a8d7d85f80b82e40",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-17T09:31:41.394Z"
+  },
+  {
+    "itemId": "MLB5980496924",
+    "productKey": "5e2b747dccadc7ed",
+    "titleHash": "b11c7c849e9f236c",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-17T09:31:41.394Z"
+  },
+  {
+    "itemId": "MLB7966559392",
+    "productKey": "97019a1e6c0edd66",
+    "titleHash": "cf6d29cd0b7d3165",
+    "category": "masculino",
+    "sourceCategoryId": "MLB23332",
+    "reservedAt": "2026-11-17T09:31:41.394Z"
   }
 ]
