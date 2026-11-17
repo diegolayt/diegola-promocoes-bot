@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7984318094",
-    "productKey": "aea2de8a7c5c3d52",
-    "titleHash": "fd8a49ba38884f61",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-13T08:46:42.120Z"
-  },
-  {
-    "itemId": "MLB7246986836",
-    "productKey": "7ff4850888a120db",
-    "titleHash": "9c4f307b8d6d26f0",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-13T09:01:53.023Z"
-  },
-  {
     "itemId": "MLB5521579115",
     "productKey": "b912948cf9b5e753",
     "titleHash": "4f9c8fc996431b26",
@@ -4798,5 +4782,21 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-17T07:01:54.337Z"
+  },
+  {
+    "itemId": "MLB7921551156",
+    "productKey": "d4255e0a63e61dfb",
+    "titleHash": "7595d754ee6983fc",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-17T07:16:39.622Z"
+  },
+  {
+    "itemId": "MLB5383758300",
+    "productKey": "07f1520aa80ab712",
+    "titleHash": "bc8ac8efca670c74",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-17T07:16:39.622Z"
   }
 ]
