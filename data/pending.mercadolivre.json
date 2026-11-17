@@ -1,0 +1,240 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7390928972",
+      "site_id": "MLB",
+      "seller_id": 3295946682,
+      "accepts_mercadopago": true,
+      "price": 442,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 2 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 503602,
+      "original_price": 999,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 2,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "2 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3912734708",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47081288",
+      "title": "Monitor Portátil Gamer Bettdow de 15.6\" Full HD IPS Antirreflexo com Capa",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_665279-MLA91956933715_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47081288",
+      "id": "MLB7390928972",
+      "sold_quantity": 1000,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB7744792244",
+      "site_id": "MLB",
+      "seller_id": 1386735550,
+      "accepts_mercadopago": true,
+      "price": 1347,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1RSSTM5NDI1",
+          "name": "Trindade"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5389788206",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54982411",
+      "title": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_889169-MLA96868779849_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54982411",
+      "id": "MLB7744792244",
+      "sold_quantity": 2000,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB7953729852",
+      "site_id": "MLB",
+      "seller_id": 3782270066,
+      "accepts_mercadopago": true,
+      "price": 3399,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "not_specified",
+        "logistic_type": "not_specified",
+        "tags": [],
+        "cost": 29.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNBTnptY2do",
+          "name": "Santa Efigênia"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5836426476",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB75910822",
+      "title": "Samsung Smart TV 65\" Mini LED 4K M75H 26/2027",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_857357-MLA116062135096_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB75910822",
+      "id": "MLB7953729852",
+      "sold_quantity": 900,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    }
+  ],
+  "reservedAt": "2026-11-17T09:01:42.932Z"
+}
