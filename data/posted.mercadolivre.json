@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3771505959",
-    "productKey": "3e24012756b6950c",
-    "titleHash": "fd06cf3b916fc566",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-13T13:31:55.053Z"
-  },
-  {
-    "itemId": "MLB6477127322",
-    "productKey": "4c39c54175dbde91",
-    "titleHash": "3b8d07d05440f04b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-13T13:31:55.053Z"
-  },
-  {
-    "itemId": "MLB5086087047",
-    "productKey": "1984953db221eb12",
-    "titleHash": "0fc65dd07a9749c7",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-13T13:31:55.053Z"
-  },
-  {
-    "itemId": "MLB4812130742",
-    "productKey": "1fbb97017cc6e7ce",
-    "titleHash": "aac3ed7848ee3cfe",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-13T13:46:40.130Z"
-  },
-  {
     "itemId": "MLB2820196075",
     "productKey": "9be23f720e3d6d4f",
     "titleHash": "b4d7c6e7b7ef601d",
@@ -4798,5 +4766,37 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-17T15:16:36.554Z"
+  },
+  {
+    "itemId": "MLB3577839307",
+    "productKey": "e1f31ebb49ae051b",
+    "titleHash": "da52ddf8d551059c",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-17T15:31:44.291Z"
+  },
+  {
+    "itemId": "MLB5350127318",
+    "productKey": "ec3b73f24f9af257",
+    "titleHash": "802e07e18ad37e9b",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-17T15:31:44.291Z"
+  },
+  {
+    "itemId": "MLB5407300636",
+    "productKey": "b5cbd04220fcf0a0",
+    "titleHash": "be0511f838779454",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-17T15:31:44.291Z"
+  },
+  {
+    "itemId": "MLB4896829767",
+    "productKey": "b1a6ed780f0fe240",
+    "titleHash": "1982de45a97168c2",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-17T15:31:44.291Z"
   }
 ]
