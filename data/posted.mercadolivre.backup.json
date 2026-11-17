@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5457116760",
-    "productKey": "12ba1e7daad2e455",
-    "titleHash": "308ca2a85e1b8a8a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-13T06:31:34.845Z"
-  },
-  {
-    "itemId": "MLB5691370762",
-    "productKey": "12075010278a8522",
-    "titleHash": "f5dff857644650ef",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-13T06:31:34.845Z"
-  },
-  {
     "itemId": "MLB4514233797",
     "productKey": "b80aa50f4c572f73",
     "titleHash": "554791d76d1ac8c8",
@@ -4798,5 +4782,21 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-17T04:46:35.900Z"
+  },
+  {
+    "itemId": "MLB7866893230",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-17T05:01:41.838Z"
+  },
+  {
+    "itemId": "MLB8005837396",
+    "productKey": "d88aa48d0a267fbf",
+    "titleHash": "e1b11f56561d2fb3",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-17T05:01:41.838Z"
   }
 ]
