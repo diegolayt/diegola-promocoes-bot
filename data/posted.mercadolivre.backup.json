@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6611494338",
-    "productKey": "22c1ab81d170e902",
-    "titleHash": "59b69a48e3f7ae93",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-13T22:01:47.048Z"
-  },
-  {
-    "itemId": "MLB7990255220",
-    "productKey": "490cecdfbaa48fb2",
-    "titleHash": "2d4e78b24cd92766",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-13T22:01:47.048Z"
-  },
-  {
     "itemId": "MLB7245055100",
     "productKey": "429e344a68635eec",
     "titleHash": "0d6a97bbb0f3ef1c",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-17T22:46:35.766Z"
+  },
+  {
+    "itemId": "MLB6162191874",
+    "productKey": "0546c9a98b460ab9",
+    "titleHash": "8f0a8a5ee541baba",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-17T23:01:44.613Z"
+  },
+  {
+    "itemId": "MLB6823469992",
+    "productKey": "cc7b6f9694e26e07",
+    "titleHash": "28260572dc6461e9",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-17T23:01:44.613Z"
   }
 ]
