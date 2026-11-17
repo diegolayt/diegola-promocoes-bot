@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6182336356",
-    "productKey": "e772e6fb3830f752",
-    "titleHash": "796851ab66948329",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-13T12:16:33.630Z"
-  },
-  {
     "itemId": "MLB4811259715",
     "productKey": "7abc3c7eceaff66c",
     "titleHash": "0770fcd7bab16021",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-17T11:46:40.176Z"
+  },
+  {
+    "itemId": "MLB6976567444",
+    "productKey": "10d83ae90f0fb762",
+    "titleHash": "5467f88d296880b9",
+    "category": "brinquedos",
+    "sourceCategoryId": "MLB1132",
+    "reservedAt": "2026-11-17T12:16:34.285Z"
   }
 ]
