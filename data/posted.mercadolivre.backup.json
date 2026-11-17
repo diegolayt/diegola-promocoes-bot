@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7934213834",
-    "productKey": "8787a8725f82c581",
-    "titleHash": "da257b538969c80c",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-13T03:46:39.387Z"
-  },
-  {
-    "itemId": "MLB5980496924",
-    "productKey": "5e2b747dccadc7ed",
-    "titleHash": "b11c7c849e9f236c",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-13T03:46:39.387Z"
-  },
-  {
-    "itemId": "MLB5025375573",
-    "productKey": "f437f44795d481d0",
-    "titleHash": "a8dc62326bfbf119",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-13T04:01:50.322Z"
-  },
-  {
     "itemId": "MLB4324797875",
     "productKey": "0a5cc4226c46bc09",
     "titleHash": "03b0c5869530dd67",
@@ -4798,5 +4774,29 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-17T02:01:49.705Z"
+  },
+  {
+    "itemId": "MLB5097723592",
+    "productKey": "0314016684b00af3",
+    "titleHash": "f150802ac716f3c0",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-17T02:31:34.612Z"
+  },
+  {
+    "itemId": "MLB7512708546",
+    "productKey": "dadc1ee16bdd2767",
+    "titleHash": "07a7799fec781912",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-17T02:31:34.612Z"
+  },
+  {
+    "itemId": "MLB4564236093",
+    "productKey": "41888fb320739b37",
+    "titleHash": "3fc1ad64a62d5f86",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-17T02:31:34.612Z"
   }
 ]
