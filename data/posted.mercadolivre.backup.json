@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4268042659",
-    "productKey": "cddbf545af237f6f",
-    "titleHash": "3bbe4ed40543e0e7",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-13T02:01:45.025Z"
-  },
-  {
     "itemId": "MLB4278550700",
     "productKey": "484a03825ae17ef1",
     "titleHash": "fe796f34ef3590ff",
@@ -4798,5 +4790,13 @@
     "category": "perfume",
     "sourceCategoryId": "MLB6284",
     "reservedAt": "2026-11-17T00:01:47.199Z"
+  },
+  {
+    "itemId": "MLB7980950720",
+    "productKey": "23c4410a26b6c187",
+    "titleHash": "a4502ea76973e897",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-17T00:16:36.623Z"
   }
 ]
