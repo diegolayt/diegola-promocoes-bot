@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4514233797",
-    "productKey": "b80aa50f4c572f73",
-    "titleHash": "554791d76d1ac8c8",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-13T06:46:35.657Z"
-  },
-  {
-    "itemId": "MLB3734408005",
-    "productKey": "0f09bd22eb07aaa2",
-    "titleHash": "8ece10dd02994ba9",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-13T06:46:35.657Z"
-  },
-  {
     "itemId": "MLB4008679825",
     "productKey": "637df51459d0e797",
     "titleHash": "46a4780cd1b5a6c7",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-17T05:01:41.838Z"
+  },
+  {
+    "itemId": "MLB4595279704",
+    "productKey": "c9b5c82a0a206f5a",
+    "titleHash": "26b5424896b8e331",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-17T05:16:32.682Z"
+  },
+  {
+    "itemId": "MLB7738915264",
+    "productKey": "578087a6350e382a",
+    "titleHash": "4e478014ed8af7a9",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-17T05:16:32.682Z"
   }
 ]
