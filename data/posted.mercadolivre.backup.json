@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4811259715",
-    "productKey": "7abc3c7eceaff66c",
-    "titleHash": "0770fcd7bab16021",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-13T12:16:33.630Z"
-  },
-  {
     "itemId": "MLB3964316525",
     "productKey": "142385f66dcdd104",
     "titleHash": "4d563e7f677f169d",
@@ -4798,5 +4790,13 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-17T12:16:34.285Z"
+  },
+  {
+    "itemId": "MLB5457116760",
+    "productKey": "12ba1e7daad2e455",
+    "titleHash": "308ca2a85e1b8a8a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-17T12:31:45.262Z"
   }
 ]
