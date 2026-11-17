@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7613839710",
-    "productKey": "810f54caef449f8a",
-    "titleHash": "91f8268a7fe15f7e",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-13T18:46:39.634Z"
-  },
-  {
-    "itemId": "MLB5988123462",
-    "productKey": "3173ebec78e14208",
-    "titleHash": "4cef9d0770a61e63",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-13T19:01:55.460Z"
-  },
-  {
     "itemId": "MLB4320340453",
     "productKey": "e43b0bf189996c52",
     "titleHash": "f0e4d8cb460162d1",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-17T20:01:51.738Z"
+  },
+  {
+    "itemId": "MLB6906622218",
+    "productKey": "8ebb5290fbd71181",
+    "titleHash": "acfce180f1eca87f",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-17T20:16:43.970Z"
+  },
+  {
+    "itemId": "MLB5727997850",
+    "productKey": "0af3f0089d2da042",
+    "titleHash": "b229ab2bf8859545",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-17T20:16:43.971Z"
   }
 ]
