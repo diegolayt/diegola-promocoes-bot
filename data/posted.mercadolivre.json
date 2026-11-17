@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6510724966",
-    "productKey": "778552fa92898be8",
-    "titleHash": "be2e33eea945a4a3",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-13T16:31:44.797Z"
-  },
-  {
-    "itemId": "MLB5066903754",
-    "productKey": "2fbe972296c15ac4",
-    "titleHash": "94d92cdc19e55d62",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-13T16:46:50.627Z"
-  },
-  {
-    "itemId": "MLB6764557012",
-    "productKey": "2fbf4e278f428da4",
-    "titleHash": "60e6c7fff123c448",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-13T17:01:34.619Z"
-  },
-  {
     "itemId": "MLB5324863524",
     "productKey": "774e524f296cd250",
     "titleHash": "d23245fb4d16b171",
@@ -4798,5 +4774,29 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-17T18:16:33.267Z"
+  },
+  {
+    "itemId": "MLB7412778898",
+    "productKey": "ff9bc0d1f81d6b0e",
+    "titleHash": "5b208d6de7b8b829",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-17T18:31:43.211Z"
+  },
+  {
+    "itemId": "MLB4027229133",
+    "productKey": "1d07b11a945328b6",
+    "titleHash": "ff18fddfa72ad4c4",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-17T18:31:43.211Z"
+  },
+  {
+    "itemId": "MLB5295759634",
+    "productKey": "06babd581101f23b",
+    "titleHash": "49b321f683ef6a94",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-17T18:31:43.211Z"
   }
 ]
