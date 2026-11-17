@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7381481458",
-    "productKey": "cabbb447af73cacd",
-    "titleHash": "13bc6b92a0023758",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-13T09:31:37.559Z"
-  },
-  {
-    "itemId": "MLB7953729852",
-    "productKey": "739c2022a55ab99e",
-    "titleHash": "244b2beae8f269ca",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-13T09:31:37.559Z"
-  },
-  {
     "itemId": "MLB6194501592",
     "productKey": "743b29089cd31a1b",
     "titleHash": "fe715e49e4132e41",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-17T08:16:33.436Z"
+  },
+  {
+    "itemId": "MLB7840566352",
+    "productKey": "677485e12ee1bef6",
+    "titleHash": "824b09eda268afd6",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-17T08:31:41.550Z"
+  },
+  {
+    "itemId": "MLB7460059318",
+    "productKey": "0483a914dabef6b5",
+    "titleHash": "56745c96f96954f0",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-17T08:31:41.551Z"
   }
 ]
