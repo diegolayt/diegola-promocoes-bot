@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5407300636",
-    "productKey": "b5cbd04220fcf0a0",
-    "titleHash": "be0511f838779454",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-13T13:01:41.271Z"
-  },
-  {
-    "itemId": "MLB7567527640",
-    "productKey": "a43e7b064f1a955f",
-    "titleHash": "a1bb336b397d265d",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-13T13:01:41.271Z"
-  },
-  {
     "itemId": "MLB4835180937",
     "productKey": "abf8d06c6cfb1b90",
     "titleHash": "96e7f5a9a79b44c8",
@@ -4798,5 +4782,21 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-11-17T14:46:33.893Z"
+  },
+  {
+    "itemId": "MLB7586569004",
+    "productKey": "0ff33a7f933d771f",
+    "titleHash": "1ac364f778f5f627",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-17T15:01:55.873Z"
+  },
+  {
+    "itemId": "MLB4811259715",
+    "productKey": "7abc3c7eceaff66c",
+    "titleHash": "0770fcd7bab16021",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-17T15:01:55.873Z"
   }
 ]
