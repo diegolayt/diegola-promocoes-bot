@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6600129404",
-    "productKey": "307900e287a57280",
-    "titleHash": "5ab2e697025e7a60",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-13T10:46:40.094Z"
-  },
-  {
-    "itemId": "MLB6695256080",
-    "productKey": "bda19e9978a23697",
-    "titleHash": "4042a31b68d1a4ff",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-13T10:46:40.094Z"
-  },
-  {
-    "itemId": "MLB4758538973",
-    "productKey": "423754fcafb59c0b",
-    "titleHash": "2e54e63e8ac79d09",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-13T11:16:39.794Z"
-  },
-  {
     "itemId": "MLB3815737187",
     "productKey": "7966d90622442ad2",
     "titleHash": "093e9e8141599e74",
@@ -4798,5 +4774,29 @@
     "category": "masculino",
     "sourceCategoryId": "MLB23332",
     "reservedAt": "2026-11-17T09:31:41.394Z"
+  },
+  {
+    "itemId": "MLB5820611620",
+    "productKey": "81470f458df652f2",
+    "titleHash": "9b560d3758ed6fb2",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-17T09:46:49.165Z"
+  },
+  {
+    "itemId": "MLB6755949246",
+    "productKey": "5ef572b794dd17e0",
+    "titleHash": "ee76a88aa5fe3a7e",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-17T09:46:49.165Z"
+  },
+  {
+    "itemId": "MLB6900550988",
+    "productKey": "6226a5d038aed863",
+    "titleHash": "5777efe3a60d517a",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-17T09:46:49.165Z"
   }
 ]
