@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4549814415",
-    "productKey": "5707418a30805cbf",
-    "titleHash": "4e21a569e001ae6e",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-13T19:16:34.460Z"
-  },
-  {
     "itemId": "MLB3616725881",
     "productKey": "2b88dc516422dcc0",
     "titleHash": "d6b5f6fe6c4f8314",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-17T21:01:50.281Z"
+  },
+  {
+    "itemId": "MLB5324444473",
+    "productKey": "4126a957e160f755",
+    "titleHash": "1c993490aa5dbfc1",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-17T21:16:41.220Z"
   }
 ]
