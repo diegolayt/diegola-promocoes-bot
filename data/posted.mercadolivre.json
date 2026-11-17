@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3393222713",
-    "productKey": "d3c8122c66a236de",
-    "titleHash": "71ae82c4e85b0492",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-13T05:31:44.886Z"
-  },
-  {
-    "itemId": "MLB7738915264",
-    "productKey": "578087a6350e382a",
-    "titleHash": "4e478014ed8af7a9",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-13T05:46:39.963Z"
-  },
-  {
     "itemId": "MLB4595279704",
     "productKey": "c9b5c82a0a206f5a",
     "titleHash": "26b5424896b8e331",
@@ -4798,5 +4782,21 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-17T03:31:49.491Z"
+  },
+  {
+    "itemId": "MLB7995055638",
+    "productKey": "2fb98f3c2112b40f",
+    "titleHash": "20691de5025a76ef",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-17T03:46:34.524Z"
+  },
+  {
+    "itemId": "MLB4543450707",
+    "productKey": "bc8f50fe5cc29a3a",
+    "titleHash": "509f18b6468768ce",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-17T03:46:34.524Z"
   }
 ]
