@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5139760715",
-    "productKey": "c6ffc2bdedffd41c",
-    "titleHash": "7660bd2cc9a981c5",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-13T15:31:40.113Z"
-  },
-  {
-    "itemId": "MLB7412778898",
-    "productKey": "ff9bc0d1f81d6b0e",
-    "titleHash": "5b208d6de7b8b829",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-13T15:46:30.451Z"
-  },
-  {
-    "itemId": "MLB4027229133",
-    "productKey": "1d07b11a945328b6",
-    "titleHash": "ff18fddfa72ad4c4",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-13T15:46:30.451Z"
-  },
-  {
     "itemId": "MLB5295759634",
     "productKey": "06babd581101f23b",
     "titleHash": "49b321f683ef6a94",
@@ -4798,5 +4774,29 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-17T16:01:42.655Z"
+  },
+  {
+    "itemId": "MLB4856710463",
+    "productKey": "4b5d7211d804f914",
+    "titleHash": "e85ef4a734ec8242",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-17T16:16:38.154Z"
+  },
+  {
+    "itemId": "MLB3771505959",
+    "productKey": "3e24012756b6950c",
+    "titleHash": "fd06cf3b916fc566",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-17T16:16:38.154Z"
+  },
+  {
+    "itemId": "MLB6511064980",
+    "productKey": "e60e8b3a8b9faa13",
+    "titleHash": "869d36e890ccdc6b",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-17T16:16:38.154Z"
   }
 ]
