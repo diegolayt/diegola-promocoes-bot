@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4208012055",
-    "productKey": "a6ddc6408e6a83c4",
-    "titleHash": "bde09e6268564097",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-13T21:16:33.404Z"
-  },
-  {
-    "itemId": "MLB7253496932",
-    "productKey": "8966f7090ac1116d",
-    "titleHash": "0257198e68c33f08",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-13T21:16:33.404Z"
-  },
-  {
-    "itemId": "MLB7723793010",
-    "productKey": "d39b1ecff1553030",
-    "titleHash": "589e36cf1c58b931",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-11-13T21:31:38.373Z"
-  },
-  {
     "itemId": "MLB3783973037",
     "productKey": "79904641cb78c39e",
     "titleHash": "c6c910964afbee15",
@@ -4798,5 +4774,29 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-17T22:16:40.747Z"
+  },
+  {
+    "itemId": "MLB7911512448",
+    "productKey": "630abd9b007307fe",
+    "titleHash": "77f4d7c3280dfb52",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-17T22:31:45.629Z"
+  },
+  {
+    "itemId": "MLB3964141405",
+    "productKey": "b849aecceecc26bb",
+    "titleHash": "f33b362dc6d157a2",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-17T22:31:45.630Z"
+  },
+  {
+    "itemId": "MLB5086087047",
+    "productKey": "1984953db221eb12",
+    "titleHash": "0fc65dd07a9749c7",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-17T22:31:45.630Z"
   }
 ]
