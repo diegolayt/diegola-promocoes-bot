@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3838209499",
+      "site_id": "MLB",
+      "seller_id": 584911659,
+      "accepts_mercadopago": true,
+      "price": 749,
+      "category_id": "MLB1692",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 164028,
+      "original_price": 1096.78,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTcyOTU",
+          "name": "Guarulhos"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUnQ5bXdm",
+          "name": "Parque São Miguel"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1984959746",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36476927",
+      "title": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_920822-MLA99469912962_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36476927",
+      "id": "MLB3838209499",
+      "sold_quantity": 1900,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5568475047",
+      "site_id": "MLB",
+      "seller_id": 3592255542,
+      "accepts_mercadopago": true,
+      "price": 2656.37,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439262,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlTb0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 0,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "0 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4867973891",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB58033020",
+      "title": "Geladeira com freezer inverter Midea Frost Free Duplex MDRT533EVD461 con capacidad de 394L inox",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_975701-MLA93059839254_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB58033020",
+      "id": "MLB5568475047",
+      "sold_quantity": 1300,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    },
+    {
+      "item_id": "MLB5270018027",
+      "site_id": "MLB",
+      "seller_id": 3363360391,
+      "accepts_mercadopago": true,
+      "price": 1405,
+      "category_id": "MLB271858",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTENBUDIy",
+          "name": "Vila Guarani (Z Sul)"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5228721873",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB34229153",
+      "title": "Garmin Forerunner 165 GPS 010-02863-20 43 mm",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_756061-MLA99968148439_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB34229153",
+      "id": "MLB5270018027",
+      "sold_quantity": 900,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-17T00:31:45.343Z"
+}
