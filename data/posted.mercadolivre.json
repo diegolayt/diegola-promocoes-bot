@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4475211167",
-    "productKey": "640f8d3c0cbc4c83",
-    "titleHash": "d30118097bc8aca5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-14T19:46:38.578Z"
-  },
-  {
     "itemId": "MLB6153218964",
     "productKey": "1f028055a5e8fcd7",
     "titleHash": "0b04907b65ed95a5",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-18T21:46:38.494Z"
+  },
+  {
+    "itemId": "MLB6629642306",
+    "productKey": "daec8d0881c8d7d6",
+    "titleHash": "38709b9f79583c28",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-18T22:01:43.331Z"
   }
 ]
