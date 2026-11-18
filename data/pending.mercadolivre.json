@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3551603209",
+      "site_id": "MLB",
+      "seller_id": 144578541,
+      "accepts_mercadopago": true,
+      "price": 369.99,
+      "category_id": "MLB120294",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "forced_business_price_per_quantity",
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 50190,
+      "original_price": 560.74,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JMVWM2MDMx",
+          "name": "Blumenau"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBBUzg4MjBG",
+          "name": "Passo Manso"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU2390229492",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB29187736",
+      "title": "Lavadora De Alta Pressão Vonder 1400w Lav 1600 Amarelo 127 V",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_674891-MLA118434008530_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB29187736",
+      "id": "MLB3551603209",
+      "sold_quantity": 200,
+      "rotationCategory": "ferramenta elétrica",
+      "sourceCategoryId": "MLB2526",
+      "minPrice": 120
+    },
+    {
+      "item_id": "MLB6984694256",
+      "site_id": "MLB",
+      "seller_id": 1560273817,
+      "accepts_mercadopago": true,
+      "price": 324,
+      "category_id": "MLB105297",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 10 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "forced_business_price_per_quantity",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Osasco"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 10,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "10 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3793670877",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB11286621",
+      "title": "KIT 10 Resmas - Papel Sulfite A4 Report 500 Folhas Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_805455-MLA99487191924_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB11286621",
+      "id": "MLB6984694256",
+      "sold_quantity": 1600,
+      "rotationCategory": "impressão",
+      "sourceCategoryId": "MLB5875",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-11-18T22:16:45.284Z"
+}
