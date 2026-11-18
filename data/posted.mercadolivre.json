@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB1630337787",
-    "productKey": "d22fa65cdb3c5323",
-    "titleHash": "61315aeef9dd29e4",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-14T01:46:42.472Z"
-  },
-  {
     "itemId": "MLB5215944593",
     "productKey": "e1c6ccd1b23b052e",
     "titleHash": "4d36991e1a99ae8b",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-18T02:16:38.948Z"
+  },
+  {
+    "itemId": "MLB6906628416",
+    "productKey": "afdc8b9a0fdca6b9",
+    "titleHash": "e6c7a1e4ae50579a",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-18T02:31:48.042Z"
   }
 ]
