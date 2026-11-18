@@ -1,0 +1,135 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5215944593",
+      "site_id": "MLB",
+      "seller_id": 2936853097,
+      "accepts_mercadopago": true,
+      "price": 495,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5010,
+      "original_price": 990,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5075286456",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25074971",
+      "title": "Relógio Tommy Hilfiger 1791659 Cor de malha original: cor de moldura marrom, cor de fundo prateada, cor de fundo azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_908854-MLA121214697851_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25074971",
+      "id": "MLB5215944593",
+      "sold_quantity": 300,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5564311487",
+      "site_id": "MLB",
+      "seller_id": 269794747,
+      "accepts_mercadopago": true,
+      "price": 270,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0ZPWmRjOGZh",
+          "name": "Foz do Iguaçu"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkFMVDU2RTk3",
+          "name": "Alto São Francisco"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5875127005",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25057291",
+      "title": "Mouse sem fio Logitech M280 com cor branca",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880761-MLA99453482900_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25057291",
+      "id": "MLB5564311487",
+      "sold_quantity": 1700,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-18T04:46:41.466Z"
+}
