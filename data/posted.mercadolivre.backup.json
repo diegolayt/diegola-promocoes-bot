@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7912144924",
-    "productKey": "6d6a36b43f25814b",
-    "titleHash": "864ba560595ab6ad",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-14T02:16:36.079Z"
-  },
-  {
     "itemId": "MLB7984319360",
     "productKey": "1d3dd666b990c91f",
     "titleHash": "9167a0816ac03b1e",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-18T02:46:44.595Z"
+  },
+  {
+    "itemId": "MLB3269837602",
+    "productKey": "eb39781cba8c5ba7",
+    "titleHash": "9e968352a8f3a15c",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-18T03:01:44.945Z"
   }
 ]
