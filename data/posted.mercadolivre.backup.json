@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7161299304",
-    "productKey": "0f0fdb96cb6446aa",
-    "titleHash": "1670416b92bd28cb",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-13T23:46:39.937Z"
-  },
-  {
-    "itemId": "MLB5575158922",
-    "productKey": "470a6f69c29f9087",
-    "titleHash": "128e67c8b561c343",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-14T00:01:46.447Z"
-  },
-  {
     "itemId": "MLB3640145261",
     "productKey": "573321164cd845a9",
     "titleHash": "95322f9ffc5758d5",
@@ -4798,5 +4782,21 @@
     "category": "fitness",
     "sourceCategoryId": "MLB1338",
     "reservedAt": "2026-11-18T00:31:40.206Z"
+  },
+  {
+    "itemId": "MLB7590840264",
+    "productKey": "f404f4d48a375164",
+    "titleHash": "4ecc5e6577f6dfe7",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-18T00:46:40.182Z"
+  },
+  {
+    "itemId": "MLB5519263383",
+    "productKey": "490cecdfbaa48fb2",
+    "titleHash": "2d4e78b24cd92766",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-18T00:46:40.182Z"
   }
 ]
