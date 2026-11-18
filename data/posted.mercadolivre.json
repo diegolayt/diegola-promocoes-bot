@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7729301988",
-    "productKey": "7d185defb541f932",
-    "titleHash": "45c958da81de6776",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-14T20:31:46.672Z"
-  },
-  {
     "itemId": "MLB5140003520",
     "productKey": "66aad9dacbb2cc0c",
     "titleHash": "9d1eae52c8bb9416",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-18T22:31:52.607Z"
+  },
+  {
+    "itemId": "MLB7840452010",
+    "productKey": "9cb47f553c7cb85e",
+    "titleHash": "62c54a9500e1296b",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-18T22:46:38.066Z"
   }
 ]
