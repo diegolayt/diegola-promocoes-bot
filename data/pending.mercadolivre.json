@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5125610427",
+      "site_id": "MLB",
+      "seller_id": 3595234463,
+      "accepts_mercadopago": true,
+      "price": 117.53,
+      "category_id": "MLB5867",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 439342,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJQTM3ZTYx",
+          "name": "Viana"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 36,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "36 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4899425272",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18382231",
+      "title": "Repetidor de Sinal Wi-Fi TP-Link TL-WA850RE Extensor de Alcance N300 V7",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_662555-MLA118244021625_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18382231",
+      "id": "MLB5125610427",
+      "sold_quantity": 400,
+      "rotationCategory": "redes",
+      "sourceCategoryId": "MLB1700",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5568473159",
+      "site_id": "MLB",
+      "seller_id": 3521554529,
+      "accepts_mercadopago": true,
+      "price": 130,
+      "category_id": "MLB264794",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lQQTZjNjQ2",
+          "name": "Ipatinga"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJPTUEzOTBD",
+          "name": "Bom Jardim"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5940610546",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB64322156",
+      "title": "Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1 | Raspa, Apara e Contorna | Uso Seco e Molhado | 100% À Prova d'Água | Sem Fio | Bivolt | QP1425/10",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_750670-MLA118429558724_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB64322156",
+      "id": "MLB5568473159",
+      "sold_quantity": 1900,
+      "rotationCategory": "barbearia",
+      "sourceCategoryId": "MLB264787",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-18T00:16:36.144Z"
+}
