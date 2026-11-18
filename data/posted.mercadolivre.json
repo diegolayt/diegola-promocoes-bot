@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7358531924",
-    "productKey": "1f2208dd21863a0e",
-    "titleHash": "8dd77967e28e1211",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-14T09:01:41.560Z"
-  },
-  {
-    "itemId": "MLB4091456221",
-    "productKey": "40f3ce023dcaf098",
-    "titleHash": "43b0e8b2f3e2ee28",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-14T09:16:32.215Z"
-  },
-  {
-    "itemId": "MLB7779094920",
-    "productKey": "4d99ade24a114ecb",
-    "titleHash": "a60d5254dc087834",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-14T09:31:36.785Z"
-  },
-  {
     "itemId": "MLB5509368413",
     "productKey": "8b7f2439bd97f1ef",
     "titleHash": "8c3f6e95739241e2",
@@ -4798,5 +4774,29 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-18T10:16:33.477Z"
+  },
+  {
+    "itemId": "MLB3986439067",
+    "productKey": "12c33843ea3ba516",
+    "titleHash": "f5092e1b3b45ec90",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-18T10:31:43.004Z"
+  },
+  {
+    "itemId": "MLB8011040934",
+    "productKey": "45808aef9e36af2b",
+    "titleHash": "0fed13623550fa42",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-18T10:31:43.004Z"
+  },
+  {
+    "itemId": "MLB7612044056",
+    "productKey": "1551bf9f32c05b23",
+    "titleHash": "41a02a3933f5017f",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-18T10:31:43.004Z"
   }
 ]
