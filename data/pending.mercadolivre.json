@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4674216985",
+      "site_id": "MLB",
+      "seller_id": 1460609718,
+      "accepts_mercadopago": true,
+      "price": 269.9,
+      "category_id": "MLB30059",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2946,
+      "original_price": 299.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDM3ODc",
+          "name": "Vila Nova Conceição"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3896034571",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB45676046",
+      "title": "Jogo De Cama Casal Buddemeyer Cotton Essential Cor Azul",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_743531-MLA81804532108_012025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB45676046",
+      "id": "MLB4674216985",
+      "sold_quantity": 200,
+      "rotationCategory": "colchão",
+      "sourceCategoryId": "MLB438928",
+      "minPrice": 200
+    }
+  ],
+  "reservedAt": "2026-11-18T09:31:36.790Z"
+}
