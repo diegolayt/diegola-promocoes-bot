@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5054393641",
-    "productKey": "f2921cc7fb9fa9b5",
-    "titleHash": "148896325a6008ad",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-14T02:31:40.809Z"
-  },
-  {
-    "itemId": "MLB7808097512",
-    "productKey": "d4b61b68ddb2f8d0",
-    "titleHash": "1d327597d8aaca1c",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-14T02:31:40.809Z"
-  },
-  {
     "itemId": "MLB5512400488",
     "productKey": "cd6908a1373b2654",
     "titleHash": "08f953c8f96c4c54",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-18T03:16:41.264Z"
+  },
+  {
+    "itemId": "MLB3516121753",
+    "productKey": "e45e7ce2520ec55f",
+    "titleHash": "58d4fc2df4ea9377",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-18T03:31:41.203Z"
+  },
+  {
+    "itemId": "MLB5237441463",
+    "productKey": "8be3319e521559cd",
+    "titleHash": "9deb07ab1d05ae9d",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-18T03:31:41.203Z"
   }
 ]
