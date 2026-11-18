@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5221383325",
-    "productKey": "af6fd456573a6c22",
-    "titleHash": "1a0f1b9fd4ebb53e",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-14T13:46:36.450Z"
-  },
-  {
-    "itemId": "MLB3956721899",
-    "productKey": "f8541b1120414240",
-    "titleHash": "6e7efcaaa8b039c0",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-14T14:01:44.502Z"
-  },
-  {
     "itemId": "MLB6233971228",
     "productKey": "a5159ad3bb7f346b",
     "titleHash": "b3a008af85b3061b",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-18T15:01:50.030Z"
+  },
+  {
+    "itemId": "MLB4264380029",
+    "productKey": "6c7a65620b689012",
+    "titleHash": "d52f03028cc2f4a9",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-18T15:16:44.098Z"
+  },
+  {
+    "itemId": "MLB2749164943",
+    "productKey": "c61bb77a90f70d42",
+    "titleHash": "e318b8d137692aca",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-18T15:16:44.098Z"
   }
 ]
