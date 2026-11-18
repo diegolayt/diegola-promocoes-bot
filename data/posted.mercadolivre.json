@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6233971228",
-    "productKey": "a5159ad3bb7f346b",
-    "titleHash": "b3a008af85b3061b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-14T14:01:44.502Z"
-  },
-  {
-    "itemId": "MLB4849437799",
-    "productKey": "1835b96f8c31b1b3",
-    "titleHash": "fe3ce120921d1f3b",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-14T14:01:44.502Z"
-  },
-  {
     "itemId": "MLB7992010530",
     "productKey": "5d7af8f790c6fdd6",
     "titleHash": "47e6d2d1173e13c1",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-18T15:16:44.098Z"
+  },
+  {
+    "itemId": "MLB4039445285",
+    "productKey": "99e7af203807e481",
+    "titleHash": "725a0ad2111c45fd",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-18T15:31:48.260Z"
+  },
+  {
+    "itemId": "MLB7229426980",
+    "productKey": "b99a995b906409f9",
+    "titleHash": "7eece60ff3ecbbb7",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-18T15:31:48.260Z"
   }
 ]
