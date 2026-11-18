@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7944027040",
-    "productKey": "1249a8fb3d88e9ff",
-    "titleHash": "360d83604027a19c",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-14T14:16:37.779Z"
-  },
-  {
     "itemId": "MLB5546560037",
     "productKey": "168be902fe1cd973",
     "titleHash": "338136e26add6b14",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-18T16:01:51.311Z"
+  },
+  {
+    "itemId": "MLB7063243298",
+    "productKey": "72561843514ae323",
+    "titleHash": "9c44839cafa93dad",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-18T16:16:37.211Z"
   }
 ]
