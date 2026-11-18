@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5215944593",
-    "productKey": "e1c6ccd1b23b052e",
-    "titleHash": "4d36991e1a99ae8b",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-14T02:01:45.520Z"
-  },
-  {
-    "itemId": "MLB7045954108",
-    "productKey": "66c7b386fec7fb85",
-    "titleHash": "07d3743c349b4b43",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-14T02:01:45.520Z"
-  },
-  {
     "itemId": "MLB7912144924",
     "productKey": "6d6a36b43f25814b",
     "titleHash": "864ba560595ab6ad",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-18T02:31:48.042Z"
+  },
+  {
+    "itemId": "MLB5575158922",
+    "productKey": "470a6f69c29f9087",
+    "titleHash": "128e67c8b561c343",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-18T02:46:44.595Z"
+  },
+  {
+    "itemId": "MLB3640145261",
+    "productKey": "573321164cd845a9",
+    "titleHash": "95322f9ffc5758d5",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-18T02:46:44.595Z"
   }
 ]
