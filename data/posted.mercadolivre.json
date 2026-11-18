@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB2720108621",
-    "productKey": "bc671c6efd514d42",
-    "titleHash": "c7204587a86680fc",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-14T18:16:35.035Z"
-  },
-  {
-    "itemId": "MLB7057014274",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-14T18:31:44.255Z"
-  },
-  {
-    "itemId": "MLB7991016264",
-    "productKey": "d0747d37c319a421",
-    "titleHash": "5bc53b25ced2901c",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-14T18:31:44.255Z"
-  },
-  {
     "itemId": "MLB5472841629",
     "productKey": "daec8d0881c8d7d6",
     "titleHash": "38709b9f79583c28",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-18T20:16:36.066Z"
+  },
+  {
+    "itemId": "MLB7813039758",
+    "productKey": "caaa6d3d3ab9a0f8",
+    "titleHash": "842b7036f0d2ecc0",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-18T20:31:41.604Z"
+  },
+  {
+    "itemId": "MLB3458972811",
+    "productKey": "89769abb84712022",
+    "titleHash": "f8baca8612d7b480",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-18T20:31:41.604Z"
+  },
+  {
+    "itemId": "MLB5554196623",
+    "productKey": "104c62f84f8d85e8",
+    "titleHash": "2f2b1411898660ab",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-18T20:31:41.604Z"
   }
 ]
