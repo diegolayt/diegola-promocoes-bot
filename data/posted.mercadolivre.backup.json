@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5509368413",
-    "productKey": "8b7f2439bd97f1ef",
-    "titleHash": "8c3f6e95739241e2",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-14T09:31:36.785Z"
-  },
-  {
     "itemId": "MLB6794389084",
     "productKey": "7f07ce0b4993cace",
     "titleHash": "bdfe8c72bf6ec63a",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-18T10:31:43.004Z"
+  },
+  {
+    "itemId": "MLB3679704360",
+    "productKey": "c9df3c56099bd37b",
+    "titleHash": "34f9448e848ee070",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-18T10:46:47.672Z"
   }
 ]
