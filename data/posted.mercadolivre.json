@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5075783573",
-    "productKey": "93b0581f10d51661",
-    "titleHash": "f1bca9745f7146b2",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-14T11:31:40.453Z"
-  },
-  {
-    "itemId": "MLB6819437892",
-    "productKey": "398190200de201c1",
-    "titleHash": "2f5a00c8a92decec",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-14T11:31:40.453Z"
-  },
-  {
-    "itemId": "MLB5191716685",
-    "productKey": "c441f5f8b907c35b",
-    "titleHash": "07b5dc5df417e750",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-14T11:46:36.211Z"
-  },
-  {
     "itemId": "MLB7952988396",
     "productKey": "d2381d60d46712f0",
     "titleHash": "bb5ab78017224a55",
@@ -4798,5 +4774,29 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-18T12:46:35.737Z"
+  },
+  {
+    "itemId": "MLB5451861382",
+    "productKey": "587d20e08660bde7",
+    "titleHash": "990a1ea0e342ba85",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-18T13:31:45.182Z"
+  },
+  {
+    "itemId": "MLB4812800951",
+    "productKey": "c35a669e46b7da0b",
+    "titleHash": "8e19706523f27ea7",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-18T13:31:45.183Z"
+  },
+  {
+    "itemId": "MLB5200043249",
+    "productKey": "c7ebf54e4fcc2fe3",
+    "titleHash": "5a9f86ddd7a1801f",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-18T13:31:45.183Z"
   }
 ]
