@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005007790816015",
+  "loja": "aliexpress",
+  "titulo": "ID-COOLING-CPU Refrigerador de ar, ventilador extra fino PWM, radiador ITX para Intel, LAG1700, 1200, 115X, AM4, AM5, V3, V3, 5 Heatpipes",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sb6d6acb54ba34a0ea4de0be5af2e0c2aj.jpg",
+  "preco": 172.21,
+  "precoDe": 406.27,
+  "link": "https://s.click.aliexpress.com/e/_c4dBqLB3",
+  "vendidos": 160,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_cooler",
+  "publicadoEm": "2026-11-18T18:16:04.380Z"
+ },
+ {
+  "id": "aliexpress-1005008791141468",
+  "loja": "aliexpress",
+  "titulo": "Cooler de CPU Antec A37 37mm ITX de Baixo Perfil com Ventoinha PWM de 92mm, 130W-TDP para Intel/AMD, Pasta Térmica 12.8W/m.K, Compatível com I5-12400F/Ryzen-7500F",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5f2335fcf2fb4bfb95f52416a349dad8T.jpg",
+  "preco": 116.36,
+  "precoDe": 264.98,
+  "link": "https://s.click.aliexpress.com/e/_c4VeHUIH",
+  "vendidos": 236,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_cooler",
+  "publicadoEm": "2026-11-18T18:15:57.233Z"
+ },
+ {
+  "id": "aliexpress-1005011525665519",
+  "loja": "aliexpress",
+  "titulo": "Kit de Placa Mãe QIYIDA X99 H9S com CPU LGA2011-3 Xeon E5 2630 V4, Memória DDR4 16GB REG ECC, Interface M.2 TPM 2.0, 4 canais",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S67d3e8178cec494ca1dfca753f73adf07.jpg",
+  "preco": 373.53,
+  "precoDe": 747.06,
+  "link": "https://s.click.aliexpress.com/e/_c44jiAfJ",
+  "vendidos": 163,
+  "nota": 4.5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-18T18:15:49.127Z"
+ },
+ {
+  "id": "aliexpress-1005012352283163",
+  "loja": "aliexpress",
+  "titulo": "Placa-mãe SOYO X99 DDR4 com CPU E5 2650 V3, 8GB de RAM, LGA2011-3, Kit Intel Xeon, PCIe3.0x16, M.2 (NVMe), para PC Desktop e Jogos, TPM2.0",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2ca6adbc66594752b7c3899475dec843O.png",
+  "preco": 325.74,
+  "precoDe": 651.49,
+  "link": "https://s.click.aliexpress.com/e/_c427GA6z",
+  "vendidos": 40,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-18T18:15:42.171Z"
+ },
+ {
   "id": "aliexpress-1005008144720973",
   "loja": "aliexpress",
   "titulo": "Cooler de Ar para CPU Thermalright AXP-90 X47/AXP-90 X47 BLACK/AXP-90 X47 FULL HTCP/Cooler de CPU de Perfil Baixo com Aletas de Cobre Puro Premium",
@@ -11332,34 +11388,6 @@
   "publicadoEm": "2026-11-16T15:15:51.895Z"
  },
  {
-  "id": "aliexpress-1005011525665519",
-  "loja": "aliexpress",
-  "titulo": "Kit de Placa Mãe QIYIDA X99 H9S com CPU LGA2011-3 Xeon E5 2630 V4, Memória DDR4 16GB REG ECC, Interface M.2 TPM 2.0, 4 canais",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S67d3e8178cec494ca1dfca753f73adf07.jpg",
-  "preco": 364.59,
-  "precoDe": 729.19,
-  "link": "https://s.click.aliexpress.com/e/_c4NsYzah",
-  "vendidos": 164,
-  "nota": 4.5,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-16T15:15:45.364Z"
- },
- {
-  "id": "aliexpress-1005012352283163",
-  "loja": "aliexpress",
-  "titulo": "Placa-mãe SOYO X99 DDR4 com CPU E5 2650 V3, 8GB de RAM, LGA2011-3, Kit Intel Xeon, PCIe3.0x16, M.2 (NVMe), para PC Desktop e Jogos, TPM2.0",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2ca6adbc66594752b7c3899475dec843O.png",
-  "preco": 317.95,
-  "precoDe": 635.91,
-  "link": "https://s.click.aliexpress.com/e/_c4M5W9ah",
-  "vendidos": 40,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-16T15:15:37.210Z"
- },
- {
   "id": "aliexpress-1005008356945283",
   "loja": "aliexpress",
   "titulo": "Memória Ram DDR5 5600mhz 6400mhz DDR4 3200MHz 3600MHz 8gb DDR5 16gb 32gb UDIMM Desktop Memoria para computador de jogos DIY",
@@ -13493,20 +13521,6 @@
   "publicadoEm": "2026-11-14T03:45:57.605Z"
  },
  {
-  "id": "aliexpress-1005008791141468",
-  "loja": "aliexpress",
-  "titulo": "Cooler de CPU Antec A37 37mm ITX de Baixo Perfil com Ventoinha PWM de 92mm, 130W-TDP para Intel/AMD, Pasta Térmica 12.8W/m.K, Compatível com I5-12400F/Ryzen-7500F",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5f2335fcf2fb4bfb95f52416a349dad8T.jpg",
-  "preco": 113.08,
-  "precoDe": 257.24,
-  "link": "https://s.click.aliexpress.com/e/_c4EKnu6n",
-  "vendidos": 231,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_cooler",
-  "publicadoEm": "2026-11-14T03:01:12.317Z"
- },
- {
   "id": "aliexpress-1005013353133857",
   "loja": "aliexpress",
   "titulo": "Conjunto de Placa Mãe JIESHUO X99-XD4 com CPU Xeon E5-2682 V4 DDR4, Fonte de Alimentação de 8 Fases, Kit de Desktop de Alto Desempenho",
@@ -15247,20 +15261,6 @@
   "categoria": "Games",
   "fonte": "ali_controle",
   "publicadoEm": "2026-11-11T07:00:45.991Z"
- },
- {
-  "id": "aliexpress-1005007790816015",
-  "loja": "aliexpress",
-  "titulo": "ID-COOLING-CPU Refrigerador de ar, ventilador extra fino PWM, radiador ITX para Intel, LAG1700, 1200, 115X, AM4, AM5, V3, V3, 5 Heatpipes",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sb6d6acb54ba34a0ea4de0be5af2e0c2aj.jpg",
-  "preco": 169.62,
-  "precoDe": 387.43,
-  "link": "https://s.click.aliexpress.com/e/_c2ze0Jbv",
-  "vendidos": 145,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_cooler",
-  "publicadoEm": "2026-11-11T06:00:48.609Z"
  },
  {
   "id": "aliexpress-1005005988738391",
