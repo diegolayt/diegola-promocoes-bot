@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5557550091",
-    "productKey": "f59ad2d75ea00ed2",
-    "titleHash": "2eeeca2ccff60b6f",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-14T08:16:34.582Z"
-  },
-  {
-    "itemId": "MLB4455140419",
-    "productKey": "5b2763cb9e9d95a2",
-    "titleHash": "4aefd666fba0af2c",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-14T08:16:34.582Z"
-  },
-  {
     "itemId": "MLB3713359221",
     "productKey": "b099216f74c971ee",
     "titleHash": "a6fb1259c2474fe2",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-18T09:46:42.061Z"
+  },
+  {
+    "itemId": "MLB3509861975",
+    "productKey": "4e3f4c35024a7d4c",
+    "titleHash": "c05ea3c2f80d0174",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-18T10:01:49.434Z"
+  },
+  {
+    "itemId": "MLB5573261753",
+    "productKey": "c6d850128e0d4647",
+    "titleHash": "0d363bda659ba892",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-18T10:01:49.435Z"
   }
 ]
