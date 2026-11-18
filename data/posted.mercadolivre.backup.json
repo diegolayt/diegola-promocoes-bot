@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5546560037",
-    "productKey": "168be902fe1cd973",
-    "titleHash": "338136e26add6b14",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-14T14:31:40.225Z"
-  },
-  {
     "itemId": "MLB5372632845",
     "productKey": "2f868339db1e586d",
     "titleHash": "89a9c74f588cbf1b",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-18T16:16:37.211Z"
+  },
+  {
+    "itemId": "MLB5413776368",
+    "productKey": "43ab81ed3d64cbfc",
+    "titleHash": "847b82f5eeb65c22",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-18T16:31:44.914Z"
   }
 ]
