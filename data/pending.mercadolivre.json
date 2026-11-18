@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7044000776",
+      "site_id": "MLB",
+      "seller_id": 244486090,
+      "accepts_mercadopago": true,
+      "price": 419,
+      "category_id": "MLB26426",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5588,
+      "original_price": 459.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NFUmI1ZGQx",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4021452623",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17822924",
+      "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17822924",
+      "id": "MLB7044000776",
+      "sold_quantity": 1600,
+      "rotationCategory": "relógio",
+      "sourceCategoryId": "MLB26426",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB7907853460",
+      "site_id": "MLB",
+      "seller_id": 1039552572,
+      "accepts_mercadopago": true,
+      "price": 41.09,
+      "category_id": "MLB107482",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 4317,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [],
+        "cost": 49.983264000000005
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUkE0OEZE",
+          "name": "Jardim Sofia"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4034229137",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB21970986",
+      "title": "Frigideira Antiaderente Tramontina 20 Cm Turim em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Vermelho",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_910373-MLA99574340900_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB21970986",
+      "id": "MLB7907853460",
+      "sold_quantity": 300,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-18T01:31:47.217Z"
+}
