@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7952988396",
-    "productKey": "d2381d60d46712f0",
-    "titleHash": "bb5ab78017224a55",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-14T12:01:45.006Z"
-  },
-  {
     "itemId": "MLB7652263588",
     "productKey": "52397c91115c6c35",
     "titleHash": "9bae28f708f1af1e",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-18T13:31:45.183Z"
+  },
+  {
+    "itemId": "MLB6135753584",
+    "productKey": "d60f40144ad87174",
+    "titleHash": "673a514c6de388e3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-18T13:46:44.938Z"
   }
 ]
