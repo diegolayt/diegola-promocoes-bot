@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6706535682",
-    "productKey": "00b14ae85745311e",
-    "titleHash": "4332a25ca14ae522",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-14T08:16:34.582Z"
-  },
-  {
     "itemId": "MLB5557550091",
     "productKey": "f59ad2d75ea00ed2",
     "titleHash": "2eeeca2ccff60b6f",
@@ -4798,5 +4790,13 @@
     "category": "colchão",
     "sourceCategoryId": "MLB438928",
     "reservedAt": "2026-11-18T09:31:36.788Z"
+  },
+  {
+    "itemId": "MLB4887166173",
+    "productKey": "6e158df3dcbb96cd",
+    "titleHash": "639b847efcd22948",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-18T09:46:42.061Z"
   }
 ]
