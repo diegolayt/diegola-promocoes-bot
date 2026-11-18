@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5125731201",
-    "productKey": "b8935fb8944c490f",
-    "titleHash": "285cbfea11f2ea3e",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-14T05:01:54.129Z"
-  },
-  {
-    "itemId": "MLB5446793961",
-    "productKey": "ae11f27802361e7f",
-    "titleHash": "fd53318c6e50c543",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-14T05:01:54.129Z"
-  },
-  {
     "itemId": "MLB3397638213",
     "productKey": "b04d2a77f69e8145",
     "titleHash": "f22b1d369b2ded63",
@@ -4798,5 +4782,21 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-18T06:01:44.110Z"
+  },
+  {
+    "itemId": "MLB6415676772",
+    "productKey": "e40128f4b7c3537b",
+    "titleHash": "e322aa3b321ee971",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-18T06:46:43.429Z"
+  },
+  {
+    "itemId": "MLB3917376669",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-18T06:46:43.429Z"
   }
 ]
