@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5560511379",
-    "productKey": "433c92dede263740",
-    "titleHash": "e7ffde166713f219",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-14T22:01:39.212Z"
-  },
-  {
-    "itemId": "MLB5546303159",
-    "productKey": "690d29606093b12a",
-    "titleHash": "eff4b6f329165dbf",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-14T22:01:39.212Z"
-  },
-  {
     "itemId": "MLB4595477113",
     "productKey": "22a14d6998675ae9",
     "titleHash": "1b1909ed1ab40901",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-18T23:31:40.996Z"
+  },
+  {
+    "itemId": "MLB5210677715",
+    "productKey": "d881ef2c1427755e",
+    "titleHash": "a8581a9af8d4998f",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-18T23:46:44.185Z"
+  },
+  {
+    "itemId": "MLB7890512246",
+    "productKey": "ff6193f654d13314",
+    "titleHash": "16949f7d71632500",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-18T23:46:44.185Z"
   }
 ]
