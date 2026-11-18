@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5556470903",
-    "productKey": "bae1653716216553",
-    "titleHash": "53a63b533fde190b",
-    "category": "fitness",
-    "sourceCategoryId": "MLB1338",
-    "reservedAt": "2026-11-14T16:16:29.706Z"
-  },
-  {
-    "itemId": "MLB7124261450",
-    "productKey": "9c762775786a2c63",
-    "titleHash": "4d8b88ad92cbf3b8",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-14T16:16:29.706Z"
-  },
-  {
     "itemId": "MLB4708820035",
     "productKey": "9452ee0e479ad9ff",
     "titleHash": "ca8268008cd70647",
@@ -4798,5 +4782,21 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-18T17:31:43.297Z"
+  },
+  {
+    "itemId": "MLB4976654141",
+    "productKey": "1e02c9455942b0ea",
+    "titleHash": "b7eb6e3ad56267d8",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-18T17:46:43.690Z"
+  },
+  {
+    "itemId": "MLB3746267799",
+    "productKey": "a9fb3a707be80b00",
+    "titleHash": "2ba8275c8423409e",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-11-18T17:46:43.690Z"
   }
 ]
