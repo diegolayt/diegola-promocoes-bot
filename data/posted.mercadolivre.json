@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7992010530",
-    "productKey": "5d7af8f790c6fdd6",
-    "titleHash": "47e6d2d1173e13c1",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-14T14:01:44.502Z"
-  },
-  {
-    "itemId": "MLB5055480472",
-    "productKey": "0fcca013faaa8ff7",
-    "titleHash": "1c057f5f4d605cd2",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-14T14:16:37.778Z"
-  },
-  {
     "itemId": "MLB5972837798",
     "productKey": "c45a40bf0889759e",
     "titleHash": "7fb3749c5110ec68",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-18T15:31:48.260Z"
+  },
+  {
+    "itemId": "MLB4590134133",
+    "productKey": "9799e9bec4555200",
+    "titleHash": "4d3a923249454231",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-18T15:46:41.682Z"
+  },
+  {
+    "itemId": "MLB4747976917",
+    "productKey": "1c0c2cfead503f62",
+    "titleHash": "4092e4d6763c3705",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-18T15:46:41.682Z"
   }
 ]
