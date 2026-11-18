@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3589312413",
-    "productKey": "64d907793969abd0",
-    "titleHash": "683807807645b6a9",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-14T21:31:44.468Z"
-  },
-  {
-    "itemId": "MLB6162516164",
-    "productKey": "e805db15ed4b2441",
-    "titleHash": "4f1644e0b7e716fc",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-14T21:46:38.219Z"
-  },
-  {
     "itemId": "MLB5560511379",
     "productKey": "433c92dede263740",
     "titleHash": "e7ffde166713f219",
@@ -4798,5 +4782,21 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-18T23:16:38.743Z"
+  },
+  {
+    "itemId": "MLB4129251859",
+    "productKey": "207e2794a9247dd6",
+    "titleHash": "8922eef1610cd8b4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-18T23:31:40.996Z"
+  },
+  {
+    "itemId": "MLB8016815070",
+    "productKey": "bbbcab83b53caf8d",
+    "titleHash": "f424bc04999eb95b",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-18T23:31:40.996Z"
   }
 ]

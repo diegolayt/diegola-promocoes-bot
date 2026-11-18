@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4129251859",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 99.9,
+      "category_id": "MLB31683",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5551,
+      "original_price": 217.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 10
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3306269626",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB29225270",
+      "title": "Sanduicheira E Grill Britânia Bgr16 2 Em 1 Redstone 750w Cor Preto e Prata",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_661990-MLA99395480060_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB29225270",
+      "id": "MLB4129251859",
+      "sold_quantity": 700,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB31683",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB8016815070",
+      "site_id": "MLB",
+      "seller_id": 187377595,
+      "accepts_mercadopago": true,
+      "price": 2120,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVSTk2NDE1",
+          "name": "Cuiabá"
+        },
+        "state": {
+          "id": "TUxCUE1BVE9jZDY0",
+          "name": "Mato Grosso"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNBUjU1NEJB",
+          "name": "Carumbe"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5965928938",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB55467027",
+      "title": "Samsung Galaxy Tab S10 Lite 10.9\" 128 GB 6 GB RAM Wi-Fi com S Pen Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_840023-MLA115978083965_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB55467027",
+      "id": "MLB8016815070",
+      "sold_quantity": 1700,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-11-18T23:31:40.998Z"
+}
