@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4708820035",
-    "productKey": "9452ee0e479ad9ff",
-    "titleHash": "ca8268008cd70647",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-14T16:31:44.027Z"
-  },
-  {
     "itemId": "MLB5437751727",
     "productKey": "81231682978a91c7",
     "titleHash": "f963640783481006",
@@ -4798,5 +4790,13 @@
     "category": "notebook",
     "sourceCategoryId": "MLB430687",
     "reservedAt": "2026-11-18T17:46:43.690Z"
+  },
+  {
+    "itemId": "MLB7731898396",
+    "productKey": "5562cc1dfd5626e2",
+    "titleHash": "414d7c57051ef1cd",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-18T18:01:42.353Z"
   }
 ]
