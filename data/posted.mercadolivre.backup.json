@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3969638313",
-    "productKey": "1f336dc2d7fd96fc",
-    "titleHash": "ab3cc4ecec2850f5",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-14T01:46:42.472Z"
-  },
-  {
     "itemId": "MLB1630337787",
     "productKey": "d22fa65cdb3c5323",
     "titleHash": "61315aeef9dd29e4",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-18T02:01:48.243Z"
+  },
+  {
+    "itemId": "MLB7161299314",
+    "productKey": "0f0fdb96cb6446aa",
+    "titleHash": "1670416b92bd28cb",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-18T02:16:38.948Z"
   }
 ]
