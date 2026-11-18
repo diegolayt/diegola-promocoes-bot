@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3713359221",
-    "productKey": "b099216f74c971ee",
-    "titleHash": "a6fb1259c2474fe2",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-14T08:31:55.884Z"
-  },
-  {
-    "itemId": "MLB4252005123",
-    "productKey": "43fb2e8ff1234548",
-    "titleHash": "050bee7a12687ac0",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-14T08:46:35.816Z"
-  },
-  {
     "itemId": "MLB7358531924",
     "productKey": "1f2208dd21863a0e",
     "titleHash": "8dd77967e28e1211",
@@ -4798,5 +4782,21 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-18T10:01:49.435Z"
+  },
+  {
+    "itemId": "MLB4339019386",
+    "productKey": "c51898934732d05c",
+    "titleHash": "2f77857bd51fad93",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-18T10:16:33.476Z"
+  },
+  {
+    "itemId": "MLB5762049098",
+    "productKey": "a1085792541f2e70",
+    "titleHash": "d8faca7aab92efc8",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-18T10:16:33.477Z"
   }
 ]
