@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5114820355",
-    "productKey": "08ad8900369f6d2b",
-    "titleHash": "440a820104a3d216",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-15T15:31:32.879Z"
-  },
-  {
     "itemId": "MLB4367472233",
     "productKey": "586170da6abacc2c",
     "titleHash": "9db3ad497b1f6ba2",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-19T15:46:39.795Z"
+  },
+  {
+    "itemId": "MLB4788497587",
+    "productKey": "06651e2562cbb16b",
+    "titleHash": "827ce4bd52859f56",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-19T16:01:55.776Z"
   }
 ]
