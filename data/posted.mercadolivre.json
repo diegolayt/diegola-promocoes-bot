@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4361263765",
-    "productKey": "238090adb5a1bf75",
-    "titleHash": "246588000d56eb53",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-15T17:46:36.950Z"
-  },
-  {
     "itemId": "MLB7980644110",
     "productKey": "0da42abc4e07efc8",
     "titleHash": "583334eed73b7bc4",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-19T18:46:30.329Z"
+  },
+  {
+    "itemId": "MLB7538835768",
+    "productKey": "14dd7a0aaf133113",
+    "titleHash": "3d4d88bc81130249",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-19T19:01:42.701Z"
   }
 ]
