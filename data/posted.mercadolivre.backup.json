@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5400098189",
-    "productKey": "d8cdb8921362f102",
-    "titleHash": "1b7a10c533ed1347",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-15T09:31:44.483Z"
-  },
-  {
     "itemId": "MLB5940016354",
     "productKey": "6abafabf02f74def",
     "titleHash": "631a30b9958189c5",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-19T10:46:47.066Z"
+  },
+  {
+    "itemId": "MLB4712546663",
+    "productKey": "8b660ee99efe635b",
+    "titleHash": "94a291c2b2efa3dd",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-19T11:16:44.806Z"
   }
 ]
