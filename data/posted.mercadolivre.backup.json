@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7992323512",
-    "productKey": "8ba43f4f1e1184f7",
-    "titleHash": "9b4cb806a44b6982",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-15T03:46:29.144Z"
-  },
-  {
-    "itemId": "MLB2760684440",
-    "productKey": "4ae6c04be37129cb",
-    "titleHash": "4b5a0e421d4a8abf",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-15T04:01:42.301Z"
-  },
-  {
     "itemId": "MLB4080129275",
     "productKey": "45a76a65dccf9a6b",
     "titleHash": "4ca32d474f9cf226",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-19T04:16:39.374Z"
+  },
+  {
+    "itemId": "MLB6625159436",
+    "productKey": "c38d9b625285fd83",
+    "titleHash": "1e0a4d20ebe7e28f",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-19T04:46:40.278Z"
+  },
+  {
+    "itemId": "MLB2098257351",
+    "productKey": "c2457725cf12a128",
+    "titleHash": "3362480f1a57cb0a",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-19T04:46:40.278Z"
   }
 ]
