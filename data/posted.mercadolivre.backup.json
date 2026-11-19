@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3692308193",
-    "productKey": "61c4fd9ccef67094",
-    "titleHash": "27390b548441be76",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-15T22:46:41.539Z"
-  },
-  {
     "itemId": "MLB5512147827",
     "productKey": "ec4b519641a7ee71",
     "titleHash": "06afb66b058ef953",
@@ -4798,5 +4790,13 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-19T23:31:40.136Z"
+  },
+  {
+    "itemId": "MLB4167180457",
+    "productKey": "f2cc121a987258d9",
+    "titleHash": "6d8e200943d2f5c5",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-19T23:46:36.967Z"
   }
 ]
