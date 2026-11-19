@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6624953436",
+      "site_id": "MLB",
+      "seller_id": 3276452272,
+      "accepts_mercadopago": true,
+      "price": 149,
+      "category_id": "MLB31683",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 340622,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSmFyaW51VFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Jarinu"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3898008945",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25875980",
+      "title": "Sanduicheira Mini Grill Oster Inox 2 Em 1 Ogrl230 1000w 127v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_920318-MLA99389875298_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25875980",
+      "id": "MLB6624953436",
+      "sold_quantity": 1200,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB31683",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-19T03:16:44.467Z"
+}
