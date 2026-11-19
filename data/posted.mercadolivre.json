@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5560552827",
-    "productKey": "d7c13b5792513c9a",
-    "titleHash": "76baa199fb0390bb",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-14T22:46:32.484Z"
-  },
-  {
-    "itemId": "MLB5529998883",
-    "productKey": "0a78d5595a81cc3e",
-    "titleHash": "60c69a8f7144b791",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-14T23:01:47.194Z"
-  },
-  {
     "itemId": "MLB5922260998",
     "productKey": "92ed4d201e5b3bee",
     "titleHash": "48c67fe42edfb18e",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-19T00:31:44.500Z"
+  },
+  {
+    "itemId": "MLB3397953227",
+    "productKey": "fd6c4db350f1b6e3",
+    "titleHash": "4b00efdb0001e93b",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-19T01:03:37.547Z"
+  },
+  {
+    "itemId": "MLB5546303159",
+    "productKey": "690d29606093b12a",
+    "titleHash": "eff4b6f329165dbf",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-19T01:03:37.547Z"
   }
 ]
