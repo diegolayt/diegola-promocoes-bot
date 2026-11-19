@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB2787245412",
-    "productKey": "50274da5b327a827",
-    "titleHash": "22b4a28cffd81415",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-15T14:16:35.931Z"
-  },
-  {
-    "itemId": "MLB7931214810",
-    "productKey": "9180f7359eb828c8",
-    "titleHash": "334a61232386e846",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-15T14:31:40.355Z"
-  },
-  {
     "itemId": "MLB5526713943",
     "productKey": "c226456043f016a9",
     "titleHash": "8cec1742dfa829f9",
@@ -4798,5 +4782,21 @@
     "category": "colchão",
     "sourceCategoryId": "MLB438928",
     "reservedAt": "2026-11-19T14:16:42.508Z"
+  },
+  {
+    "itemId": "MLB7572148266",
+    "productKey": "abd7c812361ef615",
+    "titleHash": "c3ed47b04f61f6e2",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-19T15:16:34.369Z"
+  },
+  {
+    "itemId": "MLB5957878606",
+    "productKey": "a5f8c63f5183db30",
+    "titleHash": "7e3fa046dc41f09a",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-19T15:16:34.369Z"
   }
 ]
