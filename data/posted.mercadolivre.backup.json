@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3175719088",
-    "productKey": "67919f68f0a928b2",
-    "titleHash": "9cd23174e8fc768b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-15T04:31:36.349Z"
-  },
-  {
     "itemId": "MLB7656919098",
     "productKey": "e79cacc5bfe33eec",
     "titleHash": "248c99ad0a42a4d3",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-19T05:16:44.451Z"
+  },
+  {
+    "itemId": "MLB3085731370",
+    "productKey": "d28d7ff4dc319861",
+    "titleHash": "c7d4fc32964b4cb7",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-19T05:31:41.724Z"
   }
 ]
