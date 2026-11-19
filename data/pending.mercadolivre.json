@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "item_id": "MLB2990680716",
+      "site_id": "MLB",
+      "seller_id": 267892530,
+      "accepts_mercadopago": true,
+      "price": 649,
+      "category_id": "MLB73057",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1215,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 19.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDM4RTVG",
+          "name": "Cidade Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU1115357073",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19617676",
+      "title": "Micro-ondas ME23S 23L Efficient Com Descongelamento Assistido Cor Inox Electrolux",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_940680-MLA99700976956_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19617676",
+      "id": "MLB2990680716",
+      "sold_quantity": 2000,
+      "rotationCategory": "fogão",
+      "sourceCategoryId": "MLB1580",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-11-19T04:01:47.589Z"
+}
