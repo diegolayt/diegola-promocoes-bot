@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5478327511",
-    "productKey": "0886c56c5ee7f811",
-    "titleHash": "e0dd1147da38ca5e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-15T17:01:45.686Z"
-  },
-  {
     "itemId": "MLB7339961302",
     "productKey": "8a5950fa33563a64",
     "titleHash": "c200c7409cb882ff",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-19T18:16:40.737Z"
+  },
+  {
+    "itemId": "MLB7925133864",
+    "productKey": "582a00a061dfbcdd",
+    "titleHash": "2ff16fab12801e4a",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-19T18:31:49.590Z"
   }
 ]

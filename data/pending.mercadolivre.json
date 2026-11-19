@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7925133864",
+      "site_id": "MLB",
+      "seller_id": 322642362,
+      "accepts_mercadopago": true,
+      "price": 84.64,
+      "category_id": "MLB6883",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_limited_marketplace_visibility",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping",
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FyYXBpY3XDrWJhVFV4Q1VGTkJUMDg1T",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ29uanVudG8gSGFiaXRhY2lvbmFsIFByZ",
+          "name": "Conjunto Habitacional Presidente Castelo Branco"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5781859876",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB9412100",
+      "title": "Jogo Detetive Com Aplicativo Estrela em Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_744134-MLA113111891596_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB9412100",
+      "id": "MLB7925133864",
+      "sold_quantity": 700,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-19T18:31:49.593Z"
+}
