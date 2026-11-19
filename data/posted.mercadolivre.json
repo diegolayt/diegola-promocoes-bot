@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5973456216",
-    "productKey": "93f3f56dee4a0384",
-    "titleHash": "60f6761a38375cf5",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-15T18:46:31.903Z"
-  },
-  {
-    "itemId": "MLB5232182936",
-    "productKey": "34deacf4f5156c88",
-    "titleHash": "4becc55da500e5d4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-15T19:01:41.161Z"
-  },
-  {
-    "itemId": "MLB5930202958",
-    "productKey": "fded24791054bb1d",
-    "titleHash": "bba7ae42ffd6ef51",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-15T19:01:41.161Z"
-  },
-  {
     "itemId": "MLB3846575151",
     "productKey": "2ba242383bfef56e",
     "titleHash": "cb8c5b3b8c06dad6",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-19T20:01:47.796Z"
+  },
+  {
+    "itemId": "MLB4082731117",
+    "productKey": "c555e963e900e460",
+    "titleHash": "14a27ecaf6ac0575",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-19T20:16:47.865Z"
+  },
+  {
+    "itemId": "MLB5755362294",
+    "productKey": "f28c430b2349dd9d",
+    "titleHash": "cbc14ed247b8b10d",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-19T20:16:47.865Z"
+  },
+  {
+    "itemId": "MLB5478327511",
+    "productKey": "0886c56c5ee7f811",
+    "titleHash": "e0dd1147da38ca5e",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-19T20:16:47.865Z"
   }
 ]
