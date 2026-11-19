@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5940016354",
-    "productKey": "6abafabf02f74def",
-    "titleHash": "631a30b9958189c5",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-15T09:46:39.043Z"
-  },
-  {
-    "itemId": "MLB4712226703",
-    "productKey": "c850ba5f1644af9d",
-    "titleHash": "4e45ebc4c4f60ba0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-15T09:46:39.044Z"
-  },
-  {
     "itemId": "MLB4661123677",
     "productKey": "0b028e4f27c78df2",
     "titleHash": "ddce1d36b82207f4",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-19T11:16:44.806Z"
+  },
+  {
+    "itemId": "MLB5270193474",
+    "productKey": "948ee43d2d7626fb",
+    "titleHash": "93e49c3d46e7aa6f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-19T11:31:41.896Z"
+  },
+  {
+    "itemId": "MLB6823283528",
+    "productKey": "e2489c1451cb6572",
+    "titleHash": "313364498118e4ab",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-19T11:31:41.896Z"
   }
 ]
