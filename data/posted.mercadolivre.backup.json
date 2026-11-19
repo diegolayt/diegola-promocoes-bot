@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4947595593",
-    "productKey": "37500b1a9625ab89",
-    "titleHash": "cd82b27d3ae85212",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-15T16:46:24.091Z"
-  },
-  {
     "itemId": "MLB4244737429",
     "productKey": "e7f53714657a6827",
     "titleHash": "43305ac2162696c9",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-19T17:46:39.902Z"
+  },
+  {
+    "itemId": "MLB4280514625",
+    "productKey": "d02ce9b5a676d547",
+    "titleHash": "e71fac34a77b5c6c",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-19T18:02:01.325Z"
   }
 ]

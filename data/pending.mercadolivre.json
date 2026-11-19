@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4280514625",
+      "site_id": "MLB",
+      "seller_id": 1993229201,
+      "accepts_mercadopago": true,
+      "price": 194.9,
+      "category_id": "MLB117806",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 15 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "not_specified",
+        "logistic_type": "not_specified",
+        "tags": [
+          "lost_me2_by_dimensions"
+        ],
+        "cost": 28.79
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NBTzcyYmY5",
+          "name": "São José de Ribamar"
+        },
+        "state": {
+          "id": "TUxCUE1BUk81MWVi",
+          "name": "Maranhão"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 15,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "15 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3522224591",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB19831947",
+      "title": "Árvore de Natal Olly Pop 2.1m Verde Tradicional 650 Galhos Base Ferro",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_884714-MLA96419811862_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB19831947",
+      "id": "MLB4280514625",
+      "sold_quantity": 200,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-19T18:02:01.327Z"
+}
