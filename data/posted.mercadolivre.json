@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4229198275",
-    "productKey": "fe8deb3696fa75bc",
-    "titleHash": "99b6f6297e915fe9",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-15T08:01:43.305Z"
-  },
-  {
     "itemId": "MLB5979493700",
     "productKey": "ef4a8ade7356b7de",
     "titleHash": "884030f96bc8b69d",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-19T09:16:37.046Z"
+  },
+  {
+    "itemId": "MLB4110427699",
+    "productKey": "a42d98f7b575f48f",
+    "titleHash": "5a853c171e00f952",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-19T09:31:38.139Z"
   }
 ]
