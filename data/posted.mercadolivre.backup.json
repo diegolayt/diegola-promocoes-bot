@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6359900498",
-    "productKey": "6325cecbb66a769a",
-    "titleHash": "7ff317b46af6b060",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-15T07:16:36.501Z"
-  },
-  {
-    "itemId": "MLB4574564509",
-    "productKey": "9d5c96d703bbb08b",
-    "titleHash": "2b97da7a4eb942e4",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-15T07:46:40.050Z"
-  },
-  {
     "itemId": "MLB4229198275",
     "productKey": "fe8deb3696fa75bc",
     "titleHash": "99b6f6297e915fe9",
@@ -4798,5 +4782,21 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-19T09:01:45.077Z"
+  },
+  {
+    "itemId": "MLB4142836978",
+    "productKey": "f764b26a37859a9e",
+    "titleHash": "8b8c5f4cc7076bed",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-19T09:16:37.046Z"
+  },
+  {
+    "itemId": "MLB7000657376",
+    "productKey": "157333bf63c50883",
+    "titleHash": "47c72b53ac4b0a90",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-19T09:16:37.046Z"
   }
 ]
