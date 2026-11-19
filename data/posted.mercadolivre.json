@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5738738172",
-    "productKey": "9eb5fc3ffddd6db0",
-    "titleHash": "945f28db261b2b05",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-15T16:46:24.091Z"
-  },
-  {
     "itemId": "MLB4947595593",
     "productKey": "37500b1a9625ab89",
     "titleHash": "cd82b27d3ae85212",
@@ -4798,5 +4790,13 @@
     "category": "projetor",
     "sourceCategoryId": "MLB2830",
     "reservedAt": "2026-11-19T17:16:48.836Z"
+  },
+  {
+    "itemId": "MLB7769206268",
+    "productKey": "076edd030559a500",
+    "titleHash": "32bfc7c6658969c8",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-19T17:46:39.902Z"
   }
 ]
