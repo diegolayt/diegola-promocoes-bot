@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3983897395",
-    "productKey": "ab75e665396cd092",
-    "titleHash": "c48e34acf8ca06f0",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-15T16:16:38.672Z"
-  },
-  {
-    "itemId": "MLB7493862386",
-    "productKey": "9adc595151031a03",
-    "titleHash": "aae437bd40936ba5",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-15T16:31:41.054Z"
-  },
-  {
-    "itemId": "MLB7026125702",
-    "productKey": "55165ae4e873b412",
-    "titleHash": "e06ec53a634432a7",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-15T16:46:24.091Z"
-  },
-  {
     "itemId": "MLB5738738172",
     "productKey": "9eb5fc3ffddd6db0",
     "titleHash": "945f28db261b2b05",
@@ -4798,5 +4774,29 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-19T17:01:57.002Z"
+  },
+  {
+    "itemId": "MLB5327551864",
+    "productKey": "9180f7359eb828c8",
+    "titleHash": "334a61232386e846",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-19T17:16:48.835Z"
+  },
+  {
+    "itemId": "MLB6492073308",
+    "productKey": "7c1203a2803ba98c",
+    "titleHash": "c471681ba2f9bd71",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-19T17:16:48.836Z"
+  },
+  {
+    "itemId": "MLB5291334689",
+    "productKey": "f2e2cfbf1fe4b334",
+    "titleHash": "a60547d7fda18e0c",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-19T17:16:48.836Z"
   }
 ]
