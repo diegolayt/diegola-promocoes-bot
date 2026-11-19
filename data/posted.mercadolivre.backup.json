@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5323250194",
-    "productKey": "582a00a061dfbcdd",
-    "titleHash": "2ff16fab12801e4a",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-15T16:01:44.745Z"
-  },
-  {
     "itemId": "MLB5769944586",
     "productKey": "ec93060555c6cb7b",
     "titleHash": "9478296a7f5367d3",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-19T16:31:41.416Z"
+  },
+  {
+    "itemId": "MLB2787245412",
+    "productKey": "50274da5b327a827",
+    "titleHash": "22b4a28cffd81415",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-19T16:46:39.411Z"
   }
 ]
