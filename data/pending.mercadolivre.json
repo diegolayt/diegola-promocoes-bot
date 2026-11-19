@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB7535842350",
+      "site_id": "MLB",
+      "seller_id": 1228982095,
+      "accepts_mercadopago": true,
+      "price": 126.14,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 500582,
+      "original_price": 229.36,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJSwTMwNTMyNA",
+          "name": "Brás"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 meses",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3147052331",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46329411",
+      "title": "Câmera de Segurança Wi-Fi A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento iCSee DUOSEG",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_744022-MLA117281808570_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46329411",
+      "id": "MLB7535842350",
+      "sold_quantity": 1300,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5509614411",
+      "site_id": "MLB",
+      "seller_id": 3536428042,
+      "accepts_mercadopago": true,
+      "price": 109.9,
+      "category_id": "MLB6899",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0dPSTVkMTYw",
+          "name": "Goiânia"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "TUxCQlNFVDFDRDgz",
+          "name": "Setor Negrão de Lima"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5807378334",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB77672147",
+      "title": "Blister Duplo Com Moeda Celebração 30 Anos Pokémon TCG Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_896714-MLA117063745326_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB77672147",
+      "id": "MLB5509614411",
+      "sold_quantity": 1700,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-19T11:46:38.779Z"
+}

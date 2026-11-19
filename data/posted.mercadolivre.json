@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4661123677",
-    "productKey": "0b028e4f27c78df2",
-    "titleHash": "ddce1d36b82207f4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-15T10:01:44.550Z"
-  },
-  {
-    "itemId": "MLB5333613199",
-    "productKey": "dbfea0470a350aa5",
-    "titleHash": "7fbb1dd038a3831f",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-15T10:01:44.550Z"
-  },
-  {
     "itemId": "MLB5537219564",
     "productKey": "3ea7879486c7a7da",
     "titleHash": "792f7c3149657cee",
@@ -4798,5 +4782,21 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-19T11:31:41.896Z"
+  },
+  {
+    "itemId": "MLB7535842350",
+    "productKey": "fb1d90d3e2311de7",
+    "titleHash": "3ee21ab1648fcc37",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-19T11:46:38.776Z"
+  },
+  {
+    "itemId": "MLB5509614411",
+    "productKey": "5bbd37355bdaaca3",
+    "titleHash": "a1800fc74ec6ad41",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-19T11:46:38.777Z"
   }
 ]
