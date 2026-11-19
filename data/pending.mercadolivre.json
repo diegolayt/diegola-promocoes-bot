@@ -1,0 +1,221 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5930202958",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 79.9,
+      "category_id": "MLB6899",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "1p_3x_campaign",
+        "catalog_boost",
+        "dynamic_standard_price",
+        "first_party",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 236642,
+      "original_price": 139.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3533939823",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61700105",
+      "title": "Box Pokemon Baralho De Batalha Mewtwo Ex Equipe Rocket Português",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_813285-MLA97324226431_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61700105",
+      "id": "MLB5930202958",
+      "sold_quantity": 400,
+      "rotationCategory": "jogos de tabuleiro",
+      "sourceCategoryId": "MLB432988",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB6012026010",
+      "site_id": "MLB",
+      "seller_id": 147072750,
+      "accepts_mercadopago": true,
+      "price": 64.99,
+      "category_id": "MLB117801",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "kit_component",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 258682,
+      "original_price": 98.63,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQmF1cnVUVXhDVUZOQlQwODVOMkU0",
+          "name": "Bauru"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3260566118",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB62801001",
+      "title": "Kit 12 Pendentes Pelúcia Enfeite Árvore Natal Pingentes Papai Noel 12cm e 17cm Decoração LuvinCo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_765982-MLA120305732491_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB62801001",
+      "id": "MLB6012026010",
+      "sold_quantity": 100,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB8011247808",
+      "site_id": "MLB",
+      "seller_id": 494561728,
+      "accepts_mercadopago": true,
+      "price": 1062.41,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5898354913",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB59323822",
+      "title": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_739170-MLA98410816390_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB59323822",
+      "id": "MLB8011247808",
+      "sold_quantity": 700,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-11-19T21:31:43.257Z"
+}
