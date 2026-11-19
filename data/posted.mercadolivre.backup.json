@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7339961302",
-    "productKey": "8a5950fa33563a64",
-    "titleHash": "c200c7409cb882ff",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-15T17:16:40.871Z"
-  },
-  {
-    "itemId": "MLB4988957162",
-    "productKey": "4686bb6a7ae35103",
-    "titleHash": "bc4eac3d45f0fc46",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-15T17:16:40.871Z"
-  },
-  {
-    "itemId": "MLB4082731117",
-    "productKey": "c555e963e900e460",
-    "titleHash": "14a27ecaf6ac0575",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-15T17:31:41.681Z"
-  },
-  {
     "itemId": "MLB4361263765",
     "productKey": "238090adb5a1bf75",
     "titleHash": "246588000d56eb53",
@@ -4798,5 +4774,29 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-11-19T18:31:49.590Z"
+  },
+  {
+    "itemId": "MLB5769944586",
+    "productKey": "ec93060555c6cb7b",
+    "titleHash": "9478296a7f5367d3",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-19T18:46:30.329Z"
+  },
+  {
+    "itemId": "MLB3643515139",
+    "productKey": "b19bf8f530030510",
+    "titleHash": "044927b22d296465",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-19T18:46:30.329Z"
+  },
+  {
+    "itemId": "MLB7996206578",
+    "productKey": "9adc595151031a03",
+    "titleHash": "aae437bd40936ba5",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-19T18:46:30.329Z"
   }
 ]
