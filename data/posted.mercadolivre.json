@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7657977886",
-    "productKey": "525cdc14fb44b9f9",
-    "titleHash": "48172cb7558886dd",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-15T18:16:34.835Z"
-  },
-  {
     "itemId": "MLB7996259062",
     "productKey": "e99726c12745d0a4",
     "titleHash": "8b80f8f23c3c0fbd",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-19T19:31:46.567Z"
+  },
+  {
+    "itemId": "MLB4988957162",
+    "productKey": "4686bb6a7ae35103",
+    "titleHash": "bc4eac3d45f0fc46",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-19T19:46:39.648Z"
   }
 ]
