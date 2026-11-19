@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5769944586",
-    "productKey": "ec93060555c6cb7b",
-    "titleHash": "9478296a7f5367d3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-15T16:01:44.745Z"
-  },
-  {
-    "itemId": "MLB7538835768",
-    "productKey": "14dd7a0aaf133113",
-    "titleHash": "3d4d88bc81130249",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-15T16:16:38.672Z"
-  },
-  {
     "itemId": "MLB3983897395",
     "productKey": "ab75e665396cd092",
     "titleHash": "c48e34acf8ca06f0",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-19T16:46:39.411Z"
+  },
+  {
+    "itemId": "MLB5577230175",
+    "productKey": "68f8a09ab6779ff2",
+    "titleHash": "0a3257579f9e4832",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-19T17:01:57.002Z"
+  },
+  {
+    "itemId": "MLB4562258087",
+    "productKey": "31d21cd7b3243873",
+    "titleHash": "2d6545f358c0aa7b",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-19T17:01:57.002Z"
   }
 ]

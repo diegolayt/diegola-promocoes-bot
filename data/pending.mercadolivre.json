@@ -1,0 +1,155 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5577230175",
+      "site_id": "MLB",
+      "seller_id": 1324289674,
+      "accepts_mercadopago": true,
+      "price": 131.93,
+      "category_id": "MLB5412",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 362506,
+      "original_price": 199.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSnVuZGlhw61UVXhDVUZOQlQwODVOMkU0",
+          "name": "Jundiaí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 6,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "6 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5962954494",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB26106705",
+      "title": "Secador de Cabelo Gama Eleganza Plus Ceramic Íon 127V Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_712365-MLA118127908225_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB26106705",
+      "id": "MLB5577230175",
+      "sold_quantity": 1800,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB4562258087",
+      "site_id": "MLB",
+      "seller_id": 626214589,
+      "accepts_mercadopago": true,
+      "price": 289,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BBVjUxY2Uw",
+          "name": "Pavão"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3861360039",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB6085397",
+      "title": "HD Externo 500gb Seagate Expansion STEA500400 2.5 Usb 3.0",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_853482-MLA99999822547_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB6085397",
+      "id": "MLB4562258087",
+      "sold_quantity": 100,
+      "rotationCategory": "armazenamento",
+      "sourceCategoryId": "MLB430598",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-19T17:01:57.005Z"
+}
