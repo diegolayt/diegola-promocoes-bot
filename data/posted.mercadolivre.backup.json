@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3647295180",
-    "productKey": "322af4737407e3c8",
-    "titleHash": "e3a8db476d5e57ea",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-15T06:16:37.782Z"
-  },
-  {
     "itemId": "MLB6729908758",
     "productKey": "125a02479dbb4f92",
     "titleHash": "67261eed9f9c6156",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-19T07:16:42.406Z"
+  },
+  {
+    "itemId": "MLB4195198970",
+    "productKey": "19e579017e9bbafd",
+    "titleHash": "9bead5eecb241d6b",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-19T07:46:41.015Z"
   }
 ]
