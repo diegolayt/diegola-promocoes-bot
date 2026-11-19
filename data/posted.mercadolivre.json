@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3961673791",
-    "productKey": "dd69d89534b391d8",
-    "titleHash": "7dc6acb6a88cf176",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-15T15:16:32.315Z"
-  },
-  {
     "itemId": "MLB5114820355",
     "productKey": "08ad8900369f6d2b",
     "titleHash": "440a820104a3d216",
@@ -4798,5 +4790,13 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-19T15:31:46.843Z"
+  },
+  {
+    "itemId": "MLB4579537997",
+    "productKey": "f62d7dcdfc217a6f",
+    "titleHash": "93c5d3f320aad0c2",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-19T15:46:39.795Z"
   }
 ]
