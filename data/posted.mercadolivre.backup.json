@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4244737429",
-    "productKey": "e7f53714657a6827",
-    "titleHash": "43305ac2162696c9",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-15T16:46:24.091Z"
-  },
-  {
-    "itemId": "MLB7687084178",
-    "productKey": "9dd660916fb1b129",
-    "titleHash": "899d2c96765b077d",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-15T17:01:45.686Z"
-  },
-  {
-    "itemId": "MLB5755362294",
-    "productKey": "f28c430b2349dd9d",
-    "titleHash": "cbc14ed247b8b10d",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-15T17:01:45.686Z"
-  },
-  {
     "itemId": "MLB5478327511",
     "productKey": "0886c56c5ee7f811",
     "titleHash": "e0dd1147da38ca5e",
@@ -4798,5 +4774,29 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-19T18:02:01.325Z"
+  },
+  {
+    "itemId": "MLB3961673791",
+    "productKey": "dd69d89534b391d8",
+    "titleHash": "7dc6acb6a88cf176",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-19T18:16:40.737Z"
+  },
+  {
+    "itemId": "MLB4367472233",
+    "productKey": "586170da6abacc2c",
+    "titleHash": "9db3ad497b1f6ba2",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-19T18:16:40.737Z"
+  },
+  {
+    "itemId": "MLB7501363886",
+    "productKey": "19e4b1bfcd1369fe",
+    "titleHash": "c32aaad6c7dcd3ef",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-19T18:16:40.737Z"
   }
 ]
