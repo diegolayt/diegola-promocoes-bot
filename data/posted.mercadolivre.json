@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5526713943",
-    "productKey": "c226456043f016a9",
-    "titleHash": "8cec1742dfa829f9",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-15T14:31:40.355Z"
-  },
-  {
-    "itemId": "MLB4621047857",
-    "productKey": "3f3b1148afa866b2",
-    "titleHash": "5f3c6ee8eb084863",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-15T14:46:39.951Z"
-  },
-  {
     "itemId": "MLB3961673791",
     "productKey": "dd69d89534b391d8",
     "titleHash": "7dc6acb6a88cf176",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-19T15:16:34.369Z"
+  },
+  {
+    "itemId": "MLB4917937950",
+    "productKey": "5b2763cb9e9d95a2",
+    "titleHash": "4aefd666fba0af2c",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-19T15:31:46.843Z"
+  },
+  {
+    "itemId": "MLB3519338657",
+    "productKey": "3e89fb212f1b587a",
+    "titleHash": "a70af37fa192c514",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-19T15:31:46.843Z"
   }
 ]
