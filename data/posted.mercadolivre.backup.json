@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7985882288",
-    "productKey": "8d695fa54f022e04",
-    "titleHash": "7fcbd2cc69672259",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-15T19:16:35.397Z"
-  },
-  {
-    "itemId": "MLB4046267101",
-    "productKey": "94515ec2fc819af0",
-    "titleHash": "2602411dd1f9a94a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-15T19:31:36.788Z"
-  },
-  {
-    "itemId": "MLB4645451007",
-    "productKey": "439eedc782437843",
-    "titleHash": "c770bbd6140c471d",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-15T19:46:46.776Z"
-  },
-  {
     "itemId": "MLB5562616359",
     "productKey": "ab7a06687d5141b6",
     "titleHash": "90a8b50e660fc297",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-19T20:31:47.195Z"
+  },
+  {
+    "itemId": "MLB4510325461",
+    "productKey": "f55481226776a3de",
+    "titleHash": "aef1dd15b5a70088",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-19T20:46:40.739Z"
+  },
+  {
+    "itemId": "MLB7657977886",
+    "productKey": "525cdc14fb44b9f9",
+    "titleHash": "48172cb7558886dd",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-19T20:46:40.739Z"
+  },
+  {
+    "itemId": "MLB2751486961",
+    "productKey": "0da42abc4e07efc8",
+    "titleHash": "583334eed73b7bc4",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-19T20:46:40.739Z"
   }
 ]
