@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7661765670",
-    "productKey": "b22d1abaa47ec09f",
-    "titleHash": "3724b04061102e54",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-15T12:31:41.797Z"
-  },
-  {
-    "itemId": "MLB7021496446",
-    "productKey": "06651e2562cbb16b",
-    "titleHash": "827ce4bd52859f56",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-15T12:46:40.410Z"
-  },
-  {
     "itemId": "MLB4647847848",
     "productKey": "5214251f2a0e2de8",
     "titleHash": "59ba011eeb15abff",
@@ -4798,5 +4782,21 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-19T12:01:43.935Z"
+  },
+  {
+    "itemId": "MLB5865969374",
+    "productKey": "0b028e4f27c78df2",
+    "titleHash": "ddce1d36b82207f4",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-19T12:16:51.041Z"
+  },
+  {
+    "itemId": "MLB5400098189",
+    "productKey": "d8cdb8921362f102",
+    "titleHash": "1b7a10c533ed1347",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-19T12:16:51.041Z"
   }
 ]
