@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7822235294",
-    "productKey": "f0fc6997fc2876fc",
-    "titleHash": "de7e41f495b50d62",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-15T21:01:53.117Z"
-  },
-  {
     "itemId": "MLB6112190914",
     "productKey": "eafa4fac22bc28d4",
     "titleHash": "ba618477890cc7be",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-19T21:46:46.198Z"
+  },
+  {
+    "itemId": "MLB5567784879",
+    "productKey": "2c514a242396f9d9",
+    "titleHash": "143f91de6547de17",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-19T22:01:51.900Z"
   }
 ]
