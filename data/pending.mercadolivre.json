@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4522037539",
+      "site_id": "MLB",
+      "seller_id": 716406838,
+      "accepts_mercadopago": true,
+      "price": 519.99,
+      "category_id": "MLB1672",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 727,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1RFTzI5ODk2",
+          "name": "Teófilo Otoni"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 anos",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3843051586",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17978326",
+      "title": "SSD Kingston A400 480GB SATA III 2.5\" 500MB/s SA400S37/480G",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_890700-MLA99502433930_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17978326",
+      "id": "MLB4522037539",
+      "sold_quantity": 1500,
+      "rotationCategory": "componente",
+      "sourceCategoryId": "MLB1712",
+      "minPrice": 150
+    },
+    {
+      "item_id": "MLB5738738172",
+      "site_id": "MLB",
+      "seller_id": 267892530,
+      "accepts_mercadopago": true,
+      "price": 2499,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "user_product_unify",
+        "content_editable",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 1215,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NVUjYyZmY1",
+          "name": "Curitiba"
+        },
+        "state": {
+          "id": "TUxCUFBBUkExODBlZA",
+          "name": "Paraná"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNJRDM4RTVG",
+          "name": "Cidade Industrial"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3444978226",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB57348431",
+      "title": "Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S)",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_648570-MLA99962182477_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB57348431",
+      "id": "MLB5738738172",
+      "sold_quantity": 2000,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-19T19:31:46.569Z"
+}
