@@ -125,6 +125,18 @@
   "link": "https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"
  },
  {
+  "loja": "shopee",
+  "codigo": "NOVTOP10",
+  "descricao": "R$20 OFF",
+  "regra": "Sem valor mínimo informado · válido até 19/11 ou enquanto durar",
+  "precoMinimo": 0,
+  "soLista": false,
+  "fim": "2026-11-20T03:00:00Z",
+  "link": "https://s.shopee.com.br/8VAdWvSMTp",
+  "auto": "shopee-telegram",
+  "postadoEm": "2026-11-19T20:10:13.000Z"
+ },
+ {
   "loja": "aliexpress",
   "codigo": "CRIANCAS",
   "descricao": "R$ 146,96 OFF em Projetor BYINTEK U4 Love 1 Smart",
