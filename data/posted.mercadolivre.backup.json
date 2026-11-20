@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7891920190",
-    "productKey": "58408d4b8d164d44",
-    "titleHash": "70b737e1b7d26e39",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-16T09:46:41.371Z"
-  },
-  {
     "itemId": "MLB3251982185",
     "productKey": "6e6b0a0afa3e4adb",
     "titleHash": "b39d876cbd06ae10",
@@ -4798,5 +4790,13 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-20T09:31:40.423Z"
+  },
+  {
+    "itemId": "MLB5210029249",
+    "productKey": "f1eff9eced4a288f",
+    "titleHash": "cc08d37274c23394",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-20T09:46:34.226Z"
   }
 ]
