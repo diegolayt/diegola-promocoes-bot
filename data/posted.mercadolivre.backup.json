@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6638081262",
-    "productKey": "f68a711c1d7c3bb7",
-    "titleHash": "9d2ecb424ee4a5b2",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-16T21:01:43.826Z"
-  },
-  {
     "itemId": "MLB3143183122",
     "productKey": "f957ab0d39b2d366",
     "titleHash": "b1c4d572f20022fd",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-20T19:31:45.857Z"
+  },
+  {
+    "itemId": "MLB4835188553",
+    "productKey": "beff4cef257732ed",
+    "titleHash": "11fa0ab13597eab7",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-20T19:46:41.429Z"
   }
 ]
