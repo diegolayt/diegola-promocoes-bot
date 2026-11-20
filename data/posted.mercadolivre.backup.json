@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5131539393",
-    "productKey": "3472274b89b121ef",
-    "titleHash": "e4b1ad14a95f048b",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-16T01:31:38.645Z"
-  },
-  {
-    "itemId": "MLB3928029276",
-    "productKey": "3f468fe7d81ead30",
-    "titleHash": "a0e7068095171d6a",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-16T01:31:38.645Z"
-  },
-  {
-    "itemId": "MLB6524071306",
-    "productKey": "f3ed58a1077cc9a4",
-    "titleHash": "4fe7f450f5d9b4c0",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-16T01:46:37.867Z"
-  },
-  {
     "itemId": "MLB5039804027",
     "productKey": "67b41de77f6e8bb3",
     "titleHash": "25cf7e816ba7fd15",
@@ -4798,5 +4774,29 @@
     "category": "notebook",
     "sourceCategoryId": "MLB430687",
     "reservedAt": "2026-11-20T02:16:36.640Z"
+  },
+  {
+    "itemId": "MLB3481515593",
+    "productKey": "f7f7d61f6c30c3c5",
+    "titleHash": "f0b6783df0701025",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-20T02:31:52.455Z"
+  },
+  {
+    "itemId": "MLB3608056921",
+    "productKey": "e80baf6cfbfdbd42",
+    "titleHash": "5e78adefcd40617e",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-20T02:31:52.456Z"
+  },
+  {
+    "itemId": "MLB4357542069",
+    "productKey": "43b31f7e3b19a97c",
+    "titleHash": "64005a5731e35fc7",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-20T02:31:52.456Z"
   }
 ]
