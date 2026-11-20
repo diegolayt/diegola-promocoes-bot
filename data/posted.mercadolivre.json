@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5339055984",
-    "productKey": "0a6b3dfb37184691",
-    "titleHash": "92e7b66fe96dbd69",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-11-16T09:32:06.676Z"
-  },
-  {
     "itemId": "MLB7891920190",
     "productKey": "58408d4b8d164d44",
     "titleHash": "70b737e1b7d26e39",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-20T09:16:45.238Z"
+  },
+  {
+    "itemId": "MLB5554213538",
+    "productKey": "d5416cabd8241d2f",
+    "titleHash": "a1c33e89dde3ef8a",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-20T09:31:40.423Z"
   }
 ]
