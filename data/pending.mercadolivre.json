@@ -1,0 +1,145 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5750365944",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 3099,
+      "category_id": "MLB73046",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "bulky",
+        "dynamic_standard_price",
+        "extended_warranty_eligible",
+        "first_party",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 3979,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3275545527",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB50024113",
+      "title": "Lava-louça Electrolux 10 Serviços Inox Lava E Seca 50' Ls10e Prateado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_723686-MLA100004922283_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB50024113",
+      "id": "MLB5750365944",
+      "sold_quantity": 300,
+      "rotationCategory": "lavadora",
+      "sourceCategoryId": "MLB438282",
+      "minPrice": 400
+    },
+    {
+      "item_id": "MLB4256696421",
+      "site_id": "MLB",
+      "seller_id": 185297674,
+      "accepts_mercadopago": true,
+      "price": 2999,
+      "category_id": "MLB181294",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 343,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 49.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3492089139",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB54245085",
+      "title": "Geladeira Consul Frost Free 455 Litros Duplex Branca - CRM53MB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_873031-MLA99430059608_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB54245085",
+      "id": "MLB4256696421",
+      "sold_quantity": 300,
+      "rotationCategory": "refrigeração",
+      "sourceCategoryId": "MLB1576",
+      "minPrice": 500
+    }
+  ],
+  "reservedAt": "2026-11-20T15:01:52.133Z"
+}
