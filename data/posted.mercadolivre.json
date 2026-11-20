@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7999974598",
-    "productKey": "c54e839f3f026968",
-    "titleHash": "5c2c1146e3a7b981",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-16T16:01:59.865Z"
-  },
-  {
-    "itemId": "MLB5701841518",
-    "productKey": "e47e31aa7f0f7ddf",
-    "titleHash": "753d54b2272a6993",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-16T16:16:38.237Z"
-  },
-  {
-    "itemId": "MLB5885455180",
-    "productKey": "c1bf359324948ad4",
-    "titleHash": "a32da22d3cf3636d",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-16T16:16:38.237Z"
-  },
-  {
     "itemId": "MLB5423040337",
     "productKey": "758e703d4c39c796",
     "titleHash": "2d709979dc8e2605",
@@ -4798,5 +4774,29 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-20T15:16:42.964Z"
+  },
+  {
+    "itemId": "MLB5305987156",
+    "productKey": "f7922a1199c97b70",
+    "titleHash": "c0e0c146c1eaab72",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-20T15:31:43.687Z"
+  },
+  {
+    "itemId": "MLB2779401126",
+    "productKey": "c240bbb586d73ffd",
+    "titleHash": "7f9dc0d2fdfecdfd",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-20T15:31:43.688Z"
+  },
+  {
+    "itemId": "MLB5339055984",
+    "productKey": "0a6b3dfb37184691",
+    "titleHash": "92e7b66fe96dbd69",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-20T15:31:43.688Z"
   }
 ]
