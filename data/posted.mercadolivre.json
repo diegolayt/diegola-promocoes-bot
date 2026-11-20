@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5270732917",
-    "productKey": "c60055d50d04d5b9",
-    "titleHash": "57beea07a809047b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-11-16T11:46:46.244Z"
-  },
-  {
-    "itemId": "MLB5447350273",
-    "productKey": "3c51acd3640a33d4",
-    "titleHash": "9ab029ed69eda820",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-16T13:46:44.434Z"
-  },
-  {
     "itemId": "MLB7680047962",
     "productKey": "62f91e78f631ddab",
     "titleHash": "8268204c51c89120",
@@ -4798,5 +4782,21 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-20T13:16:38.958Z"
+  },
+  {
+    "itemId": "MLB5578006340",
+    "productKey": "ce5fe0b01bc783b0",
+    "titleHash": "4087a41761d5495e",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-20T13:31:43.175Z"
+  },
+  {
+    "itemId": "MLB5249122975",
+    "productKey": "188aaec624c0db89",
+    "titleHash": "546002c2f3e9a515",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-20T13:31:43.176Z"
   }
 ]
