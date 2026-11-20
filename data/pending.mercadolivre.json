@@ -1,0 +1,246 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4035332659",
+      "site_id": "MLB",
+      "seller_id": 1327118135,
+      "accepts_mercadopago": true,
+      "price": 919.99,
+      "category_id": "MLB456969",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 183602,
+      "original_price": 1699,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Itapoá"
+        },
+        "state": {
+          "id": "",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU3127030825",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB47146181",
+      "title": "Parafusadeira e Furadeira de Impacto 13mm 20V DEWALT DCD7781D2 Com 2 Baterias, Carregador e Maleta",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_860756-MLA99451844492_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB47146181",
+      "id": "MLB4035332659",
+      "sold_quantity": 1000,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5768890488",
+      "site_id": "MLB",
+      "seller_id": 257919653,
+      "accepts_mercadopago": true,
+      "price": 315,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 525,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1ZJVGEzZGJj",
+          "name": "Serra"
+        },
+        "state": {
+          "id": "TUxCUEVTUE8xN2Y3NA",
+          "name": "Espírito Santo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjg0MTUx",
+          "name": "Jardim Camburi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU3470761030",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB46098247",
+      "title": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6L 8 receitas pré-sugeridas timer 60 minutos desligamento automático cesto removivel dupla camada antiaderente - Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_947666-MLA103616632598_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB46098247",
+      "id": "MLB5768890488",
+      "sold_quantity": 500,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6312313266",
+      "site_id": "MLB",
+      "seller_id": 3003243565,
+      "accepts_mercadopago": true,
+      "price": 3341.71,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "net_proceeds_prices",
+        "standard_price_by_channel",
+        "cbt_fulfillment_us",
+        "cbt_item",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB49200061",
+      "title": "Console Nintendo Switch 2, Modelo Nacional de Tomada",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB49200061",
+      "id": "MLB6312313266",
+      "sold_quantity": 1200,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-11-20T04:16:37.734Z"
+}
