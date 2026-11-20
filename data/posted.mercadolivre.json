@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4604327726",
-    "productKey": "110c81276c079aea",
-    "titleHash": "b5237db00758c38a",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-16T10:01:45.071Z"
-  },
-  {
     "itemId": "MLB6534791040",
     "productKey": "916043731c640a9c",
     "titleHash": "c7ea6eb57b5776c6",
@@ -4798,5 +4790,13 @@
     "category": "iluminação",
     "sourceCategoryId": "MLB1582",
     "reservedAt": "2026-11-20T10:01:46.233Z"
+  },
+  {
+    "itemId": "MLB4527837545",
+    "productKey": "7e5eeb5fc2da9a55",
+    "titleHash": "6ab4b45d11833727",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-20T10:16:33.506Z"
   }
 ]
