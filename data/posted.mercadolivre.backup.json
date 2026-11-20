@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7966346434",
-    "productKey": "7df1458663dc1f98",
-    "titleHash": "3a68c17bceca4a73",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-16T02:31:46.935Z"
-  },
-  {
-    "itemId": "MLB5410852112",
-    "productKey": "68616dd501c539e3",
-    "titleHash": "f40968a9ec38373d",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-16T03:01:37.099Z"
-  },
-  {
     "itemId": "MLB5210029249",
     "productKey": "f1eff9eced4a288f",
     "titleHash": "cc08d37274c23394",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-20T03:46:38.171Z"
+  },
+  {
+    "itemId": "MLB7585112596",
+    "productKey": "5f26ec118c3c684f",
+    "titleHash": "072400fdebd3532c",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-20T04:01:47.676Z"
+  },
+  {
+    "itemId": "MLB6549571682",
+    "productKey": "aaf36aa09306ceb0",
+    "titleHash": "739200591979e247",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-20T04:01:47.677Z"
   }
 ]
