@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5568475047",
-    "productKey": "55fae1bf40b618cf",
-    "titleHash": "2c0a170468ff47ea",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-17T00:31:45.341Z"
-  },
-  {
-    "itemId": "MLB5270018027",
-    "productKey": "7553a221ebd439ad",
-    "titleHash": "bbf4157e2e7d1e0f",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-17T00:31:45.341Z"
-  },
-  {
-    "itemId": "MLB5261097875",
-    "productKey": "a04a75b9fb4e31ed",
-    "titleHash": "f6dd9b7437ccaa6c",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-17T00:46:36.551Z"
-  },
-  {
-    "itemId": "MLB6385784946",
-    "productKey": "7b4040ad32005e88",
-    "titleHash": "312975b47aae0337",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-17T00:46:36.551Z"
-  },
-  {
     "itemId": "MLB5326199273",
     "productKey": "f46488f5ce61c7a7",
     "titleHash": "6859ef10fd3f7ec6",
@@ -4798,5 +4766,37 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-20T23:16:32.907Z"
+  },
+  {
+    "itemId": "MLB8028731772",
+    "productKey": "23c4410a26b6c187",
+    "titleHash": "a4502ea76973e897",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-20T23:31:37.884Z"
+  },
+  {
+    "itemId": "MLB3371578831",
+    "productKey": "10b192510125e400",
+    "titleHash": "199e80e775bd5fd7",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-20T23:31:37.884Z"
+  },
+  {
+    "itemId": "MLB7508683580",
+    "productKey": "b53bd8ca384bc1aa",
+    "titleHash": "8a0f057fb34fb5fe",
+    "category": "masculino",
+    "sourceCategoryId": "MLB23332",
+    "reservedAt": "2026-11-20T23:31:37.884Z"
+  },
+  {
+    "itemId": "MLB4204276525",
+    "productKey": "56e953d72225b9db",
+    "titleHash": "a52b2817a8ca9972",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-20T23:31:37.884Z"
   }
 ]
