@@ -1,0 +1,252 @@
+{
+  "items": [
+    {
+      "item_id": "MLB8021738570",
+      "site_id": "MLB",
+      "seller_id": 155118444,
+      "accepts_mercadopago": true,
+      "price": 38.99,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 81088,
+      "original_price": 110.99,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "proximity"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDIxNTg",
+          "name": "Vila Mariana"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5719836744",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23821224",
+      "title": "Biblioteca Estoica: Grandes Mestres Volume I - Box com 4 Livros - Aurélio, Marco - Camelot Editora - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_690568-MLA112165462202_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23821224",
+      "id": "MLB8021738570",
+      "sold_quantity": 100,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    },
+    {
+      "item_id": "MLB3398173761",
+      "site_id": "MLB",
+      "seller_id": 524736285,
+      "accepts_mercadopago": true,
+      "price": 78.9,
+      "category_id": "MLB12394",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_channel",
+        "standard_price_by_quantity",
+        "catalog_boost",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 219186,
+      "original_price": 149.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTHUyNHA5",
+          "name": "Vila Maria Baixa"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1441296375",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25656157",
+      "title": "Patinete Infantil 3 Rodas Com Led Som E Cesta Menino Menina Cor Rosa",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_829394-MLA99479039346_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25656157",
+      "id": "MLB3398173761",
+      "sold_quantity": 100,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB6160472112",
+      "site_id": "MLB",
+      "seller_id": 768826009,
+      "accepts_mercadopago": true,
+      "price": 179.9,
+      "category_id": "MLB7073",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "lightning_deal",
+        "standard_price_by_quantity",
+        "dynamic_standard_price",
+        "first_party",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2754,
+      "original_price": 239,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYRGlzdHJpdG8gSW5kdXN0cmlhbFRWaFlRM0",
+          "name": "Distrito Industrial"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3727548330",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB64083531",
+      "title": "Mercusys MC510 Câmera de Segurança Wi-Fi Externa 2K 3MP, Rotação 360°, Visão Noturna Colorida, Detecção de Pessoas e Rastreamento de Movimento, IP65, Áudio Bidirecional, Alexa e MicroSD até 512 GB",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_840426-MLA104261970721_012026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB64083531",
+      "id": "MLB6160472112",
+      "sold_quantity": 100,
+      "rotationCategory": "segurança",
+      "sourceCategoryId": "MLB7069",
+      "minPrice": 80
+    }
+  ],
+  "reservedAt": "2026-11-20T16:31:47.945Z"
+}
