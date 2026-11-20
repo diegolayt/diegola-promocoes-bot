@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4206531541",
-    "productKey": "f2ec400f7267583a",
-    "titleHash": "919881ee23b2a429",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-16T21:01:43.826Z"
-  },
-  {
     "itemId": "MLB6638081262",
     "productKey": "f68a711c1d7c3bb7",
     "titleHash": "9d2ecb424ee4a5b2",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-20T19:01:45.599Z"
+  },
+  {
+    "itemId": "MLB5299470374",
+    "productKey": "988c7f93704eb13a",
+    "titleHash": "4075fe10c419e294",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-20T19:31:45.857Z"
   }
 ]
