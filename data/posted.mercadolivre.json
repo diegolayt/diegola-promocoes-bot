@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB6612388050",
-    "productKey": "d91a46db3bbd17c5",
-    "titleHash": "1b724452cc313448",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-17T00:01:47.199Z"
-  },
-  {
-    "itemId": "MLB4204276525",
-    "productKey": "56e953d72225b9db",
-    "titleHash": "a52b2817a8ca9972",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-17T00:01:47.199Z"
-  },
-  {
-    "itemId": "MLB7980950720",
-    "productKey": "23c4410a26b6c187",
-    "titleHash": "a4502ea76973e897",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-17T00:16:36.623Z"
-  },
-  {
-    "itemId": "MLB3838209499",
-    "productKey": "b9ee45f2c4136d0e",
-    "titleHash": "ae8d97b0516bc2b5",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-17T00:31:45.341Z"
-  },
-  {
     "itemId": "MLB5568475047",
     "productKey": "55fae1bf40b618cf",
     "titleHash": "2c0a170468ff47ea",
@@ -4798,5 +4766,37 @@
     "category": "maquiagem",
     "sourceCategoryId": "MLB1248",
     "reservedAt": "2026-11-20T23:01:47.063Z"
+  },
+  {
+    "itemId": "MLB5452462868",
+    "productKey": "9d501d04b619787b",
+    "titleHash": "60b43647216b307c",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-20T23:16:32.906Z"
+  },
+  {
+    "itemId": "MLB7138654316",
+    "productKey": "d9f9ebef6ca08a2f",
+    "titleHash": "ffe4bcc70178fb4b",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-20T23:16:32.907Z"
+  },
+  {
+    "itemId": "MLB5249220707",
+    "productKey": "9d751b711b454293",
+    "titleHash": "836381a7863b8ad3",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-20T23:16:32.907Z"
+  },
+  {
+    "itemId": "MLB8025205622",
+    "productKey": "17bd1e9ebc7e00ed",
+    "titleHash": "70a2d54552142b9b",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-20T23:16:32.907Z"
   }
 ]
