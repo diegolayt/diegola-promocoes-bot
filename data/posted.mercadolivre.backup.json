@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5423040337",
-    "productKey": "758e703d4c39c796",
-    "titleHash": "2d709979dc8e2605",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-16T16:16:38.237Z"
-  },
-  {
-    "itemId": "MLB2670052459",
-    "productKey": "093b9eee2f11757f",
-    "titleHash": "9fb6e2be0e1df65e",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-16T16:31:37.168Z"
-  },
-  {
     "itemId": "MLB7995716304",
     "productKey": "988c7f93704eb13a",
     "titleHash": "4075fe10c419e294",
@@ -4798,5 +4782,21 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-11-20T15:31:43.688Z"
+  },
+  {
+    "itemId": "MLB5701841518",
+    "productKey": "e47e31aa7f0f7ddf",
+    "titleHash": "753d54b2272a6993",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-20T15:46:43.097Z"
+  },
+  {
+    "itemId": "MLB5483774027",
+    "productKey": "7805ee503504f48a",
+    "titleHash": "4d5af61ca760ce54",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-20T15:46:43.097Z"
   }
 ]
