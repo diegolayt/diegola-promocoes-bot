@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7330526448",
-    "productKey": "d88fc5b406c04f25",
-    "titleHash": "34a2921d017b2b95",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-16T01:16:41.226Z"
-  },
-  {
-    "itemId": "MLB6549571682",
-    "productKey": "aaf36aa09306ceb0",
-    "titleHash": "739200591979e247",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-16T01:16:41.226Z"
-  },
-  {
     "itemId": "MLB7501162864",
     "productKey": "d90185c5813ba0bb",
     "titleHash": "26e89182c842e1bc",
@@ -4798,5 +4782,21 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-20T01:46:36.918Z"
+  },
+  {
+    "itemId": "MLB2879853907",
+    "productKey": "61c4fd9ccef67094",
+    "titleHash": "27390b548441be76",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-20T02:01:48.843Z"
+  },
+  {
+    "itemId": "MLB3798032968",
+    "productKey": "873a360bbc93b276",
+    "titleHash": "f286bb4769ccb2ae",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-20T02:01:48.843Z"
   }
 ]
