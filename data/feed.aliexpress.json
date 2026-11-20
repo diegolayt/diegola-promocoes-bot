@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005010680109187",
+  "loja": "aliexpress",
+  "titulo": "GPU AMD SAPPHIRE Radeon ™ Placa de Vídeo para Computador Desktop RX 6600 8G D6 128 Bit Usada para Jogos",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd887d6c9719e41e79575c2b45a87d8c38.png",
+  "preco": 1761.99,
+  "precoDe": 2710.75,
+  "link": "https://s.click.aliexpress.com/e/_c4qDoggd",
+  "vendidos": 38,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video_rtx",
+  "publicadoEm": "2026-11-20T11:16:02.408Z"
+ },
+ {
+  "id": "aliexpress-1005003696808113",
+  "loja": "aliexpress",
+  "titulo": "Memória RAM DDR4 Netac para Notebook, 4GB, 8GB, 16GB, Sodimm DDR4 3200MHz, 2666MHz, 260Pin, RAM para Laptop 1.2V JEDEC",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4832b539e5fc4209b84dce3f7c3dbb09j.jpg",
+  "preco": 840.68,
+  "precoDe": 1355.96,
+  "link": "https://s.click.aliexpress.com/e/_c45tBFKd",
+  "vendidos": 56,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ram_notebook",
+  "publicadoEm": "2026-11-20T11:15:54.572Z"
+ },
+ {
+  "id": "aliexpress-1005007871414220",
+  "loja": "aliexpress",
+  "titulo": "Cusu DDR4 8GB 16GB 3200MHz 3600MHz DDR4 Memoria Ram DDR5 4800MHz 5600MHz 6400MHz 288pin Udimm Memória de mesa para computador",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S361172aa588845ffb89c89a7634e4917t.jpg",
+  "preco": 570.75,
+  "precoDe": 1056.94,
+  "link": "https://s.click.aliexpress.com/e/_c4pplRyv",
+  "vendidos": 5520,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-11-20T11:15:48.145Z"
+ },
+ {
+  "id": "aliexpress-1005013273524257",
+  "loja": "aliexpress",
+  "titulo": "KOOTION X15 SSD M.2 256GB 512GB 1TB, unidade de estado sólido M2 SSD, SSD M.2 NVMe PCIe, disco rígido interno para portátil e computador de mesa, compatível com MSI, Dell e HP.",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8a13ffba91834bc584d4934a6a309430L.jpg",
+  "preco": 405.27,
+  "precoDe": 1060.33,
+  "link": "https://s.click.aliexpress.com/e/_c3GSZ2VP",
+  "vendidos": 417,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ssd",
+  "publicadoEm": "2026-11-20T11:15:41.088Z"
+ },
+ {
   "id": "aliexpress-1005005122164510",
   "loja": "aliexpress",
   "titulo": "Placa de Vídeo Veineda RX5500XT 8GB GDDR6 RX 5500XT 8G Placas de Vídeo PCI Express 4.0 X Desktop RX5500 8gb 128BiT",
@@ -11346,34 +11402,6 @@
   "publicadoEm": "2026-11-18T08:30:39.534Z"
  },
  {
-  "id": "aliexpress-1005003696808113",
-  "loja": "aliexpress",
-  "titulo": "Memória RAM DDR4 Netac para Notebook, 4GB, 8GB, 16GB, Sodimm DDR4 3200MHz, 2666MHz, 260Pin, RAM para Laptop 1.2V JEDEC",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4832b539e5fc4209b84dce3f7c3dbb09j.jpg",
-  "preco": 825.5,
-  "precoDe": 1331.47,
-  "link": "https://s.click.aliexpress.com/e/_c2vWzctF",
-  "vendidos": 56,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-11-18T08:16:07.408Z"
- },
- {
-  "id": "aliexpress-1005007871414220",
-  "loja": "aliexpress",
-  "titulo": "Cusu DDR4 8GB 16GB 3200MHz 3600MHz DDR4 Memoria Ram DDR5 4800MHz 5600MHz 6400MHz 288pin Udimm Memória de mesa para computador",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S361172aa588845ffb89c89a7634e4917t.jpg",
-  "preco": 612.62,
-  "precoDe": 1038.33,
-  "link": "https://s.click.aliexpress.com/e/_c32BG9bb",
-  "vendidos": 5526,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-11-18T08:16:00.747Z"
- },
- {
   "id": "aliexpress-1005012924765080",
   "loja": "aliexpress",
   "titulo": "KOOTION SSD M2 NVME 256GB 512GB 1TB 2TB Disco Rígido M.2 2280 Gen3 PCIe 3.0X4 Unidade de Estado Sólido Interna para Laptop Desktop MSI X99",
@@ -12722,20 +12750,6 @@
   "categoria": "Informática",
   "fonte": "ali_processador",
   "publicadoEm": "2026-11-17T00:00:57.519Z"
- },
- {
-  "id": "aliexpress-1005013273524257",
-  "loja": "aliexpress",
-  "titulo": "KOOTION X15 SSD M.2 256GB 512GB 1TB, unidade de estado sólido M2 SSD, SSD M.2 NVMe PCIe, disco rígido interno para portátil e computador de mesa, compatível com MSI, Dell e HP.",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8a13ffba91834bc584d4934a6a309430L.jpg",
-  "preco": 325.89,
-  "precoDe": 1024.39,
-  "link": "https://s.click.aliexpress.com/e/_c4435Ga9",
-  "vendidos": 417,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ssd",
-  "publicadoEm": "2026-11-16T23:30:56.333Z"
  },
  {
   "id": "aliexpress-1005009463011323",
@@ -16697,19 +16711,5 @@
   "nota": 4.8,
   "fonte": "ali_envio_brasil",
   "publicadoEm": "2026-11-09T05:45:56.956Z"
- },
- {
-  "id": "aliexpress-1005006860909709",
-  "loja": "aliexpress",
-  "titulo": "Amigos cidade vista de rua casa férias verão villa castelo modelo bloco de construção conjuntos figuras diy tijolos brinquedos para crianças meninas presente",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd1496f2c4d444fd89026c6aee4369637F.jpg",
-  "preco": 231.99,
-  "precoDe": 463.98,
-  "link": "https://s.click.aliexpress.com/e/_c3ta4BVD",
-  "vendidos": 553,
-  "nota": 4.9,
-  "categoria": "Brinquedos",
-  "fonte": "ali_blocos",
-  "publicadoEm": "2026-11-09T05:45:41.495Z"
  }
 ]
