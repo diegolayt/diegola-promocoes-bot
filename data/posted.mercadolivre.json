@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5597479444",
-    "productKey": "e2501bd4ef202aaa",
-    "titleHash": "7a4dfed420269918",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-16T06:47:07.502Z"
-  },
-  {
     "itemId": "MLB4803658086",
     "productKey": "10e676d7f3f50b79",
     "titleHash": "5fcbeacd68177048",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-20T05:01:44.148Z"
+  },
+  {
+    "itemId": "MLB3272696011",
+    "productKey": "766e4122d158c9d9",
+    "titleHash": "a99bf3c6493007aa",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-20T05:16:39.571Z"
   }
 ]
