@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7938921574",
-    "productKey": "e5a83b7016817575",
-    "titleHash": "959cf01c83f2589c",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-16T15:46:47.243Z"
-  },
-  {
-    "itemId": "MLB5483774027",
-    "productKey": "7805ee503504f48a",
-    "titleHash": "4d5af61ca760ce54",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-16T16:01:59.865Z"
-  },
-  {
     "itemId": "MLB7999974598",
     "productKey": "c54e839f3f026968",
     "titleHash": "5c2c1146e3a7b981",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-20T15:01:52.130Z"
+  },
+  {
+    "itemId": "MLB5387146287",
+    "productKey": "ed23dda80ccddb8e",
+    "titleHash": "2833a17e649ec0a3",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-20T15:16:42.964Z"
+  },
+  {
+    "itemId": "MLB4437876216",
+    "productKey": "62c93a85d3efa5a1",
+    "titleHash": "8d8f46572e1893f3",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-20T15:16:42.964Z"
   }
 ]
