@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7529392590",
-    "productKey": "fd83f25c3b8fcc66",
-    "titleHash": "7d923047dcc35c56",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-16T20:46:27.927Z"
-  },
-  {
-    "itemId": "MLB3903508275",
-    "productKey": "5c15702ed6d4f3bb",
-    "titleHash": "eab2d9165b0159cb",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-16T20:46:27.927Z"
-  },
-  {
     "itemId": "MLB5079778020",
     "productKey": "6b27e44c099cbc82",
     "titleHash": "fce56bd7519e5d35",
@@ -4798,5 +4782,21 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-20T18:16:44.574Z"
+  },
+  {
+    "itemId": "MLB7500659226",
+    "productKey": "85d041b839360d1e",
+    "titleHash": "5cd59db29710943a",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-20T18:31:44.302Z"
+  },
+  {
+    "itemId": "MLB7999974598",
+    "productKey": "c54e839f3f026968",
+    "titleHash": "5c2c1146e3a7b981",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-20T18:31:44.303Z"
   }
 ]
