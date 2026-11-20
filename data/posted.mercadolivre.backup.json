@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5322000341",
-    "productKey": "4c2b7f809c982c78",
-    "titleHash": "d3c71357a2e1af80",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-16T00:31:45.182Z"
-  },
-  {
     "itemId": "MLB5255879423",
     "productKey": "392dfea6c16fe498",
     "titleHash": "28777b6d8f1e2193",
@@ -4798,5 +4790,13 @@
     "category": "relógio",
     "sourceCategoryId": "MLB26426",
     "reservedAt": "2026-11-20T01:16:37.723Z"
+  },
+  {
+    "itemId": "MLB4046267101",
+    "productKey": "94515ec2fc819af0",
+    "titleHash": "2602411dd1f9a94a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-20T01:31:44.331Z"
   }
 ]
