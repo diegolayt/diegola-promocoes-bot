@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6078965222",
-    "productKey": "5fe28540bf3f91b2",
-    "titleHash": "3b148e7c8dbd8e6f",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-16T08:16:43.443Z"
-  },
-  {
-    "itemId": "MLB4467934979",
-    "productKey": "9cd997824517fd5e",
-    "titleHash": "c7109c0a43cae79a",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-16T08:16:43.444Z"
-  },
-  {
     "itemId": "MLB7992147960",
     "productKey": "cd056bd91698fc9b",
     "titleHash": "9ecee43ac5c2a774",
@@ -4798,5 +4782,21 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-20T06:46:40.335Z"
+  },
+  {
+    "itemId": "MLB7685286148",
+    "productKey": "97793b46b1ed0e13",
+    "titleHash": "ba9b4acf5fd20f0e",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-20T07:01:44.763Z"
+  },
+  {
+    "itemId": "MLB5800037458",
+    "productKey": "b6d1cedb49d30deb",
+    "titleHash": "51bd3c9452ef23f3",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-20T07:01:44.764Z"
   }
 ]
