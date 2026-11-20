@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5914784428",
-    "productKey": "e1fa6b0d5edc06a7",
-    "titleHash": "097fe77015697a11",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-16T07:16:33.534Z"
-  },
-  {
     "itemId": "MLB5800037458",
     "productKey": "b6d1cedb49d30deb",
     "titleHash": "51bd3c9452ef23f3",
@@ -4798,5 +4790,13 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-20T05:31:36.650Z"
+  },
+  {
+    "itemId": "MLB7938712672",
+    "productKey": "d0747d37c319a421",
+    "titleHash": "5bc53b25ced2901c",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-20T05:46:48.253Z"
   }
 ]
