@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4334559185",
-    "productKey": "9d501d04b619787b",
-    "titleHash": "60b43647216b307c",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-16T23:31:53.096Z"
-  },
-  {
     "itemId": "MLB3326463445",
     "productKey": "4da20096241f83a1",
     "titleHash": "122b2943937f1218",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-20T22:16:25.967Z"
+  },
+  {
+    "itemId": "MLB7618422432",
+    "productKey": "8391a7ae62302cad",
+    "titleHash": "1f20a51ee45cd080",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-20T22:31:43.824Z"
   }
 ]
