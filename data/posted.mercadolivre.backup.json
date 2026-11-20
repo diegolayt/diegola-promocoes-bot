@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5064077275",
-    "productKey": "188aaec624c0db89",
-    "titleHash": "546002c2f3e9a515",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-16T11:16:50.084Z"
-  },
-  {
-    "itemId": "MLB3525364839",
-    "productKey": "f8b4730edfd7a1c2",
-    "titleHash": "16dd35246dab9fd4",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-16T11:31:42.180Z"
-  },
-  {
     "itemId": "MLB5270732917",
     "productKey": "c60055d50d04d5b9",
     "titleHash": "57beea07a809047b",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-20T13:01:44.639Z"
+  },
+  {
+    "itemId": "MLB6400344928",
+    "productKey": "d6cc0984381470cf",
+    "titleHash": "a33e46855fcff71c",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-20T13:16:38.957Z"
+  },
+  {
+    "itemId": "MLB5520821997",
+    "productKey": "d024777c1c0be8fe",
+    "titleHash": "842345c7a771c0fe",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-20T13:16:38.958Z"
   }
 ]
