@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7651221464",
-    "productKey": "4cf8a10639a94805",
-    "titleHash": "d4d810df2ada9c99",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-16T22:31:36.049Z"
-  },
-  {
-    "itemId": "MLB3698775204",
-    "productKey": "9df63c5c74f0032b",
-    "titleHash": "92bd599ba4cf03b1",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-16T22:46:35.399Z"
-  },
-  {
-    "itemId": "MLB4367472775",
-    "productKey": "fa34295fd787e18c",
-    "titleHash": "190b71ddac76b50c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-16T23:16:37.118Z"
-  },
-  {
     "itemId": "MLB7912614128",
     "productKey": "8391a7ae62302cad",
     "titleHash": "1f20a51ee45cd080",
@@ -4798,5 +4774,29 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-20T21:16:38.034Z"
+  },
+  {
+    "itemId": "MLB4223584663",
+    "productKey": "d947d4019fef538b",
+    "titleHash": "0c72f8035670cde0",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-20T21:46:47.533Z"
+  },
+  {
+    "itemId": "MLB3630523371",
+    "productKey": "0c0436ea74e14fa2",
+    "titleHash": "d846edc6340a40b5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-20T21:46:47.534Z"
+  },
+  {
+    "itemId": "MLB5588052903",
+    "productKey": "4c2b7f809c982c78",
+    "titleHash": "d3c71357a2e1af80",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-20T21:46:47.534Z"
   }
 ]
