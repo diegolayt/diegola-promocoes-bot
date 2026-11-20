@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5478170941",
-    "productKey": "047b8841586368ce",
-    "titleHash": "d0d73644404827f4",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-16T16:46:34.523Z"
-  },
-  {
     "itemId": "MLB7789531604",
     "productKey": "23ea03873a1f5617",
     "titleHash": "8ceb375a5a1615e0",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-20T16:01:46.821Z"
+  },
+  {
+    "itemId": "MLB2670052459",
+    "productKey": "093b9eee2f11757f",
+    "titleHash": "9fb6e2be0e1df65e",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-20T16:16:42.125Z"
   }
 ]
