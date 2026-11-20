@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5800037458",
-    "productKey": "b6d1cedb49d30deb",
-    "titleHash": "51bd3c9452ef23f3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-16T07:31:36.792Z"
-  },
-  {
-    "itemId": "MLB5934587642",
-    "productKey": "4c9a2bafeaf753b6",
-    "titleHash": "17682e2f317c0d59",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-16T07:46:36.897Z"
-  },
-  {
-    "itemId": "MLB6487355942",
-    "productKey": "1b0c80b38e1cf265",
-    "titleHash": "e1ee4fe398d38bfe",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-16T08:01:48.110Z"
-  },
-  {
     "itemId": "MLB7977732200",
     "productKey": "fe3916e4145f9c4c",
     "titleHash": "446d0c834ed457eb",
@@ -4798,5 +4774,29 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-20T05:46:48.253Z"
+  },
+  {
+    "itemId": "MLB5410852112",
+    "productKey": "68616dd501c539e3",
+    "titleHash": "f40968a9ec38373d",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-20T06:16:42.104Z"
+  },
+  {
+    "itemId": "MLB7736493970",
+    "productKey": "4e0745be82026c1f",
+    "titleHash": "95ec9b254759a637",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-20T06:16:42.104Z"
+  },
+  {
+    "itemId": "MLB4803658086",
+    "productKey": "10e676d7f3f50b79",
+    "titleHash": "5fcbeacd68177048",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-20T06:16:42.104Z"
   }
 ]
