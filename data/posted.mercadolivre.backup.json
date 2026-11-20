@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7501162864",
-    "productKey": "d90185c5813ba0bb",
-    "titleHash": "26e89182c842e1bc",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-16T01:31:38.645Z"
-  },
-  {
     "itemId": "MLB5131539393",
     "productKey": "3472274b89b121ef",
     "titleHash": "e4b1ad14a95f048b",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-20T02:01:48.843Z"
+  },
+  {
+    "itemId": "MLB6972021044",
+    "productKey": "5a24c3485e043a19",
+    "titleHash": "ca2038c29bdfa6f9",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-11-20T02:16:36.640Z"
   }
 ]
