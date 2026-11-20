@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4728634751",
-    "productKey": "85d041b839360d1e",
-    "titleHash": "5cd59db29710943a",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-16T19:16:40.431Z"
-  },
-  {
-    "itemId": "MLB5315663409",
-    "productKey": "5daa8738665d0228",
-    "titleHash": "e65fc7f7467e397e",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-16T19:31:42.459Z"
-  },
-  {
     "itemId": "MLB4835188553",
     "productKey": "beff4cef257732ed",
     "titleHash": "11fa0ab13597eab7",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta",
     "sourceCategoryId": "MLB189007",
     "reservedAt": "2026-11-20T17:31:50.969Z"
+  },
+  {
+    "itemId": "MLB5039589091",
+    "productKey": "b833e549f6e4e215",
+    "titleHash": "7d2b931d4be725b3",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-20T17:46:42.054Z"
+  },
+  {
+    "itemId": "MLB4497607307",
+    "productKey": "b2fc93e96a24c86a",
+    "titleHash": "02b0280977de80cf",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-20T17:46:42.054Z"
   }
 ]
