@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4307049751",
-    "productKey": "5023cde27034c973",
-    "titleHash": "2b53c4ca6bda3d81",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-16T17:46:38.688Z"
-  },
-  {
-    "itemId": "MLB7580735174",
-    "productKey": "8a5cc19f5fa3af1f",
-    "titleHash": "3ec3ade5cbdb1caa",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-16T17:46:38.689Z"
-  },
-  {
     "itemId": "MLB4452425949",
     "productKey": "4da8403653ad3f9a",
     "titleHash": "3f644395875c5baa",
@@ -4798,5 +4782,21 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-20T16:31:47.943Z"
+  },
+  {
+    "itemId": "MLB7579921440",
+    "productKey": "047b8841586368ce",
+    "titleHash": "d0d73644404827f4",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-20T16:46:38.521Z"
+  },
+  {
+    "itemId": "MLB4929844213",
+    "productKey": "23ea03873a1f5617",
+    "titleHash": "8ceb375a5a1615e0",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-20T16:46:38.521Z"
   }
 ]
