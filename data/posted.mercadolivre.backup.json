@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4771398286",
-    "productKey": "12bdcfabca3caf4e",
-    "titleHash": "f71509e0a3defcad",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-16T11:01:55.590Z"
-  },
-  {
     "itemId": "MLB7665920698",
     "productKey": "e689be77e279c615",
     "titleHash": "10ad4952157baf45",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-20T12:01:47.663Z"
+  },
+  {
+    "itemId": "MLB7096392260",
+    "productKey": "58408d4b8d164d44",
+    "titleHash": "70b737e1b7d26e39",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-20T12:16:34.843Z"
   }
 ]
