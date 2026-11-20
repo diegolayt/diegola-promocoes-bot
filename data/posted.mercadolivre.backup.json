@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5079778020",
-    "productKey": "6b27e44c099cbc82",
-    "titleHash": "fce56bd7519e5d35",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-16T20:46:27.927Z"
-  },
-  {
-    "itemId": "MLB5524906692",
-    "productKey": "7372f11b6723cc4e",
-    "titleHash": "0f363db278ffc304",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-16T20:46:27.927Z"
-  },
-  {
     "itemId": "MLB4206531541",
     "productKey": "f2ec400f7267583a",
     "titleHash": "919881ee23b2a429",
@@ -4798,5 +4782,21 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-20T18:31:44.303Z"
+  },
+  {
+    "itemId": "MLB5885455180",
+    "productKey": "c1bf359324948ad4",
+    "titleHash": "ae5ec06f6bf69271",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-20T19:01:45.598Z"
+  },
+  {
+    "itemId": "MLB5315663409",
+    "productKey": "5daa8738665d0228",
+    "titleHash": "e65fc7f7467e397e",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-20T19:01:45.599Z"
   }
 ]
