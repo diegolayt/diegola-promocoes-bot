@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3251982185",
-    "productKey": "6e6b0a0afa3e4adb",
-    "titleHash": "b39d876cbd06ae10",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-16T10:01:45.070Z"
-  },
-  {
     "itemId": "MLB4604327726",
     "productKey": "110c81276c079aea",
     "titleHash": "b5237db00758c38a",
@@ -4798,5 +4790,13 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-20T09:46:34.226Z"
+  },
+  {
+    "itemId": "MLB5597479444",
+    "productKey": "e2501bd4ef202aaa",
+    "titleHash": "7a4dfed420269918",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-20T10:01:46.233Z"
   }
 ]
