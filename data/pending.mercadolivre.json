@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5584710619",
+      "site_id": "MLB",
+      "seller_id": 53371725,
+      "accepts_mercadopago": true,
+      "price": 1113,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTUzMDE",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQkRFTDU3ODU",
+          "name": "Del Castilho"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5924888201",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52053098",
+      "title": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Grafite",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_783024-MLA110125232386_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52053098",
+      "id": "MLB5584710619",
+      "sold_quantity": 700,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-20T08:01:44.949Z"
+}
