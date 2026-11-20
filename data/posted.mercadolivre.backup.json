@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7701540434",
-    "productKey": "14ae1350b1edf58c",
-    "titleHash": "46679422f89dd4d2",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-16T08:46:40.317Z"
-  },
-  {
     "itemId": "MLB5017435998",
     "productKey": "130db9fd8b248230",
     "titleHash": "8f472aee6ac699cb",
@@ -4798,5 +4790,13 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-11-20T07:31:43.468Z"
+  },
+  {
+    "itemId": "MLB6078965222",
+    "productKey": "5fe28540bf3f91b2",
+    "titleHash": "3b148e7c8dbd8e6f",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-20T07:46:41.274Z"
   }
 ]
