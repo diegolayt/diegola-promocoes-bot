@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7804206930",
-    "productKey": "a9dd8ff2b914849e",
-    "titleHash": "bf0fa0934c37b081",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-16T20:31:40.588Z"
-  },
-  {
-    "itemId": "MLB6253229918",
-    "productKey": "0093a548dee7b78c",
-    "titleHash": "acc61814edc438ee",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-16T20:31:40.588Z"
-  },
-  {
     "itemId": "MLB7529392590",
     "productKey": "fd83f25c3b8fcc66",
     "titleHash": "7d923047dcc35c56",
@@ -4798,5 +4782,21 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-20T18:01:41.691Z"
+  },
+  {
+    "itemId": "MLB5086498493",
+    "productKey": "df46f21258a3c7a1",
+    "titleHash": "1cbc1384378886f7",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-20T18:16:44.574Z"
+  },
+  {
+    "itemId": "MLB6794412954",
+    "productKey": "fed2045d9a53918d",
+    "titleHash": "f1b338c8126e3619",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-20T18:16:44.574Z"
   }
 ]
