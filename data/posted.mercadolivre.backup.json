@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5039804027",
-    "productKey": "67b41de77f6e8bb3",
-    "titleHash": "25cf7e816ba7fd15",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-16T02:01:49.102Z"
-  },
-  {
-    "itemId": "MLB4379742795",
-    "productKey": "0bcf0514bbf146bf",
-    "titleHash": "4bdf6074887c635e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-16T02:16:33.478Z"
-  },
-  {
     "itemId": "MLB5433764082",
     "productKey": "d421a9ac96991e1e",
     "titleHash": "dd4ff27b0e780d50",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-20T02:31:52.456Z"
+  },
+  {
+    "itemId": "MLB6943752224",
+    "productKey": "127b8887916baeb4",
+    "titleHash": "fa8d671112a0eeee",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-20T03:16:32.920Z"
+  },
+  {
+    "itemId": "MLB5316361707",
+    "productKey": "c226456043f016a9",
+    "titleHash": "8cec1742dfa829f9",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-20T03:16:32.920Z"
   }
 ]
