@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5652727666",
-    "productKey": "2db0bb2ae6da5aa1",
-    "titleHash": "5e8baeb24f7da5a4",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-16T10:46:38.678Z"
-  },
-  {
     "itemId": "MLB4771398286",
     "productKey": "12bdcfabca3caf4e",
     "titleHash": "f71509e0a3defcad",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-20T11:16:38.268Z"
+  },
+  {
+    "itemId": "MLB5385932414",
+    "productKey": "33b92cca0add5d8c",
+    "titleHash": "01d5b0171a4da264",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-20T12:01:47.663Z"
   }
 ]
