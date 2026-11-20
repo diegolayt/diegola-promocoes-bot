@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7459825568",
-    "productKey": "3c8a41019e1a73dc",
-    "titleHash": "f3ad9cd1b738f64b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-16T14:46:53.032Z"
-  },
-  {
-    "itemId": "MLB7702609944",
-    "productKey": "9785e1e4f9269a23",
-    "titleHash": "0517c1a09d1c4254",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-16T15:01:44.199Z"
-  },
-  {
     "itemId": "MLB7640141672",
     "productKey": "afa5a1c1c3d869da",
     "titleHash": "bd4a307a6462c7d5",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-20T13:46:35.049Z"
+  },
+  {
+    "itemId": "MLB3525364839",
+    "productKey": "f8b4730edfd7a1c2",
+    "titleHash": "16dd35246dab9fd4",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-20T14:01:52.328Z"
+  },
+  {
+    "itemId": "MLB7665920698",
+    "productKey": "e689be77e279c615",
+    "titleHash": "10ad4952157baf45",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-20T14:01:52.328Z"
   }
 ]
