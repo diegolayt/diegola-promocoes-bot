@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3481515593",
-    "productKey": "f7f7d61f6c30c3c5",
-    "titleHash": "bd2c5073c62b4ca3",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-15T23:46:29.343Z"
-  },
-  {
-    "itemId": "MLB5329836232",
-    "productKey": "549b84a996815459",
-    "titleHash": "86feca71767baaa7",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-11-15T23:46:29.344Z"
-  },
-  {
-    "itemId": "MLB3608056921",
-    "productKey": "e80baf6cfbfdbd42",
-    "titleHash": "5e78adefcd40617e",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-15T23:46:29.344Z"
-  },
-  {
     "itemId": "MLB4135318231",
     "productKey": "43b31f7e3b19a97c",
     "titleHash": "64005a5731e35fc7",
@@ -4798,5 +4774,29 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-20T00:31:41.751Z"
+  },
+  {
+    "itemId": "MLB5208653139",
+    "productKey": "2bf1b8277c9c2985",
+    "titleHash": "217dea04a07bad05",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-20T00:46:38.967Z"
+  },
+  {
+    "itemId": "MLB5417889802",
+    "productKey": "7b9361588a17275b",
+    "titleHash": "ae5e4745726c0427",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-20T00:46:38.967Z"
+  },
+  {
+    "itemId": "MLB8015693684",
+    "productKey": "dea2c4a9da61bcd6",
+    "titleHash": "6c866c86c418343d",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-20T00:46:38.967Z"
   }
 ]
