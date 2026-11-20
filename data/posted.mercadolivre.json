@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB3630523371",
-    "productKey": "0c0436ea74e14fa2",
-    "titleHash": "d846edc6340a40b5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-16T22:01:42.536Z"
-  },
-  {
-    "itemId": "MLB7477347684",
-    "productKey": "5ce7bec6505590b7",
-    "titleHash": "86fec3bd17183974",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-16T22:01:42.537Z"
-  },
-  {
-    "itemId": "MLB7996428624",
-    "productKey": "7c16ecc85931f27a",
-    "titleHash": "85ee5166025b545e",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-16T22:01:42.537Z"
-  },
-  {
-    "itemId": "MLB4434672939",
-    "productKey": "d947d4019fef538b",
-    "titleHash": "0c72f8035670cde0",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-16T22:16:33.452Z"
-  },
-  {
     "itemId": "MLB5428168238",
     "productKey": "4b16d27e9826dfdf",
     "titleHash": "58fef0b9cc61ea0a",
@@ -4798,5 +4766,37 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-20T20:46:29.745Z"
+  },
+  {
+    "itemId": "MLB3903508275",
+    "productKey": "5c15702ed6d4f3bb",
+    "titleHash": "eab2d9165b0159cb",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-20T21:01:39.356Z"
+  },
+  {
+    "itemId": "MLB6187796554",
+    "productKey": "c421c7dbedfa4af5",
+    "titleHash": "d1f3d0e27d1791c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-20T21:01:39.356Z"
+  },
+  {
+    "itemId": "MLB5432721663",
+    "productKey": "f957ab0d39b2d366",
+    "titleHash": "b1c4d572f20022fd",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-20T21:01:39.356Z"
+  },
+  {
+    "itemId": "MLB4994160207",
+    "productKey": "b46a61b0caa2d1c3",
+    "titleHash": "f358d0344c759159",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-20T21:01:39.356Z"
   }
 ]
