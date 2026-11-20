@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4646047379",
+      "site_id": "MLB",
+      "seller_id": 200524310,
+      "accepts_mercadopago": true,
+      "price": 1048.18,
+      "category_id": "MLB99245",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 80562,
+      "original_price": 1679.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQ1MDE",
+          "name": "São Caetano do Sul"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBSTzg3MDE",
+          "name": "Prosperidade"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3928498021",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB52027456",
+      "title": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB52027456",
+      "id": "MLB4646047379",
+      "sold_quantity": 400,
+      "rotationCategory": "monitor",
+      "sourceCategoryId": "MLB99245",
+      "minPrice": 350
+    },
+    {
+      "item_id": "MLB5517073135",
+      "site_id": "MLB",
+      "seller_id": 3469613896,
+      "accepts_mercadopago": true,
+      "price": 2480.9,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJPUzUwNDc",
+          "name": "Bosque da Saúde"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5822349314",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67444410",
+      "title": "Smartphone Motorola Edge 70 Fusion 5g Fifa World Cup Collection - 256gb 8gb Ram + 16gb Ram Boost, Camera 50mp Sony Lytia 710, Tela 1.5k Extreme Amoled - Grafite",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_675745-MLA111332756891_052026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67444410",
+      "id": "MLB5517073135",
+      "sold_quantity": 100,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-20T03:46:38.173Z"
+}
