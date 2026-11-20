@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005012326875668",
+  "loja": "aliexpress",
+  "titulo": "Placa-Mãe B450 AM4 ASUS PRIME B450M-A para CPU Ryzen 5 5500 5600 5800X3D Ryzen 7 5700X3D 7 5800X 5 5600X 7 5700G RAM DDR4 M-ATX",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2c460cf25f4b4ace9149150e49ac18109.jpg",
+  "preco": 425.93,
+  "precoDe": 583.47,
+  "link": "https://s.click.aliexpress.com/e/_c3iLbBpT",
+  "vendidos": 37,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_placa_mae",
+  "publicadoEm": "2026-11-20T11:31:06.741Z"
+ },
+ {
+  "id": "aliexpress-1005007540043491",
+  "loja": "aliexpress",
+  "titulo": "Kit de Placa-Mãe QIYIDA X99 H9S com CPU Xeon E5 2630 V4 LGA2011-3, Memória DDR4 de 16GB, Interface NVME M.2 TPM 2.0 e SATA3",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc71ac24700fa4f03ae5b2fe0abf8ae02R.jpg",
+  "preco": 303.56,
+  "precoDe": 667.16,
+  "link": "https://s.click.aliexpress.com/e/_c3vFlTLJ",
+  "vendidos": 1202,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-20T11:31:00.103Z"
+ },
+ {
+  "id": "aliexpress-1005004399471741",
+  "loja": "aliexpress",
+  "titulo": "Processador AMD Ryzen 5 2600X R5 2600X 3,6 GHz de seis núcleos e doze threads YD260XBCM6IAF Soquete AM4",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S94ba0173ed724527ab6fe28967d4116aZ.jpg",
+  "preco": 275.77,
+  "precoDe": 362.88,
+  "link": "https://s.click.aliexpress.com/e/_c44jMgZJ",
+  "vendidos": 42,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_processador",
+  "publicadoEm": "2026-11-20T11:30:53.571Z"
+ },
+ {
+  "id": "aliexpress-1005006179512636",
+  "loja": "aliexpress",
+  "titulo": "XFX RX 6600 XT 6600XT RX6600 XT 8GB Placa gráfica AMD GPU Radeon RX6600XT RX6600 XT GDDR6 Placas de vídeo Desktop PC Jogo de computador",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc5c5962756b248b5b1d9f693126f448ab.jpg",
+  "preco": 1827.7,
+  "precoDe": 2811.87,
+  "link": "https://s.click.aliexpress.com/e/_c40e6hHF",
+  "vendidos": 37,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video_rtx",
+  "publicadoEm": "2026-11-20T11:30:47.079Z"
+ },
+ {
   "id": "aliexpress-1005010680109187",
   "loja": "aliexpress",
   "titulo": "GPU AMD SAPPHIRE Radeon ™ Placa de Vídeo para Computador Desktop RX 6600 8G D6 128 Bit Usada para Jogos",
@@ -11374,34 +11430,6 @@
   "publicadoEm": "2026-11-18T08:30:56.112Z"
  },
  {
-  "id": "aliexpress-1005007540043491",
-  "loja": "aliexpress",
-  "titulo": "Kit de Placa-Mãe QIYIDA X99 H9S com CPU Xeon E5 2630 V4 LGA2011-3, Memória DDR4 de 16GB, Interface NVME M.2 TPM 2.0 e SATA3",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc71ac24700fa4f03ae5b2fe0abf8ae02R.jpg",
-  "preco": 320.99,
-  "precoDe": 655.08,
-  "link": "https://s.click.aliexpress.com/e/_c4dSxzCH",
-  "vendidos": 1200,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-18T08:30:48.146Z"
- },
- {
-  "id": "aliexpress-1005004399471741",
-  "loja": "aliexpress",
-  "titulo": "Processador AMD Ryzen 5 2600X R5 2600X 3,6 GHz de seis núcleos e doze threads YD260XBCM6IAF Soquete AM4",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S94ba0173ed724527ab6fe28967d4116aZ.jpg",
-  "preco": 270.79,
-  "precoDe": 356.33,
-  "link": "https://s.click.aliexpress.com/e/_c3ogDYIH",
-  "vendidos": 41,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_processador",
-  "publicadoEm": "2026-11-18T08:30:39.534Z"
- },
- {
   "id": "aliexpress-1005012924765080",
   "loja": "aliexpress",
   "titulo": "KOOTION SSD M2 NVME 256GB 512GB 1TB 2TB Disco Rígido M.2 2280 Gen3 PCIe 3.0X4 Unidade de Estado Sólido Interna para Laptop Desktop MSI X99",
@@ -16684,32 +16712,5 @@
   "categoria": "Informática",
   "fonte": "ali_mouse",
   "publicadoEm": "2026-11-09T12:45:42.494Z"
- },
- {
-  "id": "aliexpress-1005007129017022",
-  "loja": "aliexpress",
-  "titulo": "Console de Jogo Retro Portátil Anbernic RG Cube 64bit Android 13 Unisoc T820 Tela IPS de 3,95 Polegadas Joystick com Efeito de Iluminação RGB",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S91c79bc43e8c40aab19bdc6f73fb8c41V.jpg",
-  "preco": 937.83,
-  "precoDe": 1420.95,
-  "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EGxEbMPIxeliyYKACTtOrvit9b0BCm5fyZPzHhN846eMDCedOZ3u6mNveY4onKplAuIAz25Q41V8PgAMmhsbCknfdgKolTW2p1QGFcL6sVkJpkdu57BJzOUq7tePjshiQJyt0EaFoaYRlUgI0WlvJuf52niFvG7j8DCvuAb58RWTwWbNCeGBpXdMakWzc31AXuVDqU4IdA0Yyms6wXHKGdLV97CbxFiy0SkOrUTdP95fPh4o2TUCyge9W4cXXCGIXYaueTTgbFkfa5Ehpt5GxziaHygQ8j0Zydk0BGq3KRYdDHmlezpnJS0pbwoEA31D8PS9HdxeQ3RLPX6AeBM7F08f3286pYBlofsPyAPSBAiBZuAGxx9nAeNkK0Szz2aYG5wutZdRLtSkEtDWpnPAKfU0C4BlvdUx1cBu7G2NVXx3J7q4STom43X4utO0FHlqVwDOe1uwQ5XJXSSxMPC5hqmwCUebsPSMLxWawGms3kn8tkfEz71bIQ6oEA0Mo1XFvafQYH717qbME0iQx5UHhSX0tPwuxllgG7kmOJDnHrx1vdvBfgvt3MCaljxJQPkfD0xNp1D9JBam6DSovQ4gv1m1wVCE9PKo3qXVKqH7KCSDVIvzYohaGIO55orL4A4j8cqXKKzl48h853Fz4lE15N3pVK6YS6wBPBUc6Ke3dL9rlP8waEHKKIyeqrvYg2W8jriUswu0oCIfA",
-  "vendidos": 140,
-  "nota": 5,
-  "categoria": "Games",
-  "fonte": "ali_retro",
-  "publicadoEm": "2026-11-09T09:15:37.126Z"
- },
- {
-  "id": "aliexpress-1005005714956483",
-  "loja": "aliexpress",
-  "titulo": "Amplificador de Som Bluetooth Fosi Audio BT20A Pro TPA3255 300W X2 Mini HiFi Estéreo Classe D com Controle de Graves e Agudos para Home Theater",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S5684ff4860aa48e8a50ba082551fe6e4V.jpg",
-  "preco": 472.99,
-  "precoDe": 815.5,
-  "link": "https://s.click.aliexpress.com/e/_c45bPeRZ",
-  "vendidos": 741,
-  "nota": 4.8,
-  "fonte": "ali_envio_brasil",
-  "publicadoEm": "2026-11-09T05:45:56.956Z"
  }
 ]
