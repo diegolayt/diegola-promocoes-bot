@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4604524273",
-    "productKey": "1984360a5da56480",
-    "titleHash": "8d32441d6270c143",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-16T04:31:45.432Z"
-  },
-  {
-    "itemId": "MLB4527837545",
-    "productKey": "7e5eeb5fc2da9a55",
-    "titleHash": "6ab4b45d11833727",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-16T04:46:39.189Z"
-  },
-  {
     "itemId": "MLB3417755047",
     "productKey": "268fde5a5ed21950",
     "titleHash": "5806263d0b543f99",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-20T04:16:37.732Z"
+  },
+  {
+    "itemId": "MLB6410318636",
+    "productKey": "6ecd3f12fb736735",
+    "titleHash": "eec10547017c4256",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-20T04:31:38.657Z"
+  },
+  {
+    "itemId": "MLB5501145447",
+    "productKey": "d90185c5813ba0bb",
+    "titleHash": "26e89182c842e1bc",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-20T04:31:38.657Z"
   }
 ]
