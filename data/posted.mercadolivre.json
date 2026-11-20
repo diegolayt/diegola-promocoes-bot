@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5578006340",
-    "productKey": "ce5fe0b01bc783b0",
-    "titleHash": "66462205aa76024a",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-16T11:16:50.084Z"
-  },
-  {
     "itemId": "MLB5064077275",
     "productKey": "188aaec624c0db89",
     "titleHash": "546002c2f3e9a515",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-20T12:46:31.886Z"
+  },
+  {
+    "itemId": "MLB3251982185",
+    "productKey": "6e6b0a0afa3e4adb",
+    "titleHash": "b39d876cbd06ae10",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-20T13:01:44.639Z"
   }
 ]
