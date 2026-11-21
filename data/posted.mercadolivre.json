@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7744792244",
-    "productKey": "820a7bf3129a48cf",
-    "titleHash": "82c17092d0642575",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-17T09:01:42.931Z"
-  },
-  {
-    "itemId": "MLB7953729852",
-    "productKey": "739c2022a55ab99e",
-    "titleHash": "244b2beae8f269ca",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-17T09:01:42.931Z"
-  },
-  {
-    "itemId": "MLB6194501592",
-    "productKey": "743b29089cd31a1b",
-    "titleHash": "fe715e49e4132e41",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-17T09:16:37.538Z"
-  },
-  {
     "itemId": "MLB6847613118",
     "productKey": "6a0f874da4937eb3",
     "titleHash": "994272fd0fa8ee25",
@@ -4798,5 +4774,29 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-21T08:01:47.747Z"
+  },
+  {
+    "itemId": "MLB3853894079",
+    "productKey": "e9dfb607a4680c9c",
+    "titleHash": "404369dcec53deb4",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-21T08:31:43.720Z"
+  },
+  {
+    "itemId": "MLB4554029271",
+    "productKey": "7665a9d6da616707",
+    "titleHash": "df6de7a9d2086862",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-21T08:31:43.721Z"
+  },
+  {
+    "itemId": "MLB7460059318",
+    "productKey": "0483a914dabef6b5",
+    "titleHash": "56745c96f96954f0",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-21T08:31:43.721Z"
   }
 ]
