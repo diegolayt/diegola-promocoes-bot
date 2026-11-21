@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7995055638",
-    "productKey": "2fb98f3c2112b40f",
-    "titleHash": "20691de5025a76ef",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-17T03:46:34.524Z"
-  },
-  {
     "itemId": "MLB4543450707",
     "productKey": "bc8f50fe5cc29a3a",
     "titleHash": "509f18b6468768ce",
@@ -4798,5 +4790,13 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-21T01:46:45.052Z"
+  },
+  {
+    "itemId": "MLB3892846303",
+    "productKey": "ab95e285844c979e",
+    "titleHash": "1da1223a6945e333",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-21T02:01:51.053Z"
   }
 ]
