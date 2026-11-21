@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5547077271",
-    "productKey": "bc04daa8ab567d61",
-    "titleHash": "f8bb3ea79829b117",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-17T18:01:47.551Z"
-  },
-  {
     "itemId": "MLB7266611472",
     "productKey": "b567dc83f55f3e77",
     "titleHash": "bc3b09f1927a398e",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-21T16:16:42.151Z"
+  },
+  {
+    "itemId": "MLB6760540270",
+    "productKey": "ccf10332f6ff9f47",
+    "titleHash": "ca0637666e591ad4",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-21T16:31:44.580Z"
   }
 ]
