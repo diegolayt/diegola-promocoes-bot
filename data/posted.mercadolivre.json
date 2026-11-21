@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7618823038",
-    "productKey": "7c5b29917a5a4f0d",
-    "titleHash": "4df93f7a820e0b0f",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-17T13:01:55.618Z"
-  },
-  {
     "itemId": "MLB7656600442",
     "productKey": "669f68fe551672b5",
     "titleHash": "7f2f4a5a7854a3b6",
@@ -4798,5 +4790,13 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-21T11:16:35.527Z"
+  },
+  {
+    "itemId": "MLB5573116079",
+    "productKey": "c68a6a6ba05413cc",
+    "titleHash": "cda2c56a5a2de598",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-21T11:46:42.078Z"
   }
 ]
