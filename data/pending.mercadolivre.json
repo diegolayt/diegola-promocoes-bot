@@ -1,0 +1,293 @@
+{
+  "items": [
+    {
+      "item_id": "MLB6182336356",
+      "site_id": "MLB",
+      "seller_id": 795325396,
+      "accepts_mercadopago": true,
+      "price": 67,
+      "category_id": "MLB189908",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 295922,
+      "original_price": 154.67,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSW5kYWlhdHViYVRVeENVRk5CVDA4NU4yR",
+          "name": "Indaiatuba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ29tZXJjaWFsIFZpdG9yaWEgTWFydGlua",
+          "name": "Comercial Vitoria Martini"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        }
+      ],
+      "user_product_id": "MLBU1480414998",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB63957433",
+      "title": "Fita De Led Branco Neutro 4000k 10 Metros Direta 240led/m Luz Branco-neutro",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_692792-MLA117005495392_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB63957433",
+      "id": "MLB6182336356",
+      "sold_quantity": 500,
+      "rotationCategory": "iluminação",
+      "sourceCategoryId": "MLB1582",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB7586569004",
+      "site_id": "MLB",
+      "seller_id": 147072750,
+      "accepts_mercadopago": true,
+      "price": 44.9,
+      "category_id": "MLB189949",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 258682,
+      "original_price": 91.8,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_out",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQmF1cnVUVXhDVUZOQlQwODVOMkU0",
+          "name": "Bauru"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3775290724",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78187463",
+      "title": "Cascata Meteoro 50cm 8 Tubos Led 3 Metros Bastão Chuva IP65 Decoração Natal Festas Bivolt Cor Branco Frio LuvinCo",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_692685-MLA116658868139_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78187463",
+      "id": "MLB7586569004",
+      "sold_quantity": 1400,
+      "rotationCategory": "natal",
+      "sourceCategoryId": "MLB117798",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB4811259715",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 36.53,
+      "category_id": "MLB437616",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "first_party",
+        "has_published_clips",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 123448,
+      "original_price": 59.9,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU4153774414",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB74135784",
+      "title": "Eu duvido você terminar este livro - Mafra, Giuliana - Editora Planeta - Capa Mole",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_716741-MLA113066519028_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB74135784",
+      "id": "MLB4811259715",
+      "sold_quantity": 2000,
+      "rotationCategory": "livros",
+      "sourceCategoryId": "MLB437616",
+      "minPrice": 25
+    },
+    {
+      "item_id": "MLB8012086230",
+      "site_id": "MLB",
+      "seller_id": 165982080,
+      "accepts_mercadopago": true,
+      "price": 77.99,
+      "category_id": "MLB1965",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 120,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNFTjUwNzE",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5899719401",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB67578878",
+      "title": "Kit Com 48 Pacotes de Figurinhas Panini Para o Álbum Copa do Mundo FIFA 2026",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_979288-MLA109171693698_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB67578878",
+      "id": "MLB8012086230",
+      "sold_quantity": 1800,
+      "rotationCategory": "brinquedos",
+      "sourceCategoryId": "MLB1132",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-21T14:46:24.863Z"
+}
