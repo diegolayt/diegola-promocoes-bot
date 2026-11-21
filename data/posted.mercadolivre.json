@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3797364569",
-    "productKey": "96983e4185e3eef7",
-    "titleHash": "f469ce3c49a26e01",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-17T22:16:40.747Z"
-  },
-  {
-    "itemId": "MLB4875367973",
-    "productKey": "8787a8725f82c581",
-    "titleHash": "da257b538969c80c",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-17T22:16:40.747Z"
-  },
-  {
     "itemId": "MLB7911512448",
     "productKey": "630abd9b007307fe",
     "titleHash": "77f4d7c3280dfb52",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-21T20:31:47.397Z"
+  },
+  {
+    "itemId": "MLB5046978251",
+    "productKey": "bc04daa8ab567d61",
+    "titleHash": "f8bb3ea79829b117",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-11-21T20:46:40.030Z"
+  },
+  {
+    "itemId": "MLB7625574692",
+    "productKey": "d4f1c2d7935fb51a",
+    "titleHash": "c43f9a10d7dcc8fa",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-21T20:46:40.030Z"
   }
 ]
