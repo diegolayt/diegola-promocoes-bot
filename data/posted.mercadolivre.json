@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4755555056",
-    "productKey": "f170975c8b48cfc2",
-    "titleHash": "acc952b54c0303a3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-17T03:01:40.831Z"
-  },
-  {
-    "itemId": "MLB5552222555",
-    "productKey": "e82ab2f7ddcf4eb2",
-    "titleHash": "4728ab6a38228943",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-17T03:01:40.831Z"
-  },
-  {
-    "itemId": "MLB5264201738",
-    "productKey": "b72f2eddb0b93c92",
-    "titleHash": "bc2a8d2d741f15b1",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-17T03:16:34.833Z"
-  },
-  {
     "itemId": "MLB7813039900",
     "productKey": "562fda59951fa113",
     "titleHash": "04375a2fedb2f938",
@@ -4798,5 +4774,29 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-21T01:16:34.226Z"
+  },
+  {
+    "itemId": "MLB7512552478",
+    "productKey": "3ae67792fdb583fa",
+    "titleHash": "25054d9ac727dd22",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-21T01:31:47.493Z"
+  },
+  {
+    "itemId": "MLB4278550700",
+    "productKey": "484a03825ae17ef1",
+    "titleHash": "fe796f34ef3590ff",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-21T01:31:47.493Z"
+  },
+  {
+    "itemId": "MLB7389935834",
+    "productKey": "9df63c5c74f0032b",
+    "titleHash": "92bd599ba4cf03b1",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-21T01:31:47.493Z"
   }
 ]
