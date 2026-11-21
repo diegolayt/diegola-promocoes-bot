@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7921551156",
-    "productKey": "d4255e0a63e61dfb",
-    "titleHash": "7595d754ee6983fc",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-17T07:16:39.622Z"
-  },
-  {
     "itemId": "MLB5383758300",
     "productKey": "07f1520aa80ab712",
     "titleHash": "bc8ac8efca670c74",
@@ -4798,5 +4790,13 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-21T05:46:44.055Z"
+  },
+  {
+    "itemId": "MLB5589297331",
+    "productKey": "0c50fbe1ab1492a5",
+    "titleHash": "08c42f6b7de828d4",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-21T06:01:45.998Z"
   }
 ]
