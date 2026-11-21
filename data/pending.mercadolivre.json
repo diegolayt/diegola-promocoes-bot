@@ -1,0 +1,163 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4020354625",
+      "site_id": "MLB",
+      "seller_id": 533180837,
+      "accepts_mercadopago": true,
+      "price": 489,
+      "category_id": "MLB9188",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2114,
+      "original_price": 1099.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "optional_me2_chosen"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYRW1idSBkYXMgQXJ0ZXNUVXhDVUZOQlQwO",
+          "name": "Embu das Artes"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYSmFyZGltIFZpc3RhIEFsZWdyZVRWaFlSV",
+          "name": "Jardim Vista Alegre"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2982266190",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB17003265",
+      "title": "Cafeteira Nescafé Dolce Gusto Genio S Plus Vermelha 110v",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_878845-MLA116859439613_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB17003265",
+      "id": "MLB4020354625",
+      "sold_quantity": 1900,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB9188",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB5264201738",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 479,
+      "category_id": "MLB11507",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "dynamic_standard_price",
+        "extended_warranty_eligible",
+        "first_party",
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 799,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU2916360154",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB37927083",
+      "title": "Caixa de Som Philco Extreme 380W Flash Lights PCX4800",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_954643-MLA96761509429_102025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB37927083",
+      "id": "MLB5264201738",
+      "sold_quantity": 300,
+      "rotationCategory": "áudio",
+      "sourceCategoryId": "MLB3843",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-21T02:31:47.917Z"
+}

@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5375717440",
-    "productKey": "ae34181addc536bd",
-    "titleHash": "4577b3c951b4ba2a",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-17T04:16:41.790Z"
-  },
-  {
-    "itemId": "MLB6676755756",
-    "productKey": "9132e4c8f8f9ea53",
-    "titleHash": "798e6332f7c74764",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-17T04:16:41.790Z"
-  },
-  {
     "itemId": "MLB5344190550",
     "productKey": "c2379be6a1181cbb",
     "titleHash": "0b1e7d2c4b9152ac",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-21T02:16:30.713Z"
+  },
+  {
+    "itemId": "MLB4020354625",
+    "productKey": "f4e61667d8f9e19c",
+    "titleHash": "871ef94827f4ca78",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-21T02:31:47.914Z"
+  },
+  {
+    "itemId": "MLB5264201738",
+    "productKey": "b72f2eddb0b93c92",
+    "titleHash": "bc2a8d2d741f15b1",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-21T02:31:47.915Z"
   }
 ]
