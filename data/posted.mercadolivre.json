@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6847613118",
-    "productKey": "6a0f874da4937eb3",
-    "titleHash": "994272fd0fa8ee25",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-17T09:16:37.539Z"
-  },
-  {
-    "itemId": "MLB5487867163",
-    "productKey": "bc05e3f7f280662b",
-    "titleHash": "e28019822bdbf1c0",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-17T09:16:37.539Z"
-  },
-  {
-    "itemId": "MLB5138994919",
-    "productKey": "15c7db5eb9334078",
-    "titleHash": "4c5d40e68166a654",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-17T09:31:41.394Z"
-  },
-  {
     "itemId": "MLB4274565581",
     "productKey": "c4e6acaed28a56ed",
     "titleHash": "a8d7d85f80b82e40",
@@ -4798,5 +4774,29 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-21T08:31:43.721Z"
+  },
+  {
+    "itemId": "MLB4576693657",
+    "productKey": "ebfca99113baae99",
+    "titleHash": "af8ecbf6a7506bdc",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-21T08:46:32.700Z"
+  },
+  {
+    "itemId": "MLB4586947077",
+    "productKey": "820a7bf3129a48cf",
+    "titleHash": "82c17092d0642575",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-21T08:46:32.701Z"
+  },
+  {
+    "itemId": "MLB5579954621",
+    "productKey": "739c2022a55ab99e",
+    "titleHash": "244b2beae8f269ca",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-21T08:46:32.701Z"
   }
 ]
