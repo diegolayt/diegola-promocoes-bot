@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB8005441250",
-    "productKey": "142385f66dcdd104",
-    "titleHash": "4d563e7f677f169d",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-17T14:31:36.994Z"
-  },
-  {
-    "itemId": "MLB6182336356",
-    "productKey": "e772e6fb3830f752",
-    "titleHash": "796851ab66948329",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-17T14:46:33.892Z"
-  },
-  {
     "itemId": "MLB7606575730",
     "productKey": "7ae62e631b538a5f",
     "titleHash": "f50155dd95bff7b2",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-21T12:16:41.290Z"
+  },
+  {
+    "itemId": "MLB4106194351",
+    "productKey": "35614e530157f7fe",
+    "titleHash": "308ca2a85e1b8a8a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-21T12:31:48.464Z"
+  },
+  {
+    "itemId": "MLB7618823038",
+    "productKey": "7c5b29917a5a4f0d",
+    "titleHash": "4df93f7a820e0b0f",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-21T12:31:48.464Z"
   }
 ]
