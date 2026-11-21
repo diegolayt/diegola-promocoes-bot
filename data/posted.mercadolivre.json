@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB8011326594",
-    "productKey": "d76bba99e09b3844",
-    "titleHash": "321d8c2ae24df17a",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-17T23:31:45.196Z"
-  },
-  {
-    "itemId": "MLB5144524471",
-    "productKey": "c356c59be11ac235",
-    "titleHash": "4c99e959114099bb",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-17T23:46:39.106Z"
-  },
-  {
     "itemId": "MLB4755939250",
     "productKey": "5b2c7ec3dd086606",
     "titleHash": "09c567975070e98f",
@@ -4798,5 +4782,21 @@
     "category": "console",
     "sourceCategoryId": "MLB11172",
     "reservedAt": "2026-11-21T21:46:29.736Z"
+  },
+  {
+    "itemId": "MLB3797364569",
+    "productKey": "96983e4185e3eef7",
+    "titleHash": "f469ce3c49a26e01",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-21T22:01:41.502Z"
+  },
+  {
+    "itemId": "MLB7966559392",
+    "productKey": "97019a1e6c0edd66",
+    "titleHash": "cf6d29cd0b7d3165",
+    "category": "masculino",
+    "sourceCategoryId": "MLB23332",
+    "reservedAt": "2026-11-21T22:01:41.502Z"
   }
 ]

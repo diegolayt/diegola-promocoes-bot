@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3797364569",
+      "site_id": "MLB",
+      "seller_id": 1150153724,
+      "accepts_mercadopago": true,
+      "price": 479.99,
+      "category_id": "MLB107564",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 1099.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTk0MDc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQkJFTDg3NjE",
+          "name": "Bela Vista"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU1477594704",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB32717965",
+      "title": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_911575-MLA115299730288_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB32717965",
+      "id": "MLB3797364569",
+      "sold_quantity": 1700,
+      "rotationCategory": "casa",
+      "sourceCategoryId": "MLB107564",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7966559392",
+      "site_id": "MLB",
+      "seller_id": 3403539152,
+      "accepts_mercadopago": true,
+      "price": 550.99,
+      "category_id": "MLB23332",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 60386,
+      "original_price": 579.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYVmFzc291cmFzVFV4Q1VGSkpUMDh4T0RNN",
+          "name": "Vassouras"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2VudHJvVFZoWVZtRnpjMjkxY21GelZGV",
+          "name": "Centro"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU5628869444",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB18605733",
+      "title": "Vans UltraRange Rapidweld Adultos",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_664503-MLU79261871661_092024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB18605733",
+      "id": "MLB7966559392",
+      "sold_quantity": 100,
+      "rotationCategory": "masculino",
+      "sourceCategoryId": "MLB23332",
+      "minPrice": 40
+    }
+  ],
+  "reservedAt": "2026-11-21T22:01:41.504Z"
+}
