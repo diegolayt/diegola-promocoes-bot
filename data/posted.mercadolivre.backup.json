@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4279422349",
-    "productKey": "e8b365816ac55e07",
-    "titleHash": "2c5eaacb23e2dcb7",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-17T17:46:30.513Z"
-  },
-  {
-    "itemId": "MLB7640119536",
-    "productKey": "40821c73f39974e2",
-    "titleHash": "400d008b3de62193",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-17T17:46:30.513Z"
-  },
-  {
-    "itemId": "MLB4339391795",
-    "productKey": "034c0311c27c11c2",
-    "titleHash": "8d8e5852a15971ed",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-17T17:46:30.513Z"
-  },
-  {
-    "itemId": "MLB5139760715",
-    "productKey": "c6ffc2bdedffd41c",
-    "titleHash": "7660bd2cc9a981c5",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-17T17:46:30.513Z"
-  },
-  {
     "itemId": "MLB5547077271",
     "productKey": "bc04daa8ab567d61",
     "titleHash": "f8bb3ea79829b117",
@@ -4798,5 +4766,37 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-21T16:01:52.336Z"
+  },
+  {
+    "itemId": "MLB4925669305",
+    "productKey": "5bb08fbcedadf8ea",
+    "titleHash": "6f941d1098f301c6",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-21T16:16:42.151Z"
+  },
+  {
+    "itemId": "MLB5286538026",
+    "productKey": "7f3c1b8cd4190ea0",
+    "titleHash": "149aa2f27cc0d56b",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-21T16:16:42.151Z"
+  },
+  {
+    "itemId": "MLB3463647427",
+    "productKey": "55165ae4e873b412",
+    "titleHash": "e06ec53a634432a7",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-21T16:16:42.151Z"
+  },
+  {
+    "itemId": "MLB2820196075",
+    "productKey": "9be23f720e3d6d4f",
+    "titleHash": "b4d7c6e7b7ef601d",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-21T16:16:42.151Z"
   }
 ]
