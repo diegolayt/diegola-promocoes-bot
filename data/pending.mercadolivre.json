@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "item_id": "MLB8022276218",
+      "site_id": "MLB",
+      "seller_id": 264753643,
+      "accepts_mercadopago": true,
+      "price": 449.7,
+      "category_id": "MLB186456",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 185684,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1JKLTU4MDI",
+          "name": "Rio de Janeiro"
+        },
+        "state": {
+          "id": "TUxCUFJJT08xODM5Zg",
+          "name": "Rio de Janeiro"
+        },
+        "neighborhood": {
+          "id": "TUxCQkpBUjcwOTU2NA",
+          "name": "Jardim Sulacap"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5978492512",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB82276953",
+      "title": "The Legend Of Zelda: Ocarina Of Time - Edição padrão",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_985597-MLA121380176723_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB82276953",
+      "id": "MLB8022276218",
+      "sold_quantity": 1500,
+      "rotationCategory": "jogos",
+      "sourceCategoryId": "MLB186456",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB7952252088",
+      "site_id": "MLB",
+      "seller_id": 400036942,
+      "accepts_mercadopago": true,
+      "price": 5500,
+      "category_id": "MLB11172",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTkxMjE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQlZJTDIxNTg",
+          "name": "Vila Mariana"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU5833492736",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB35925111",
+      "title": "PlayStation 5 Edição Digital 825 GB Slim Novo Lacrado",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_624792-MLU75859080805_042024-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB35925111",
+      "id": "MLB7952252088",
+      "sold_quantity": 1800,
+      "rotationCategory": "console",
+      "sourceCategoryId": "MLB11172",
+      "minPrice": 300
+    }
+  ],
+  "reservedAt": "2026-11-21T15:46:42.805Z"
+}

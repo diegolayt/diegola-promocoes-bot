@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6511064980",
-    "productKey": "e60e8b3a8b9faa13",
-    "titleHash": "869d36e890ccdc6b",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-17T16:16:38.154Z"
-  },
-  {
-    "itemId": "MLB4925669305",
-    "productKey": "5bb08fbcedadf8ea",
-    "titleHash": "6f941d1098f301c6",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-17T16:31:39.624Z"
-  },
-  {
     "itemId": "MLB4812130742",
     "productKey": "1fbb97017cc6e7ce",
     "titleHash": "aac3ed7848ee3cfe",
@@ -4798,5 +4782,21 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-21T15:31:46.671Z"
+  },
+  {
+    "itemId": "MLB8022276218",
+    "productKey": "918a1fdb9042d7ef",
+    "titleHash": "331e94f6bfc4aa33",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-21T15:46:42.802Z"
+  },
+  {
+    "itemId": "MLB7952252088",
+    "productKey": "78e15032506bdded",
+    "titleHash": "123f021418727ed0",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-21T15:46:42.802Z"
   }
 ]
