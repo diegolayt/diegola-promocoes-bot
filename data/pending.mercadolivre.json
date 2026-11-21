@@ -1,0 +1,249 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4835180937",
+      "site_id": "MLB",
+      "seller_id": 1859317514,
+      "accepts_mercadopago": true,
+      "price": 114.9,
+      "category_id": "MLB6284",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 15 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "forced_business_price_per_quantity",
+        "has_published_clips",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 83082,
+      "original_price": 210,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0VYVDdjZTBi",
+          "name": "Extrema"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 15,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "15 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4016038399",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB74085271",
+      "title": "Kit 3 Body Splash Masculino Vibration + Blunn + Infalível Fero By Primacial Body Man",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_891665-MLA117257985142_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB74085271",
+      "id": "MLB4835180937",
+      "sold_quantity": 400,
+      "rotationCategory": "perfume",
+      "sourceCategoryId": "MLB6284",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5084785712",
+      "site_id": "MLB",
+      "seller_id": 116155669,
+      "accepts_mercadopago": true,
+      "price": 219.99,
+      "category_id": "MLB189007",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 180 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "kvs_primary",
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "forced_business_price_per_quantity",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2160,
+      "original_price": 345.41,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTIzNTE",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk7aQzB3MjVl",
+          "name": "Núcleo do Engordador"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": {
+            "number": 180,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "180 dias",
+          "value_id": null
+        },
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        }
+      ],
+      "user_product_id": "MLBU1980772961",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB41168545",
+      "title": "Furadeira De Impacto 13mm 750w Profissional Com Kit Brocas Buchas E Bits 300 Peças The Black Tools",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_630406-MLA99939153905_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB41168545",
+      "id": "MLB5084785712",
+      "sold_quantity": 800,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB5007579259",
+      "site_id": "MLB",
+      "seller_id": 230813033,
+      "accepts_mercadopago": true,
+      "price": 105,
+      "category_id": "MLB1714",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 3 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYUGlyYWp1VFV4Q1VGTkJUMDg1TjJFNA",
+          "name": "Piraju"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "3 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4598874351",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB23024888",
+      "title": "Mouse Sem Fio Logitech M310 Preto Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_951127-MLA99558338198_122025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB23024888",
+      "id": "MLB5007579259",
+      "sold_quantity": 600,
+      "rotationCategory": "periférico",
+      "sourceCategoryId": "MLB1714",
+      "minPrice": 50
+    }
+  ],
+  "reservedAt": "2026-11-21T15:31:46.672Z"
+}

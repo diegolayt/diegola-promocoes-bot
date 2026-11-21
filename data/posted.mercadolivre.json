@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5063108807",
-    "productKey": "2434a2436a5e230f",
-    "titleHash": "77dd28c1919fe2ff",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-17T16:01:42.655Z"
-  },
-  {
-    "itemId": "MLB4856710463",
-    "productKey": "4b5d7211d804f914",
-    "titleHash": "e85ef4a734ec8242",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-17T16:16:38.154Z"
-  },
-  {
-    "itemId": "MLB3771505959",
-    "productKey": "3e24012756b6950c",
-    "titleHash": "fd06cf3b916fc566",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-17T16:16:38.154Z"
-  },
-  {
     "itemId": "MLB6511064980",
     "productKey": "e60e8b3a8b9faa13",
     "titleHash": "869d36e890ccdc6b",
@@ -4798,5 +4774,29 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-21T15:16:38.063Z"
+  },
+  {
+    "itemId": "MLB4835180937",
+    "productKey": "abf8d06c6cfb1b90",
+    "titleHash": "96e7f5a9a79b44c8",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-21T15:31:46.670Z"
+  },
+  {
+    "itemId": "MLB5084785712",
+    "productKey": "dc82d11f8b29eade",
+    "titleHash": "3532c31d92333d51",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-21T15:31:46.671Z"
+  },
+  {
+    "itemId": "MLB5007579259",
+    "productKey": "b5cbd04220fcf0a0",
+    "titleHash": "be0511f838779454",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-21T15:31:46.671Z"
   }
 ]
