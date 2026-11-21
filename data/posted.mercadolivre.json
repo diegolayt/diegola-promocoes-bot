@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5344190550",
-    "productKey": "c2379be6a1181cbb",
-    "titleHash": "0b1e7d2c4b9152ac",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-11-17T04:31:42.175Z"
-  },
-  {
     "itemId": "MLB3393222713",
     "productKey": "d3c8122c66a236de",
     "titleHash": "71ae82c4e85b0492",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-21T02:31:47.915Z"
+  },
+  {
+    "itemId": "MLB4755555056",
+    "productKey": "f170975c8b48cfc2",
+    "titleHash": "acc952b54c0303a3",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-21T02:46:36.794Z"
   }
 ]
