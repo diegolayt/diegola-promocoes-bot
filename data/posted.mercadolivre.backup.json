@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4275712681",
-    "productKey": "f1677aafac120841",
-    "titleHash": "1fa83cf79fa53ee5",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-17T04:46:35.900Z"
-  },
-  {
     "itemId": "MLB7866893230",
     "productKey": "eff4ebbdec2c8425",
     "titleHash": "ed957b2ce03ff7f5",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-21T03:01:48.795Z"
+  },
+  {
+    "itemId": "MLB4324797875",
+    "productKey": "0a5cc4226c46bc09",
+    "titleHash": "03b0c5869530dd67",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-21T03:16:41.885Z"
   }
 ]
