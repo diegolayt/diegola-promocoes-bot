@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4595279704",
-    "productKey": "c9b5c82a0a206f5a",
-    "titleHash": "26b5424896b8e331",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-17T05:16:32.682Z"
-  },
-  {
     "itemId": "MLB7738915264",
     "productKey": "578087a6350e382a",
     "titleHash": "4e478014ed8af7a9",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-21T03:31:41.292Z"
+  },
+  {
+    "itemId": "MLB4513056610",
+    "productKey": "a6c9a899dbe6cf71",
+    "titleHash": "6733c606fc453816",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-21T04:01:44.921Z"
   }
 ]
