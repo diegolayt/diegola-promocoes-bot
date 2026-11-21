@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6611494338",
-    "productKey": "22c1ab81d170e902",
-    "titleHash": "59b69a48e3f7ae93",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-18T01:01:41.071Z"
-  },
-  {
-    "itemId": "MLB7978659544",
-    "productKey": "bfd6728ad1b171f9",
-    "titleHash": "181b50122314a076",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-18T01:01:41.071Z"
-  },
-  {
     "itemId": "MLB4320374081",
     "productKey": "bd7e186faebad4c2",
     "titleHash": "4f66bd4101d296ee",
@@ -4798,5 +4782,21 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-11-21T23:31:43.392Z"
+  },
+  {
+    "itemId": "MLB4208012055",
+    "productKey": "a6ddc6408e6a83c4",
+    "titleHash": "bde09e6268564097",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-21T23:46:38.649Z"
+  },
+  {
+    "itemId": "MLB7253496932",
+    "productKey": "8966f7090ac1116d",
+    "titleHash": "0257198e68c33f08",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-21T23:46:38.649Z"
   }
 ]
