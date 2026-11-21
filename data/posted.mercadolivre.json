@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5547087963",
-    "productKey": "e7466642d6b5d025",
-    "titleHash": "325029870601ba85",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-17T08:16:33.436Z"
-  },
-  {
     "itemId": "MLB5378229206",
     "productKey": "d9ef4a29fdbb1a3a",
     "titleHash": "c8f8c2711b445e40",
@@ -4798,5 +4790,13 @@
     "category": "lavadora",
     "sourceCategoryId": "MLB438282",
     "reservedAt": "2026-11-21T07:01:48.149Z"
+  },
+  {
+    "itemId": "MLB4712531609",
+    "productKey": "bf7e00fa51c47b92",
+    "titleHash": "2b36c4d2d2387bd1",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-21T07:16:40.159Z"
   }
 ]
