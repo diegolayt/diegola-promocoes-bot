@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7813039900",
-    "productKey": "562fda59951fa113",
-    "titleHash": "04375a2fedb2f938",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-17T03:16:34.833Z"
-  },
-  {
-    "itemId": "MLB4080089661",
-    "productKey": "2e3f4ccf8d0a47fe",
-    "titleHash": "90b2562924cee160",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-17T03:16:34.834Z"
-  },
-  {
-    "itemId": "MLB4324797875",
-    "productKey": "0a5cc4226c46bc09",
-    "titleHash": "03b0c5869530dd67",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-17T03:31:49.491Z"
-  },
-  {
     "itemId": "MLB7995055638",
     "productKey": "2fb98f3c2112b40f",
     "titleHash": "20691de5025a76ef",
@@ -4798,5 +4774,29 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-21T01:31:47.493Z"
+  },
+  {
+    "itemId": "MLB6556469456",
+    "productKey": "613bf0c5cb5cbee9",
+    "titleHash": "ff44a097255df998",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-21T01:46:45.052Z"
+  },
+  {
+    "itemId": "MLB5097723592",
+    "productKey": "0314016684b00af3",
+    "titleHash": "f150802ac716f3c0",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-21T01:46:45.052Z"
+  },
+  {
+    "itemId": "MLB5482406881",
+    "productKey": "9b61d7948d2ea31f",
+    "titleHash": "1dabb65e3b48032c",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-21T01:46:45.052Z"
   }
 ]
