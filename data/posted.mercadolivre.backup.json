@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7390928972",
-    "productKey": "7665a9d6da616707",
-    "titleHash": "df6de7a9d2086862",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-17T09:01:42.930Z"
-  },
-  {
     "itemId": "MLB7744792244",
     "productKey": "820a7bf3129a48cf",
     "titleHash": "82c17092d0642575",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-21T07:46:38.711Z"
+  },
+  {
+    "itemId": "MLB5477402258",
+    "productKey": "aea2de8a7c5c3d52",
+    "titleHash": "fd8a49ba38884f61",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-21T08:01:47.747Z"
   }
 ]
