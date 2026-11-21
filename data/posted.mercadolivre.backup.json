@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4755939250",
-    "productKey": "5b2c7ec3dd086606",
-    "titleHash": "09c567975070e98f",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-18T00:01:49.703Z"
-  },
-  {
-    "itemId": "MLB4018321871",
-    "productKey": "4e02753a0d159be6",
-    "titleHash": "30a9c6bb85a83841",
-    "category": "móveis",
-    "sourceCategoryId": "MLB436380",
-    "reservedAt": "2026-11-18T00:01:49.703Z"
-  },
-  {
     "itemId": "MLB7253496932",
     "productKey": "8966f7090ac1116d",
     "titleHash": "0257198e68c33f08",
@@ -4798,5 +4782,21 @@
     "category": "masculino",
     "sourceCategoryId": "MLB23332",
     "reservedAt": "2026-11-21T22:01:41.502Z"
+  },
+  {
+    "itemId": "MLB7911512448",
+    "productKey": "630abd9b007307fe",
+    "titleHash": "77f4d7c3280dfb52",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-21T22:16:46.440Z"
+  },
+  {
+    "itemId": "MLB5086087047",
+    "productKey": "1984953db221eb12",
+    "titleHash": "0fc65dd07a9749c7",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-21T22:16:46.441Z"
   }
 ]
