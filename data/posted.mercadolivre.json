@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7738915264",
-    "productKey": "578087a6350e382a",
-    "titleHash": "4e478014ed8af7a9",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-17T05:16:32.682Z"
-  },
-  {
-    "itemId": "MLB4514233797",
-    "productKey": "b80aa50f4c572f73",
-    "titleHash": "554791d76d1ac8c8",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-17T05:31:52.774Z"
-  },
-  {
     "itemId": "MLB7761066032",
     "productKey": "b1d10ff79ce494e3",
     "titleHash": "04de2d517dc85eb3",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-21T04:01:44.921Z"
+  },
+  {
+    "itemId": "MLB3905865811",
+    "productKey": "8ae06c9e3529616e",
+    "titleHash": "b4b28d593935fb86",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-21T04:16:42.536Z"
+  },
+  {
+    "itemId": "MLB5344190550",
+    "productKey": "c2379be6a1181cbb",
+    "titleHash": "0b1e7d2c4b9152ac",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-21T04:16:42.536Z"
   }
 ]
