@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005012913650502",
+  "loja": "aliexpress",
+  "titulo": "Placa de Vídeo Veineda RX5600XT 6G para Jogos de PC, 6GB 192Bit GDDR6 PCI-E 4.0×8 GPU Radeon RX5600 6GB",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S6cb8bfb2bac04ec9982fd0d4c7c70c05l.jpg",
+  "preco": 1455.51,
+  "precoDe": 1819.39,
+  "link": "https://s.click.aliexpress.com/e/_c4Lw4K6D",
+  "vendidos": 42,
+  "nota": 4.8,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video_rtx",
+  "publicadoEm": "2026-11-21T19:45:54.878Z"
+ },
+ {
+  "id": "aliexpress-1005012021235773",
+  "loja": "aliexpress",
+  "titulo": "Placa de Vídeo JIESHUO GTX 1660 Super 6GB GDDR6 128 Bits PCIe 4.0 x8 8 Pinos para PC Gamer",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc946fad51bd24bd48358db4434c0d32bS.jpg",
+  "preco": 1207.68,
+  "precoDe": 1776,
+  "link": "https://s.click.aliexpress.com/e/_c3fv5veN",
+  "vendidos": 76,
+  "nota": 4.6,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video_rtx",
+  "publicadoEm": "2026-11-21T19:45:48.203Z"
+ },
+ {
+  "id": "aliexpress-1005011936580225",
+  "loja": "aliexpress",
+  "titulo": "Memória RAM DDR4 SODIMM para Laptop 4GB 8GB 16GB 32GB 2133MHz 2666MHz 2400MHz 3200MHz PC4 1.2V 260 pinos Non-ECC",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se852559d811f4744a85df972e8ef8fe2f.jpg",
+  "preco": 189.59,
+  "precoDe": 210.66,
+  "link": "https://s.click.aliexpress.com/e/_c3xYvR4p",
+  "vendidos": 63,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ram_notebook",
+  "publicadoEm": "2026-11-21T19:45:38.651Z"
+ },
+ {
+  "id": "aliexpress-1005005745436996",
+  "loja": "aliexpress",
+  "titulo": "Kllisre Memória DDR4 8GB 16GB Memória 2666MHz 3200MHz Desktop Dimm RAM compatível alta",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S3e39700a85a64d21a7b9dc6c69c464f7K.jpg",
+  "preco": 369.99,
+  "precoDe": 739.98,
+  "link": "https://s.click.aliexpress.com/e/_c3tFHwzX",
+  "vendidos": 2118,
+  "nota": 4.7,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-11-21T19:45:31.523Z"
+ },
+ {
   "id": "aliexpress-1005005184352577",
   "loja": "aliexpress",
   "titulo": "Placa de Vídeo Veineda RX5500XT 8G Placa de Vídeo para Jogos de PC 8GB 128Bit GDDR6 PCI-E 4.0×8 GPU Radeon rx5500 8gb Placa de Vídeo para Jogos",
@@ -11276,34 +11332,6 @@
   "publicadoEm": "2026-11-19T17:01:09.114Z"
  },
  {
-  "id": "aliexpress-1005012913650502",
-  "loja": "aliexpress",
-  "titulo": "Placa de Vídeo Veineda RX5600XT 6G para Jogos de PC, 6GB 192Bit GDDR6 PCI-E 4.0×8 GPU Radeon RX5600 6GB",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S6cb8bfb2bac04ec9982fd0d4c7c70c05l.jpg",
-  "preco": 1446.72,
-  "precoDe": 1808.4,
-  "link": "https://s.click.aliexpress.com/e/_c42fdrat",
-  "vendidos": 42,
-  "nota": 4.8,
-  "categoria": "Informática",
-  "fonte": "ali_placa_video_rtx",
-  "publicadoEm": "2026-11-19T17:01:01.491Z"
- },
- {
-  "id": "aliexpress-1005011936580225",
-  "loja": "aliexpress",
-  "titulo": "Memória RAM DDR4 SODIMM para Laptop 4GB 8GB 16GB 32GB 2133MHz 2666MHz 2400MHz 3200MHz PC4 1.2V 260 pinos Non-ECC",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se852559d811f4744a85df972e8ef8fe2f.jpg",
-  "preco": 188.59,
-  "precoDe": 209.54,
-  "link": "https://s.click.aliexpress.com/e/_c3SqgZsV",
-  "vendidos": 64,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-11-19T16:45:53.200Z"
- },
- {
   "id": "aliexpress-1005013410859218",
   "loja": "aliexpress",
   "titulo": "Placa-mãe MACHINIST X99, processador Xeon E5 2673 V3, soquete LGA 2011-3, memória RAM DDR3 de 16 GB, compatível com TPM2.0, iluminação ARGB, chip C612, slots DDR4/DDR3, X99M D3/D4.",
@@ -13010,20 +13038,6 @@
   "categoria": "Informática",
   "fonte": "ali_cooler",
   "publicadoEm": "2026-11-17T23:30:42.308Z"
- },
- {
-  "id": "aliexpress-1005005745436996",
-  "loja": "aliexpress",
-  "titulo": "Kllisre Memória DDR4 8GB 16GB Memória 2666MHz 3200MHz Desktop Dimm RAM compatível alta",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S3e39700a85a64d21a7b9dc6c69c464f7K.jpg",
-  "preco": 361.58,
-  "precoDe": 723.15,
-  "link": "https://s.click.aliexpress.com/e/_c3C0VYUp",
-  "vendidos": 2085,
-  "nota": 4.7,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-11-17T23:15:39.713Z"
  },
  {
   "id": "aliexpress-1005008571432029",
@@ -16697,19 +16711,5 @@
   "categoria": "Informática",
   "fonte": "ali_kit_xeon",
   "publicadoEm": "2026-11-10T20:30:47.087Z"
- },
- {
-  "id": "aliexpress-1005007171616099",
-  "loja": "aliexpress",
-  "titulo": "Placa-mãe MACHINIST PR9 X99 com Módulo TPM2.0, Suporte para CPU Intel Xeon E5 2680 V3, RAM DDR4, USB3.0 de Canal Duplo, Kit Opcional",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa43ba1760b234ddf973445a4a560668bC.jpg",
-  "preco": 371.99,
-  "precoDe": 743.98,
-  "link": "https://s.click.aliexpress.com/e/_c3JmhMTd",
-  "vendidos": 289,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-10T20:15:53.834Z"
  }
 ]
