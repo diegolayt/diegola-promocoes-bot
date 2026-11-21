@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5041589409",
-    "productKey": "b912948cf9b5e753",
-    "titleHash": "4f9c8fc996431b26",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-17T08:01:54.527Z"
-  },
-  {
     "itemId": "MLB5547087963",
     "productKey": "e7466642d6b5d025",
     "titleHash": "325029870601ba85",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-21T06:31:44.559Z"
+  },
+  {
+    "itemId": "MLB5383758300",
+    "productKey": "07f1520aa80ab712",
+    "titleHash": "bc8ac8efca670c74",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-21T07:01:48.149Z"
   }
 ]
