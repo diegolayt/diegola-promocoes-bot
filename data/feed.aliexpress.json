@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005004392435104",
+  "loja": "aliexpress",
+  "titulo": "Processador AMD Ryzen 5 5600G R5 5600G 3,9 GHz de seis núcleos e doze threads 65W CPU L3 = 16M 100- 000000252 Soquete AM4",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S659a636e31f7418b942730fa61f50c4a5.jpg",
+  "preco": 982.99,
+  "precoDe": 1293.41,
+  "link": "https://s.click.aliexpress.com/e/_c3OKQ6ah",
+  "vendidos": 42,
+  "nota": 5,
+  "categoria": "Informática",
+  "fonte": "ali_processador",
+  "publicadoEm": "2026-11-21T05:31:06.621Z"
+ },
+ {
+  "id": "aliexpress-1005007224566148",
+  "loja": "aliexpress",
+  "titulo": "Envinda ddr4 pc ram memoria 8gb 16gb 3200mhz dimm desktop computador memória rams sem suporte placa-mãe amd",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7fd725c8b19f41c7967ceddcb25a4db9P.jpg",
+  "preco": 296.36,
+  "precoDe": 753.55,
+  "link": "https://s.click.aliexpress.com/e/_c3aadttL",
+  "vendidos": 187,
+  "nota": 4.7,
+  "categoria": "Informática",
+  "fonte": "ali_ram_notebook",
+  "publicadoEm": "2026-11-21T05:30:58.392Z"
+ },
+ {
+  "id": "aliexpress-1005010439293691",
+  "loja": "aliexpress",
+  "titulo": "Combo de placa-mãe MACHINIST X99 U9 TPM2.0, CPU Xeon E5 2650 V4 LGA2011-3 opcional, RAM DDR4 de 16 GB, ARGB NVME M.2, chip C612, USB 3.0.",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S669dce704a034da3b09e53561e2dab66k.jpg",
+  "preco": 447.99,
+  "precoDe": 895.98,
+  "link": "https://s.click.aliexpress.com/e/_c35Jz5nX",
+  "vendidos": 1087,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-11-21T05:30:51.625Z"
+ },
+ {
+  "id": "aliexpress-1005012924765080",
+  "loja": "aliexpress",
+  "titulo": "KOOTION SSD M2 NVME 256GB 512GB 1TB 2TB Disco Rígido M.2 2280 Gen3 PCIe 3.0X4 Unidade de Estado Sólido Interna para Laptop Desktop MSI X99",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S26300f622a24483b8e4de82148a570deO.jpg",
+  "preco": 407.6,
+  "precoDe": 830.37,
+  "link": "https://s.click.aliexpress.com/e/_c3b20Mnj",
+  "vendidos": 1060,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ssd",
+  "publicadoEm": "2026-11-21T05:30:44.588Z"
+ },
+ {
   "id": "aliexpress-1005009384216290",
   "loja": "aliexpress",
   "titulo": "Magcubic 900 ANSI HY450C Projetor com Foco Automático 8K 1080P de Curta Distância Allwinner H726 BT5.4 Auto Offset para Home Theater com Controle por Voz",
@@ -11290,34 +11346,6 @@
   "publicadoEm": "2026-11-19T02:45:35.253Z"
  },
  {
-  "id": "aliexpress-1005007224566148",
-  "loja": "aliexpress",
-  "titulo": "Envinda ddr4 pc ram memoria 8gb 16gb 3200mhz dimm desktop computador memória rams sem suporte placa-mãe amd",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7fd725c8b19f41c7967ceddcb25a4db9P.jpg",
-  "preco": 294.45,
-  "precoDe": 741.47,
-  "link": "https://s.click.aliexpress.com/e/_c3megHqh",
-  "vendidos": 188,
-  "nota": 4.7,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-11-19T02:31:01.113Z"
- },
- {
-  "id": "aliexpress-1005010439293691",
-  "loja": "aliexpress",
-  "titulo": "Combo de placa-mãe MACHINIST X99 U9 TPM2.0, CPU Xeon E5 2650 V4 LGA2011-3 opcional, RAM DDR4 de 16 GB, ARGB NVME M.2, chip C612, USB 3.0.",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S669dce704a034da3b09e53561e2dab66k.jpg",
-  "preco": 440.96,
-  "precoDe": 881.92,
-  "link": "https://s.click.aliexpress.com/e/_c2JtYXnF",
-  "vendidos": 1092,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ram",
-  "publicadoEm": "2026-11-19T02:30:54.443Z"
- },
- {
   "id": "aliexpress-1005005443088957",
   "loja": "aliexpress",
   "titulo": "Netac-Disco rígido interno de estado sólido, SSD NVMe, NVMe, M2, 250GB, 500GB, 1TB, 2TB, M.2 2280, PCIe, Laptop, Desktop",
@@ -12359,20 +12387,6 @@
   "categoria": "Informática",
   "fonte": "ali_kit_xeon",
   "publicadoEm": "2026-11-18T08:30:56.112Z"
- },
- {
-  "id": "aliexpress-1005012924765080",
-  "loja": "aliexpress",
-  "titulo": "KOOTION SSD M2 NVME 256GB 512GB 1TB 2TB Disco Rígido M.2 2280 Gen3 PCIe 3.0X4 Unidade de Estado Sólido Interna para Laptop Desktop MSI X99",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S26300f622a24483b8e4de82148a570deO.jpg",
-  "preco": 331.23,
-  "precoDe": 809.82,
-  "link": "https://s.click.aliexpress.com/e/_c3cgvaxJ",
-  "vendidos": 1013,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ssd",
-  "publicadoEm": "2026-11-18T08:15:53.986Z"
  },
  {
   "id": "aliexpress-1005007259542837",
@@ -13858,20 +13872,6 @@
   "categoria": "Informática",
   "fonte": "ali_processador",
   "publicadoEm": "2026-11-16T05:31:06.268Z"
- },
- {
-  "id": "aliexpress-1005004392435104",
-  "loja": "aliexpress",
-  "titulo": "Processador AMD Ryzen 5 5600G R5 5600G 3,9 GHz de seis núcleos e doze threads 65W CPU L3 = 16M 100- 000000252 Soquete AM4",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S659a636e31f7418b942730fa61f50c4a5.jpg",
-  "preco": 938.99,
-  "precoDe": 1235.51,
-  "link": "https://s.click.aliexpress.com/e/_c3lJLwJX",
-  "vendidos": 41,
-  "nota": 5,
-  "categoria": "Informática",
-  "fonte": "ali_processador",
-  "publicadoEm": "2026-11-16T05:30:51.402Z"
  },
  {
   "id": "aliexpress-1005006317310008",
