@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6420215012",
-    "productKey": "810f54caef449f8a",
-    "titleHash": "91f8268a7fe15f7e",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-17T21:46:40.485Z"
-  },
-  {
-    "itemId": "MLB4320340453",
-    "productKey": "e43b0bf189996c52",
-    "titleHash": "f0e4d8cb460162d1",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-17T21:46:40.485Z"
-  },
-  {
     "itemId": "MLB5511458795",
     "productKey": "bbc689030a50ec02",
     "titleHash": "fcc9074de14ea86a",
@@ -4798,5 +4782,21 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-21T19:31:44.698Z"
+  },
+  {
+    "itemId": "MLB6906622218",
+    "productKey": "8ebb5290fbd71181",
+    "titleHash": "acfce180f1eca87f",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-21T19:46:43.079Z"
+  },
+  {
+    "itemId": "MLB5872144816",
+    "productKey": "7b530b4b1ca8b409",
+    "titleHash": "16098ab31f1e5d10",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-21T19:46:43.079Z"
   }
 ]
