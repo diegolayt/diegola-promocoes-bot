@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4190456415",
-    "productKey": "6a0f3de508245dc1",
-    "titleHash": "ae7ee8f191bd670b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-17T11:16:40.109Z"
-  },
-  {
     "itemId": "MLB6699389750",
     "productKey": "45d1c0ae2cf7a360",
     "titleHash": "c6ec13c943848777",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-21T10:16:42.787Z"
+  },
+  {
+    "itemId": "MLB4758538973",
+    "productKey": "423754fcafb59c0b",
+    "titleHash": "2e54e63e8ac79d09",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-21T10:31:42.754Z"
   }
 ]
