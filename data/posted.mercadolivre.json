@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7253496932",
-    "productKey": "8966f7090ac1116d",
-    "titleHash": "0257198e68c33f08",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-18T00:01:49.703Z"
-  },
-  {
-    "itemId": "MLB5125610427",
-    "productKey": "8b67768aeac7e9b2",
-    "titleHash": "ba46e87672d491d0",
-    "category": "redes",
-    "sourceCategoryId": "MLB1700",
-    "reservedAt": "2026-11-18T00:16:36.142Z"
-  },
-  {
-    "itemId": "MLB5568473159",
-    "productKey": "a6ddc6408e6a83c4",
-    "titleHash": "bde09e6268564097",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-18T00:16:36.142Z"
-  },
-  {
     "itemId": "MLB3783973037",
     "productKey": "79904641cb78c39e",
     "titleHash": "c6c910964afbee15",
@@ -4798,5 +4774,29 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-21T22:16:46.441Z"
+  },
+  {
+    "itemId": "MLB6162191874",
+    "productKey": "0546c9a98b460ab9",
+    "titleHash": "8f0a8a5ee541baba",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-21T22:31:46.077Z"
+  },
+  {
+    "itemId": "MLB4302559141",
+    "productKey": "cc7b6f9694e26e07",
+    "titleHash": "28260572dc6461e9",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-21T22:31:46.078Z"
+  },
+  {
+    "itemId": "MLB8033391260",
+    "productKey": "d4312e0d6c2931f5",
+    "titleHash": "897b790bb2a290b2",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-21T22:31:46.078Z"
   }
 ]
