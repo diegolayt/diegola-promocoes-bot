@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5576782751",
+      "site_id": "MLB",
+      "seller_id": 750553953,
+      "accepts_mercadopago": true,
+      "price": 1049,
+      "category_id": "MLB1002",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 1599,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1NQLTQzMzc",
+          "name": "São Paulo"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TUxCQk1P0zE4Mjc",
+          "name": "Moóca"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5899551924",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB76436759",
+      "title": "Smart TV HD 32\" LG LB650 AI 2026 Processador α5 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini Canais Grátis webOS 26 - 32LB650BPSA",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_626506-MLA116657908871_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB76436759",
+      "id": "MLB5576782751",
+      "sold_quantity": 500,
+      "rotationCategory": "televisão",
+      "sourceCategoryId": "MLB1002",
+      "minPrice": 700
+    },
+    {
+      "item_id": "MLB5147635985",
+      "site_id": "MLB",
+      "seller_id": 3509461968,
+      "accepts_mercadopago": true,
+      "price": 998,
+      "category_id": "MLB1055",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 1 anos",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0lUQTRmMDM5",
+          "name": "Itapaci"
+        },
+        "state": {
+          "id": "TUxCUEdPSVMxNzVmMw",
+          "name": "Goiás"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 1,
+            "unit": "anos"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "1 anos",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU4965985691",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB55762063",
+      "title": "Smartphone Motorola Moto G06 - 256gb 4gb Ram e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB55762063",
+      "id": "MLB5147635985",
+      "sold_quantity": 900,
+      "rotationCategory": "celular",
+      "sourceCategoryId": "MLB1055",
+      "minPrice": 400
+    }
+  ],
+  "reservedAt": "2026-11-21T05:16:37.201Z"
+}
