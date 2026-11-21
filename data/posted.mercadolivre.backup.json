@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7586569004",
-    "productKey": "0ff33a7f933d771f",
-    "titleHash": "1ac364f778f5f627",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-17T15:01:55.873Z"
-  },
-  {
-    "itemId": "MLB4811259715",
-    "productKey": "7abc3c7eceaff66c",
-    "titleHash": "0770fcd7bab16021",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-17T15:01:55.873Z"
-  },
-  {
     "itemId": "MLB5550580297",
     "productKey": "e79ca114583c86dc",
     "titleHash": "63d1118a917a810e",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-21T13:46:43.041Z"
+  },
+  {
+    "itemId": "MLB6224367728",
+    "productKey": "113d9604631d6b0d",
+    "titleHash": "02055506bdcf30fc",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-21T14:01:43.525Z"
+  },
+  {
+    "itemId": "MLB6190888068",
+    "productKey": "819054fbbea42c9a",
+    "titleHash": "dbbfa39f8921466e",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-11-21T14:01:43.526Z"
   }
 ]
