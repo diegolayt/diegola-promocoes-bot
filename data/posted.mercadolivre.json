@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4115638623",
-    "productKey": "9681761c11f42242",
-    "titleHash": "c506f453654b8575",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-17T11:16:40.109Z"
-  },
-  {
     "itemId": "MLB4190456415",
     "productKey": "6a0f3de508245dc1",
     "titleHash": "ae7ee8f191bd670b",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-21T09:46:39.386Z"
+  },
+  {
+    "itemId": "MLB6900550988",
+    "productKey": "6226a5d038aed863",
+    "titleHash": "5777efe3a60d517a",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-21T10:16:42.787Z"
   }
 ]
