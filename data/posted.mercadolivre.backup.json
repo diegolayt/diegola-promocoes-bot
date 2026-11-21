@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5550580297",
-    "productKey": "e79ca114583c86dc",
-    "titleHash": "63d1118a917a810e",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-17T15:16:36.553Z"
-  },
-  {
-    "itemId": "MLB5690651572",
-    "productKey": "586f1f38fea099c8",
-    "titleHash": "1e2890a0d74c84a0",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-17T15:16:36.554Z"
-  },
-  {
     "itemId": "MLB7909385542",
     "productKey": "e390c28ff7b7a952",
     "titleHash": "74e6f5ff74df0fbe",
@@ -4798,5 +4782,21 @@
     "category": "impressão",
     "sourceCategoryId": "MLB5875",
     "reservedAt": "2026-11-21T14:01:43.526Z"
+  },
+  {
+    "itemId": "MLB7606575730",
+    "productKey": "7ae62e631b538a5f",
+    "titleHash": "f50155dd95bff7b2",
+    "category": "projetor",
+    "sourceCategoryId": "MLB2830",
+    "reservedAt": "2026-11-21T14:16:45.085Z"
+  },
+  {
+    "itemId": "MLB8032389258",
+    "productKey": "142385f66dcdd104",
+    "titleHash": "4d563e7f677f169d",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-21T14:16:45.085Z"
   }
 ]
