@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB8005840828",
-    "productKey": "c400d42728432e17",
-    "titleHash": "8edb8eda870ef1af",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-17T11:31:42.111Z"
-  },
-  {
-    "itemId": "MLB2634448552",
-    "productKey": "8af7df7f67736088",
-    "titleHash": "424920e3dd208530",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-17T11:46:40.176Z"
-  },
-  {
     "itemId": "MLB6976567444",
     "productKey": "10d83ae90f0fb762",
     "titleHash": "5467f88d296880b9",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-21T10:46:37.726Z"
+  },
+  {
+    "itemId": "MLB4115638623",
+    "productKey": "9681761c11f42242",
+    "titleHash": "c506f453654b8575",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-21T11:01:40.262Z"
+  },
+  {
+    "itemId": "MLB7937784868",
+    "productKey": "46cec00d9e0b5a50",
+    "titleHash": "4f85cab96929a066",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-21T11:01:40.262Z"
   }
 ]
