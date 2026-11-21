@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7761066032",
-    "productKey": "b1d10ff79ce494e3",
-    "titleHash": "04de2d517dc85eb3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-17T05:46:29.066Z"
-  },
-  {
     "itemId": "MLB5146610670",
     "productKey": "b124c07810832875",
     "titleHash": "193e39a55d48c15a",
@@ -4798,5 +4790,13 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-11-21T04:16:42.536Z"
+  },
+  {
+    "itemId": "MLB3393222713",
+    "productKey": "d3c8122c66a236de",
+    "titleHash": "c2cab72db0e55f21",
+    "category": "ferramenta elétrica",
+    "sourceCategoryId": "MLB2526",
+    "reservedAt": "2026-11-21T04:31:40.026Z"
   }
 ]
