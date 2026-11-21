@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4287637614",
-    "productKey": "69af084751970c16",
-    "titleHash": "5d1608fdc1548bcb",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-17T02:46:43.086Z"
-  },
-  {
-    "itemId": "MLB5728106336",
-    "productKey": "bd5a57a6887059e5",
-    "titleHash": "2f41e2e081190be2",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-17T02:46:43.087Z"
-  },
-  {
     "itemId": "MLB7991769944",
     "productKey": "d85d9a112674f27d",
     "titleHash": "53db776e88590465",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-21T00:46:39.727Z"
+  },
+  {
+    "itemId": "MLB4205581723",
+    "productKey": "659686bb25e5327b",
+    "titleHash": "d62f8aa6f5902055",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-21T01:01:53.164Z"
+  },
+  {
+    "itemId": "MLB4481550329",
+    "productKey": "71927494c0ed2e73",
+    "titleHash": "47a12332b8ee7968",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-21T01:01:53.164Z"
   }
 ]
