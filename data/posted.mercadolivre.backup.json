@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3986700487",
-    "productKey": "a1d280e4c3ee7ae6",
-    "titleHash": "94ccd298a23fb896",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-17T19:01:53.498Z"
-  },
-  {
-    "itemId": "MLB4856643479",
-    "productKey": "e35e63157073651e",
-    "titleHash": "5e8971eaf2160afc",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-17T19:01:53.498Z"
-  },
-  {
     "itemId": "MLB4975099263",
     "productKey": "3460e0b7004b3b58",
     "titleHash": "0c238aed75c8a2bb",
@@ -4798,5 +4782,21 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-21T17:46:39.795Z"
+  },
+  {
+    "itemId": "MLB4027229133",
+    "productKey": "1d07b11a945328b6",
+    "titleHash": "ff18fddfa72ad4c4",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-21T18:01:44.565Z"
+  },
+  {
+    "itemId": "MLB7266611472",
+    "productKey": "b567dc83f55f3e77",
+    "titleHash": "bc3b09f1927a398e",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-21T18:01:44.565Z"
   }
 ]
