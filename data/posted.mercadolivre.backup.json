@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5295759634",
-    "productKey": "06babd581101f23b",
-    "titleHash": "49b321f683ef6a94",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-17T18:31:43.211Z"
-  },
-  {
     "itemId": "MLB1813858157",
     "productKey": "cd49aae79bb3a2e2",
     "titleHash": "acd7395731aedb0b",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-21T16:46:39.891Z"
+  },
+  {
+    "itemId": "MLB3360911233",
+    "productKey": "b1e1ad49547993cc",
+    "titleHash": "ca57007c048be18e",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-21T17:01:50.420Z"
   }
 ]
