@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6976567444",
-    "productKey": "10d83ae90f0fb762",
-    "titleHash": "5467f88d296880b9",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-17T12:16:34.285Z"
-  },
-  {
-    "itemId": "MLB5457116760",
-    "productKey": "12ba1e7daad2e455",
-    "titleHash": "308ca2a85e1b8a8a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-17T12:31:45.262Z"
-  },
-  {
-    "itemId": "MLB6600129404",
-    "productKey": "307900e287a57280",
-    "titleHash": "5ab2e697025e7a60",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-17T12:46:41.322Z"
-  },
-  {
     "itemId": "MLB7618823038",
     "productKey": "7c5b29917a5a4f0d",
     "titleHash": "4df93f7a820e0b0f",
@@ -4798,5 +4774,29 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-21T11:01:40.262Z"
+  },
+  {
+    "itemId": "MLB7856574844",
+    "productKey": "c400d42728432e17",
+    "titleHash": "8edb8eda870ef1af",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-21T11:16:35.527Z"
+  },
+  {
+    "itemId": "MLB6699389750",
+    "productKey": "45d1c0ae2cf7a360",
+    "titleHash": "c6ec13c943848777",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-21T11:16:35.527Z"
+  },
+  {
+    "itemId": "MLB3577643321",
+    "productKey": "8af7df7f67736088",
+    "titleHash": "424920e3dd208530",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-21T11:16:35.527Z"
   }
 ]
