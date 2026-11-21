@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5511458795",
-    "productKey": "bbc689030a50ec02",
-    "titleHash": "fcc9074de14ea86a",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-17T21:46:40.485Z"
-  },
-  {
-    "itemId": "MLB7644497660",
-    "productKey": "1c1a1b874a30de47",
-    "titleHash": "5cc0254ef98a4654",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-17T21:46:40.485Z"
-  },
-  {
-    "itemId": "MLB4434428164",
-    "productKey": "5b5dbe709902e2fc",
-    "titleHash": "5310defd20b8b0a1",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-17T22:01:30.973Z"
-  },
-  {
-    "itemId": "MLB4571210341",
-    "productKey": "163a58eb61a4412f",
-    "titleHash": "bbadc9cd22e0fc10",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-17T22:01:30.973Z"
-  },
-  {
     "itemId": "MLB5150635055",
     "productKey": "8938272775959f1b",
     "titleHash": "fb74347e4aa7dcb6",
@@ -4798,5 +4766,37 @@
     "category": "suplemento",
     "sourceCategoryId": "MLB438178",
     "reservedAt": "2026-11-21T19:46:43.079Z"
+  },
+  {
+    "itemId": "MLB5727997850",
+    "productKey": "0af3f0089d2da042",
+    "titleHash": "b229ab2bf8859545",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-21T20:01:41.412Z"
+  },
+  {
+    "itemId": "MLB4488747069",
+    "productKey": "97607a710e2d5676",
+    "titleHash": "44a84ee097759ba7",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-21T20:01:41.412Z"
+  },
+  {
+    "itemId": "MLB4755857128",
+    "productKey": "79d5c8260fac4419",
+    "titleHash": "8d80c6d8b8751a60",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-21T20:01:41.412Z"
+  },
+  {
+    "itemId": "MLB8011853498",
+    "productKey": "b0259b115935ab02",
+    "titleHash": "ef9794cf1545ce29",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-21T20:01:41.412Z"
   }
 ]
