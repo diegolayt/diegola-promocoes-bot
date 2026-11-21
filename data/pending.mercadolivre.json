@@ -1,0 +1,224 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4812130742",
+      "site_id": "MLB",
+      "seller_id": 1867843782,
+      "accepts_mercadopago": true,
+      "price": 78.92,
+      "category_id": "MLB264201",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "kit_component",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 79498,
+      "original_price": 159.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYSW5kYWlhdHViYVRVeENVRk5CVDA4NU4yR",
+          "name": "Indaiatuba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "TVhYQ2FsZGVpcmFUVmhZU1c1a1lXbGhkSFZpW",
+          "name": "Caldeira"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU792957989",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB25929487",
+      "title": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB25929487",
+      "id": "MLB4812130742",
+      "sold_quantity": 1900,
+      "rotationCategory": "suplemento",
+      "sourceCategoryId": "MLB438178",
+      "minPrice": 50
+    },
+    {
+      "item_id": "MLB4088347889",
+      "site_id": "MLB",
+      "seller_id": 588723325,
+      "accepts_mercadopago": true,
+      "price": 128.24,
+      "category_id": "MLB32130",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 134.99,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0JFTGU0ODdm",
+          "name": "Belo Horizonte"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3221912743",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB50949075",
+      "title": "Kit Braé Stages Nutrition Shampoo,cond,másc + Essential 60ml",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_984607-MLA99442195502_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB50949075",
+      "id": "MLB4088347889",
+      "sold_quantity": 200,
+      "rotationCategory": "cabelo",
+      "sourceCategoryId": "MLB1263",
+      "minPrice": 40
+    },
+    {
+      "item_id": "MLB7985428056",
+      "site_id": "MLB",
+      "seller_id": 60110088,
+      "accepts_mercadopago": true,
+      "price": 164.17,
+      "category_id": "MLB44085",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 7 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "Carapicuíba"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 7,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "7 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5899948364",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36684802",
+      "title": "Chapa Prancha De Cabelo Taiff Elegance Red Íon Preto",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_847199-MLA110044311509_042026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36684802",
+      "id": "MLB7985428056",
+      "sold_quantity": 700,
+      "rotationCategory": "cuidado pessoal",
+      "sourceCategoryId": "MLB439347",
+      "minPrice": 60
+    }
+  ],
+  "reservedAt": "2026-11-21T16:46:39.893Z"
+}
