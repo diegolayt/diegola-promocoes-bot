@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3783973037",
-    "productKey": "79904641cb78c39e",
-    "titleHash": "c6c910964afbee15",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-18T00:31:40.206Z"
-  },
-  {
     "itemId": "MLB5988123462",
     "productKey": "3173ebec78e14208",
     "titleHash": "4cef9d0770a61e63",
@@ -4798,5 +4790,13 @@
     "category": "cozinha",
     "sourceCategoryId": "MLB1618",
     "reservedAt": "2026-11-21T22:31:46.078Z"
+  },
+  {
+    "itemId": "MLB5424041486",
+    "productKey": "a69c89af46f539e7",
+    "titleHash": "47a732733919029b",
+    "category": "computador",
+    "sourceCategoryId": "MLB430637",
+    "reservedAt": "2026-11-21T23:01:47.965Z"
   }
 ]
