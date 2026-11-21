@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6224367728",
-    "productKey": "113d9604631d6b0d",
-    "titleHash": "02055506bdcf30fc",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-17T14:46:33.893Z"
-  },
-  {
-    "itemId": "MLB5007586265",
-    "productKey": "819054fbbea42c9a",
-    "titleHash": "dbbfa39f8921466e",
-    "category": "impressão",
-    "sourceCategoryId": "MLB5875",
-    "reservedAt": "2026-11-17T14:46:33.893Z"
-  },
-  {
     "itemId": "MLB7586569004",
     "productKey": "0ff33a7f933d771f",
     "titleHash": "1ac364f778f5f627",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-21T12:46:39.371Z"
+  },
+  {
+    "itemId": "MLB5410636044",
+    "productKey": "268fe1dcba87ee28",
+    "titleHash": "0b023d35ca0abbf6",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-21T13:46:43.041Z"
+  },
+  {
+    "itemId": "MLB7938921574",
+    "productKey": "e5a83b7016817575",
+    "titleHash": "959cf01c83f2589c",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-21T13:46:43.041Z"
   }
 ]
