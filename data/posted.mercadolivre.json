@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5093875177",
-    "productKey": "850428c0b2482d7b",
-    "titleHash": "603f3448e14406b5",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-17T01:16:26.782Z"
-  },
-  {
-    "itemId": "MLB5567999383",
-    "productKey": "2f98261615449fda",
-    "titleHash": "282883ce1da376df",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-17T01:16:26.782Z"
-  },
-  {
-    "itemId": "MLB6625413988",
-    "productKey": "484a03825ae17ef1",
-    "titleHash": "fe796f34ef3590ff",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-17T01:31:43.975Z"
-  },
-  {
     "itemId": "MLB4268042659",
     "productKey": "cddbf545af237f6f",
     "titleHash": "3bbe4ed40543e0e7",
@@ -4798,5 +4774,29 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-20T23:46:39.867Z"
+  },
+  {
+    "itemId": "MLB3326463445",
+    "productKey": "4da20096241f83a1",
+    "titleHash": "122b2943937f1218",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-21T00:01:56.190Z"
+  },
+  {
+    "itemId": "MLB4470405369",
+    "productKey": "9e15b78035837189",
+    "titleHash": "6ffb217c04bf6388",
+    "category": "masculino",
+    "sourceCategoryId": "MLB23332",
+    "reservedAt": "2026-11-21T00:01:56.190Z"
+  },
+  {
+    "itemId": "MLB8004735446",
+    "productKey": "83d82891d98abb10",
+    "titleHash": "b6986d41ce63aa77",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-21T00:01:56.190Z"
   }
 ]
