@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5324444473",
-    "productKey": "4126a957e160f755",
-    "titleHash": "1c993490aa5dbfc1",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-17T21:16:41.220Z"
-  },
-  {
     "itemId": "MLB7578902582",
     "productKey": "d4f1c2d7935fb51a",
     "titleHash": "c43f9a10d7dcc8fa",
@@ -4798,5 +4790,13 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-21T19:01:57.307Z"
+  },
+  {
+    "itemId": "MLB4477390423",
+    "productKey": "2fbf4e278f428da4",
+    "titleHash": "60e6c7fff123c448",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-21T19:16:40.439Z"
   }
 ]
