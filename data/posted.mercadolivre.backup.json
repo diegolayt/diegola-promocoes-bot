@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5410636044",
-    "productKey": "268fe1dcba87ee28",
-    "titleHash": "0b023d35ca0abbf6",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-17T14:01:43.894Z"
-  },
-  {
     "itemId": "MLB8005441250",
     "productKey": "142385f66dcdd104",
     "titleHash": "4d563e7f677f169d",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-21T12:01:41.777Z"
+  },
+  {
+    "itemId": "MLB6600129404",
+    "productKey": "307900e287a57280",
+    "titleHash": "5ab2e697025e7a60",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-21T12:16:41.290Z"
   }
 ]
