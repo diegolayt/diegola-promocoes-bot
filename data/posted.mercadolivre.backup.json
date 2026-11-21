@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5522888933",
-    "productKey": "52e8973cc70fcc11",
-    "titleHash": "8d39b7cca9eea60b",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-17T06:46:38.122Z"
-  },
-  {
-    "itemId": "MLB4597935647",
-    "productKey": "2546452a96d07059",
-    "titleHash": "6eea06c316952154",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-17T07:01:54.337Z"
-  },
-  {
-    "itemId": "MLB7958021662",
-    "productKey": "0c50fbe1ab1492a5",
-    "titleHash": "08c42f6b7de828d4",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-17T07:01:54.337Z"
-  },
-  {
     "itemId": "MLB7921551156",
     "productKey": "d4255e0a63e61dfb",
     "titleHash": "7595d754ee6983fc",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-21T05:31:42.719Z"
+  },
+  {
+    "itemId": "MLB5524906692",
+    "productKey": "7372f11b6723cc4e",
+    "titleHash": "0f363db278ffc304",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-21T05:46:44.055Z"
+  },
+  {
+    "itemId": "MLB4514233797",
+    "productKey": "b80aa50f4c572f73",
+    "titleHash": "554791d76d1ac8c8",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-21T05:46:44.055Z"
+  },
+  {
+    "itemId": "MLB7724214528",
+    "productKey": "b7371e77d704b462",
+    "titleHash": "cc44c47e60e54f0b",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-21T05:46:44.055Z"
   }
 ]
