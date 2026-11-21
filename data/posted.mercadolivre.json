@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5146610670",
-    "productKey": "b124c07810832875",
-    "titleHash": "193e39a55d48c15a",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-17T05:46:29.067Z"
-  },
-  {
-    "itemId": "MLB4988230057",
-    "productKey": "e192924e8dfd60cb",
-    "titleHash": "df58680138676c48",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-17T05:46:29.067Z"
-  },
-  {
     "itemId": "MLB4008679825",
     "productKey": "637df51459d0e797",
     "titleHash": "46a4780cd1b5a6c7",
@@ -4798,5 +4782,21 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-21T04:31:40.026Z"
+  },
+  {
+    "itemId": "MLB7738915264",
+    "productKey": "578087a6350e382a",
+    "titleHash": "4e478014ed8af7a9",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-21T04:46:36.748Z"
+  },
+  {
+    "itemId": "MLB8004284010",
+    "productKey": "eff4ebbdec2c8425",
+    "titleHash": "ed957b2ce03ff7f5",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-21T04:46:36.748Z"
   }
 ]
