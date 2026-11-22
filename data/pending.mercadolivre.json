@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5562996225",
+      "site_id": "MLB",
+      "seller_id": 145176921,
+      "accepts_mercadopago": true,
+      "price": 257.55,
+      "category_id": "MLB135384",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "drop_off",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ1BPUjgzODVk",
+          "name": "Porto Nacional"
+        },
+        "state": {
+          "id": "TUxCUFRPQ1NjZDBm",
+          "name": "Tocantins"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5872603887",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB61706715",
+      "title": "Smartwatch Bazik Prime WATCH Ultimate de 51mm com Tela AMOLED, GPS e NFC",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_909579-MLA97334242395_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB61706715",
+      "id": "MLB5562996225",
+      "sold_quantity": 1400,
+      "rotationCategory": "smartwatch",
+      "sourceCategoryId": "MLB417704",
+      "minPrice": 100
+    }
+  ],
+  "reservedAt": "2026-11-22T02:16:40.330Z"
+}
