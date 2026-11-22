@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7813039758",
-    "productKey": "caaa6d3d3ab9a0f8",
-    "titleHash": "842b7036f0d2ecc0",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-18T20:31:41.604Z"
-  },
-  {
-    "itemId": "MLB3458972811",
-    "productKey": "89769abb84712022",
-    "titleHash": "f8baca8612d7b480",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-18T20:31:41.604Z"
-  },
-  {
-    "itemId": "MLB5554196623",
-    "productKey": "104c62f84f8d85e8",
-    "titleHash": "2f2b1411898660ab",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-18T20:31:41.604Z"
-  },
-  {
-    "itemId": "MLB4234334947",
-    "productKey": "cc28a8a0479860e3",
-    "titleHash": "8835b2ef394c928f",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-18T20:46:33.795Z"
-  },
-  {
     "itemId": "MLB3991904599",
     "productKey": "82877247ca948082",
     "titleHash": "f68a2c332d7a28a9",
@@ -4798,5 +4766,37 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-22T19:31:47.620Z"
+  },
+  {
+    "itemId": "MLB4708820035",
+    "productKey": "9452ee0e479ad9ff",
+    "titleHash": "ca8268008cd70647",
+    "category": "iluminação",
+    "sourceCategoryId": "MLB1582",
+    "reservedAt": "2026-11-22T19:46:41.278Z"
+  },
+  {
+    "itemId": "MLB5388292385",
+    "productKey": "7e75d2a601040190",
+    "titleHash": "add958a08d0eb737",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-22T19:46:41.279Z"
+  },
+  {
+    "itemId": "MLB4849437799",
+    "productKey": "1835b96f8c31b1b3",
+    "titleHash": "fe3ce120921d1f3b",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-22T19:46:41.279Z"
+  },
+  {
+    "itemId": "MLB5409107333",
+    "productKey": "d870155de0c9bf57",
+    "titleHash": "02b5ac17f4b207bc",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-22T19:46:41.279Z"
   }
 ]
