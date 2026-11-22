@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5343808690",
-    "productKey": "8020b2695e5c92d7",
-    "titleHash": "917f3be7a1686bc9",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-18T14:16:37.087Z"
-  },
-  {
     "itemId": "MLB6149857516",
     "productKey": "398190200de201c1",
     "titleHash": "2f5a00c8a92decec",
@@ -4798,5 +4790,13 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-22T11:31:35.082Z"
+  },
+  {
+    "itemId": "MLB4091456221",
+    "productKey": "40f3ce023dcaf098",
+    "titleHash": "43b0e8b2f3e2ee28",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-22T11:46:39.385Z"
   }
 ]
