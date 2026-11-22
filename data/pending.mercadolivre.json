@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4264380029",
+      "site_id": "MLB",
+      "seller_id": 2441548732,
+      "accepts_mercadopago": true,
+      "price": 1649.99,
+      "category_id": "MLB1646",
+      "currency_id": "BRL",
+      "warranty": "",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "catalog_boost",
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 5551,
+      "original_price": 2299.9,
+      "shipping": {
+        "free_shipping": false,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me1",
+        "logistic_type": "default",
+        "tags": [],
+        "cost": 99.9
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0pPSTc2NzM4",
+          "name": "Joinville"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQlBJUkVFMTQw",
+          "name": "Pirabeiraba"
+        }
+      },
+      "sale_terms": [],
+      "user_product_id": "MLBU3455820750",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB59605532",
+      "title": "Ar-condicionado Split 9000 Btu/h Prime Air 9qc Quente E Frio Branco",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_676464-MLA99989458879_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB59605532",
+      "id": "MLB4264380029",
+      "sold_quantity": 100,
+      "rotationCategory": "climatização",
+      "sourceCategoryId": "MLB252358",
+      "minPrice": 120
+    }
+  ],
+  "reservedAt": "2026-11-22T14:31:41.901Z"
+}
