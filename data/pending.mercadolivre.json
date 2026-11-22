@@ -1,0 +1,227 @@
+{
+  "items": [
+    {
+      "item_id": "MLB4118781885",
+      "site_id": "MLB",
+      "seller_id": 1127786122,
+      "accepts_mercadopago": true,
+      "price": 364.9,
+      "category_id": "MLB189008",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "extended_warranty_eligible",
+        "kvs_primary",
+        "user_product_unify",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 639,
+      "original_price": 571.29,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0NBUzg5MmJk",
+          "name": "Cássia"
+        },
+        "state": {
+          "id": "TUxCUE1JTlMxNTAyZA",
+          "name": "Minas Gerais"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "user_product_id": "MLBU3282710418",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB44894619",
+      "title": "Parafusadeira E Furadeira 3/8 A Bateria Bosch Gsr 120-li",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_923337-MLA113455559253_062026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB44894619",
+      "id": "MLB4118781885",
+      "sold_quantity": 600,
+      "rotationCategory": "ferramenta",
+      "sourceCategoryId": "MLB189007",
+      "minPrice": 60
+    },
+    {
+      "item_id": "MLB8032267752",
+      "site_id": "MLB",
+      "seller_id": 2676637729,
+      "accepts_mercadopago": true,
+      "price": 385.51,
+      "category_id": "MLB456045",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0ZMTzMzOGE1",
+          "name": "Florianópolis"
+        },
+        "state": {
+          "id": "TUxCUFNBTkE5Nzc4",
+          "name": "Santa Catarina"
+        },
+        "neighborhood": {
+          "id": "TUxCQklUQTlCRkQ2",
+          "name": "Itacorubi"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU6002356434",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB81064173",
+      "title": "Air Fryer Oven 12L 1200W 3 em 1 Mini Forno Elétrico 220V",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_822950-MLA118611421788_102026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB81064173",
+      "id": "MLB8032267752",
+      "sold_quantity": 1800,
+      "rotationCategory": "eletrodoméstico",
+      "sourceCategoryId": "MLB456045",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB6428860970",
+      "site_id": "MLB",
+      "seller_id": 2980925626,
+      "accepts_mercadopago": true,
+      "price": 910.87,
+      "category_id": "MLB99889",
+      "currency_id": "BRL",
+      "warranty": "Sem garantia",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_channel",
+        "cbt_fulfillment_us",
+        "cbt_item",
+        "kvs_primary",
+        "net_proceeds_prices",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping",
+          "cbt_fulfillment"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "",
+          "name": "China Grove"
+        },
+        "state": {
+          "id": "",
+          "name": "Texas"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Sem garantia",
+          "value_id": "6150835"
+        }
+      ],
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB65189679",
+      "title": "Galaxy Tab A11, 64gb, 4gb Ram, Tela De 8.7 , Bateria 5.100ma Cinza",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_773027-MLA120614956403_112026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB65189679",
+      "id": "MLB6428860970",
+      "sold_quantity": 200,
+      "rotationCategory": "tablet",
+      "sourceCategoryId": "MLB99889",
+      "minPrice": 350
+    }
+  ],
+  "reservedAt": "2026-11-22T20:31:47.045Z"
+}
