@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5556165805",
-    "productKey": "429e344a68635eec",
-    "titleHash": "0d6a97bbb0f3ef1c",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-18T16:46:35.131Z"
-  },
-  {
     "itemId": "MLB7992010530",
     "productKey": "5d7af8f790c6fdd6",
     "titleHash": "47e6d2d1173e13c1",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-22T15:16:43.734Z"
+  },
+  {
+    "itemId": "MLB4590134133",
+    "productKey": "9799e9bec4555200",
+    "titleHash": "4d3a923249454231",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-22T15:31:52.837Z"
   }
 ]
