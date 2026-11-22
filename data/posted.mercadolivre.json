@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4976654141",
-    "productKey": "1e02c9455942b0ea",
-    "titleHash": "b7eb6e3ad56267d8",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-18T17:46:43.690Z"
-  },
-  {
-    "itemId": "MLB3746267799",
-    "productKey": "a9fb3a707be80b00",
-    "titleHash": "2ba8275c8423409e",
-    "category": "notebook",
-    "sourceCategoryId": "MLB430687",
-    "reservedAt": "2026-11-18T17:46:43.690Z"
-  },
-  {
     "itemId": "MLB7731898396",
     "productKey": "5562cc1dfd5626e2",
     "titleHash": "414d7c57051ef1cd",
@@ -4798,5 +4782,21 @@
     "category": "brinquedos",
     "sourceCategoryId": "MLB1132",
     "reservedAt": "2026-11-22T16:46:28.509Z"
+  },
+  {
+    "itemId": "MLB5187340939",
+    "productKey": "698e69da8766b393",
+    "titleHash": "e00bf88b571fde10",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-22T17:01:42.578Z"
+  },
+  {
+    "itemId": "MLB7791936566",
+    "productKey": "2f868339db1e586d",
+    "titleHash": "89a9c74f588cbf1b",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-22T17:01:42.579Z"
   }
 ]
