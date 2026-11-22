@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB6415676772",
-    "productKey": "e40128f4b7c3537b",
-    "titleHash": "e322aa3b321ee971",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-18T06:46:43.429Z"
-  },
-  {
-    "itemId": "MLB3917376669",
-    "productKey": "bb0210ae17eea6d0",
-    "titleHash": "323bf31f9fa959bb",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-18T06:46:43.429Z"
-  },
-  {
     "itemId": "MLB7826363852",
     "productKey": "f8ed6f2d8a7633f9",
     "titleHash": "6103b5d4659eec99",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-22T04:31:44.071Z"
+  },
+  {
+    "itemId": "MLB6451356910",
+    "productKey": "0fde9e9cfc241986",
+    "titleHash": "92b0b423411c17c3",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-22T04:46:38.584Z"
+  },
+  {
+    "itemId": "MLB7658224068",
+    "productKey": "cf31f194e5125ea5",
+    "titleHash": "53f465883ca4f30e",
+    "category": "componente",
+    "sourceCategoryId": "MLB1712",
+    "reservedAt": "2026-11-22T04:46:38.584Z"
   }
 ]
