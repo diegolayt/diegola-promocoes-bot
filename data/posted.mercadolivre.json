@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5447220018",
-    "productKey": "9f620b521d231202",
-    "titleHash": "8ebbebef839099e6",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-18T07:16:42.651Z"
-  },
-  {
     "itemId": "MLB4445464355",
     "productKey": "e100b1f005aaba1e",
     "titleHash": "4d941d2484345991",
@@ -4798,5 +4790,13 @@
     "category": "cabelo",
     "sourceCategoryId": "MLB1263",
     "reservedAt": "2026-11-22T05:16:35.013Z"
+  },
+  {
+    "itemId": "MLB7779097188",
+    "productKey": "a984166e91e3c121",
+    "titleHash": "bbb3a2837d40bc3d",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-22T05:31:45.824Z"
   }
 ]
