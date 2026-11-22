@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7731898396",
-    "productKey": "5562cc1dfd5626e2",
-    "titleHash": "414d7c57051ef1cd",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-18T18:01:42.353Z"
-  },
-  {
-    "itemId": "MLB1663761914",
-    "productKey": "de77083a4e6c4dab",
-    "titleHash": "adf49853a15a232f",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-18T18:16:33.333Z"
-  },
-  {
-    "itemId": "MLB5012868815",
-    "productKey": "40ab138cce1c2270",
-    "titleHash": "927cd1b3a79366b2",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-18T18:16:33.333Z"
-  },
-  {
     "itemId": "MLB4612346505",
     "productKey": "2de2a2ad26618bb6",
     "titleHash": "0c4c55cfc2d6f829",
@@ -4798,5 +4774,29 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-22T17:01:42.579Z"
+  },
+  {
+    "itemId": "MLB4457896537",
+    "productKey": "168be902fe1cd973",
+    "titleHash": "338136e26add6b14",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-22T17:16:35.569Z"
+  },
+  {
+    "itemId": "MLB6706535682",
+    "productKey": "00b14ae85745311e",
+    "titleHash": "4332a25ca14ae522",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-22T17:16:35.569Z"
+  },
+  {
+    "itemId": "MLB8028630750",
+    "productKey": "acd74204f05c5df2",
+    "titleHash": "2397d2b8c6997cdf",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-22T17:16:35.569Z"
   }
 ]
