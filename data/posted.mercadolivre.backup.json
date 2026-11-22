@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB7479165346",
-    "productKey": "c46d283d33986d75",
-    "titleHash": "87531ed1d9562ed5",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-18T23:16:38.743Z"
-  },
-  {
     "itemId": "MLB4129251859",
     "productKey": "207e2794a9247dd6",
     "titleHash": "8922eef1610cd8b4",
@@ -4798,5 +4790,13 @@
     "category": "computador",
     "sourceCategoryId": "MLB430637",
     "reservedAt": "2026-11-22T21:16:40.177Z"
+  },
+  {
+    "itemId": "MLB6629642306",
+    "productKey": "daec8d0881c8d7d6",
+    "titleHash": "38709b9f79583c28",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-22T21:31:45.361Z"
   }
 ]
