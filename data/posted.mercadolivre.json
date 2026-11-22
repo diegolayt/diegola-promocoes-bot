@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6477127322",
-    "productKey": "4c39c54175dbde91",
-    "titleHash": "3b8d07d05440f04b",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-18T08:01:46.404Z"
-  },
-  {
     "itemId": "MLB5472506643",
     "productKey": "8d694ae9d917b1ce",
     "titleHash": "d5bb36d4c670bfb2",
@@ -4798,5 +4790,13 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-22T06:16:40.722Z"
+  },
+  {
+    "itemId": "MLB5558946417",
+    "productKey": "ef60b543f7ca8673",
+    "titleHash": "4ca12211160412ec",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-22T06:32:02.716Z"
   }
 ]
