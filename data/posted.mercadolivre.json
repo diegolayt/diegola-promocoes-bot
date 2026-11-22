@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB7057014274",
-    "productKey": "69878d2d21f252a1",
-    "titleHash": "25419699bc99025e",
-    "category": "armazenamento",
-    "sourceCategoryId": "MLB430598",
-    "reservedAt": "2026-11-18T21:46:38.494Z"
-  },
-  {
-    "itemId": "MLB6629642306",
-    "productKey": "daec8d0881c8d7d6",
-    "titleHash": "38709b9f79583c28",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-18T22:01:43.331Z"
-  },
-  {
-    "itemId": "MLB3551603209",
-    "productKey": "640f8d3c0cbc4c83",
-    "titleHash": "d30118097bc8aca5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-18T22:16:45.282Z"
-  },
-  {
     "itemId": "MLB6984694256",
     "productKey": "9aaaf7db99c08c54",
     "titleHash": "c67c9574f5cf9d5f",
@@ -4798,5 +4774,29 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-11-22T20:01:46.837Z"
+  },
+  {
+    "itemId": "MLB7813039758",
+    "productKey": "caaa6d3d3ab9a0f8",
+    "titleHash": "842b7036f0d2ecc0",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-22T20:16:35.177Z"
+  },
+  {
+    "itemId": "MLB3458972811",
+    "productKey": "89769abb84712022",
+    "titleHash": "f8baca8612d7b480",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-22T20:16:35.178Z"
+  },
+  {
+    "itemId": "MLB5554196623",
+    "productKey": "104c62f84f8d85e8",
+    "titleHash": "2f2b1411898660ab",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-22T20:16:35.178Z"
   }
 ]
