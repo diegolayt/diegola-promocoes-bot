@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB8014163270",
-    "productKey": "af6fd456573a6c22",
-    "titleHash": "1a0f1b9fd4ebb53e",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-18T16:01:51.311Z"
-  },
-  {
     "itemId": "MLB7063243298",
     "productKey": "72561843514ae323",
     "titleHash": "9c44839cafa93dad",
@@ -4798,5 +4790,13 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-22T14:46:39.956Z"
+  },
+  {
+    "itemId": "MLB2715864979",
+    "productKey": "c61bb77a90f70d42",
+    "titleHash": "e318b8d137692aca",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-22T15:01:47.444Z"
   }
 ]
