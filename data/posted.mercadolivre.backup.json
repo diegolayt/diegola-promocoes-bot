@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4760150595",
-    "productKey": "57d143c4911506ac",
-    "titleHash": "d9f884a867d20ccd",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-18T17:01:57.171Z"
-  },
-  {
-    "itemId": "MLB5187340939",
-    "productKey": "698e69da8766b393",
-    "titleHash": "e00bf88b571fde10",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-18T17:16:38.528Z"
-  },
-  {
-    "itemId": "MLB4631516257",
-    "productKey": "b9b09d11846bf67d",
-    "titleHash": "65f1cda77c78cc4f",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-18T17:16:38.528Z"
-  },
-  {
     "itemId": "MLB7727172236",
     "productKey": "def47bd57b067d3b",
     "titleHash": "06a94e5da6e6c836",
@@ -4798,5 +4774,29 @@
     "category": "ciclismo",
     "sourceCategoryId": "MLB1292",
     "reservedAt": "2026-11-22T16:16:31.715Z"
+  },
+  {
+    "itemId": "MLB5413776368",
+    "productKey": "43ab81ed3d64cbfc",
+    "titleHash": "847b82f5eeb65c22",
+    "category": "maquiagem",
+    "sourceCategoryId": "MLB1248",
+    "reservedAt": "2026-11-22T16:31:36.995Z"
+  },
+  {
+    "itemId": "MLB6233971228",
+    "productKey": "a5159ad3bb7f346b",
+    "titleHash": "b3a008af85b3061b",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-22T16:31:36.995Z"
+  },
+  {
+    "itemId": "MLB7851757470",
+    "productKey": "178d710c4c4a12da",
+    "titleHash": "591d03a1746cca9c",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-22T16:31:36.995Z"
   }
 ]
