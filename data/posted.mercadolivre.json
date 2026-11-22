@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4674216985",
-    "productKey": "9ccd3c60d0a6699f",
-    "titleHash": "65d824798790f1ae",
-    "category": "colchão",
-    "sourceCategoryId": "MLB438928",
-    "reservedAt": "2026-11-18T09:31:36.788Z"
-  },
-  {
-    "itemId": "MLB4887166173",
-    "productKey": "6e158df3dcbb96cd",
-    "titleHash": "639b847efcd22948",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-18T09:46:42.061Z"
-  },
-  {
-    "itemId": "MLB3509861975",
-    "productKey": "4e3f4c35024a7d4c",
-    "titleHash": "c05ea3c2f80d0174",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-18T10:01:49.434Z"
-  },
-  {
     "itemId": "MLB5573261753",
     "productKey": "c6d850128e0d4647",
     "titleHash": "0d363bda659ba892",
@@ -4798,5 +4774,29 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB456045",
     "reservedAt": "2026-11-22T07:16:41.169Z"
+  },
+  {
+    "itemId": "MLB4459491605",
+    "productKey": "1bf4bbd3aaba6886",
+    "titleHash": "b3ef83e862c209e8",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-22T07:31:44.556Z"
+  },
+  {
+    "itemId": "MLB4320329461",
+    "productKey": "ec1a0f6646947a52",
+    "titleHash": "8194a721d6cd8807",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-22T07:31:44.557Z"
+  },
+  {
+    "itemId": "MLB5593412129",
+    "productKey": "b8b821ebbc3d00cc",
+    "titleHash": "015f139068ee71d9",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-22T07:31:44.557Z"
   }
 ]
