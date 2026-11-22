@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3852607213",
-    "productKey": "fee0803db3fdd4f9",
-    "titleHash": "036294730bf79c55",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-18T03:16:41.264Z"
-  },
-  {
     "itemId": "MLB3516121753",
     "productKey": "e45e7ce2520ec55f",
     "titleHash": "58d4fc2df4ea9377",
@@ -4798,5 +4790,13 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-22T01:16:41.958Z"
+  },
+  {
+    "itemId": "MLB7930200504",
+    "productKey": "01b83afad55f31c1",
+    "titleHash": "84ad45755322ea1e",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-22T01:31:43.910Z"
   }
 ]
