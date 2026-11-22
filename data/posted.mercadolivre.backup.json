@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4482018927",
-    "productKey": "64d907793969abd0",
-    "titleHash": "683807807645b6a9",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-19T00:31:44.500Z"
-  },
-  {
     "itemId": "MLB3397953227",
     "productKey": "fd6c4db350f1b6e3",
     "titleHash": "4b00efdb0001e93b",
@@ -4798,5 +4790,13 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-22T22:16:36.207Z"
+  },
+  {
+    "itemId": "MLB4512909421",
+    "productKey": "2e453f95c6f33ca8",
+    "titleHash": "14a43f99ec759431",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-22T22:31:44.514Z"
   }
 ]
