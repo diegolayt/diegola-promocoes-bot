@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB3991904599",
-    "productKey": "82877247ca948082",
-    "titleHash": "f68a2c332d7a28a9",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-18T20:46:33.795Z"
-  },
-  {
-    "itemId": "MLB2735052332",
-    "productKey": "bc671c6efd514d42",
-    "titleHash": "c7204587a86680fc",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-18T21:16:37.367Z"
-  },
-  {
-    "itemId": "MLB6666191918",
-    "productKey": "234eb23fabd5e309",
-    "titleHash": "97ece075e5b54bac",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-18T21:46:38.494Z"
-  },
-  {
     "itemId": "MLB7057014274",
     "productKey": "69878d2d21f252a1",
     "titleHash": "25419699bc99025e",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-22T19:46:41.279Z"
+  },
+  {
+    "itemId": "MLB6972417112",
+    "productKey": "8028bcd48f2747c0",
+    "titleHash": "911c90f13675ebcb",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-22T20:01:46.837Z"
+  },
+  {
+    "itemId": "MLB7784031574",
+    "productKey": "ee8b6ac69fd4d365",
+    "titleHash": "e1ae2e1473c1c173",
+    "category": "ferramenta",
+    "sourceCategoryId": "MLB189007",
+    "reservedAt": "2026-11-22T20:01:46.837Z"
+  },
+  {
+    "itemId": "MLB5540659515",
+    "productKey": "927f51de2de95f80",
+    "titleHash": "c826f9560a1d3b1b",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-22T20:01:46.837Z"
   }
 ]
