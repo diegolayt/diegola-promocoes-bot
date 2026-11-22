@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5739411488",
-    "productKey": "b099216f74c971ee",
-    "titleHash": "a6fb1259c2474fe2",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-18T11:16:38.139Z"
-  },
-  {
-    "itemId": "MLB5574152653",
-    "productKey": "f59ad2d75ea00ed2",
-    "titleHash": "2eeeca2ccff60b6f",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-18T11:16:38.139Z"
-  },
-  {
     "itemId": "MLB4894374091",
     "productKey": "943989407173d02b",
     "titleHash": "7c83b6633b5ec6ab",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-22T09:16:39.646Z"
+  },
+  {
+    "itemId": "MLB4035471677",
+    "productKey": "c6d850128e0d4647",
+    "titleHash": "0d363bda659ba892",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-22T09:31:45.749Z"
+  },
+  {
+    "itemId": "MLB5762049098",
+    "productKey": "a1085792541f2e70",
+    "titleHash": "d8faca7aab92efc8",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-22T09:31:45.749Z"
   }
 ]
