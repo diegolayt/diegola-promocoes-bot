@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB8005586814",
-    "productKey": "2532e31a0aaf52da",
-    "titleHash": "4acde22d1ceae8f4",
-    "category": "brinquedos",
-    "sourceCategoryId": "MLB1132",
-    "reservedAt": "2026-11-18T04:01:48.739Z"
-  },
-  {
     "itemId": "MLB3969638313",
     "productKey": "1f336dc2d7fd96fc",
     "titleHash": "ab3cc4ecec2850f5",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-22T02:16:40.328Z"
+  },
+  {
+    "itemId": "MLB3640145261",
+    "productKey": "573321164cd845a9",
+    "titleHash": "95322f9ffc5758d5",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-22T02:31:44.588Z"
   }
 ]
