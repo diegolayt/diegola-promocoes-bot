@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "item_id": "MLB3746267799",
+      "site_id": "MLB",
+      "seller_id": 480263032,
+      "accepts_mercadopago": true,
+      "price": 2799,
+      "category_id": "MLB1652",
+      "currency_id": "BRL",
+      "warranty": "Garantia de fábrica: 12 meses",
+      "condition": "new",
+      "listing_type_id": "gold_pro",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "standard_price_by_quantity",
+        "user_product_unify",
+        "extended_warranty_eligible",
+        "first_party",
+        "dynamic_standard_price",
+        "good_quality_thumbnail",
+        "has_published_clips",
+        "kit_component",
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": 2707,
+      "original_price": 4199,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "fulfillment",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FqYW1hclRVeENVRk5CVDA4NU4yRTQ",
+          "name": "Cajamar"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia de fábrica",
+          "value_id": "2230279"
+        },
+        {
+          "value_struct": {
+            "number": 12,
+            "unit": "meses"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "12 meses",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU600361660",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB36772633",
+      "title": "Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_830301-MLA99949667885_112025-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB36772633",
+      "id": "MLB3746267799",
+      "sold_quantity": 900,
+      "rotationCategory": "notebook",
+      "sourceCategoryId": "MLB430687",
+      "minPrice": 900
+    }
+  ],
+  "reservedAt": "2026-11-22T18:01:42.156Z"
+}

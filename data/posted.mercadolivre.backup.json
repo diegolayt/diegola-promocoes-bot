@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5814374120",
-    "productKey": "2e453f95c6f33ca8",
-    "titleHash": "14a43f99ec759431",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-18T19:46:48.910Z"
-  },
-  {
     "itemId": "MLB5506392115",
     "productKey": "927f51de2de95f80",
     "titleHash": "33c4100f3856971e",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-22T17:46:42.377Z"
+  },
+  {
+    "itemId": "MLB3746267799",
+    "productKey": "a9fb3a707be80b00",
+    "titleHash": "2ba8275c8423409e",
+    "category": "notebook",
+    "sourceCategoryId": "MLB430687",
+    "reservedAt": "2026-11-22T18:01:42.154Z"
   }
 ]
