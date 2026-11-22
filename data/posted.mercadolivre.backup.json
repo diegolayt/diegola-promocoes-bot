@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6829392762",
-    "productKey": "cf31f194e5125ea5",
-    "titleHash": "53f465883ca4f30e",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-18T05:31:41.826Z"
-  },
-  {
     "itemId": "MLB3556275459",
     "productKey": "f8860107ce3c1512",
     "titleHash": "62799891c9cef2b5",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-22T03:46:40.593Z"
+  },
+  {
+    "itemId": "MLB5577636901",
+    "productKey": "66c7b386fec7fb85",
+    "titleHash": "07d3743c349b4b43",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-22T04:01:42.620Z"
   }
 ]
