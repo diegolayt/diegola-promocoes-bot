@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5574067241",
-    "productKey": "5cef076bfda0aa55",
-    "titleHash": "dfd22e90250cb95c",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-19T02:16:38.213Z"
-  },
-  {
-    "itemId": "MLB5520557482",
-    "productKey": "6da45092ee3d78e0",
-    "titleHash": "da5532a1ce14d15f",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-19T02:31:45.551Z"
-  },
-  {
     "itemId": "MLB5299585130",
     "productKey": "2e0f83b5b330f2e1",
     "titleHash": "b8969612fd2dbc15",
@@ -4798,5 +4782,21 @@
     "category": "casa",
     "sourceCategoryId": "MLB107564",
     "reservedAt": "2026-11-22T23:31:50.468Z"
+  },
+  {
+    "itemId": "MLB5146371923",
+    "productKey": "433c92dede263740",
+    "titleHash": "e7ffde166713f219",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-22T23:46:37.911Z"
+  },
+  {
+    "itemId": "MLB4482018927",
+    "productKey": "64d907793969abd0",
+    "titleHash": "683807807645b6a9",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-22T23:46:37.911Z"
   }
 ]
