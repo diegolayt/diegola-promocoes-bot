@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7992010530",
-    "productKey": "5d7af8f790c6fdd6",
-    "titleHash": "47e6d2d1173e13c1",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-18T16:46:35.132Z"
-  },
-  {
-    "itemId": "MLB8015329480",
-    "productKey": "f8541b1120414240",
-    "titleHash": "6e7efcaaa8b039c0",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-18T16:46:35.132Z"
-  },
-  {
     "itemId": "MLB6233971228",
     "productKey": "a5159ad3bb7f346b",
     "titleHash": "b3a008af85b3061b",
@@ -4798,5 +4782,21 @@
     "category": "som",
     "sourceCategoryId": "MLB3835",
     "reservedAt": "2026-11-22T15:31:52.837Z"
+  },
+  {
+    "itemId": "MLB7126628750",
+    "productKey": "eea683571c517b56",
+    "titleHash": "b54e87e5e9f2a184",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-22T16:01:48.777Z"
+  },
+  {
+    "itemId": "MLB8004277860",
+    "productKey": "da58292d29d880a5",
+    "titleHash": "424447b14f32b968",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-22T16:01:48.777Z"
   }
 ]
