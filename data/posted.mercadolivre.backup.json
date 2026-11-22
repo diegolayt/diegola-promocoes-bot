@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5564311487",
-    "productKey": "6d6a36b43f25814b",
-    "titleHash": "864ba560595ab6ad",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-18T04:46:41.464Z"
-  },
-  {
     "itemId": "MLB7757909694",
     "productKey": "56f0f6fb5de28aa1",
     "titleHash": "bb0018a3ebb15338",
@@ -4798,5 +4790,13 @@
     "category": "ferramenta elétrica",
     "sourceCategoryId": "MLB2526",
     "reservedAt": "2026-11-22T03:01:45.649Z"
+  },
+  {
+    "itemId": "MLB5586608839",
+    "productKey": "e45e7ce2520ec55f",
+    "titleHash": "58d4fc2df4ea9377",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-22T03:16:41.366Z"
   }
 ]
