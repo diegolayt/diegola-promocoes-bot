@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6595984244",
-    "productKey": "02983e6cebf8fe5d",
-    "titleHash": "29879c6e3f2ebbc5",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-19T01:16:44.354Z"
-  },
-  {
-    "itemId": "MLB8010891548",
-    "productKey": "d7c13b5792513c9a",
-    "titleHash": "76baa199fb0390bb",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-19T01:31:46.831Z"
-  },
-  {
-    "itemId": "MLB6970914122",
-    "productKey": "0a78d5595a81cc3e",
-    "titleHash": "60c69a8f7144b791",
-    "category": "drone",
-    "sourceCategoryId": "MLB264065",
-    "reservedAt": "2026-11-19T01:46:37.147Z"
-  },
-  {
     "itemId": "MLB7521581636",
     "productKey": "92ed4d201e5b3bee",
     "titleHash": "48c67fe42edfb18e",
@@ -4798,5 +4774,29 @@
     "category": "televisão",
     "sourceCategoryId": "MLB1002",
     "reservedAt": "2026-11-22T22:46:40.385Z"
+  },
+  {
+    "itemId": "MLB4445464355",
+    "productKey": "e100b1f005aaba1e",
+    "titleHash": "4d941d2484345991",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-22T23:01:43.846Z"
+  },
+  {
+    "itemId": "MLB7813090564",
+    "productKey": "bbbcab83b53caf8d",
+    "titleHash": "f424bc04999eb95b",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-22T23:01:43.846Z"
+  },
+  {
+    "itemId": "MLB5595690731",
+    "productKey": "422afdd941c1d5d4",
+    "titleHash": "ff0def2a538e714f",
+    "category": "console",
+    "sourceCategoryId": "MLB11172",
+    "reservedAt": "2026-11-22T23:01:43.846Z"
   }
 ]
