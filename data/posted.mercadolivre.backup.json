@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5446793961",
-    "productKey": "ae11f27802361e7f",
-    "titleHash": "fd53318c6e50c543",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-18T07:31:41.922Z"
-  },
-  {
-    "itemId": "MLB4459491605",
-    "productKey": "1bf4bbd3aaba6886",
-    "titleHash": "b3ef83e862c209e8",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-18T07:46:45.861Z"
-  },
-  {
     "itemId": "MLB4320329461",
     "productKey": "ec1a0f6646947a52",
     "titleHash": "8194a721d6cd8807",
@@ -4798,5 +4782,21 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-22T05:46:42.049Z"
+  },
+  {
+    "itemId": "MLB4755939250",
+    "productKey": "5b2c7ec3dd086606",
+    "titleHash": "09c567975070e98f",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-22T06:01:48.048Z"
+  },
+  {
+    "itemId": "MLB3852607213",
+    "productKey": "fee0803db3fdd4f9",
+    "titleHash": "036294730bf79c55",
+    "category": "streaming",
+    "sourceCategoryId": "MLB133950",
+    "reservedAt": "2026-11-22T06:01:48.048Z"
   }
 ]
