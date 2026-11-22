@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4320329461",
-    "productKey": "ec1a0f6646947a52",
-    "titleHash": "8194a721d6cd8807",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-18T07:46:45.861Z"
-  },
-  {
-    "itemId": "MLB4731891879",
-    "productKey": "b8b821ebbc3d00cc",
-    "titleHash": "015f139068ee71d9",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-18T07:46:45.861Z"
-  },
-  {
     "itemId": "MLB6477127322",
     "productKey": "4c39c54175dbde91",
     "titleHash": "3b8d07d05440f04b",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-22T06:01:48.048Z"
+  },
+  {
+    "itemId": "MLB4319861067",
+    "productKey": "59501ad5f70ecb50",
+    "titleHash": "fc3584eec1660efb",
+    "category": "impressão",
+    "sourceCategoryId": "MLB5875",
+    "reservedAt": "2026-11-22T06:16:40.722Z"
+  },
+  {
+    "itemId": "MLB3917376669",
+    "productKey": "bb0210ae17eea6d0",
+    "titleHash": "323bf31f9fa959bb",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-22T06:16:40.722Z"
   }
 ]
