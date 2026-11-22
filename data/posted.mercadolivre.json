@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6794389084",
-    "productKey": "7f07ce0b4993cace",
-    "titleHash": "bdfe8c72bf6ec63a",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-18T12:46:35.737Z"
-  },
-  {
     "itemId": "MLB5451861382",
     "productKey": "587d20e08660bde7",
     "titleHash": "990a1ea0e342ba85",
@@ -4798,5 +4790,13 @@
     "category": "monitor",
     "sourceCategoryId": "MLB99245",
     "reservedAt": "2026-11-22T10:16:44.219Z"
+  },
+  {
+    "itemId": "MLB4020673619",
+    "productKey": "c9df3c56099bd37b",
+    "titleHash": "34f9448e848ee070",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-22T10:31:35.685Z"
   }
 ]
