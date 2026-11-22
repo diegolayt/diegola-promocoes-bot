@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7907853460",
-    "productKey": "459bbea6fe06d062",
-    "titleHash": "bac41a6e174e5dfd",
-    "category": "casa",
-    "sourceCategoryId": "MLB107564",
-    "reservedAt": "2026-11-18T01:31:47.215Z"
-  },
-  {
-    "itemId": "MLB4550147595",
-    "productKey": "01b83afad55f31c1",
-    "titleHash": "84ad45755322ea1e",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-18T01:46:46.885Z"
-  },
-  {
     "itemId": "MLB4083441037",
     "productKey": "19f894e9b99512b0",
     "titleHash": "2c66353ef45a49a5",
@@ -4798,5 +4782,21 @@
     "category": "natal",
     "sourceCategoryId": "MLB117798",
     "reservedAt": "2026-11-22T00:16:42.447Z"
+  },
+  {
+    "itemId": "MLB4320340453",
+    "productKey": "e43b0bf189996c52",
+    "titleHash": "f0e4d8cb460162d1",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-22T00:31:36.258Z"
+  },
+  {
+    "itemId": "MLB4459673321",
+    "productKey": "810f54caef449f8a",
+    "titleHash": "91f8268a7fe15f7e",
+    "category": "celular",
+    "sourceCategoryId": "MLB1055",
+    "reservedAt": "2026-11-22T00:31:36.258Z"
   }
 ]
