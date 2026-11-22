@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5066903754",
-    "productKey": "2fbe972296c15ac4",
-    "titleHash": "94d92cdc19e55d62",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-18T01:16:34.397Z"
-  },
-  {
-    "itemId": "MLB5561239353",
-    "productKey": "8191759e21b92a67",
-    "titleHash": "8b681e8772bc1b7f",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-18T01:16:34.397Z"
-  },
-  {
-    "itemId": "MLB7044000776",
-    "productKey": "0129e0ad07cd5b49",
-    "titleHash": "254070ed90aabce5",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-18T01:31:47.214Z"
-  },
-  {
     "itemId": "MLB7907853460",
     "productKey": "459bbea6fe06d062",
     "titleHash": "bac41a6e174e5dfd",
@@ -4798,5 +4774,29 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-22T00:01:43.121Z"
+  },
+  {
+    "itemId": "MLB7723793010",
+    "productKey": "d39b1ecff1553030",
+    "titleHash": "589e36cf1c58b931",
+    "category": "fitness",
+    "sourceCategoryId": "MLB1338",
+    "reservedAt": "2026-11-22T00:16:42.447Z"
+  },
+  {
+    "itemId": "MLB3783973037",
+    "productKey": "79904641cb78c39e",
+    "titleHash": "c6c910964afbee15",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-22T00:16:42.447Z"
+  },
+  {
+    "itemId": "MLB5988123462",
+    "productKey": "3173ebec78e14208",
+    "titleHash": "4cef9d0770a61e63",
+    "category": "natal",
+    "sourceCategoryId": "MLB117798",
+    "reservedAt": "2026-11-22T00:16:42.447Z"
   }
 ]
