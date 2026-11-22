@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB7063243298",
-    "productKey": "72561843514ae323",
-    "titleHash": "9c44839cafa93dad",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-18T16:16:37.211Z"
-  },
-  {
-    "itemId": "MLB5413776368",
-    "productKey": "43ab81ed3d64cbfc",
-    "titleHash": "847b82f5eeb65c22",
-    "category": "maquiagem",
-    "sourceCategoryId": "MLB1248",
-    "reservedAt": "2026-11-18T16:31:44.914Z"
-  },
-  {
     "itemId": "MLB5556165805",
     "productKey": "429e344a68635eec",
     "titleHash": "0d6a97bbb0f3ef1c",
@@ -4798,5 +4782,21 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-22T15:01:47.444Z"
+  },
+  {
+    "itemId": "MLB4010199342",
+    "productKey": "db1a4254f93598b2",
+    "titleHash": "b53da4116ee2f14b",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-22T15:16:43.734Z"
+  },
+  {
+    "itemId": "MLB4039445285",
+    "productKey": "99e7af203807e481",
+    "titleHash": "725a0ad2111c45fd",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-22T15:16:43.734Z"
   }
 ]
