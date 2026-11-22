@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6135753584",
-    "productKey": "d60f40144ad87174",
-    "titleHash": "673a514c6de388e3",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-18T13:46:44.938Z"
-  },
-  {
     "itemId": "MLB5075783573",
     "productKey": "93b0581f10d51661",
     "titleHash": "f1bca9745f7146b2",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-22T11:01:55.155Z"
+  },
+  {
+    "itemId": "MLB5472506643",
+    "productKey": "8d694ae9d917b1ce",
+    "titleHash": "d5bb36d4c670bfb2",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB31683",
+    "reservedAt": "2026-11-22T11:16:43.347Z"
   }
 ]
