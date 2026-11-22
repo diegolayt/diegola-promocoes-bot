@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5200043249",
-    "productKey": "c7ebf54e4fcc2fe3",
-    "titleHash": "5a9f86ddd7a1801f",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-18T13:31:45.183Z"
-  },
-  {
     "itemId": "MLB6135753584",
     "productKey": "d60f40144ad87174",
     "titleHash": "673a514c6de388e3",
@@ -4798,5 +4790,13 @@
     "category": "jogos",
     "sourceCategoryId": "MLB186456",
     "reservedAt": "2026-11-22T10:46:41.945Z"
+  },
+  {
+    "itemId": "MLB7896343976",
+    "productKey": "4c39c54175dbde91",
+    "titleHash": "3b8d07d05440f04b",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-22T11:01:55.155Z"
   }
 ]
