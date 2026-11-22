@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5575158922",
-    "productKey": "470a6f69c29f9087",
-    "titleHash": "128e67c8b561c343",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-18T02:46:44.595Z"
-  },
-  {
-    "itemId": "MLB3640145261",
-    "productKey": "573321164cd845a9",
-    "titleHash": "95322f9ffc5758d5",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-18T02:46:44.595Z"
-  },
-  {
-    "itemId": "MLB3269837602",
-    "productKey": "eb39781cba8c5ba7",
-    "titleHash": "9e968352a8f3a15c",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-18T03:01:44.945Z"
-  },
-  {
     "itemId": "MLB3852607213",
     "productKey": "fee0803db3fdd4f9",
     "titleHash": "036294730bf79c55",
@@ -4798,5 +4774,29 @@
     "category": "periférico",
     "sourceCategoryId": "MLB1714",
     "reservedAt": "2026-11-22T01:01:49.292Z"
+  },
+  {
+    "itemId": "MLB7874254962",
+    "productKey": "56a230716db5d97e",
+    "titleHash": "32e3b2ff4d00f4ad",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-22T01:16:41.958Z"
+  },
+  {
+    "itemId": "MLB7044000776",
+    "productKey": "0129e0ad07cd5b49",
+    "titleHash": "254070ed90aabce5",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-22T01:16:41.958Z"
+  },
+  {
+    "itemId": "MLB7907853460",
+    "productKey": "459bbea6fe06d062",
+    "titleHash": "bac41a6e174e5dfd",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-22T01:16:41.958Z"
   }
 ]
