@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6740242566",
-    "productKey": "fad801ba53bbc8de",
-    "titleHash": "6859c19609c4f4eb",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-18T18:46:38.929Z"
-  },
-  {
-    "itemId": "MLB7124261450",
-    "productKey": "9c762775786a2c63",
-    "titleHash": "4d8b88ad92cbf3b8",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-18T19:16:40.837Z"
-  },
-  {
-    "itemId": "MLB7877034030",
-    "productKey": "81231682978a91c7",
-    "titleHash": "f963640783481006",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-18T19:16:40.837Z"
-  },
-  {
     "itemId": "MLB5814374120",
     "productKey": "2e453f95c6f33ca8",
     "titleHash": "14a43f99ec759431",
@@ -4798,5 +4774,29 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-22T17:31:43.760Z"
+  },
+  {
+    "itemId": "MLB4976654141",
+    "productKey": "1e02c9455942b0ea",
+    "titleHash": "b7eb6e3ad56267d8",
+    "category": "cozinha",
+    "sourceCategoryId": "MLB1618",
+    "reservedAt": "2026-11-22T17:46:42.377Z"
+  },
+  {
+    "itemId": "MLB5716638160",
+    "productKey": "c6a89555b43d6c0c",
+    "titleHash": "e89ee6ba89cbd385",
+    "category": "lavadora",
+    "sourceCategoryId": "MLB438282",
+    "reservedAt": "2026-11-22T17:46:42.377Z"
+  },
+  {
+    "itemId": "MLB3994292819",
+    "productKey": "5c015bba57a3f49a",
+    "titleHash": "81926478db025f65",
+    "category": "climatização",
+    "sourceCategoryId": "MLB252358",
+    "reservedAt": "2026-11-22T17:46:42.377Z"
   }
 ]
