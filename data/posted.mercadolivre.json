@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB6233971228",
-    "productKey": "a5159ad3bb7f346b",
-    "titleHash": "b3a008af85b3061b",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-18T17:01:57.171Z"
-  },
-  {
-    "itemId": "MLB5972837798",
-    "productKey": "c45a40bf0889759e",
-    "titleHash": "7fb3749c5110ec68",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-18T17:01:57.171Z"
-  },
-  {
-    "itemId": "MLB7791936566",
-    "productKey": "2f868339db1e586d",
-    "titleHash": "89a9c74f588cbf1b",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-18T17:01:57.171Z"
-  },
-  {
     "itemId": "MLB4760150595",
     "productKey": "57d143c4911506ac",
     "titleHash": "d9f884a867d20ccd",
@@ -4798,5 +4774,29 @@
     "category": "barbearia",
     "sourceCategoryId": "MLB264787",
     "reservedAt": "2026-11-22T16:01:48.777Z"
+  },
+  {
+    "itemId": "MLB3956146971",
+    "productKey": "b657492b7e761bf0",
+    "titleHash": "28f7e1efba05bb5f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-22T16:16:31.715Z"
+  },
+  {
+    "itemId": "MLB7063243298",
+    "productKey": "72561843514ae323",
+    "titleHash": "9c44839cafa93dad",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-22T16:16:31.715Z"
+  },
+  {
+    "itemId": "MLB5451861382",
+    "productKey": "587d20e08660bde7",
+    "titleHash": "990a1ea0e342ba85",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-22T16:16:31.715Z"
   }
 ]
