@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4708820035",
-    "productKey": "9452ee0e479ad9ff",
-    "titleHash": "ca8268008cd70647",
-    "category": "iluminação",
-    "sourceCategoryId": "MLB1582",
-    "reservedAt": "2026-11-18T20:01:43.211Z"
-  },
-  {
     "itemId": "MLB4849437799",
     "productKey": "1835b96f8c31b1b3",
     "titleHash": "fe3ce120921d1f3b",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-22T18:16:42.248Z"
+  },
+  {
+    "itemId": "MLB7124261450",
+    "productKey": "9c762775786a2c63",
+    "titleHash": "4d8b88ad92cbf3b8",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-22T18:31:39.369Z"
   }
 ]
