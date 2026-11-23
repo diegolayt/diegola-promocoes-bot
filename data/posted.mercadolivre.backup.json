@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6823283528",
-    "productKey": "e2489c1451cb6572",
-    "titleHash": "313364498118e4ab",
-    "category": "ciclismo",
-    "sourceCategoryId": "MLB1292",
-    "reservedAt": "2026-11-19T11:31:41.896Z"
-  },
-  {
     "itemId": "MLB7535842350",
     "productKey": "fb1d90d3e2311de7",
     "titleHash": "3ee21ab1648fcc37",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-23T07:46:39.754Z"
+  },
+  {
+    "itemId": "MLB5270193474",
+    "productKey": "948ee43d2d7626fb",
+    "titleHash": "93e49c3d46e7aa6f",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-23T08:01:49.814Z"
   }
 ]
