@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4411577880",
-    "productKey": "1695451136b60c3d",
-    "titleHash": "7bf56a01b25ad75c",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-19T08:01:42.489Z"
-  },
-  {
-    "itemId": "MLB6171381864",
-    "productKey": "b5ddbc5fc16e2eb7",
-    "titleHash": "1a469a09813e0b46",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-19T08:01:42.489Z"
-  },
-  {
     "itemId": "MLB3783948041",
     "productKey": "daaa74c13b09b117",
     "titleHash": "2a5c8d2871860c20",
@@ -4798,5 +4782,21 @@
     "category": "streaming",
     "sourceCategoryId": "MLB133950",
     "reservedAt": "2026-11-23T04:31:42.022Z"
+  },
+  {
+    "itemId": "MLB3893321459",
+    "productKey": "5f597bedc380031e",
+    "titleHash": "d56fe2e6d0e1307b",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-23T04:46:34.088Z"
+  },
+  {
+    "itemId": "MLB4195198970",
+    "productKey": "19e579017e9bbafd",
+    "titleHash": "9bead5eecb241d6b",
+    "category": "pele",
+    "sourceCategoryId": "MLB199407",
+    "reservedAt": "2026-11-23T04:46:34.088Z"
   }
 ]
