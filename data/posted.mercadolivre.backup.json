@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3961673791",
-    "productKey": "dd69d89534b391d8",
-    "titleHash": "7dc6acb6a88cf176",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-19T18:16:40.737Z"
-  },
-  {
-    "itemId": "MLB4367472233",
-    "productKey": "586170da6abacc2c",
-    "titleHash": "9db3ad497b1f6ba2",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-19T18:16:40.737Z"
-  },
-  {
     "itemId": "MLB7501363886",
     "productKey": "19e4b1bfcd1369fe",
     "titleHash": "c32aaad6c7dcd3ef",
@@ -4798,5 +4782,21 @@
     "category": "armazenamento",
     "sourceCategoryId": "MLB430598",
     "reservedAt": "2026-11-23T16:31:48.050Z"
+  },
+  {
+    "itemId": "MLB4571774956",
+    "productKey": "7e61c94a53a14a35",
+    "titleHash": "7192cec501e94269",
+    "category": "cabelo",
+    "sourceCategoryId": "MLB1263",
+    "reservedAt": "2026-11-23T16:46:35.398Z"
+  },
+  {
+    "itemId": "MLB6492073308",
+    "productKey": "7c1203a2803ba98c",
+    "titleHash": "c471681ba2f9bd71",
+    "category": "móveis",
+    "sourceCategoryId": "MLB436380",
+    "reservedAt": "2026-11-23T16:46:35.398Z"
   }
 ]
