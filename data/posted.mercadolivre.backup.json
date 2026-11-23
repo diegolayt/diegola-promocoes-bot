@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3783948041",
-    "productKey": "daaa74c13b09b117",
-    "titleHash": "2a5c8d2871860c20",
-    "category": "livros",
-    "sourceCategoryId": "MLB437616",
-    "reservedAt": "2026-11-19T08:46:43.369Z"
-  },
-  {
-    "itemId": "MLB5511161377",
-    "productKey": "7996d894587d17ae",
-    "titleHash": "7ec3def6ccf605d1",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-19T08:46:43.369Z"
-  },
-  {
     "itemId": "MLB7664829504",
     "productKey": "05b7fd961f48a8ca",
     "titleHash": "00981e70f1f63cf9",
@@ -4798,5 +4782,21 @@
     "category": "pele",
     "sourceCategoryId": "MLB199407",
     "reservedAt": "2026-11-23T04:46:34.088Z"
+  },
+  {
+    "itemId": "MLB7227482292",
+    "productKey": "62bcab9e6c459851",
+    "titleHash": "503e887254ddf661",
+    "category": "jogos de tabuleiro",
+    "sourceCategoryId": "MLB432988",
+    "reservedAt": "2026-11-23T05:01:48.955Z"
+  },
+  {
+    "itemId": "MLB4411577880",
+    "productKey": "1695451136b60c3d",
+    "titleHash": "7bf56a01b25ad75c",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-23T05:01:48.955Z"
   }
 ]
