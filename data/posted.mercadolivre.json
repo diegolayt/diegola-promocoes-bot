@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4788497587",
-    "productKey": "06651e2562cbb16b",
-    "titleHash": "827ce4bd52859f56",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-19T16:01:55.776Z"
-  },
-  {
     "itemId": "MLB6819871490",
     "productKey": "a256261d4df6f661",
     "titleHash": "9df7cd8fcf29ae55",
@@ -4798,5 +4790,13 @@
     "category": "redes",
     "sourceCategoryId": "MLB1700",
     "reservedAt": "2026-11-23T13:31:45.701Z"
+  },
+  {
+    "itemId": "MLB3783948041",
+    "productKey": "daaa74c13b09b117",
+    "titleHash": "2a5c8d2871860c20",
+    "category": "livros",
+    "sourceCategoryId": "MLB437616",
+    "reservedAt": "2026-11-23T14:16:42.035Z"
   }
 ]
