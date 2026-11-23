@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5940016354",
-    "productKey": "6abafabf02f74def",
-    "titleHash": "631a30b9958189c5",
-    "category": "perfume",
-    "sourceCategoryId": "MLB6284",
-    "reservedAt": "2026-11-19T12:46:41.035Z"
-  },
-  {
-    "itemId": "MLB5800043516",
-    "productKey": "db0638517b0c4427",
-    "titleHash": "45d361ba93463419",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-19T13:01:49.890Z"
-  },
-  {
     "itemId": "MLB5780054864",
     "productKey": "9d5c96d703bbb08b",
     "titleHash": "2b97da7a4eb942e4",
@@ -4798,5 +4782,21 @@
     "category": "segurança",
     "sourceCategoryId": "MLB7069",
     "reservedAt": "2026-11-23T11:16:32.964Z"
+  },
+  {
+    "itemId": "MLB6823283528",
+    "productKey": "e2489c1451cb6572",
+    "titleHash": "313364498118e4ab",
+    "category": "ciclismo",
+    "sourceCategoryId": "MLB1292",
+    "reservedAt": "2026-11-23T11:46:42.982Z"
+  },
+  {
+    "itemId": "MLB5400098189",
+    "productKey": "d8cdb8921362f102",
+    "titleHash": "1b7a10c533ed1347",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-23T11:46:42.982Z"
   }
 ]
