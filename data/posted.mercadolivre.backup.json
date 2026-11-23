@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5333613199",
-    "productKey": "dbfea0470a350aa5",
-    "titleHash": "7fbb1dd038a3831f",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-19T12:31:36.595Z"
-  },
-  {
     "itemId": "MLB5940016354",
     "productKey": "6abafabf02f74def",
     "titleHash": "631a30b9958189c5",
@@ -4798,5 +4790,13 @@
     "category": "fogão",
     "sourceCategoryId": "MLB1580",
     "reservedAt": "2026-11-23T10:16:42.334Z"
+  },
+  {
+    "itemId": "MLB7535842350",
+    "productKey": "fb1d90d3e2311de7",
+    "titleHash": "3ee21ab1648fcc37",
+    "category": "segurança",
+    "sourceCategoryId": "MLB7069",
+    "reservedAt": "2026-11-23T11:16:32.964Z"
   }
 ]
