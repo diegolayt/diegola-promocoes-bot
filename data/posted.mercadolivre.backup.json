@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB4067480467",
-    "productKey": "00737ae5c6b1088e",
-    "titleHash": "98ce55219da388e1",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-19T10:16:43.544Z"
-  },
-  {
     "itemId": "MLB4229198275",
     "productKey": "fe8deb3696fa75bc",
     "titleHash": "99b6f6297e915fe9",
@@ -4798,5 +4790,13 @@
     "category": "refrigeração",
     "sourceCategoryId": "MLB1576",
     "reservedAt": "2026-11-23T06:31:42.760Z"
+  },
+  {
+    "itemId": "MLB6161925990",
+    "productKey": "077fe19f4736884c",
+    "titleHash": "d7b2cb595cb95e9a",
+    "category": "smartwatch",
+    "sourceCategoryId": "MLB417704",
+    "reservedAt": "2026-11-23T06:46:36.365Z"
   }
 ]
