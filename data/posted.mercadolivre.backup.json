@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB4110427699",
-    "productKey": "a42d98f7b575f48f",
-    "titleHash": "5a853c171e00f952",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-19T09:31:38.139Z"
-  },
-  {
-    "itemId": "MLB5140003520",
-    "productKey": "66aad9dacbb2cc0c",
-    "titleHash": "9d1eae52c8bb9416",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-11-19T09:46:40.664Z"
-  },
-  {
-    "itemId": "MLB6359900498",
-    "productKey": "6325cecbb66a769a",
-    "titleHash": "7ff317b46af6b060",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-19T10:01:45.120Z"
-  },
-  {
     "itemId": "MLB5335967493",
     "productKey": "a0fd45fd216a9397",
     "titleHash": "2b6d0992aecf02d0",
@@ -4798,5 +4774,29 @@
     "category": "áudio",
     "sourceCategoryId": "MLB3843",
     "reservedAt": "2026-11-23T05:31:42.094Z"
+  },
+  {
+    "itemId": "MLB4142836978",
+    "productKey": "f764b26a37859a9e",
+    "titleHash": "8b8c5f4cc7076bed",
+    "category": "relógio",
+    "sourceCategoryId": "MLB26426",
+    "reservedAt": "2026-11-23T05:46:44.348Z"
+  },
+  {
+    "itemId": "MLB7000657376",
+    "productKey": "157333bf63c50883",
+    "titleHash": "47c72b53ac4b0a90",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-23T05:46:44.348Z"
+  },
+  {
+    "itemId": "MLB4080129275",
+    "productKey": "45a76a65dccf9a6b",
+    "titleHash": "4ca32d474f9cf226",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-23T05:46:44.348Z"
   }
 ]
