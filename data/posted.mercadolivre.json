@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5537219564",
-    "productKey": "3ea7879486c7a7da",
-    "titleHash": "792f7c3149657cee",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-19T16:16:50.668Z"
-  },
-  {
-    "itemId": "MLB5180043235",
-    "productKey": "c65287d4bd4790c6",
-    "titleHash": "701fe7632c6e3d92",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-19T16:16:50.668Z"
-  },
-  {
     "itemId": "MLB4473336567",
     "productKey": "feb8ee0e5e78d68c",
     "titleHash": "d21682eb23e8c1fd",
@@ -4798,5 +4782,21 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-23T15:01:50.084Z"
+  },
+  {
+    "itemId": "MLB3519338657",
+    "productKey": "3e89fb212f1b587a",
+    "titleHash": "a70af37fa192c514",
+    "category": "periférico",
+    "sourceCategoryId": "MLB1714",
+    "reservedAt": "2026-11-23T15:16:40.468Z"
+  },
+  {
+    "itemId": "MLB8039790838",
+    "productKey": "2c91e939a7b3a3a7",
+    "titleHash": "bbfa3287b1760a8f",
+    "category": "casa",
+    "sourceCategoryId": "MLB107564",
+    "reservedAt": "2026-11-23T15:16:40.468Z"
   }
 ]
