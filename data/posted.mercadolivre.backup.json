@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4733868672",
-    "productKey": "6f3a85ca31e96116",
-    "titleHash": "e32c2e9cfc629a6c",
-    "category": "colchão",
-    "sourceCategoryId": "MLB438928",
-    "reservedAt": "2026-11-19T14:16:42.508Z"
-  },
-  {
-    "itemId": "MLB7572148266",
-    "productKey": "abd7c812361ef615",
-    "titleHash": "c3ed47b04f61f6e2",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-19T15:16:34.369Z"
-  },
-  {
     "itemId": "MLB5957878606",
     "productKey": "a5f8c63f5183db30",
     "titleHash": "7e3fa046dc41f09a",
@@ -4798,5 +4782,21 @@
     "category": "jogos de tabuleiro",
     "sourceCategoryId": "MLB432988",
     "reservedAt": "2026-11-23T12:01:50.050Z"
+  },
+  {
+    "itemId": "MLB5940016354",
+    "productKey": "6abafabf02f74def",
+    "titleHash": "631a30b9958189c5",
+    "category": "perfume",
+    "sourceCategoryId": "MLB6284",
+    "reservedAt": "2026-11-23T12:16:39.115Z"
+  },
+  {
+    "itemId": "MLB5333613199",
+    "productKey": "dbfea0470a350aa5",
+    "titleHash": "7fbb1dd038a3831f",
+    "category": "jogos",
+    "sourceCategoryId": "MLB186456",
+    "reservedAt": "2026-11-23T12:16:39.115Z"
   }
 ]
