@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3600544593",
-    "productKey": "c52e36fc9898a93c",
-    "titleHash": "0980e9b00d7d2072",
-    "category": "climatização",
-    "sourceCategoryId": "MLB252358",
-    "reservedAt": "2026-11-19T03:46:39.009Z"
-  },
-  {
-    "itemId": "MLB2990680716",
-    "productKey": "ccb6a091dd86456b",
-    "titleHash": "34034148276df6c7",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-19T04:01:47.587Z"
-  },
-  {
     "itemId": "MLB5575052912",
     "productKey": "22a14d6998675ae9",
     "titleHash": "1b1909ed1ab40901",
@@ -4798,5 +4782,21 @@
     "category": "drone",
     "sourceCategoryId": "MLB264065",
     "reservedAt": "2026-11-23T01:46:35.189Z"
+  },
+  {
+    "itemId": "MLB5299585130",
+    "productKey": "2e0f83b5b330f2e1",
+    "titleHash": "b8969612fd2dbc15",
+    "category": "monitor",
+    "sourceCategoryId": "MLB99245",
+    "reservedAt": "2026-11-23T02:01:46.693Z"
+  },
+  {
+    "itemId": "MLB7501055654",
+    "productKey": "496a44c0154a0bf4",
+    "titleHash": "b0961859353c7014",
+    "category": "televisão",
+    "sourceCategoryId": "MLB1002",
+    "reservedAt": "2026-11-23T02:01:46.693Z"
   }
 ]
