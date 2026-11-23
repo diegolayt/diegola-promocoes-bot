@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6142794264",
-    "productKey": "2527dd838b018334",
-    "titleHash": "34d297fdc0d07825",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-19T12:01:43.935Z"
-  },
-  {
     "itemId": "MLB5249060925",
     "productKey": "8c6368c4182d052e",
     "titleHash": "076b7b730e1e7886",
@@ -4798,5 +4790,13 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-23T08:16:39.850Z"
+  },
+  {
+    "itemId": "MLB4110427699",
+    "productKey": "a42d98f7b575f48f",
+    "titleHash": "5a853c171e00f952",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-23T08:46:45.668Z"
   }
 ]
