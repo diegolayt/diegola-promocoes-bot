@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5400098189",
-    "productKey": "d8cdb8921362f102",
-    "titleHash": "1b7a10c533ed1347",
-    "category": "áudio",
-    "sourceCategoryId": "MLB3843",
-    "reservedAt": "2026-11-19T12:16:51.041Z"
-  },
-  {
     "itemId": "MLB5333613199",
     "productKey": "dbfea0470a350aa5",
     "titleHash": "7fbb1dd038a3831f",
@@ -4798,5 +4790,13 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB9188",
     "reservedAt": "2026-11-23T09:31:46.344Z"
+  },
+  {
+    "itemId": "MLB4229198275",
+    "productKey": "fe8deb3696fa75bc",
+    "titleHash": "99b6f6297e915fe9",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-23T10:16:42.334Z"
   }
 ]
