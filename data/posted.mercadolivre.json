@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB6819871490",
-    "productKey": "a256261d4df6f661",
-    "titleHash": "9df7cd8fcf29ae55",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-19T16:16:50.667Z"
-  },
-  {
     "itemId": "MLB5537219564",
     "productKey": "3ea7879486c7a7da",
     "titleHash": "792f7c3149657cee",
@@ -4798,5 +4790,13 @@
     "category": "livros",
     "sourceCategoryId": "MLB437616",
     "reservedAt": "2026-11-23T14:16:42.035Z"
+  },
+  {
+    "itemId": "MLB4579537997",
+    "productKey": "f62d7dcdfc217a6f",
+    "titleHash": "93c5d3f320aad0c2",
+    "category": "tablet",
+    "sourceCategoryId": "MLB99889",
+    "reservedAt": "2026-11-23T15:01:50.084Z"
   }
 ]
