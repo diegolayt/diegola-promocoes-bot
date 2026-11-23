@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7501363886",
-    "productKey": "19e4b1bfcd1369fe",
-    "titleHash": "c32aaad6c7dcd3ef",
-    "category": "celular",
-    "sourceCategoryId": "MLB1055",
-    "reservedAt": "2026-11-19T18:16:40.737Z"
-  },
-  {
-    "itemId": "MLB7925133864",
-    "productKey": "582a00a061dfbcdd",
-    "titleHash": "2ff16fab12801e4a",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-19T18:31:49.590Z"
-  },
-  {
-    "itemId": "MLB5769944586",
-    "productKey": "ec93060555c6cb7b",
-    "titleHash": "9478296a7f5367d3",
-    "category": "ferramenta",
-    "sourceCategoryId": "MLB189007",
-    "reservedAt": "2026-11-19T18:46:30.329Z"
-  },
-  {
-    "itemId": "MLB3643515139",
-    "productKey": "b19bf8f530030510",
-    "titleHash": "044927b22d296465",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-19T18:46:30.329Z"
-  },
-  {
     "itemId": "MLB7996206578",
     "productKey": "9adc595151031a03",
     "titleHash": "aae437bd40936ba5",
@@ -4798,5 +4766,37 @@
     "category": "móveis",
     "sourceCategoryId": "MLB436380",
     "reservedAt": "2026-11-23T16:46:35.398Z"
+  },
+  {
+    "itemId": "MLB4265708013",
+    "productKey": "3ca801cb1e1d27d3",
+    "titleHash": "9fab40653042a04f",
+    "category": "colchão",
+    "sourceCategoryId": "MLB438928",
+    "reservedAt": "2026-11-23T17:16:35.632Z"
+  },
+  {
+    "itemId": "MLB4695787711",
+    "productKey": "44820bb2dd9758cc",
+    "titleHash": "81ff72309bb23f0c",
+    "category": "drone",
+    "sourceCategoryId": "MLB264065",
+    "reservedAt": "2026-11-23T17:16:35.632Z"
+  },
+  {
+    "itemId": "MLB4096819713",
+    "productKey": "b4f9ef44e31e7cd4",
+    "titleHash": "05149fb4766cf1e0",
+    "category": "barbearia",
+    "sourceCategoryId": "MLB264787",
+    "reservedAt": "2026-11-23T17:16:35.632Z"
+  },
+  {
+    "itemId": "MLB3888776593",
+    "productKey": "076edd030559a500",
+    "titleHash": "32bfc7c6658969c8",
+    "category": "purificador",
+    "sourceCategoryId": "MLB21171",
+    "reservedAt": "2026-11-23T17:16:35.632Z"
   }
 ]
