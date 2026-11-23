@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB4142836978",
-    "productKey": "f764b26a37859a9e",
-    "titleHash": "8b8c5f4cc7076bed",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-19T09:16:37.046Z"
-  },
-  {
-    "itemId": "MLB7000657376",
-    "productKey": "157333bf63c50883",
-    "titleHash": "47c72b53ac4b0a90",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-19T09:16:37.046Z"
-  },
-  {
     "itemId": "MLB4110427699",
     "productKey": "a42d98f7b575f48f",
     "titleHash": "5a853c171e00f952",
@@ -4798,5 +4782,21 @@
     "category": "celular",
     "sourceCategoryId": "MLB1055",
     "reservedAt": "2026-11-23T05:16:39.199Z"
+  },
+  {
+    "itemId": "MLB5055480472",
+    "productKey": "0fcca013faaa8ff7",
+    "titleHash": "1c057f5f4d605cd2",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB456045",
+    "reservedAt": "2026-11-23T05:31:42.094Z"
+  },
+  {
+    "itemId": "MLB6729908018",
+    "productKey": "125a02479dbb4f92",
+    "titleHash": "67261eed9f9c6156",
+    "category": "áudio",
+    "sourceCategoryId": "MLB3843",
+    "reservedAt": "2026-11-23T05:31:42.094Z"
   }
 ]
