@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "MLB5326725229",
+      "site_id": "MLB",
+      "seller_id": 1863695430,
+      "accepts_mercadopago": true,
+      "price": 429.9,
+      "category_id": "MLB3095",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 30 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": 1111,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": false,
+        "mode": "me2",
+        "logistic_type": "cross_docking",
+        "tags": [
+          "self_service_out",
+          "mandatory_free_shipping",
+          "self_service_available"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TVhYQ2FjaG9laXJhIFBhdWxpc3RhVFV4Q1VGT",
+          "name": "Jacareí"
+        },
+        "state": {
+          "id": "TUxCUFNBT085N2E4",
+          "name": "São Paulo"
+        },
+        "neighborhood": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 30,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "30 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU5381825852",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB78878036",
+      "title": "Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante e Display LCD",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA117138558111_092026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB78878036",
+      "id": "MLB5326725229",
+      "sold_quantity": 500,
+      "rotationCategory": "fitness",
+      "sourceCategoryId": "MLB1338",
+      "minPrice": 80
+    },
+    {
+      "item_id": "MLB4652819173",
+      "site_id": "MLB",
+      "seller_id": 182993893,
+      "accepts_mercadopago": true,
+      "price": 2999,
+      "category_id": "MLB180137",
+      "currency_id": "BRL",
+      "warranty": "Garantia do vendedor: 90 dias",
+      "condition": "new",
+      "listing_type_id": "gold_special",
+      "international_delivery_mode": "none",
+      "tier": "",
+      "inventory_id": "",
+      "tags": [
+        "kvs_primary",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "deal_ids": [],
+      "official_store_id": null,
+      "original_price": null,
+      "shipping": {
+        "free_shipping": true,
+        "store_pick_up": false,
+        "local_pick_up": true,
+        "mode": "me2",
+        "logistic_type": "xd_drop_off",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "cost": 0
+      },
+      "seller_address": {
+        "city": {
+          "id": "TUxCQ0RPVWQwOTQz",
+          "name": "Dourados"
+        },
+        "state": {
+          "id": "TUxCUE1BVEw4ZTc",
+          "name": "Mato Grosso do Sul"
+        },
+        "neighborhood": {
+          "id": "TUxCQkNPSDJFMUIw",
+          "name": "Cohab II"
+        }
+      },
+      "sale_terms": [
+        {
+          "value_struct": null,
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantia",
+          "value_name": "Garantia do vendedor",
+          "value_id": "2230280"
+        },
+        {
+          "value_struct": {
+            "number": 90,
+            "unit": "dias"
+          },
+          "id": "WARRANTY_TIME",
+          "name": "Tempo de garantia",
+          "value_name": "90 dias",
+          "value_id": null
+        }
+      ],
+      "user_product_id": "MLBU3945819298",
+      "min_purchase_unit": 1,
+      "catalog_product_id": "MLB68533678",
+      "title": "Drone DJI Lito 1 Standard Combo, com câmera e vídeo 4K, imagem 8K, fácil de usar para iniciantes, detecção de obstáculos, ActiveTrack, leve e dobrável, transmissão de vídeo de até 15 km - DJI079",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_607088-MLA114010351917_072026-F.jpg",
+      "permalink": "https://www.mercadolivre.com.br/p/MLB68533678",
+      "id": "MLB4652819173",
+      "sold_quantity": 1000,
+      "rotationCategory": "drone",
+      "sourceCategoryId": "MLB264065",
+      "minPrice": 250
+    }
+  ],
+  "reservedAt": "2026-11-23T01:46:35.191Z"
+}
