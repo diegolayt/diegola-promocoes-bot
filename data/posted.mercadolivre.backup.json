@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5865969374",
-    "productKey": "0b028e4f27c78df2",
-    "titleHash": "ddce1d36b82207f4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-19T12:16:51.041Z"
-  },
-  {
     "itemId": "MLB5400098189",
     "productKey": "d8cdb8921362f102",
     "titleHash": "1b7a10c533ed1347",
@@ -4798,5 +4790,13 @@
     "category": "tablet",
     "sourceCategoryId": "MLB99889",
     "reservedAt": "2026-11-23T09:16:41.525Z"
+  },
+  {
+    "itemId": "MLB7924699146",
+    "productKey": "fdc3da5d20d7933d",
+    "titleHash": "ae7b17f57e7828e2",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "MLB9188",
+    "reservedAt": "2026-11-23T09:31:46.344Z"
   }
 ]
