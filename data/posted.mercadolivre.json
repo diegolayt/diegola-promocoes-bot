@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5979493700",
-    "productKey": "ef4a8ade7356b7de",
-    "titleHash": "884030f96bc8b69d",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-19T10:16:43.544Z"
-  },
-  {
     "itemId": "MLB4067480467",
     "productKey": "00737ae5c6b1088e",
     "titleHash": "98ce55219da388e1",
@@ -4798,5 +4790,13 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-23T06:16:47.556Z"
+  },
+  {
+    "itemId": "MLB5173509265",
+    "productKey": "6325cecbb66a769a",
+    "titleHash": "7ff317b46af6b060",
+    "category": "refrigeração",
+    "sourceCategoryId": "MLB1576",
+    "reservedAt": "2026-11-23T06:31:42.760Z"
   }
 ]
