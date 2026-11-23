@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB3519338657",
-    "productKey": "3e89fb212f1b587a",
-    "titleHash": "a70af37fa192c514",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-19T15:31:46.843Z"
-  },
-  {
-    "itemId": "MLB4579537997",
-    "productKey": "f62d7dcdfc217a6f",
-    "titleHash": "93c5d3f320aad0c2",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-19T15:46:39.795Z"
-  },
-  {
     "itemId": "MLB4788497587",
     "productKey": "06651e2562cbb16b",
     "titleHash": "827ce4bd52859f56",
@@ -4798,5 +4782,21 @@
     "category": "eletrodoméstico",
     "sourceCategoryId": "MLB31683",
     "reservedAt": "2026-11-23T12:46:45.425Z"
+  },
+  {
+    "itemId": "MLB4574564509",
+    "productKey": "9d5c96d703bbb08b",
+    "titleHash": "2b97da7a4eb942e4",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-23T13:31:45.701Z"
+  },
+  {
+    "itemId": "MLB4747976917",
+    "productKey": "1c0c2cfead503f62",
+    "titleHash": "4092e4d6763c3705",
+    "category": "redes",
+    "sourceCategoryId": "MLB1700",
+    "reservedAt": "2026-11-23T13:31:45.701Z"
   }
 ]
