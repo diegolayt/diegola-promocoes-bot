@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB5534941781",
-    "productKey": "8ba43f4f1e1184f7",
-    "titleHash": "9b4cb806a44b6982",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-19T06:31:42.933Z"
-  },
-  {
     "itemId": "MLB2760684440",
     "productKey": "4ae6c04be37129cb",
     "titleHash": "4b5a0e421d4a8abf",
@@ -4798,5 +4790,13 @@
     "category": "smartwatch",
     "sourceCategoryId": "MLB417704",
     "reservedAt": "2026-11-23T03:16:39.288Z"
+  },
+  {
+    "itemId": "MLB5476261731",
+    "productKey": "1861a7d35946c200",
+    "titleHash": "d4b77ad11bb7a27b",
+    "category": "suplemento",
+    "sourceCategoryId": "MLB438178",
+    "reservedAt": "2026-11-23T03:31:40.436Z"
   }
 ]
