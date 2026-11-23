@@ -1,21 +1,5 @@
 [
   {
-    "itemId": "MLB5299585130",
-    "productKey": "2e0f83b5b330f2e1",
-    "titleHash": "b8969612fd2dbc15",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-19T02:31:45.552Z"
-  },
-  {
-    "itemId": "MLB5490997291",
-    "productKey": "f1bf6bf916c5306e",
-    "titleHash": "bbdcb68937be3dc7",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-19T02:31:45.552Z"
-  },
-  {
     "itemId": "MLB8005831650",
     "productKey": "7ee93f70ba994b37",
     "titleHash": "cbc89261a0bdc7f7",
@@ -4798,5 +4782,21 @@
     "category": "climatização",
     "sourceCategoryId": "MLB252358",
     "reservedAt": "2026-11-22T23:46:37.911Z"
+  },
+  {
+    "itemId": "MLB5496715308",
+    "productKey": "6a471486f06083e0",
+    "titleHash": "bed5f6928b8d84bf",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-23T00:46:44.138Z"
+  },
+  {
+    "itemId": "MLB2654504800",
+    "productKey": "02983e6cebf8fe5d",
+    "titleHash": "29879c6e3f2ebbc5",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-23T00:46:44.138Z"
   }
 ]
