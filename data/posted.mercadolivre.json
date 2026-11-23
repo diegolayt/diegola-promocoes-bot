@@ -1,29 +1,5 @@
 [
   {
-    "itemId": "MLB5291334689",
-    "productKey": "f2e2cfbf1fe4b334",
-    "titleHash": "a60547d7fda18e0c",
-    "category": "projetor",
-    "sourceCategoryId": "MLB2830",
-    "reservedAt": "2026-11-19T17:16:48.836Z"
-  },
-  {
-    "itemId": "MLB7769206268",
-    "productKey": "076edd030559a500",
-    "titleHash": "32bfc7c6658969c8",
-    "category": "purificador",
-    "sourceCategoryId": "MLB21171",
-    "reservedAt": "2026-11-19T17:46:39.902Z"
-  },
-  {
-    "itemId": "MLB4280514625",
-    "productKey": "d02ce9b5a676d547",
-    "titleHash": "e71fac34a77b5c6c",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-19T18:02:01.325Z"
-  },
-  {
     "itemId": "MLB3961673791",
     "productKey": "dd69d89534b391d8",
     "titleHash": "7dc6acb6a88cf176",
@@ -4798,5 +4774,29 @@
     "category": "componente",
     "sourceCategoryId": "MLB1712",
     "reservedAt": "2026-11-23T16:16:42.776Z"
+  },
+  {
+    "itemId": "MLB5327551864",
+    "productKey": "9180f7359eb828c8",
+    "titleHash": "334a61232386e846",
+    "category": "som",
+    "sourceCategoryId": "MLB3835",
+    "reservedAt": "2026-11-23T16:31:48.049Z"
+  },
+  {
+    "itemId": "MLB5389969200",
+    "productKey": "a118621d40b57b8e",
+    "titleHash": "694431df34d4305d",
+    "category": "fogão",
+    "sourceCategoryId": "MLB1580",
+    "reservedAt": "2026-11-23T16:31:48.050Z"
+  },
+  {
+    "itemId": "MLB5466692691",
+    "productKey": "31d21cd7b3243873",
+    "titleHash": "2d6545f358c0aa7b",
+    "category": "armazenamento",
+    "sourceCategoryId": "MLB430598",
+    "reservedAt": "2026-11-23T16:31:48.050Z"
   }
 ]
