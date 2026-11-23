@@ -1,13 +1,5 @@
 [
   {
-    "itemId": "MLB3175719088",
-    "productKey": "67919f68f0a928b2",
-    "titleHash": "9cd23174e8fc768b",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-19T07:16:42.406Z"
-  },
-  {
     "itemId": "MLB4195198970",
     "productKey": "19e579017e9bbafd",
     "titleHash": "9bead5eecb241d6b",
@@ -4798,5 +4790,13 @@
     "category": "cuidado pessoal",
     "sourceCategoryId": "MLB439347",
     "reservedAt": "2026-11-23T04:01:50.117Z"
+  },
+  {
+    "itemId": "MLB7356442704",
+    "productKey": "616ffd0126afd04e",
+    "titleHash": "abd7d1945eb31e8a",
+    "category": "cuidado pessoal",
+    "sourceCategoryId": "MLB439347",
+    "reservedAt": "2026-11-23T04:16:46.144Z"
   }
 ]
