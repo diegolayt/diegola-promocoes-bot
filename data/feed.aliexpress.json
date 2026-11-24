@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005008248178170",
+  "loja": "aliexpress",
+  "titulo": "Processador CPU AMD Ryzen 5 R5 3600 3,6 GHz 6 núcleos e 12 threads LGA AM4",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7263dffde4584f9db061691737c5ce68T.jpg",
+  "preco": 593.75,
+  "precoDe": 1187.5,
+  "link": "https://s.click.aliexpress.com/e/_c4ERfELj",
+  "vendidos": 126,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_processador",
+  "publicadoEm": "2026-11-24T07:45:54.524Z"
+ },
+ {
+  "id": "aliexpress-1005012927991450",
+  "loja": "aliexpress",
+  "titulo": "Memória RAM Crucial DDR4 SODIMM 4GB 8GB 16GB 32GB 2133MHz 2400MHz 2666MHz 3200MHz PC4 260 Pinos para Laptop/Notebook",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scd9f3758e65341d7be9d5c4c622a5edaE.png",
+  "preco": 189.99,
+  "precoDe": 379.98,
+  "link": "https://s.click.aliexpress.com/e/_c44ZtCx7",
+  "vendidos": 109,
+  "nota": 4.7,
+  "categoria": "Informática",
+  "fonte": "ali_ram_notebook",
+  "publicadoEm": "2026-11-24T07:45:45.451Z"
+ },
+ {
+  "id": "aliexpress-1005013205556351",
+  "loja": "aliexpress",
+  "titulo": "Memória RAM DDR4 4GB 8GB 2133MHz PC4-17000 Desktop 288Pin UDIMM 1.2V Upgrade de Memória Computador Intel AMD",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd6d4f64f4da24754a0e34da13c66dfb92.png",
+  "preco": 116.59,
+  "precoDe": 254.5,
+  "link": "https://s.click.aliexpress.com/e/_c32IPbNT",
+  "vendidos": 161,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ram",
+  "publicadoEm": "2026-11-24T07:45:38.397Z"
+ },
+ {
+  "id": "aliexpress-1005010024519793",
+  "loja": "aliexpress",
+  "titulo": "Western Digital SN740 1TB 2TB M.2 2230 Gen4 PCIe 4.0 NVMe Unidade de Estado Sólido para Steam Deck, Rog Ally, Surface ProX, Laptop e PC",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S9a82f46df4c4441ea588065be63029fbK.png",
+  "preco": 1609.65,
+  "precoDe": 3219.3,
+  "link": "https://s.click.aliexpress.com/e/_c4rLqvCZ",
+  "vendidos": 805,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_ssd",
+  "publicadoEm": "2026-11-24T07:45:31.100Z"
+ },
+ {
   "id": "aliexpress-1005006861831275",
   "loja": "aliexpress",
   "titulo": "Processador AMD Ryzen 5 7500F usado R5 7500F 3,7 GHz CPU 6 núcleos 12 threads 5NM L3 = 32M 100-000000597 soquete AM5",
@@ -11304,34 +11360,6 @@
   "publicadoEm": "2026-11-22T05:01:06.842Z"
  },
  {
-  "id": "aliexpress-1005008248178170",
-  "loja": "aliexpress",
-  "titulo": "Processador CPU AMD Ryzen 5 R5 3600 3,6 GHz 6 núcleos e 12 threads LGA AM4",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7263dffde4584f9db061691737c5ce68T.jpg",
-  "preco": 586.99,
-  "precoDe": 1173.98,
-  "link": "https://s.click.aliexpress.com/e/_c3KAujS9",
-  "vendidos": 129,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_processador",
-  "publicadoEm": "2026-11-22T05:01:00.120Z"
- },
- {
-  "id": "aliexpress-1005012927991450",
-  "loja": "aliexpress",
-  "titulo": "Memória RAM Crucial DDR4 SODIMM 4GB 8GB 16GB 32GB 2133MHz 2400MHz 2666MHz 3200MHz PC4 260 Pinos para Laptop/Notebook",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scd9f3758e65341d7be9d5c4c622a5edaE.png",
-  "preco": 187.99,
-  "precoDe": 375.98,
-  "link": "https://s.click.aliexpress.com/e/_c3BebLhb",
-  "vendidos": 101,
-  "nota": 4.6,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-11-22T04:46:03.259Z"
- },
- {
   "id": "aliexpress-1005008421946122",
   "loja": "aliexpress",
   "titulo": "Memória RAM CUSU DDR4 3200mhz, DDR4 8GB 16GB, DDR5 5600MHz 4800MHz para Placa-Mãe de Desktop",
@@ -11344,20 +11372,6 @@
   "categoria": "Informática",
   "fonte": "ali_ram",
   "publicadoEm": "2026-11-22T04:45:56.059Z"
- },
- {
-  "id": "aliexpress-1005010024519793",
-  "loja": "aliexpress",
-  "titulo": "Western Digital SN740 1TB 2TB M.2 2230 Gen4 PCIe 4.0 NVMe Unidade de Estado Sólido para Steam Deck, Rog Ally, Surface ProX, Laptop e PC",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S9a82f46df4c4441ea588065be63029fbK.png",
-  "preco": 1591.99,
-  "precoDe": 3183.98,
-  "link": "https://s.click.aliexpress.com/e/_c3iAREu5",
-  "vendidos": 805,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_ssd",
-  "publicadoEm": "2026-11-22T04:45:48.620Z"
  },
  {
   "id": "aliexpress-1005007476633635",
@@ -16695,19 +16709,5 @@
   "nota": 4.8,
   "fonte": "ali_envio_brasil",
   "publicadoEm": "2026-11-12T07:45:59.634Z"
- },
- {
-  "id": "aliexpress-1005007345284179",
-  "loja": "aliexpress",
-  "titulo": "GOLDIX-Sela Ultra Light Carbon para Bicicleta, Impressão 3D, Bicicleta de Estrada, Corrida MTB, Almofada de Bicicleta, Acessórios Assento",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4c4f28adbb7c49a686f90e6d15f018d0j.png",
-  "preco": 190.26,
-  "precoDe": 481.68,
-  "link": "https://s.click.aliexpress.com/e/_c2R3k5Zt",
-  "vendidos": 2340,
-  "nota": 4.9,
-  "categoria": "Esportes",
-  "fonte": "ali_bike",
-  "publicadoEm": "2026-11-12T07:45:51.844Z"
  }
 ]
