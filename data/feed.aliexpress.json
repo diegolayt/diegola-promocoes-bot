@@ -1,5 +1,61 @@
 [
  {
+  "id": "aliexpress-1005007247636934",
+  "loja": "aliexpress",
+  "titulo": "Conjunto de Placa-Mãe QIYIDA X99 LGA 2011-3 com Processador Xeon E5 2650 V4 e Memória RAM DDR4 ECC de 16GB, SSD NVME M.2, Chip X99 C612",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S69d32dccef2c480b8b0e8f8ab1fc7468Y.jpg",
+  "preco": 331.57,
+  "precoDe": 850.16,
+  "link": "https://s.click.aliexpress.com/e/_c42g77Kv",
+  "vendidos": 25,
+  "nota": 5,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-24T17:16:04.778Z"
+ },
+ {
+  "id": "aliexpress-1005007540043491",
+  "loja": "aliexpress",
+  "titulo": "Kit de Placa-Mãe QIYIDA X99 H9S com CPU Xeon E5 2630 V4 LGA2011-3, Memória DDR4 de 16GB, Interface NVME M.2 TPM 2.0 e SATA3",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc71ac24700fa4f03ae5b2fe0abf8ae02R.jpg",
+  "preco": 304.99,
+  "precoDe": 666.66,
+  "link": "https://s.click.aliexpress.com/e/_c40EVzvP",
+  "vendidos": 1201,
+  "nota": 4.9,
+  "categoria": "Informática",
+  "fonte": "ali_kit_xeon",
+  "publicadoEm": "2026-11-24T17:15:57.705Z"
+ },
+ {
+  "id": "aliexpress-1005004801029506",
+  "loja": "aliexpress",
+  "titulo": "GPU Sapphire RX 6700 XT 6700XT RX6700 Nitro 12GB Placa de vídeo AMD Radeon RX6700XT Placas gráficas Desktop PC Jogo de computador de escritório",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S71b3378dab2047bcabd0bf935a88e2c5L.png",
+  "preco": 2415.5,
+  "precoDe": 3716.14,
+  "link": "https://s.click.aliexpress.com/e/_c3qlqkLR",
+  "vendidos": 57,
+  "nota": 4.6,
+  "categoria": "Informática",
+  "fonte": "ali_placa_video_rtx",
+  "publicadoEm": "2026-11-24T17:15:49.155Z"
+ },
+ {
+  "id": "aliexpress-1005007224566148",
+  "loja": "aliexpress",
+  "titulo": "Envinda ddr4 pc ram memoria 8gb 16gb 3200mhz dimm desktop computador memória rams sem suporte placa-mãe amd",
+  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7fd725c8b19f41c7967ceddcb25a4db9P.jpg",
+  "preco": 294.38,
+  "precoDe": 748.53,
+  "link": "https://s.click.aliexpress.com/e/_c35wPKEz",
+  "vendidos": 186,
+  "nota": 4.7,
+  "categoria": "Informática",
+  "fonte": "ali_ram_notebook",
+  "publicadoEm": "2026-11-24T17:15:41.504Z"
+ },
+ {
   "id": "aliexpress-1005004399471741",
   "loja": "aliexpress",
   "titulo": "Processador AMD Ryzen 5 2600X R5 2600X 3,6 GHz de seis núcleos e doze threads YD260XBCM6IAF Soquete AM4",
@@ -11318,34 +11374,6 @@
   "publicadoEm": "2026-11-22T14:30:48.667Z"
  },
  {
-  "id": "aliexpress-1005007540043491",
-  "loja": "aliexpress",
-  "titulo": "Kit de Placa-Mãe QIYIDA X99 H9S com CPU Xeon E5 2630 V4 LGA2011-3, Memória DDR4 de 16GB, Interface NVME M.2 TPM 2.0 e SATA3",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc71ac24700fa4f03ae5b2fe0abf8ae02R.jpg",
-  "preco": 306.99,
-  "precoDe": 671.04,
-  "link": "https://s.click.aliexpress.com/e/_c3JfW18v",
-  "vendidos": 1202,
-  "nota": 4.9,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-22T14:30:41.761Z"
- },
- {
-  "id": "aliexpress-1005004801029506",
-  "loja": "aliexpress",
-  "titulo": "GPU Sapphire RX 6700 XT 6700XT RX6700 Nitro 12GB Placa de vídeo AMD Radeon RX6700XT Placas gráficas Desktop PC Jogo de computador de escritório",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S71b3378dab2047bcabd0bf935a88e2c5L.png",
-  "preco": 2433.99,
-  "precoDe": 3744.6,
-  "link": "https://s.click.aliexpress.com/e/_c3WujKZB",
-  "vendidos": 58,
-  "nota": 4.6,
-  "categoria": "Informática",
-  "fonte": "ali_placa_video_rtx",
-  "publicadoEm": "2026-11-22T14:15:49.345Z"
- },
- {
   "id": "aliexpress-1005003696808113",
   "loja": "aliexpress",
   "titulo": "Memória RAM DDR4 Netac para Notebook, 4GB, 8GB, 16GB, Sodimm DDR4 3200MHz, 2666MHz, 260Pin, RAM para Laptop 1.2V JEDEC",
@@ -11581,20 +11609,6 @@
   "categoria": "Informática",
   "fonte": "ali_cooler",
   "publicadoEm": "2026-11-22T10:15:46.739Z"
- },
- {
-  "id": "aliexpress-1005007247636934",
-  "loja": "aliexpress",
-  "titulo": "Conjunto de Placa-Mãe QIYIDA X99 LGA 2011-3 com Processador Xeon E5 2650 V4 e Memória RAM DDR4 ECC de 16GB, SSD NVME M.2, Chip X99 C612",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S69d32dccef2c480b8b0e8f8ab1fc7468Y.jpg",
-  "preco": 333.75,
-  "precoDe": 855.77,
-  "link": "https://s.click.aliexpress.com/e/_c4ELrVmV",
-  "vendidos": 27,
-  "nota": 5,
-  "categoria": "Informática",
-  "fonte": "ali_kit_xeon",
-  "publicadoEm": "2026-11-22T09:45:53.974Z"
  },
  {
   "id": "aliexpress-1005009970168305",
@@ -12340,20 +12354,6 @@
   "categoria": "Informática",
   "fonte": "ali_placa_mae",
   "publicadoEm": "2026-11-21T06:01:11.264Z"
- },
- {
-  "id": "aliexpress-1005007224566148",
-  "loja": "aliexpress",
-  "titulo": "Envinda ddr4 pc ram memoria 8gb 16gb 3200mhz dimm desktop computador memória rams sem suporte placa-mãe amd",
-  "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7fd725c8b19f41c7967ceddcb25a4db9P.jpg",
-  "preco": 296.36,
-  "precoDe": 753.55,
-  "link": "https://s.click.aliexpress.com/e/_c3aadttL",
-  "vendidos": 187,
-  "nota": 4.7,
-  "categoria": "Informática",
-  "fonte": "ali_ram_notebook",
-  "publicadoEm": "2026-11-21T05:30:58.392Z"
  },
  {
   "id": "aliexpress-1005009384216290",
