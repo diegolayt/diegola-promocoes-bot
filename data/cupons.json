@@ -144,7 +144,7 @@
   "precoMinimo": 59,
   "soLista": false,
   "fim": "2026-11-27T03:00:00Z",
-  "link": "https://s.shopee.com.br/2BGlRRJ76L",
+  "link": "https://s.shopee.com.br/8VAp3CoO4t",
   "auto": "shopee-telegram",
   "postadoEm": "2026-11-26T20:06:22.000Z"
  },
@@ -157,28 +157,6 @@
   "soLista": true,
   "fim": "2026-11-30T01:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c3BDIeg7",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
-  "codigo": "SAS150",
-  "descricao": "R$ 88,17 OFF em Aspirador de Pó Portátil Sem Fio",
-  "regra": "Compras acima de R$ 470,26 · vale no produto do link · até 26/11",
-  "precoMinimo": 470.26,
-  "soLista": true,
-  "fim": "2026-11-27T01:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c40AegCb",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
-  "codigo": "WD8008",
-  "descricao": "R$ 52,90 OFF em Robô Lavador de Janelas ABIR WD8",
-  "regra": "Compras acima de R$ 470,26 · vale no produto do link · até 26/11",
-  "precoMinimo": 470.26,
-  "soLista": true,
-  "fim": "2026-11-27T01:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c32cXdVp",
   "auto": "aliexpress-hot"
  },
  {
@@ -238,17 +216,6 @@
  },
  {
   "loja": "aliexpress",
-  "codigo": "N6UIX6BO7RD9",
-  "descricao": "R$ 29,39 OFF em MHW-3BOMBER Digital Cozinha Balança de Café",
-  "regra": "Compras acima de R$ 288,03 · vale no produto do link · até 26/11",
-  "precoMinimo": 288.03,
-  "soLista": true,
-  "fim": "2026-11-27T01:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c3spgq6f",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
   "codigo": "LBRZOB3L2Z8A",
   "descricao": "R$ 23,51 OFF em Relógio de mergulho NORTH EDGE TRITON-TI",
   "regra": "Compras acima de R$ 293,91 · vale no produto do link · até 27/11",
@@ -256,6 +223,39 @@
   "soLista": true,
   "fim": "2026-11-28T01:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c4LUCzqL",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "KR0862",
+  "descricao": "R$ 23,51 OFF em UGREEN Open Ear Clip Fones de",
+  "regra": "vale no produto do link · até 29/11",
+  "precoMinimo": 23.57,
+  "soLista": true,
+  "fim": "2026-11-30T01:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3yzTVYX",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "BRKZ79",
+  "descricao": "R$ 18,56 OFF em Webcam 4K EMEET S600, webcam para",
+  "regra": "vale no produto do link · até 31/12",
+  "precoMinimo": 18.56,
+  "soLista": true,
+  "fim": "2027-01-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c2J23QNz",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "XTEP11211",
+  "descricao": "R$ 18,56 OFF em Tênis de Corrida Masculino XTEP 2000km",
+  "regra": "vale no produto do link · até 30/11",
+  "precoMinimo": 18.56,
+  "soLista": true,
+  "fim": "2026-12-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3jY4uf1",
   "auto": "aliexpress-hot"
  }
 ]
