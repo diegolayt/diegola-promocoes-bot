@@ -552,7 +552,8 @@ function feedEntry(item) {
   const price = Number(item.price || 0);
   const original = Number(item.original_price || 0);
   return {
-    id: `mercadolivre-${item.id}`,
+    // Mesmo id do data/mercadolivre.json do site, para a oferta não aparecer duas vezes.
+    id: item.sourceCategoryId === "site" ? `ml-${item.id}` : `mercadolivre-${item.id}`,
     loja: "mercadolivre",
     titulo: String(item.title || "").replace(/\s+/g, " ").trim(),
     imagem: String(item.thumbnail || "").replace(/^http:/, "https:").replace(/-I\.(jpg|webp)$/i, "-O.$1") || null,
