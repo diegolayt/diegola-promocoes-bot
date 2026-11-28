@@ -125,90 +125,6 @@
   "link": "https://www.amazon.com.br/megaofertaprime?tag=diegola00-20"
  },
  {
-  "loja": "shopee",
-  "codigo": "ULT1M0D4BL4CK",
-  "descricao": "R$10 OFF",
-  "regra": "Compras acima de R$ 59 · válido até 27/11 ou enquanto durar",
-  "precoMinimo": 59,
-  "soLista": false,
-  "fim": "2026-11-28T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-11-27T23:05:00.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "20OFFN4BL4CK",
-  "descricao": "R$20 OFF",
-  "regra": "Compras acima de R$ 99 · válido até 27/11 ou enquanto durar",
-  "precoMinimo": 99,
-  "soLista": false,
-  "fim": "2026-11-28T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-11-27T20:00:56.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "D3SC0NT4SS015",
-  "descricao": "R$15 OFF",
-  "regra": "Compras acima de R$ 75 · válido até 27/11 ou enquanto durar",
-  "precoMinimo": 75,
-  "soLista": false,
-  "fim": "2026-11-28T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-11-27T18:04:08.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "C4RR1NH070",
-  "descricao": "R$70 OFF",
-  "regra": "Compras acima de R$ 350 · válido até 27/11 ou enquanto durar",
-  "precoMinimo": 350,
-  "soLista": false,
-  "fim": "2026-11-28T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-11-27T16:01:08.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "5D3D3SC0NT0",
-  "descricao": "R$5 OFF",
-  "regra": "Compras acima de R$ 25 · válido até 27/11 ou enquanto durar",
-  "precoMinimo": 25,
-  "soLista": false,
-  "fim": "2026-11-28T03:00:00Z",
-  "link": null,
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-11-27T14:02:49.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "400FFN4SH0",
-  "descricao": "R$40 OFF",
-  "regra": "Compras acima de R$ 200 · válido até 27/11 ou enquanto durar",
-  "precoMinimo": 200,
-  "soLista": false,
-  "fim": "2026-11-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/9pgEEYS9wP",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-11-27T12:01:23.000Z"
- },
- {
-  "loja": "shopee",
-  "codigo": "3D14D3BL4CK",
-  "descricao": "R$150 OFF",
-  "regra": "Compras acima de R$ 999 · válido até 27/11 ou enquanto durar",
-  "precoMinimo": 999,
-  "soLista": false,
-  "fim": "2026-11-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/W8XejoPhR",
-  "auto": "shopee-telegram",
-  "postadoEm": "2026-11-27T03:01:20.000Z"
- },
- {
   "loja": "aliexpress",
   "codigo": "CRIANCAS",
   "descricao": "R$ 146,96 OFF em Projetor BYINTEK U4 Love 1 Smart",
@@ -217,17 +133,6 @@
   "soLista": true,
   "fim": "2026-11-30T01:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c3BDIeg7",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
-  "codigo": "VEVSHAO",
-  "descricao": "R$ 47,03 OFF em Vevshao a12 projetor mini portátil led",
-  "regra": "vale no produto do link · até 27/11",
-  "precoMinimo": 47.08,
-  "soLista": true,
-  "fim": "2026-11-28T02:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c2yEluqJ",
   "auto": "aliexpress-hot"
  },
  {
@@ -316,6 +221,17 @@
   "soLista": true,
   "fim": "2026-12-03T10:00:00.000Z",
   "link": "https://s.click.aliexpress.com/e/_c3MzsctH",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "8BITDOVIPIT",
+  "descricao": "R$ 17,63 OFF em 8BitDo - Novo controlador de jogos",
+  "regra": "vale no produto do link · até 30/11",
+  "precoMinimo": 17.69,
+  "soLista": true,
+  "fim": "2026-12-01T02:59:59.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c4PsobXd",
   "auto": "aliexpress-hot"
  }
 ]
