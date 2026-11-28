@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5930202958",
-    "productKey": "fded24791054bb1d",
-    "titleHash": "bba7ae42ffd6ef51",
-    "category": "jogos de tabuleiro",
-    "sourceCategoryId": "MLB432988",
-    "reservedAt": "2026-11-19T21:31:43.255Z"
-  },
-  {
-    "itemId": "MLB6012026010",
-    "productKey": "aa9dab5444e20d4b",
-    "titleHash": "6aaf2ae57e2a973c",
-    "category": "natal",
-    "sourceCategoryId": "MLB117798",
-    "reservedAt": "2026-11-19T21:31:43.255Z"
-  },
-  {
-    "itemId": "MLB8011247808",
-    "productKey": "93f3f56dee4a0384",
-    "titleHash": "60f6761a38375cf5",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-19T21:31:43.255Z"
-  },
-  {
-    "itemId": "MLB4647847848",
-    "productKey": "5214251f2a0e2de8",
-    "titleHash": "59ba011eeb15abff",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-19T21:46:46.197Z"
-  },
-  {
     "itemId": "MLB5582941337",
     "productKey": "4dbe4d2b2f90b40b",
     "titleHash": "c401ed89057bdf73",
@@ -4798,5 +4766,37 @@
     "category": "outros:espumante-branco",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T16:45:31.457Z"
+  },
+  {
+    "itemId": "MLB32489332",
+    "productKey": "71e383d6a225a9e9",
+    "titleHash": "c624852920665526",
+    "category": "áudio",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:00:43.938Z"
+  },
+  {
+    "itemId": "MLB75340291",
+    "productKey": "4223b53513ac6b91",
+    "titleHash": "f531ea91f4b8ce45",
+    "category": "celular",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:00:43.939Z"
+  },
+  {
+    "itemId": "MLB53666291",
+    "productKey": "b21e49f0c3b4596a",
+    "titleHash": "c1732788635845a8",
+    "category": "outros:controle-gamesir",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:00:43.939Z"
+  },
+  {
+    "itemId": "MLB60012839",
+    "productKey": "0fd7914e83943bac",
+    "titleHash": "d482736d0cb61f9f",
+    "category": "outros:parafusadeira-furadeira",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:00:43.939Z"
   }
 ]
