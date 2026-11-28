@@ -126,6 +126,18 @@
  },
  {
   "loja": "shopee",
+  "codigo": "ULT1M0D4BL4CK",
+  "descricao": "R$10 OFF",
+  "regra": "Compras acima de R$ 59 · válido até 27/11 ou enquanto durar",
+  "precoMinimo": 59,
+  "soLista": false,
+  "fim": "2026-11-28T03:00:00Z",
+  "link": null,
+  "auto": "shopee-telegram",
+  "postadoEm": "2026-11-27T23:05:00.000Z"
+ },
+ {
+  "loja": "shopee",
   "codigo": "20OFFN4BL4CK",
   "descricao": "R$20 OFF",
   "regra": "Compras acima de R$ 99 · válido até 27/11 ou enquanto durar",
@@ -180,7 +192,7 @@
   "precoMinimo": 200,
   "soLista": false,
   "fim": "2026-11-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/gRz7L7N92",
+  "link": "https://s.shopee.com.br/1BOFmNlaFn",
   "auto": "shopee-telegram",
   "postadoEm": "2026-11-27T12:01:23.000Z"
  },
