@@ -363,7 +363,7 @@ function score(item) {
   // Entre os mais vendidos, quem está com desconto de verdade passa na frente:
   // 20% de desconto pesa tanto quanto ser de loja oficial e ter frete grátis
   // juntos. Tendências entram como segunda fonte.
-  return Math.log10(sold + 1) * 15 + discount * 200 + (item.official_store_id ? 20 : 0) + (item.shipping?.free_shipping ? 8 : 0) - (item.trendRank ? 15 : 0);
+  return Math.log10(sold + 1) * 15 + discount * 200 + (item.official_store_id ? 20 : 0) + (item.shipping?.free_shipping ? 8 : 0) - (item.trendRank ? 15 : 0) + (item.eletronico ? 40 : 0);
 }
 
 // Os melhores da rodada, um por categoria, para o tópico não receber quatro ofertas parecidas.
@@ -379,7 +379,60 @@ function pickVaried(available) {
   return picked;
 }
 
+// Desde 28/11/2026 as ofertas vêm da coleta da página /ofertas do ML que o site
+// faz (diegolayt/promocoes, data/mercadolivre.json), porque a API deixou de dar preço.
+const SITE_FEED = "https://raw.githubusercontent.com/diegolayt/promocoes/main/data/mercadolivre.json";
+const SITE_MAX_IDADE_MS = 18 * 3_600_000;
+const FORA_DO_TELEGRAM = /lava-?roupas|sab[aã]o|amaciante|detergente|fralda|papel higi[eê]nico|desinfetante|alvejante/i;
+
+function fotoJpg(url) {
+  const codigo = String(url || "").match(/(\d+-ML[AB]\d+_\d+)/)?.[1];
+  return codigo ? `https://http2.mlstatic.com/D_NQ_NP_2X_${codigo}-F.jpg` : String(url || "");
+}
+
+async function productsFromSite(history) {
+  const response = await fetch(`${SITE_FEED}?t=${Date.now()}`, { headers: { Accept: "application/json" } });
+  if (!response.ok) throw new Error(`arquivo do site respondeu HTTP ${response.status}`);
+  const ofertas = await response.json();
+  if (!Array.isArray(ofertas)) throw new Error("arquivo do site inválido");
+  const frescas = ofertas.filter((o) => Date.now() - Date.parse(o.precoEm) < SITE_MAX_IDADE_MS);
+  const items = frescas
+    .filter((o) => o.link && o.titulo && Number(o.preco) > 0 && !FORA_DO_TELEGRAM.test(o.titulo))
+    .map((o) => {
+      const link = String(o.link).split("?")[0];
+      const id = String(o.id || link).replace(/^ml-/, "");
+      return {
+        id,
+        catalog_product_id: id,
+        title: o.titulo,
+        price: Number(o.preco),
+        original_price: Number(o.precoDe) || null,
+        permalink: link,
+        thumbnail: fotoJpg(o.imagem),
+        sold_quantity: Number(o.vendidos) || 0,
+        official_store_id: o.lojaOficial ? 1 : null,
+        shipping: { free_shipping: Boolean(o.freteGratis) },
+        ratingAverage: Number(o.nota) || null,
+        rotationCategory: broadCategory(o.titulo),
+        // Foco do Diegola: eletrônicos e informática passam na frente.
+        eletronico: /^(celular|computador|áudio|tv|games|eletrodoméstico)$/.test(broadCategory(o.titulo))
+          || /processador|placa de v[ií]deo|placa-m[aã]e|ssd|mem[oó]ria ram|notebook|monitor|smartwatch|tablet|roteador|fone|headset|mouse|teclado|c[aâ]mera|projetor|console|controle/i.test(o.titulo),
+        sourceCategoryId: "site",
+      };
+    });
+  let available = approvedProducts(items, history);
+  if (!available.length) available = approvedProducts(items, history, false);
+  console.log(`Mercado Livre (arquivo do site): ${ofertas.length} no arquivo, ${frescas.length} frescas, ${available.length} aprovadas.`);
+  return pickVaried(available);
+}
+
 async function selectProducts(history) {
+  try {
+    const doSite = await productsFromSite(history);
+    if (doSite.length) return doSite;
+  } catch (error) {
+    console.warn(`Arquivo do site indisponível: ${error.message}`);
+  }
   apiCalls = 0;
   lastApiCallAt = 0;
   const token = await getAccessToken();
