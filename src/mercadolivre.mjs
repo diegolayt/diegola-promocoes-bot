@@ -1,4 +1,4 @@
-import { createCipheriv, createDecipheriv, createHash, randomBytes } from "node:crypto";
+﻿import { createCipheriv, createDecipheriv, createHash, randomBytes } from "node:crypto";
 import { mkdir, readFile, unlink, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -180,23 +180,55 @@ async function apiGet(token, path, attempt = 0) {
   return json;
 }
 
+// Desde 23/11/2026 o Mercado Livre deixou de mandar o buy_box_winner e passou a
+// barrar /products/{id}/items (403 PolicyAgent). Cada caminho de preço é
+// tentado em ordem; o que for barrado fica desligado pelo resto da rodada e o
+// log mostra qual funcionou.
+const barrados = new Set();
+let produtoInspecionado = false;
+const temPreco = (entry) => entry && Number.isFinite(Number(entry.price)) && Number(entry.price) > 0;
+const maisVendido = (rows) => (rows || []).filter(temPreco).sort((a, b) => Number(b.sold_quantity || 0) - Number(a.sold_quantity || 0))[0];
+
+async function tentarCaminho(token, nome, path, extrair) {
+  if (barrados.has(nome)) return null;
+  try {
+    const raw = extrair(await apiGet(token, path));
+    console.log(`Preço via ${nome}: ${raw ? "ok" : "sem preço"}`);
+    return raw || null;
+  } catch (error) {
+    if (error instanceof ApiLimitError) throw error;
+    console.warn(`Caminho ${nome} falhou: ${error.message}`);
+    if (/HTTP 40[13]/.test(error.message)) barrados.add(nome);
+    return null;
+  }
+}
+
+async function precoDoProduto(token, product) {
+  const id = encodeURIComponent(product.id);
+  // Formatos novos que o /products pode trazer no lugar do buy_box_winner.
+  const embutido = [product.buy_box_winner, product.buy_box_winner_price_range?.min, product.winner_item, ...(product.offers || []), ...(product.items || [])].find(temPreco);
+  if (embutido) return embutido;
+  if (!produtoInspecionado) {
+    produtoInspecionado = true;
+    const resumo = Object.fromEntries(Object.entries(product).map(([k, v]) => [k, v && typeof v === "object" ? (Array.isArray(v) ? `[${v.length}]` : `{${Object.keys(v).slice(0, 8).join(",")}}`) : String(v).slice(0, 40)]));
+    console.log(`Campos do /products ${product.id}: ${JSON.stringify(resumo)}`);
+  }
+  return await tentarCaminho(token, "products-items", `/products/${id}/items?status=active`, (j) => maisVendido(j.results || j.items))
+    || await tentarCaminho(token, "products-items-sem-status", `/products/${id}/items`, (j) => maisVendido(j.results || j.items))
+    || await tentarCaminho(token, "search-product-id", `/sites/MLB/search?product_id=${id}&limit=10`, (j) => maisVendido(j.results))
+    || await tentarCaminho(token, "search-catalog", `/sites/MLB/search?catalog_product_id=${id}&limit=10`, (j) => maisVendido(j.results));
+}
+
 async function resolveHighlight(token, highlight, category) {
   let raw;
   if (highlight.type === "ITEM") {
-    raw = await apiGet(token, `/items/${encodeURIComponent(highlight.id)}`);
+    const id = encodeURIComponent(highlight.id);
+    raw = await tentarCaminho(token, "items", `/items/${id}`, (j) => (temPreco(j) ? j : null))
+      || await tentarCaminho(token, "items-multiget", `/items?ids=${id}`, (j) => (Array.isArray(j) ? j.map((r) => r.body).find(temPreco) : null));
+    if (!raw) return null;
   } else if (highlight.type === "PRODUCT") {
     const product = await apiGet(token, `/products/${encodeURIComponent(highlight.id)}`);
-    raw = product.buy_box_winner;
-    // Algumas páginas de catálogo não têm uma oferta vencedora com preço.
-    // Busca uma oferta ativa, mas somente dentro do pequeno lote espaçado da
-    // rodada para não atingir novamente o limite da API.
-    if (!raw || !Number.isFinite(Number(raw.price)) || Number(raw.price) <= 0) {
-      const offers = await apiGet(token, `/products/${encodeURIComponent(product.id)}/items?status=active`);
-      const rows = offers.results || offers.items || [];
-      raw = rows
-        .filter((entry) => Number.isFinite(Number(entry.price)) && Number(entry.price) > 0)
-        .sort((a, b) => Number(b.sold_quantity || 0) - Number(a.sold_quantity || 0))[0];
-    }
+    raw = await precoDoProduto(token, product);
     if (!raw) return null;
     raw.catalog_product_id ||= product.id;
     raw.title ||= product.name;
@@ -264,7 +296,9 @@ async function searchProducts(token, categoryId, category, history, sampleOffset
   // Anúncio avulso (ITEM) quase sempre volta 403 nesta aplicação e só gasta
   // consulta; fica como último recurso, quando a categoria não tem produto de catálogo.
   const products = content.filter((highlight) => highlight.type === "PRODUCT");
-  const pool = products.length ? products : content;
+  // Se todos os caminhos de preço de catálogo foram barrados nesta rodada, tenta os anúncios avulsos.
+  const catalogoBarrado = ["products-items", "products-items-sem-status", "search-product-id", "search-catalog"].every((nome) => barrados.has(nome));
+  const pool = products.length && !catalogoBarrado ? products : content;
   // A amostra também anda com o relógio: antes, um par recusado (preço mínimo,
   // título repetido) era consultado de novo em toda rodada e a categoria travava.
   const turn = Math.floor(Date.now() / SLOT_MS) * HIGHLIGHTS_PER_CATEGORY;
@@ -621,3 +655,4 @@ else if (process.argv.includes("--vitrine")) await buildShowcase();
 else if (process.argv.includes("--reserve")) await reserve();
 else if (process.argv.includes("--publish-reserved")) await publishReserved();
 else if (await reserve()) await publishReserved();
+
