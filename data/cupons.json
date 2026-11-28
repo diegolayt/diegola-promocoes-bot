@@ -192,7 +192,7 @@
   "precoMinimo": 200,
   "soLista": false,
   "fim": "2026-11-28T03:00:00Z",
-  "link": "https://s.shopee.com.br/BVieeneBP",
+  "link": "https://s.shopee.com.br/9pgEEYS9wP",
   "auto": "shopee-telegram",
   "postadoEm": "2026-11-27T12:01:23.000Z"
  },
@@ -276,17 +276,6 @@
  },
  {
   "loja": "aliexpress",
-  "codigo": "LBRZOB3L2Z8A",
-  "descricao": "R$ 23,51 OFF em Relógio de mergulho NORTH EDGE TRITON-TI",
-  "regra": "Compras acima de R$ 293,91 · vale no produto do link · até 27/11",
-  "precoMinimo": 293.91,
-  "soLista": true,
-  "fim": "2026-11-28T01:59:59.000Z",
-  "link": "https://s.click.aliexpress.com/e/_c4LUCzqL",
-  "auto": "aliexpress-hot"
- },
- {
-  "loja": "aliexpress",
   "codigo": "KR0862",
   "descricao": "R$ 23,51 OFF em UGREEN Open Ear Clip Fones de",
   "regra": "vale no produto do link · até 29/11",
@@ -316,6 +305,17 @@
   "soLista": true,
   "fim": "2026-12-01T02:59:59.000Z",
   "link": "https://s.click.aliexpress.com/e/_c3jY4uf1",
+  "auto": "aliexpress-hot"
+ },
+ {
+  "loja": "aliexpress",
+  "codigo": "KR1YY6",
+  "descricao": "R$ 17,63 OFF em Tênis de Corrida Masculino Li-Ning YUEYING",
+  "regra": "vale no produto do link · até 03/12",
+  "precoMinimo": 17.69,
+  "soLista": true,
+  "fim": "2026-12-03T10:00:00.000Z",
+  "link": "https://s.click.aliexpress.com/e/_c3MzsctH",
   "auto": "aliexpress-hot"
  }
 ]
