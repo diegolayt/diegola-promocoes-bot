@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5582941337",
-    "productKey": "4dbe4d2b2f90b40b",
-    "titleHash": "c401ed89057bdf73",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-19T21:46:46.198Z"
-  },
-  {
-    "itemId": "MLB5567784879",
-    "productKey": "2c514a242396f9d9",
-    "titleHash": "143f91de6547de17",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-19T22:01:51.900Z"
-  },
-  {
-    "itemId": "MLB3647295180",
-    "productKey": "322af4737407e3c8",
-    "titleHash": "e3a8db476d5e57ea",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-19T22:16:41.508Z"
-  },
-  {
-    "itemId": "MLB5232182936",
-    "productKey": "34deacf4f5156c88",
-    "titleHash": "4becc55da500e5d4",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB456045",
-    "reservedAt": "2026-11-19T22:31:42.433Z"
-  },
-  {
     "itemId": "MLB4964598401",
     "productKey": "92a1855b22bff44c",
     "titleHash": "154ac6e326664dce",
@@ -4798,5 +4766,37 @@
     "category": "outros:parafusadeira-furadeira",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T17:00:43.939Z"
+  },
+  {
+    "itemId": "MLB51545470",
+    "productKey": "51c02f3e55ff5527",
+    "titleHash": "24a8d2a69ce8bb15",
+    "category": "games",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:15:39.495Z"
+  },
+  {
+    "itemId": "MLB18572540",
+    "productKey": "ce034a7c0ea40aa9",
+    "titleHash": "464b5572c7ccd03a",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:15:39.495Z"
+  },
+  {
+    "itemId": "MLBU765509845",
+    "productKey": "96e51f483fb9dfd7",
+    "titleHash": "9d8d21df069d1082",
+    "category": "tv",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:15:39.495Z"
+  },
+  {
+    "itemId": "MLB16016004",
+    "productKey": "17c769dffbce772f",
+    "titleHash": "50bbee6ff9b5c348",
+    "category": "computador",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:15:39.495Z"
   }
 ]
