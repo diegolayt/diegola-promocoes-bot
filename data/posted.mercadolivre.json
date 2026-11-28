@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7996206578",
-    "productKey": "9adc595151031a03",
-    "titleHash": "aae437bd40936ba5",
-    "category": "periférico",
-    "sourceCategoryId": "MLB1714",
-    "reservedAt": "2026-11-19T18:46:30.329Z"
-  },
-  {
-    "itemId": "MLB7538835768",
-    "productKey": "14dd7a0aaf133113",
-    "titleHash": "3d4d88bc81130249",
-    "category": "jogos",
-    "sourceCategoryId": "MLB186456",
-    "reservedAt": "2026-11-19T19:01:42.701Z"
-  },
-  {
-    "itemId": "MLB5582528707",
-    "productKey": "9dd660916fb1b129",
-    "titleHash": "899d2c96765b077d",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-19T19:16:42.636Z"
-  },
-  {
-    "itemId": "MLB4522037539",
-    "productKey": "37500b1a9625ab89",
-    "titleHash": "cd82b27d3ae85212",
-    "category": "componente",
-    "sourceCategoryId": "MLB1712",
-    "reservedAt": "2026-11-19T19:31:46.566Z"
-  },
-  {
     "itemId": "MLB5738738172",
     "productKey": "9eb5fc3ffddd6db0",
     "titleHash": "945f28db261b2b05",
@@ -4798,5 +4766,37 @@
     "category": "purificador",
     "sourceCategoryId": "MLB21171",
     "reservedAt": "2026-11-23T17:16:35.632Z"
+  },
+  {
+    "itemId": "MLB77538233",
+    "productKey": "9a4767d7b6a63f29",
+    "titleHash": "370b805640a139ef",
+    "category": "celular",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:00:47.767Z"
+  },
+  {
+    "itemId": "MLB22616954",
+    "productKey": "6c92fec37815b6aa",
+    "titleHash": "e74bcce83010da82",
+    "category": "áudio",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:00:47.767Z"
+  },
+  {
+    "itemId": "MLB36213556",
+    "productKey": "478f2b09f651deaa",
+    "titleHash": "df9d583b1f040d7e",
+    "category": "outros:roteador-huawei",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:00:47.767Z"
+  },
+  {
+    "itemId": "MLB62961572",
+    "productKey": "83a3f79c378604e2",
+    "titleHash": "1d55aefe250bcc4c",
+    "category": "outros:smartwatch-bettdow",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:00:47.767Z"
   }
 ]
