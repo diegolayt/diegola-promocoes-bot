@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5738738172",
-    "productKey": "9eb5fc3ffddd6db0",
-    "titleHash": "945f28db261b2b05",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-19T19:31:46.567Z"
-  },
-  {
-    "itemId": "MLB4988957162",
-    "productKey": "4686bb6a7ae35103",
-    "titleHash": "bc4eac3d45f0fc46",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-19T19:46:39.648Z"
-  },
-  {
-    "itemId": "MLB7339961302",
-    "productKey": "8a5950fa33563a64",
-    "titleHash": "c200c7409cb882ff",
-    "category": "smartwatch",
-    "sourceCategoryId": "MLB417704",
-    "reservedAt": "2026-11-19T20:01:47.796Z"
-  },
-  {
-    "itemId": "MLB4082731117",
-    "productKey": "c555e963e900e460",
-    "titleHash": "14a27ecaf6ac0575",
-    "category": "fogão",
-    "sourceCategoryId": "MLB1580",
-    "reservedAt": "2026-11-19T20:16:47.865Z"
-  },
-  {
     "itemId": "MLB5755362294",
     "productKey": "f28c430b2349dd9d",
     "titleHash": "cbc14ed247b8b10d",
@@ -4798,5 +4766,37 @@
     "category": "outros:smartwatch-bettdow",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T16:00:47.767Z"
+  },
+  {
+    "itemId": "MLB6339958",
+    "productKey": "8963634eb6effe14",
+    "titleHash": "54da17e3745a5383",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:15:34.739Z"
+  },
+  {
+    "itemId": "MLB10312330",
+    "productKey": "1b34c4fd1dbc3acf",
+    "titleHash": "1da73c9f1b014d86",
+    "category": "games",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:15:34.739Z"
+  },
+  {
+    "itemId": "MLB53201474",
+    "productKey": "bc7ab9d8981f3c54",
+    "titleHash": "303c7895e955f740",
+    "category": "tv",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:15:34.739Z"
+  },
+  {
+    "itemId": "MLB34229008",
+    "productKey": "28b7eda7c2076679",
+    "titleHash": "6afaf23fb194dc6d",
+    "category": "computador",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:15:34.739Z"
   }
 ]
