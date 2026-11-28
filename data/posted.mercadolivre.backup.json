@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7656919098",
-    "productKey": "e79cacc5bfe33eec",
-    "titleHash": "248c99ad0a42a4d3",
-    "category": "cuidado pessoal",
-    "sourceCategoryId": "MLB439347",
-    "reservedAt": "2026-11-19T23:31:40.136Z"
-  },
-  {
-    "itemId": "MLB4592569844",
-    "productKey": "8e754a84d4cb7d6c",
-    "titleHash": "739fe962804bde10",
-    "category": "cabelo",
-    "sourceCategoryId": "MLB1263",
-    "reservedAt": "2026-11-19T23:31:40.136Z"
-  },
-  {
-    "itemId": "MLB4559000033",
-    "productKey": "5b46392a746a1583",
-    "titleHash": "bc9fa749b71a0b00",
-    "category": "som",
-    "sourceCategoryId": "MLB3835",
-    "reservedAt": "2026-11-19T23:31:40.136Z"
-  },
-  {
-    "itemId": "MLB4167180457",
-    "productKey": "f2cc121a987258d9",
-    "titleHash": "6d8e200943d2f5c5",
-    "category": "ferramenta elétrica",
-    "sourceCategoryId": "MLB2526",
-    "reservedAt": "2026-11-19T23:46:36.967Z"
-  },
-  {
     "itemId": "MLB6582852158",
     "productKey": "d8c7448ef115cc74",
     "titleHash": "41f452cb2e741858",
@@ -4798,5 +4766,37 @@
     "category": "outros:camera-infantil",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T17:30:43.884Z"
+  },
+  {
+    "itemId": "MLB51586079",
+    "productKey": "4dda7cb0e5919194",
+    "titleHash": "ca7ae47666eaae86",
+    "category": "outros:camera-residencial",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:45:34.716Z"
+  },
+  {
+    "itemId": "MLB22811894",
+    "productKey": "7e7538ebb0b9f140",
+    "titleHash": "8a8a2881914ec4f6",
+    "category": "outros:carregador-portatil",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:45:34.717Z"
+  },
+  {
+    "itemId": "MLB65770866",
+    "productKey": "04094a14f36ea1e8",
+    "titleHash": "4e6080e972dff6de",
+    "category": "outros:relogio-microwear",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:45:34.717Z"
+  },
+  {
+    "itemId": "MLB64497217",
+    "productKey": "eb92110beefc3c19",
+    "titleHash": "ec35f607b0ac678d",
+    "category": "outros:camera-de",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:45:34.717Z"
   }
 ]
