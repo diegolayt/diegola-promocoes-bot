@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5208653139",
-    "productKey": "2bf1b8277c9c2985",
-    "titleHash": "217dea04a07bad05",
-    "category": "monitor",
-    "sourceCategoryId": "MLB99245",
-    "reservedAt": "2026-11-20T00:46:38.967Z"
-  },
-  {
-    "itemId": "MLB5417889802",
-    "productKey": "7b9361588a17275b",
-    "titleHash": "ae5e4745726c0427",
-    "category": "televisão",
-    "sourceCategoryId": "MLB1002",
-    "reservedAt": "2026-11-20T00:46:38.967Z"
-  },
-  {
-    "itemId": "MLB8015693684",
-    "productKey": "dea2c4a9da61bcd6",
-    "titleHash": "6c866c86c418343d",
-    "category": "console",
-    "sourceCategoryId": "MLB11172",
-    "reservedAt": "2026-11-20T00:46:38.967Z"
-  },
-  {
-    "itemId": "MLB4286128237",
-    "productKey": "5bd1da402a27bcc7",
-    "titleHash": "8b02e1cd20d5d3b1",
-    "category": "tablet",
-    "sourceCategoryId": "MLB99889",
-    "reservedAt": "2026-11-20T01:01:49.931Z"
-  },
-  {
     "itemId": "MLB5559856083",
     "productKey": "80c42abc876c68f5",
     "titleHash": "ee3a8223a1a9bec0",
@@ -4798,5 +4766,37 @@
     "category": "outros:cascata-natal",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T18:00:52.726Z"
+  },
+  {
+    "itemId": "MLB62226804",
+    "productKey": "2f390028c456602d",
+    "titleHash": "f0ead21c504546a2",
+    "category": "computador",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:15:40.837Z"
+  },
+  {
+    "itemId": "MLB19731776",
+    "productKey": "8a9177da8e392041",
+    "titleHash": "394d24bca4551458",
+    "category": "eletrodoméstico",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:15:40.837Z"
+  },
+  {
+    "itemId": "MLB66191173",
+    "productKey": "488e0777c37e7386",
+    "titleHash": "84cf3d3be75f2628",
+    "category": "tv",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:15:40.837Z"
+  },
+  {
+    "itemId": "MLB27773809",
+    "productKey": "5aec4340a7c0123a",
+    "titleHash": "13c357ce0ba474d3",
+    "category": "games",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:15:40.837Z"
   }
 ]
