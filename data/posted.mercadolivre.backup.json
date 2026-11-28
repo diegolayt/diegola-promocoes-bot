@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB7657977886",
-    "productKey": "525cdc14fb44b9f9",
-    "titleHash": "48172cb7558886dd",
-    "category": "barbearia",
-    "sourceCategoryId": "MLB264787",
-    "reservedAt": "2026-11-19T20:46:40.739Z"
-  },
-  {
-    "itemId": "MLB2751486961",
-    "productKey": "0da42abc4e07efc8",
-    "titleHash": "583334eed73b7bc4",
-    "category": "pele",
-    "sourceCategoryId": "MLB199407",
-    "reservedAt": "2026-11-19T20:46:40.739Z"
-  },
-  {
-    "itemId": "MLB7041454634",
-    "productKey": "e99726c12745d0a4",
-    "titleHash": "8b80f8f23c3c0fbd",
-    "category": "segurança",
-    "sourceCategoryId": "MLB7069",
-    "reservedAt": "2026-11-19T21:16:37.463Z"
-  },
-  {
-    "itemId": "MLB4621047857",
-    "productKey": "3f3b1148afa866b2",
-    "titleHash": "5f3c6ee8eb084863",
-    "category": "streaming",
-    "sourceCategoryId": "MLB133950",
-    "reservedAt": "2026-11-19T21:16:37.464Z"
-  },
-  {
     "itemId": "MLB5930202958",
     "productKey": "fded24791054bb1d",
     "titleHash": "bba7ae42ffd6ef51",
@@ -4798,5 +4766,37 @@
     "category": "casa",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T16:30:46.258Z"
+  },
+  {
+    "itemId": "MLB65117366",
+    "productKey": "963531263bb61bb3",
+    "titleHash": "82ff1f8e52f28647",
+    "category": "outros:smartwatch-novante",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:45:31.457Z"
+  },
+  {
+    "itemId": "MLB64335558",
+    "productKey": "e805db15ed4b2441",
+    "titleHash": "4f1644e0b7e716fc",
+    "category": "outros:relogio-inteligente",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:45:31.457Z"
+  },
+  {
+    "itemId": "MLB54396974",
+    "productKey": "cea8f23846c27219",
+    "titleHash": "f87b51573194f7d9",
+    "category": "outros:controle-mine",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:45:31.457Z"
+  },
+  {
+    "itemId": "MLB18308508",
+    "productKey": "bec32061332a7477",
+    "titleHash": "e0126fd22fc23595",
+    "category": "outros:espumante-branco",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T16:45:31.457Z"
   }
 ]
