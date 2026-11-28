@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB4964598401",
-    "productKey": "92a1855b22bff44c",
-    "titleHash": "154ac6e326664dce",
-    "category": "refrigeração",
-    "sourceCategoryId": "MLB1576",
-    "reservedAt": "2026-11-19T22:46:38.693Z"
-  },
-  {
-    "itemId": "MLB4645451007",
-    "productKey": "439eedc782437843",
-    "titleHash": "ee1574e1e4920d45",
-    "category": "suplemento",
-    "sourceCategoryId": "MLB438178",
-    "reservedAt": "2026-11-19T23:01:47.361Z"
-  },
-  {
-    "itemId": "MLB4243087779",
-    "productKey": "24d6a63070e9986c",
-    "titleHash": "8619082c61209216",
-    "category": "lavadora",
-    "sourceCategoryId": "MLB438282",
-    "reservedAt": "2026-11-19T23:01:47.361Z"
-  },
-  {
-    "itemId": "MLB5281065549",
-    "productKey": "07d87d6eac1d4eb5",
-    "titleHash": "43238e00cbb06f9b",
-    "category": "computador",
-    "sourceCategoryId": "MLB430637",
-    "reservedAt": "2026-11-19T23:16:47.280Z"
-  },
-  {
     "itemId": "MLB7656919098",
     "productKey": "e79cacc5bfe33eec",
     "titleHash": "248c99ad0a42a4d3",
@@ -4798,5 +4766,37 @@
     "category": "computador",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T17:15:39.495Z"
+  },
+  {
+    "itemId": "MLB77671293",
+    "productKey": "4552bc2aabb11dcc",
+    "titleHash": "830bbb135a3c19cb",
+    "category": "esporte",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:30:43.884Z"
+  },
+  {
+    "itemId": "MLB54514525",
+    "productKey": "21d3a19126bca8c6",
+    "titleHash": "9f219e6dfad61d2b",
+    "category": "casa",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:30:43.884Z"
+  },
+  {
+    "itemId": "MLB-4049279695-tnis-kappa-park-20-original-unissex-caminhada-academia-_JM",
+    "productKey": "68003c1ecb040acb",
+    "titleHash": "f779df3efd8ada7f",
+    "category": "moda",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:30:43.884Z"
+  },
+  {
+    "itemId": "MLBU3170572948",
+    "productKey": "04cdde88025fbc69",
+    "titleHash": "31fdec0a2dbf2c8d",
+    "category": "outros:camera-infantil",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T17:30:43.884Z"
   }
 ]
