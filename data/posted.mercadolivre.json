@@ -1,37 +1,5 @@
 [
   {
-    "itemId": "MLB5559856083",
-    "productKey": "80c42abc876c68f5",
-    "titleHash": "ee3a8223a1a9bec0",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB31683",
-    "reservedAt": "2026-11-20T01:01:49.931Z"
-  },
-  {
-    "itemId": "MLB5512147827",
-    "productKey": "ec4b519641a7ee71",
-    "titleHash": "06afb66b058ef953",
-    "category": "relógio",
-    "sourceCategoryId": "MLB26426",
-    "reservedAt": "2026-11-20T01:16:37.723Z"
-  },
-  {
-    "itemId": "MLB4046267101",
-    "productKey": "94515ec2fc819af0",
-    "titleHash": "2602411dd1f9a94a",
-    "category": "eletrodoméstico",
-    "sourceCategoryId": "MLB9188",
-    "reservedAt": "2026-11-20T01:31:44.331Z"
-  },
-  {
-    "itemId": "MLB5542146243",
-    "productKey": "1605bae93a4b4381",
-    "titleHash": "f52975726d30d711",
-    "category": "cozinha",
-    "sourceCategoryId": "MLB1618",
-    "reservedAt": "2026-11-20T01:46:36.917Z"
-  },
-  {
     "itemId": "MLB6744294070",
     "productKey": "599342f11b3c3501",
     "titleHash": "b8c8c51b8b202d3f",
@@ -4798,5 +4766,37 @@
     "category": "games",
     "sourceCategoryId": "site",
     "reservedAt": "2026-11-28T18:15:40.837Z"
+  },
+  {
+    "itemId": "MLB-5532075156-tnis-kappa-pulse-rx-unissex-corrida-conforto-_JM",
+    "productKey": "39e958c105054e5d",
+    "titleHash": "d1d2e4512a7a14b0",
+    "category": "moda",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:30:39.327Z"
+  },
+  {
+    "itemId": "MLB29243287",
+    "productKey": "9cd63d69cbd7872d",
+    "titleHash": "3e82b50c945ba438",
+    "category": "esporte",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:30:39.327Z"
+  },
+  {
+    "itemId": "MLB44784310",
+    "productKey": "cd12aeca744d342d",
+    "titleHash": "04ae12d9940ed56c",
+    "category": "outros:aparador-de",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:30:39.327Z"
+  },
+  {
+    "itemId": "MLB34075437",
+    "productKey": "58df605219ce2bc1",
+    "titleHash": "3314a2bafcb9a8b4",
+    "category": "beleza",
+    "sourceCategoryId": "site",
+    "reservedAt": "2026-11-28T18:30:39.327Z"
   }
 ]
